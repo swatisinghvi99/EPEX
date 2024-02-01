@@ -38,7 +38,7 @@ function UpdateprojectInfo() {
 
   to_from_info = JSON.parse(
     readTextFile(
-      `./UPDATED_Data/new/new_month_intervals/${alias_to_name[this_project]}.json`
+      `./UPDATED_Data/new/new_month_intervals/ADAAA.json`
     )
   );
 

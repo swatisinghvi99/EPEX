@@ -5,7 +5,7 @@ var d = {
       "Ankaios",
       "APP4MC",
       "ArchE",
-      "Automated Driving Open Research",
+      "ADORe",
       "Autowrx",
       "BlueChi",
       "Chariott",
@@ -125,12 +125,13 @@ var d = {
     "Jakarta XML Binding",
     "Jakarta XML Web Services"
   ],
-  "Eclipse Foundation": [
-    "Community",
-    "Drupal",
-    "Simultaneous Release",
-    "Working Groups",
-    "z_Archived"
+  "Adoptium": [
+    "Adoptium Incubator",
+    "AQAvit",
+    "Migration Toolkit for Java",
+    "Mission Control",
+    "Temurin Compliance",
+    "Temurin"
   ],
   "IoT": [
     "4diac",
@@ -218,7 +219,7 @@ var d = {
   "EMF Refactor",
   "Henshin",
   "Modeling Framework - Container Project",
-  "CDO Model Repository",
+  "EMF - CDO",
   "EMF",
   "EMF DM",
   "Generation Factories (EGF)",
@@ -233,20 +234,19 @@ var d = {
   "Xpect",
   "Xsemantics",
   "Model Development Tools (MDT)",
-  "BPMN2",
+  "MDT - BPMN2",
   "eTrice",
   "MDT UML2",
   "MoDisco",
   "OCL",
   "Papyrus",
   "Requirements Modeling Framework",
-  "Model To Text (M2T)",
-  "Acceleo",
-  "Xpand",
+  "M2T - Acceleo",
+  "M2T - Xpand",
   "Model-to-Model Transformation (MMT)",
-  "ATL",
+  "MMT - ATL",
   "QVT Operational",
-  "QVTd (QVT Declarative)",
+  "QVTd",
   "Textual Modeling Framework",
   "Xtext"
 ],
@@ -284,7 +284,7 @@ var d = {
 "Technology": [
   "SimRel",
   "Accessibility Tools Framework",
-  "Advanced Scripting Environment",
+  "EASE",
   "Aidge",
   "Babel",
   "BIRT",
@@ -304,7 +304,7 @@ var d = {
   "e(fx)clipse",
   "EclEmma",
   "EGerrit",
-  "EGit: Git Integration for Eclipse",
+  "EGit",
   "ESCET",
   "Free BIRD Tools",
   "Furo",
@@ -314,7 +314,7 @@ var d = {
   "ImageN",
   "IoT-Testware",
   "jbom",
-  "JGit: Java implementation of Git",
+  "JGit",
   "Jifa",
   "JNoSQL",
   "JustJ",
@@ -432,20 +432,18 @@ var d = {
 ]
 };
 
-var categories = ["Automotive", "DT", "ECD","Eclipse Project","EE4J","Eclipse Foundation","IoT","Location Tech","Modeling","PolarSys","Runtime","SOA","Technology","Tools","Science","WebTools"]; // Add your categories here
+var categories = ["Automotive", "DT", "ECD","Eclipse Project","EE4J","Adoptium","IoT","Location Tech","Modeling","PolarSys","Runtime","SOA","Technology","Tools","Science","WebTools"];
 
 function populateCombinedDropdown() {
   var combinedDropdown = document.getElementById('txt_ide');
-  combinedDropdown.innerHTML = ''; // Clear current options
+  combinedDropdown.innerHTML = ''; 
 
-  // Add default option
   var defaultOption = document.createElement('option');
   defaultOption.textContent = 'Select a project';
   defaultOption.disabled = true;
   defaultOption.selected = true;
   combinedDropdown.appendChild(defaultOption);
 
-  // Add the rest of the options as before
   for (var category in d) {
     var group = document.createElement('optgroup');
     group.label = category;
@@ -460,7 +458,6 @@ function populateCombinedDropdown() {
     combinedDropdown.appendChild(group);
   }
 }
-
 
 function filterDropdown() {
   var input, filter, optgroups, options, i, j, hasVisibleChildren;
@@ -479,14 +476,12 @@ function filterDropdown() {
         options[j].style.display = "none";
       }
     }
-    // Hide or show optgroups based on if they have visible children
     optgroups[i].style.display = hasVisibleChildren ? "" : "none";
   }
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-  populateCombinedDropdown(); // This will populate your dropdown on page load
+  populateCombinedDropdown();
 });
 
-// This will attach the filterDropdown function to the search input's keyup event
 document.getElementById('searchInput').addEventListener('keyup', filterDropdown);
