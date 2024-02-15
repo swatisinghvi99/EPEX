@@ -1,13 +1,13 @@
 {
     "project_name": "Webtools Releng",
-    "project_url": "automotive.ambientlight",
-    "alias": "ambientlight",
-    "description": "",
-    "sponsor": "Incubator",
-    "mentor": "Garrett Rooney, Paul Querna",
-    "start_date": "2006-06-06",
-    "end_date": "2008-11-08",
-    "status": "Incubating",
-    "incubation_time": "29",
-    "tech": "Automotive"
+    "project_url": "https://projects.eclipse.org/projects/webtools.releng",
+    "status": "Mature",
+    "tech": "Web Tools Platform",
+    "releases": [
+        {
+            "name": "3.13",
+            "url": "https://projects.eclipse.org/projects/webtools.releng/releases/3.13",
+            "date": "2019-03-20"
+        }
+    ]
 }

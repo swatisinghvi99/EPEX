@@ -1,0 +1,53 @@
+{
+    "project_name": "Eclipse Grizzly",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.grizzly",
+    "status": "Mature",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "4.0.2",
+            "url": "https://projects.eclipse.org/projects/ee4j.grizzly/releases/4.0.2",
+            "date": "2023-12-19"
+        },
+        {
+            "name": "4.0.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.grizzly/releases/4.0.1",
+            "date": "2023-10-28"
+        },
+        {
+            "name": "4.0.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.grizzly/releases/4.0.0",
+            "date": "2022-06-14"
+        },
+        {
+            "name": "1.3.16 (grizzly-thrift)",
+            "url": "https://projects.eclipse.org/projects/ee4j.grizzly/releases/1.3.16-grizzly-thrift",
+            "date": "2022-02-24"
+        },
+        {
+            "name": "3.0.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.grizzly/releases/3.0.0",
+            "date": "2020-12-04"
+        },
+        {
+            "name": "2.0.0 (grizzly-npn)",
+            "url": "https://projects.eclipse.org/projects/ee4j.grizzly/releases/2.0.0-grizzly-npn",
+            "date": "2020-12-02"
+        },
+        {
+            "name": "1.3.15 (grizzly-thrift)",
+            "url": "https://projects.eclipse.org/projects/ee4j.grizzly/releases/1.3.15-grizzly-thrift",
+            "date": "2019-11-14"
+        },
+        {
+            "name": "1.3.19 (grizzly-memcached)",
+            "url": "https://projects.eclipse.org/projects/ee4j.grizzly/releases/1.3.19-grizzly-memcached",
+            "date": "2019-11-11"
+        },
+        {
+            "name": "2.4.4",
+            "url": "https://projects.eclipse.org/projects/ee4j.grizzly/releases/2.4.4",
+            "date": "2018-11-30"
+        }
+    ]
+}

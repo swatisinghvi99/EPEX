@@ -1,0 +1,18 @@
+{
+    "project_name": "Eclipse Temurin",
+    "project_url": "https://projects.eclipse.org/projects/adoptium.temurin",
+    "status": "Mature",
+    "tech": "Adoptium",
+    "releases": [
+        {
+            "name": "2021.07.20",
+            "url": "https://projects.eclipse.org/projects/adoptium.temurin/releases/2021.07.20",
+            "date": "2021-07-20"
+        },
+        {
+            "name": "2021.07.07",
+            "url": "https://projects.eclipse.org/projects/adoptium.temurin/releases/2021.07.07",
+            "date": "2021-07-07"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "project_name": "Eclipse ChemClipse",
+    "project_url": "https://projects.eclipse.org/projects/science.chemclipse",
+    "status": "Incubating",
+    "tech": "Science",
+    "releases": [
+        {
+            "name": "0.8.0",
+            "url": "https://projects.eclipse.org/projects/science.chemclipse/releases/0.8.0",
+            "date": "2020-04-15"
+        },
+        {
+            "name": "0.7.0",
+            "url": "https://projects.eclipse.org/projects/technology.chemclipse/releases/0.7.0",
+            "date": "2016-09-30"
+        }
+    ]
+}

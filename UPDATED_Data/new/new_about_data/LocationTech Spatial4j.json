@@ -1,0 +1,18 @@
+{
+    "project_name": "LocationTech Spatial4j",
+    "project_url": "https://projects.eclipse.org/projects/locationtech.spatial4j",
+    "status": "Mature",
+    "tech": "LocationTech",
+    "releases": [
+        {
+            "name": "0.8",
+            "url": "https://projects.eclipse.org/projects/locationtech.spatial4j/releases/0.8",
+            "date": "2020-11-26"
+        },
+        {
+            "name": "0.7",
+            "url": "https://projects.eclipse.org/projects/locationtech.spatial4j/releases/0.7",
+            "date": "2017-12-27"
+        }
+    ]
+}

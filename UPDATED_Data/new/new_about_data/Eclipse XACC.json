@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse XACC",
+    "project_url": "https://projects.eclipse.org/projects/science.xacc",
+    "status": "Incubating",
+    "tech": "Science",
+    "releases": [
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/science.xacc/releases/1.0.0",
+            "date": "2019-10-02"
+        }
+    ]
+}

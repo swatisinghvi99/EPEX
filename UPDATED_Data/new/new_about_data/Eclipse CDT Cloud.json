@@ -1,0 +1,18 @@
+{
+    "project_name": "Eclipse CDT Cloud",
+    "project_url": "https://projects.eclipse.org/projects/ecd.cdt-cloud",
+    "status": "Incubating",
+    "tech": "Cloud Development",
+    "releases": [
+        {
+            "name": "Restructuring Review",
+            "url": "https://projects.eclipse.org/projects/ecd.cdt-cloud/reviews/restructuring-review",
+            "date": "2023-01-25"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/ecd.cdt.cloud/reviews/creation-review",
+            "date": "2021-12-01"
+        }
+    ]
+}

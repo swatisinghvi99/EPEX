@@ -1,0 +1,28 @@
+{
+    "project_name": "Eclipse Signalling Engineering Toolbox",
+    "project_url": "https://projects.eclipse.org/projects/technology.set",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "2.2.0",
+            "url": "https://projects.eclipse.org/projects/technology.set/releases/2.2.0",
+            "date": "2024-02-28"
+        },
+        {
+            "name": "2.1.0",
+            "url": "https://projects.eclipse.org/projects/technology.set/releases/2.1.0",
+            "date": "2023-10-31"
+        },
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.set/releases/2.0.0",
+            "date": "2023-06-28"
+        },
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/technology.set/releases/1.1.0",
+            "date": "2023-05-31"
+        }
+    ]
+}

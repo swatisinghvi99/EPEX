@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse SommR",
+    "project_url": "https://projects.eclipse.org/projects/automotive.sommr",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/automotive.sommr/reviews/creation-review",
+            "date": "2022-07-22"
+        }
+    ]
+}

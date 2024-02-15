@@ -1,0 +1,138 @@
+{
+    "project_name": "Eclipse RedDeer",
+    "project_url": "https://projects.eclipse.org/projects/technology.reddeer",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "4.7.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/4.7.0",
+            "date": "2023-09-13"
+        },
+        {
+            "name": "4.6.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/4.6.0",
+            "date": "2023-06-14"
+        },
+        {
+            "name": "4.5.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/4.5.0",
+            "date": "2023-03-15"
+        },
+        {
+            "name": "4.4.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/4.4.0",
+            "date": "2022-12-07"
+        },
+        {
+            "name": "4.3.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/4.3.0",
+            "date": "2022-09-14"
+        },
+        {
+            "name": "4.2.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/4.2.0",
+            "date": "2022-06-15"
+        },
+        {
+            "name": "4.1.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/4.1.0",
+            "date": "2022-03-16"
+        },
+        {
+            "name": "4.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/4.0.0",
+            "date": "2021-12-08"
+        },
+        {
+            "name": "3.5.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/3.5.0",
+            "date": "2021-09-15"
+        },
+        {
+            "name": "3.4.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/3.4.0",
+            "date": "2021-06-16"
+        },
+        {
+            "name": "3.3.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/3.3.0",
+            "date": "2021-03-17"
+        },
+        {
+            "name": "3.2.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/3.2.0",
+            "date": "2020-12-16"
+        },
+        {
+            "name": "3.1.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/3.1.0",
+            "date": "2020-09-16"
+        },
+        {
+            "name": "3.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/3.0.0",
+            "date": "2020-06-17"
+        },
+        {
+            "name": "2.9.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/2.9.0",
+            "date": "2020-03-18"
+        },
+        {
+            "name": "2.8.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/2.8.0",
+            "date": "2019-12-18"
+        },
+        {
+            "name": "2.7.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/2.7.0",
+            "date": "2019-09-18"
+        },
+        {
+            "name": "2.6.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/2.6.0",
+            "date": "2019-06-19"
+        },
+        {
+            "name": "2.5.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/2.5.0",
+            "date": "2019-03-20"
+        },
+        {
+            "name": "2.4.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/2.4.0",
+            "date": "2018-12-19"
+        },
+        {
+            "name": "2.3.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/2.3.0",
+            "date": "2018-09-22"
+        },
+        {
+            "name": "2.2.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/2.2.0",
+            "date": "2018-06-27"
+        },
+        {
+            "name": "2.1.1",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/2.1.1",
+            "date": "2018-05-14"
+        },
+        {
+            "name": "2.1.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/2.1.0",
+            "date": "2018-03-29"
+        },
+        {
+            "name": "2.0.1",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/2.0.1",
+            "date": "2017-12-07"
+        },
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.reddeer/releases/2.0.0",
+            "date": "2017-09-19"
+        }
+    ]
+}

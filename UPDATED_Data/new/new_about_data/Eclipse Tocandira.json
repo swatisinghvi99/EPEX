@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse Tocandira",
+    "project_url": "https://projects.eclipse.org/projects/iot.tocandira",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot.tocandira/reviews/creation-review",
+            "date": "2023-05-10"
+        }
+    ]
+}

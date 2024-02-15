@@ -1,13 +1,38 @@
 {
     "project_name": "Gemini Management",
-    "project_url": "automotive.ambientlight",
-    "alias": "ambientlight",
-    "description": "",
-    "sponsor": "Incubator",
-    "mentor": "Garrett Rooney, Paul Querna",
-    "start_date": "2006-06-06",
-    "end_date": "2008-11-08",
-    "status": "Incubating",
-    "incubation_time": "29",
-    "tech": "Automotive"
+    "project_url": "https://projects.eclipse.org/projects/rt.gemini.management",
+    "status": "Mature",
+    "tech": "RT",
+    "releases": [
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/release/2.0.0-20",
+            "date": "2013-05-01"
+        },
+        {
+            "name": "1.0.4",
+            "url": "https://projects.eclipse.org/projects/rt.gemini.management/releases/1.0.4",
+            "date": "2012-10-31"
+        },
+        {
+            "name": "1.0.3",
+            "url": "https://projects.eclipse.org/projects/release/1.0.3-2",
+            "date": "2012-07-17"
+        },
+        {
+            "name": "1.0.2",
+            "url": "https://projects.eclipse.org/projects/release/1.0.2-6",
+            "date": "2012-05-29"
+        },
+        {
+            "name": "1.0.1",
+            "url": "https://projects.eclipse.org/projects/release/1.0.1-8",
+            "date": "2012-03-08"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/release/1.0.0-32",
+            "date": "2012-02-02"
+        }
+    ]
 }

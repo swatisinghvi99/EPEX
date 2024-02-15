@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse Cloud Development",
+    "project_url": "https://projects.eclipse.org/projects/ecd",
+    "status": "Mature",
+    "tech": "Cloud Development",
+    "releases": [
+        {
+            "name": "Top-Level Project Creation",
+            "url": "https://projects.eclipse.org/projects/ecd/reviews/creation",
+            "date": "2014-11-05"
+        }
+    ]
+}

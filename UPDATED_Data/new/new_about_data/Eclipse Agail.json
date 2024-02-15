@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse Agail",
+    "project_url": "https://projects.eclipse.org/projects/iot.agail",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot.agail/reviews/creation-review",
+            "date": "2016-11-02"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse SCM",
+    "project_url": "https://projects.eclipse.org/projects/automotive.scm",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/automotive.scm/reviews/creation-review",
+            "date": "2023-02-15"
+        }
+    ]
+}

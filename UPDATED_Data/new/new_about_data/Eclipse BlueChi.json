@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse BlueChi",
+    "project_url": "https://projects.eclipse.org/projects/automotive.bluechi",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "0.6.0",
+            "url": "https://projects.eclipse.org/projects/automotive.bluechi/releases/0.6.0",
+            "date": "2023-11-13"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "project_name": "Eclipse JNoSQL",
+    "project_url": "https://projects.eclipse.org/projects/technology.jnosql",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/technology.jnosql/releases/1.1.0",
+            "date": "2024-02-12"
+        },
+        {
+            "name": "1.0.1",
+            "url": "https://projects.eclipse.org/projects/technology.jnosql/releases/1.0.1",
+            "date": "2023-07-31"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.jnosql/releases/1.0.0",
+            "date": "2023-06-21"
+        },
+        {
+            "name": "0.0.9",
+            "url": "https://projects.eclipse.org/projects/technology.jnosql/releases/0.0.9",
+            "date": "2019-05-15"
+        },
+        {
+            "name": "0.0.8",
+            "url": "https://projects.eclipse.org/projects/technology.jnosql/releases/0.0.8",
+            "date": "2019-02-20"
+        },
+        {
+            "name": "0.0.7",
+            "url": "https://projects.eclipse.org/projects/technology.jnosql/releases/0.0.7",
+            "date": "2018-10-03"
+        },
+        {
+            "name": "0.0.6",
+            "url": "https://projects.eclipse.org/projects/technology.jnosql/releases/0.0.6",
+            "date": "2018-06-20"
+        },
+        {
+            "name": "0.0.5",
+            "url": "https://projects.eclipse.org/projects/technology.jnosql/releases/0.0.5",
+            "date": "2018-04-04"
+        },
+        {
+            "name": "0.0.4",
+            "url": "https://projects.eclipse.org/projects/technology.jnosql/releases/0.0.4",
+            "date": "2018-01-24"
+        },
+        {
+            "name": "0.0.3",
+            "url": "https://projects.eclipse.org/projects/technology.jnosql/releases/0.0.3",
+            "date": "2017-10-14"
+        },
+        {
+            "name": "0.0.2",
+            "url": "https://projects.eclipse.org/projects/technology.jnosql/releases/0.0.2",
+            "date": "2017-06-25"
+        },
+        {
+            "name": "0.0.1",
+            "url": "https://projects.eclipse.org/projects/technology.jnosql/releases/0.0.1",
+            "date": "2017-03-15"
+        }
+    ]
+}

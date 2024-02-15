@@ -1,0 +1,18 @@
+{
+    "project_name": "Eclipse Scanning",
+    "project_url": "https://projects.eclipse.org/projects/science.scanning",
+    "status": "Incubating",
+    "tech": "Science",
+    "releases": [
+        {
+            "name": "Move Review",
+            "url": "https://projects.eclipse.org/projects/technology.scanning/reviews/move-review",
+            "date": "2016-12-07"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.scanning/reviews/creation-review",
+            "date": "2016-09-21"
+        }
+    ]
+}

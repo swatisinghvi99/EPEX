@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse UPM",
+    "project_url": "https://projects.eclipse.org/projects/iot.upm",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot.upm/reviews/creation-review",
+            "date": "2019-01-02"
+        }
+    ]
+}

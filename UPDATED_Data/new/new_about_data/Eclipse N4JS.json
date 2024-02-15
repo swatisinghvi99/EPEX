@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse N4JS",
+    "project_url": "https://projects.eclipse.org/projects/technology.n4js",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.n4js/reviews/creation-review",
+            "date": "2017-04-05"
+        }
+    ]
+}

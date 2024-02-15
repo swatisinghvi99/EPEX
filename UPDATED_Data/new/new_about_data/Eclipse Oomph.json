@@ -1,0 +1,168 @@
+{
+    "project_name": "Eclipse Oomph",
+    "project_url": "https://projects.eclipse.org/projects/tools.oomph",
+    "status": "Mature",
+    "tech": "Tools",
+    "releases": [
+        {
+            "name": "1.31.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.31.0",
+            "date": "2023-12-06"
+        },
+        {
+            "name": "1.30.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.30.0",
+            "date": "2023-09-13"
+        },
+        {
+            "name": "1.29",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.29",
+            "date": "2023-06-14"
+        },
+        {
+            "name": "1.28.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.28.0",
+            "date": "2023-03-15"
+        },
+        {
+            "name": "1.27.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.27.0",
+            "date": "2022-12-07"
+        },
+        {
+            "name": "1.26.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.26.0",
+            "date": "2022-09-14"
+        },
+        {
+            "name": "1.25.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.25.0",
+            "date": "2022-06-15"
+        },
+        {
+            "name": "1.24.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.24.0",
+            "date": "2022-03-16"
+        },
+        {
+            "name": "1.23.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.23.0",
+            "date": "2021-12-03"
+        },
+        {
+            "name": "1.22.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.22.0",
+            "date": "2021-09-06"
+        },
+        {
+            "name": "1.21.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.21.0",
+            "date": "2021-06-04"
+        },
+        {
+            "name": "1.20.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.20.0",
+            "date": "2021-03-17"
+        },
+        {
+            "name": "1.19.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.19.0",
+            "date": "2020-12-04"
+        },
+        {
+            "name": "1.18.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.18.0",
+            "date": "2020-09-04"
+        },
+        {
+            "name": "1.17.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.17.0",
+            "date": "2020-06-17"
+        },
+        {
+            "name": "1.16.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.16.0",
+            "date": "2020-03-11"
+        },
+        {
+            "name": "1.15.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.15.0",
+            "date": "2019-12-11"
+        },
+        {
+            "name": "1.14.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.14.0",
+            "date": "2019-09-19"
+        },
+        {
+            "name": "1.13.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.13.0",
+            "date": "2019-06-19"
+        },
+        {
+            "name": "1.12.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.12.0",
+            "date": "2019-03-20"
+        },
+        {
+            "name": "1.11.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.11.0",
+            "date": "2018-12-11"
+        },
+        {
+            "name": "1.10.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.10.0",
+            "date": "2018-09-19"
+        },
+        {
+            "name": "1.9.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.9.0",
+            "date": "2018-06-27"
+        },
+        {
+            "name": "1.8.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.8.0",
+            "date": "2017-06-28"
+        },
+        {
+            "name": "1.7.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.7.0",
+            "date": "2017-03-23"
+        },
+        {
+            "name": "1.6.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.6.0",
+            "date": "2016-12-21"
+        },
+        {
+            "name": "1.5.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.5.0",
+            "date": "2016-09-28"
+        },
+        {
+            "name": "1.4.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.4.0",
+            "date": "2016-06-22"
+        },
+        {
+            "name": "1.3.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.3.0",
+            "date": "2016-02-26"
+        },
+        {
+            "name": "1.2.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.2.0",
+            "date": "2015-09-25"
+        },
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.1.0",
+            "date": "2015-06-24"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/tools.oomph/releases/1.0.0",
+            "date": "2014-12-12"
+        }
+    ]
+}

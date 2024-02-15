@@ -1,0 +1,118 @@
+{
+    "project_name": "Eclipse RCP Testing Tool",
+    "project_url": "https://projects.eclipse.org/projects/technology.rcptt",
+    "status": "Mature",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "2.5.4",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/2.5.4",
+            "date": "2022-10-02"
+        },
+        {
+            "name": "2.5.3",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/2.5.3",
+            "date": "2022-05-04"
+        },
+        {
+            "name": "2.5.2",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/2.5.2",
+            "date": "2022-04-25"
+        },
+        {
+            "name": "2.5.1",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/2.5.1",
+            "date": "2020-03-18"
+        },
+        {
+            "name": "2.5.0",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/2.5.0",
+            "date": "2020-01-15"
+        },
+        {
+            "name": "2.4.4",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/2.4.4",
+            "date": "2019-10-18"
+        },
+        {
+            "name": "2.4.3",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/2.4.3",
+            "date": "2019-09-19"
+        },
+        {
+            "name": "2.4.2",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/2.4.2",
+            "date": "2019-05-08"
+        },
+        {
+            "name": "2.4.1",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/2.4.1",
+            "date": "2019-03-22"
+        },
+        {
+            "name": "2.4.0",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/2.4.0",
+            "date": "2019-03-03"
+        },
+        {
+            "name": "2.3.1",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/2.3.1",
+            "date": "2018-09-22"
+        },
+        {
+            "name": "2.3.0 (Photon)",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/2.3.0-photon",
+            "date": "2018-06-27"
+        },
+        {
+            "name": "2.2 (Oxygen)",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/2.2-oxygen",
+            "date": "2017-06-28"
+        },
+        {
+            "name": "2.1 (Neon)",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/2.1-neon",
+            "date": "2016-06-26"
+        },
+        {
+            "name": "2.0.2",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/2.0.2",
+            "date": "2015-11-10"
+        },
+        {
+            "name": "2.0.1",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/2.0.1",
+            "date": "2015-09-25"
+        },
+        {
+            "name": "2.0 (Mars)",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/2.0-mars",
+            "date": "2015-06-24"
+        },
+        {
+            "name": "1.5.5",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/1.5.5",
+            "date": "2015-03-02"
+        },
+        {
+            "name": "1.5.4",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/1.5.4",
+            "date": "2014-12-18"
+        },
+        {
+            "name": "1.5.3",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/1.5.3",
+            "date": "2014-10-23"
+        },
+        {
+            "name": "1.5.2",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/1.5.2",
+            "date": "2014-09-12"
+        },
+        {
+            "name": "1.5.1",
+            "url": "https://projects.eclipse.org/projects/technology.rcptt/releases/1.5.1",
+            "date": "2014-08-15"
+        }
+    ]
+}

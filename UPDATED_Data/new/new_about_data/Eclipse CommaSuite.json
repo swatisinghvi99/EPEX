@@ -1,0 +1,78 @@
+{
+    "project_name": "Eclipse CommaSuite",
+    "project_url": "https://projects.eclipse.org/projects/technology.comma",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.comma/releases/2.0.0",
+            "date": "2023-10-03"
+        },
+        {
+            "name": "1.2.0",
+            "url": "https://projects.eclipse.org/projects/technology.comma/releases/1.2.0",
+            "date": "2022-09-07"
+        },
+        {
+            "name": "1.1.2",
+            "url": "https://projects.eclipse.org/projects/technology.comma/releases/1.1.2",
+            "date": "2022-07-25"
+        },
+        {
+            "name": "1.1.1",
+            "url": "https://projects.eclipse.org/projects/technology.comma/releases/1.1.1",
+            "date": "2022-06-08"
+        },
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/technology.comma/releases/1.1.0",
+            "date": "2022-04-14"
+        },
+        {
+            "name": "1.0.4",
+            "url": "https://projects.eclipse.org/projects/technology.comma/releases/1.0.4",
+            "date": "2022-02-23"
+        },
+        {
+            "name": "1.0.3",
+            "url": "https://projects.eclipse.org/projects/technology.comma/releases/1.0.3",
+            "date": "2022-02-15"
+        },
+        {
+            "name": "1.0.2",
+            "url": "https://projects.eclipse.org/projects/technology.comma/releases/1.0.2",
+            "date": "2022-01-26"
+        },
+        {
+            "name": "1.0.1",
+            "url": "https://projects.eclipse.org/projects/technology.comma/releases/1.0.1",
+            "date": "2022-01-18"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.comma/releases/1.0.0",
+            "date": "2021-12-21"
+        },
+        {
+            "name": "0.4.0",
+            "url": "https://projects.eclipse.org/projects/technology.comma/releases/0.4.0",
+            "date": "2021-10-15"
+        },
+        {
+            "name": "0.3.0",
+            "url": "https://projects.eclipse.org/projects/technology.comma/releases/0.3.0",
+            "date": "2021-08-25"
+        },
+        {
+            "name": "0.2.0",
+            "url": "https://projects.eclipse.org/projects/technology.comma/releases/0.2.0",
+            "date": "2021-06-21"
+        },
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/technology.comma/releases/0.1.0",
+            "date": "2021-05-07"
+        }
+    ]
+}

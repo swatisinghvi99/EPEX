@@ -1,0 +1,58 @@
+{
+    "project_name": "Eclipse Subversive SVN Team Provider",
+    "project_url": "https://projects.eclipse.org/projects/technology.subversive",
+    "status": "Mature",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "5.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.subversive/releases/5.0.0",
+            "date": "2023-12-06"
+        },
+        {
+            "name": "4.8.0",
+            "url": "https://projects.eclipse.org/projects/technology.subversive/releases/4.8.0",
+            "date": "2022-10-05"
+        },
+        {
+            "name": "4.0.5",
+            "url": "https://projects.eclipse.org/projects/technology.subversive/releases/4.0.5",
+            "date": "2017-06-28"
+        },
+        {
+            "name": "4.0",
+            "url": "https://projects.eclipse.org/projects/technology.subversive/releases/4.0",
+            "date": "2016-06-22"
+        },
+        {
+            "name": "3.0",
+            "url": "https://projects.eclipse.org/projects/technology.subversive/releases/3.0",
+            "date": "2015-06-24"
+        },
+        {
+            "name": "2.0",
+            "url": "https://projects.eclipse.org/projects/technology.subversive/releases/2.0",
+            "date": "2014-06-25"
+        },
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/technology.subversive/releases/1.1.0",
+            "date": "2013-06-26"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/release/1.0.0-58",
+            "date": "2012-06-27"
+        },
+        {
+            "name": "0.7.9",
+            "url": "https://projects.eclipse.org/projects/release/0.7.9",
+            "date": "2011-06-22"
+        },
+        {
+            "name": "0.7.0",
+            "url": "https://projects.eclipse.org/projects/release/0.7.0-28",
+            "date": "2009-05-06"
+        }
+    ]
+}

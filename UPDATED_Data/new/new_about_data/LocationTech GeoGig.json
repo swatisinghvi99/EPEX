@@ -1,0 +1,18 @@
+{
+    "project_name": "LocationTech GeoGig",
+    "project_url": "https://projects.eclipse.org/projects/locationtech.geogig",
+    "status": "Incubating",
+    "tech": "LocationTech",
+    "releases": [
+        {
+            "name": "1.2.0",
+            "url": "https://projects.eclipse.org/projects/locationtech.geogig/releases/1.2.0",
+            "date": "2017-11-15"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/locationtech.geogig/releases/1.0.0",
+            "date": "2016-12-22"
+        }
+    ]
+}

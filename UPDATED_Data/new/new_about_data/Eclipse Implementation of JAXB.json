@@ -1,0 +1,78 @@
+{
+    "project_name": "Eclipse Implementation of JAXB",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.jaxb-impl",
+    "status": "Mature",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "4.0.3",
+            "url": "https://projects.eclipse.org/projects/ee4j.jaxb-impl/releases/4.0.3",
+            "date": "2023-06-09"
+        },
+        {
+            "name": "2.3.8",
+            "url": "https://projects.eclipse.org/projects/ee4j.jaxb-impl/releases/2.3.8",
+            "date": "2023-02-03"
+        },
+        {
+            "name": "4.0.2",
+            "url": "https://projects.eclipse.org/projects/ee4j.jaxb-impl/releases/4.0.2",
+            "date": "2023-01-27"
+        },
+        {
+            "name": "2.3.7",
+            "url": "https://projects.eclipse.org/projects/ee4j.jaxb-impl/releases/2.3.7",
+            "date": "2022-10-19"
+        },
+        {
+            "name": "4.0.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.jaxb-impl/releases/4.0.1",
+            "date": "2022-09-15"
+        },
+        {
+            "name": "4.0.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.jaxb-impl/releases/4.0.0",
+            "date": "2022-05-31"
+        },
+        {
+            "name": "2.3.6",
+            "url": "https://projects.eclipse.org/projects/ee4j.jaxb-impl/releases/2.3.6",
+            "date": "2022-01-27"
+        },
+        {
+            "name": "3.0.2",
+            "url": "https://projects.eclipse.org/projects/ee4j.jaxb-impl/releases/3.0.2",
+            "date": "2021-07-20"
+        },
+        {
+            "name": "2.3.5",
+            "url": "https://projects.eclipse.org/projects/ee4j.jaxb-impl/releases/2.3.5",
+            "date": "2021-07-20"
+        },
+        {
+            "name": "3.0.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.jaxb-impl/releases/3.0.1",
+            "date": "2021-04-14"
+        },
+        {
+            "name": "2.3.4",
+            "url": "https://projects.eclipse.org/projects/ee4j.jaxb-impl/releases/2.3.4",
+            "date": "2021-04-13"
+        },
+        {
+            "name": "3.0.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.jaxb-impl/releases/3.0.0",
+            "date": "2020-11-10"
+        },
+        {
+            "name": "2.3.3",
+            "url": "https://projects.eclipse.org/projects/ee4j.jaxb-impl/releases/2.3.3",
+            "date": "2020-04-14"
+        },
+        {
+            "name": "2.3.2",
+            "url": "https://projects.eclipse.org/projects/ee4j.jaxb-impl/releases/2.3.2",
+            "date": "2018-12-14"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse Ambient Light Services",
+    "project_url": "https://projects.eclipse.org/projects/automotive.ambientlight",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/automotive.ambientlight/reviews/creation-review",
+            "date": "2022-09-21"
+        }
+    ]
+}

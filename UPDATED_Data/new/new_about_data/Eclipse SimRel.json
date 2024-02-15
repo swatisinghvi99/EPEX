@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse SimRel",
+    "project_url": "https://projects.eclipse.org/projects/technology.simrel",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.simrel/reviews/creation-review",
+            "date": "2023-10-11"
+        }
+    ]
+}

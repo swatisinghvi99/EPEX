@@ -1,0 +1,18 @@
+{
+    "project_name": "Eclipse Xsemantics",
+    "project_url": "https://projects.eclipse.org/projects/modeling.xsemantics",
+    "status": "Incubating",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "Progress Review 2021-10",
+            "url": "https://projects.eclipse.org/projects/modeling.xsemantics/reviews/progress-review-2021-10",
+            "date": "2021-09-08"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/modeling.xsemantics/reviews/creation-review",
+            "date": "2017-08-16"
+        }
+    ]
+}

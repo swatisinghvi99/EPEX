@@ -1,0 +1,18 @@
+{
+    "project_name": "Eclipse TEA (Tasking Engine Advanced)",
+    "project_url": "https://projects.eclipse.org/projects/technology.tea",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "1.2.0",
+            "url": "https://projects.eclipse.org/projects/technology.tea/releases/1.2.0",
+            "date": "2022-04-15"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.tea/releases/1.0.0",
+            "date": "2019-02-13"
+        }
+    ]
+}

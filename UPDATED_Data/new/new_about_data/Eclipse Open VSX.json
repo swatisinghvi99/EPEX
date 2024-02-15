@@ -1,0 +1,73 @@
+{
+    "project_name": "Eclipse Open VSX",
+    "project_url": "https://projects.eclipse.org/projects/ecd.openvsx",
+    "status": "Incubating",
+    "tech": "Cloud Development",
+    "releases": [
+        {
+            "name": "0.11.1",
+            "url": "https://projects.eclipse.org/projects/ecd.openvsx/releases/0.11.1",
+            "date": "2023-04-18"
+        },
+        {
+            "name": "0.11.0",
+            "url": "https://projects.eclipse.org/projects/ecd.openvsx/releases/0.11.0",
+            "date": "2023-04-18"
+        },
+        {
+            "name": "0.10.0",
+            "url": "https://projects.eclipse.org/projects/ecd.openvsx/releases/0.10.0",
+            "date": "2023-04-06"
+        },
+        {
+            "name": "0.9.7",
+            "url": "https://projects.eclipse.org/projects/ecd.openvsx/releases/0.9.7",
+            "date": "2023-04-01"
+        },
+        {
+            "name": "0.9.6",
+            "url": "https://projects.eclipse.org/projects/ecd.openvsx/releases/0.9.6",
+            "date": "2023-03-29"
+        },
+        {
+            "name": "0.9.5",
+            "url": "https://projects.eclipse.org/projects/ecd.openvsx/releases/0.9.5",
+            "date": "2023-03-22"
+        },
+        {
+            "name": "0.9.4",
+            "url": "https://projects.eclipse.org/projects/ecd.openvsx/releases/0.9.4",
+            "date": "2023-03-14"
+        },
+        {
+            "name": "0.9.3",
+            "url": "https://projects.eclipse.org/projects/ecd.openvsx/releases/0.9.3",
+            "date": "2023-03-09"
+        },
+        {
+            "name": "0.9.1",
+            "url": "https://projects.eclipse.org/projects/ecd.openvsx/releases/0.9.1",
+            "date": "2023-03-06"
+        },
+        {
+            "name": "0.9.0",
+            "url": "https://projects.eclipse.org/projects/ecd.openvsx/releases/0.9.0",
+            "date": "2023-02-26"
+        },
+        {
+            "name": "0.7.0",
+            "url": "https://projects.eclipse.org/projects/ecd.openvsx/releases/0.7.0",
+            "date": "2022-12-08"
+        },
+        {
+            "name": "0.6.0",
+            "url": "https://projects.eclipse.org/projects/ecd.openvsx/releases/0.6.0",
+            "date": "2022-11-30"
+        },
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/ecd.openvsx/releases/0.1.0",
+            "date": "2021-04-13"
+        }
+    ]
+}

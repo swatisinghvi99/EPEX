@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse tinydtls",
+    "project_url": "https://projects.eclipse.org/projects/iot.tinydtls",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "0.9",
+            "url": "https://projects.eclipse.org/projects/iot.tinydtls/releases/0.9",
+            "date": "2017-11-15"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse Open DI",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.odi",
+    "status": "Incubating",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/ee4j.odi/reviews/creation-review",
+            "date": "2021-11-03"
+        }
+    ]
+}

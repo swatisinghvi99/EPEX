@@ -1,13 +1,28 @@
 {
     "project_name": "Jakarta JSON Binding",
-    "project_url": "automotive.ambientlight",
-    "alias": "ambientlight",
-    "description": "",
-    "sponsor": "Incubator",
-    "mentor": "Garrett Rooney, Paul Querna",
-    "start_date": "2006-06-06",
-    "end_date": "2008-11-08",
-    "status": "Incubating",
-    "incubation_time": "29",
-    "tech": "Automotive"
+    "project_url": "https://projects.eclipse.org/projects/ee4j.jsonb",
+    "status": "Mature",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "3.0.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.jsonb/releases/3.0.0",
+            "date": "2022-03-31"
+        },
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.jsonb/releases/2.0.0",
+            "date": "2020-10-07"
+        },
+        {
+            "name": "1.0.2",
+            "url": "https://projects.eclipse.org/projects/ee4j.jsonb/releases/1.0.2",
+            "date": "2019-09-10"
+        },
+        {
+            "name": "1.0.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.jsonb/releases/1.0.1",
+            "date": "2018-11-30"
+        }
+    ]
 }

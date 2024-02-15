@@ -1,0 +1,28 @@
+{
+    "project_name": "Eclipse Tractus-X",
+    "project_url": "https://projects.eclipse.org/projects/automotive.tractusx",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "23.12",
+            "url": "https://projects.eclipse.org/projects/automotive.tractusx/releases/23.12",
+            "date": "2023-12-08"
+        },
+        {
+            "name": "23.09",
+            "url": "https://projects.eclipse.org/projects/automotive.tractusx/releases/23.09",
+            "date": "2023-09-08"
+        },
+        {
+            "name": "3.1",
+            "url": "https://projects.eclipse.org/projects/automotive.tractusx/releases/3.1",
+            "date": "2023-07-07"
+        },
+        {
+            "name": "3.0",
+            "url": "https://projects.eclipse.org/projects/automotive.tractusx/releases/3.0",
+            "date": "2023-04-17"
+        }
+    ]
+}

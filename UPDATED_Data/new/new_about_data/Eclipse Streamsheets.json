@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse Streamsheets",
+    "project_url": "https://projects.eclipse.org/projects/iot.streamsheets",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "2.3",
+            "url": "https://projects.eclipse.org/projects/iot.streamsheets/releases/2.3",
+            "date": "2021-12-08"
+        }
+    ]
+}

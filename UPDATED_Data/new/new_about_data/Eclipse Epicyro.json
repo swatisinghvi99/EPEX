@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse Epicyro",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.epicyro",
+    "status": "Incubating",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "3.0.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.epicyro/releases/3.0.0",
+            "date": "2023-09-21"
+        }
+    ]
+}

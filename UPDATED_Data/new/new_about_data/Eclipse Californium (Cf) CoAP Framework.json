@@ -1,0 +1,198 @@
+{
+    "project_name": "Eclipse Californium (Cf) CoAP Framework",
+    "project_url": "https://projects.eclipse.org/projects/iot.californium",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "3.10.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/3.10.0",
+            "date": "2023-12-28"
+        },
+        {
+            "name": "3.9.1",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/3.9.1",
+            "date": "2023-09-14"
+        },
+        {
+            "name": "3.9.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/3.9.0",
+            "date": "2023-07-20"
+        },
+        {
+            "name": "2.8.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.8.0",
+            "date": "2023-06-29"
+        },
+        {
+            "name": "3.8.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/3.8.0",
+            "date": "2023-02-08"
+        },
+        {
+            "name": "3.7.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/3.7.0",
+            "date": "2022-09-22"
+        },
+        {
+            "name": "2.7.4",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.7.4",
+            "date": "2022-09-21"
+        },
+        {
+            "name": "3.6.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/3.6.0",
+            "date": "2022-07-14"
+        },
+        {
+            "name": "2.7.3",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.7.3",
+            "date": "2022-07-13"
+        },
+        {
+            "name": "3.5.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/3.5.0",
+            "date": "2022-04-25"
+        },
+        {
+            "name": "2.7.2",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.7.2",
+            "date": "2022-03-31"
+        },
+        {
+            "name": "3.4.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/3.4.0",
+            "date": "2022-03-29"
+        },
+        {
+            "name": "2.7.1",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.7.1",
+            "date": "2022-03-17"
+        },
+        {
+            "name": "3.3.1",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/3.3.1",
+            "date": "2022-03-03"
+        },
+        {
+            "name": "3.3.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/3.3.0",
+            "date": "2022-02-24"
+        },
+        {
+            "name": "3.2.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/3.2.0",
+            "date": "2022-01-13"
+        },
+        {
+            "name": "3.1.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/3.1.0",
+            "date": "2021-12-23"
+        },
+        {
+            "name": "2.7.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.7.0",
+            "date": "2021-12-22"
+        },
+        {
+            "name": "2.6.6",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.6.6",
+            "date": "2021-11-25"
+        },
+        {
+            "name": "3.0.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/3.0.0",
+            "date": "2021-11-03"
+        },
+        {
+            "name": "2.6.5",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.6.5",
+            "date": "2021-08-11"
+        },
+        {
+            "name": "2.6.4",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.6.4",
+            "date": "2021-07-15"
+        },
+        {
+            "name": "2.6.3",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.6.3",
+            "date": "2021-04-29"
+        },
+        {
+            "name": "2.6.2",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.6.2",
+            "date": "2021-03-23"
+        },
+        {
+            "name": "2.6.1",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.6.1",
+            "date": "2021-02-04"
+        },
+        {
+            "name": "2.6.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.6.0",
+            "date": "2020-12-02"
+        },
+        {
+            "name": "2.5.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.5.0",
+            "date": "2020-11-12"
+        },
+        {
+            "name": "2.4.1",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.4.1",
+            "date": "2020-09-10"
+        },
+        {
+            "name": "2.3.1",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.3.1",
+            "date": "2020-09-03"
+        },
+        {
+            "name": "2.4.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.4.0",
+            "date": "2020-08-27"
+        },
+        {
+            "name": "2.3.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.3.0",
+            "date": "2020-06-24"
+        },
+        {
+            "name": "2.2.3",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.2.3",
+            "date": "2020-05-07"
+        },
+        {
+            "name": "2.2.2",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.2.2",
+            "date": "2020-04-15"
+        },
+        {
+            "name": "2.2.1",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.2.1",
+            "date": "2020-04-02"
+        },
+        {
+            "name": "2.2.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.2.0",
+            "date": "2020-03-24"
+        },
+        {
+            "name": "2.1.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.1.0",
+            "date": "2020-02-25"
+        },
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/2.0.0",
+            "date": "2019-12-05"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/iot.californium/releases/1.0.0",
+            "date": "2015-11-04"
+        }
+    ]
+}

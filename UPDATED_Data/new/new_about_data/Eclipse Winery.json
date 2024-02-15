@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse Winery",
+    "project_url": "https://projects.eclipse.org/projects/soa.winery",
+    "status": "Incubating",
+    "tech": "SOA Platform",
+    "releases": [
+        {
+            "name": "2024.02 Progress Review",
+            "url": "https://projects.eclipse.org/projects/soa.winery/reviews/2024.02-progress-review",
+            "date": "2024-02-16"
+        }
+    ]
+}

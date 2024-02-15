@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse IoT-Testware",
+    "project_url": "https://projects.eclipse.org/projects/technology.iottestware",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/technology.iottestware/releases/0.1.0",
+            "date": "2020-01-15"
+        }
+    ]
+}

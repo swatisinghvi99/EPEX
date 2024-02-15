@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse Hara",
+    "project_url": "https://projects.eclipse.org/projects/iot.hawkbit.hara",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/iot.hawkbit.hara/releases/2.0.0",
+            "date": "2023-03-23"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse Mita",
+    "project_url": "https://projects.eclipse.org/projects/iot.mita",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/iot.mita/releases/0.1.0",
+            "date": "2019-02-28"
+        }
+    ]
+}

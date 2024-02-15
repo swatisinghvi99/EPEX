@@ -1,0 +1,33 @@
+{
+    "project_name": "Eclipse aCute - C# and .NET Core development tools in Eclipse IDE",
+    "project_url": "https://projects.eclipse.org/projects/tools.acute",
+    "status": "Incubating",
+    "tech": "Tools",
+    "releases": [
+        {
+            "name": "0.3.2",
+            "url": "https://projects.eclipse.org/projects/tools.acute/releases/0.3.2",
+            "date": "2019-04-04"
+        },
+        {
+            "name": "0.3.1",
+            "url": "https://projects.eclipse.org/projects/tools.acute/releases/0.3.1",
+            "date": "2018-09-24"
+        },
+        {
+            "name": "0.3.0",
+            "url": "https://projects.eclipse.org/projects/tools.acute/releases/0.3.0",
+            "date": "2018-09-19"
+        },
+        {
+            "name": "0.2.0",
+            "url": "https://projects.eclipse.org/projects/tools.acute/releases/0.2.0",
+            "date": "2018-06-27"
+        },
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/tools.acute/releases/0.1.0",
+            "date": "2018-06-06"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "project_name": "Eclipse GlassFish",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.glassfish",
+    "status": "Mature",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "7.0.14",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/7.0.14",
+            "date": "2024-03-28"
+        },
+        {
+            "name": "7.0.13",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/7.0.13",
+            "date": "2024-02-28"
+        },
+        {
+            "name": "7.0.12",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/7.0.12",
+            "date": "2024-01-30"
+        },
+        {
+            "name": "7.0.11",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/7.0.11",
+            "date": "2023-12-04"
+        },
+        {
+            "name": "7.0.10",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/7.0.10-0",
+            "date": "2023-10-29"
+        },
+        {
+            "name": "7.0.9",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/7.0.9",
+            "date": "2023-09-29"
+        },
+        {
+            "name": "7.0.8",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/7.0.8",
+            "date": "2023-08-29"
+        },
+        {
+            "name": "7.0.7",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/7.0.7",
+            "date": "2023-07-29"
+        },
+        {
+            "name": "7.0.6",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/7.0.6",
+            "date": "2023-06-29"
+        },
+        {
+            "name": "7.0.5",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/7.0.5",
+            "date": "2023-05-29"
+        },
+        {
+            "name": "7.0.4",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/7.0.4",
+            "date": "2023-04-27"
+        },
+        {
+            "name": "7.0.3",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/7.0.3",
+            "date": "2023-03-30"
+        },
+        {
+            "name": "7.0.2",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/7.0.2",
+            "date": "2023-02-24"
+        },
+        {
+            "name": "7.0.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/7.0.1",
+            "date": "2023-01-30"
+        },
+        {
+            "name": "7.0.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/7.0.0",
+            "date": "2022-12-14"
+        },
+        {
+            "name": "6.2.5",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/6.2.5",
+            "date": "2022-02-13"
+        },
+        {
+            "name": "6.2.4",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/6.2.4",
+            "date": "2022-01-09"
+        },
+        {
+            "name": "6.2.3",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/6.2.3",
+            "date": "2021-11-18"
+        },
+        {
+            "name": "6.2.2",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/6.2.2",
+            "date": "2021-10-01"
+        },
+        {
+            "name": "6.2.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/6.2.1",
+            "date": "2021-08-27"
+        },
+        {
+            "name": "6.2.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/6.2.0",
+            "date": "2021-06-13"
+        },
+        {
+            "name": "6.1.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/6.1.0",
+            "date": "2021-05-25"
+        },
+        {
+            "name": "6.0.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/6.0.0",
+            "date": "2020-12-30"
+        },
+        {
+            "name": "5.0.0-Woodstock",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/5.0.0-woodstock",
+            "date": "2020-12-06"
+        },
+        {
+            "name": "3.0.0-HK2",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/3.0.0-hk2",
+            "date": "2020-12-06"
+        },
+        {
+            "name": "3.0.0-JSF-Templating",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/3.0.0-jsf-templating",
+            "date": "2020-12-06"
+        },
+        {
+            "name": "2.0.0-shoal",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/2.0.0-shoal",
+            "date": "2020-12-02"
+        },
+        {
+            "name": "1.1 glassfish-security-plugin",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/1.1-glassfish-security-plugin",
+            "date": "2019-10-05"
+        },
+        {
+            "name": "2.6 HK2",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/2.6-hk2",
+            "date": "2019-06-21"
+        },
+        {
+            "name": "1.2 glassfish-doc-plugin",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/1.2-glassfish-doc-plugin",
+            "date": "2019-03-26"
+        },
+        {
+            "name": "1.1 glassfish-doc-plugin",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/1.1-glassfish-doc-plugin",
+            "date": "2019-03-26"
+        },
+        {
+            "name": "1.0 glassfish-doc-plugin",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/1.0-glassfish-doc-plugin",
+            "date": "2019-03-01"
+        },
+        {
+            "name": "5.1.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.glassfish/releases/5.1.0",
+            "date": "2019-01-29"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "project_name": "LocationTech RasterFrames",
+    "project_url": "https://projects.eclipse.org/projects/locationtech.rasterframes",
+    "status": "Incubating",
+    "tech": "LocationTech",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/locationtech.rasterframes/reviews/creation-review",
+            "date": "2018-02-21"
+        }
+    ]
+}

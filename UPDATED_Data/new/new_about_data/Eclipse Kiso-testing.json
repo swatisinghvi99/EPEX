@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse Kiso-testing",
+    "project_url": "https://projects.eclipse.org/projects/iot.kiso-testing",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot.kiso-testing/reviews/creation-review",
+            "date": "2021-10-06"
+        }
+    ]
+}

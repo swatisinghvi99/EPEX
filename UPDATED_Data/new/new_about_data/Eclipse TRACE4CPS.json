@@ -1,0 +1,18 @@
+{
+    "project_name": "Eclipse TRACE4CPS",
+    "project_url": "https://projects.eclipse.org/projects/technology.trace4cps",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "0.2",
+            "url": "https://projects.eclipse.org/projects/technology.trace4cps/releases/0.2",
+            "date": "2024-02-01"
+        },
+        {
+            "name": "0.1",
+            "url": "https://projects.eclipse.org/projects/technology.trace4cps/releases/0.1",
+            "date": "2022-06-17"
+        }
+    ]
+}

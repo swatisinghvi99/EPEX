@@ -1,13 +1,23 @@
 {
     "project_name": "Gemini JPA",
-    "project_url": "automotive.ambientlight",
-    "alias": "ambientlight",
-    "description": "",
-    "sponsor": "Incubator",
-    "mentor": "Garrett Rooney, Paul Querna",
-    "start_date": "2006-06-06",
-    "end_date": "2008-11-08",
-    "status": "Incubating",
-    "incubation_time": "29",
-    "tech": "Automotive"
+    "project_url": "https://projects.eclipse.org/projects/rt.gemini.jpa",
+    "status": "Mature",
+    "tech": "RT",
+    "releases": [
+        {
+            "name": "1.2.0",
+            "url": "https://projects.eclipse.org/projects/release/1.2.0-8",
+            "date": "2013-09-06"
+        },
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/release/1.1.0-14",
+            "date": "2012-11-15"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/release/1.0.0-31",
+            "date": "2011-07-27"
+        }
+    ]
 }

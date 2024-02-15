@@ -1,0 +1,18 @@
+{
+    "project_name": "Eclipse Dataspace Components",
+    "project_url": "https://projects.eclipse.org/projects/technology.edc",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Restructuring Review",
+            "url": "https://projects.eclipse.org/projects/technology.edc/reviews/restructuring-review",
+            "date": "2022-09-07"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.dsconnector/reviews/creation-review",
+            "date": "2021-06-16"
+        }
+    ]
+}

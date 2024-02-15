@@ -1,13 +1,33 @@
 {
     "project_name": "Gemini Naming",
-    "project_url": "automotive.ambientlight",
-    "alias": "ambientlight",
-    "description": "",
-    "sponsor": "Incubator",
-    "mentor": "Garrett Rooney, Paul Querna",
-    "start_date": "2006-06-06",
-    "end_date": "2008-11-08",
-    "status": "Incubating",
-    "incubation_time": "29",
-    "tech": "Automotive"
+    "project_url": "https://projects.eclipse.org/projects/rt.gemini.naming",
+    "status": "Mature",
+    "tech": "RT",
+    "releases": [
+        {
+            "name": "1.0.4",
+            "url": "https://projects.eclipse.org/projects/rt.gemini.naming/releases/1.0.4",
+            "date": "2013-12-31"
+        },
+        {
+            "name": "1.0.3",
+            "url": "https://projects.eclipse.org/projects/rt.gemini.naming/releases/1.0.3",
+            "date": "2013-08-10"
+        },
+        {
+            "name": "1.0.2",
+            "url": "https://projects.eclipse.org/projects/release/1.0.2-7",
+            "date": "2013-05-08"
+        },
+        {
+            "name": "1.0.1",
+            "url": "https://projects.eclipse.org/projects/release/1.0.1-9",
+            "date": "2012-11-26"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/release/1.0.0-33",
+            "date": "2012-05-20"
+        }
+    ]
 }

@@ -32,7 +32,7 @@ function UpdateprojectInfo() {
   // }
   project_info = JSON.parse(
     readTextFile(
-      `./UPDATED_Data/new/new_about_data/${alias_to_name[this_project]}.json`
+      `./UPDATED_Data/new/new_about_data/${this_project}.json`
     )
   );
 
@@ -52,15 +52,14 @@ function Actual_change(project_info, to_dates) {
   console.log(project_info)
   document.getElementById("link").innerHTML =
     '<a href="' +
-    `https://projects.eclipse.org/projects/${project_info.project_url.toLowerCase()}` +
+    `${project_info.project_url}` +
     '" target="_blank" > ' +
     project_info.project_name +
     "</a>";
   document.getElementById("status").innerHTML = project_info.status;
   // document.getElementById("sponsor").innerHTML = project_info.sponsor;
-  document.getElementById("start1").innerHTML = project_info.start_date;
-  document.getElementById("end1").innerHTML = project_info.end_date;
-  document.getElementById("intro").innerHTML = project_info.description;
+  // document.getElementById("start1").innerHTML = project_info.start_date;
+  // document.getElementById("end1").innerHTML = project_info.end_date;
 
   // document.getElementById("num_emails").innerHTML = Math.floor(
   //   email_info.num_emails
@@ -72,8 +71,8 @@ function Actual_change(project_info, to_dates) {
   // document.getElementById("email_per_dev").innerHTML = Math.floor(
   //   email_info.email_per_dev
   // );
-  document.getElementById("reports_month").innerHTML =
-    project_info.start_date + "~" + project_info.end_date;
+  // document.getElementById("reports_month").innerHTML =
+  //   project_info.start_date + "~" + project_info.end_date;
 
   // document.getElementById("num_commits").innerHTML = Math.floor(
   //   commit_info.num_commits
@@ -86,6 +85,35 @@ function Actual_change(project_info, to_dates) {
   // );
   // document.getElementById("mentor").innerHTML = project_info.mentor;
   document.getElementById("tech").innerHTML = project_info.tech;
+  var releases = project_info.releases;
+  var repoLinkElement = document.getElementById('repo_link');
+
+  if (releases.length > 0) {
+      // Clear previous content
+      repoLinkElement.innerHTML = '';
+
+      // Create a document fragment to hold the links
+      var fragment = document.createDocumentFragment();
+
+      releases.forEach(function(release, index) {
+          var link = document.createElement('a');
+          link.href = release.url;
+          link.textContent = release.name + ' (' + release.date + ')';
+          link.target = '_blank';
+
+          fragment.appendChild(link);
+
+          // Add comma separator if not the last item
+          if (index < releases.length - 1) {
+              fragment.appendChild(document.createTextNode(', '));
+          }
+      });
+
+      repoLinkElement.appendChild(fragment);
+  } else {
+      // Handle case with no releases or reviews
+      repoLinkElement.textContent = 'No releases or reviews';
+  }
 
   document.getElementById("from").innerHTML = to_dates[0];
   document.getElementById("to").innerHTML = to_dates[1];
@@ -95,10 +123,8 @@ function Actual_change(project_info, to_dates) {
   document.getElementById("pro_title").innerHTML = project_info.project_name;
   document.getElementById("pro_title1").innerHTML = project_info.project_name;
   document.getElementById("pro_title2").innerHTML = project_info.project_name;
-  //
-  document.getElementById("month_period_start").innerHTML =
-    project_info.start_date;
-  document.getElementById("month_period_end").innerHTML = project_info.end_date;
+  // document.getElementById("month_period_start").innerHTML = project_info.start_date;
+  // document.getElementById("month_period_end").innerHTML = project_info.end_date;
 }
 
 function email_aggregate(email_info) {

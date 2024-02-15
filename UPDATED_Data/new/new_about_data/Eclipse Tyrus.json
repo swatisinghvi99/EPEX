@@ -1,0 +1,133 @@
+{
+    "project_name": "Eclipse Tyrus",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.tyrus",
+    "status": "Mature",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "2.1.5",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/2.1.5",
+            "date": "2024-01-18"
+        },
+        {
+            "name": "2.0.6",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/2.0.6",
+            "date": "2024-01-09"
+        },
+        {
+            "name": "2.1.4",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/2.1.4",
+            "date": "2023-11-02"
+        },
+        {
+            "name": "2.0.5",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/2.0.5",
+            "date": "2023-10-24"
+        },
+        {
+            "name": "1.21",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/1.21",
+            "date": "2023-10-20"
+        },
+        {
+            "name": "2.1.3",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/2.1.3",
+            "date": "2023-02-17"
+        },
+        {
+            "name": "2.1.2",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/2.1.2",
+            "date": "2022-11-18"
+        },
+        {
+            "name": "2.1.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/2.1.1",
+            "date": "2022-10-04"
+        },
+        {
+            "name": "1.20",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/1.20",
+            "date": "2022-10-04"
+        },
+        {
+            "name": "2.0.4",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/2.0.4",
+            "date": "2022-07-18"
+        },
+        {
+            "name": "2.0.3",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/2.0.3",
+            "date": "2022-06-28"
+        },
+        {
+            "name": "2.1.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/2.1.0",
+            "date": "2022-06-22"
+        },
+        {
+            "name": "2.1.0-M4",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/2.1.0-m4",
+            "date": "2022-06-17"
+        },
+        {
+            "name": "1.19",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/1.19",
+            "date": "2022-06-17"
+        },
+        {
+            "name": "2.1.0-M2",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/2.1.0-m2",
+            "date": "2022-03-16"
+        },
+        {
+            "name": "2.1.0-M1",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/2.1.0-m1",
+            "date": "2022-02-21"
+        },
+        {
+            "name": "2.0.2",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/2.0.2",
+            "date": "2022-01-27"
+        },
+        {
+            "name": "2.0.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/2.0.1",
+            "date": "2021-08-31"
+        },
+        {
+            "name": "1.18",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/1.18",
+            "date": "2021-08-31"
+        },
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/2.0.0",
+            "date": "2020-11-04"
+        },
+        {
+            "name": "2.0.0-M2",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/2.0.0-m2",
+            "date": "2020-05-28"
+        },
+        {
+            "name": "1.17",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/1.17",
+            "date": "2020-05-13"
+        },
+        {
+            "name": "2.0.0-M1",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/2.0.0-m1",
+            "date": "2020-04-30"
+        },
+        {
+            "name": "1.16",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/1.16",
+            "date": "2020-02-19"
+        },
+        {
+            "name": "1.15",
+            "url": "https://projects.eclipse.org/projects/ee4j.tyrus/releases/1.15",
+            "date": "2018-12-14"
+        }
+    ]
+}

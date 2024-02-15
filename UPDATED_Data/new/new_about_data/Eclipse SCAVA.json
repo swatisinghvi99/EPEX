@@ -1,0 +1,18 @@
+{
+    "project_name": "Eclipse SCAVA",
+    "project_url": "https://projects.eclipse.org/projects/technology.scava",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Rename Eclipse CROSSMETER to Eclipse SCAVA",
+            "url": "https://projects.eclipse.org/projects/technology.crossmeter/reviews/rename-eclipse-crossmeter-eclipse-scava",
+            "date": "2018-03-21"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.scava/reviews/creation-review",
+            "date": "2017-12-20"
+        }
+    ]
+}

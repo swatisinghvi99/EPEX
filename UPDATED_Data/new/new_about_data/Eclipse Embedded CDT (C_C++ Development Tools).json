@@ -1,0 +1,88 @@
+{
+    "project_name": "Eclipse Embedded CDT (C/C++ Development Tools)",
+    "project_url": "https://projects.eclipse.org/projects/iot.embed-cdt",
+    "status": "Mature",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "6.5.0",
+            "url": "https://projects.eclipse.org/projects/iot.embed-cdt/releases/6.5.0",
+            "date": "2024-01-11"
+        },
+        {
+            "name": "6.4.0",
+            "url": "https://projects.eclipse.org/projects/iot.embed-cdt/releases/6.4.0",
+            "date": "2023-07-25"
+        },
+        {
+            "name": "6.3.2",
+            "url": "https://projects.eclipse.org/projects/iot.embed-cdt/releases/6.3.2",
+            "date": "2023-04-28"
+        },
+        {
+            "name": "6.3.1",
+            "url": "https://projects.eclipse.org/projects/iot.embed-cdt/releases/6.3.1",
+            "date": "2022-10-10"
+        },
+        {
+            "name": "6.3.0",
+            "url": "https://projects.eclipse.org/projects/iot.embed-cdt/releases/6.3.0",
+            "date": "2022-08-18"
+        },
+        {
+            "name": "6.2.2",
+            "url": "https://projects.eclipse.org/projects/iot.embed-cdt/releases/6.2.2",
+            "date": "2022-06-12"
+        },
+        {
+            "name": "6.2.1",
+            "url": "https://projects.eclipse.org/projects/iot.embed-cdt/releases/6.2.1",
+            "date": "2022-04-04"
+        },
+        {
+            "name": "6.1.2",
+            "url": "https://projects.eclipse.org/projects/iot.embed-cdt/releases/6.1.2",
+            "date": "2021-02-18"
+        },
+        {
+            "name": "6.1.1",
+            "url": "https://projects.eclipse.org/projects/iot.embed-cdt/releases/6.1.1",
+            "date": "2021-01-20"
+        },
+        {
+            "name": "6.1.0",
+            "url": "https://projects.eclipse.org/projects/iot.embed-cdt/releases/6.1.0",
+            "date": "2021-01-19"
+        },
+        {
+            "name": "6.0.0",
+            "url": "https://projects.eclipse.org/projects/iot.embed-cdt/releases/6.0.0",
+            "date": "2020-12-16"
+        },
+        {
+            "name": "5.2.1",
+            "url": "https://projects.eclipse.org/projects/iot.embed-cdt/releases/5.2.1",
+            "date": "2020-10-30"
+        },
+        {
+            "name": "5.1.4",
+            "url": "https://projects.eclipse.org/projects/iot.embed-cdt/releases/5.1.4",
+            "date": "2020-10-29"
+        },
+        {
+            "name": "5.1.3",
+            "url": "https://projects.eclipse.org/projects/iot.embed-cdt/releases/5.1.3",
+            "date": "2020-10-12"
+        },
+        {
+            "name": "5.1.2",
+            "url": "https://projects.eclipse.org/projects/iot.embed-cdt/releases/5.1.2",
+            "date": "2020-09-21"
+        },
+        {
+            "name": "5.1.1",
+            "url": "https://projects.eclipse.org/projects/iot.embed-cdt/releases/5.1.1",
+            "date": "2020-07-28"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "project_name": "Eclipse Modeling Workflow Engine",
+    "project_url": "https://projects.eclipse.org/projects/modeling.emf.mwe",
+    "status": "Mature",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "2.16.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.16.0",
+            "date": "2023-11-26"
+        },
+        {
+            "name": "2.15.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.15.0",
+            "date": "2023-08-27"
+        },
+        {
+            "name": "2.14.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.14.0",
+            "date": "2022-11-18"
+        },
+        {
+            "name": "2.13.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.13.0",
+            "date": "2022-05-25"
+        },
+        {
+            "name": "2.12.2",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.12.2",
+            "date": "2022-01-21"
+        },
+        {
+            "name": "2.12.1",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.12.1",
+            "date": "2021-03-02"
+        },
+        {
+            "name": "2.12.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.12.0",
+            "date": "2020-12-01"
+        },
+        {
+            "name": "2.11.3",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.11.3",
+            "date": "2020-06-02"
+        },
+        {
+            "name": "2.11.2",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.11.2",
+            "date": "2020-03-03"
+        },
+        {
+            "name": "2.11.1",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.11.1",
+            "date": "2019-11-22"
+        },
+        {
+            "name": "2.11.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.11.0",
+            "date": "2019-06-12"
+        },
+        {
+            "name": "2.10.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.10.0",
+            "date": "2019-02-13"
+        },
+        {
+            "name": "2.9.1",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.9.1",
+            "date": "2017-05-29"
+        },
+        {
+            "name": "2.9.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.9.0",
+            "date": "2016-05-25"
+        },
+        {
+            "name": "2.8.2",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.8.2",
+            "date": "2015-11-10"
+        },
+        {
+            "name": "2.8.1",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.8.1",
+            "date": "2015-07-30"
+        },
+        {
+            "name": "2.8.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.8.0",
+            "date": "2015-06-24"
+        },
+        {
+            "name": "2.7.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.7.0",
+            "date": "2014-09-02"
+        },
+        {
+            "name": "2.6.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.6.0",
+            "date": "2014-06-25"
+        },
+        {
+            "name": "2.5.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.5.0",
+            "date": "2013-12-11"
+        },
+        {
+            "name": "2.4.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.mwe/releases/2.4.0",
+            "date": "2013-06-26"
+        },
+        {
+            "name": "2.3.0",
+            "url": "https://projects.eclipse.org/projects/release/2.3.0-2",
+            "date": "2012-06-27"
+        },
+        {
+            "name": "2.2.0",
+            "url": "https://projects.eclipse.org/projects/release/2.2.0-2",
+            "date": "2011-12-07"
+        },
+        {
+            "name": "2.1.0",
+            "url": "https://projects.eclipse.org/projects/release/2.1.0-4",
+            "date": "2011-11-02"
+        },
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/release/2.0.0-6",
+            "date": "2011-06-22"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/release/1.0.0-5",
+            "date": "2010-06-23"
+        },
+        {
+            "name": "0.7.0",
+            "url": "https://projects.eclipse.org/projects/release/0.7.0-0",
+            "date": "2009-06-24"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "project_name": "Eclipse Ankaios",
+    "project_url": "https://projects.eclipse.org/projects/automotive.ankaios",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "0.2.0",
+            "url": "https://projects.eclipse.org/projects/automotive.ankaios/releases/0.2.0",
+            "date": "2023-12-11"
+        },
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/automotive.ankaios/releases/0.1.0",
+            "date": "2023-09-05"
+        }
+    ]
+}

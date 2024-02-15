@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse ADAAA (Adaptive Cruise Control Demo Application for Adaptive AUTOSAR)",
+    "project_url": "https://projects.eclipse.org/projects/automotive.adaaa",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/automotive.adaaa/reviews/creation-review",
+            "date": "2022-06-15"
+        }
+    ]
+}

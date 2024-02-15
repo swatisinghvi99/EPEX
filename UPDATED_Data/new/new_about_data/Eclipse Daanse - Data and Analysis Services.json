@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse Daanse - Data and Analysis Services",
+    "project_url": "https://projects.eclipse.org/projects/technology.daanse",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.daanse/reviews/creation-review",
+            "date": "2024-01-17"
+        }
+    ]
+}

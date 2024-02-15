@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse Ibeji",
+    "project_url": "https://projects.eclipse.org/projects/automotive.ibeji",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/automotive.ibeji/reviews/creation-review",
+            "date": "2022-09-21"
+        }
+    ]
+}

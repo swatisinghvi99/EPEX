@@ -106,7 +106,6 @@
 
     .second_pane {
       display: flex;
-      height: 820px;
     }
 
     .three {
@@ -154,7 +153,8 @@
 
     .c {
       flex: 2;
-      height: 300px;
+      height: 250px;
+      width: 250px;
       /* padding: 10px; */
       /* margin-top: 12px; */
       overflow: auto;
@@ -454,8 +454,8 @@ header {
   float: center;
   width: auto;
   padding: 1px;
-  font-size: 22px;
-  margin-left: 30px;
+  text-align:center;
+  font-size: 19px;
 
   /* border-bottom: thin solid black; */
 }

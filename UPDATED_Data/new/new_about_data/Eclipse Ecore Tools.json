@@ -1,0 +1,118 @@
+{
+    "project_name": "Eclipse Ecore Tools",
+    "project_url": "https://projects.eclipse.org/projects/modeling.emft.ecoretools",
+    "status": "Mature",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "3.5.0",
+            "url": "https://projects.eclipse.org/projects/modeling.ecoretools/releases/3.5.0",
+            "date": "2023-06-07"
+        },
+        {
+            "name": "3.4.0",
+            "url": "https://projects.eclipse.org/projects/modeling.ecoretools/releases/3.4.0",
+            "date": "2022-02-18"
+        },
+        {
+            "name": "3.3.4",
+            "url": "https://projects.eclipse.org/projects/modeling.ecoretools/releases/3.3.4",
+            "date": "2021-11-19"
+        },
+        {
+            "name": "3.3.3",
+            "url": "https://projects.eclipse.org/projects/modeling.ecoretools/releases/3.3.3",
+            "date": "2020-10-30"
+        },
+        {
+            "name": "3.3.2",
+            "url": "https://projects.eclipse.org/projects/modeling.ecoretools/releases/3.3.2",
+            "date": "2019-09-19"
+        },
+        {
+            "name": "3.3.1",
+            "url": "https://projects.eclipse.org/projects/modeling.ecoretools/releases/3.3.1",
+            "date": "2019-06-19"
+        },
+        {
+            "name": "3.3.0",
+            "url": "https://projects.eclipse.org/projects/modeling.ecoretools/releases/3.3.0",
+            "date": "2017-06-28"
+        },
+        {
+            "name": "3.2.1",
+            "url": "https://projects.eclipse.org/projects/modeling.ecoretools/releases/3.2.1",
+            "date": "2017-03-23"
+        },
+        {
+            "name": "3.2.0",
+            "url": "https://projects.eclipse.org/projects/modeling.ecoretools/releases/3.2.0",
+            "date": "2016-11-02"
+        },
+        {
+            "name": "3.1.0",
+            "url": "https://projects.eclipse.org/projects/modeling.ecoretools/releases/3.1.0",
+            "date": "2016-06-22"
+        },
+        {
+            "name": "3.0.2",
+            "url": "https://projects.eclipse.org/projects/modeling.ecoretools/releases/3.0.2",
+            "date": "2015-10-12"
+        },
+        {
+            "name": "3.0.1",
+            "url": "https://projects.eclipse.org/projects/modeling.ecoretools/releases/3.0.1",
+            "date": "2015-09-25"
+        },
+        {
+            "name": "3.0.0",
+            "url": "https://projects.eclipse.org/projects/modeling.ecoretools/releases/3.0.0",
+            "date": "2015-06-24"
+        },
+        {
+            "name": "2.0.3",
+            "url": "https://projects.eclipse.org/projects/modeling.ecoretools/releases/2.0.3",
+            "date": "2014-11-19"
+        },
+        {
+            "name": "2.0.2",
+            "url": "https://projects.eclipse.org/projects/modeling.ecoretools/releases/2.0.2",
+            "date": "2014-09-26"
+        },
+        {
+            "name": "2.0.1",
+            "url": "https://projects.eclipse.org/projects/modeling.ecoretools/releases/2.0.1",
+            "date": "2014-08-20"
+        },
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emft.ecoretools/releases/2.0.0",
+            "date": "2014-06-25"
+        },
+        {
+            "name": "1.2.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emft.ecoretools/releases/1.2.0",
+            "date": "2013-06-26"
+        },
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/release/1.1.0-2",
+            "date": "2012-06-27"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/release/1.0.0-7",
+            "date": "2011-06-22"
+        },
+        {
+            "name": "0.10.0",
+            "url": "https://projects.eclipse.org/projects/release/0.10.0",
+            "date": "2010-06-16"
+        },
+        {
+            "name": "0.9.0",
+            "url": "https://projects.eclipse.org/projects/release/0.9.0-2",
+            "date": "2009-06-22"
+        }
+    ]
+}

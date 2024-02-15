@@ -1,0 +1,18 @@
+{
+    "project_name": "Eclipse Science",
+    "project_url": "https://projects.eclipse.org/projects/science",
+    "status": "Mature",
+    "tech": "Science",
+    "releases": [
+        {
+            "name": "Move Review",
+            "url": "https://projects.eclipse.org/projects/technology.scanning/reviews/move-review",
+            "date": "2016-12-07"
+        },
+        {
+            "name": "Eclipse Science Project Restructuring Review",
+            "url": "https://projects.eclipse.org/projects/science/reviews/eclipse-science-project-restructuring-review",
+            "date": "2016-10-19"
+        }
+    ]
+}

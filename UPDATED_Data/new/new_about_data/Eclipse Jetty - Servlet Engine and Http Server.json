@@ -1,0 +1,88 @@
+{
+    "project_name": "Eclipse Jetty - Servlet Engine and Http Server",
+    "project_url": "https://projects.eclipse.org/projects/rt.jetty",
+    "status": "Mature",
+    "tech": "RT",
+    "releases": [
+        {
+            "name": "12.0",
+            "url": "https://projects.eclipse.org/projects/rt.jetty/releases/12.0",
+            "date": "2023-07-20"
+        },
+        {
+            "name": "11.0",
+            "url": "https://projects.eclipse.org/projects/rt.jetty/releases/11.0",
+            "date": "2020-09-02"
+        },
+        {
+            "name": "10.0",
+            "url": "https://projects.eclipse.org/projects/rt.jetty/releases/10.0",
+            "date": "2020-09-02"
+        },
+        {
+            "name": "9.3.0",
+            "url": "https://projects.eclipse.org/projects/rt.jetty/releases/9.3.0",
+            "date": "2015-02-25"
+        },
+        {
+            "name": "9.2.0",
+            "url": "https://projects.eclipse.org/projects/rt.jetty/releases/9.2.0",
+            "date": "2014-04-16"
+        },
+        {
+            "name": "9.1",
+            "url": "https://projects.eclipse.org/projects/rt.jetty/releases/9.1",
+            "date": "2013-10-16"
+        },
+        {
+            "name": "9.0",
+            "url": "https://projects.eclipse.org/projects/rt.jetty/releases/9.0",
+            "date": "2013-03-08"
+        },
+        {
+            "name": "8.1",
+            "url": "https://projects.eclipse.org/projects/rt.jetty/releases/8.1",
+            "date": "2012-01-27"
+        },
+        {
+            "name": "7.6",
+            "url": "https://projects.eclipse.org/projects/rt.jetty/releases/7.6",
+            "date": "2012-01-27"
+        },
+        {
+            "name": "8.0",
+            "url": "https://projects.eclipse.org/projects/rt.jetty/releases/8.0",
+            "date": "2011-09-01"
+        },
+        {
+            "name": "7.5",
+            "url": "https://projects.eclipse.org/projects/rt.jetty/releases/7.5",
+            "date": "2011-09-01"
+        },
+        {
+            "name": "7.4",
+            "url": "https://projects.eclipse.org/projects/rt.jetty/releases/7.4",
+            "date": "2011-04-14"
+        },
+        {
+            "name": "7.3",
+            "url": "https://projects.eclipse.org/projects/rt.jetty/releases/7.3",
+            "date": "2011-02-03"
+        },
+        {
+            "name": "7.2",
+            "url": "https://projects.eclipse.org/projects/rt.jetty/releases/7.2",
+            "date": "2010-10-20"
+        },
+        {
+            "name": "7.1",
+            "url": "https://projects.eclipse.org/projects/rt.jetty/releases/7.1",
+            "date": "2010-05-05"
+        },
+        {
+            "name": "7.0",
+            "url": "https://projects.eclipse.org/projects/rt.jetty/releases/7.0",
+            "date": "2009-10-05"
+        }
+    ]
+}

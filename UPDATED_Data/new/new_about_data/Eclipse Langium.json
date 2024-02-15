@@ -1,0 +1,53 @@
+{
+    "project_name": "Eclipse Langium",
+    "project_url": "https://projects.eclipse.org/projects/ecd.langium",
+    "status": "Incubating",
+    "tech": "Cloud Development",
+    "releases": [
+        {
+            "name": "2.1.3",
+            "url": "https://projects.eclipse.org/projects/ecd.langium/releases/2.1.3",
+            "date": "2023-11-21"
+        },
+        {
+            "name": "2.1.2",
+            "url": "https://projects.eclipse.org/projects/ecd.langium/releases/2.1.2",
+            "date": "2023-11-08"
+        },
+        {
+            "name": "2.1.1",
+            "url": "https://projects.eclipse.org/projects/ecd.langium/releases/2.1.1",
+            "date": "2023-11-06"
+        },
+        {
+            "name": "2.1.0",
+            "url": "https://projects.eclipse.org/projects/ecd.langium/releases/2.1.0",
+            "date": "2023-11-02"
+        },
+        {
+            "name": "2.0.2",
+            "url": "https://projects.eclipse.org/projects/ecd.langium/releases/2.0.2",
+            "date": "2023-09-05"
+        },
+        {
+            "name": "1.3.1",
+            "url": "https://projects.eclipse.org/projects/ecd.langium/releases/1.3.1",
+            "date": "2023-09-05"
+        },
+        {
+            "name": "2.0.1",
+            "url": "https://projects.eclipse.org/projects/ecd.langium/releases/2.0.1",
+            "date": "2023-08-22"
+        },
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/ecd.langium/releases/2.0.0",
+            "date": "2023-08-17"
+        },
+        {
+            "name": "1.3.0",
+            "url": "https://projects.eclipse.org/projects/ecd.langium/releases/1.3.0",
+            "date": "2023-08-17"
+        }
+    ]
+}

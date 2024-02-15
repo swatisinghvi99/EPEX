@@ -1,0 +1,48 @@
+{
+    "project_name": "LocationTech JTS Topology Suite",
+    "project_url": "https://projects.eclipse.org/projects/locationtech.jts",
+    "status": "Mature",
+    "tech": "LocationTech",
+    "releases": [
+        {
+            "name": "1.19.0",
+            "url": "https://projects.eclipse.org/projects/locationtech.jts/releases/1.19.0",
+            "date": "2022-06-01"
+        },
+        {
+            "name": "1.18.2",
+            "url": "https://projects.eclipse.org/projects/locationtech.jts/releases/1.18.2",
+            "date": "2021-08-27"
+        },
+        {
+            "name": "1.18.2",
+            "url": "https://projects.eclipse.org/projects/locationtech.jts/releases/1.18.2-0",
+            "date": "2021-08-27"
+        },
+        {
+            "name": "1.18.1",
+            "url": "https://projects.eclipse.org/projects/locationtech.jts/releases/1.18.1",
+            "date": "2021-02-26"
+        },
+        {
+            "name": "1.18.0",
+            "url": "https://projects.eclipse.org/projects/locationtech.jts/releases/1.18.0",
+            "date": "2020-10-31"
+        },
+        {
+            "name": "1.17.1",
+            "url": "https://projects.eclipse.org/projects/locationtech.jts/releases/1.17.1",
+            "date": "2020-08-27"
+        },
+        {
+            "name": "1.17.0",
+            "url": "https://projects.eclipse.org/projects/locationtech.jts/releases/1.17.0",
+            "date": "2020-07-01"
+        },
+        {
+            "name": "1.16.0",
+            "url": "https://projects.eclipse.org/projects/locationtech.jts/releases/1.16.0",
+            "date": "2018-09-12"
+        }
+    ]
+}

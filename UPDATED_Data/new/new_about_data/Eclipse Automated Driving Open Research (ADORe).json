@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse Automated Driving Open Research (ADORe)",
+    "project_url": "https://projects.eclipse.org/projects/automotive.adore",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "0.3.2",
+            "url": "https://projects.eclipse.org/projects/automotive.adore/releases/0.3.2",
+            "date": "2023-03-29"
+        }
+    ]
+}

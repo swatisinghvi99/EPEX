@@ -1,0 +1,278 @@
+{
+    "project_name": "Eclipse Theia",
+    "project_url": "https://projects.eclipse.org/projects/ecd.theia",
+    "status": "Mature",
+    "tech": "Cloud Development",
+    "releases": [
+        {
+            "name": "1.46.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.46.0",
+            "date": "2024-01-25"
+        },
+        {
+            "name": "1.45.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.45.0",
+            "date": "2023-12-21"
+        },
+        {
+            "name": "1.44.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.44.0",
+            "date": "2023-11-30"
+        },
+        {
+            "name": "1.43.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.43.0",
+            "date": "2023-10-26"
+        },
+        {
+            "name": "1.42.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.42.0",
+            "date": "2023-09-28"
+        },
+        {
+            "name": "1.41.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.41.0",
+            "date": "2023-08-31"
+        },
+        {
+            "name": "1.40.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.40.0",
+            "date": "2023-07-27"
+        },
+        {
+            "name": "1.39.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.39.0",
+            "date": "2023-06-29"
+        },
+        {
+            "name": "1.38.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.38.0",
+            "date": "2023-05-25"
+        },
+        {
+            "name": "1.37.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.37.0",
+            "date": "2023-04-27"
+        },
+        {
+            "name": "1.36.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.36.0",
+            "date": "2023-03-30"
+        },
+        {
+            "name": "1.35.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.35.0",
+            "date": "2023-02-23"
+        },
+        {
+            "name": "1.34.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.34.0",
+            "date": "2023-01-26"
+        },
+        {
+            "name": "1.33.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.33.0",
+            "date": "2022-12-20"
+        },
+        {
+            "name": "1.32.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.32.0",
+            "date": "2022-11-24"
+        },
+        {
+            "name": "1.31.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.31.0",
+            "date": "2022-10-27"
+        },
+        {
+            "name": "1.30.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.30.0",
+            "date": "2022-09-29"
+        },
+        {
+            "name": "1.29.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.29.0",
+            "date": "2022-08-25"
+        },
+        {
+            "name": "1.28.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.28.0",
+            "date": "2022-07-28"
+        },
+        {
+            "name": "1.27.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.27.0",
+            "date": "2022-06-30"
+        },
+        {
+            "name": "1.26.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.26.0",
+            "date": "2022-05-26"
+        },
+        {
+            "name": "1.25.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.25.0",
+            "date": "2022-04-28"
+        },
+        {
+            "name": "1.24.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.24.0",
+            "date": "2022-03-31"
+        },
+        {
+            "name": "1.23.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.23.0",
+            "date": "2022-02-24"
+        },
+        {
+            "name": "1.22.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.22.0",
+            "date": "2022-01-27"
+        },
+        {
+            "name": "1.21.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.21.0",
+            "date": "2021-12-16"
+        },
+        {
+            "name": "1.20.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.20.0",
+            "date": "2021-11-25"
+        },
+        {
+            "name": "1.19.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.19.0",
+            "date": "2021-10-28"
+        },
+        {
+            "name": "1.18.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.18.0",
+            "date": "2021-09-30"
+        },
+        {
+            "name": "1.17.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.17.0",
+            "date": "2021-08-26"
+        },
+        {
+            "name": "1.16.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.16.0",
+            "date": "2021-07-29"
+        },
+        {
+            "name": "1.15.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.15.0",
+            "date": "2021-06-30"
+        },
+        {
+            "name": "1.14.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.14.0",
+            "date": "2021-05-27"
+        },
+        {
+            "name": "1.13.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.13.0",
+            "date": "2021-04-29"
+        },
+        {
+            "name": "1.12.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.12.0",
+            "date": "2021-03-25"
+        },
+        {
+            "name": "1.11.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.11.0",
+            "date": "2021-02-25"
+        },
+        {
+            "name": "1.10.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.10.0",
+            "date": "2021-01-28"
+        },
+        {
+            "name": "1.9.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.9.0",
+            "date": "2020-12-16"
+        },
+        {
+            "name": "1.8.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.8.0",
+            "date": "2020-11-26"
+        },
+        {
+            "name": "1.7.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.7.0",
+            "date": "2020-10-29"
+        },
+        {
+            "name": "1.6.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.6.0",
+            "date": "2020-09-24"
+        },
+        {
+            "name": "1.5.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.5.0",
+            "date": "2020-08-27"
+        },
+        {
+            "name": "1.4.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.4.0",
+            "date": "2020-07-30"
+        },
+        {
+            "name": "1.3.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.3.0",
+            "date": "2020-06-25"
+        },
+        {
+            "name": "1.2.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.2.0",
+            "date": "2020-05-28"
+        },
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.1.0",
+            "date": "2020-04-30"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/1.0.0",
+            "date": "2020-03-31"
+        },
+        {
+            "name": "0.16.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/0.16.0",
+            "date": "2020-02-27"
+        },
+        {
+            "name": "0.15.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/0.15.0",
+            "date": "2020-01-30"
+        },
+        {
+            "name": "0.14.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/0.14.0",
+            "date": "2019-12-19"
+        },
+        {
+            "name": "0.13.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/0.13.0",
+            "date": "2019-11-28"
+        },
+        {
+            "name": "0.12.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/0.12.0",
+            "date": "2019-10-31"
+        },
+        {
+            "name": "0.11.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/0.11.0",
+            "date": "2019-09-26"
+        },
+        {
+            "name": "0.10.0",
+            "url": "https://projects.eclipse.org/projects/ecd.theia/releases/0.10.0",
+            "date": "2019-08-29"
+        }
+    ]
+}

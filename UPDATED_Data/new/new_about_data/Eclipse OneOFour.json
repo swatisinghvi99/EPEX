@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse OneOFour",
+    "project_url": "https://projects.eclipse.org/projects/iot.oneofour",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/iot.oneofour/releases/0.1.0",
+            "date": "2021-05-15"
+        }
+    ]
+}

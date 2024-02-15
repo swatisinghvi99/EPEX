@@ -1,0 +1,173 @@
+{
+    "project_name": "Eclipse Graphiti",
+    "project_url": "https://projects.eclipse.org/projects/modeling.gmp.graphiti",
+    "status": "Incubating",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "0.19.2",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.19.2",
+            "date": "2023-12-06"
+        },
+        {
+            "name": "0.19.1",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.19.1",
+            "date": "2022-12-07"
+        },
+        {
+            "name": "0.19.0",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.19.0",
+            "date": "2022-09-14"
+        },
+        {
+            "name": "0.18.0",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.18.0",
+            "date": "2021-06-16"
+        },
+        {
+            "name": "0.17.0",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.17.0",
+            "date": "2020-06-17"
+        },
+        {
+            "name": "0.16.1",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.16.1",
+            "date": "2019-09-18"
+        },
+        {
+            "name": "0.16.0",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.16.0",
+            "date": "2019-06-19"
+        },
+        {
+            "name": "0.15.0",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.15.0",
+            "date": "2018-06-27"
+        },
+        {
+            "name": "0.14.0",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.14.0",
+            "date": "2017-06-28"
+        },
+        {
+            "name": "0.13.2",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.13.2",
+            "date": "2016-12-16"
+        },
+        {
+            "name": "0.13.1",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.13.1",
+            "date": "2016-09-28"
+        },
+        {
+            "name": "0.13.0",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.13.0",
+            "date": "2016-06-22"
+        },
+        {
+            "name": "0.12.2",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.12.2",
+            "date": "2016-02-26"
+        },
+        {
+            "name": "0.12.1",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.12.1",
+            "date": "2015-09-25"
+        },
+        {
+            "name": "0.11.4",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.11.4",
+            "date": "2015-07-03"
+        },
+        {
+            "name": "0.12.0",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.12.0",
+            "date": "2015-06-24"
+        },
+        {
+            "name": "0.11.3",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.11.3",
+            "date": "2015-05-13"
+        },
+        {
+            "name": "0.11.2",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.11.2",
+            "date": "2015-02-27"
+        },
+        {
+            "name": "0.11.1",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.11.1",
+            "date": "2014-09-26"
+        },
+        {
+            "name": "0.11.0",
+            "url": "https://projects.eclipse.org/projects/modeling.gmp.graphiti/releases/0.11.0",
+            "date": "2014-06-25"
+        },
+        {
+            "name": "0.10.2",
+            "url": "https://projects.eclipse.org/projects/modeling.graphiti/releases/0.10.2",
+            "date": "2014-02-28"
+        },
+        {
+            "name": "0.10.1",
+            "url": "https://projects.eclipse.org/projects/modeling.gmp.graphiti/releases/0.10.1",
+            "date": "2013-09-27"
+        },
+        {
+            "name": "0.10.0",
+            "url": "https://projects.eclipse.org/projects/modeling.gmp.graphiti/releases/0.10.0",
+            "date": "2013-06-26"
+        },
+        {
+            "name": "0.9.2",
+            "url": "https://projects.eclipse.org/projects/modeling.gmp.graphiti/releases/0.9.2",
+            "date": "2013-03-01"
+        },
+        {
+            "name": "0.9.1",
+            "url": "https://projects.eclipse.org/projects/release/0.9.1-0",
+            "date": "2012-09-28"
+        },
+        {
+            "name": "0.9.0",
+            "url": "https://projects.eclipse.org/projects/release/0.9.0-5",
+            "date": "2012-06-27"
+        },
+        {
+            "name": "0.8.2",
+            "url": "https://projects.eclipse.org/projects/release/0.8.2",
+            "date": "2012-02-24"
+        },
+        {
+            "name": "0.7.3",
+            "url": "https://projects.eclipse.org/projects/release/0.7.3",
+            "date": "2011-09-27"
+        },
+        {
+            "name": "0.8.1",
+            "url": "https://projects.eclipse.org/projects/release/0.8.1",
+            "date": "2011-09-23"
+        },
+        {
+            "name": "0.7.2",
+            "url": "https://projects.eclipse.org/projects/release/0.7.2",
+            "date": "2011-07-05"
+        },
+        {
+            "name": "0.8.0",
+            "url": "https://projects.eclipse.org/projects/release/0.8.0-4",
+            "date": "2011-06-22"
+        },
+        {
+            "name": "0.7.1",
+            "url": "https://projects.eclipse.org/projects/release/0.7.1-0",
+            "date": "2011-01-11"
+        },
+        {
+            "name": "0.7.0",
+            "url": "https://projects.eclipse.org/projects/release/0.7.0-5",
+            "date": "2010-09-29"
+        }
+    ]
+}

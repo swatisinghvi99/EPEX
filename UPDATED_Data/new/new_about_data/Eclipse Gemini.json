@@ -1,0 +1,18 @@
+{
+    "project_name": "Eclipse Gemini",
+    "project_url": "https://projects.eclipse.org/projects/rt.gemini",
+    "status": "Mature",
+    "tech": "RT",
+    "releases": [
+        {
+            "name": "Restructuring Review",
+            "url": "https://projects.eclipse.org/projects/rt.gemini/reviews/restructuring-review",
+            "date": "2022-05-25"
+        },
+        {
+            "name": "Creation",
+            "url": "https://projects.eclipse.org/content/creation-40",
+            "date": "2010-02-10"
+        }
+    ]
+}

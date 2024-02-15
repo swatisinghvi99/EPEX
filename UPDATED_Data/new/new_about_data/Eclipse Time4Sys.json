@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse Time4Sys",
+    "project_url": "https://projects.eclipse.org/projects/polarsys.time4sys",
+    "status": "Incubating",
+    "tech": "PolarSys",
+    "releases": [
+        {
+            "name": "0.8.0",
+            "url": "https://projects.eclipse.org/projects/polarsys.polarsys.time4sys/releases/0.8.0",
+            "date": "2018-07-04"
+        }
+    ]
+}

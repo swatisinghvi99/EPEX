@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse Gran Sasso",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.gransasso",
+    "status": "Incubating",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/ee4j.gransasso/reviews/creation-review",
+            "date": "2021-12-01"
+        }
+    ]
+}

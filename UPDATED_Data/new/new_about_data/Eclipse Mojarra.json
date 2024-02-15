@@ -1,0 +1,43 @@
+{
+    "project_name": "Eclipse Mojarra",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.mojarra",
+    "status": "Mature",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "4.0.5",
+            "url": "https://projects.eclipse.org/projects/ee4j.mojarra/releases/4.0.5",
+            "date": "2023-11-13"
+        },
+        {
+            "name": "4.0.4",
+            "url": "https://projects.eclipse.org/projects/ee4j.mojarra/releases/4.0.4",
+            "date": "2023-09-09"
+        },
+        {
+            "name": "2.3.18",
+            "url": "https://projects.eclipse.org/projects/ee4j.mojarra/releases/2.3.18",
+            "date": "2022-06-24"
+        },
+        {
+            "name": "4.0.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.mojarra/releases/4.0.0",
+            "date": "2022-06-06"
+        },
+        {
+            "name": "2.3.17",
+            "url": "https://projects.eclipse.org/projects/ee4j.mojarra/releases/2.3.17",
+            "date": "2021-11-28"
+        },
+        {
+            "name": "3.0.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.mojarra/releases/3.0.0",
+            "date": "2020-10-28"
+        },
+        {
+            "name": "2.3.9",
+            "url": "https://projects.eclipse.org/projects/ee4j.mojarra/releases/2.3.9",
+            "date": "2018-11-30"
+        }
+    ]
+}

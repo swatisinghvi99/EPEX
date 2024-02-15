@@ -1,13 +1,28 @@
 {
     "project_name": "EGL Development Tools",
-    "project_url": "automotive.ambientlight",
-    "alias": "ambientlight",
-    "description": "",
-    "sponsor": "Incubator",
-    "mentor": "Garrett Rooney, Paul Querna",
-    "start_date": "2006-06-06",
-    "end_date": "2008-11-08",
+    "project_url": "https://projects.eclipse.org/projects/tools.edt",
     "status": "Incubating",
-    "incubation_time": "29",
-    "tech": "Automotive"
+    "tech": "Tools",
+    "releases": [
+        {
+            "name": "0.8.2",
+            "url": "https://projects.eclipse.org/projects/technology.edt/releases/0.8.2",
+            "date": "2013-01-18"
+        },
+        {
+            "name": "0.8.1",
+            "url": "https://projects.eclipse.org/projects/release/0.8.1-5",
+            "date": "2012-08-01"
+        },
+        {
+            "name": "0.8.0",
+            "url": "https://projects.eclipse.org/projects/release/0.8.0-22",
+            "date": "2012-04-13"
+        },
+        {
+            "name": "0.7.0",
+            "url": "https://projects.eclipse.org/projects/release/0.7.0-30",
+            "date": "2011-12-02"
+        }
+    ]
 }

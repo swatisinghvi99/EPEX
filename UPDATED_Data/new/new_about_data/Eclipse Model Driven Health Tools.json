@@ -1,0 +1,13 @@
+{
+    "project_name": "Eclipse Model Driven Health Tools",
+    "project_url": "https://projects.eclipse.org/projects/modeling.mdht",
+    "status": "Incubating",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "3.0 (Mars)",
+            "url": "https://projects.eclipse.org/projects/modeling.mdht/releases/3.0-mars",
+            "date": "2016-04-12"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "project_name": "Eclipse Formal Modeling Project",
+    "project_url": "https://projects.eclipse.org/projects/modeling.efm",
+    "status": "Incubating",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "2022.11 Progress Review",
+            "url": "https://projects.eclipse.org/projects/modeling.efm/reviews/2022.11-progress-review",
+            "date": "2023-01-18"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/modeling.efm/reviews/creation-review",
+            "date": "2016-02-17"
+        }
+    ]
+}
