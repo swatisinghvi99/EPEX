@@ -1,1 +1,0 @@
-The Synapse team continues to work towards an M2 release and graduation.

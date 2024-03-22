@@ -5,9 +5,9 @@ import json
 db_config = {
     "host": "localhost",
     "port": "5432",
-    "database": "swatis",
+    "database": "eclipseoss",
     "user": "swatisinghvi",
-    "password": ""  # Use your actual password (if set)
+    "password": "pass1234"  
 }
 
 def fetch_projects_by_technology():
@@ -30,7 +30,6 @@ def group_projects_by_category(projects, categories):
         if technology in categories:  # Direct match with category
             d[technology].append(project_name)
         else:
-            # Handle cases where a project's technology may not directly match the predefined categories
             for category in categories:
                 if category.lower() in technology.lower():
                     d[category].append(project_name)

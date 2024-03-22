@@ -1,1 +1,0 @@
-Very little community development is hampering this otherwise worthwhile server (as in httpd, tomcat, geronimo, etc) management project.

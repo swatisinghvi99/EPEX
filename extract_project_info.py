@@ -7,13 +7,12 @@ import json
 db_config = {
     "host": "localhost",
     "port": "5432",
-    "database": "swatis",
+    "database": "eclipseoss",
     "user": "swatisinghvi",
-    "password": ""
+    "password": "pass1234"
 }
 
 def create_table():
-    # Connect to the newly created database to create the table
     conn = psycopg2.connect(**db_config)
     cur = conn.cursor()
     cur.execute("""
@@ -23,19 +22,20 @@ def create_table():
             project_url VARCHAR(255),
             technology VARCHAR(255),
             state VARCHAR(255),
-            releases TEXT
+            releases TEXT,
+            mail_name TEXT
         );
     """)
     conn.commit()
     cur.close()
     conn.close()
 
-def insert_project(conn, project_name, project_url, technology, state, releases):
+def insert_project(conn, project_name, project_url, technology, state, releases, mail_name):
     with conn.cursor() as cur:
         cur.execute("""
-            INSERT INTO eclipse_projects (project_name, project_url, technology, state, releases)
-            VALUES (%s, %s, %s, %s, %s)
-        """, (project_name, project_url, technology, state, releases))
+            INSERT INTO eclipse_projects (project_name, project_url, technology, state, releases, mail_name)
+            VALUES (%s, %s, %s, %s, %s, %s)
+        """, (project_name, project_url, technology, state, releases, mail_name))
     conn.commit()
 
 
@@ -63,7 +63,7 @@ def scrape_additional_info(url):
 
     releases_div = soup.find("div", class_="field-name-field-releases")
     if releases_div:
-        for row in releases_div.find_all("tr")[1:]:  # Skip header row
+        for row in releases_div.find_all("tr")[1:]: 
             cols = row.find_all("td")
             release_name = cols[0].text.strip()
             release_url = "https://projects.eclipse.org" + cols[0].find("a")["href"].strip()
@@ -73,7 +73,7 @@ def scrape_additional_info(url):
         # If no Releases, scrape Reviews
         reviews_div = soup.find("div", class_="field-name-field-project-reviews")
         if reviews_div:
-            for row in reviews_div.find_all("tr")[1:]:  # Skip header row
+            for row in reviews_div.find_all("tr")[1:]:  
                 cols = row.find_all("td")
                 review_name = cols[0].text.strip()
                 review_url = "https://projects.eclipse.org" + cols[0].find("a")["href"].strip()
@@ -83,7 +83,20 @@ def scrape_additional_info(url):
     # Convert data to JSON string
     releases_or_reviews_json = json.dumps(data)
 
-    return technology, state, releases_or_reviews_json
+    # Extract mailing-list name
+    mailing_list_url = url+"/developer"
+    response = requests.get(mailing_list_url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+    mailing_list_links = soup.select('a[href*="mailman/listinfo"], a[href*="mailing-list"]')
+
+    if mailing_list_links:
+        mailing_list_link = mailing_list_links[0]
+        mailing_list_url = mailing_list_link.get("href")
+        mailing_list_name = mailing_list_url.split('/')[-1] if mailing_list_url else "N/A"
+    else:
+        mailing_list_name = "N/A"
+
+    return technology, state, releases_or_reviews_json, mailing_list_name
 
 def scrape_projects_and_store(base_url, total_pages, conn):
     for page in range(total_pages):
@@ -96,19 +109,14 @@ def scrape_projects_and_store(base_url, total_pages, conn):
         soup = BeautifulSoup(response.text, 'html.parser')
         
         for project_div in soup.find_all("div", class_="project-teaser-body"):
-            project_name = project_div.find("h4").text.replace("™","").replace("®","").strip()
+            project_name = project_div.find("h4").text.replace('™','').replace('®','').replace('Eclipse ','').replace('Jakarta ','').replace('LocationTech ','').strip()
             project_url = "https://projects.eclipse.org" + project_div.find("a")["href"] 
-            technology, state, releases = scrape_additional_info(project_url)
-            insert_project(conn, project_name, project_url, technology, state, releases)
+            technology, state, releases, mail_name = scrape_additional_info(project_url)
+            insert_project(conn, project_name, project_url, technology, state, releases, mail_name)
 
 try:
-    # Create table
     create_table()
-    
-    # Connect to the database
     conn = psycopg2.connect(**db_config)
-    
-    # Base URL and total number of pages
     base_url = "https://projects.eclipse.org/list-of-projects"
     total_pages = 22
     

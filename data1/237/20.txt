@@ -1,1 +1,0 @@
-Apache Trinidad is a library of JavaServer Faces components, runnable with every JSF-compliant implementation.
