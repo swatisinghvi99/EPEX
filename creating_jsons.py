@@ -8,7 +8,7 @@ db_config = {
     "port": "5432",
     "database": "eclipseoss",
     "user": "swatisinghvi",
-    "password": "pass1234"  
+    "password": "pass1234"    
 }
 
 def fetch_projects():

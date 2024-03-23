@@ -5,12 +5,12 @@
 // this provides commit stats , email stats and project information details
 
 function UpdateprojectInfo() {
-  var this_project = document.getElementById("txt_ide").value;
+  var this_project = document.getElementById("projectDropdown").value;
   
   console.log(this_project);
   var curr_month = document.getElementById("Month").value;
 
-  var new_file_path = alias_to_name[this_project] + "_" + curr_month;
+  // var new_file_path = alias_to_name[this_project] + "_" + curr_month;
   // set the months for the tech and social net
   document.getElementById("pro_month1").innerHTML = curr_month;
   document.getElementById("pro_month").innerHTML = curr_month;
@@ -38,7 +38,7 @@ function UpdateprojectInfo() {
 
   to_from_info = JSON.parse(
     readTextFile(
-      `./UPDATED_Data/new/new_month_intervals/ADAAA.json`
+      `./UPDATED_Data/new/new_month_intervals/aaspe.json`
     )
   );
 
@@ -58,8 +58,8 @@ function Actual_change(project_info, to_dates) {
     "</a>";
   document.getElementById("status").innerHTML = project_info.status;
   // document.getElementById("sponsor").innerHTML = project_info.sponsor;
-  // document.getElementById("start1").innerHTML = project_info.start_date;
-  // document.getElementById("end1").innerHTML = project_info.end_date;
+  document.getElementById("start1").innerHTML = project_info.start_date;
+  document.getElementById("end1").innerHTML = project_info.end_date;
 
   // document.getElementById("num_emails").innerHTML = Math.floor(
   //   email_info.num_emails

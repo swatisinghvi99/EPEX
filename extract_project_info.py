@@ -10,7 +10,7 @@ db_config = {
     "port": "5432",
     "database": "eclipseoss",
     "user": "swatisinghvi",
-    "password": "pass1234"
+    "password": "pass1234"  
 }
 def make_request_with_backoff(url, max_attempts=5):
     attempt = 0
@@ -117,7 +117,7 @@ def scrape_additional_info(url):
     else:
         mailing_list_name = "N/A"
     
-    github_repo_links_str = "N/A"
+    github_reposs_str = "N/A"
     
     github_section = soup.find('div', class_='field-name-field-project-github-org')
 
@@ -125,11 +125,11 @@ def scrape_additional_info(url):
         github_section = soup.find('div', class_='field-name-field-project-github-repos')
 
     if github_section:
-        github_repo_links = github_section.select('a[href*="github.com"]')
-        github_repo_links_str = ", ".join(link.get('href') for link in github_repo_links)
-        github_repo_links_str = github_repo_links_str.replace('https://github.com/','')
+        github_reposs = github_section.select('a[href*="github.com"]')
+        github_reposs_str = ", ".join(link.get('href') for link in github_reposs)
+        github_reposs_str = github_reposs_str.replace('https://github.com/','')
 
-    return technology, state, github_repo_links_str, releases_or_reviews_json, mailing_list_name
+    return technology, state, github_reposs_str, releases_or_reviews_json, mailing_list_name
 
 def scrape_projects_and_store(base_url, total_pages, conn):
     for page in range(total_pages):

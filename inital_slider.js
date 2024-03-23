@@ -1,62 +1,90 @@
 var d = {}; // This will be populated with the data from project_names.json
 
-var categories = ["Automotive", "Digital Twin", "Cloud Development", "Eclipse Project", "EE4J", "Adoptium", "IoT", 
-"LocationTech", "Modeling", "PolarSys", "RT", "SOA Platform", "Technology", "Tools", "Science", 
-"Web Tools Platform", "AsciiDoc", "OpenHW Group", "Oniro"];
-
-function populateCombinedDropdown() {
-  var combinedDropdown = document.getElementById('txt_ide');
-  combinedDropdown.innerHTML = ''; 
+// Populate the technology dropdown
+function populateTechnologyDropdown() {
+  var technologyDropdown = document.getElementById('technologyDropdown');
+  technologyDropdown.innerHTML = '';
 
   var defaultOption = document.createElement('option');
-  defaultOption.textContent = 'Select a project';
+  defaultOption.textContent = 'Select Technology';
   defaultOption.disabled = true;
   defaultOption.selected = true;
-  combinedDropdown.appendChild(defaultOption);
+  technologyDropdown.appendChild(defaultOption);
 
-  for (var category in d) {
-    var group = document.createElement('optgroup');
-    group.label = category;
-
-    d[category].forEach(function(product) {
-      var option = document.createElement('option');
-      option.value = product;
-      option.textContent = product;
-      group.appendChild(option);
-    });
-
-    combinedDropdown.appendChild(group);
+  for (var technology in d) {
+    var option = document.createElement('option');
+    option.value = technology;
+    option.textContent = technology;
+    technologyDropdown.appendChild(option);
   }
 }
 
-function filterDropdown() {
-  var input, filter, optgroups, options, i, j, hasVisibleChildren;
+// Populate the project dropdown based on selected technology
+function populateProjectDropdown() {
+  var projectDropdown = document.getElementById('projectDropdown');
+  var technologyDropdown = document.getElementById('technologyDropdown');
+  var selectedTechnology = technologyDropdown.value;
+  projectDropdown.innerHTML = '';
+
+  var defaultOption = document.createElement('option');
+  defaultOption.textContent = 'Select Project';
+  defaultOption.disabled = true;
+  defaultOption.selected = true;
+  projectDropdown.appendChild(defaultOption);
+
+  if (selectedTechnology && d[selectedTechnology]) {
+    Object.keys(d[selectedTechnology]).forEach(function(projectName) {
+      var option = document.createElement('option');
+      option.value = projectName;
+      option.textContent = projectName;
+      projectDropdown.appendChild(option);
+    });
+  }
+}
+
+// Populate the repository dropdown based on selected project
+function populateRepoDropdown() {
+  var repoDropdown = document.getElementById('repoDropdown');
+  var technologyDropdown = document.getElementById('technologyDropdown');
+  var projectDropdown = document.getElementById('projectDropdown');
+  var selectedTechnology = technologyDropdown.value;
+  var selectedProject = projectDropdown.value;
+  repoDropdown.innerHTML = '';
+
+  if (selectedTechnology && selectedProject && d[selectedTechnology][selectedProject]) {
+    d[selectedTechnology][selectedProject].forEach(function(repo) {
+      var option = document.createElement('option');
+      option.value = repo;
+      option.textContent = repo;
+      repoDropdown.appendChild(option);
+    });
+  }
+}
+
+// Modify the filter function to filter project names only
+function filterProjectDropdown() {
+  var input, filter, options, i;
   input = document.getElementById('searchInput');
   filter = input.value.toUpperCase();
-  optgroups = document.getElementById('txt_ide').getElementsByTagName('optgroup');
+  options = document.getElementById('projectDropdown').getElementsByTagName('option');
 
-  for (i = 0; i < optgroups.length; i++) {
-    options = optgroups[i].getElementsByTagName('option');
-    hasVisibleChildren = false;
-    for (j = 0; j < options.length; j++) {
-      if (options[j].textContent.toUpperCase().indexOf(filter) > -1) {
-        options[j].style.display = "";
-        hasVisibleChildren = true;
-      } else {
-        options[j].style.display = "none";
-      }
+  for (i = 0; i < options.length; i++) {
+    var txtValue = options[i].textContent || options[i].innerText;
+    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+      options[i].style.display = "";
+    } else {
+      options[i].style.display = "none";
     }
-    optgroups[i].style.display = hasVisibleChildren ? "" : "none";
   }
 }
 
-// Load the project names from project_names.json
+// Adjust the loadProjectNames function to also populate the technology dropdown
 function loadProjectNames() {
   fetch('project_names.json')
     .then(response => response.json())
     .then(data => {
       d = data;
-      populateCombinedDropdown();
+      populateTechnologyDropdown();
     })
     .catch(error => console.error('Error loading the project names:', error));
 }
@@ -64,5 +92,3 @@ function loadProjectNames() {
 document.addEventListener('DOMContentLoaded', function() {
   loadProjectNames();
 });
-
-document.getElementById('searchInput').addEventListener('keyup', filterDropdown);

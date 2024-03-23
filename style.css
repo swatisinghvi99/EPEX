@@ -19,14 +19,11 @@
   .main {
 
       flex-wrap: wrap;
-
       flex-flow: row wrap;
       /*  */
       background: #b3e6ff;
 
   }
-
-
     .box_H {
       background-color: white;
       margin: 1px;
@@ -34,9 +31,6 @@
       color: black;
       resize: both;
       border-radius: 1.2em;
-
-
-
     }
 
 
@@ -53,9 +47,6 @@
       transition: transform 400ms ease-in-out;
       filter: drop-shadow(0.75rem 0.75rem 0.75rem #225a75);
       /* filter: drop-shadow(0 0 0.75rem #225a75); */
-
-
-
     }
 
     .box1 {
@@ -79,8 +70,6 @@
 
     .one {
       display: flex;
-      height: 250px;
-
       min-height: 220px;
 
       /*  */
@@ -2257,14 +2246,15 @@ input[type=range]:focus::-ms-fill-lower {
 input[type=range]:focus::-ms-fill-upper {
   background: #3071A9;
 }
-#txt_ide {
+#projectDropdown {
   width: 148px;
   height: 20px;
-  margin-left: 124px;
+  margin-top: 3px;
+  margin-left: 51px;
 }
 .slider{
   text-align:center;
 }
 select{
-  margin-top: 3px;
+  margin-bottom: 5px;
 }
