@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import psycopg2
 import json
+import time
 
 # Database connection details
 db_config = {
@@ -11,6 +12,25 @@ db_config = {
     "user": "swatisinghvi",
     "password": "pass1234"
 }
+def make_request_with_backoff(url, max_attempts=5):
+    attempt = 0
+    delay = 1 
+
+    while attempt < max_attempts:
+        try:
+            response = requests.get(url)
+            if response.status_code // 100 == 2:
+                return response
+            else:
+                print(f"Request failed with status code {response.status_code}. Retrying...")
+                raise Exception("Request failed")
+        except Exception as e:
+            print(f"Attempt {attempt + 1} failed: {e}")
+            time.sleep(delay)
+            attempt += 1
+            delay *= 2  
+
+    raise Exception("Max attempts reached, request failed.")
 
 def create_table():
     conn = psycopg2.connect(**db_config)
@@ -22,6 +42,7 @@ def create_table():
             project_url VARCHAR(255),
             technology VARCHAR(255),
             state VARCHAR(255),
+            github_repo_link TEXT,
             releases TEXT,
             mail_name TEXT
         );
@@ -30,17 +51,17 @@ def create_table():
     cur.close()
     conn.close()
 
-def insert_project(conn, project_name, project_url, technology, state, releases, mail_name):
+def insert_project(conn, project_name, project_url, technology, state, github_repo_link, releases, mail_name):
     with conn.cursor() as cur:
         cur.execute("""
-            INSERT INTO eclipse_projects (project_name, project_url, technology, state, releases, mail_name)
-            VALUES (%s, %s, %s, %s, %s, %s)
-        """, (project_name, project_url, technology, state, releases, mail_name))
+            INSERT INTO eclipse_projects (project_name, project_url, technology, state, github_repo_link, releases, mail_name)
+            VALUES (%s, %s, %s, %s, %s, %s, %s)
+        """, (project_name, project_url, technology, state, github_repo_link, releases, mail_name))
     conn.commit()
 
 
 def scrape_additional_info(url):
-    response = requests.get(url)
+    response = make_request_with_backoff(url)
     soup = BeautifulSoup(response.text, 'html.parser')
 
     # Extract Technology
@@ -57,7 +78,7 @@ def scrape_additional_info(url):
 
     # Extract Releases
     releases_url = url + "/governance"
-    response = requests.get(releases_url)
+    response = make_request_with_backoff(releases_url)
     soup = BeautifulSoup(response.text, 'html.parser')
     data = []
 
@@ -85,7 +106,7 @@ def scrape_additional_info(url):
 
     # Extract mailing-list name
     mailing_list_url = url+"/developer"
-    response = requests.get(mailing_list_url)
+    response = make_request_with_backoff(mailing_list_url)
     soup = BeautifulSoup(response.text, 'html.parser')
     mailing_list_links = soup.select('a[href*="mailman/listinfo"], a[href*="mailing-list"]')
 
@@ -95,30 +116,44 @@ def scrape_additional_info(url):
         mailing_list_name = mailing_list_url.split('/')[-1] if mailing_list_url else "N/A"
     else:
         mailing_list_name = "N/A"
+    
+    github_repo_links_str = "N/A"
+    
+    github_section = soup.find('div', class_='field-name-field-project-github-org')
 
-    return technology, state, releases_or_reviews_json, mailing_list_name
+    if not github_section:
+        github_section = soup.find('div', class_='field-name-field-project-github-repos')
+
+    if github_section:
+        github_repo_links = github_section.select('a[href*="github.com"]')
+        github_repo_links_str = ", ".join(link.get('href') for link in github_repo_links)
+        github_repo_links_str = github_repo_links_str.replace('https://github.com/','')
+
+    return technology, state, github_repo_links_str, releases_or_reviews_json, mailing_list_name
 
 def scrape_projects_and_store(base_url, total_pages, conn):
     for page in range(total_pages):
         if page == 0:
             url = base_url
         else:
-            url = f"{base_url}?page={page}"
+            url = f"{base_url}&page={page}"
         
-        response = requests.get(url)
+        response = make_request_with_backoff(url)
         soup = BeautifulSoup(response.text, 'html.parser')
         
         for project_div in soup.find_all("div", class_="project-teaser-body"):
             project_name = project_div.find("h4").text.replace('™','').replace('®','').replace('Eclipse ','').replace('Jakarta ','').replace('LocationTech ','').strip()
             project_url = "https://projects.eclipse.org" + project_div.find("a")["href"] 
-            technology, state, releases, mail_name = scrape_additional_info(project_url)
-            insert_project(conn, project_name, project_url, technology, state, releases, mail_name)
+            technology, state, github_repo_link, releases, mail_name = scrape_additional_info(project_url)
+            insert_project(conn, project_name, project_url, technology, state, github_repo_link, releases, mail_name)
+
+        print(f"Stored all projects from page {page}")
 
 try:
     create_table()
     conn = psycopg2.connect(**db_config)
-    base_url = "https://projects.eclipse.org/list-of-projects"
-    total_pages = 22
+    base_url = "https://projects.eclipse.org/list-of-projects?combine=&field_project_techology_types_tid=All&field_state_value_2=All&field_archived_projects%5Barchived%5D=archived"
+    total_pages = 31
     
     print("Scraping Project Data")
     scrape_projects_and_store(base_url, total_pages, conn)
