@@ -1,0 +1,18 @@
+{
+    "project_name": "LSPHub",
+    "project_url": "https://projects.eclipse.org/projects/tools.lsphub",
+    "status": "Archived",
+    "tech": "Tools",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/tools.lsphub/reviews/termination-review",
+            "date": "2019-02-20"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/tools.lsphub/reviews/creation-review",
+            "date": "2018-02-21"
+        }
+    ]
+}

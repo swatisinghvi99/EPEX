@@ -1,0 +1,13 @@
+{
+    "project_name": "openK Core Modules",
+    "project_url": "https://projects.eclipse.org/projects/technology.openk-coremodules",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.openk-coremodules/reviews/creation-review",
+            "date": "2020-02-05"
+        }
+    ]
+}

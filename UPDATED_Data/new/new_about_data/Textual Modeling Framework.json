@@ -1,0 +1,13 @@
+{
+    "project_name": "Textual Modeling Framework",
+    "project_url": "https://projects.eclipse.org/projects/modeling.tmf",
+    "status": "Incubating",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "Creation",
+            "url": "https://projects.eclipse.org/content/creation-30",
+            "date": "2008-01-30"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "project_name": "MDM@WEB",
+    "project_url": "https://projects.eclipse.org/projects/technology.mdmweb",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Terminate",
+            "url": "https://projects.eclipse.org/projects/technology.mdmweb/reviews/terminate",
+            "date": "2017-06-21"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.mdmweb/reviews/creation-review",
+            "date": "2014-09-10"
+        }
+    ]
+}

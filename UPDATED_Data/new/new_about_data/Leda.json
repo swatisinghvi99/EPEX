@@ -1,0 +1,13 @@
+{
+    "project_name": "Leda",
+    "project_url": "https://projects.eclipse.org/projects/automotive.leda",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/automotive.leda/releases/0.1.0",
+            "date": "2023-08-01"
+        }
+    ]
+}

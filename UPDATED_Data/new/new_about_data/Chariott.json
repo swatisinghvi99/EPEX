@@ -1,0 +1,13 @@
+{
+    "project_name": "Chariott",
+    "project_url": "https://projects.eclipse.org/projects/automotive.chariott",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/automotive.chariott/reviews/creation-review",
+            "date": "2022-06-22"
+        }
+    ]
+}

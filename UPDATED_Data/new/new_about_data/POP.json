@@ -1,0 +1,13 @@
+{
+    "project_name": "POP",
+    "project_url": "https://projects.eclipse.org/projects/polarsys.pop",
+    "status": "Archived",
+    "tech": "PolarSys",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/polarsys.pop/reviews/termination-review",
+            "date": "2019-06-19"
+        }
+    ]
+}

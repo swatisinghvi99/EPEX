@@ -1,0 +1,13 @@
+{
+    "project_name": "AMW - Atlas Model Weaver",
+    "project_url": "https://projects.eclipse.org/projects/modeling.gmt.amw",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/modeling.gmt.amw/reviews/termination-review",
+            "date": "2015-02-11"
+        }
+    ]
+}

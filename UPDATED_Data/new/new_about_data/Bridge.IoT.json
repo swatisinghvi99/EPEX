@@ -1,0 +1,18 @@
+{
+    "project_name": "Bridge.IoT",
+    "project_url": "https://projects.eclipse.org/projects/technology.bridgeiot",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/technology.bridgeiot/reviews/termination-review",
+            "date": "2022-02-16"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.bridgeiot/reviews/creation-review",
+            "date": "2017-12-06"
+        }
+    ]
+}

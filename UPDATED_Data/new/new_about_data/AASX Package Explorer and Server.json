@@ -1,0 +1,18 @@
+{
+    "project_name": "AASX Package Explorer and Server",
+    "project_url": "https://projects.eclipse.org/projects/dt.aaspe",
+    "status": "Incubating",
+    "tech": "Digital Twin",
+    "releases": [
+        {
+            "name": "Progress Review 2024.02",
+            "url": "https://projects.eclipse.org/projects/dt.aaspe/reviews/progress-review-2024.02",
+            "date": "2024-02-28"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/dt.aaspe/reviews/creation-review",
+            "date": "2022-03-02"
+        }
+    ]
+}

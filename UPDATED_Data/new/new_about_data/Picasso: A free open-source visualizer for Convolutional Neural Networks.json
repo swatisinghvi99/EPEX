@@ -1,0 +1,13 @@
+{
+    "project_name": "Picasso: A free open-source visualizer for Convolutional Neural Networks",
+    "project_url": "https://projects.eclipse.org/projects/technology.picasso",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.picasso/reviews/creation-review",
+            "date": "2017-07-19"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "project_name": "Mylyn Builds",
+    "project_url": "https://projects.eclipse.org/projects/mylyn.builds",
+    "status": "Archived",
+    "tech": "Tools",
+    "releases": [
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/release/1.1.0-8",
+            "date": "2013-06-26"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/release/1.0.0-21",
+            "date": "2012-06-27"
+        },
+        {
+            "name": "0.9.0",
+            "url": "https://projects.eclipse.org/projects/release/0.9.0-11",
+            "date": "2012-03-21"
+        },
+        {
+            "name": "0.8.0",
+            "url": "https://projects.eclipse.org/projects/release/0.8.0-11",
+            "date": "2011-06-22"
+        },
+        {
+            "name": "0.7.0",
+            "url": "https://projects.eclipse.org/projects/release/0.7.0-14",
+            "date": "2011-03-16"
+        }
+    ]
+}

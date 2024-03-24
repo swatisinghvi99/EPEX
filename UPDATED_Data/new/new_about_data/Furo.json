@@ -1,0 +1,13 @@
+{
+    "project_name": "Furo",
+    "project_url": "https://projects.eclipse.org/projects/technology.furo",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.furo/reviews/creation-review",
+            "date": "2021-06-16"
+        }
+    ]
+}

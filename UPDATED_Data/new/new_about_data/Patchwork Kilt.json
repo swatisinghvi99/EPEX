@@ -1,0 +1,13 @@
+{
+    "project_name": "Patchwork Kilt",
+    "project_url": "https://projects.eclipse.org/projects/technology.pwkilt",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.pwkilt/reviews/creation-review",
+            "date": "2021-12-15"
+        }
+    ]
+}

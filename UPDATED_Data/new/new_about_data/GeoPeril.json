@@ -1,0 +1,13 @@
+{
+    "project_name": "GeoPeril",
+    "project_url": "https://projects.eclipse.org/projects/locationtech.geoperil",
+    "status": "Archived",
+    "tech": "LocationTech",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/locationtech.geoperil/reviews/termination-review",
+            "date": "2023-11-08"
+        }
+    ]
+}

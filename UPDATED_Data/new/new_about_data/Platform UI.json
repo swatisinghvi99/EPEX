@@ -1,0 +1,18 @@
+{
+    "project_name": "Platform UI",
+    "project_url": "https://projects.eclipse.org/projects/eclipse.platform.ui",
+    "status": "Archived",
+    "tech": "Eclipse Project",
+    "releases": [
+        {
+            "name": "Move Platform Text to Platform UI",
+            "url": "https://projects.eclipse.org/projects/eclipse.platform.text/reviews/move-platform-text-platform-ui",
+            "date": "2015-11-18"
+        },
+        {
+            "name": "Move e4 tools into Eclipse Platform UI",
+            "url": "https://projects.eclipse.org/projects/eclipse.e4/reviews/move-e4-tools-eclipse-platform-ui",
+            "date": "2014-12-17"
+        }
+    ]
+}

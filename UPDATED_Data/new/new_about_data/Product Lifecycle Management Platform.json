@@ -1,0 +1,13 @@
+{
+    "project_name": "Product Lifecycle Management Platform",
+    "project_url": "https://projects.eclipse.org/projects/polarsys.eplmp",
+    "status": "Archived",
+    "tech": "PolarSys",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/polarsys.eplmp/reviews/termination-review",
+            "date": "2021-12-01"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "project_name": "Golo",
+    "project_url": "https://projects.eclipse.org/projects/technology.golo",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "3.4.0",
+            "url": "https://projects.eclipse.org/projects/technology.golo/releases/3.4.0",
+            "date": "2021-10-22"
+        },
+        {
+            "name": "3.3.0",
+            "url": "https://projects.eclipse.org/projects/technology.golo/releases/3.3.0",
+            "date": "2018-11-30"
+        },
+        {
+            "name": "3.2.0",
+            "url": "https://projects.eclipse.org/projects/technology.golo/releases/3.2.0",
+            "date": "2017-06-26"
+        },
+        {
+            "name": "3.1.0",
+            "url": "https://projects.eclipse.org/projects/technology.golo/releases/3.1.0-0",
+            "date": "2016-03-21"
+        },
+        {
+            "name": "3.0.0-incubation",
+            "url": "https://projects.eclipse.org/projects/technology.golo/releases/3.0.0-incubation",
+            "date": "2015-11-10"
+        }
+    ]
+}

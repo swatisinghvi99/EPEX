@@ -1,0 +1,13 @@
+{
+    "project_name": "Apoapsis",
+    "project_url": "https://projects.eclipse.org/projects/technology.apoapsis",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.apoapsis/reviews/creation-review",
+            "date": "2024-01-19"
+        }
+    ]
+}

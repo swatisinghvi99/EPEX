@@ -1,0 +1,13 @@
+{
+    "project_name": "Web Modeling Framework",
+    "project_url": "https://projects.eclipse.org/projects/modeling.wmf",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/modeling.wmf/reviews/creation-review",
+            "date": "2015-06-03"
+        }
+    ]
+}

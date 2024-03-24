@@ -1,0 +1,253 @@
+{
+    "project_name": "Mosquitto",
+    "project_url": "https://projects.eclipse.org/projects/iot.mosquitto",
+    "status": "Mature",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "2.1",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/2.1",
+            "date": "2021-12-15"
+        },
+        {
+            "name": "2.0.10",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/2.0.10",
+            "date": "2021-04-03"
+        },
+        {
+            "name": "2.0.9",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/2.0.9",
+            "date": "2021-03-11"
+        },
+        {
+            "name": "2.0.8",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/2.0.8",
+            "date": "2021-02-25"
+        },
+        {
+            "name": "2.0.7",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/2.0.7",
+            "date": "2021-02-04"
+        },
+        {
+            "name": "2.0.5",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/2.0.5",
+            "date": "2021-01-11"
+        },
+        {
+            "name": "2.0.6",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/2.0.6",
+            "date": "2021-01-01"
+        },
+        {
+            "name": "2.0.4",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/2.0.4",
+            "date": "2020-12-22"
+        },
+        {
+            "name": "2.0.3",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/2.0.3",
+            "date": "2020-12-17"
+        },
+        {
+            "name": "2.0.2",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/2.0.2",
+            "date": "2020-12-10"
+        },
+        {
+            "name": "2.0.1",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/2.0.1",
+            "date": "2020-12-10"
+        },
+        {
+            "name": "2.0",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/2.0",
+            "date": "2020-12-03"
+        },
+        {
+            "name": "1.6.12",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.6.12",
+            "date": "2020-08-19"
+        },
+        {
+            "name": "1.6.11",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.6.11",
+            "date": "2020-08-11"
+        },
+        {
+            "name": "1.6.10",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.6.10",
+            "date": "2020-05-25"
+        },
+        {
+            "name": "1.6.9",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.6.9",
+            "date": "2020-02-27"
+        },
+        {
+            "name": "1.6.8",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.6.8",
+            "date": "2019-11-28"
+        },
+        {
+            "name": "1.6.7",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.6.7",
+            "date": "2019-09-25"
+        },
+        {
+            "name": "1.6.6",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.6.6",
+            "date": "2019-09-17"
+        },
+        {
+            "name": "1.6.5",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.6.5",
+            "date": "2019-09-12"
+        },
+        {
+            "name": "1.6.4",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.6.4",
+            "date": "2019-08-01"
+        },
+        {
+            "name": "1.6.3",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.6.3",
+            "date": "2019-06-18"
+        },
+        {
+            "name": "1.6.2",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.6.2",
+            "date": "2019-04-30"
+        },
+        {
+            "name": "1.6.1",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.6.1",
+            "date": "2019-04-26"
+        },
+        {
+            "name": "1.6",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.6",
+            "date": "2019-04-17"
+        },
+        {
+            "name": "1.5.8",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.5.8",
+            "date": "2019-02-28"
+        },
+        {
+            "name": "1.5.7",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.5.7",
+            "date": "2019-02-13"
+        },
+        {
+            "name": "1.5.6",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.5.6",
+            "date": "2019-02-06"
+        },
+        {
+            "name": "1.5.5",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.5.5",
+            "date": "2018-12-11"
+        },
+        {
+            "name": "1.5.4",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.5.4",
+            "date": "2018-11-08"
+        },
+        {
+            "name": "1.5.3",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.5.3",
+            "date": "2018-09-27"
+        },
+        {
+            "name": "1.5.2",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.5.2",
+            "date": "2018-09-19"
+        },
+        {
+            "name": "1.5.1",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.5.1",
+            "date": "2018-08-16"
+        },
+        {
+            "name": "1.5",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.5",
+            "date": "2018-05-02"
+        },
+        {
+            "name": "1.4.15",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.4.15",
+            "date": "2018-02-28"
+        },
+        {
+            "name": "1.4.14",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.4.14",
+            "date": "2017-07-10"
+        },
+        {
+            "name": "1.4.13",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.4.13",
+            "date": "2017-06-27"
+        },
+        {
+            "name": "1.4.12",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.4.12",
+            "date": "2017-05-29"
+        },
+        {
+            "name": "1.4.11",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.4.11",
+            "date": "2017-02-20"
+        },
+        {
+            "name": "1.4.9",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.4.9",
+            "date": "2016-06-03"
+        },
+        {
+            "name": "1.4.8",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.4.8",
+            "date": "2016-02-14"
+        },
+        {
+            "name": "1.4.7",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.4.7",
+            "date": "2015-12-21"
+        },
+        {
+            "name": "1.4.6",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.4.6",
+            "date": "2015-12-20"
+        },
+        {
+            "name": "1.4.5",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.4.5",
+            "date": "2015-11-09"
+        },
+        {
+            "name": "1.4.4",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.4.4",
+            "date": "2015-09-16"
+        },
+        {
+            "name": "1.4.3",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.4.3",
+            "date": "2015-08-19"
+        },
+        {
+            "name": "1.4.2",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.4.2",
+            "date": "2015-05-07"
+        },
+        {
+            "name": "1.4.1",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.4.1",
+            "date": "2015-03-30"
+        },
+        {
+            "name": "1.4",
+            "url": "https://projects.eclipse.org/projects/iot.mosquitto/releases/1.4",
+            "date": "2015-02-11"
+        }
+    ]
+}

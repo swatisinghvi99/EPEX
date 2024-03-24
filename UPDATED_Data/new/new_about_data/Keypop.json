@@ -1,0 +1,13 @@
+{
+    "project_name": "Keypop",
+    "project_url": "https://projects.eclipse.org/projects/iot.keypop",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "2023.11",
+            "url": "https://projects.eclipse.org/projects/iot.keypop/releases/2023.11",
+            "date": "2023-11-17"
+        }
+    ]
+}

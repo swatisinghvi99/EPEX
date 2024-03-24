@@ -1,0 +1,13 @@
+{
+    "project_name": "Platform Text",
+    "project_url": "https://projects.eclipse.org/projects/eclipse.platform.text",
+    "status": "Archived",
+    "tech": "Eclipse Project",
+    "releases": [
+        {
+            "name": "Move Platform Text to Platform UI",
+            "url": "https://projects.eclipse.org/projects/eclipse.platform.text/reviews/move-platform-text-platform-ui",
+            "date": "2015-11-18"
+        }
+    ]
+}

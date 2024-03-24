@@ -1,0 +1,18 @@
+{
+    "project_name": "SeCo Blocks",
+    "project_url": "https://projects.eclipse.org/projects/tools.secoblocks",
+    "status": "Archived",
+    "tech": "Tools",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/tools.secoblocks/reviews/termination-review",
+            "date": "2022-11-09"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/tools.secoblocks/reviews/creation-review",
+            "date": "2019-12-18"
+        }
+    ]
+}

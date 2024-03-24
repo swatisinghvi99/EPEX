@@ -1,0 +1,18 @@
+{
+    "project_name": "Cloud Application Management Framework",
+    "project_url": "https://projects.eclipse.org/projects/technology.camf",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/technology.camf/reviews/termination-review",
+            "date": "2023-09-27"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.camf/reviews/creation-review",
+            "date": "2014-10-08"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "project_name": "EMF Cloud",
+    "project_url": "https://projects.eclipse.org/projects/ecd.emfcloud",
+    "status": "Incubating",
+    "tech": "Cloud Development",
+    "releases": [
+        {
+            "name": "2.0.0-emfjson-jackson",
+            "url": "https://projects.eclipse.org/projects/ecd.emfcloud/releases/2.0.0-emfjson-jackson",
+            "date": "2021-12-15"
+        }
+    ]
+}

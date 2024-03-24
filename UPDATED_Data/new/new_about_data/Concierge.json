@@ -1,0 +1,18 @@
+{
+    "project_name": "Concierge",
+    "project_url": "https://projects.eclipse.org/projects/iot.concierge",
+    "status": "Archived",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "5.1",
+            "url": "https://projects.eclipse.org/projects/iot.concierge/releases/5.1",
+            "date": "2018-11-08"
+        },
+        {
+            "name": "5.0",
+            "url": "https://projects.eclipse.org/projects/iot.concierge/releases/5.0",
+            "date": "2015-10-28"
+        }
+    ]
+}

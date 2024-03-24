@@ -1,0 +1,18 @@
+{
+    "project_name": "Winery",
+    "project_url": "https://projects.eclipse.org/projects/automotive.winery",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "2025.03 Progress Review",
+            "url": "https://projects.eclipse.org/projects/automotive.winery/reviews/2025.03-progress-review",
+            "date": "2025-03-14"
+        },
+        {
+            "name": "2024.02 Progress Review",
+            "url": "https://projects.eclipse.org/projects/automotive.winery/reviews/2024.02-progress-review",
+            "date": "2024-02-16"
+        }
+    ]
+}

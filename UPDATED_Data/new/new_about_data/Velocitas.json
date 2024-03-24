@@ -1,0 +1,13 @@
+{
+    "project_name": "Velocitas",
+    "project_url": "https://projects.eclipse.org/projects/automotive.velocitas",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/automotive.velocitas/releases/0.1.0",
+            "date": "2023-05-12"
+        }
+    ]
+}

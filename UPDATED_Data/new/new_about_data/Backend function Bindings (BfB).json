@@ -1,0 +1,18 @@
+{
+    "project_name": "Backend function Bindings (BfB)",
+    "project_url": "https://projects.eclipse.org/projects/automotive.bfb",
+    "status": "Archived",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/automotive.bfb/reviews/termination-review",
+            "date": "2023-10-18"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/automotive.bfb/reviews/creation-review",
+            "date": "2022-08-03"
+        }
+    ]
+}

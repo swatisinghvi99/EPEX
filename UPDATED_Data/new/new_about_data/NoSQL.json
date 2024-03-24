@@ -1,0 +1,13 @@
+{
+    "project_name": "NoSQL",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.nosql",
+    "status": "Incubating",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "1.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.nosql/releases/1.0",
+            "date": "2023-11-01"
+        }
+    ]
+}

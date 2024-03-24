@@ -1,0 +1,13 @@
+{
+    "project_name": "IoT",
+    "project_url": "https://projects.eclipse.org/projects/iot",
+    "status": "Mature",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Top-level Project Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot/reviews/top-level-project-creation-review",
+            "date": "2014-08-13"
+        }
+    ]
+}

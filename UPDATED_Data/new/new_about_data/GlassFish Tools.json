@@ -1,0 +1,13 @@
+{
+    "project_name": "GlassFish Tools",
+    "project_url": "https://projects.eclipse.org/projects/webtools.glassfish-tools",
+    "status": "Archived",
+    "tech": "Web Tools Platform",
+    "releases": [
+        {
+            "name": "1.0.1",
+            "url": "https://projects.eclipse.org/projects/webtools.glassfish-tools/releases/1.0.1",
+            "date": "2019-10-02"
+        }
+    ]
+}

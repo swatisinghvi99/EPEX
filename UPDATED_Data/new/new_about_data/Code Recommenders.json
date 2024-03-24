@@ -1,0 +1,68 @@
+{
+    "project_name": "Code Recommenders",
+    "project_url": "https://projects.eclipse.org/projects/technology.recommenders",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "2.6.0",
+            "url": "https://projects.eclipse.org/projects/technology.recommenders/releases/2.6.0",
+            "date": "2019-06-27"
+        },
+        {
+            "name": "2.5.0",
+            "url": "https://projects.eclipse.org/projects/technology.recommenders/releases/2.5.0",
+            "date": "2017-12-06"
+        },
+        {
+            "name": "2.4.0",
+            "url": "https://projects.eclipse.org/projects/technology.recommenders/releases/2.4.0",
+            "date": "2016-06-22"
+        },
+        {
+            "name": "2.3.0",
+            "url": "https://projects.eclipse.org/projects/technology.recommenders/releases/2.3.0",
+            "date": "2016-02-26"
+        },
+        {
+            "name": "2.2.0",
+            "url": "https://projects.eclipse.org/projects/technology.recommenders/releases/2.2.0",
+            "date": "2015-06-24"
+        },
+        {
+            "name": "2.1.0",
+            "url": "https://projects.eclipse.org/projects/technology.recommenders/releases/2.1.0",
+            "date": "2014-06-25"
+        },
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.recommenders/releases/2.0.0",
+            "date": "2013-10-29"
+        },
+        {
+            "name": "1.0.5",
+            "url": "https://projects.eclipse.org/projects/technology.recommenders/releases/1.0.5",
+            "date": "2013-08-19"
+        },
+        {
+            "name": "1.0.4",
+            "url": "https://projects.eclipse.org/projects/technology.recommenders/releases/1.0.4",
+            "date": "2013-05-01"
+        },
+        {
+            "name": "1.0.3",
+            "url": "https://projects.eclipse.org/projects/technology.recommenders/releases/1.0.3",
+            "date": "2013-01-15"
+        },
+        {
+            "name": "1.0.2",
+            "url": "https://projects.eclipse.org/projects/technology.recommenders/releases/1.0.2",
+            "date": "2012-11-14"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/release/1.0.0-56",
+            "date": "2012-06-27"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "project_name": "iceoryx",
+    "project_url": "https://projects.eclipse.org/projects/technology.iceoryx",
+    "status": "Mature",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "2.0.0 (Blueberry)",
+            "url": "https://projects.eclipse.org/projects/technology.iceoryx/releases/2.0.0-blueberry",
+            "date": "2022-03-14"
+        },
+        {
+            "name": "1.0.0 (Almond)",
+            "url": "https://projects.eclipse.org/projects/technology.iceoryx/releases/1.0.0-almond",
+            "date": "2021-04-15"
+        }
+    ]
+}

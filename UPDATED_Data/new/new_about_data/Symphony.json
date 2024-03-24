@@ -1,0 +1,13 @@
+{
+    "project_name": "Symphony",
+    "project_url": "https://projects.eclipse.org/projects/iot.symphony",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot.symphony/reviews/creation-review",
+            "date": "2023-12-15"
+        }
+    ]
+}

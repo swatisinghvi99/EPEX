@@ -1,0 +1,18 @@
+{
+    "project_name": "E4",
+    "project_url": "https://projects.eclipse.org/projects/eclipse.incubator.e4",
+    "status": "Archived",
+    "tech": "Eclipse Project",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/eclipse.incubator.e4/reviews/termination-review",
+            "date": "2023-09-20"
+        },
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/eclipse.incubator/reviews/termination-review",
+            "date": "2014-03-05"
+        }
+    ]
+}

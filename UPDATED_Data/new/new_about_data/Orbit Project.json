@@ -1,0 +1,18 @@
+{
+    "project_name": "Orbit Project",
+    "project_url": "https://projects.eclipse.org/projects/tools.orbit",
+    "status": "Mature",
+    "tech": "Tools",
+    "releases": [
+        {
+            "name": "Termination Review and Eclipse Orbit Restructuring Review",
+            "url": "https://projects.eclipse.org/projects/rt.ebr/reviews/termination-review-and-eclipse-orbit-restructuring-review",
+            "date": "2023-02-08"
+        },
+        {
+            "name": "Creation",
+            "url": "https://projects.eclipse.org/content/creation-106",
+            "date": "2006-09-11"
+        }
+    ]
+}

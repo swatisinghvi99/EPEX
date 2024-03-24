@@ -1,0 +1,28 @@
+{
+    "project_name": "SmartHome",
+    "project_url": "https://projects.eclipse.org/projects/iot.smarthome",
+    "status": "Archived",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "0.10.0",
+            "url": "https://projects.eclipse.org/projects/iot.smarthome/releases/0.10.0",
+            "date": "2018-12-19"
+        },
+        {
+            "name": "0.9.0",
+            "url": "https://projects.eclipse.org/projects/iot.smarthome/releases/0.9.0",
+            "date": "2017-12-06"
+        },
+        {
+            "name": "0.8.0",
+            "url": "https://projects.eclipse.org/projects/iot.smarthome/releases/0.8.0",
+            "date": "2016-06-15"
+        },
+        {
+            "name": "0.7.0",
+            "url": "https://projects.eclipse.org/projects/iot.smarthome/releases/0.7.0",
+            "date": "2014-10-09"
+        }
+    ]
+}

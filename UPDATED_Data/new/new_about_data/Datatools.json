@@ -1,0 +1,13 @@
+{
+    "project_name": "Datatools",
+    "project_url": "https://projects.eclipse.org/projects/webtools.datatools",
+    "status": "Archived",
+    "tech": "Web Tools Platform",
+    "releases": [
+        {
+            "name": "Termination",
+            "url": "https://projects.eclipse.org/content/termination-1",
+            "date": "2012-12-19"
+        }
+    ]
+}

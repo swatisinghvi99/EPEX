@@ -1,0 +1,18 @@
+{
+    "project_name": "Papyrus for xtUML",
+    "project_url": "https://projects.eclipse.org/projects/modeling.papyrus-xtuml",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "Termination",
+            "url": "https://projects.eclipse.org/projects/modeling.papyrus-xtuml/reviews/termination",
+            "date": "2019-10-02"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/modeling.papyrus-xtuml/reviews/creation-review",
+            "date": "2016-06-01"
+        }
+    ]
+}

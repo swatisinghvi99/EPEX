@@ -1,0 +1,13 @@
+{
+    "project_name": "EATOP",
+    "project_url": "https://projects.eclipse.org/projects/modeling.eatop",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/modeling.eatop/reviews/termination-review",
+            "date": "2020-03-03"
+        }
+    ]
+}

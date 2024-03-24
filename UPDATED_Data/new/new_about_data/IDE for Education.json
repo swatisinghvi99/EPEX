@@ -1,0 +1,18 @@
+{
+    "project_name": "IDE for Education",
+    "project_url": "https://projects.eclipse.org/projects/technology.ide4edu",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/technology.ide4edu/reviews/termination-review",
+            "date": "2013-12-18"
+        },
+        {
+            "name": "Creation",
+            "url": "https://projects.eclipse.org/content/creation-68",
+            "date": "2009-02-11"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "project_name": "January",
+    "project_url": "https://projects.eclipse.org/projects/science.january",
+    "status": "Incubating",
+    "tech": "Science",
+    "releases": [
+        {
+            "name": "2.3.2",
+            "url": "https://projects.eclipse.org/projects/science.january/releases/2.3.2",
+            "date": "2022-02-16"
+        },
+        {
+            "name": "2.3.0",
+            "url": "https://projects.eclipse.org/projects/science.january/releases/2.3.0",
+            "date": "2019-10-02"
+        },
+        {
+            "name": "2.2.2",
+            "url": "https://projects.eclipse.org/projects/science.january/releases/2.2.2",
+            "date": "2019-05-10"
+        },
+        {
+            "name": "2.2.1",
+            "url": "https://projects.eclipse.org/projects/science.january/releases/2.2.1",
+            "date": "2018-12-14"
+        },
+        {
+            "name": "2.2.0",
+            "url": "https://projects.eclipse.org/projects/science.january/releases/2.2.0",
+            "date": "2018-11-07"
+        },
+        {
+            "name": "2.1.5",
+            "url": "https://projects.eclipse.org/projects/science.january/releases/2.1.5",
+            "date": "2018-07-06"
+        },
+        {
+            "name": "2.1.4",
+            "url": "https://projects.eclipse.org/projects/science.january/releases/2.1.4",
+            "date": "2018-05-31"
+        },
+        {
+            "name": "2.1.3",
+            "url": "https://projects.eclipse.org/projects/science.january/releases/2.1.3",
+            "date": "2018-05-29"
+        },
+        {
+            "name": "2.1.2",
+            "url": "https://projects.eclipse.org/projects/science.january/releases/2.1.2",
+            "date": "2018-03-14"
+        },
+        {
+            "name": "2.1.1",
+            "url": "https://projects.eclipse.org/projects/science.january/releases/2.1.1",
+            "date": "2018-03-09"
+        },
+        {
+            "name": "2.1.0",
+            "url": "https://projects.eclipse.org/projects/science.january/releases/2.1.0",
+            "date": "2017-10-09"
+        },
+        {
+            "name": "2.0.2",
+            "url": "https://projects.eclipse.org/projects/science.january/releases/2.0.2",
+            "date": "2017-06-07"
+        },
+        {
+            "name": "2.0.1",
+            "url": "https://projects.eclipse.org/projects/science.january/releases/2.0.1",
+            "date": "2017-03-31"
+        },
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/science.january/releases/2.0.0",
+            "date": "2017-03-17"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.january/releases/1.0.0",
+            "date": "2016-10-21"
+        }
+    ]
+}

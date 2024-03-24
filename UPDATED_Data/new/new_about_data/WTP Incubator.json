@@ -1,0 +1,28 @@
+{
+    "project_name": "WTP Incubator",
+    "project_url": "https://projects.eclipse.org/projects/webtools.incubator",
+    "status": "Archived",
+    "tech": "Web Tools Platform",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/webtools.incubator/reviews/termination-review",
+            "date": "2021-11-17"
+        },
+        {
+            "name": "Restructuring",
+            "url": "https://projects.eclipse.org/content/restructuring-6",
+            "date": "2011-01-12"
+        },
+        {
+            "name": "0.5.0 Component Release",
+            "url": "https://projects.eclipse.org/content/0.5.0-component-release",
+            "date": "2010-12-01"
+        },
+        {
+            "name": "Creation",
+            "url": "https://projects.eclipse.org/content/creation-114",
+            "date": "2007-09-17"
+        }
+    ]
+}

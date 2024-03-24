@@ -1,0 +1,13 @@
+{
+    "project_name": "Java Emitter Templates (JET2)",
+    "project_url": "https://projects.eclipse.org/projects/modeling.m2t.jet",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/release/2.0.0-9",
+            "date": "2011-06-22"
+        }
+    ]
+}

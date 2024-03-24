@@ -1,0 +1,53 @@
+{
+    "project_name": "Keyple",
+    "project_url": "https://projects.eclipse.org/projects/iot.keyple",
+    "status": "Mature",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "2.0.0 (C++ 22/07 Keyple)",
+            "url": "https://projects.eclipse.org/projects/iot.keyple/releases/2.0.0-c-2207-keyple",
+            "date": "2022-09-07"
+        },
+        {
+            "name": "2.0.0 (Java 21/10)",
+            "url": "https://projects.eclipse.org/projects/iot.keyple/releases/2.0.0-java-2110",
+            "date": "2021-10-06"
+        },
+        {
+            "name": "0.9.0 (Cpp 21/01)",
+            "url": "https://projects.eclipse.org/projects/iot.keyple/releases/0.9.0-cpp-2101",
+            "date": "2021-01-26"
+        },
+        {
+            "name": "1.0.0 (Java 20/12)",
+            "url": "https://projects.eclipse.org/projects/iot.keyple/releases/1.0.0-java-2012",
+            "date": "2020-12-16"
+        },
+        {
+            "name": "0.9.0 (Java 20/09)",
+            "url": "https://projects.eclipse.org/projects/iot.keyple/releases/0.9.0-java-2009",
+            "date": "2020-09-11"
+        },
+        {
+            "name": "0.8.1 (Cpp 20/05)",
+            "url": "https://projects.eclipse.org/projects/iot.keyple/releases/0.8.1-cpp-2005",
+            "date": "2020-05-25"
+        },
+        {
+            "name": "0.8.1 (Java 20/05)",
+            "url": "https://projects.eclipse.org/projects/iot.keyple/releases/0.8.1-java-2005",
+            "date": "2020-05-15"
+        },
+        {
+            "name": "0.8.0 (Java 20/01)",
+            "url": "https://projects.eclipse.org/projects/iot.keyple/releases/0.8.0-java-2001",
+            "date": "2020-01-28"
+        },
+        {
+            "name": "0.7.0 (Java 19/07)",
+            "url": "https://projects.eclipse.org/projects/iot.keyple/releases/0.7.0-0",
+            "date": "2019-09-18"
+        }
+    ]
+}

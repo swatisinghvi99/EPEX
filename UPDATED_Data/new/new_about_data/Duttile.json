@@ -1,0 +1,13 @@
+{
+    "project_name": "Duttile",
+    "project_url": "https://projects.eclipse.org/projects/iot.duttile",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot.duttile/reviews/creation-review",
+            "date": "2017-09-20"
+        }
+    ]
+}

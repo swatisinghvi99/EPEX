@@ -1,0 +1,18 @@
+{
+    "project_name": "Grela",
+    "project_url": "https://projects.eclipse.org/projects/iot.grela",
+    "status": "Archived",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/iot.grela/reviews/termination-review",
+            "date": "2022-02-02"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot.grela/reviews/creation-review",
+            "date": "2021-04-21"
+        }
+    ]
+}

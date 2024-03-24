@@ -1,0 +1,13 @@
+{
+    "project_name": "OpenHW Group CORE-V Cores",
+    "project_url": "https://projects.eclipse.org/projects/openhw.corev",
+    "status": "Incubating",
+    "tech": "OpenHW Group",
+    "releases": [
+        {
+            "name": "1.0",
+            "url": "https://projects.eclipse.org/projects/openhw.corev/releases/1.0",
+            "date": "2021-01-20"
+        }
+    ]
+}

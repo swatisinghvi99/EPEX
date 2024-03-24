@@ -1,0 +1,13 @@
+{
+    "project_name": "UA",
+    "project_url": "https://projects.eclipse.org/projects/eclipse.platform.ua",
+    "status": "Archived",
+    "tech": "Eclipse Project",
+    "releases": [
+        {
+            "name": "Restructuring (Merge into Platform UI)",
+            "url": "https://projects.eclipse.org/content/restructuring-merge-platform-ui",
+            "date": "2012-02-15"
+        }
+    ]
+}

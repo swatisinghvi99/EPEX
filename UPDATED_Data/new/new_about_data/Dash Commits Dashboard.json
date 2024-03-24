@@ -1,0 +1,13 @@
+{
+    "project_name": "Dash Commits Dashboard",
+    "project_url": "https://projects.eclipse.org/projects/technology.dash.dashboard",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/technology.dash.dashboard/reviews/termination-review",
+            "date": "2019-02-20"
+        }
+    ]
+}

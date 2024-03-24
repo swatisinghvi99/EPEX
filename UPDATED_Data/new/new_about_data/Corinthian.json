@@ -1,0 +1,13 @@
+{
+    "project_name": "Corinthian",
+    "project_url": "https://projects.eclipse.org/projects/technology.corinthian",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.corinthian/reviews/creation-review",
+            "date": "2023-12-27"
+        }
+    ]
+}

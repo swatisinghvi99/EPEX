@@ -1,0 +1,223 @@
+{
+    "project_name": "Jersey",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.jersey",
+    "status": "Mature",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "2.42",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.42",
+            "date": "2024-03-19"
+        },
+        {
+            "name": "3.1.5",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.1.5",
+            "date": "2023-12-12"
+        },
+        {
+            "name": "3.0.12",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.0.12",
+            "date": "2023-11-02"
+        },
+        {
+            "name": "2.41",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.41",
+            "date": "2023-10-20"
+        },
+        {
+            "name": "3.1.3",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.1.3",
+            "date": "2023-07-19"
+        },
+        {
+            "name": "3.0.11",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.0.11",
+            "date": "2023-07-12"
+        },
+        {
+            "name": "2.40",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.40",
+            "date": "2023-06-23"
+        },
+        {
+            "name": "3.1.2",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.1.2",
+            "date": "2023-05-17"
+        },
+        {
+            "name": "3.0.10",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.0.10",
+            "date": "2023-03-31"
+        },
+        {
+            "name": "2.39.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.39.1",
+            "date": "2023-03-23"
+        },
+        {
+            "name": "2.39",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.39",
+            "date": "2023-02-17"
+        },
+        {
+            "name": "3.1.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.1.1",
+            "date": "2023-01-31"
+        },
+        {
+            "name": "3.0.9",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.0.9",
+            "date": "2022-12-23"
+        },
+        {
+            "name": "2.38",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.38",
+            "date": "2022-12-22"
+        },
+        {
+            "name": "3.1.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.1.0",
+            "date": "2022-11-04"
+        },
+        {
+            "name": "3.1.0-M8",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.1.0-m8",
+            "date": "2022-09-09"
+        },
+        {
+            "name": "2.37",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.37",
+            "date": "2022-09-06"
+        },
+        {
+            "name": "3.0.8",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.0.8",
+            "date": "2022-09-02"
+        },
+        {
+            "name": "3.1.0 - Release Review",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.1.0-release-review",
+            "date": "2022-06-22"
+        },
+        {
+            "name": "3.1.0-M7",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.1.0-m7",
+            "date": "2022-06-17"
+        },
+        {
+            "name": "3.0.5",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.0.5",
+            "date": "2022-06-15"
+        },
+        {
+            "name": "2.36",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.36",
+            "date": "2022-06-13"
+        },
+        {
+            "name": "3.1.0-M3",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.1.0-m3",
+            "date": "2022-02-22"
+        },
+        {
+            "name": "3.0.4",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.0.4",
+            "date": "2022-02-09"
+        },
+        {
+            "name": "3.1.0-M2",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.1.0-m2",
+            "date": "2021-12-22"
+        },
+        {
+            "name": "3.1.0-M1",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.1.0-m1",
+            "date": "2021-12-14"
+        },
+        {
+            "name": "3.0.3",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.0.3",
+            "date": "2021-09-22"
+        },
+        {
+            "name": "2.35",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.35",
+            "date": "2021-09-03"
+        },
+        {
+            "name": "3.0.2",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.0.2",
+            "date": "2021-04-27"
+        },
+        {
+            "name": "2.34",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.34",
+            "date": "2021-04-20"
+        },
+        {
+            "name": "3.0.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.0.1",
+            "date": "2021-01-27"
+        },
+        {
+            "name": "2.33",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.33",
+            "date": "2020-12-18"
+        },
+        {
+            "name": "3.0.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.0.0",
+            "date": "2020-11-04"
+        },
+        {
+            "name": "3.0.0-RC2",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.0.0-rc2",
+            "date": "2020-11-03"
+        },
+        {
+            "name": "2.32",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.32",
+            "date": "2020-09-25"
+        },
+        {
+            "name": "3.0.0-M6",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.0.0-m6",
+            "date": "2020-06-18"
+        },
+        {
+            "name": "2.31",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.31",
+            "date": "2020-05-22"
+        },
+        {
+            "name": "3.0.0-M1",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/3.0.0-m1",
+            "date": "2020-04-20"
+        },
+        {
+            "name": "2.30.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.30.1",
+            "date": "2020-02-21"
+        },
+        {
+            "name": "2.30",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.30",
+            "date": "2020-02-19"
+        },
+        {
+            "name": "2.29.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.29.1",
+            "date": "2019-09-10"
+        },
+        {
+            "name": "2.29",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.29",
+            "date": "2019-06-25"
+        },
+        {
+            "name": "2.28",
+            "url": "https://projects.eclipse.org/projects/ee4j.jersey/releases/2.28",
+            "date": "2018-11-22"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "project_name": "openK User Modules",
+    "project_url": "https://projects.eclipse.org/projects/technology.openk-usermodules",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Restructuring Review",
+            "url": "https://projects.eclipse.org/projects/technology.elogbook/reviews/restructuring-review",
+            "date": "2020-02-05"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.openk-usermodules/reviews/creation-review",
+            "date": "2018-07-04"
+        }
+    ]
+}

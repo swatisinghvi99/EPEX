@@ -1,0 +1,78 @@
+{
+    "project_name": "Data Tools Model Base",
+    "project_url": "https://projects.eclipse.org/projects/tools.datatools.modelbase",
+    "status": "Archived",
+    "tech": "Tools",
+    "releases": [
+        {
+            "name": "1.10.2",
+            "url": "https://projects.eclipse.org/projects/release/1.10.2-2",
+            "date": "2013-02-22"
+        },
+        {
+            "name": "1.10.1",
+            "url": "https://projects.eclipse.org/projects/release/1.10.1-2",
+            "date": "2012-09-28"
+        },
+        {
+            "name": "1.10.0",
+            "url": "https://projects.eclipse.org/projects/release/1.10.0-2",
+            "date": "2012-06-27"
+        },
+        {
+            "name": "1.9.2",
+            "url": "https://projects.eclipse.org/projects/release/1.9.2-2",
+            "date": "2012-02-21"
+        },
+        {
+            "name": "1.9.1",
+            "url": "https://projects.eclipse.org/projects/release/1.9.1-2",
+            "date": "2011-09-20"
+        },
+        {
+            "name": "1.9.0",
+            "url": "https://projects.eclipse.org/projects/release/1.9.0-2",
+            "date": "2011-06-22"
+        },
+        {
+            "name": "1.8.2",
+            "url": "https://projects.eclipse.org/projects/release/1.8.2-2",
+            "date": "2011-02-25"
+        },
+        {
+            "name": "1.8.1",
+            "url": "https://projects.eclipse.org/projects/release/1.8.1-2",
+            "date": "2010-09-24"
+        },
+        {
+            "name": "1.8.0",
+            "url": "https://projects.eclipse.org/projects/release/1.8.0-2",
+            "date": "2010-06-23"
+        },
+        {
+            "name": "1.7.2",
+            "url": "https://projects.eclipse.org/projects/release/1.7.2-1",
+            "date": "2010-02-26"
+        },
+        {
+            "name": "1.7.1",
+            "url": "https://projects.eclipse.org/projects/release/1.7.1-1",
+            "date": "2009-09-25"
+        },
+        {
+            "name": "1.7.0",
+            "url": "https://projects.eclipse.org/projects/release/1.7.0-2",
+            "date": "2009-06-26"
+        },
+        {
+            "name": "1.6.2",
+            "url": "https://projects.eclipse.org/projects/release/1.6.2-2",
+            "date": "2009-02-25"
+        },
+        {
+            "name": "1.6.1",
+            "url": "https://projects.eclipse.org/projects/release/1.6.1-2",
+            "date": "2008-09-25"
+        }
+    ]
+}

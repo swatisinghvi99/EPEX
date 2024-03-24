@@ -1,0 +1,33 @@
+{
+    "project_name": "Equinox Bundles",
+    "project_url": "https://projects.eclipse.org/projects/rt.equinox.bundles",
+    "status": "Archived",
+    "tech": "Eclipse Project",
+    "releases": [
+        {
+            "name": "Merge Subprojects",
+            "url": "https://projects.eclipse.org/projects/rt.equinox/reviews/merge-subprojects",
+            "date": "2016-04-20"
+        },
+        {
+            "name": "Restructuring (Digraph Move)",
+            "url": "https://projects.eclipse.org/content/restructuring-digraph-move",
+            "date": "2011-04-06"
+        },
+        {
+            "name": "Graduation and Move",
+            "url": "https://projects.eclipse.org/content/graduation-and-move",
+            "date": "2009-05-20"
+        },
+        {
+            "name": "Graduation",
+            "url": "https://projects.eclipse.org/content/graduation-3",
+            "date": "2009-03-18"
+        },
+        {
+            "name": "Graduation",
+            "url": "https://projects.eclipse.org/content/graduation-4",
+            "date": "2008-03-12"
+        }
+    ]
+}

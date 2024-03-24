@@ -1,0 +1,13 @@
+{
+    "project_name": "EMF Query2",
+    "project_url": "https://projects.eclipse.org/projects/modeling.emf.query2",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "0.7.0",
+            "url": "https://projects.eclipse.org/projects/release/0.7.0-1",
+            "date": "2012-06-27"
+        }
+    ]
+}

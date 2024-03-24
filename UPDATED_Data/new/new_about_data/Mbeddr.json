@@ -1,0 +1,18 @@
+{
+    "project_name": "Mbeddr",
+    "project_url": "https://projects.eclipse.org/projects/technology.mbeddr",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/technology.mbeddr/reviews/termination-review",
+            "date": "2024-01-17"
+        },
+        {
+            "name": "Progress Review 2023.12",
+            "url": "https://projects.eclipse.org/projects/technology.mbeddr/reviews/progress-review-2023.12",
+            "date": "2023-12-13"
+        }
+    ]
+}

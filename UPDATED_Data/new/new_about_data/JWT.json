@@ -1,0 +1,73 @@
+{
+    "project_name": "JWT",
+    "project_url": "https://projects.eclipse.org/projects/soa.jwt",
+    "status": "Archived",
+    "tech": "SOA Platform",
+    "releases": [
+        {
+            "name": "1.8.0",
+            "url": "https://projects.eclipse.org/projects/soa.jwt/releases/1.8.0",
+            "date": "2018-06-27"
+        },
+        {
+            "name": "1.7.0",
+            "url": "https://projects.eclipse.org/projects/soa.jwt/releases/1.7.0",
+            "date": "2017-06-28"
+        },
+        {
+            "name": "1.6.0",
+            "url": "https://projects.eclipse.org/projects/soa.jwt/releases/1.6.0",
+            "date": "2016-06-22"
+        },
+        {
+            "name": "1.5.0",
+            "url": "https://projects.eclipse.org/projects/soa.jwt/releases/1.5.0",
+            "date": "2015-06-24"
+        },
+        {
+            "name": "1.4.0",
+            "url": "https://projects.eclipse.org/projects/soa.jwt/releases/1.4.0",
+            "date": "2014-06-25"
+        },
+        {
+            "name": "1.3.0",
+            "url": "https://projects.eclipse.org/projects/soa.jwt/releases/1.3.0",
+            "date": "2013-06-26"
+        },
+        {
+            "name": "1.2.0",
+            "url": "https://projects.eclipse.org/projects/release/1.2.0-14",
+            "date": "2012-06-27"
+        },
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/release/1.1.0-19",
+            "date": "2011-06-22"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/release/1.0.0-40",
+            "date": "2010-07-01"
+        },
+        {
+            "name": "0.7.0",
+            "url": "https://projects.eclipse.org/projects/release/0.7.0-21",
+            "date": "2009-12-18"
+        },
+        {
+            "name": "0.6.0",
+            "url": "https://projects.eclipse.org/projects/release/0.6.0-4",
+            "date": "2009-06-24"
+        },
+        {
+            "name": "0.5.0",
+            "url": "https://projects.eclipse.org/projects/release/0.5.0-5",
+            "date": "2008-10-29"
+        },
+        {
+            "name": "0.4.0",
+            "url": "https://projects.eclipse.org/projects/release/0.4.0-2",
+            "date": "2008-02-29"
+        }
+    ]
+}

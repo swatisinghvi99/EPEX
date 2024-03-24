@@ -1,0 +1,13 @@
+{
+    "project_name": "LSP4Jakarta, the Language Server for EE",
+    "project_url": "https://projects.eclipse.org/projects/technology.lsp4jakarta",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.lsp4jakarta/reviews/creation-review",
+            "date": "2020-10-28"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "project_name": "OpenMCx",
+    "project_url": "https://projects.eclipse.org/projects/automotive.openmcx",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "2022.02 Progress Review",
+            "url": "https://projects.eclipse.org/projects/automotive.openmcx/reviews/2022.02-progress-review",
+            "date": "2022-02-16"
+        },
+        {
+            "name": "Move to the Eclipse Automotive Top Level Project",
+            "url": "https://projects.eclipse.org/projects/automotive/reviews/move-eclipse-automotive-top-level-project",
+            "date": "2021-02-17"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.openmcx/reviews/creation-review",
+            "date": "2020-11-04"
+        }
+    ]
+}

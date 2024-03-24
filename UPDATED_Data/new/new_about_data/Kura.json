@@ -1,0 +1,193 @@
+{
+    "project_name": "Kura",
+    "project_url": "https://projects.eclipse.org/projects/iot.kura",
+    "status": "Mature",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "5.5.0",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/5.5.0",
+            "date": "2024-04-07"
+        },
+        {
+            "name": "5.4.1",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/5.4.1",
+            "date": "2024-03-04"
+        },
+        {
+            "name": "5.4.0",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/5.4.0",
+            "date": "2023-11-15"
+        },
+        {
+            "name": "5.3.1",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/5.3.1",
+            "date": "2023-07-07"
+        },
+        {
+            "name": "5.2.2",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/5.2.2",
+            "date": "2023-05-12"
+        },
+        {
+            "name": "5.3.0",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/5.3.0",
+            "date": "2023-04-14"
+        },
+        {
+            "name": "5.2.1",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/5.2.1",
+            "date": "2022-11-18"
+        },
+        {
+            "name": "4.1.4",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/4.1.4",
+            "date": "2022-11-10"
+        },
+        {
+            "name": "5.2.0",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/5.2.0",
+            "date": "2022-08-30"
+        },
+        {
+            "name": "5.1.2",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/5.1.2",
+            "date": "2022-06-30"
+        },
+        {
+            "name": "5.1.1",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/5.1.1",
+            "date": "2022-04-11"
+        },
+        {
+            "name": "5.1.0",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/5.1.0",
+            "date": "2022-03-21"
+        },
+        {
+            "name": "5.0.1",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/5.0.1",
+            "date": "2021-12-22"
+        },
+        {
+            "name": "4.1.3",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/4.1.3",
+            "date": "2021-12-22"
+        },
+        {
+            "name": "5.0.0",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/5.0.0",
+            "date": "2021-09-23"
+        },
+        {
+            "name": "4.1.1",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/4.1.1",
+            "date": "2020-04-16"
+        },
+        {
+            "name": "4.1.0",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/4.1.0",
+            "date": "2019-04-19"
+        },
+        {
+            "name": "4.0.0",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/4.0.0",
+            "date": "2018-10-19"
+        },
+        {
+            "name": "3.2.0",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/3.2.0",
+            "date": "2018-04-04"
+        },
+        {
+            "name": "3.1.1",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/3.1.1",
+            "date": "2017-12-07"
+        },
+        {
+            "name": "3.1.0",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/3.1.0",
+            "date": "2017-09-20"
+        },
+        {
+            "name": "3.0.0",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/3.0.0",
+            "date": "2017-04-27"
+        },
+        {
+            "name": "2.1.0",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/2.1.0",
+            "date": "2016-11-16"
+        },
+        {
+            "name": "2.0.2",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/2.0.2",
+            "date": "2016-10-24"
+        },
+        {
+            "name": "2.0.1",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/2.0.1",
+            "date": "2016-08-25"
+        },
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/2.0.0",
+            "date": "2016-05-25"
+        },
+        {
+            "name": "1.4.0",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/1.4.0",
+            "date": "2016-02-17"
+        },
+        {
+            "name": "1.3.0",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/1.3.0",
+            "date": "2015-10-21"
+        },
+        {
+            "name": "1.2.2",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/1.2.2",
+            "date": "2015-09-02"
+        },
+        {
+            "name": "1.2.1",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/1.2.1",
+            "date": "2015-08-12"
+        },
+        {
+            "name": "1.2.0",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/1.2.0",
+            "date": "2015-06-03"
+        },
+        {
+            "name": "1.1.2",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/1.1.2",
+            "date": "2015-04-10"
+        },
+        {
+            "name": "1.1.1",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/1.1.1",
+            "date": "2015-02-05"
+        },
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/1.1.0",
+            "date": "2014-12-17"
+        },
+        {
+            "name": "1.0.0 (Kura)",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/1.0.0-kura",
+            "date": "2014-09-26"
+        },
+        {
+            "name": "0.7.1 (Kura)",
+            "url": "https://projects.eclipse.org/projects/iot.kura/releases/0.7.1-kura",
+            "date": "2014-09-05"
+        },
+        {
+            "name": "0.7 (Kura)",
+            "url": "https://projects.eclipse.org/node/7641",
+            "date": "2014-08-14"
+        }
+    ]
+}

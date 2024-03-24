@@ -1,0 +1,33 @@
+{
+    "project_name": "NeoSCADA",
+    "project_url": "https://projects.eclipse.org/projects/iot.eclipsescada",
+    "status": "Archived",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "0.5.0",
+            "url": "https://projects.eclipse.org/projects/iot.eclipsescada/releases/0.5.0",
+            "date": "2018-04-27"
+        },
+        {
+            "name": "0.4.0",
+            "url": "https://projects.eclipse.org/projects/iot.eclipsescada/releases/0.4.0",
+            "date": "2017-01-18"
+        },
+        {
+            "name": "0.3.0",
+            "url": "https://projects.eclipse.org/projects/iot.eclipsescada/releases/0.3.0",
+            "date": "2016-04-06"
+        },
+        {
+            "name": "0.2.0",
+            "url": "https://projects.eclipse.org/node/7446",
+            "date": "2015-01-21"
+        },
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/node/7307",
+            "date": "2014-04-30"
+        }
+    ]
+}

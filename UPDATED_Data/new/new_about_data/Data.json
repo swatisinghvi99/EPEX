@@ -1,0 +1,13 @@
+{
+    "project_name": "Data",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.data",
+    "status": "Incubating",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "1.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.data/releases/1.0",
+            "date": "2023-11-01"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "project_name": "MOSAIC",
+    "project_url": "https://projects.eclipse.org/projects/automotive.mosaic",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "21.1",
+            "url": "https://projects.eclipse.org/projects/automotive.mosaic/releases/21.1",
+            "date": "2021-10-07"
+        },
+        {
+            "name": "21.0",
+            "url": "https://projects.eclipse.org/projects/automotive.mosaic/releases/21.0",
+            "date": "2021-03-10"
+        },
+        {
+            "name": "20.0",
+            "url": "https://projects.eclipse.org/projects/technology.mosaic/releases/20.0",
+            "date": "2020-10-19"
+        }
+    ]
+}

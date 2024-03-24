@@ -1,0 +1,18 @@
+{
+    "project_name": "Jemo - Cloud Application Runtime",
+    "project_url": "https://projects.eclipse.org/projects/technology.jemo",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/technology.jemo/reviews/termination-review",
+            "date": "2023-09-14"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.jemo/reviews/creation-review",
+            "date": "2018-12-19"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "project_name": "SDV Blueprints",
+    "project_url": "https://projects.eclipse.org/projects/automotive.sdv-blueprints",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/automotive.sdv-blueprints/reviews/creation-review",
+            "date": "2023-06-07"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "project_name": "Fundamental Modeling Concepts",
+    "project_url": "https://projects.eclipse.org/projects/modeling.fmc",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/modeling.fmc/reviews/termination-review",
+            "date": "2022-06-08"
+        }
+    ]
+}

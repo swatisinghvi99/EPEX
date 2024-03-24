@@ -1,0 +1,13 @@
+{
+    "project_name": "ArchE",
+    "project_url": "https://projects.eclipse.org/projects/automotive.arche",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/automotive.arche/reviews/creation-review",
+            "date": "2022-11-16"
+        }
+    ]
+}

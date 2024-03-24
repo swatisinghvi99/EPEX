@@ -1,0 +1,18 @@
+{
+    "project_name": "Krikkit",
+    "project_url": "https://projects.eclipse.org/projects/technology.krikkit",
+    "status": "Archived",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/iot.krikkit/reviews/termination-review",
+            "date": "2017-10-18"
+        },
+        {
+            "name": "Top-level Project Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot/reviews/top-level-project-creation-review",
+            "date": "2014-08-13"
+        }
+    ]
+}

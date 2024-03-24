@@ -1,0 +1,13 @@
+{
+    "project_name": "UML Profiles Repository",
+    "project_url": "https://projects.eclipse.org/projects/modeling.upr",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "0.9.0 incubation",
+            "url": "https://projects.eclipse.org/projects/modeling.upr/releases/0.9.0-incubation",
+            "date": "2014-11-26"
+        }
+    ]
+}

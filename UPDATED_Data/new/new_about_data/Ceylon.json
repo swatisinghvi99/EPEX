@@ -1,0 +1,18 @@
+{
+    "project_name": "Ceylon",
+    "project_url": "https://projects.eclipse.org/projects/technology.ceylon",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/technology.ceylon/reviews/termination-review",
+            "date": "2023-04-05"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.ceylon/reviews/creation-review",
+            "date": "2017-07-19"
+        }
+    ]
+}

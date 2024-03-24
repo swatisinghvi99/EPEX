@@ -1,0 +1,13 @@
+{
+    "project_name": "AAS Web Client",
+    "project_url": "https://projects.eclipse.org/projects/dt.aaswc",
+    "status": "Incubating",
+    "tech": "Digital Twin",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/dt.aaswc/reviews/creation-review",
+            "date": "2022-03-23"
+        }
+    ]
+}

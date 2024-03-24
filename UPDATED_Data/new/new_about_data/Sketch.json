@@ -1,0 +1,13 @@
+{
+    "project_name": "Sketch",
+    "project_url": "https://projects.eclipse.org/projects/technology.sketch",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/release/0.1.0-8",
+            "date": "2013-05-20"
+        }
+    ]
+}

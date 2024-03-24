@@ -1,0 +1,13 @@
+{
+    "project_name": "Franca",
+    "project_url": "https://projects.eclipse.org/projects/modeling.franca",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/modeling.franca/reviews/creation-review",
+            "date": "2014-02-05"
+        }
+    ]
+}

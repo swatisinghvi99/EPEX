@@ -1,0 +1,28 @@
+{
+    "project_name": "Flux",
+    "project_url": "https://projects.eclipse.org/projects/technology.flux",
+    "status": "Archived",
+    "tech": "Cloud Development",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/ecd.flux/reviews/termination-review",
+            "date": "2019-02-20"
+        },
+        {
+            "name": "Move to Eclipse Cloud Development Top Level Project",
+            "url": "https://projects.eclipse.org/projects/technology.flux/reviews/move-eclipse-cloud-development-top-level-project",
+            "date": "2015-04-29"
+        },
+        {
+            "name": "Top-Level Project Creation",
+            "url": "https://projects.eclipse.org/projects/ecd/reviews/creation",
+            "date": "2014-11-05"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.flux/reviews/creation-review",
+            "date": "2014-03-26"
+        }
+    ]
+}

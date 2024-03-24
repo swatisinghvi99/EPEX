@@ -1,0 +1,13 @@
+{
+    "project_name": "IOTA Trinity",
+    "project_url": "https://projects.eclipse.org/projects/technology.trinity",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.trinity/reviews/creation-review",
+            "date": "2019-01-16"
+        }
+    ]
+}

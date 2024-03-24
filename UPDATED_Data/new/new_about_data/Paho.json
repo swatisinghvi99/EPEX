@@ -1,0 +1,98 @@
+{
+    "project_name": "Paho",
+    "project_url": "https://projects.eclipse.org/projects/iot.paho",
+    "status": "Mature",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "2.0.0 (Python client)",
+            "url": "https://projects.eclipse.org/projects/iot.paho/releases/2.0.0-python-client",
+            "date": "2024-02-10"
+        },
+        {
+            "name": "0.20.0 (Go v5 client)",
+            "url": "https://projects.eclipse.org/projects/iot.paho/releases/0.20.0-go-v5-client",
+            "date": "2024-02-03"
+        },
+        {
+            "name": "1.3.2 (C++ client)",
+            "url": "https://projects.eclipse.org/projects/iot.paho/releases/1.3.2-c-client",
+            "date": "2023-12-06"
+        },
+        {
+            "name": "1.3.1 (C++ client)",
+            "url": "https://projects.eclipse.org/projects/iot.paho/releases/1.3.1-c-client-0",
+            "date": "2023-11-23"
+        },
+        {
+            "name": "1.3.0 (C++ client)",
+            "url": "https://projects.eclipse.org/projects/iot.paho/releases/1.3.0-c-client",
+            "date": "2023-11-22"
+        },
+        {
+            "name": "1.3.13 (C client)",
+            "url": "https://projects.eclipse.org/projects/iot.paho/releases/1.3.13-c-client",
+            "date": "2023-10-19"
+        },
+        {
+            "name": "1.4.3 (Go v3 client)",
+            "url": "https://projects.eclipse.org/projects/iot.paho/releases/1.4.3-go-v3-client",
+            "date": "2023-07-06"
+        },
+        {
+            "name": "1.3.10 (C client)",
+            "url": "https://projects.eclipse.org/projects/iot.paho/releases/1.3.10-c-client",
+            "date": "2022-03-28"
+        },
+        {
+            "name": "1.6.1 (Python client)",
+            "url": "https://projects.eclipse.org/projects/iot.paho/releases/1.6.1-python-client",
+            "date": "2021-10-21"
+        },
+        {
+            "name": "1.3.9 (C client)",
+            "url": "https://projects.eclipse.org/projects/iot.paho/releases/1.3.9-c-client",
+            "date": "2021-05-26"
+        },
+        {
+            "name": "1.3.8 (C client)",
+            "url": "https://projects.eclipse.org/projects/iot.paho/releases/1.3.8-c-client",
+            "date": "2020-12-27"
+        },
+        {
+            "name": "1.3.1 (C client)",
+            "url": "https://projects.eclipse.org/projects/iot.paho/releases/1.3.1-c-client",
+            "date": "2019-08-06"
+        },
+        {
+            "name": "1.4.0 (Photon)",
+            "url": "https://projects.eclipse.org/projects/iot.paho/releases/1.4.0-photon",
+            "date": "2018-06-27"
+        },
+        {
+            "name": "1.3.0 (Oxygen)",
+            "url": "https://projects.eclipse.org/projects/iot.paho/releases/1.3.0-oxygen",
+            "date": "2017-06-28"
+        },
+        {
+            "name": "1.2.0 (Neon)",
+            "url": "https://projects.eclipse.org/projects/iot.paho/releases/1.2.0-neon",
+            "date": "2016-06-17"
+        },
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/iot.paho/releases/1.1.0",
+            "date": "2015-01-30"
+        },
+        {
+            "name": "1.0.0 (Luna)",
+            "url": "https://projects.eclipse.org/projects/iot.paho/releases/1.0.0-luna",
+            "date": "2014-06-25"
+        },
+        {
+            "name": "0.9.0",
+            "url": "https://projects.eclipse.org/projects/iot.paho/releases/0.9.0",
+            "date": "2014-05-02"
+        }
+    ]
+}

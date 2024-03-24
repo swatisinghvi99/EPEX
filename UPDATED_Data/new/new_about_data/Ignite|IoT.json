@@ -1,0 +1,13 @@
+{
+    "project_name": "Ignite|IoT",
+    "project_url": "https://projects.eclipse.org/projects/iot.ignite",
+    "status": "Archived",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot.ignite/reviews/creation-review",
+            "date": "2016-08-17"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "project_name": "b3",
+    "project_url": "https://projects.eclipse.org/projects/modeling.emft.b3",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "0.3.0",
+            "url": "https://projects.eclipse.org/projects/release/0.3.0-1",
+            "date": "2012-09-20"
+        },
+        {
+            "name": "0.2.0",
+            "url": "https://projects.eclipse.org/projects/release/0.2.0-1",
+            "date": "2010-06-15"
+        },
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/release/0.1.0-1",
+            "date": "2010-03-26"
+        }
+    ]
+}

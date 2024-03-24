@@ -1,0 +1,68 @@
+{
+    "project_name": "EE Platform",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.jakartaee-platform",
+    "status": "Mature",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "Core Profile 11",
+            "url": "https://projects.eclipse.org/projects/ee4j.jakartaee-platform/releases/core-profile-11",
+            "date": "2024-03-31"
+        },
+        {
+            "name": "Web Profile 11",
+            "url": "https://projects.eclipse.org/projects/ee4j.jakartaee-platform/releases/web-profile-11",
+            "date": "2024-03-31"
+        },
+        {
+            "name": "11",
+            "url": "https://projects.eclipse.org/projects/ee4j.jakartaee-platform/releases/11",
+            "date": "2024-03-31"
+        },
+        {
+            "name": "Web Profile 10",
+            "url": "https://projects.eclipse.org/projects/ee4j.jakartaee-platform/releases/web-profile-10",
+            "date": "2022-09-13"
+        },
+        {
+            "name": "10",
+            "url": "https://projects.eclipse.org/projects/ee4j.jakartaee-platform/releases/10",
+            "date": "2022-09-13"
+        },
+        {
+            "name": "Core Profile 10",
+            "url": "https://projects.eclipse.org/projects/ee4j.jakartaee-platform/releases/core-profile-10",
+            "date": "2022-08-15"
+        },
+        {
+            "name": "Web Profile 9.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.jakartaee-platform/releases/web-profile-9.1",
+            "date": "2021-05-25"
+        },
+        {
+            "name": "9.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.jakartaee-platform/releases/9.1",
+            "date": "2021-05-25"
+        },
+        {
+            "name": "9",
+            "url": "https://projects.eclipse.org/projects/ee4j.jakartaee-platform/releases/9",
+            "date": "2020-11-20"
+        },
+        {
+            "name": "Web Profile 9",
+            "url": "https://projects.eclipse.org/projects/ee4j.jakartaee-platform/releases/web-profile-9",
+            "date": "2020-11-20"
+        },
+        {
+            "name": "Managed Beans 2.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.jakartaee-platform/releases/managed-beans-2.0",
+            "date": "2020-11-20"
+        },
+        {
+            "name": "8",
+            "url": "https://projects.eclipse.org/projects/ee4j.jakartaee-platform/releases/8",
+            "date": "2019-09-10"
+        }
+    ]
+}

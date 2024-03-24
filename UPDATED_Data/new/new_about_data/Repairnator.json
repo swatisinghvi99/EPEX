@@ -1,0 +1,13 @@
+{
+    "project_name": "Repairnator",
+    "project_url": "https://projects.eclipse.org/projects/technology.repairnator",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.repairnator/reviews/creation-review",
+            "date": "2019-07-03"
+        }
+    ]
+}

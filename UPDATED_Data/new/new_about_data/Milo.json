@@ -1,0 +1,28 @@
+{
+    "project_name": "Milo",
+    "project_url": "https://projects.eclipse.org/projects/iot.milo",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "0.5.0",
+            "url": "https://projects.eclipse.org/projects/iot.milo/releases/0.5.0",
+            "date": "2020-09-28"
+        },
+        {
+            "name": "0.4.0",
+            "url": "https://projects.eclipse.org/projects/iot.milo/releases/0.4.0",
+            "date": "2020-04-06"
+        },
+        {
+            "name": "0.3.0",
+            "url": "https://projects.eclipse.org/projects/iot.milo/releases/0.3.0",
+            "date": "2019-04-29"
+        },
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/iot.milo/releases/0.1.0",
+            "date": "2016-12-07"
+        }
+    ]
+}

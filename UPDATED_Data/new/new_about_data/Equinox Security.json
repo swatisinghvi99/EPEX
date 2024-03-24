@@ -1,0 +1,18 @@
+{
+    "project_name": "Equinox Security",
+    "project_url": "https://projects.eclipse.org/projects/rt.equinox.security",
+    "status": "Archived",
+    "tech": "Eclipse Project",
+    "releases": [
+        {
+            "name": "Restructuring (Security and Website Subproject Termination)",
+            "url": "https://projects.eclipse.org/projects/rt.equinox/reviews/restructuring-security-and-website-subproject-termination",
+            "date": "2014-02-26"
+        },
+        {
+            "name": "Graduation",
+            "url": "https://projects.eclipse.org/content/graduation-6",
+            "date": "2008-02-13"
+        }
+    ]
+}

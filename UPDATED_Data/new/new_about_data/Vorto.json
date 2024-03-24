@@ -1,0 +1,33 @@
+{
+    "project_name": "Vorto",
+    "project_url": "https://projects.eclipse.org/projects/iot.vorto",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/iot.vorto/releases/1.0.0",
+            "date": "2020-11-25"
+        },
+        {
+            "name": "0.12",
+            "url": "https://projects.eclipse.org/projects/iot.vorto/releases/0.12",
+            "date": "2019-09-30"
+        },
+        {
+            "name": "0.11",
+            "url": "https://projects.eclipse.org/projects/iot.vorto/releases/0.11",
+            "date": "2019-07-17"
+        },
+        {
+            "name": "0.10",
+            "url": "https://projects.eclipse.org/projects/iot.vorto/releases/0.10",
+            "date": "2019-02-21"
+        },
+        {
+            "name": "0.9",
+            "url": "https://projects.eclipse.org/projects/iot.vorto/releases/0.9",
+            "date": "2017-01-30"
+        }
+    ]
+}

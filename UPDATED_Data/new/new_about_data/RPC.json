@@ -1,0 +1,13 @@
+{
+    "project_name": "RPC",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.rpc",
+    "status": "Incubating",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/ee4j.rpc/reviews/creation-review",
+            "date": "2022-01-19"
+        }
+    ]
+}

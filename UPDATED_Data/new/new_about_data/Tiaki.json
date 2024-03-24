@@ -1,0 +1,18 @@
+{
+    "project_name": "Tiaki",
+    "project_url": "https://projects.eclipse.org/projects/iot.tiaki",
+    "status": "Archived",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/iot.tiaki/reviews/termination-review",
+            "date": "2016-09-21"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot.tiaki/reviews/creation-review",
+            "date": "2015-09-02"
+        }
+    ]
+}

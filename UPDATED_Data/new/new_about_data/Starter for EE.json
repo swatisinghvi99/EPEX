@@ -1,0 +1,73 @@
+{
+    "project_name": "Starter for EE",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.starter",
+    "status": "Incubating",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "2.2.2 (Archetype)",
+            "url": "https://projects.eclipse.org/projects/ee4j.starter/releases/2.2.2-archetype",
+            "date": "2023-12-19"
+        },
+        {
+            "name": "2.0.4 (UI)",
+            "url": "https://projects.eclipse.org/projects/ee4j.starter/releases/2.0.4-ui",
+            "date": "2023-12-19"
+        },
+        {
+            "name": "2.2.1 (Archetype)",
+            "url": "https://projects.eclipse.org/projects/ee4j.starter/releases/2.2.1-archetype",
+            "date": "2023-10-25"
+        },
+        {
+            "name": "2.0.3 (UI)",
+            "url": "https://projects.eclipse.org/projects/ee4j.starter/releases/2.0.3-ui",
+            "date": "2023-10-25"
+        },
+        {
+            "name": "2.0.1 (Archetype)",
+            "url": "https://projects.eclipse.org/projects/ee4j.starter/releases/2.0.1-archetype",
+            "date": "2023-03-28"
+        },
+        {
+            "name": "2.0.0 (UI)",
+            "url": "https://projects.eclipse.org/projects/ee4j.starter/releases/2.0.0-ui",
+            "date": "2023-03-28"
+        },
+        {
+            "name": "2.0.0 (Archetype)",
+            "url": "https://projects.eclipse.org/projects/ee4j.starter/releases/2.0.0-archetype",
+            "date": "2023-03-21"
+        },
+        {
+            "name": "1.1.0 (Jakarta EE 10 Minimal)",
+            "url": "https://projects.eclipse.org/projects/ee4j.starter/releases/1.1.0-jakarta-ee-10-minimal",
+            "date": "2022-11-05"
+        },
+        {
+            "name": "1.0.1 (Jakarta EE 10 Minimal)",
+            "url": "https://projects.eclipse.org/projects/ee4j.starter/releases/1.0.1-jakarta-ee-10-minimal",
+            "date": "2022-10-25"
+        },
+        {
+            "name": "1.0.0 (Jakarta EE 8 Minimal)",
+            "url": "https://projects.eclipse.org/projects/ee4j.starter/releases/1.0.0-jakarta-ee-8-minimal",
+            "date": "2022-10-25"
+        },
+        {
+            "name": "1.0.0 (Jakarta EE 9.1 Minimal)",
+            "url": "https://projects.eclipse.org/projects/ee4j.starter/releases/1.0.0-jakarta-ee-9.1-minimal",
+            "date": "2022-10-25"
+        },
+        {
+            "name": "1.0.0 (Jakarta EE 10 Minimal)",
+            "url": "https://projects.eclipse.org/projects/ee4j.starter/releases/1.0.0-jakarta-ee-10-minimal",
+            "date": "2022-10-24"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.starter/releases/1.0.0",
+            "date": "2022-04-13"
+        }
+    ]
+}

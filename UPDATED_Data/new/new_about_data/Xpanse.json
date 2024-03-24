@@ -1,0 +1,13 @@
+{
+    "project_name": "Xpanse",
+    "project_url": "https://projects.eclipse.org/projects/technology.xpanse",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.xpanse/releases/1.0.0",
+            "date": "2023-10-16"
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "project_name": "Sapphire",
+    "project_url": "https://projects.eclipse.org/projects/technology.sapphire",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "9.1.1",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/9.1.1",
+            "date": "2017-12-19"
+        },
+        {
+            "name": "9.1",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/9.1",
+            "date": "2016-09-30"
+        },
+        {
+            "name": "8.3",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/8.3",
+            "date": "2016-09-30"
+        },
+        {
+            "name": "9.0.5",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/9.0.5",
+            "date": "2016-05-18"
+        },
+        {
+            "name": "8.2.5",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/8.2.5",
+            "date": "2016-05-18"
+        },
+        {
+            "name": "9.0.4",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/9.0.4",
+            "date": "2015-11-20"
+        },
+        {
+            "name": "8.2.4",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/8.2.4",
+            "date": "2015-11-20"
+        },
+        {
+            "name": "9.0.3",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/9.0.3",
+            "date": "2015-10-26"
+        },
+        {
+            "name": "8.2.3",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/8.2.3",
+            "date": "2015-10-26"
+        },
+        {
+            "name": "9.0.2",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/9.0.2",
+            "date": "2015-10-16"
+        },
+        {
+            "name": "8.2.2",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/8.2.2",
+            "date": "2015-10-16"
+        },
+        {
+            "name": "9.0.1",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/9.0.1",
+            "date": "2015-09-15"
+        },
+        {
+            "name": "8.2.1",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/8.2.1",
+            "date": "2015-09-15"
+        },
+        {
+            "name": "9",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/9",
+            "date": "2015-06-24"
+        },
+        {
+            "name": "8.2",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/8.2",
+            "date": "2015-06-24"
+        },
+        {
+            "name": "8.1.2",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/8.1.2",
+            "date": "2015-02-24"
+        },
+        {
+            "name": "8.1.1",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/8.1.1",
+            "date": "2014-12-18"
+        },
+        {
+            "name": "8.1",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/8.1",
+            "date": "2014-11-05"
+        },
+        {
+            "name": "8.0.2",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/8.0.2",
+            "date": "2014-11-05"
+        },
+        {
+            "name": "8.0.1",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/8.0.1",
+            "date": "2014-09-26"
+        },
+        {
+            "name": "8",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/8",
+            "date": "2014-06-25"
+        },
+        {
+            "name": "0.7.4",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/0.7.4",
+            "date": "2014-06-17"
+        },
+        {
+            "name": "0.7.3",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/0.7.3",
+            "date": "2014-06-02"
+        },
+        {
+            "name": "0.7.2",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/0.7.2",
+            "date": "2014-05-09"
+        },
+        {
+            "name": "0.7.1",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/0.7.1",
+            "date": "2014-02-28"
+        },
+        {
+            "name": "0.6.8",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/0.6.8",
+            "date": "2014-02-13"
+        },
+        {
+            "name": "0.7.0",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/0.7.0",
+            "date": "2013-12-17"
+        },
+        {
+            "name": "0.6.7",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/0.6.7",
+            "date": "2013-12-17"
+        },
+        {
+            "name": "0.6.6",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/0.6.6",
+            "date": "2013-10-09"
+        },
+        {
+            "name": "0.6.5",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/0.6.5",
+            "date": "2013-09-18"
+        },
+        {
+            "name": "0.6.4",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/0.6.4",
+            "date": "2013-09-13"
+        },
+        {
+            "name": "0.6.3",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/0.6.3",
+            "date": "2013-07-11"
+        },
+        {
+            "name": "0.6.2",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/0.6.2",
+            "date": "2013-05-24"
+        },
+        {
+            "name": "0.6.1",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/0.6.1",
+            "date": "2013-03-01"
+        },
+        {
+            "name": "0.5.4",
+            "url": "https://projects.eclipse.org/projects/technology.sapphire/releases/0.5.4",
+            "date": "2013-03-01"
+        },
+        {
+            "name": "0.6.0",
+            "url": "https://projects.eclipse.org/projects/release/0.6.0-6",
+            "date": "2012-11-26"
+        },
+        {
+            "name": "0.5.3",
+            "url": "https://projects.eclipse.org/projects/release/0.5.3",
+            "date": "2012-09-28"
+        },
+        {
+            "name": "0.5.2",
+            "url": "https://projects.eclipse.org/projects/release/0.5.2",
+            "date": "2012-07-24"
+        },
+        {
+            "name": "0.5.1",
+            "url": "https://projects.eclipse.org/projects/release/0.5.1",
+            "date": "2012-06-27"
+        },
+        {
+            "name": "0.5.0",
+            "url": "https://projects.eclipse.org/projects/release/0.5.0-10",
+            "date": "2012-06-27"
+        },
+        {
+            "name": "0.4.1",
+            "url": "https://projects.eclipse.org/projects/release/0.4.1-0",
+            "date": "2012-03-03"
+        },
+        {
+            "name": "0.4.0",
+            "url": "https://projects.eclipse.org/projects/release/0.4.0-4",
+            "date": "2011-12-01"
+        },
+        {
+            "name": "0.3.2",
+            "url": "https://projects.eclipse.org/projects/release/0.3.2",
+            "date": "2011-10-19"
+        },
+        {
+            "name": "0.3.1",
+            "url": "https://projects.eclipse.org/projects/release/0.3.1",
+            "date": "2011-10-07"
+        },
+        {
+            "name": "0.3.0",
+            "url": "https://projects.eclipse.org/projects/release/0.3.0-7",
+            "date": "2011-06-22"
+        },
+        {
+            "name": "0.2.3",
+            "url": "https://projects.eclipse.org/projects/release/0.2.3-0",
+            "date": "2011-06-22"
+        },
+        {
+            "name": "0.2.2",
+            "url": "https://projects.eclipse.org/projects/release/0.2.2-0",
+            "date": "2011-03-25"
+        },
+        {
+            "name": "0.2.1",
+            "url": "https://projects.eclipse.org/projects/release/0.2.1-0",
+            "date": "2011-03-11"
+        },
+        {
+            "name": "0.1.1",
+            "url": "https://projects.eclipse.org/projects/release/0.1.1-0",
+            "date": "2011-01-19"
+        },
+        {
+            "name": "0.2.0",
+            "url": "https://projects.eclipse.org/projects/release/0.2.0-8",
+            "date": "2011-01-10"
+        },
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/release/0.1.0-7",
+            "date": "2011-01-10"
+        }
+    ]
+}

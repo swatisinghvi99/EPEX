@@ -1,0 +1,83 @@
+{
+    "project_name": "Scout",
+    "project_url": "https://projects.eclipse.org/projects/technology.scout",
+    "status": "Mature",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "24.1",
+            "url": "https://projects.eclipse.org/projects/technology.scout/releases/24.1",
+            "date": "2024-03-13"
+        },
+        {
+            "name": "23.2",
+            "url": "https://projects.eclipse.org/projects/technology.scout/releases/23.2",
+            "date": "2023-09-13"
+        },
+        {
+            "name": "23.1",
+            "url": "https://projects.eclipse.org/projects/technology.scout/releases/23.1",
+            "date": "2023-03-15"
+        },
+        {
+            "name": "22.0",
+            "url": "https://projects.eclipse.org/projects/technology.scout/releases/22.0",
+            "date": "2022-03-16"
+        },
+        {
+            "name": "11.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.scout/releases/11.0.0",
+            "date": "2021-03-17"
+        },
+        {
+            "name": "10.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.scout/releases/10.0.0",
+            "date": "2020-03-18"
+        },
+        {
+            "name": "9.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.scout/releases/9.0.0",
+            "date": "2019-03-20"
+        },
+        {
+            "name": "8.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.scout/releases/8.0.0",
+            "date": "2018-06-27"
+        },
+        {
+            "name": "7.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.scout/releases/7.0.0",
+            "date": "2017-06-28"
+        },
+        {
+            "name": "6.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.scout/releases/6.0.0",
+            "date": "2016-06-26"
+        },
+        {
+            "name": "5.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.scout/releases/5.0.0",
+            "date": "2015-06-24"
+        },
+        {
+            "name": "4.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.scout/releases/4.0.0",
+            "date": "2014-06-25"
+        },
+        {
+            "name": "3.9.0",
+            "url": "https://projects.eclipse.org/projects/release/3.9.0-4",
+            "date": "2013-06-26"
+        },
+        {
+            "name": "3.8.0",
+            "url": "https://projects.eclipse.org/projects/release/3.8.0-8",
+            "date": "2012-06-27"
+        },
+        {
+            "name": "3.7.0",
+            "url": "https://projects.eclipse.org/projects/release/3.7.0-12",
+            "date": "2011-06-22"
+        }
+    ]
+}

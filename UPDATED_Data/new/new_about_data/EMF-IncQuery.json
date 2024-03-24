@@ -1,0 +1,58 @@
+{
+    "project_name": "EMF-IncQuery",
+    "project_url": "https://projects.eclipse.org/projects/modeling.incquery",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/modeling.incquery/releases/1.1.0",
+            "date": "2015-12-02"
+        },
+        {
+            "name": "1.0.1",
+            "url": "https://projects.eclipse.org/projects/modeling.incquery/releases/1.0.1",
+            "date": "2015-08-19"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/modeling.incquery/releases/1.0.0",
+            "date": "2015-06-30"
+        },
+        {
+            "name": "0.9.1",
+            "url": "https://projects.eclipse.org/projects/modeling.incquery/releases/0.9.1",
+            "date": "2015-02-24"
+        },
+        {
+            "name": "0.9.0",
+            "url": "https://projects.eclipse.org/projects/modeling.incquery/releases/0.9.0",
+            "date": "2015-02-05"
+        },
+        {
+            "name": "0.8.1",
+            "url": "https://projects.eclipse.org/projects/modeling.incquery/releases/0.8.1",
+            "date": "2014-10-01"
+        },
+        {
+            "name": "0.8.0",
+            "url": "https://projects.eclipse.org/projects/modeling.incquery/releases/0.8.0",
+            "date": "2014-07-02"
+        },
+        {
+            "name": "0.7.2",
+            "url": "https://projects.eclipse.org/projects/modeling.incquery/releases/0.7.2",
+            "date": "2014-03-07"
+        },
+        {
+            "name": "0.7.1",
+            "url": "https://projects.eclipse.org/projects/modeling.incquery/releases/0.7.1",
+            "date": "2013-10-04"
+        },
+        {
+            "name": "0.7.0",
+            "url": "https://projects.eclipse.org/projects/modeling.incquery/releases/0.7.0",
+            "date": "2013-06-30"
+        }
+    ]
+}

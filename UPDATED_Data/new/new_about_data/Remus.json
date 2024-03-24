@@ -1,0 +1,13 @@
+{
+    "project_name": "Remus",
+    "project_url": "https://projects.eclipse.org/projects/technology.remus",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "0.3.0",
+            "url": "https://projects.eclipse.org/projects/release/0.3.0-6",
+            "date": "2013-02-01"
+        }
+    ]
+}

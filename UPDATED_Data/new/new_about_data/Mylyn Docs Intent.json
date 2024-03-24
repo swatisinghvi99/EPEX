@@ -1,0 +1,23 @@
+{
+    "project_name": "Mylyn Docs Intent",
+    "project_url": "https://projects.eclipse.org/projects/mylyn.docs.intent",
+    "status": "Incubating",
+    "tech": "Tools",
+    "releases": [
+        {
+            "name": "0.9.0",
+            "url": "https://projects.eclipse.org/projects/mylyn.docs.intent/releases/0.9.0",
+            "date": "2014-06-25"
+        },
+        {
+            "name": "0.8.0",
+            "url": "https://projects.eclipse.org/projects/mylyn.docs.intent/releases/0.8.0",
+            "date": "2013-06-27"
+        },
+        {
+            "name": "0.7.0",
+            "url": "https://projects.eclipse.org/projects/release/0.7.0-15",
+            "date": "2012-06-27"
+        }
+    ]
+}

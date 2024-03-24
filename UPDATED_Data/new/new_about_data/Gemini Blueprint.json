@@ -1,0 +1,38 @@
+{
+    "project_name": "Gemini Blueprint",
+    "project_url": "https://projects.eclipse.org/projects/rt.gemini.blueprint",
+    "status": "Mature",
+    "tech": "RT",
+    "releases": [
+        {
+            "name": "3.0.0",
+            "url": "https://projects.eclipse.org/projects/rt.gemini.blueprint/releases/3.0.0",
+            "date": "2018-03-21"
+        },
+        {
+            "name": "2.1.0",
+            "url": "https://projects.eclipse.org/projects/rt.gemini.blueprint/releases/2.1.0",
+            "date": "2017-05-03"
+        },
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/rt.gemini.blueprint/releases/2.0.0",
+            "date": "2017-02-15"
+        },
+        {
+            "name": "1.0.2",
+            "url": "https://projects.eclipse.org/projects/release/1.0.2-5",
+            "date": "2012-08-31"
+        },
+        {
+            "name": "1.0.1",
+            "url": "https://projects.eclipse.org/projects/release/1.0.1-7",
+            "date": "2012-08-23"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/release/1.0.0-29",
+            "date": "2011-08-23"
+        }
+    ]
+}

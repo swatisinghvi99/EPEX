@@ -1,0 +1,38 @@
+{
+    "project_name": "Swordfish",
+    "project_url": "https://projects.eclipse.org/projects/soa.swordfish",
+    "status": "Archived",
+    "tech": "SOA Platform",
+    "releases": [
+        {
+            "name": "0.10.0",
+            "url": "https://projects.eclipse.org/projects/release/0.10.0-6",
+            "date": "2010-06-23"
+        },
+        {
+            "name": "0.9.2",
+            "url": "https://projects.eclipse.org/projects/release/0.9.2-3",
+            "date": "2010-02-26"
+        },
+        {
+            "name": "0.9.1",
+            "url": "https://projects.eclipse.org/projects/release/0.9.1-4",
+            "date": "2009-09-25"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/release/1.0.0-42",
+            "date": "2008-12-31"
+        },
+        {
+            "name": "1.0.0M2",
+            "url": "https://projects.eclipse.org/projects/release/1.0.0m2-0",
+            "date": "2008-07-31"
+        },
+        {
+            "name": "1.0.0M1",
+            "url": "https://projects.eclipse.org/projects/release/1.0.0m1-0",
+            "date": "2008-06-15"
+        }
+    ]
+}

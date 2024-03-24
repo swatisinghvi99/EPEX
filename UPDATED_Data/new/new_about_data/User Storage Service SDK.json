@@ -1,0 +1,33 @@
+{
+    "project_name": "User Storage Service SDK",
+    "project_url": "https://projects.eclipse.org/projects/technology.usssdk",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/technology.usssdk/releases/2.0.0",
+            "date": "2024-12-31"
+        },
+        {
+            "name": "1.2.2",
+            "url": "https://projects.eclipse.org/projects/technology.usssdk/releases/1.2.2",
+            "date": "2021-06-08"
+        },
+        {
+            "name": "1.2.1",
+            "url": "https://projects.eclipse.org/projects/technology.usssdk/releases/1.2.1",
+            "date": "2019-12-27"
+        },
+        {
+            "name": "1.2.0",
+            "url": "https://projects.eclipse.org/projects/technology.usssdk/releases/1.2.0",
+            "date": "2019-03-20"
+        },
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/technology.usssdk/releases/1.1.0",
+            "date": "2017-06-28"
+        }
+    ]
+}

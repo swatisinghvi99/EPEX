@@ -1,0 +1,53 @@
+{
+    "project_name": "Advanced Scripting Environment (EASE)",
+    "project_url": "https://projects.eclipse.org/projects/technology.ease",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "0.9.0",
+            "url": "https://projects.eclipse.org/projects/technology.ease/releases/0.9.0",
+            "date": "2022-09-20"
+        },
+        {
+            "name": "0.8.0",
+            "url": "https://projects.eclipse.org/projects/technology.ease/releases/0.8.0",
+            "date": "2021-06-20"
+        },
+        {
+            "name": "0.7.0",
+            "url": "https://projects.eclipse.org/projects/technology.ease/releases/0.7.0",
+            "date": "2019-08-31"
+        },
+        {
+            "name": "0.6.0",
+            "url": "https://projects.eclipse.org/projects/technology.ease/releases/0.6.0",
+            "date": "2018-04-24"
+        },
+        {
+            "name": "0.5.0",
+            "url": "https://projects.eclipse.org/projects/technology.ease/releases/0.5.0",
+            "date": "2017-10-01"
+        },
+        {
+            "name": "0.4.0",
+            "url": "https://projects.eclipse.org/projects/technology.ease/releases/0.4.0",
+            "date": "2016-12-20"
+        },
+        {
+            "name": "0.3.0",
+            "url": "https://projects.eclipse.org/projects/technology.ease/releases/0.3.0",
+            "date": "2016-05-12"
+        },
+        {
+            "name": "0.2.0",
+            "url": "https://projects.eclipse.org/projects/technology.ease/releases/0.2.0",
+            "date": "2015-05-22"
+        },
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/technology.ease/releases/0.1.0",
+            "date": "2014-12-17"
+        }
+    ]
+}

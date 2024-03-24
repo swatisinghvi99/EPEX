@@ -1,0 +1,18 @@
+{
+    "project_name": "Yasham",
+    "project_url": "https://projects.eclipse.org/projects/iot.yasham",
+    "status": "Archived",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/iot.yasham/reviews/termination-review",
+            "date": "2022-02-02"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot.yasham/reviews/creation-review",
+            "date": "2019-01-16"
+        }
+    ]
+}

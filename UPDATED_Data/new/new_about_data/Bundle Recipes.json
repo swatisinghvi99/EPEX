@@ -1,0 +1,23 @@
+{
+    "project_name": "Bundle Recipes",
+    "project_url": "https://projects.eclipse.org/projects/rt.ebr",
+    "status": "Archived",
+    "tech": "RT",
+    "releases": [
+        {
+            "name": "1.2 (Maven Plug-in)",
+            "url": "https://projects.eclipse.org/projects/rt.ebr/releases/1.2-maven-plug",
+            "date": "2020-07-08"
+        },
+        {
+            "name": "1.1 (Maven Plug-in)",
+            "url": "https://projects.eclipse.org/projects/rt.ebr/releases/1.1-maven-plug",
+            "date": "2020-01-21"
+        },
+        {
+            "name": "1.0 (Maven Plug-in)",
+            "url": "https://projects.eclipse.org/projects/rt.ebr/releases/1.0-maven-plug",
+            "date": "2019-04-12"
+        }
+    ]
+}

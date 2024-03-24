@@ -1,0 +1,33 @@
+{
+    "project_name": "Faces",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.faces",
+    "status": "Mature",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "5.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.faces/releases/5.0",
+            "date": "2024-03-31"
+        },
+        {
+            "name": "4.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.faces/releases/4.1",
+            "date": "2023-10-16"
+        },
+        {
+            "name": "4.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.faces/releases/4.0",
+            "date": "2022-05-15"
+        },
+        {
+            "name": "3.0.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.faces/releases/3.0.0",
+            "date": "2020-10-28"
+        },
+        {
+            "name": "2.3",
+            "url": "https://projects.eclipse.org/projects/ee4j.faces/releases/2.3",
+            "date": "2019-09-10"
+        }
+    ]
+}

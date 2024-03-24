@@ -1,0 +1,43 @@
+{
+    "project_name": "GEMOC Studio",
+    "project_url": "https://projects.eclipse.org/projects/modeling.gemoc",
+    "status": "Incubating",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "3.6.0",
+            "url": "https://projects.eclipse.org/projects/modeling.gemoc/releases/3.6.0",
+            "date": "2023-04-06"
+        },
+        {
+            "name": "3.5.0",
+            "url": "https://projects.eclipse.org/projects/modeling.gemoc/releases/3.5.0",
+            "date": "2022-07-22"
+        },
+        {
+            "name": "3.4.0",
+            "url": "https://projects.eclipse.org/projects/modeling.gemoc/releases/3.4.0",
+            "date": "2022-01-10"
+        },
+        {
+            "name": "3.3.0",
+            "url": "https://projects.eclipse.org/projects/modeling.gemoc/releases/3.3.0",
+            "date": "2021-07-21"
+        },
+        {
+            "name": "3.2.0",
+            "url": "https://projects.eclipse.org/projects/modeling.gemoc/releases/3.2.0",
+            "date": "2020-06-16"
+        },
+        {
+            "name": "3.1.0",
+            "url": "https://projects.eclipse.org/projects/modeling.gemoc/releases/3.1.0",
+            "date": "2019-06-27"
+        },
+        {
+            "name": "3.0.0",
+            "url": "https://projects.eclipse.org/projects/modeling.gemoc/releases/3.0.0",
+            "date": "2018-07-17"
+        }
+    ]
+}

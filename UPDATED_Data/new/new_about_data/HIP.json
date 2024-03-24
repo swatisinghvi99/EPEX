@@ -1,0 +1,18 @@
+{
+    "project_name": "HIP",
+    "project_url": "https://projects.eclipse.org/projects/iot.hip",
+    "status": "Archived",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/iot.hip/reviews/termination-review",
+            "date": "2019-08-07"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot.hip/reviews/creation-review",
+            "date": "2018-04-18"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "project_name": "ExpressLy",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.expressly",
+    "status": "Incubating",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "5.0.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.expressly/releases/5.0.0",
+            "date": "2022-08-08"
+        }
+    ]
+}

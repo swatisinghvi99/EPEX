@@ -1,0 +1,13 @@
+{
+    "project_name": "Documentation for EE",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.jakartaee-documentation",
+    "status": "Incubating",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/ee4j.jakartaee-documentation/reviews/creation-review",
+            "date": "2023-05-24"
+        }
+    ]
+}

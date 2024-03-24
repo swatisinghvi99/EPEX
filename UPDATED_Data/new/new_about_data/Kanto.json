@@ -1,0 +1,28 @@
+{
+    "project_name": "Kanto",
+    "project_url": "https://projects.eclipse.org/projects/iot.kanto",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Progress Review 2024.12",
+            "url": "https://projects.eclipse.org/projects/iot.kanto/reviews/progress-review-2024.12",
+            "date": "2024-12-04"
+        },
+        {
+            "name": "2023.12 Progress Review",
+            "url": "https://projects.eclipse.org/projects/iot.kanto/reviews/2023.12-progress-review",
+            "date": "2023-12-06"
+        },
+        {
+            "name": "Restructuring Review",
+            "url": "https://projects.eclipse.org/projects/iot.kanto/reviews/restructuring-review",
+            "date": "2022-08-24"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot.kanto/reviews/creation-review",
+            "date": "2021-10-20"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "project_name": "GMF Tooling",
+    "project_url": "https://projects.eclipse.org/projects/modeling.gmf-tooling",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "3.4.0",
+            "url": "https://projects.eclipse.org/projects/modeling.gmp.gmf-tooling/releases/3.4.0",
+            "date": "2016-06-22"
+        },
+        {
+            "name": "3.3.0",
+            "url": "https://projects.eclipse.org/projects/modeling.gmp.gmf-tooling/releases/3.3.0",
+            "date": "2015-06-24"
+        },
+        {
+            "name": "3.2.0",
+            "url": "https://projects.eclipse.org/projects/modeling.gmp.gmf-tooling/releases/3.2.0",
+            "date": "2014-06-25"
+        },
+        {
+            "name": "3.1.0",
+            "url": "https://projects.eclipse.org/projects/modeling.gmp.gmf-tooling/releases/3.1.0",
+            "date": "2013-06-26"
+        },
+        {
+            "name": "3.0.0",
+            "url": "https://projects.eclipse.org/projects/release/3.0.0-2",
+            "date": "2012-06-21"
+        }
+    ]
+}

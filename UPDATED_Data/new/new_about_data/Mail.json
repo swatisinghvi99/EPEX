@@ -1,0 +1,58 @@
+{
+    "project_name": "Mail",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.mail",
+    "status": "Mature",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "2.1.3",
+            "url": "https://projects.eclipse.org/projects/ee4j.mail/releases/2.1.3",
+            "date": "2024-02-29"
+        },
+        {
+            "name": "2.1.2",
+            "url": "https://projects.eclipse.org/projects/ee4j.mail/releases/2.1.2",
+            "date": "2023-05-05"
+        },
+        {
+            "name": "2.1.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.mail/releases/2.1.1",
+            "date": "2022-12-15"
+        },
+        {
+            "name": "2.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.mail/releases/2.1",
+            "date": "2021-11-20"
+        },
+        {
+            "name": "2.0.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.mail/releases/2.0.1",
+            "date": "2021-03-19"
+        },
+        {
+            "name": "1.6.6",
+            "url": "https://projects.eclipse.org/projects/ee4j.mail/releases/1.6.6",
+            "date": "2021-02-28"
+        },
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.mail/releases/2.0.0",
+            "date": "2020-10-07"
+        },
+        {
+            "name": "1.6.5",
+            "url": "https://projects.eclipse.org/projects/ee4j.mail/releases/1.6.5",
+            "date": "2020-03-10"
+        },
+        {
+            "name": "1.6.4",
+            "url": "https://projects.eclipse.org/projects/ee4j.javamail/releases/1.6.4",
+            "date": "2019-09-10"
+        },
+        {
+            "name": "1.6.3",
+            "url": "https://projects.eclipse.org/projects/ee4j.javamail/releases/1.6.3",
+            "date": "2018-11-21"
+        }
+    ]
+}

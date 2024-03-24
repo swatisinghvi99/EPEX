@@ -1,0 +1,18 @@
+{
+    "project_name": "UFaceKit",
+    "project_url": "https://projects.eclipse.org/projects/eclipse.incubator.ufacekit",
+    "status": "Archived",
+    "tech": "Eclipse Project",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/eclipse.incubator.ufacekit/reviews/termination-review",
+            "date": "2014-03-05"
+        },
+        {
+            "name": "Creation",
+            "url": "https://projects.eclipse.org/content/creation-5",
+            "date": "2008-12-10"
+        }
+    ]
+}

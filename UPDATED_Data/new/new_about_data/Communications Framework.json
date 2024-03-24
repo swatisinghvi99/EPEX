@@ -1,0 +1,348 @@
+{
+    "project_name": "Communications Framework",
+    "project_url": "https://projects.eclipse.org/projects/rt.ecf",
+    "status": "Mature",
+    "tech": "RT",
+    "releases": [
+        {
+            "name": "3.14.41",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.41",
+            "date": "2024-01-13"
+        },
+        {
+            "name": "3.14.40",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.40",
+            "date": "2023-11-20"
+        },
+        {
+            "name": "3.14.39",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.39",
+            "date": "2023-05-28"
+        },
+        {
+            "name": "3.14.38",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.38",
+            "date": "2023-05-16"
+        },
+        {
+            "name": "3.14.37",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.37",
+            "date": "2022-11-20"
+        },
+        {
+            "name": "3.14.34",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.34",
+            "date": "2022-11-06"
+        },
+        {
+            "name": "3.14.33",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.33",
+            "date": "2022-04-01"
+        },
+        {
+            "name": "3.14.32",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.32",
+            "date": "2022-02-24"
+        },
+        {
+            "name": "3.14.31",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.31",
+            "date": "2022-01-24"
+        },
+        {
+            "name": "3.14.30",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.30",
+            "date": "2022-01-06"
+        },
+        {
+            "name": "3.14.26",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.26",
+            "date": "2021-10-08"
+        },
+        {
+            "name": "3.14.25",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.25",
+            "date": "2021-10-05"
+        },
+        {
+            "name": "3.14.24",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.24",
+            "date": "2021-09-26"
+        },
+        {
+            "name": "3.14.22",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.22",
+            "date": "2021-06-18"
+        },
+        {
+            "name": "3.14.21",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.21",
+            "date": "2021-05-24"
+        },
+        {
+            "name": "3.14.20",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.20",
+            "date": "2021-04-05"
+        },
+        {
+            "name": "3.14.19",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.19",
+            "date": "2021-01-01"
+        },
+        {
+            "name": "3.14.18",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.18",
+            "date": "2020-11-05"
+        },
+        {
+            "name": "3.14.17",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.17",
+            "date": "2020-10-28"
+        },
+        {
+            "name": "3.14.16",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.16",
+            "date": "2020-10-07"
+        },
+        {
+            "name": "3.14.15",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.15",
+            "date": "2020-10-07"
+        },
+        {
+            "name": "3.14.14",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.14",
+            "date": "2020-08-16"
+        },
+        {
+            "name": "3.14.13",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.13",
+            "date": "2020-08-14"
+        },
+        {
+            "name": "3.14.12",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.12",
+            "date": "2020-07-14"
+        },
+        {
+            "name": "3.14.8",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.8",
+            "date": "2020-06-03"
+        },
+        {
+            "name": "3.14.7",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.7",
+            "date": "2020-02-24"
+        },
+        {
+            "name": "3.14.6",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.6",
+            "date": "2019-10-24"
+        },
+        {
+            "name": "3.14.5",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.5",
+            "date": "2019-05-13"
+        },
+        {
+            "name": "3.14.4",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.4",
+            "date": "2018-10-20"
+        },
+        {
+            "name": "3.14.3",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.3",
+            "date": "2018-10-04"
+        },
+        {
+            "name": "3.14.2",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.2",
+            "date": "2018-08-20"
+        },
+        {
+            "name": "3.14.1",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.1",
+            "date": "2018-07-30"
+        },
+        {
+            "name": "3.14.0",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.14.0",
+            "date": "2018-06-27"
+        },
+        {
+            "name": "3.13.8",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.13.8",
+            "date": "2017-09-02"
+        },
+        {
+            "name": "3.13.7 Oxygen",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.13.7-oxygen",
+            "date": "2017-06-28"
+        },
+        {
+            "name": "3.13.7",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.13.7",
+            "date": "2017-05-18"
+        },
+        {
+            "name": "3.13.6",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.13.6",
+            "date": "2017-05-08"
+        },
+        {
+            "name": "3.13.5",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.13.5",
+            "date": "2017-02-16"
+        },
+        {
+            "name": "3.13.4",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.13.4",
+            "date": "2017-01-12"
+        },
+        {
+            "name": "3.13.2",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.13.2",
+            "date": "2016-08-25"
+        },
+        {
+            "name": "3.13.1",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.13.1",
+            "date": "2016-04-04"
+        },
+        {
+            "name": "3.13.0",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.13.0",
+            "date": "2016-03-16"
+        },
+        {
+            "name": "3.12.1",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.12.1",
+            "date": "2016-01-15"
+        },
+        {
+            "name": "3.12.0",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.12.0",
+            "date": "2015-11-30"
+        },
+        {
+            "name": "3.11.0",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.11.0",
+            "date": "2015-09-28"
+        },
+        {
+            "name": "3.10.1",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.10.1",
+            "date": "2015-08-10"
+        },
+        {
+            "name": "3.10.0",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.10.0",
+            "date": "2015-06-24"
+        },
+        {
+            "name": "3.9.2",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.9.2",
+            "date": "2014-12-22"
+        },
+        {
+            "name": "3.9.0",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.9.0",
+            "date": "2014-08-01"
+        },
+        {
+            "name": "3.8.1/Luna",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.8.1luna",
+            "date": "2014-06-25"
+        },
+        {
+            "name": "3.8.0",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.8.0",
+            "date": "2014-03-10"
+        },
+        {
+            "name": "3.7.1",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.7.1",
+            "date": "2013-10-27"
+        },
+        {
+            "name": "3.7.0",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.7.0",
+            "date": "2013-10-07"
+        },
+        {
+            "name": "3.6.1",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.6.1",
+            "date": "2013-06-26"
+        },
+        {
+            "name": "3.6.0",
+            "url": "https://projects.eclipse.org/projects/rt.ecf/releases/3.6.0",
+            "date": "2013-03-11"
+        },
+        {
+            "name": "3.5.6",
+            "url": "https://projects.eclipse.org/projects/release/3.5.6",
+            "date": "2012-06-25"
+        },
+        {
+            "name": "3.5.5",
+            "url": "https://projects.eclipse.org/projects/release/3.5.5",
+            "date": "2012-03-19"
+        },
+        {
+            "name": "3.5.2",
+            "url": "https://projects.eclipse.org/projects/release/3.5.2-1",
+            "date": "2011-08-19"
+        },
+        {
+            "name": "3.5.1",
+            "url": "https://projects.eclipse.org/projects/release/3.5.1-1",
+            "date": "2011-06-22"
+        },
+        {
+            "name": "3.5.0",
+            "url": "https://projects.eclipse.org/projects/release/3.5.0-5",
+            "date": "2011-02-18"
+        },
+        {
+            "name": "3.4.0",
+            "url": "https://projects.eclipse.org/projects/release/3.4.0-4",
+            "date": "2010-10-29"
+        },
+        {
+            "name": "3.3.0",
+            "url": "https://projects.eclipse.org/projects/release/3.3.0-4",
+            "date": "2010-06-25"
+        },
+        {
+            "name": "3.2.0",
+            "url": "https://projects.eclipse.org/projects/release/3.2.0-5",
+            "date": "2010-02-19"
+        },
+        {
+            "name": "3.1.0",
+            "url": "https://projects.eclipse.org/projects/release/3.1.0-7",
+            "date": "2009-10-09"
+        },
+        {
+            "name": "2.1.0",
+            "url": "https://projects.eclipse.org/projects/release/2.1.0-10",
+            "date": "2008-10-03"
+        },
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/release/2.0.0-17",
+            "date": "2008-06-25"
+        },
+        {
+            "name": "1.2.0",
+            "url": "https://projects.eclipse.org/projects/release/1.2.0-6",
+            "date": "2007-09-01"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/release/1.0.0-27",
+            "date": "2007-06-29"
+        }
+    ]
+}

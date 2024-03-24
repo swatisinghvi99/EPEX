@@ -1,0 +1,18 @@
+{
+    "project_name": "Edje",
+    "project_url": "https://projects.eclipse.org/projects/iot.edje",
+    "status": "Archived",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/iot.edje/reviews/termination-review",
+            "date": "2018-10-03"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot.edje/reviews/creation-review",
+            "date": "2016-03-02"
+        }
+    ]
+}

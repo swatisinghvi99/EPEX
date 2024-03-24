@@ -1,0 +1,18 @@
+{
+    "project_name": "MoEc",
+    "project_url": "https://projects.eclipse.org/projects/automotive.moec",
+    "status": "Archived",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "Termination Review and Eclipse Autowrx Restructuring Review",
+            "url": "https://projects.eclipse.org/projects/automotive.moec/reviews/termination-review-and-eclipse-autowrx-restructuring-review",
+            "date": "2023-08-30"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/automotive.moec/reviews/creation-review",
+            "date": "2022-12-14"
+        }
+    ]
+}

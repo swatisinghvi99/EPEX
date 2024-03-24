@@ -1,0 +1,13 @@
+{
+    "project_name": "Platform Incubator",
+    "project_url": "https://projects.eclipse.org/projects/eclipse.incubator.platform",
+    "status": "Archived",
+    "tech": "Eclipse Project",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/eclipse.incubator/reviews/termination-review",
+            "date": "2014-03-05"
+        }
+    ]
+}

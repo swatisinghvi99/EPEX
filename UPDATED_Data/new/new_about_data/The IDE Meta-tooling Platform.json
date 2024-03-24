@@ -1,0 +1,18 @@
+{
+    "project_name": "The IDE Meta-tooling Platform",
+    "project_url": "https://projects.eclipse.org/projects/technology.imp",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/technology.imp/reviews/termination-review",
+            "date": "2013-12-18"
+        },
+        {
+            "name": "Creation",
+            "url": "https://projects.eclipse.org/content/creation-69",
+            "date": "2007-11-07"
+        }
+    ]
+}

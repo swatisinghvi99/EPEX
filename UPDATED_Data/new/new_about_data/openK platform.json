@@ -1,0 +1,18 @@
+{
+    "project_name": "openK platform",
+    "project_url": "https://projects.eclipse.org/projects/technology.openk-platform",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/technology.openk-platform/reviews/termination-review",
+            "date": "2021-11-17"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.openk-platform/reviews/creation-review",
+            "date": "2015-03-25"
+        }
+    ]
+}

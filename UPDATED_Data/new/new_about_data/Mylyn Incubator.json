@@ -1,0 +1,18 @@
+{
+    "project_name": "Mylyn Incubator",
+    "project_url": "https://projects.eclipse.org/projects/mylyn.incubator",
+    "status": "Archived",
+    "tech": "Tools",
+    "releases": [
+        {
+            "name": "Restructuring Review",
+            "url": "https://projects.eclipse.org/projects/mylyn/reviews/restructuring-review",
+            "date": "2022-10-19"
+        },
+        {
+            "name": "Restructuring (move Full Text Search to Mylyn Tasks)",
+            "url": "https://projects.eclipse.org/content/restructuring-move-full-text-search-mylyn-tasks",
+            "date": "2012-02-01"
+        }
+    ]
+}

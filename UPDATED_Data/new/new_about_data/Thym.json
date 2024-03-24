@@ -1,0 +1,28 @@
+{
+    "project_name": "Thym",
+    "project_url": "https://projects.eclipse.org/projects/tools.thym",
+    "status": "Archived",
+    "tech": "Tools",
+    "releases": [
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/tools.thym/releases/2.0.0",
+            "date": "2016-06-17"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/tools.thym/releases/1.0.0",
+            "date": "2015-06-24"
+        },
+        {
+            "name": "0.2.0",
+            "url": "https://projects.eclipse.org/projects/tools.thym/releases/0.2.0",
+            "date": "2015-03-20"
+        },
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/tools.thym/releases/0.1.0",
+            "date": "2015-01-30"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "project_name": "Generative Modeling Technologies (GMT)",
+    "project_url": "https://projects.eclipse.org/projects/modeling.gmt",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/modeling.gmt/reviews/termination-review",
+            "date": "2016-05-18"
+        }
+    ]
+}

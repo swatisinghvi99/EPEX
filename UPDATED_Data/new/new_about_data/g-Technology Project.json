@@ -1,0 +1,18 @@
+{
+    "project_name": "g-Technology Project",
+    "project_url": "https://projects.eclipse.org/projects/technology.g-eclipse",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/release/1.0.0-46",
+            "date": "2009-12-09"
+        },
+        {
+            "name": "0.5.0",
+            "url": "https://projects.eclipse.org/projects/release/0.5.0-7",
+            "date": "2007-09-27"
+        }
+    ]
+}

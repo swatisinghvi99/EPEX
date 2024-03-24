@@ -1,0 +1,33 @@
+{
+    "project_name": "MVC",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.mvc",
+    "status": "Incubating",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "3.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.mvc/releases/3.0",
+            "date": "2024-03-31"
+        },
+        {
+            "name": "2.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.mvc/releases/2.1",
+            "date": "2022-09-20"
+        },
+        {
+            "name": "2.0.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.mvc/releases/2.0.1",
+            "date": "2022-06-12"
+        },
+        {
+            "name": "2.0",
+            "url": "https://projects.eclipse.org/projects/ee4j.mvc/releases/2.0",
+            "date": "2020-12-16"
+        },
+        {
+            "name": "1.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.mvc/releases/1.1",
+            "date": "2020-10-28"
+        }
+    ]
+}

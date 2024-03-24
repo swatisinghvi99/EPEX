@@ -1,0 +1,18 @@
+{
+    "project_name": "AVSys",
+    "project_url": "https://projects.eclipse.org/projects/modeling.avsys",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/modeling.avsys/reviews/termination-review",
+            "date": "2022-02-02"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/modeling.avsys/reviews/creation-review",
+            "date": "2019-03-20"
+        }
+    ]
+}

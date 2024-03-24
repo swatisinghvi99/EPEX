@@ -1,0 +1,18 @@
+{
+    "project_name": "Damos",
+    "project_url": "https://projects.eclipse.org/projects/tools.damos",
+    "status": "Archived",
+    "tech": "Tools",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/tools.damos/reviews/termination-review",
+            "date": "2019-02-20"
+        },
+        {
+            "name": "Creation",
+            "url": "https://projects.eclipse.org/content/creation-102",
+            "date": "2012-09-12"
+        }
+    ]
+}

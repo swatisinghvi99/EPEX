@@ -1,0 +1,13 @@
+{
+    "project_name": "Moquette MQTT",
+    "project_url": "https://projects.eclipse.org/projects/iot.moquette",
+    "status": "Archived",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot.moquette/reviews/creation-review",
+            "date": "2014-09-24"
+        }
+    ]
+}

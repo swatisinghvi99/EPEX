@@ -1,0 +1,18 @@
+{
+    "project_name": "Unide",
+    "project_url": "https://projects.eclipse.org/projects/iot.unide",
+    "status": "Archived",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "0.2.0",
+            "url": "https://projects.eclipse.org/projects/iot.unide/releases/0.2.0",
+            "date": "2018-03-07"
+        },
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/iot.unide/releases/0.1.0",
+            "date": "2017-12-20"
+        }
+    ]
+}

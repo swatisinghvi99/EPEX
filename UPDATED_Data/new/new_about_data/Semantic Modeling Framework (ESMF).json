@@ -1,0 +1,13 @@
+{
+    "project_name": "Semantic Modeling Framework (ESMF)",
+    "project_url": "https://projects.eclipse.org/projects/dt.esmf",
+    "status": "Incubating",
+    "tech": "Digital Twin",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/dt.esmf/reviews/creation-review",
+            "date": "2022-12-07"
+        }
+    ]
+}

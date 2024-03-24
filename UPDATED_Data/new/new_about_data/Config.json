@@ -1,0 +1,13 @@
+{
+    "project_name": "Config",
+    "project_url": "https://projects.eclipse.org/projects/ee4j.jakartaconfig",
+    "status": "Incubating",
+    "tech": "EE4J",
+    "releases": [
+        {
+            "name": "0.1",
+            "url": "https://projects.eclipse.org/projects/ee4j.jakartaconfig/releases/0.1",
+            "date": "2023-05-01"
+        }
+    ]
+}

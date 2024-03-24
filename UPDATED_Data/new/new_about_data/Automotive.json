@@ -1,0 +1,13 @@
+{
+    "project_name": "Automotive",
+    "project_url": "https://projects.eclipse.org/projects/automotive",
+    "status": "Mature",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "Move to the Eclipse Automotive Top Level Project",
+            "url": "https://projects.eclipse.org/projects/automotive/reviews/move-eclipse-automotive-top-level-project",
+            "date": "2021-02-17"
+        }
+    ]
+}

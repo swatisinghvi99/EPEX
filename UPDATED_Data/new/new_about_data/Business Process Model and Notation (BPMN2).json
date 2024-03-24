@@ -1,0 +1,53 @@
+{
+    "project_name": "Business Process Model and Notation (BPMN2)",
+    "project_url": "https://projects.eclipse.org/projects/modeling.mdt.bpmn2",
+    "status": "Mature",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "1.5.2",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.bpmn2/releases/1.5.2",
+            "date": "2022-05-28"
+        },
+        {
+            "name": "1.5.1",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.bpmn2/releases/1.5.1",
+            "date": "2020-06-04"
+        },
+        {
+            "name": "1.5.0",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.bpmn2/releases/1.5.0",
+            "date": "2018-06-27"
+        },
+        {
+            "name": "1.4.0",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.bpmn2/releases/1.4.0",
+            "date": "2017-06-22"
+        },
+        {
+            "name": "1.2.2",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.bpmn2/releases/1.2.2",
+            "date": "2017-06-22"
+        },
+        {
+            "name": "1.2.1",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.bpmn2/releases/1.2.1",
+            "date": "2015-09-10"
+        },
+        {
+            "name": "1.2.0",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.bpmn2/releases/1.2.0",
+            "date": "2015-06-25"
+        },
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.bpmn2/releases/1.1.0",
+            "date": "2015-03-13"
+        },
+        {
+            "name": "1.0",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.bpmn2/releases/1.0",
+            "date": "2014-06-25"
+        }
+    ]
+}

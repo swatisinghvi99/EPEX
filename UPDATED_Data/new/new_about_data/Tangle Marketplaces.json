@@ -1,0 +1,18 @@
+{
+    "project_name": "Tangle Marketplaces",
+    "project_url": "https://projects.eclipse.org/projects/iot.tanglemktplaces",
+    "status": "Archived",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Termination review",
+            "url": "https://projects.eclipse.org/projects/iot.tanglemktplaces/reviews/termination-review",
+            "date": "2022-02-02"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot.tanglemktplaces/reviews/creation-review",
+            "date": "2020-05-06"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "project_name": "ESCET (Supervisory Control Engineering Toolkit)",
+    "project_url": "https://projects.eclipse.org/projects/technology.escet",
+    "status": "Mature",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "4.0",
+            "url": "https://projects.eclipse.org/projects/technology.escet/releases/4.0",
+            "date": "2024-06-30"
+        },
+        {
+            "name": "3.0",
+            "url": "https://projects.eclipse.org/projects/technology.escet/releases/3.0",
+            "date": "2024-03-31"
+        },
+        {
+            "name": "2.0",
+            "url": "https://projects.eclipse.org/projects/technology.escet/releases/2.0",
+            "date": "2023-12-22"
+        },
+        {
+            "name": "1.0",
+            "url": "https://projects.eclipse.org/projects/technology.escet/releases/1.0",
+            "date": "2023-09-30"
+        },
+        {
+            "name": "0.10",
+            "url": "https://projects.eclipse.org/projects/technology.escet/releases/0.10",
+            "date": "2023-06-30"
+        },
+        {
+            "name": "0.9",
+            "url": "https://projects.eclipse.org/projects/technology.escet/releases/0.9",
+            "date": "2023-03-31"
+        },
+        {
+            "name": "0.8",
+            "url": "https://projects.eclipse.org/projects/technology.escet/releases/0.8",
+            "date": "2022-12-16"
+        },
+        {
+            "name": "0.7",
+            "url": "https://projects.eclipse.org/projects/technology.escet/releases/0.7",
+            "date": "2022-09-30"
+        },
+        {
+            "name": "0.6",
+            "url": "https://projects.eclipse.org/projects/technology.escet/releases/0.6",
+            "date": "2022-07-07"
+        },
+        {
+            "name": "0.5",
+            "url": "https://projects.eclipse.org/projects/technology.escet/releases/0.5",
+            "date": "2022-03-29"
+        },
+        {
+            "name": "0.4",
+            "url": "https://projects.eclipse.org/projects/technology.escet/releases/0.4",
+            "date": "2021-12-17"
+        },
+        {
+            "name": "0.3",
+            "url": "https://projects.eclipse.org/projects/technology.escet/releases/0.3",
+            "date": "2021-10-01"
+        },
+        {
+            "name": "0.2",
+            "url": "https://projects.eclipse.org/projects/technology.escet/releases/0.2",
+            "date": "2021-07-07"
+        },
+        {
+            "name": "0.1",
+            "url": "https://projects.eclipse.org/projects/technology.escet/releases/0.1",
+            "date": "2021-04-02"
+        }
+    ]
+}

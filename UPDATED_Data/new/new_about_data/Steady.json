@@ -1,0 +1,13 @@
+{
+    "project_name": "Steady",
+    "project_url": "https://projects.eclipse.org/projects/technology.steady",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "3.2",
+            "url": "https://projects.eclipse.org/projects/technology.steady/releases/3.2",
+            "date": "2021-06-30"
+        }
+    ]
+}

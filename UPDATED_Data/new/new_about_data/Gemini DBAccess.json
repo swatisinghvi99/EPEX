@@ -1,0 +1,18 @@
+{
+    "project_name": "Gemini DBAccess",
+    "project_url": "https://projects.eclipse.org/projects/rt.gemini.dbaccess",
+    "status": "Mature",
+    "tech": "RT",
+    "releases": [
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/rt.gemini.dbaccess/releases/1.1.0",
+            "date": "2013-02-17"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/release/1.0.0-30",
+            "date": "2011-10-01"
+        }
+    ]
+}

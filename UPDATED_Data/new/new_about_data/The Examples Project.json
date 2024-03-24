@@ -1,0 +1,18 @@
+{
+    "project_name": "The Examples Project",
+    "project_url": "https://projects.eclipse.org/projects/technology.examples",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "0.2.0",
+            "url": "https://projects.eclipse.org/projects/release/0.2.0-5",
+            "date": "2009-08-07"
+        },
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/release/0.1.0-5",
+            "date": "2008-12-23"
+        }
+    ]
+}

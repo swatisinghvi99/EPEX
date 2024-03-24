@@ -1,0 +1,28 @@
+{
+    "project_name": "SWTChart",
+    "project_url": "https://projects.eclipse.org/projects/science.swtchart",
+    "status": "Incubating",
+    "tech": "Science",
+    "releases": [
+        {
+            "name": "0.14.0",
+            "url": "https://projects.eclipse.org/projects/science.swtchart/releases/0.14.0",
+            "date": "2023-01-31"
+        },
+        {
+            "name": "0.13.0",
+            "url": "https://projects.eclipse.org/projects/science.swtchart/releases/0.13.0",
+            "date": "2020-09-18"
+        },
+        {
+            "name": "0.12.0",
+            "url": "https://projects.eclipse.org/projects/science.swtchart/releases/0.12.0",
+            "date": "2020-03-17"
+        },
+        {
+            "name": "0.7.0",
+            "url": "https://projects.eclipse.org/projects/science.swtchart/releases/0.7.0",
+            "date": "2019-05-05"
+        }
+    ]
+}

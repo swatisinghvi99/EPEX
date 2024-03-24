@@ -1,0 +1,13 @@
+{
+    "project_name": "LibIMS",
+    "project_url": "https://projects.eclipse.org/projects/polarsys.libims",
+    "status": "Incubating",
+    "tech": "PolarSys",
+    "releases": [
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/polarsys.polarsys.libims/releases/0.1.0",
+            "date": "2018-09-15"
+        }
+    ]
+}

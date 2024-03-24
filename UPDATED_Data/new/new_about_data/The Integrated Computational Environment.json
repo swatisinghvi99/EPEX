@@ -1,0 +1,18 @@
+{
+    "project_name": "The Integrated Computational Environment",
+    "project_url": "https://projects.eclipse.org/projects/science.ice",
+    "status": "Incubating",
+    "tech": "Science",
+    "releases": [
+        {
+            "name": "2.2.1",
+            "url": "https://projects.eclipse.org/projects/technology.ice/releases/2.2.1",
+            "date": "2016-12-03"
+        },
+        {
+            "name": "2.2",
+            "url": "https://projects.eclipse.org/projects/technology.ice/releases/2.2",
+            "date": "2016-10-21"
+        }
+    ]
+}

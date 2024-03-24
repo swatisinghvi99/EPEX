@@ -1,0 +1,43 @@
+{
+    "project_name": "Kuksa",
+    "project_url": "https://projects.eclipse.org/projects/automotive.kuksa",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "0.4.1",
+            "url": "https://projects.eclipse.org/projects/automotive.kuksa/releases/0.4.1",
+            "date": "2023-10-31"
+        },
+        {
+            "name": "0.3.1",
+            "url": "https://projects.eclipse.org/projects/automotive.kuksa/releases/0.3.1",
+            "date": "2023-04-15"
+        },
+        {
+            "name": "0.3.0-M1",
+            "url": "https://projects.eclipse.org/projects/automotive.kuksa/releases/0.3.0-m1",
+            "date": "2023-03-01"
+        },
+        {
+            "name": "0.2.0",
+            "url": "https://projects.eclipse.org/projects/iot.kuksa/releases/0.2.0",
+            "date": "2020-01-22"
+        },
+        {
+            "name": "0.2.0-M1",
+            "url": "https://projects.eclipse.org/projects/iot.kuksa/releases/0.2.0-m1",
+            "date": "2019-12-02"
+        },
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/iot.kuksa/releases/0.1.0",
+            "date": "2019-09-30"
+        },
+        {
+            "name": "0.1-M1",
+            "url": "https://projects.eclipse.org/projects/iot.kuksa/releases/0.1-m1",
+            "date": "2019-02-12"
+        }
+    ]
+}

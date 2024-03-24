@@ -1,0 +1,13 @@
+{
+    "project_name": "OpenSmartCLIDE",
+    "project_url": "https://projects.eclipse.org/projects/ecd.opensmartclide",
+    "status": "Incubating",
+    "tech": "Cloud Development",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/ecd.opensmartclide/reviews/creation-review",
+            "date": "2022-10-05"
+        }
+    ]
+}

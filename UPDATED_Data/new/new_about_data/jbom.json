@@ -1,0 +1,13 @@
+{
+    "project_name": "jbom",
+    "project_url": "https://projects.eclipse.org/projects/technology.jbom",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.jbom/reviews/creation-review",
+            "date": "2022-04-13"
+        }
+    ]
+}

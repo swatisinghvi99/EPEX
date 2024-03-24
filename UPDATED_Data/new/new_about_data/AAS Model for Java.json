@@ -1,0 +1,18 @@
+{
+    "project_name": "AAS Model for Java",
+    "project_url": "https://projects.eclipse.org/projects/dt.aas4j",
+    "status": "Incubating",
+    "tech": "Digital Twin",
+    "releases": [
+        {
+            "name": "1.0.1",
+            "url": "https://projects.eclipse.org/projects/dt.aas4j/releases/1.0.1",
+            "date": "2024-03-01"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/dt.aas4j/releases/1.0.0",
+            "date": "2024-02-13"
+        }
+    ]
+}

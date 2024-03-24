@@ -1,0 +1,178 @@
+{
+    "project_name": "MDT UML2",
+    "project_url": "https://projects.eclipse.org/projects/modeling.mdt.uml2",
+    "status": "Mature",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "5.5.3",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.uml2/releases/5.5.3",
+            "date": "2022-12-07"
+        },
+        {
+            "name": "5.5.2",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.uml2/releases/5.5.2",
+            "date": "2021-03-17"
+        },
+        {
+            "name": "5.5.1",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.uml2/releases/5.5.1",
+            "date": "2020-03-18"
+        },
+        {
+            "name": "5.5.0",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.uml2/releases/5.5.0",
+            "date": "2018-12-19"
+        },
+        {
+            "name": "5.4.1",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.uml2/releases/5.4.1",
+            "date": "2018-09-19"
+        },
+        {
+            "name": "5.4.0",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.uml2/releases/5.4.0",
+            "date": "2018-06-27"
+        },
+        {
+            "name": "5.3.0",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.uml2/releases/5.3.0",
+            "date": "2017-06-28"
+        },
+        {
+            "name": "5.2.0",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.uml2/releases/5.2.0",
+            "date": "2016-06-22"
+        },
+        {
+            "name": "5.1.0",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.uml2/releases/5.1.0",
+            "date": "2015-06-24"
+        },
+        {
+            "name": "5.0.0",
+            "url": "https://projects.eclipse.org/projects/modeling.mdt.uml2/releases/5.0.0",
+            "date": "2014-06-25"
+        },
+        {
+            "name": "4.1.0",
+            "url": "https://projects.eclipse.org/projects/release/4.1.0-2",
+            "date": "2013-06-26"
+        },
+        {
+            "name": "4.0.2",
+            "url": "https://projects.eclipse.org/projects/release/4.0.2",
+            "date": "2013-02-22"
+        },
+        {
+            "name": "4.0.1",
+            "url": "https://projects.eclipse.org/projects/release/4.0.1",
+            "date": "2012-09-28"
+        },
+        {
+            "name": "4.0.0",
+            "url": "https://projects.eclipse.org/projects/release/4.0.0-2",
+            "date": "2012-06-27"
+        },
+        {
+            "name": "3.2.1",
+            "url": "https://projects.eclipse.org/projects/release/3.2.1-0",
+            "date": "2011-09-23"
+        },
+        {
+            "name": "3.2.0",
+            "url": "https://projects.eclipse.org/projects/release/3.2.0-1",
+            "date": "2011-06-22"
+        },
+        {
+            "name": "3.1.0",
+            "url": "https://projects.eclipse.org/projects/release/3.1.0-3",
+            "date": "2010-06-23"
+        },
+        {
+            "name": "3.0.1",
+            "url": "https://projects.eclipse.org/projects/release/3.0.1-0",
+            "date": "2009-08-28"
+        },
+        {
+            "name": "3.0.0",
+            "url": "https://projects.eclipse.org/projects/release/3.0.0-5",
+            "date": "2009-06-15"
+        },
+        {
+            "name": "2.2.2",
+            "url": "https://projects.eclipse.org/projects/release/2.2.2-2",
+            "date": "2009-02-10"
+        },
+        {
+            "name": "2.2.1",
+            "url": "https://projects.eclipse.org/projects/release/2.2.1-1",
+            "date": "2008-08-26"
+        },
+        {
+            "name": "2.2.0",
+            "url": "https://projects.eclipse.org/projects/release/2.2.0-3",
+            "date": "2008-06-09"
+        },
+        {
+            "name": "2.1.1",
+            "url": "https://projects.eclipse.org/projects/release/2.1.1-3",
+            "date": "2007-08-30"
+        },
+        {
+            "name": "2.0.4",
+            "url": "https://projects.eclipse.org/projects/release/2.0.4-1",
+            "date": "2007-07-13"
+        },
+        {
+            "name": "2.1.0",
+            "url": "https://projects.eclipse.org/projects/release/2.1.0-6",
+            "date": "2007-06-25"
+        },
+        {
+            "name": "2.0.3",
+            "url": "https://projects.eclipse.org/projects/release/2.0.3-1",
+            "date": "2007-02-14"
+        },
+        {
+            "name": "2.0.2",
+            "url": "https://projects.eclipse.org/projects/release/2.0.2-2",
+            "date": "2006-10-25"
+        },
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/release/2.0.0-11",
+            "date": "2006-06-22"
+        },
+        {
+            "name": "1.1.1",
+            "url": "https://projects.eclipse.org/projects/release/1.1.1-1",
+            "date": "2005-09-28"
+        },
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/release/1.1.0-6",
+            "date": "2005-07-07"
+        },
+        {
+            "name": "1.0.3",
+            "url": "https://projects.eclipse.org/projects/release/1.0.3-1",
+            "date": "2005-06-22"
+        },
+        {
+            "name": "1.0.2",
+            "url": "https://projects.eclipse.org/projects/release/1.0.2-2",
+            "date": "2005-03-23"
+        },
+        {
+            "name": "1.0.1",
+            "url": "https://projects.eclipse.org/projects/release/1.0.1-4",
+            "date": "2004-09-17"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/release/1.0.0-17",
+            "date": "2004-06-28"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "project_name": "Doc2Model",
+    "project_url": "https://projects.eclipse.org/projects/modeling.emft.doc2model",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "Doc2Model Termination Review",
+            "url": "https://projects.eclipse.org/projects/modeling.emft.doc2model/reviews/doc2model-termination-review",
+            "date": "2013-06-12"
+        },
+        {
+            "name": "Creation",
+            "url": "https://projects.eclipse.org/content/creation-13",
+            "date": "2009-12-16"
+        }
+    ]
+}

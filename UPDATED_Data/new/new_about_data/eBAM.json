@@ -1,0 +1,18 @@
+{
+    "project_name": "eBAM",
+    "project_url": "https://projects.eclipse.org/projects/soa.ebam",
+    "status": "Archived",
+    "tech": "SOA Platform",
+    "releases": [
+        {
+            "name": "0.8.0",
+            "url": "https://projects.eclipse.org/projects/release/0.8.0-16",
+            "date": "2010-12-15"
+        },
+        {
+            "name": "0.7.0",
+            "url": "https://projects.eclipse.org/projects/release/0.7.0-19",
+            "date": "2010-09-15"
+        }
+    ]
+}

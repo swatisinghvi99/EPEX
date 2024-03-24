@@ -1,0 +1,18 @@
+{
+    "project_name": "Model Development Tools (MDT)",
+    "project_url": "https://projects.eclipse.org/projects/modeling.mdt",
+    "status": "Incubating",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "1.0.0 Release Review",
+            "url": "https://projects.eclipse.org/content/1.0.0-release-review-6",
+            "date": "2007-06-06"
+        },
+        {
+            "name": "Creation",
+            "url": "https://projects.eclipse.org/content/creation-26",
+            "date": "2006-09-27"
+        }
+    ]
+}

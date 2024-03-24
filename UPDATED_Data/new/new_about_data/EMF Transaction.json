@@ -1,0 +1,43 @@
+{
+    "project_name": "EMF Transaction",
+    "project_url": "https://projects.eclipse.org/projects/modeling.emf.transaction",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "1.10.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.transaction/releases/1.10.0",
+            "date": "2016-06-22"
+        },
+        {
+            "name": "1.9.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.transaction/releases/1.9.0",
+            "date": "2015-06-25"
+        },
+        {
+            "name": "1.8.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.transaction/releases/1.8.0",
+            "date": "2014-06-25"
+        },
+        {
+            "name": "1.7.0",
+            "url": "https://projects.eclipse.org/projects/modeling.emf.transaction/releases/1.7.0",
+            "date": "2013-06-25"
+        },
+        {
+            "name": "1.6.0",
+            "url": "https://projects.eclipse.org/projects/release/1.6.0-1",
+            "date": "2012-06-24"
+        },
+        {
+            "name": "1.5.1",
+            "url": "https://projects.eclipse.org/projects/release/1.5.1-0",
+            "date": "2011-09-24"
+        },
+        {
+            "name": "1.5.0",
+            "url": "https://projects.eclipse.org/projects/release/1.5.0-1",
+            "date": "2011-06-24"
+        }
+    ]
+}

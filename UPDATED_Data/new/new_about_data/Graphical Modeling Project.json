@@ -1,0 +1,13 @@
+{
+    "project_name": "Graphical Modeling Project",
+    "project_url": "https://projects.eclipse.org/projects/modeling.gmp",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/modeling.gmp/reviews/termination-review",
+            "date": "2021-03-17"
+        }
+    ]
+}

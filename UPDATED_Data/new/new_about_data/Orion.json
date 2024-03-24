@@ -1,0 +1,138 @@
+{
+    "project_name": "Orion",
+    "project_url": "https://projects.eclipse.org/projects/ecd.orion",
+    "status": "Archived",
+    "tech": "Cloud Development",
+    "releases": [
+        {
+            "name": "22.0",
+            "url": "https://projects.eclipse.org/projects/ecd.orion/releases/22.0",
+            "date": "2020-04-03"
+        },
+        {
+            "name": "21.0",
+            "url": "https://projects.eclipse.org/projects/ecd.orion/releases/21.0",
+            "date": "2019-11-07"
+        },
+        {
+            "name": "20.0",
+            "url": "https://projects.eclipse.org/projects/ecd.orion/releases/20.0",
+            "date": "2019-03-29"
+        },
+        {
+            "name": "19.0",
+            "url": "https://projects.eclipse.org/projects/ecd.orion/releases/19.0",
+            "date": "2018-08-16"
+        },
+        {
+            "name": "18.0",
+            "url": "https://projects.eclipse.org/projects/ecd.orion/releases/18.0",
+            "date": "2018-04-12"
+        },
+        {
+            "name": "17.0",
+            "url": "https://projects.eclipse.org/projects/ecd.orion/releases/17.0",
+            "date": "2018-01-11"
+        },
+        {
+            "name": "16.0",
+            "url": "https://projects.eclipse.org/projects/ecd.orion/releases/16.0",
+            "date": "2017-10-04"
+        },
+        {
+            "name": "15.0",
+            "url": "https://projects.eclipse.org/projects/ecd.orion/releases/15.0",
+            "date": "2017-06-28"
+        },
+        {
+            "name": "14.0",
+            "url": "https://projects.eclipse.org/projects/ecd.orion/releases/14.0",
+            "date": "2017-03-17"
+        },
+        {
+            "name": "13.0",
+            "url": "https://projects.eclipse.org/projects/ecd.orion/releases/13.0",
+            "date": "2016-12-21"
+        },
+        {
+            "name": "12.0",
+            "url": "https://projects.eclipse.org/projects/ecd.orion/releases/12.0",
+            "date": "2016-06-22"
+        },
+        {
+            "name": "11.0",
+            "url": "https://projects.eclipse.org/projects/ecd.orion/releases/11.0",
+            "date": "2016-02-24"
+        },
+        {
+            "name": "10.0",
+            "url": "https://projects.eclipse.org/projects/ecd.orion/releases/10.0",
+            "date": "2015-11-04"
+        },
+        {
+            "name": "9.0",
+            "url": "https://projects.eclipse.org/projects/eclipse.orion/releases/9.0",
+            "date": "2015-06-24"
+        },
+        {
+            "name": "8.0",
+            "url": "https://projects.eclipse.org/projects/eclipse.orion/releases/8.0",
+            "date": "2015-03-04"
+        },
+        {
+            "name": "7.0",
+            "url": "https://projects.eclipse.org/projects/eclipse.orion/releases/7.0",
+            "date": "2014-10-29"
+        },
+        {
+            "name": "6.0.0",
+            "url": "https://projects.eclipse.org/projects/eclipse.orion/releases/6.0.0",
+            "date": "2014-06-25"
+        },
+        {
+            "name": "5.0.0",
+            "url": "https://projects.eclipse.org/projects/eclipse.orion/releases/5.0.0",
+            "date": "2014-02-26"
+        },
+        {
+            "name": "4.0.0",
+            "url": "https://projects.eclipse.org/projects/eclipse.orion/releases/4.0.0",
+            "date": "2013-10-30"
+        },
+        {
+            "name": "3.0.0",
+            "url": "https://projects.eclipse.org/projects/eclipse.orion/releases/3.0.0",
+            "date": "2013-06-26"
+        },
+        {
+            "name": "2.0.0",
+            "url": "https://projects.eclipse.org/projects/eclipse.orion/releases/2.0.0",
+            "date": "2013-02-28"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/release/1.0.0-2",
+            "date": "2012-10-23"
+        },
+        {
+            "name": "0.5.0",
+            "url": "https://projects.eclipse.org/projects/release/0.5.0",
+            "date": "2012-06-27"
+        },
+        {
+            "name": "0.4.0",
+            "url": "https://projects.eclipse.org/projects/release/0.4.0",
+            "date": "2012-02-29"
+        },
+        {
+            "name": "0.3.0",
+            "url": "https://projects.eclipse.org/projects/release/0.3.0",
+            "date": "2011-10-28"
+        },
+        {
+            "name": "0.2.0",
+            "url": "https://projects.eclipse.org/projects/release/0.2.0",
+            "date": "2011-06-27"
+        }
+    ]
+}

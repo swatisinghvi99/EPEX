@@ -1,0 +1,13 @@
+{
+    "project_name": "ReqCycle",
+    "project_url": "https://projects.eclipse.org/projects/polarsys.reqcycle",
+    "status": "Archived",
+    "tech": "PolarSys",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/polarsys.reqcycle/reviews/termination-review",
+            "date": "2019-06-19"
+        }
+    ]
+}

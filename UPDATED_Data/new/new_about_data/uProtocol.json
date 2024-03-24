@@ -1,0 +1,23 @@
+{
+    "project_name": "uProtocol",
+    "project_url": "https://projects.eclipse.org/projects/automotive.uprotocol",
+    "status": "Incubating",
+    "tech": "Automotive",
+    "releases": [
+        {
+            "name": "2024.02 Progress Review",
+            "url": "https://projects.eclipse.org/projects/automotive.uprotocol/reviews/2024.02-progress-review",
+            "date": "2024-02-28"
+        },
+        {
+            "name": "2025.02 Progress Review",
+            "url": "https://projects.eclipse.org/projects/automotive.uprotocol/reviews/2025.02-progress-review",
+            "date": "2024-02-19"
+        },
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/automotive.uprotocol/reviews/creation-review",
+            "date": "2023-04-05"
+        }
+    ]
+}

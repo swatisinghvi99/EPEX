@@ -1,0 +1,13 @@
+{
+    "project_name": "Aidge",
+    "project_url": "https://projects.eclipse.org/projects/technology.aidge",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.aidge/reviews/creation-review",
+            "date": "2022-09-14"
+        }
+    ]
+}

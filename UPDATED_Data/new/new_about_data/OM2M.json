@@ -1,0 +1,33 @@
+{
+    "project_name": "OM2M",
+    "project_url": "https://projects.eclipse.org/projects/iot.om2m",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "1.4.1",
+            "url": "https://projects.eclipse.org/projects/iot.om2m/releases/1.4.1",
+            "date": "2021-02-15"
+        },
+        {
+            "name": "1.4.0",
+            "url": "https://projects.eclipse.org/projects/iot.om2m/releases/1.4.0",
+            "date": "2020-08-05"
+        },
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/iot.om2m/releases/1.1.0",
+            "date": "2017-10-04"
+        },
+        {
+            "name": "1.0.0",
+            "url": "https://projects.eclipse.org/projects/iot.om2m/releases/1.0.0",
+            "date": "2016-06-22"
+        },
+        {
+            "name": "0.8.0",
+            "url": "https://projects.eclipse.org/projects/iot.om2m/releases/0.8.0",
+            "date": "2015-04-08"
+        }
+    ]
+}

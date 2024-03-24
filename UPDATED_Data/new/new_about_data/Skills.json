@@ -1,0 +1,13 @@
+{
+    "project_name": "Skills",
+    "project_url": "https://projects.eclipse.org/projects/technology.skills",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "0.1.0",
+            "url": "https://projects.eclipse.org/projects/technology.skills/releases/0.1.0",
+            "date": "2020-12-05"
+        }
+    ]
+}

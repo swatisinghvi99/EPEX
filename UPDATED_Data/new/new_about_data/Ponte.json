@@ -1,0 +1,23 @@
+{
+    "project_name": "Ponte",
+    "project_url": "https://projects.eclipse.org/projects/iot.ponte",
+    "status": "Archived",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/iot.ponte/reviews/termination-review-0",
+            "date": "2021-03-17"
+        },
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/iot.ponte/reviews/termination-review",
+            "date": "2018-07-18"
+        },
+        {
+            "name": "Top-level Project Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot/reviews/top-level-project-creation-review",
+            "date": "2014-08-13"
+        }
+    ]
+}

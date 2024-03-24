@@ -1,0 +1,13 @@
+{
+    "project_name": "POOSL",
+    "project_url": "https://projects.eclipse.org/projects/modeling.poosl",
+    "status": "Incubating",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/modeling.poosl/reviews/creation-review",
+            "date": "2021-10-20"
+        }
+    ]
+}

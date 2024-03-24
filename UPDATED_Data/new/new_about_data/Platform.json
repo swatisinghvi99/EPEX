@@ -1,0 +1,13 @@
+{
+    "project_name": "Platform",
+    "project_url": "https://projects.eclipse.org/projects/eclipse.platform",
+    "status": "Mature",
+    "tech": "Eclipse Project",
+    "releases": [
+        {
+            "name": "Subproject Restructuring Review",
+            "url": "https://projects.eclipse.org/projects/eclipse/reviews/subproject-restructuring-review",
+            "date": "2017-07-05"
+        }
+    ]
+}

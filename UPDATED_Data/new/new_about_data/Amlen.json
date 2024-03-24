@@ -1,0 +1,18 @@
+{
+    "project_name": "Amlen",
+    "project_url": "https://projects.eclipse.org/projects/iot.amlen",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "1.1.0",
+            "url": "https://projects.eclipse.org/projects/iot.amlen/releases/1.1.0",
+            "date": "2022-10-01"
+        },
+        {
+            "name": "1.0.0.0",
+            "url": "https://projects.eclipse.org/projects/iot.amlen/releases/1.0.0.0",
+            "date": "2022-05-24"
+        }
+    ]
+}

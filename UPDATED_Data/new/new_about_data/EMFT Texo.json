@@ -1,0 +1,13 @@
+{
+    "project_name": "EMFT Texo",
+    "project_url": "https://projects.eclipse.org/projects/modeling.emft.texo",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/modeling.emft.texo/reviews/termination-review",
+            "date": "2023-09-27"
+        }
+    ]
+}

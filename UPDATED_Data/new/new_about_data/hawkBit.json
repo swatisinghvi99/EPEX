@@ -1,0 +1,23 @@
+{
+    "project_name": "hawkBit",
+    "project_url": "https://projects.eclipse.org/projects/iot.hawkbit",
+    "status": "Incubating",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "0.4.1",
+            "url": "https://projects.eclipse.org/projects/iot.hawkbit/releases/0.4.1",
+            "date": "2024-01-12"
+        },
+        {
+            "name": "0.3.0",
+            "url": "https://projects.eclipse.org/projects/iot.hawkbit/releases/0.3.0",
+            "date": "2023-11-27"
+        },
+        {
+            "name": "0.2.0",
+            "url": "https://projects.eclipse.org/projects/iot.hawkbit/releases/0.2.0",
+            "date": "2018-06-15"
+        }
+    ]
+}

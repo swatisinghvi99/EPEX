@@ -1,0 +1,13 @@
+{
+    "project_name": "WattAdvisor",
+    "project_url": "https://projects.eclipse.org/projects/technology.wattadvisor",
+    "status": "Incubating",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/technology.wattadvisor/reviews/creation-review",
+            "date": "2024-01-31"
+        }
+    ]
+}

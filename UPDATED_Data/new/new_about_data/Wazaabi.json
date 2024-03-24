@@ -1,0 +1,18 @@
+{
+    "project_name": "Wazaabi",
+    "project_url": "https://projects.eclipse.org/projects/modeling.emft.wazaabi",
+    "status": "Archived",
+    "tech": "Modeling",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/modeling.emft.wazaabi/reviews/termination-review",
+            "date": "2017-03-01"
+        },
+        {
+            "name": "Restructuring (Create Wazaabi)",
+            "url": "https://projects.eclipse.org/content/restructuring-create-wazaabi",
+            "date": "2012-01-04"
+        }
+    ]
+}

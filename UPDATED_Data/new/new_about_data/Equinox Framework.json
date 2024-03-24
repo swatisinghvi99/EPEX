@@ -1,0 +1,13 @@
+{
+    "project_name": "Equinox Framework",
+    "project_url": "https://projects.eclipse.org/projects/rt.equinox.framework",
+    "status": "Archived",
+    "tech": "Eclipse Project",
+    "releases": [
+        {
+            "name": "Merge Subprojects",
+            "url": "https://projects.eclipse.org/projects/rt.equinox/reviews/merge-subprojects",
+            "date": "2016-04-20"
+        }
+    ]
+}

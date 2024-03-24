@@ -1,0 +1,38 @@
+{
+    "project_name": "Ogee",
+    "project_url": "https://projects.eclipse.org/projects/technology.ogee",
+    "status": "Archived",
+    "tech": "Technology",
+    "releases": [
+        {
+            "name": "0.7.0",
+            "url": "https://projects.eclipse.org/projects/technology.ogee/releases/0.7.0",
+            "date": "2016-04-15"
+        },
+        {
+            "name": "0.6.2",
+            "url": "https://projects.eclipse.org/projects/technology.ogee/releases/0.6.2",
+            "date": "2015-12-04"
+        },
+        {
+            "name": "0.6.1",
+            "url": "https://projects.eclipse.org/projects/technology.ogee/releases/0.6.1",
+            "date": "2015-06-22"
+        },
+        {
+            "name": "0.6",
+            "url": "https://projects.eclipse.org/projects/technology.ogee/releases/0.6",
+            "date": "2015-05-07"
+        },
+        {
+            "name": "0.5.4",
+            "url": "https://projects.eclipse.org/projects/technology.ogee/releases/0.5.4",
+            "date": "2015-03-11"
+        },
+        {
+            "name": "0.5.2",
+            "url": "https://projects.eclipse.org/projects/technology.ogee/releases/0.5.2",
+            "date": "2015-01-07"
+        }
+    ]
+}

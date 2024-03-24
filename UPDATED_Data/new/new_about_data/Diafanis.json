@@ -1,0 +1,13 @@
+{
+    "project_name": "Diafanis",
+    "project_url": "https://projects.eclipse.org/projects/iot.diafanis",
+    "status": "Mature",
+    "tech": "IoT",
+    "releases": [
+        {
+            "name": "Creation Review",
+            "url": "https://projects.eclipse.org/projects/iot.diafanis/reviews/creation-review",
+            "date": "2022-02-16"
+        }
+    ]
+}

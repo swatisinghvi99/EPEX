@@ -1,0 +1,18 @@
+{
+    "project_name": "Mangrove - SOA Modeling Framework",
+    "project_url": "https://projects.eclipse.org/projects/soa.mangrove",
+    "status": "Archived",
+    "tech": "SOA Platform",
+    "releases": [
+        {
+            "name": "Termination Review",
+            "url": "https://projects.eclipse.org/projects/soa.mangrove/reviews/termination-review",
+            "date": "2023-09-27"
+        },
+        {
+            "name": "Creation",
+            "url": "https://projects.eclipse.org/content/creation-52",
+            "date": "2010-03-17"
+        }
+    ]
+}
