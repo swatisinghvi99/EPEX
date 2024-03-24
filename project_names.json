@@ -1,0 +1,2846 @@
+{
+  "Modeling": {
+    "EMFStore": [
+      "emfstore-website",
+      "org.eclipse.emf.emfstore.core"
+    ],
+    "Epsilon": [
+      "epsilon-website",
+      "epsilon"
+    ],
+    "OCL (Object Constraint Language)": [
+      "ocl-website"
+    ],
+    "QVT Operational": [],
+    "Hawk": [],
+    "MDT UML2": [
+      ".eclipsefdn",
+      ".github",
+      "uml2",
+      "uml2-website"
+    ],
+    "MoDisco": [
+      "modisco-website"
+    ],
+    "EMF Client Platform": [
+      "ecp-website",
+      "org.eclipse.emf.ecp.core",
+      "org.eclipse.emf.ecp.other",
+      "org.eclipse.emf.ecp.releng"
+    ],
+    "Sirius": [
+      ".eclipsefdn",
+      ".github",
+      "sirius-desktop",
+      "sirius-emf-json",
+      "sirius-legacy",
+      "sirius-specs",
+      "sirius-web",
+      "sirius-website",
+      "sirius-website-sources"
+    ],
+    "ATL": [
+      "atl-website"
+    ],
+    "Graphiti": [],
+    "Layout Kernel": [
+      "elk",
+      "elk-models",
+      "elk-website"
+    ],
+    "Papyrus": [],
+    "QVTd (QVT Declarative)": [],
+    "GEMOC Studio": [
+      "gemoc-studio",
+      "gemoc-studio-modeldebugging",
+      "gemoc-studio-execution-java",
+      "gemoc-studio-execution-ale",
+      "gemoc-studio-moccml",
+      "gemoc-studio-execution-moccml",
+      "gemoc-studio-commons",
+      "gemoc-studio-extras"
+    ],
+    "Model Driven Health Tools": [],
+    "UML Profiles Repository": [],
+    "EMF Feature Model": [],
+    "Acceleo": [
+      "acceleo",
+      "acceleo-website"
+    ],
+    "Formal Modeling Project": [
+      "efm-hibou",
+      "efm-modelling",
+      "efm-symbex"
+    ],
+    "UML Generators": [],
+    "VIATRA": [
+      ".eclipsefdn",
+      "org.eclipse.viatra",
+      "org.eclipse.viatra.examples",
+      "org.eclipse.viatra.modelobfuscator",
+      "viatra-website"
+    ],
+    "EMF": [
+      ".eclipsefdn",
+      ".github",
+      "emf-website",
+      "org.eclipse.emf"
+    ],
+    "Fundamental Modeling Concepts": [],
+    "SmartMDSD": [
+      "smartmdsd"
+    ],
+    "EMF Diff/Merge": [
+      "org.eclipse.emf.diffmerge.core",
+      "org.eclipse.emf.diffmerge.patch",
+      "org.eclipse.emf.diffmerge.patterns",
+      "org.eclipse.emf.diffmerge.coevolution"
+    ],
+    "Xtext": [
+      "xtext",
+      "xtext-website-publish",
+      "xtext-archive",
+      "xtext-website"
+    ],
+    "EMF-IncQuery": [],
+    "EMF Compare": [
+      "emf-compare",
+      "emf-compare-acceptance",
+      "emf-compare-cli",
+      "emf-compare-releng",
+      "emf-compare-website"
+    ],
+    "Business Process Model and Notation (BPMN2)": [],
+    "Edapt": [
+      "edapt",
+      "edapt-website"
+    ],
+    "Papyrus for Real Time (Papyrus-RT)": [],
+    "Capra": [
+      "capra"
+    ],
+    "EMF Services": [
+      ".eclipsefdn",
+      ".github",
+      "emf-query",
+      "emf-transaction",
+      "emf-validation"
+    ],
+    "EMF Parsley": [
+      "emf-parsley-website",
+      "emf-parsley"
+    ],
+    "Ecore Tools": [
+      "ecoretools",
+      "ecoretools-website"
+    ],
+    "Agile UML": [
+      "agileuml"
+    ],
+    "EATOP": [],
+    "AMW - Atlas Model Weaver": [],
+    "b3": [],
+    "eTrice": [],
+    "Extended Editing Framework (EEF)": [
+      "eef-website"
+    ],
+    "Agent Modeling Platform": [],
+    "Amalgam": [
+      "amalgam"
+    ],
+    "CDO Model Repository": [
+      ".github",
+      "cdo",
+      "cdo.incubator",
+      "cdo.infrastructure",
+      "cdo.old",
+      "cdo.www"
+    ],
+    "EMF Facet": [],
+    "EMF Query": [],
+    "EMF Transaction": [],
+    "EMF Validation": [],
+    "emfatic": [
+      "emfatic",
+      "emfatic-website"
+    ],
+    "Generation Factories (EGF)": [
+      "emf.egf"
+    ],
+    "Generative Modeling Technologies (GMT)": [],
+    "GMF Notation": [],
+    "GMF Runtime": [
+      ".eclipsefdn",
+      ".github",
+      "gmf-notation",
+      "gmf-runtime",
+      "gmf-runtime-website"
+    ],
+    "GMF Tooling": [],
+    "MDT XSD (XML Schema Definition)": [],
+    "Model Framework Technology (EMFT)": [],
+    "Modeling Project": [
+      "modeling-website"
+    ],
+    "Modeling Workflow Engine": [
+      "mwe"
+    ],
+    "POOSL": [
+      "poosl"
+    ],
+    "Requirements Modeling Framework": [
+      "org.eclipse.rmf",
+      "org.eclipse.rmf.documentation",
+      "rmf-website"
+    ],
+    "Xpand": [],
+    "EMF Query2": [],
+    "EMF Refactor": [],
+    "EMF Teneo Model - Relational Database Integration": [],
+    "EMFT Texo": [],
+    "Model-to-Model Transformation (MMT)": [
+      "mmt-website"
+    ],
+    "Henshin": [
+      "henshin"
+    ],
+    "Java Emitter Templates (JET2)": [],
+    "Model Development Tools (MDT)": [
+      "mdt-website"
+    ],
+    "Model To Text (M2T)": [],
+    "Gendoc": [],
+    "Xsemantics": [
+      "xsemantics"
+    ],
+    "Doc2Model": [],
+    "AVSys": [],
+    "Franca": [],
+    "Modeling Framework - Container Project": [
+      ".eclipsefdn",
+      ".github",
+      "emf-website",
+      "org.eclipse.emf"
+    ],
+    "OMELET": [],
+    "Papyrus for xtUML": [],
+    "PMF": [],
+    "SysON": [
+      ".eclipsefdn",
+      "eclipse-syson.github.io",
+      "syson",
+      "syson-website"
+    ],
+    "Xpect": [
+      "Xpect"
+    ],
+    "Graphical Modeling Project": [],
+    "IMM Releng": [],
+    "Textual Modeling Framework": [],
+    "Wazaabi": [],
+    "Web Modeling Framework": []
+  },
+  "IoT": {
+    "Paho": [
+      "paho.mqtt.c",
+      "paho.mqtt.python",
+      "paho.mqtt.javascript",
+      "paho.mqtt.embedded-c",
+      "paho.mqtt.java",
+      "paho.mqtt.cpp",
+      "paho.mqtt.golang",
+      "paho.mqtt-sn.embedded-c",
+      "paho.mqtt.m2mqtt",
+      "paho.mqtt.testing",
+      "paho.mqtt.android",
+      "paho.mqtt.d",
+      "paho.mqtt-spy",
+      "paho.mqtt.ruby",
+      "paho.mqtt.rust",
+      "paho.golang",
+      "paho-website"
+    ],
+    "NeoSCADA": [
+      "neoscada"
+    ],
+    "Embedded CDT (C/C++ Development Tools)": [
+      ".eclipsefdn",
+      "assets",
+      "eclipse-embed-cdt.github.io",
+      "eclipse-plugins",
+      "Liqp",
+      "org.eclipse.epp.packages",
+      "web-jekyll",
+      "web-preview"
+    ],
+    "Concierge": [
+      "concierge"
+    ],
+    "Arrowhead": [
+      "core-java-spring",
+      "roadmap",
+      "profile-library-sysml",
+      "documentation",
+      "core-c",
+      "application-library-java-spring",
+      "core-go-generic"
+    ],
+    "Streamsheets": [
+      "streamsheets"
+    ],
+    "Mita": [
+      "mita"
+    ],
+    "SmartHome": [
+      "smarthome",
+      "smarthome.osgi-ri.enocean",
+      "smarthome-packaging-sample",
+      "smarthome-designer"
+    ],
+    "Duttile": [],
+    "fog05": [
+      "fog05",
+      "fog05-python",
+      "fog05-go",
+      "fog05-networking-linux",
+      "fog05-hypervisor-kvm",
+      "fog05-hypervisor-lxd",
+      "fog05-hypervisor-native",
+      "fog05-hypervisor-containerd",
+      "fog05-hypervisor-ros2",
+      "examples",
+      "website"
+    ],
+    "Kanto": [
+      ".eclipsefdn",
+      "aws-connector",
+      "azure-connector",
+      "container-management",
+      "example-applications",
+      "file-backup",
+      "file-upload",
+      "kanto",
+      "local-digital-twins",
+      "meta-kanto",
+      "software-update",
+      "suite-bootstrapping",
+      "suite-connector",
+      "system-metrics",
+      "update-manager"
+    ],
+    "Keyple": [
+      ".eclipsefdn",
+      ".github",
+      "keyple-card-calypso-cpp-lib",
+      "keyple-card-calypso-crypto-legacysam-java-lib",
+      "keyple-card-calypso-crypto-pki-java-lib",
+      "keyple-card-calypso-java-lib",
+      "keyple-card-generic-cpp-lib",
+      "keyple-card-generic-java-lib",
+      "keyple-common-cpp-api",
+      "keyple-common-java-api",
+      "keyple-cpp",
+      "keyple-cpp-example",
+      "keyple-cpp-meta",
+      "keyple-distributed-local-java-api",
+      "keyple-distributed-local-java-lib",
+      "keyple-distributed-network-java-lib",
+      "keyple-distributed-remote-java-api",
+      "keyple-distributed-remote-java-lib",
+      "keyple-integration-java-test",
+      "keyple-java",
+      "keyple-java-example",
+      "keyple-ops",
+      "keyple-plugin-android-nfc-java-lib",
+      "keyple-plugin-android-omapi-java-lib",
+      "keyple-plugin-cardresource-java-lib",
+      "keyple-plugin-cpp-api",
+      "keyple-plugin-java-api",
+      "keyple-plugin-pcsc-cpp-lib",
+      "keyple-plugin-pcsc-java-lib",
+      "keyple-plugin-stub-cpp-lib"
+    ],
+    "RISE V2G": [
+      "risev2g"
+    ],
+    "Thingweb": [
+      ".eclipsefdn",
+      ".github",
+      "dart_wot",
+      "domus-tdd-api",
+      "node-red",
+      "node-wot",
+      "playground",
+      "td-tools",
+      "test-things",
+      "thingweb",
+      "website"
+    ],
+    "Zenoh": [
+      ".eclipsefdn",
+      "ci",
+      "homebrew-zenoh",
+      "roadmap",
+      "zenoh",
+      "zenoh-backend-filesystem",
+      "zenoh-backend-influxdb",
+      "zenoh-backend-rocksdb",
+      "zenoh-backend-s3",
+      "zenoh-backend-sql",
+      "zenoh-c",
+      "zenoh-cpp",
+      "zenoh-csharp",
+      "zenoh-demos",
+      "zenoh-flow",
+      "zenoh-flow-python",
+      "zenoh-go",
+      "zenoh-java",
+      "zenoh-kotlin",
+      "zenoh-pico",
+      "zenoh-plugin-dds",
+      "zenoh-plugin-mqtt",
+      "zenoh-plugin-ros1",
+      "zenoh-plugin-ros2dds",
+      "zenoh-plugin-webserver",
+      "zenoh-plugin-zenoh-flow",
+      "zenoh-python"
+    ],
+    "IoT": [],
+    "4diac": [
+      ".eclipsefdn",
+      "4diac-documentation",
+      "4diac-examples",
+      "4diac-fbe",
+      "4diac-forte",
+      "4diac-fortebuildcontainer",
+      "4diac-toolchain",
+      "4diac-website",
+      "4diac-website-hugo"
+    ],
+    "Hono": [
+      ".eclipsefdn",
+      "hono",
+      "hono-extras",
+      "hono-website"
+    ],
+    "IoT Packages": [
+      "packages",
+      "packages-c2e-provisioning",
+      "packages-website"
+    ],
+    "Keypop": [
+      ".eclipsefdn",
+      ".github",
+      "keypop-calypso-card-cpp-api",
+      "keypop-calypso-card-java-api",
+      "keypop-calypso-certificate-cpp-api",
+      "keypop-calypso-certificate-java-api",
+      "keypop-calypso-crypto-asymmetric-cpp-api",
+      "keypop-calypso-crypto-asymmetric-java-api",
+      "keypop-calypso-crypto-legacysam-cpp-api",
+      "keypop-calypso-crypto-legacysam-java-api",
+      "keypop-calypso-crypto-symmetric-cpp-api",
+      "keypop-calypso-crypto-symmetric-java-api",
+      "keypop-card-cpp-api",
+      "keypop-card-java-api",
+      "keypop-ops",
+      "keypop-reader-cpp-api",
+      "keypop-reader-java-api",
+      "keypop-website"
+    ],
+    "Kiso-testing": [
+      "kiso-testing",
+      "kiso-testing-vscode",
+      "kiso-testing-python-uds",
+      "kiso-testing-testapp"
+    ],
+    "Kura": [
+      "kura",
+      "kura-website",
+      "kura-apps"
+    ],
+    "Leshan": [
+      "leshan",
+      "leshan-website"
+    ],
+    "Mosquitto": [
+      "mosquitto.rsmb",
+      "mosquitto"
+    ],
+    "OM2M": [],
+    "Vorto": [
+      "vorto",
+      "vorto-examples",
+      "vorto-website"
+    ],
+    "Moquette MQTT": [],
+    "Californium (Cf) CoAP Framework": [
+      "californium",
+      "californium.actinium",
+      "californium.tools",
+      "californium-website"
+    ],
+    "Ditto": [
+      "ditto",
+      "ditto-examples",
+      "ditto-clients",
+      "ditto-clients-golang",
+      "ditto-clients-python",
+      "ditto-website",
+      "ditto-testing"
+    ],
+    "Keti": [
+      "keti"
+    ],
+    "Tahu": [
+      "tahu"
+    ],
+    "Tiaki": [
+      "tiaki-c",
+      "tiaki-java"
+    ],
+    "Unide": [
+      "unide",
+      "unide.java",
+      "unide.python"
+    ],
+    "Wakaama": [
+      "wakaama"
+    ],
+    "Sparkplug": [
+      "sparkplug",
+      "sparkplug.listings"
+    ],
+    "Agail": [
+      "agile-api-spec",
+      "agile-cli",
+      "agile-dbus-java-interface",
+      "agile-sdk",
+      "agile-core",
+      "agile-data",
+      "agile-dbus",
+      "agail-security",
+      "agile-recommender",
+      "agile-kura",
+      "agile-ble",
+      "agile-dummy-protocol"
+    ],
+    "Amlen": [
+      "amlen",
+      "amlen-website"
+    ],
+    "Cyclone DDS": [
+      ".eclipsefdn",
+      "cyclonedds",
+      "cyclonedds-cxx",
+      "cyclonedds-python",
+      "eclipse-cyclonedds.github.io"
+    ],
+    "Diafanis": [
+      "diafanis"
+    ],
+    "EdiTDor": [
+      "editdor"
+    ],
+    "Edje": [
+      "edje"
+    ],
+    "Grela": [],
+    "Hara": [
+      ".eclipsefdn",
+      "hara-ddiclient"
+    ],
+    "hawkBit": [
+      "hawkbit",
+      "hawkbit-extensions",
+      "hawkbit-examples",
+      "hawkbit-clients-golang",
+      "hawkbit-website"
+    ],
+    "HIP": [],
+    "Ignite|IoT": [
+      "ignite"
+    ],
+    "ioFog": [
+      "iofog-platform",
+      "demo",
+      "iofog.org",
+      "iofog-operator",
+      "iofog-scheduler",
+      "iofog-kubelet",
+      "Agent",
+      "Controller",
+      "iofog-docker-images",
+      "example-microservices",
+      "Connector",
+      "iofog-python-sdk",
+      "HardwareAbstraction",
+      "common-logging",
+      "core-networking",
+      "iofog-go-sdk",
+      "iofog-c-sdk",
+      "iofog-csharp-sdk",
+      "restblue",
+      "iofog-nodejs-sdk",
+      "test-message-generator",
+      "iofogctl",
+      "homebrew-iofogctl",
+      "port-manager",
+      "helm",
+      "test-runner",
+      "router",
+      "agent-go",
+      "ECN-Viewer",
+      "integrations",
+      "documentation",
+      "iofog-java-sdk"
+    ],
+    "Kapua": [
+      "kapua"
+    ],
+    "Kiso": [
+      "kiso",
+      "kiso-testing"
+    ],
+    "Krikkit": [],
+    "Milo": [
+      "milo"
+    ],
+    "MRAA": [
+      "mraa"
+    ],
+    "OneOFour": [
+      "oneofour"
+    ],
+    "Paho Incubator": [],
+    "Phizog": [],
+    "Ponte": [
+      "ponte"
+    ],
+    "Symphony": [
+      ".eclipsefdn",
+      "symphony",
+      "symphony-website"
+    ],
+    "ThreadX": [
+      ".eclipsefdn",
+      ".github",
+      "cmsis-packs",
+      "filex",
+      "getting-started",
+      "guix",
+      "levelx",
+      "netxduo",
+      "rtos-docs",
+      "samples",
+      "threadx",
+      "threadx-learn-samples",
+      "tracex",
+      "usbx"
+    ],
+    "tinydtls": [
+      "tinydtls"
+    ],
+    "Tocandira": [
+      "Container-Watchdog",
+      "Tocandira",
+      "Tocandira-api-gateway",
+      "Tocandira-back",
+      "Tocandira-Dashboard",
+      "Tocandira-front",
+      "Tocandira-opcua-gateway",
+      "tocandira-website"
+    ],
+    "UPM": [
+      "upm"
+    ],
+    "VOLTTRON": [
+      ".eclipsefdn",
+      ".github",
+      "copier-poetry-volttron-agent",
+      "docker",
+      "eclipse-volttron.github.io",
+      "github-tooling",
+      "volttron",
+      "volttron-actuator",
+      "volttron-agent-watcher",
+      "volttron-airside-rcx",
+      "volttron-ansible",
+      "volttron-bacnet-proxy",
+      "volttron-boptest",
+      "volttron-core",
+      "volttron-dnp3-master",
+      "volttron-dnp3-outstation",
+      "volttron-docs",
+      "volttron-economizer-rcx",
+      "volttron-emailer",
+      "volttron-energyplus",
+      "volttron-file-watcher",
+      "volttron-forward-historian",
+      "volttron-gridappsd",
+      "volttron-heat-recovery",
+      "volttron-ilc",
+      "volttron-lib-auth",
+      "volttron-lib-bacnet-driver",
+      "volttron-lib-base-driver",
+      "volttron-lib-base-historian",
+      "volttron-lib-curve"
+    ],
+    "Whiskers": [
+      "whiskers.arduino",
+      "whiskers.js"
+    ],
+    "Yasham": [],
+    "Mihini": [],
+    "Tangle Identity": [
+      "tangleid"
+    ],
+    "Tangle Marketplaces": [
+      "tanglemktplaces"
+    ]
+  },
+  "Tools": {
+    "Trace Compass": [
+      ".eclipsefdn",
+      "org.eclipse.tracecompass",
+      "trace-event-logger",
+      "tracecompass-infra",
+      "tracecompass-test-traces",
+      "tracecompass-website"
+    ],
+    "Lua Development Tools": [],
+    "Object Teams": [],
+    "WindowBuilder": [
+      ".eclipsefdn",
+      ".github",
+      "windowbuilder",
+      "windowbuilder-website",
+      "windowbuilder-website-source"
+    ],
+    "Linux Tools": [
+      "org.eclipse.linuxtools.eclipse-build",
+      "org.eclipse.linuxtools",
+      "linuxtools-website"
+    ],
+    "Target Management: Terminal and Remote System Explorer (RSE)": [],
+    "Mobile Tools for Java": [],
+    "AspectJ": [
+      "ajdt",
+      "aspectj",
+      "aspectj-website",
+      "eclipse.jdt.core"
+    ],
+    "Titan": [],
+    "Trace Compass Incubator": [
+      ".eclipsefdn",
+      "org.eclipse.tracecompass.incubator"
+    ],
+    "Buildship: Plug-ins for Gradle": [
+      "buildship"
+    ],
+    "Corrosion: the IDE for Rust": [
+      "corrosion"
+    ],
+    "PHP Development Tools": [
+      ".eclipsefdn",
+      ".github",
+      "pdt",
+      "pdt-website"
+    ],
+    "Buckminster Component Assembly": [],
+    "Memory Analyzer": [
+      "mat-website"
+    ],
+    "Oomph": [
+      ".eclipsefdn",
+      ".github",
+      "oomph",
+      "oomph.incubator"
+    ],
+    "Graphical Editing Framework (GEF)": [
+      "gef",
+      "gef-classic"
+    ],
+    "Visual Editor for XML": [],
+    "aCute - C# and .NET Core development tools in IDE": [
+      "aCute"
+    ],
+    "ShellWax": [
+      "shellwax"
+    ],
+    "Andmore": [
+      "andmore",
+      "sequoyah"
+    ],
+    "Mylyn": [
+      ".eclipsefdn",
+      ".github",
+      "mylyn-website",
+      "org.eclipse.mylyn",
+      "org.eclipse.mylyn.all",
+      "org.eclipse.mylyn.builds",
+      "org.eclipse.mylyn.commons",
+      "org.eclipse.mylyn.context",
+      "org.eclipse.mylyn.context.mft",
+      "org.eclipse.mylyn.docs",
+      "org.eclipse.mylyn.docs.intent.main",
+      "org.eclipse.mylyn.docs.vex",
+      "org.eclipse.mylyn.incubator",
+      "org.eclipse.mylyn.reviews",
+      "org.eclipse.mylyn.reviews.ui",
+      "org.eclipse.mylyn.tasks",
+      "org.eclipse.mylyn.versions"
+    ],
+    "Ajax Tools Framework (ATF)": [],
+    "AJDT - AspectJ Development Tools Project": [
+      "ajdt",
+      "ajdt-website"
+    ],
+    "CDT (C/C++ Development Tooling)": [
+      ".eclipsefdn",
+      ".github",
+      "cdt",
+      "cdt-infra",
+      "cdt-lsp",
+      "cdt-new-managedbuild-prototype",
+      "cdt-vscode"
+    ],
+    "Dartboard": [
+      "dartboard"
+    ],
+    "Data Tools Incubator": [],
+    "Data Tools Platform": [
+      ".eclipsefdn",
+      ".github",
+      "datatools"
+    ],
+    "Mylyn Docs": [],
+    "Orbit Project": [
+      ".eclipsefdn",
+      ".github",
+      "ebr",
+      "orbit",
+      "orbit-legacy",
+      "orbit-simrel"
+    ],
+    "Parallel Tools Platform (PTP)": [
+      "ptp",
+      "ptp-website",
+      "ptp.doc",
+      "ptp.photran"
+    ],
+    "Target Communication Framework": [],
+    "Tools Project": [
+      "tools-website"
+    ],
+    "EGL Development Tools": [],
+    "Mylyn Builds": [],
+    "Mylyn Commons": [],
+    "Mylyn Context": [],
+    "Mylyn Docs Intent": [
+      "intent-website"
+    ],
+    "Mylyn Incubator": [],
+    "Mylyn Reviews": [],
+    "Mylyn Tasks": [],
+    "Mylyn Versions": [],
+    "R4E (Review for Eclipse)": [],
+    "Sequoyah": [],
+    "Test and Performance Tools Platform": [],
+    "SeCo Blocks": [],
+    "Wild Web Developer": [
+      ".eclipsefdn",
+      "wildwebdeveloper"
+    ],
+    "Damos": [],
+    "Data Tools Connectivity": [],
+    "Data Tools Enablement": [],
+    "Data Tools Model Base": [],
+    "Data Tools SQL Dev Tools": [],
+    "LSPHub": [],
+    "PDT Incubator": [],
+    "Photran Fortran Development Tools": [],
+    "Thym": [],
+    "TOMLed": [
+      "tomled"
+    ],
+    "Model Focusing Tools": []
+  },
+  "Technology": {
+    "Apogy": [],
+    "Collections": [
+      "eclipse-collections",
+      "eclipse-collections-kata",
+      "gsc-ec-converter",
+      "www.eclipse.org-collections",
+      "collections-website"
+    ],
+    "MDM@WEB": [],
+    "Ogee": [],
+    "Dynamic Languages Toolkit": [
+      "dltk.all",
+      "dltk.core",
+      "dltk.examples",
+      "dltk.releng",
+      "dltk.tcl"
+    ],
+    "Nebula - Supplemental Widgets for SWT": [
+      "nebula",
+      "nebula-website"
+    ],
+    "LSP4J": [
+      ".eclipsefdn",
+      "lsp4j"
+    ],
+    "JGit: Java implementation of Git": [
+      ".eclipsefdn",
+      "jgit",
+      "jgit-permissions",
+      "jgit-pipelines",
+      "jgit-website"
+    ],
+    "Handly": [],
+    "Open Standard Business Platform": [],
+    "Package Drone": [
+      "packagedrone"
+    ],
+    "MicroProfile": [
+      "microprofile-config",
+      "microprofile",
+      "microprofile-evolution-process",
+      "microprofile-conference",
+      "microprofile-samples",
+      "microprofile-fault-tolerance",
+      "microprofile-health",
+      "microprofile-jwt-auth",
+      "microprofile-sandbox",
+      "microprofile-bom",
+      "microprofile-rest-client",
+      "microprofile-open-api",
+      "microprofile-metrics",
+      "microprofile-opentracing",
+      "microprofile-parent",
+      "microprofile-service-mesh",
+      "microprofile-lra",
+      "microprofile-service-mesh-service-a",
+      "microprofile-service-mesh-service-b",
+      "microprofile-reactive-streams-operators",
+      "microprofile-reactive-messaging",
+      "microprofile-context-propagation",
+      "microprofile-starter",
+      "microprofile-marketing",
+      "microprofile-graphql",
+      "microprofile-build-infra",
+      "microprofile-telemetry",
+      "microprofile-jwt-bridge",
+      "microprofile-tutorial"
+    ],
+    "SW360antenna": [
+      "antenna",
+      "antenna.website"
+    ],
+    "N4JS": [
+      "n4js",
+      "n4js-tutorials",
+      "n4js-website"
+    ],
+    "sensiNact": [
+      "org.eclipse.sensinact.studioweb",
+      "org.eclipse.sensinact.studio",
+      "org.eclipse.sensinact.gateway",
+      "org.eclipse.sensinact"
+    ],
+    "Signalling Engineering Toolbox": [
+      ".eclipsefdn",
+      "browser",
+      "build",
+      "model",
+      "set",
+      "toolboxmodel"
+    ],
+    "eLogbook@openK": [],
+    "Steady": [
+      "steady"
+    ],
+    "Transformer": [
+      "transformer"
+    ],
+    "Xpanse": [
+      ".eclipsefdn",
+      ".github",
+      "policy-man",
+      "terraform-boot",
+      "tofu-maker",
+      "xpanse",
+      "xpanse-iam",
+      "xpanse-observability",
+      "xpanse-relops",
+      "xpanse-ui",
+      "xpanse-website"
+    ],
+    "OSGi Specification Project": [
+      "osgi"
+    ],
+    "OSGi Technology Project": [
+      "osgi-test",
+      "slf4j-osgi",
+      "osgi.enroute",
+      "osgi.enroute.site",
+      "jakartarest-osgi"
+    ],
+    "Advanced Scripting Environment (EASE)": [],
+    "SWTBot": [
+      "org.eclipse.swtbot"
+    ],
+    "BIRT (Business Intelligence and Reporting Tools)": [
+      "birt",
+      "birt-website"
+    ],
+    "Marketplace Client": [
+      "epp.mpc",
+      "mpc-website"
+    ],
+    "Passage": [
+      ".github",
+      "chronograph",
+      "passage",
+      "passage-docs",
+      "passage-images",
+      "passage-spring",
+      "passage-website"
+    ],
+    "User Storage Service SDK": [],
+    "Code Recommenders": [],
+    "EGit: Git Integration for Eclipse": [
+      ".eclipsefdn",
+      "egit",
+      "egit-github",
+      "egit-permissions",
+      "egit-pipelines",
+      "egit-website"
+    ],
+    "Maven Integration for Web Tools Platform": [],
+    "RCP Testing Tool": [
+      "org.eclipse.rcptt",
+      "rcptt-website"
+    ],
+    "Aether": [],
+    "BPMN2 Modeler Project": [],
+    "CommaSuite": [],
+    "Free BIRD Tools": [
+      "efbt",
+      "efbt-website"
+    ],
+    "Maven Integration - m2eclipse": [
+      "m2e-core",
+      "m2e-discovery-catalog",
+      "org.eclipse.m2e.workspace",
+      ".github",
+      "m2e-wtp",
+      "m2e-wtp-jpa",
+      "m2e-website"
+    ],
+    "Nebula NatTable": [
+      ".eclipsefdn",
+      "nattable",
+      "nattable-website"
+    ],
+    "RedDeer": [
+      "reddeer"
+    ],
+    "Subversive SVN Team Provider": [],
+    "TM4E - TextMate support in the IDE": [
+      "tm4e"
+    ],
+    "TEA (Tasking Engine Advanced)": [
+      ".eclipsefdn",
+      "tea",
+      "tea-website"
+    ],
+    "EclEmma": [
+      ".eclipsefdn",
+      "eclemma",
+      "update.eclemma.org"
+    ],
+    "e(fx)clipse": [
+      "efxclipse",
+      "efxclipse-rt",
+      "efxclipse-eclipse",
+      "efxclipse-drift",
+      "efxclipse-website"
+    ],
+    "LSP4E": [
+      "lsp4e"
+    ],
+    "XWT": [],
+    "ESCET (Supervisory Control Engineering Toolkit)": [],
+    "Higgins": [],
+    "LSAT": [],
+    "Lyo": [
+      "lyo",
+      "lyo.designer",
+      "lyo.adapter-magicdraw",
+      "lyo.adapter-simulink",
+      "lyo.docs",
+      "lyo.oslc-ui",
+      "lyo.testsuite"
+    ],
+    "Scout": [
+      "scout.ci",
+      "scout.docs",
+      "scout.maven-master",
+      "scout.rt",
+      "scout.sdk",
+      "scout.website"
+    ],
+    "TRACE4CPS": [],
+    "Koneki": [],
+    "EGerrit": [
+      "egerrit",
+      "egerrit-website"
+    ],
+    "UOMo": [
+      "uomo",
+      "uomo-website"
+    ],
+    "Accessibility Tools Framework": [
+      "actf-website",
+      "org.eclipse.actf",
+      "org.eclipse.actf.ai",
+      "org.eclipse.actf.common",
+      "org.eclipse.actf.examples",
+      "org.eclipse.actf.visualization",
+      "org.eclipse.actf.visualization.releng"
+    ],
+    "Babel": [
+      ".eclipsefdn",
+      "babel-website",
+      "plugins",
+      "server",
+      "translations"
+    ],
+    "DataEggs": [],
+    "Golo": [
+      "golo-lang"
+    ],
+    "Jubula Functional Testing Tool": [],
+    "JustJ": [
+      ".eclipsefdn",
+      ".github",
+      "justj",
+      "justj-website",
+      "justj.tools"
+    ],
+    "Hudson": [],
+    "iceoryx": [
+      ".eclipsefdn",
+      ".github",
+      "iceoryx",
+      "iceoryx-automotive-soa",
+      "iceoryx-gateway-dds",
+      "iceoryx-project-template",
+      "iceoryx-rs",
+      "iceoryx-web",
+      "iceoryx2"
+    ],
+    "Jifa": [
+      "jifa"
+    ],
+    "JNoSQL": [
+      "jnosql",
+      "jnosql-communication-driver",
+      "jnosql-extensions"
+    ],
+    "Aidge": [],
+    "LemMinX": [
+      "lemminx",
+      "lemminx-maven"
+    ],
+    "RDF4J": [
+      "rdf4j",
+      "rdf4j-doc",
+      "rdf4j-storage",
+      "rdf4j-tools",
+      "rdf4j-testsuite"
+    ],
+    "Open System Engineering Environment": [],
+    "Process Framework Project": [],
+    "Runtime Packaging Project": [],
+    "Sapphire": [],
+    "Sisu": [
+      "sisu.inject",
+      "sisu.mojos",
+      "sisu.plexus",
+      "sisu-website"
+    ],
+    "Spatio-Temporal Epidemiological Modeler": [],
+    "Voice Tools Project": [],
+    "g-Technology Project": [],
+    "IDE for Education": [],
+    "Skalli": [],
+    "Sketch": [],
+    "Tigerstripe": [],
+    "Bridge.IoT": [
+      "bridgeiot.docs",
+      "bridgeiot.lib.java",
+      "bridgeiot.examples",
+      "bridgeiot.marketplace.apigw",
+      "bridgeiot.marketplace.microservice",
+      "bridgeiot.marketplace.exchange"
+    ],
+    "Common Build Infrastructure": [
+      ".eclipsefdn",
+      ".github",
+      "ansible-playbooks",
+      "best-practices",
+      "buildkitd-okd",
+      "cbi",
+      "ci-admin",
+      "dockerfiles",
+      "dockertools",
+      "eclipse-cbi-tycho-example",
+      "epl-license-feature",
+      "hipp2jipp",
+      "jiro",
+      "jiro-agents",
+      "jiro-dashboard",
+      "jiro-masters",
+      "jiro-static-agents",
+      "macos-notarization-service",
+      "org.eclipse.cbi",
+      "org.eclipse.cbi-testdata",
+      "p2repo-aggregator",
+      "p2repo-analyzers",
+      "sonatype-nexus",
+      "targetplatform-dsl"
+    ],
+    "Dash": [
+      ".eclipsefdn",
+      ".github",
+      "nodejs-wrapper"
+    ],
+    "Deeplearning4j": [
+      "deeplearning4j",
+      "deeplearning4j-docs",
+      "deeplearning4j-examples"
+    ],
+    "IoT-Testware": [
+      "iottestware",
+      "iottestware.coap",
+      "iottestware.mqtt",
+      "iottestware.fuzzing",
+      "iottestware.opcua",
+      "iottestware.dashboard",
+      "iottestware.performance"
+    ],
+    "jbom": [
+      "jbom"
+    ],
+    "OpenJ9": [
+      "openj9-docs-staging",
+      "openj9",
+      "openj9-omr",
+      "openj9-utils",
+      "openj9-docs",
+      "openj9-systemtest",
+      "openj9-website",
+      "build-openj9",
+      "openj9-jenkins",
+      "openj9-website-publish"
+    ],
+    "Packaging Project": [
+      ".eclipsefdn",
+      "packages"
+    ],
+    "Serializer": [
+      ".eclipsefdn",
+      "serializer"
+    ],
+    "Store": [
+      ".eclipsefdn",
+      "bookstore-demo",
+      "docs-site",
+      "store"
+    ],
+    "Tycho": [
+      ".eclipsefdn",
+      "eclipse-tycho.github.io",
+      "tycho"
+    ],
+    "Code Recommenders Incubator": [],
+    "SimRel": [
+      ".eclipsefdn",
+      ".github",
+      "help.eclipse.org",
+      "simrel.build",
+      "simrel.tools"
+    ],
+    "Cloud Application Management Framework": [],
+    "Apoapsis": [
+      ".eclipsefdn",
+      "ort-server"
+    ],
+    "Ceylon": [
+      "ceylon.formatter",
+      "ceylon",
+      "ceylon-sdk",
+      "ceylon-ide-common",
+      "ceylon-ide-eclipse",
+      "ceylon-lang.org",
+      "ceylon-ide-intellij",
+      "ceylon.tool.converter.java2ceylon",
+      "ceylon-herd",
+      "ceylon-web-ide-backend"
+    ],
+    "CogniCrypt": [
+      "CogniCrypt",
+      "cognicrypt-website",
+      "Governance",
+      "hugo-solstice-theme",
+      "hugo-website-sources"
+    ],
+    "Common Security Infrastructure": [
+      ".eclipsefdn",
+      ".github",
+      "gradually",
+      "otterdog",
+      "security-handbook"
+    ],
+    "Corinthian": [
+      ".eclipsefdn"
+    ],
+    "Daanse - Data and Analysis Services": [
+      ".eclipsefdn",
+      "eclipse-daanse.github.io",
+      "org.eclipse.daanse.common"
+    ],
+    "Dash Commits Dashboard": [],
+    "Jemo - Cloud Application Runtime": [
+      "jemo",
+      "jemo-website"
+    ],
+    "openK User Modules": [],
+    "Dataspace Components": [
+      ".eclipsefdn",
+      ".github",
+      "Collateral",
+      "Connector",
+      "DataDashboard",
+      "docs",
+      "FederatedCatalog",
+      "GradlePlugins",
+      "IdentityHub",
+      "IDS-CodeGeneration",
+      "IDS-Serializer",
+      "JenkinsPipelines",
+      "json-ld-context",
+      "MinimumViableDataspace",
+      "Publications",
+      "RegistrationService",
+      "Release",
+      "Runtime-Metamodel",
+      "Samples",
+      "Technology-Aws",
+      "Technology-Azure",
+      "Technology-Gcp",
+      "Template-Basic",
+      "TrustFrameworkAdoption"
+    ],
+    "Dataspace TCK": [
+      "cvf"
+    ],
+    "DROPS": [],
+    "Furo": [
+      "eclipsefuro",
+      "eclipsefuro-web"
+    ],
+    "Graphene": [],
+    "openK Core Modules": [],
+    "ImageN": [
+      "imagen"
+    ],
+    "IOTA Trinity": [],
+    "Skills": [],
+    "LSP4Jakarta, the Language Server for EE": [
+      "lsp4jakarta"
+    ],
+    "LSP4MP - Language Server for MicroProfile": [
+      "lsp4mp"
+    ],
+    "Mbeddr": [],
+    "openK platform": [],
+    "Nebula Incubator": [],
+    "OMR": [
+      "omr",
+      "omr.website",
+      "omr-website-publish"
+    ],
+    "OS-Gov": [],
+    "Oscano": [],
+    "Packager": [
+      "packager"
+    ],
+    "Patchwork Kilt": [],
+    "Picasso: A free open-source visualizer for Convolutional Neural Networks": [],
+    "Plato": [],
+    "Public Access Submission System (PASS)": [
+      ".eclipsefdn",
+      "eclipse-pass.github.io",
+      "main",
+      "modeshape",
+      "pass-acceptance-testing",
+      "pass-auth",
+      "pass-authz",
+      "pass-core",
+      "pass-data-migration",
+      "pass-data-model",
+      "pass-deposit-services",
+      "pass-docker",
+      "pass-docker-mailserver",
+      "pass-documentation",
+      "pass-doi-service",
+      "pass-download-service",
+      "pass-dupe-checker",
+      "pass-ember-adapter",
+      "pass-fcrepo-jms",
+      "pass-fcrepo-jsonld",
+      "pass-fcrepo-module-auth-rbacl",
+      "pass-grant-loader",
+      "pass-indexer",
+      "pass-indexer-checker",
+      "pass-java-client",
+      "pass-journal-loader",
+      "pass-messaging-support",
+      "pass-metadata-schemas",
+      "pass-nihms-loader",
+      "pass-notification-services"
+    ],
+    "Qrisp": [
+      "Qrisp"
+    ],
+    "Real-Time Software Components": [],
+    "Remus": [],
+    "Repairnator": [
+      "repairnator"
+    ],
+    "SCAVA": [
+      "scava-datasets"
+    ],
+    "SW360": [
+      "sw360",
+      "sw360.website",
+      "sw360.website.published",
+      "sw360-frontend"
+    ],
+    "SystemFOCUS": [],
+    "Technology": [],
+    "Vhant": [],
+    "WattAdvisor": [
+      ".eclipsefdn",
+      "website"
+    ],
+    "XFSC (Cross Federation Services Components)": [],
+    "Graphical Editing Framework 3D": [],
+    "The Examples Project": [],
+    "The IDE Meta-tooling Platform": [],
+    "Visual Editor": []
+  },
+  "Web Tools Platform": {
+    "GlassFish Tools": [],
+    "Web Tools Platform Project": [],
+    "Libra": [],
+    "WTP Source Editing": [
+      "sourceediting"
+    ],
+    "VJet": [],
+    "Datatools": [],
+    "Dali Java Persistence Tools": [
+      ".eclipsefdn",
+      "webtools.dali"
+    ],
+    "JavaScript Development Tools": [
+      "webtools.jsdt"
+    ],
+    "Server Tools": [
+      "servertools"
+    ],
+    "Tools for Faces": [
+      "webtools.jsf"
+    ],
+    "Web Services Tools": [
+      "webservices",
+      "webservices.axis2",
+      "webservices.jaxws"
+    ],
+    "Java EE Module Configuration Editors": [],
+    "Web Tools Common": [
+      "webtools.common"
+    ],
+    "Webtools Releng": [],
+    "WTP EJB Tools": [],
+    "WTP Incubator": [],
+    "WTP Java EE Tools": [
+      "webtools.javaee"
+    ]
+  },
+  "Science": {
+    "January": [
+      "january",
+      "january-forms",
+      "january-website"
+    ],
+    "Advanced Visualization Project": [
+      "eavp"
+    ],
+    "ChemClipse": [
+      "chemclipse"
+    ],
+    "The Integrated Computational Environment": [
+      "ice"
+    ],
+    "StatET: Tooling for the R language": [],
+    "TeXlipse": [
+      ".eclipsefdn",
+      "texlipse"
+    ],
+    "Triquetrum": [
+      "triquetrum"
+    ],
+    "DAWNSci": [
+      "dawnsci"
+    ],
+    "SWTChart": [
+      "swtchart"
+    ],
+    "Rich Beans": [
+      "richbeans"
+    ],
+    "Scanning": [
+      "scanning"
+    ],
+    "Science": [],
+    "XACC": [
+      "xacc"
+    ]
+  },
+  "Digital Twin": {
+    "AASX Package Explorer and Server": [
+      ".eclipsefdn",
+      "aaspe",
+      "aaspe-common",
+      "aasx-server"
+    ],
+    "AAS Model for Java": [
+      "aas4j",
+      "aas4j-model-generator",
+      "aas4j-transformation-library"
+    ],
+    "Semantic Modeling Framework (ESMF)": [
+      ".eclipsefdn",
+      "eclipse-esmf.github.io",
+      "esmf-antora-ui",
+      "esmf-aspect-model-editor",
+      "esmf-aspect-model-editor-backend",
+      "esmf-manufacturing-information-model",
+      "esmf-parent",
+      "esmf-sdk",
+      "esmf-sdk-js-aspect-model-loader",
+      "esmf-sdk-js-schematics",
+      "esmf-sdk-js-schematics-demo",
+      "esmf-sdk-py-aspect-model-loader",
+      "esmf-sdk-py-pandas-dataframe",
+      "esmf-semantic-aspect-meta-model"
+    ],
+    "BaSyx": [
+      ".eclipsefdn",
+      ".github",
+      "basyx-applications",
+      "basyx-archive",
+      "basyx-cpp-components",
+      "basyx-cpp-sdk",
+      "basyx-databridge",
+      "basyx-demonstrators",
+      "basyx-dotnet",
+      "basyx-dotnet-applications",
+      "basyx-dotnet-components",
+      "basyx-dotnet-examples",
+      "basyx-dotnet-sdk",
+      "basyx-java-components",
+      "basyx-java-examples",
+      "basyx-java-sdk",
+      "basyx-java-server-sdk",
+      "basyx-python-sdk",
+      "basyx-rust-sdk",
+      "basyx-website",
+      "basyx-website-publish",
+      "basyx-wiki"
+    ],
+    "AAS Web Client": [
+      "aaswc"
+    ],
+    "Service Lifecycle Management": [
+      ".eclipsefdn",
+      ".github",
+      "ansible",
+      "awx",
+      "awx-jwt-authenticator",
+      "molecule",
+      "molecule_vsphere",
+      "slm",
+      "slm-aas",
+      "slm-ansible-role-basyx-server",
+      "slm-ansible-role-consul",
+      "slm-ansible-role-docker",
+      "slm-ansible-role-inventory-helper",
+      "slm-ansible-role-node-exporter",
+      "slm-cc-base",
+      "slm-dc-codesys",
+      "slm-dc-docker",
+      "slm-dc-docker-portainer",
+      "slm-dc-docker-swarm",
+      "slm-dc-docker-tcp",
+      "slm-dc-dummy",
+      "slm-dc-k3s",
+      "slm-dc-k3s-single",
+      "slm-dc-k8s",
+      "slm-monitoring-prometheus-aas",
+      "slm-pr-ansible-facts",
+      "slm-pr-webcams"
+    ],
+    "Digital Twin": [],
+    "FA\u00b3ST": []
+  },
+  "Automotive": {
+    "Sphinx": [],
+    "openPASS": [],
+    "Ambient Light Services": [],
+    "Autowrx": [],
+    "eCAL (enhanced Communication Abstraction Layer)": [
+      "ecal",
+      "ecal-algorithm-samples",
+      "ecal-camera-samples",
+      "ecal-carla-bridge",
+      "ecal-core",
+      "ecal-foxglove-bridge",
+      "ecal-gpsd-client",
+      "ecal-matlab-binding",
+      "ecal-mcap-tools",
+      "ecal-mqtt-bridge",
+      "ecal-utils",
+      "ecaludp",
+      "fineftp-server",
+      "protobuf-datatypes-collection",
+      "rmw_ecal",
+      "rosidl_typesupport_protobuf",
+      "tcp_pubsub",
+      "udpcap"
+    ],
+    "Leda": [
+      ".eclipsefdn",
+      "eclipse-leda.github.io",
+      "leda",
+      "leda-contrib-cloud-connector",
+      "leda-contrib-container-update-agent",
+      "leda-contrib-otel",
+      "leda-contrib-self-update-agent",
+      "leda-contrib-vehicle-update-manager",
+      "leda-contrib-vscode-extensions",
+      "leda-distro",
+      "leda-example-applications",
+      "leda-utils",
+      "meta-leda"
+    ],
+    "MOSAIC": [
+      "mosaic",
+      "mosaic.website"
+    ],
+    "openDuT": [
+      ".eclipsefdn",
+      ".github",
+      "eclipse-opendut.github.io",
+      "opendut"
+    ],
+    "SUMO": [
+      ".eclipsefdn",
+      "sumo",
+      "sumo.website"
+    ],
+    "Velocitas": [
+      ".eclipsefdn",
+      ".github",
+      "cli",
+      "devcontainer-base-images",
+      "devenv-devcontainer-setup",
+      "devenv-github-integration",
+      "devenv-github-templates",
+      "devenv-github-workflows",
+      "devenv-runtime-k3d",
+      "devenv-runtime-local",
+      "devenv-runtimes",
+      "license-check",
+      "pkg-velocitas-main",
+      "pkg-velocitas-uprotocol",
+      "release-documentation-action",
+      "vehicle-app-cpp-sdk",
+      "vehicle-app-cpp-template",
+      "vehicle-app-python-sdk",
+      "vehicle-app-python-template",
+      "vehicle-app-template",
+      "vehicle-model-cpp",
+      "vehicle-model-generator",
+      "vehicle-model-python",
+      "velocitas-docs",
+      "velocitas-lib",
+      "velocitas-project-generator-npm"
+    ],
+    "APP4MC": [],
+    "MDM|BL": [],
+    "Tractus-X": [
+      ".eclipsefdn",
+      ".github",
+      "app-dashboard",
+      "bpdm",
+      "bpdm-certificate-management",
+      "bpn-did-resolution-service",
+      "charts",
+      "daps-helm-chart",
+      "daps-registration-service",
+      "data-exchange-test-service",
+      "demand-capacity-mgmt",
+      "digital-product-pass",
+      "eclipse-tractusx.github.io",
+      "eclipse-tractusx.github.io.largefiles",
+      "eco-pass-kit",
+      "identity-trust",
+      "item-relationship-service",
+      "knowledge-agents",
+      "knowledge-agents-aas-bridge",
+      "knowledge-agents-edc",
+      "knowledge-agents-ontology",
+      "managed-identity-wallet",
+      "managed-identity-wallets-archived",
+      "managed-service-orchestrator",
+      "managed-simple-data-exchanger",
+      "managed-simple-data-exchanger-backend",
+      "managed-simple-data-exchanger-frontend",
+      "policy-hub",
+      "portal",
+      "portal-assets"
+    ],
+    "ADAAA (Adaptive Cruise Control Demo Application for Adaptive AUTOSAR)": [
+      "adaaa"
+    ],
+    "Ankaios": [
+      ".eclipsefdn",
+      "ankaios"
+    ],
+    "ArchE": [
+      "arche"
+    ],
+    "Automated Driving Open Research (ADORe)": [
+      "adore"
+    ],
+    "Automotive": [],
+    "Backend function Bindings (BfB)": [],
+    "BlueChi": [
+      ".eclipsefdn",
+      "bluechi",
+      "bluechi-ansible-collection",
+      "bluechi-on-yocto",
+      "hashmap.c",
+      "terraform-provider-bluechi"
+    ],
+    "Chariott": [
+      ".eclipsefdn",
+      "Agemo",
+      "chariott",
+      "chariott-example-applications"
+    ],
+    "Cloe": [
+      "cloe"
+    ],
+    "Heimlig": [
+      "heimlig"
+    ],
+    "Ibeji": [
+      ".eclipsefdn",
+      "freyja",
+      "ibeji",
+      "ibeji-example-applications"
+    ],
+    "Kuksa": [
+      ".eclipsefdn",
+      ".github",
+      "kuksa-actions",
+      "kuksa-android-companion",
+      "kuksa-android-sdk",
+      "kuksa-can-provider",
+      "kuksa-common",
+      "kuksa-csv-provider",
+      "kuksa-databroker",
+      "kuksa-dds-provider",
+      "kuksa-gps-provider",
+      "kuksa-hardware",
+      "kuksa-incubation",
+      "kuksa-mock-provider",
+      "kuksa-python-sdk",
+      "kuksa-someip-provider",
+      "kuksa-viss",
+      "kuksa-website"
+    ],
+    "Leda Incubator": [
+      "leda-contrib-self-update-agent",
+      "leda-contrib-otel",
+      "leda-contrib-cloud-connector",
+      "leda-contrib-vehicle-update-manager"
+    ],
+    "MoEc": [],
+    "Muto": [
+      ".eclipsefdn",
+      "agent",
+      "composer",
+      "core",
+      "dashboard",
+      "dashboard-device",
+      "dashboard-stack",
+      "docs",
+      "liveui",
+      "liveui-core",
+      "liveui-react",
+      "liveui-react-native",
+      "liveui-samples",
+      "liveui-vue",
+      "messages"
+    ],
+    "OpenMCx": [
+      "openmcx"
+    ],
+    "OpenXilEnv": [
+      "openxilenv",
+      "openxilenv-website"
+    ],
+    "p3com": [
+      "p3com"
+    ],
+    "SCM": [],
+    "SDV Blueprints": [
+      ".eclipsefdn",
+      ".github",
+      "blueprints",
+      "blueprints-website",
+      "companion-application",
+      "fleet-management",
+      "insurance",
+      "ros-racer",
+      "software-orchestration"
+    ],
+    "SDV Developer Console": [],
+    "SommR": [
+      "sommr",
+      "sommr-website"
+    ],
+    "uProtocol": [
+      ".eclipsefdn",
+      ".github",
+      "manifests",
+      "up-android-core",
+      "up-android-discovery",
+      "up-android-example",
+      "up-android-helloworld",
+      "up-client-android-java",
+      "up-client-android-kotlin",
+      "up-client-android-rust",
+      "up-client-azure-java",
+      "up-client-mqtt5-python",
+      "up-client-mqtt5-rust",
+      "up-client-sommr-rust",
+      "up-client-vsomeip-cpp",
+      "up-client-vsomeip-python",
+      "up-client-vsomeip-rust",
+      "up-client-zenoh-cpp",
+      "up-client-zenoh-java",
+      "up-client-zenoh-python",
+      "up-client-zenoh-rust",
+      "up-core-api",
+      "up-cpp",
+      "up-experiments",
+      "up-java",
+      "up-kalix",
+      "up-kotlin",
+      "up-python",
+      "up-rust",
+      "up-simulator"
+    ],
+    "Winery": [
+      "winery"
+    ]
+  },
+  "Cloud Development": {
+    "Tools for Cloud Foundry": [
+      "cft"
+    ],
+    "Codewind": [
+      "codewind-eclipse",
+      "codewind-vscode",
+      "codewind-docs",
+      "codewind-openapi-eclipse",
+      "codewind-openapi-vscode",
+      "codewind-installer",
+      "codewind-che-plugin",
+      "codewind-filewatchers",
+      "codewind",
+      "codewind-node-profiler",
+      "codewind-java-profiler",
+      "codewind-chai-openapi-response-validator",
+      "codewind-appsody-extension",
+      "codewind-odo-extension",
+      "codewind-wiki",
+      "codewind-intellij",
+      "codewind-operator"
+    ],
+    "EMF Cloud": [
+      "emfcloud",
+      "emfcloud-modelserver",
+      "emfcloud-modelserver-theia",
+      "emfjson-jackson",
+      "theia-tree-editor",
+      "ecore-glsp",
+      "coffee-editor",
+      "jsonforms-property-view",
+      "modelserver-glsp-integration",
+      "model-validation",
+      "modelserver-node",
+      "emfcloud-website",
+      "emfcloud-website-source"
+    ],
+    "GLSP": [
+      ".eclipsefdn",
+      "glsp",
+      "glsp-client",
+      "glsp-eclipse-integration",
+      "glsp-examples",
+      "glsp-playwright",
+      "glsp-server",
+      "glsp-server-node",
+      "glsp-theia-integration",
+      "glsp-vscode-integration",
+      "glsp-website",
+      "glsp-website-source"
+    ],
+    "Theia": [
+      ".eclipsefdn",
+      "cryptodetector",
+      "discourse-forum-archive",
+      "dugite-extra",
+      "dugite-no-gpl",
+      "generator-theia-extension",
+      "security-audit",
+      "theia",
+      "theia-blueprint",
+      "theia-cpp-extensions",
+      "theia-e2e-test-suite",
+      "theia-generator-plugin",
+      "theia-playwright-template",
+      "theia-plugin-packager",
+      "theia-vscodecov",
+      "theia-website",
+      "theia-website-publish",
+      "theia-yeoman-plugin",
+      "vscode-builtin-extensions",
+      "vscode-theia-comparator"
+    ],
+    "Dirigible": [
+      "dirigible",
+      "dirigible-samples"
+    ],
+    "JKube": [
+      "jkube",
+      "jkube-website-publish",
+      "jkube-integration-tests",
+      "jkube-website",
+      "jkube-images",
+      "katacoda-scenarios",
+      "ci"
+    ],
+    "Che": [
+      "che",
+      "che-dev",
+      "che-parent",
+      "che-dependencies",
+      "che-lib",
+      "che-dockerfiles",
+      "che-docs",
+      "che-archetypes",
+      "che-plugin-svn",
+      "che-ls-jdt",
+      "che-theia-github-plugin",
+      "che-theia-ssh-plugin",
+      "che-workspace-client",
+      "che-theia-terminal-extension",
+      "che-theia-env-variables-plugin",
+      "che-theia-machines-plugin",
+      "che-theia-java-plugin",
+      "che-theia-hosted-plugin-manager-extension",
+      "che-theia-factory-extension",
+      "che-theia-emacs-plugin",
+      "che-theia-vi-plugin",
+      "che-theia-task-plugin",
+      "che-jwtproxy",
+      "che-plugin-registry",
+      "che-plugin-broker",
+      "che-machine-exec",
+      "che-theia-dashboard-extension",
+      "che-go-jsonrpc",
+      "che-theia-samples",
+      "che-theia-activity-tracker",
+      "che-operator",
+      "che-theia",
+      "che-editor-gwt-ide",
+      "che-devfile-registry",
+      "che-website",
+      "che-dashboard",
+      "che-workspace-loader",
+      "che-release",
+      "blog",
+      "che-server",
+      "che-tests",
+      "che-docs-vale-style",
+      ".github"
+    ],
+    "Orion": [
+      "orion.electron",
+      "orion.server.node",
+      "orion.server",
+      "orion.client",
+      "orion"
+    ],
+    "Sprotty": [
+      ".eclipsefdn",
+      "sprotty",
+      "sprotty-previews",
+      "sprotty-server",
+      "sprotty-theia",
+      "sprotty-vscode",
+      "sprotty-website"
+    ],
+    "Che4z": [
+      "che-che4z",
+      "che-che4z-zos-resource-explorer",
+      "che-che4z-lsp-for-cobol",
+      "che-che4z-lsp-for-hlasm",
+      "che-che4z-explorer-for-endevor"
+    ],
+    "Langium": [
+      ".eclipsefdn",
+      "langium",
+      "langium-previews",
+      "langium-website"
+    ],
+    "Open VSX": [
+      "openvsx",
+      "open-vsx.org"
+    ],
+    "CDT Cloud": [
+      ".eclipsefdn",
+      "cdt-amalgamator",
+      "cdt-cloud",
+      "cdt-cloud-blueprint",
+      "cdt-gdb-adapter",
+      "cdt-gdb-vscode",
+      "clangd-contexts",
+      "theia-trace-extension",
+      "timeline-chart",
+      "trace-server-protocol",
+      "tsp-python-client",
+      "tsp-typescript-client",
+      "vscode-clangd",
+      "vscode-memory-inspector",
+      "vscode-peripheral-inspector",
+      "vscode-serial-monitor",
+      "vscode-trace-extension",
+      "vscode-trace-server",
+      "vscode-websocket-adapter",
+      "website",
+      "website-publish"
+    ],
+    "Cloud Development": [],
+    "Flux": [
+      "flux"
+    ],
+    "Novamoon": [],
+    "OpenSmartCLIDE": [
+      "kie-wb-common",
+      "kie-wb-distributions",
+      "opensmartclide-website",
+      "opensmartclide-website.src",
+      "smartclide",
+      "smartclide-api-gateway",
+      "smartclide-architectural-pattern",
+      "smartclide-Backend-REST-Client",
+      "smartclide-broker",
+      "smartclide-Che-REST-Client",
+      "smartclide-che-theia",
+      "smartclide-cicd",
+      "smartclide-cicd-gitlab",
+      "smartclide-context",
+      "smartclide-db-api",
+      "smartclide-deployment-extension",
+      "smartclide-deployment-interpreter-service",
+      "smartclide-deployment-interpreter-theia",
+      "smartclide-deployment-service",
+      "smartclide-design-pattern-selection-theia",
+      "smartclide-devfiles",
+      "smartclide-docs",
+      "smartclide-external-project-importer",
+      "smartclide-frontend-comm",
+      "smartclide-ide-front-end",
+      "smartclide-ide-front-end-theme",
+      "smartclide-jbpm",
+      "smartclide-perftestgen-theia",
+      "smartclide-security",
+      "smartclide-security-patterns"
+    ]
+  },
+  "Adoptium": {
+    "Temurin": [
+      "jenkins-helper",
+      "mirror-scripts",
+      "installer",
+      "github-release-scripts",
+      "adoptium-support",
+      "ci-jenkins-pipelines",
+      "build-jdk",
+      "jdk",
+      "jdk8u",
+      "jdk11u",
+      "jdk16u",
+      "temurin-build",
+      "infrastructure",
+      "temurin8-binaries",
+      "temurin11-binaries",
+      "temurin16-binaries",
+      "temurin17-binaries",
+      "aarch32-jdk8u",
+      "containers",
+      "temurin20-binaries",
+      "marketplace-data",
+      "temurin18-binaries",
+      "temurin19-binaries",
+      "jdk17",
+      "jdk17u",
+      "jdk18",
+      "jdk18u",
+      "jdk19",
+      "jdk19u",
+      "jdk20",
+      "jdk20u",
+      "alpine-jdk8u",
+      "temurin21-binaries",
+      "jdk21",
+      "temurin-cpe-generator",
+      "temurin22-binaries",
+      "jdk21u",
+      "temurin",
+      "jdk22",
+      "temurin23-binaries",
+      "riscv-port-jdk11u",
+      "temurin-vdr-generator",
+      "devkit-binaries"
+    ],
+    "Mission Control": [
+      "jmc-build"
+    ],
+    "Adoptium": [
+      "dash.adoptium.net",
+      "blog.adoptium.net",
+      "api.adoptium.net",
+      "adoptium.net",
+      "adoptium",
+      "documentation-services",
+      "documentation",
+      "marketplace-api.adoptium.net",
+      "adoptium.net-redesign"
+    ],
+    "Adoptium Incubator": [
+      "Incubator",
+      "jdk11u-fast-startup-incubator"
+    ],
+    "AQAvit": [
+      "TKG",
+      "aqa-systemtest",
+      "aqa-test-tools",
+      "STF",
+      "bumblebench",
+      "run-aqa",
+      "aqa-tests"
+    ],
+    "Migration Toolkit for Java": [
+      "emt4j"
+    ],
+    "Temurin Compliance": []
+  },
+  "EE4J": {
+    "Messaging": [
+      "messaging",
+      "genericmessagingra",
+      "messaging-proposals"
+    ],
+    "GlassFish": [
+      "glassfish-ha-api",
+      "glassfish-logging-annotation-processor",
+      "glassfish-shoal",
+      "glassfish-cdi-porting-tck",
+      "glassfish-jsftemplating",
+      "glassfish-hk2-extra",
+      "glassfish-hk2",
+      "glassfish-fighterfish",
+      "glassfish",
+      "glassfish-maven-embedded-plugin",
+      "bvtck-porting",
+      "ditck-porting",
+      "cditck-porting",
+      "glassfish-woodstock",
+      "glassfish-spec-version-maven-plugin",
+      "glassfish-build-maven-plugin",
+      "glassfish-repackaged",
+      "glassfish-copyright-plugin",
+      "glassfish-security-plugin",
+      "glassfish-doc-plugin",
+      "glassfish-samples",
+      "glassfish-docs",
+      "concurro"
+    ],
+    "Exousia": [
+      "exousia"
+    ],
+    "Yasson": [
+      "yasson"
+    ],
+    "Contexts and Dependency Injection": [
+      "inject",
+      "inject-spec",
+      "inject-tck",
+      "cdi",
+      "cdi-tck",
+      "cdi-tck-cpl",
+      "cdi-cpl"
+    ],
+    "Cargo Tracker": [
+      "cargotracker"
+    ],
+    "EE TCK": [
+      "platform-tck",
+      "debugging-support-for-other-languages-tck",
+      "jakartaee-tck-tools"
+    ],
+    "EclipseLink": [
+      "eclipselink",
+      "eclipselink-workbench",
+      "eclipselink-oracleddlparser",
+      "eclipselink-examples",
+      "eclipselink-asm",
+      "eclipselink-build-support",
+      "eclipselink-website",
+      "eclipselink-releng"
+    ],
+    "Annotations": [
+      "common-annotations-api"
+    ],
+    "EE4J": [
+      "ee4j-website",
+      "ee4j",
+      ".github"
+    ],
+    "Angus": [
+      "angus-activation",
+      "angus-mail"
+    ],
+    "Jersey": [
+      "jersey",
+      "jersey-web",
+      "jersey.github.io"
+    ],
+    "Batch": [
+      "batch",
+      "batch-tck"
+    ],
+    "Parsson": [
+      "parsson"
+    ],
+    "Mail": [
+      "mail-api",
+      "mail-tck",
+      "mail-spec"
+    ],
+    "Validation": [
+      "validation",
+      "validation-spec",
+      "validation-tck"
+    ],
+    "Documentation for EE": [
+      "jakartaee-documentation",
+      "jakartaee-documentation-playbook",
+      "jakartaee-tutorial",
+      "jakartaee-documentation-ui"
+    ],
+    "Epicyro": [
+      "epicyro",
+      "epicyro-website"
+    ],
+    "Examples for EE": [
+      "jakartaee-examples"
+    ],
+    "ExpressLy": [
+      "expressly"
+    ],
+    "Gran Sasso": [
+      "gransasso"
+    ],
+    "Grizzly": [
+      "grizzly",
+      "grizzly-thrift",
+      "grizzly-memcached",
+      "grizzly-npn",
+      "grizzly-ahc"
+    ],
+    "Implementation of JAXB": [
+      "jaxb-ri",
+      "jaxb-istack-commons",
+      "jaxb-dtd-parser",
+      "jaxb-fi",
+      "jaxb-stax-ex"
+    ],
+    "Krazo": [
+      "krazo",
+      "krazo-extensions"
+    ],
+    "Metro": [
+      "metro-saaj",
+      "metro-jax-ws",
+      "metro-jwsdp-samples",
+      "metro-mimepull",
+      "metro-package-rename-task",
+      "metro-policy",
+      "metro-ws-test-harness",
+      "metro-wsit",
+      "metro-xmlstreambuffer",
+      "jax-rpc-ri",
+      "jaxr-ri"
+    ],
+    "Mojarra": [
+      "mojarra",
+      "mojarra-jsf-extensions"
+    ],
+    "Open DI": [
+      "odi"
+    ],
+    "OpenMQ": [
+      "openmq"
+    ],
+    "ORB": [
+      "orb",
+      "orb-gmbal",
+      "orb-gmbal-commons",
+      "orb-gmbal-pfl"
+    ],
+    "Soteria": [
+      "soteria"
+    ],
+    "Starter for EE": [
+      "starter"
+    ],
+    "Tyrus": [
+      "tyrus",
+      "tyrus-project.github.io"
+    ],
+    "WaSP": [
+      "wasp"
+    ],
+    "Activation": [
+      "jaf-api",
+      "jaf-tck"
+    ],
+    "Authentication": [
+      "authentication"
+    ],
+    "Authorization": [
+      "authorization"
+    ],
+    "Concurrency": [
+      "concurrency"
+    ],
+    "Config": [
+      "config"
+    ],
+    "Connectors": [
+      "connectors"
+    ],
+    "Data": [
+      "data"
+    ],
+    "EE Platform": [
+      "platform",
+      "jakartaee-tutorial",
+      "jakartaee-firstcup",
+      "jakartaee-firstcup-examples",
+      "jakartaee-schemas",
+      "jakartaee-api",
+      "jakartaee-release",
+      "jakartaee-renames",
+      "managed-beans"
+    ],
+    "Enterprise Beans": [
+      "enterprise-beans"
+    ],
+    "Expression Language": [
+      "expression-language"
+    ],
+    "Faces": [
+      "faces"
+    ],
+    "Interceptors": [
+      "interceptors"
+    ],
+    "JSON Binding": [
+      "jsonb-api"
+    ],
+    "JSON Processing": [
+      "jsonp-api"
+    ],
+    "MVC": [
+      "mvc",
+      "mvc-tck"
+    ],
+    "NoSQL": [
+      "nosql"
+    ],
+    "Persistence": [
+      "persistence"
+    ],
+    "RESTful Web Services": [
+      "rest"
+    ],
+    "RPC": [
+      "rpc"
+    ],
+    "Security": [
+      "security-examples",
+      "security"
+    ],
+    "Server Pages": [
+      "pages"
+    ],
+    "Servlet": [
+      "servlet"
+    ],
+    "Stable APIs": [
+      "enterprise-deployment",
+      "jaxr-api",
+      "jax-rpc-api",
+      "management-api"
+    ],
+    "Standard Tag Library": [
+      "tags"
+    ],
+    "Transactions": [
+      "transactions"
+    ],
+    "WebSocket": [
+      "websocket"
+    ],
+    "XML Binding": [
+      "jaxb-api",
+      "jaxb-tck"
+    ],
+    "XML Web Services": [
+      "saaj-api",
+      "jax-ws-api",
+      "jws-api"
+    ]
+  },
+  "Eclipse Project": {
+    "Project": [],
+    "JDT LS": [
+      ".eclipsefdn",
+      "eclipse-jdt-core-incubator",
+      "eclipse.jdt.ls"
+    ],
+    "e4 Project": [],
+    "Equinox": [
+      ".github",
+      "equinox",
+      "equinox-website",
+      "equinox.binaries",
+      "equinox.bundles",
+      "equinox.framework",
+      "p2"
+    ],
+    "JDT (Java development tools)": [
+      ".eclipsefdn",
+      ".github",
+      "eclipse.jdt",
+      "eclipse.jdt.core",
+      "eclipse.jdt.core.binaries",
+      "eclipse.jdt.debug",
+      "eclipse.jdt.ui",
+      "jdt-website"
+    ],
+    "PDE": [
+      ".eclipsefdn",
+      ".github",
+      "eclipse.pde",
+      "eclipse.pde.build",
+      "pde-website"
+    ],
+    "Platform": [
+      ".eclipsefdn",
+      ".github",
+      "eclipse.platform",
+      "eclipse.platform.common",
+      "eclipse.platform.debug",
+      "eclipse.platform.images",
+      "eclipse.platform.releng",
+      "eclipse.platform.releng.aggregator",
+      "eclipse.platform.releng.buildtools",
+      "eclipse.platform.resources",
+      "eclipse.platform.runtime",
+      "eclipse.platform.swt",
+      "eclipse.platform.swt.binaries",
+      "eclipse.platform.team",
+      "eclipse.platform.text",
+      "eclipse.platform.ua",
+      "eclipse.platform.ui",
+      "eclipse.platform.ui.tools",
+      "ui-best-practices",
+      "www.eclipse.org-eclipse",
+      "www.eclipse.org-eclipse-news",
+      "www.eclipse.org-swt"
+    ],
+    "Project Incubator": [],
+    "Equinox p2": [],
+    "JDT Core": [],
+    "JDT Debug": [],
+    "JDT UI": [],
+    "Platform Debug": [],
+    "SWT": [],
+    "E4": [],
+    "Equinox Incubator": [],
+    "Equinox Bundles": [],
+    "Equinox Framework": [],
+    "Equinox Security": [],
+    "Equinox Website": [],
+    "Platform Incubator": [],
+    "Platform Text": [],
+    "Platform UI": [],
+    "RelEng": [],
+    "Resources": [],
+    "UA": [],
+    "UFaceKit": []
+  },
+  "Oniro": {
+    "Oniro Core Platform": [],
+    "Oniro": [],
+    "Oniro Blueprints": [],
+    "Oniro Compliance Toolchain": [],
+    "Oniro for OpenHarmony": [
+      ".eclipsefdn",
+      ".github",
+      "eclipse-oniro4openharmony.github.io",
+      "manifest",
+      "oniro-ide",
+      "third_party_kanto",
+      "third_party_mosquitto"
+    ]
+  },
+  "RT": {
+    "Vert.x": [
+      ".eclipsefdn",
+      ".github",
+      "vert.x",
+      "vertx-auth",
+      "vertx-codegen",
+      "vertx-grpc",
+      "vertx-http-proxy",
+      "vertx-json-schema",
+      "vertx-junit5",
+      "vertx-launcher",
+      "vertx-openapi",
+      "vertx-rabbitmq-client",
+      "vertx-service-resolver",
+      "vertx-sql-client",
+      "vertx-tracing",
+      "vertx-uri-template",
+      "vertx-virtual-threads"
+    ],
+    "Remote Application Platform": [
+      "org.eclipse.rap",
+      "org.eclipse.rap.tools",
+      ".github",
+      "org.eclipse.rap.website"
+    ],
+    "Apricot": [],
+    "Communications Framework": [
+      "ecf",
+      "ecf-website"
+    ],
+    "Gemini": [
+      ".eclipsefdn",
+      ".github",
+      "gemini-website",
+      "gemini.blueprint",
+      "gemini.blueprint-website",
+      "gemini.dbaccess",
+      "gemini.dbaccess-website",
+      "gemini.dbaccess.postgresql",
+      "gemini.jpa",
+      "gemini.jpa-website",
+      "gemini.management",
+      "gemini.management-website",
+      "gemini.naming",
+      "gemini.naming-website",
+      "gemini.web",
+      "gemini.web-website"
+    ],
+    "Gyrex Project": [
+      "gyrex-server"
+    ],
+    "Jetty - Servlet Engine and Http Server": [
+      ".eclipsefdn",
+      ".github",
+      "jetty-alpn-api",
+      "jetty-artifact-remote-resources",
+      "jetty-assembly-descriptors",
+      "jetty-build-support",
+      "jetty-examples",
+      "jetty-parent",
+      "jetty-perf-helper",
+      "jetty-schemas",
+      "jetty-servlet-api",
+      "jetty-setuid-jna",
+      "jetty-test-helper",
+      "jetty-test-policy",
+      "jetty-toolchain",
+      "jetty-website",
+      "jetty-website-2020",
+      "jetty-websocket-api",
+      "jetty-xhtml-schemas",
+      "jetty.docker",
+      "jetty.project",
+      "jetty.website"
+    ],
+    "Riena": [
+      "org.eclipse.riena.rap",
+      "org.eclipse.riena.toolbox",
+      "org.eclipse.riena.setup",
+      "org.eclipse.riena.old",
+      "org.eclipse.riena",
+      "org.eclipse.riena.3xtargets",
+      "org.eclipse.riena.plugins.archive"
+    ],
+    "SMILA": [],
+    "Virgo": [
+      ".eclipsefdn",
+      ".github",
+      "virgo-bundlor",
+      "virgo-ide",
+      "virgo-root"
+    ],
+    "Gemini Management": [
+      ".eclipsefdn",
+      ".github",
+      "gemini-website",
+      "gemini.blueprint",
+      "gemini.blueprint-website",
+      "gemini.dbaccess",
+      "gemini.dbaccess-website",
+      "gemini.dbaccess.postgresql",
+      "gemini.jpa",
+      "gemini.jpa-website",
+      "gemini.management",
+      "gemini.management-website",
+      "gemini.naming",
+      "gemini.naming-website",
+      "gemini.web",
+      "gemini.web-website"
+    ],
+    "Gemini Blueprint": [
+      "gemini.blueprint",
+      "gemini.blueprint-website"
+    ],
+    "Gemini DBAccess": [
+      "gemini.dbaccess",
+      "gemini.dbaccess-website",
+      "gemini.dbaccess.postgresql"
+    ],
+    "Gemini JPA": [
+      ".eclipsefdn",
+      ".github",
+      "gemini-website",
+      "gemini.blueprint",
+      "gemini.blueprint-website",
+      "gemini.dbaccess",
+      "gemini.dbaccess-website",
+      "gemini.dbaccess.postgresql",
+      "gemini.jpa",
+      "gemini.jpa-website",
+      "gemini.management",
+      "gemini.management-website",
+      "gemini.naming",
+      "gemini.naming-website",
+      "gemini.web",
+      "gemini.web-website"
+    ],
+    "Gemini Web": [
+      "gemini.web",
+      "gemini.web-website"
+    ],
+    "Bundle Recipes": [
+      "ebr"
+    ],
+    "RT": [],
+    "Gemini Naming": [
+      "gemini.naming",
+      "gemini.naming-website"
+    ],
+    "Remote Application Platform Incubator": [
+      "org.eclipse.rap.incubator.e4.compatibility.workbench"
+    ]
+  },
+  "SOA Platform": {
+    "eBAM": [],
+    "BPEL Designer": [],
+    "eBPM": [],
+    "Stardust": [],
+    "JWT": [],
+    "SCA Tools": [],
+    "Swordfish": [],
+    "BPMN modeler": [],
+    "score": [
+      "score"
+    ],
+    "Mangrove - SOA Modeling Framework": [],
+    "SOA Platform Project": []
+  },
+  "PolarSys": {
+    "CHESS": [],
+    "Capella": [
+      ".eclipsefdn",
+      "capella",
+      "capella-addons",
+      "capella-basic-vp",
+      "capella-cybersecurity",
+      "capella-deferred-merge",
+      "capella-filtering",
+      "capella-gitadapter",
+      "capella-pipeline-library",
+      "capella-releng-parent",
+      "capella-requirements-vp",
+      "capella-sss-transition",
+      "capella-studio",
+      "capella-textual-editor",
+      "capella-tools",
+      "capella-vpms",
+      "capella-website",
+      "capella-xhtml-docgen",
+      "capella-xmlpivot"
+    ],
+    "PolarSys": [],
+    "PolarSys 3P": [],
+    "B612": [
+      "b612"
+    ],
+    "COTSAQ": [],
+    "Kitalpha": [
+      "kitalpha-addons",
+      "kitalpha",
+      "kitalpha-website"
+    ],
+    "LibIMS": [
+      "libims"
+    ],
+    "NG661 Designer": [
+      "ng661designer"
+    ],
+    "OpenCert": [],
+    "POP": [],
+    "Product Lifecycle Management Platform": [
+      "eplmp"
+    ],
+    "ReqCycle": [],
+    "Rover": [],
+    "Safety Framework": [],
+    "Time4Sys": [
+      "time4sys"
+    ]
+  },
+  "LocationTech": {
+    "GeoMesa": [
+      "geomesa"
+    ],
+    "GeoGig": [
+      "geogig"
+    ],
+    "GeoWave": [
+      "geowave"
+    ],
+    "GeoTrellis": [
+      "geotrellis"
+    ],
+    "Spatial4j": [
+      "spatial4j"
+    ],
+    "LocationTech": [],
+    "GeoBench": [
+      "geobench"
+    ],
+    "GeoJinni": [],
+    "GeoPeril": [],
+    "JTS Topology Suite": [
+      "jts"
+    ],
+    "libspatialindex": [],
+    "Proj4J": [
+      "proj4j"
+    ],
+    "RasterFrames": [
+      "rasterframes"
+    ],
+    "SFCurve": [
+      "sfcurve"
+    ],
+    "uDig: User-friendly Desktop Internet GIS": [
+      "udig-platform"
+    ]
+  },
+  "OpenHW Group": {
+    "OpenHW Group CORE-V Cores": [
+      "core-v-ide-cdt",
+      "core-v-verif",
+      "cv32e40p",
+      "cv32e40s",
+      "cv32e40x",
+      "cva6",
+      "core-v-mcu",
+      "core-v-mcu-devkit",
+      "core-v-sdk",
+      "cvw",
+      "cv32e40x-dv",
+      "apb_interrupt_cntrl",
+      "core-v-mcu-cli-test",
+      "core-v-mcu-demo",
+      "core-v-xif",
+      "cv-hpdcache",
+      "cv32e41p",
+      "cva5",
+      "cva6-sdk",
+      "cve2",
+      "force-riscv"
+    ],
+    "OpenHW Group": []
+  },
+  "AsciiDoc": {
+    "AsciiDoc Language": [],
+    "AsciiDoc": [],
+    "Austen": []
+  }
+}
