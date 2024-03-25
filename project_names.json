@@ -1125,16 +1125,12 @@
     ],
     "Jubula Functional Testing Tool": [],
     "JustJ": [
-      
-      
       "justj",
       "justj-website",
       "justj.tools"
     ],
     "Hudson": [],
     "iceoryx": [
-      
-      
       "iceoryx",
       "iceoryx-automotive-soa",
       "iceoryx-gateway-dds",
@@ -1784,8 +1780,6 @@
     ],
     "MoEc": [],
     "Muto": [
-      
-      "agent",
       "composer",
       "core",
       "dashboard",
