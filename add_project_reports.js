@@ -26,27 +26,27 @@ function getMonth() {
   return this_month;
 }
 
-function make_reports() {
-  var name_to_id = JSON.parse(readTextFile("name_to_ids.json"));
-  var this_project = document.getElementById("txt_ide").value;
-  var alias_to_name = JSON.parse(readTextFile("new_name_to_alias.json"));
-  var proj = alias_to_name[this_project];
-  // console.log("here", proj);
-  var proj_id = name_to_id[proj];
-  // console.log("next", proj_id);
-  var month = getMonth();
+// function make_reports() {
+//   var name_to_id = JSON.parse(readTextFile("name_to_ids.json"));
+//   var this_project = document.getElementById("txt_ide").value;
+//   var alias_to_name = JSON.parse(readTextFile("new_name_to_alias.json"));
+//   var proj = alias_to_name[this_project];
+//   // console.log("here", proj);
+//   var proj_id = name_to_id[proj];
+//   // console.log("next", proj_id);
+//   var month = getMonth();
 
-  var m = month + ".txt";
+//   var m = month + ".txt";
 
-  var link = "data1/" + proj_id + "/" + m;
-  var paths = `${link}`;
-  // console.log("final", paths);
-  var read = readTextFile1(paths);
-  document.getElementById("textss").value = read;
-  // console.log(read);
-  add_links(proj_id);
-  add_current_month(proj_id);
-}
+//   var link = "data1/" + proj_id + "/" + m;
+//   var paths = `${link}`;
+//   // console.log("final", paths);
+//   var read = readTextFile1(paths);
+//   document.getElementById("textss").value = read;
+//   // console.log(read);
+//   add_links(proj_id);
+//   add_current_month(proj_id);
+// }
 
 function add_current_month(proj_id) {
   var month = document.getElementById("Month").value;

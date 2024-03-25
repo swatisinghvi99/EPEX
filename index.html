@@ -66,14 +66,14 @@
                                     <h6>Quick Links</h6>
                                     <ul class="footer-links">
                                         <li>
-                                            <a href="mailto:filkov@ucdavis.edu?subject=APEX Dashboard!&body=I'm here from testing out APEX!">Contact
+                                            <a href="mailto:filkov@ucdavis.edu?subject=EPEX Dashboard!&body=I'm here from testing out EPEX!">Contact
                                                                       us / Contribute</a>
                                         </li>
                                         <li>
-                                            <a href="https://doi.org/10.5281/zenodo.4480753">Data</a>
+                                            <a href="">Data</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.cs.ucdavis.edu/~filkov/papers/oss_sustain_forecast.pdf">Papers</a>
+                                            <a href="">Papers</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -103,14 +103,14 @@
                             <div class="one_one">
                                 <div class="one_a2 box2">
                                     <label>Technology:
-                                        <select id="technologyDropdown" onchange="populateProjectDropdown();"></select>
+                                        <select id="technologyDropdown" onchange="populateProjectDropdown();resetAll();"></select>
                                     </label><br/>
                                     <label>Project:
                                         <input type="text" id="searchInput" placeholder="Type to search..." onkeyup="filterProjectDropdown()">
-                                        <select id="projectDropdown" oninput="resetAll();populateRepoDropdown();"></select>
-                                    </label>
+                                        <select id="projectDropdown" oninput="populateRepoDropdown();resetAll();"></select>
+                                    </label><br/>
                                     <label>Repo:
-                                        <select id="repoDropdown"></select>
+                                        <select id="repoDropdown" oninput="resetAll();"></select>
                                     </label>
                                 </div>                                
                                 <!-- parallel window -->
@@ -140,7 +140,7 @@
                                     Month
                                     <output class="month_name" id="Month">1</output>
                                     <!-- month slider  -->
-                                    <input id="MaxIncubation" type="range" min="1" max="90" value="1" step="1" oninput="Month.value=MaxIncubation.value ;updateAll();getMonth();make_reports();"/>
+                                    <input id="MaxIncubation" type="range" min="1" max="90" value="1" step="1" oninput="Month.value=MaxIncubation.value ;updateAll();"/>
                                 </label>
                             </div>
                             <!-- range slider  -->
@@ -390,17 +390,18 @@
                 <!-- function for reducing the zero percentage of the social and tech networks   -->
                 <!-- <script src="thresholds_for_networks.js"></script> -->
                 <!-- function for adding the project information like project name and other details -->
-                <script src="read_file.js"></script>
+                <!-- <script src="read_file.js"></script> -->
                 <!-- contains functions for adding in the project reports component -->
                 <!-- <script src="add_project_reports.js"></script> -->
                 <!-- update dashboard after a change either month or project -->
+                
+                <!-- initial html slider  -->
+                <script src="inital_slider.js"></script>
                 <script src="updating.js"></script>
                 <!-- project information page -->
                 <script src="project_information.js"></script>
                 <!-- graduation forecast -->
                 <!-- <script src="graduation_forecast.js"></script> -->
-                <!-- initial html slider  -->
-                <script src="inital_slider.js"></script>
                 <!-- range graduation forecast -->
                 <!-- <script src="range_graduation_forecast.js"></script> -->
                 <!-- technical network -->

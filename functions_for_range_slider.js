@@ -3,9 +3,9 @@ function create_nested_data_emails(feed_size) {
   var feed_size = feed_size;
 
   var first_data = [];
-  var this_project = document.getElementById("txt_ide").value;
+  var this_project = document.getElementById("repoDropdown").value;
   for (const cur_month of feed_size) {
-    var common_path = `./UPDATED_Data/new/new_emails/${alias_to_name[this_project]}_${cur_month}.json`;
+    var common_path = `./UPDATED_Data/new/new_emails/${this_project}_${cur_month}.json`;
 
     if (cur_month == feed_size[0]) {
       try {
@@ -34,11 +34,11 @@ function create_nested_data_emails(feed_size) {
 function create_nested_data_commits(feed_size) {
   var end = feed_size[feed_size.length - 1];
   var start = feed_size[0];
-  var this_project = document.getElementById("txt_ide").value;
+  var this_project = document.getElementById("repoDropdown").value;
   //  read two json files and update the to and from
   to_from_info = JSON.parse(
     readTextFile(
-      `./UPDATED_Data/new/new_month_intervals/${alias_to_name[this_project]}.json`
+      `./UPDATED_Data/new/new_month_intervals/${this_project}.json`
     )
   );
 
@@ -56,9 +56,9 @@ function create_nested_data_commits(feed_size) {
   var feed_size = feed_size;
   var first_data1 = [];
   new_empty = [];
-  var this_project = document.getElementById("txt_ide").value;
+  var this_project = document.getElementById("repoDropdown").value;
   for (const cur_month of feed_size) {
-    var common_path = `./UPDATED_Data/new/new_commit/Jan/${alias_to_name[this_project]}_${cur_month}.json`;
+    var common_path = `./UPDATED_Data/new/new_commit/Jan/${this_project}_${cur_month}.json`;
 
     try {
     } catch {}

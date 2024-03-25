@@ -2257,4 +2257,6 @@ input[type=range]:focus::-ms-fill-upper {
 }
 select{
   margin-bottom: 5px;
+  width: 150px;
+  text-align: center;
 }

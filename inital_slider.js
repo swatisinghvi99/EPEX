@@ -22,15 +22,23 @@ function populateTechnologyDropdown() {
 // Populate the project dropdown based on selected technology
 function populateProjectDropdown() {
   var projectDropdown = document.getElementById('projectDropdown');
+  var repoDropdown = document.getElementById('repoDropdown'); // Get the repoDropdown
   var technologyDropdown = document.getElementById('technologyDropdown');
   var selectedTechnology = technologyDropdown.value;
   projectDropdown.innerHTML = '';
-
-  var defaultOption = document.createElement('option');
-  defaultOption.textContent = 'Select Project';
-  defaultOption.disabled = true;
-  defaultOption.selected = true;
-  projectDropdown.appendChild(defaultOption);
+  repoDropdown.innerHTML = ''; // Reset the repository dropdown
+  
+  var defaultOptionProject = document.createElement('option');
+  defaultOptionProject.textContent = 'Select Project';
+  defaultOptionProject.disabled = true;
+  defaultOptionProject.selected = true;
+  projectDropdown.appendChild(defaultOptionProject);
+  
+  var defaultOptionRepo = document.createElement('option');
+  defaultOptionRepo.textContent = 'Select Repo';
+  defaultOptionRepo.disabled = true;
+  defaultOptionRepo.selected = true;
+  repoDropdown.appendChild(defaultOptionRepo);
 
   if (selectedTechnology && d[selectedTechnology]) {
     Object.keys(d[selectedTechnology]).forEach(function(projectName) {
@@ -41,7 +49,6 @@ function populateProjectDropdown() {
     });
   }
 }
-
 // Populate the repository dropdown based on selected project
 function populateRepoDropdown() {
   var repoDropdown = document.getElementById('repoDropdown');
@@ -91,4 +98,28 @@ function loadProjectNames() {
 
 document.addEventListener('DOMContentLoaded', function() {
   loadProjectNames();
+});
+
+document.getElementById('projectDropdown').addEventListener('change', function() {
+  populateRepoDropdown();
+  UpdateprojectInfo();
+});
+
+document.getElementById('technologyDropdown').addEventListener('change', function() {
+  // Reset the project and repository dropdowns
+  populateProjectDropdown(); 
+  document.getElementById("link").innerHTML = '';
+  document.getElementById("start1").innerHTML = '';
+  document.getElementById("end1").innerHTML = '';
+  document.getElementById("from").innerHTML = '';
+  document.getElementById("to").innerHTML = '';
+  document.getElementById("reports_month").innerHTML = '';
+  document.getElementById("month_period_start").innerHTML = '';
+  document.getElementById("month_period_end").innerHTML = '';
+  document.getElementById("status").innerHTML = '';
+  document.getElementById("tech").innerHTML = '';
+  document.getElementById('repo_link').innerHTML = '';
+  document.getElementById("pro_title").innerHTML = '';
+  document.getElementById("pro_title1").innerHTML = '';
+  document.getElementById("pro_title2").innerHTML = '';
 });

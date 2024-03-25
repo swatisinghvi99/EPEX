@@ -14,8 +14,8 @@
     "QVT Operational": [],
     "Hawk": [],
     "MDT UML2": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "uml2",
       "uml2-website"
     ],
@@ -29,8 +29,8 @@
       "org.eclipse.emf.ecp.releng"
     ],
     "Sirius": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "sirius-desktop",
       "sirius-emf-json",
       "sirius-legacy",
@@ -74,15 +74,15 @@
     ],
     "UML Generators": [],
     "VIATRA": [
-      ".eclipsefdn",
+      
       "org.eclipse.viatra",
       "org.eclipse.viatra.examples",
       "org.eclipse.viatra.modelobfuscator",
       "viatra-website"
     ],
     "EMF": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "emf-website",
       "org.eclipse.emf"
     ],
@@ -120,8 +120,8 @@
       "capra"
     ],
     "EMF Services": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "emf-query",
       "emf-transaction",
       "emf-validation"
@@ -149,7 +149,7 @@
       "amalgam"
     ],
     "CDO Model Repository": [
-      ".github",
+      
       "cdo",
       "cdo.incubator",
       "cdo.infrastructure",
@@ -170,8 +170,8 @@
     "Generative Modeling Technologies (GMT)": [],
     "GMF Notation": [],
     "GMF Runtime": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "gmf-notation",
       "gmf-runtime",
       "gmf-runtime-website"
@@ -217,8 +217,8 @@
     "AVSys": [],
     "Franca": [],
     "Modeling Framework - Container Project": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "emf-website",
       "org.eclipse.emf"
     ],
@@ -226,7 +226,7 @@
     "Papyrus for xtUML": [],
     "PMF": [],
     "SysON": [
-      ".eclipsefdn",
+      
       "eclipse-syson.github.io",
       "syson",
       "syson-website"
@@ -264,7 +264,7 @@
       "neoscada"
     ],
     "Embedded CDT (C/C++ Development Tools)": [
-      ".eclipsefdn",
+      
       "assets",
       "eclipse-embed-cdt.github.io",
       "eclipse-plugins",
@@ -312,7 +312,7 @@
       "website"
     ],
     "Kanto": [
-      ".eclipsefdn",
+      
       "aws-connector",
       "azure-connector",
       "container-management",
@@ -329,8 +329,8 @@
       "update-manager"
     ],
     "Keyple": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "keyple-card-calypso-cpp-lib",
       "keyple-card-calypso-crypto-legacysam-java-lib",
       "keyple-card-calypso-crypto-pki-java-lib",
@@ -364,8 +364,8 @@
       "risev2g"
     ],
     "Thingweb": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "dart_wot",
       "domus-tdd-api",
       "node-red",
@@ -377,7 +377,7 @@
       "website"
     ],
     "Zenoh": [
-      ".eclipsefdn",
+      
       "ci",
       "homebrew-zenoh",
       "roadmap",
@@ -407,7 +407,7 @@
     ],
     "IoT": [],
     "4diac": [
-      ".eclipsefdn",
+      
       "4diac-documentation",
       "4diac-examples",
       "4diac-fbe",
@@ -418,7 +418,7 @@
       "4diac-website-hugo"
     ],
     "Hono": [
-      ".eclipsefdn",
+      
       "hono",
       "hono-extras",
       "hono-website"
@@ -429,8 +429,8 @@
       "packages-website"
     ],
     "Keypop": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "keypop-calypso-card-cpp-api",
       "keypop-calypso-card-java-api",
       "keypop-calypso-certificate-cpp-api",
@@ -530,7 +530,7 @@
       "amlen-website"
     ],
     "Cyclone DDS": [
-      ".eclipsefdn",
+      
       "cyclonedds",
       "cyclonedds-cxx",
       "cyclonedds-python",
@@ -547,7 +547,7 @@
     ],
     "Grela": [],
     "Hara": [
-      ".eclipsefdn",
+      
       "hara-ddiclient"
     ],
     "hawkBit": [
@@ -618,13 +618,13 @@
       "ponte"
     ],
     "Symphony": [
-      ".eclipsefdn",
+      
       "symphony",
       "symphony-website"
     ],
     "ThreadX": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "cmsis-packs",
       "filex",
       "getting-started",
@@ -655,8 +655,8 @@
       "upm"
     ],
     "VOLTTRON": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "copier-poetry-volttron-agent",
       "docker",
       "eclipse-volttron.github.io",
@@ -701,7 +701,7 @@
   },
   "Tools": {
     "Trace Compass": [
-      ".eclipsefdn",
+      
       "org.eclipse.tracecompass",
       "trace-event-logger",
       "tracecompass-infra",
@@ -711,8 +711,8 @@
     "Lua Development Tools": [],
     "Object Teams": [],
     "WindowBuilder": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "windowbuilder",
       "windowbuilder-website",
       "windowbuilder-website-source"
@@ -732,7 +732,7 @@
     ],
     "Titan": [],
     "Trace Compass Incubator": [
-      ".eclipsefdn",
+      
       "org.eclipse.tracecompass.incubator"
     ],
     "Buildship: Plug-ins for Gradle": [
@@ -742,8 +742,8 @@
       "corrosion"
     ],
     "PHP Development Tools": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "pdt",
       "pdt-website"
     ],
@@ -752,8 +752,8 @@
       "mat-website"
     ],
     "Oomph": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "oomph",
       "oomph.incubator"
     ],
@@ -773,8 +773,8 @@
       "sequoyah"
     ],
     "Mylyn": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "mylyn-website",
       "org.eclipse.mylyn",
       "org.eclipse.mylyn.all",
@@ -797,8 +797,8 @@
       "ajdt-website"
     ],
     "CDT (C/C++ Development Tooling)": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "cdt",
       "cdt-infra",
       "cdt-lsp",
@@ -810,14 +810,14 @@
     ],
     "Data Tools Incubator": [],
     "Data Tools Platform": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "datatools"
     ],
     "Mylyn Docs": [],
     "Orbit Project": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "ebr",
       "orbit",
       "orbit-legacy",
@@ -849,7 +849,7 @@
     "Test and Performance Tools Platform": [],
     "SeCo Blocks": [],
     "Wild Web Developer": [
-      ".eclipsefdn",
+      
       "wildwebdeveloper"
     ],
     "Damos": [],
@@ -889,11 +889,11 @@
       "nebula-website"
     ],
     "LSP4J": [
-      ".eclipsefdn",
+      
       "lsp4j"
     ],
     "JGit: Java implementation of Git": [
-      ".eclipsefdn",
+      
       "jgit",
       "jgit-permissions",
       "jgit-pipelines",
@@ -951,7 +951,7 @@
       "org.eclipse.sensinact"
     ],
     "Signalling Engineering Toolbox": [
-      ".eclipsefdn",
+      
       "browser",
       "build",
       "model",
@@ -966,8 +966,8 @@
       "transformer"
     ],
     "Xpanse": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "policy-man",
       "terraform-boot",
       "tofu-maker",
@@ -1001,7 +1001,7 @@
       "mpc-website"
     ],
     "Passage": [
-      ".github",
+      
       "chronograph",
       "passage",
       "passage-docs",
@@ -1012,7 +1012,7 @@
     "User Storage Service SDK": [],
     "Code Recommenders": [],
     "EGit: Git Integration for Eclipse": [
-      ".eclipsefdn",
+      
       "egit",
       "egit-github",
       "egit-permissions",
@@ -1035,13 +1035,13 @@
       "m2e-core",
       "m2e-discovery-catalog",
       "org.eclipse.m2e.workspace",
-      ".github",
+      
       "m2e-wtp",
       "m2e-wtp-jpa",
       "m2e-website"
     ],
     "Nebula NatTable": [
-      ".eclipsefdn",
+      
       "nattable",
       "nattable-website"
     ],
@@ -1053,12 +1053,12 @@
       "tm4e"
     ],
     "TEA (Tasking Engine Advanced)": [
-      ".eclipsefdn",
+      
       "tea",
       "tea-website"
     ],
     "EclEmma": [
-      ".eclipsefdn",
+      
       "eclemma",
       "update.eclemma.org"
     ],
@@ -1113,7 +1113,7 @@
       "org.eclipse.actf.visualization.releng"
     ],
     "Babel": [
-      ".eclipsefdn",
+      
       "babel-website",
       "plugins",
       "server",
@@ -1125,16 +1125,16 @@
     ],
     "Jubula Functional Testing Tool": [],
     "JustJ": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "justj",
       "justj-website",
       "justj.tools"
     ],
     "Hudson": [],
     "iceoryx": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "iceoryx",
       "iceoryx-automotive-soa",
       "iceoryx-gateway-dds",
@@ -1189,8 +1189,8 @@
       "bridgeiot.marketplace.exchange"
     ],
     "Common Build Infrastructure": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "ansible-playbooks",
       "best-practices",
       "buildkitd-okd",
@@ -1215,8 +1215,8 @@
       "targetplatform-dsl"
     ],
     "Dash": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "nodejs-wrapper"
     ],
     "Deeplearning4j": [
@@ -1249,35 +1249,35 @@
       "openj9-website-publish"
     ],
     "Packaging Project": [
-      ".eclipsefdn",
+      
       "packages"
     ],
     "Serializer": [
-      ".eclipsefdn",
+      
       "serializer"
     ],
     "Store": [
-      ".eclipsefdn",
+      
       "bookstore-demo",
       "docs-site",
       "store"
     ],
     "Tycho": [
-      ".eclipsefdn",
+      
       "eclipse-tycho.github.io",
       "tycho"
     ],
     "Code Recommenders Incubator": [],
     "SimRel": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "help.eclipse.org",
       "simrel.build",
       "simrel.tools"
     ],
     "Cloud Application Management Framework": [],
     "Apoapsis": [
-      ".eclipsefdn",
+      
       "ort-server"
     ],
     "Ceylon": [
@@ -1300,17 +1300,14 @@
       "hugo-website-sources"
     ],
     "Common Security Infrastructure": [
-      ".eclipsefdn",
-      ".github",
+      
       "gradually",
       "otterdog",
       "security-handbook"
     ],
-    "Corinthian": [
-      ".eclipsefdn"
-    ],
+    "Corinthian": [],
     "Daanse - Data and Analysis Services": [
-      ".eclipsefdn",
+      
       "eclipse-daanse.github.io",
       "org.eclipse.daanse.common"
     ],
@@ -1321,8 +1318,7 @@
     ],
     "openK User Modules": [],
     "Dataspace Components": [
-      ".eclipsefdn",
-      ".github",
+      
       "Collateral",
       "Connector",
       "DataDashboard",
@@ -1384,7 +1380,6 @@
     "Picasso: A free open-source visualizer for Convolutional Neural Networks": [],
     "Plato": [],
     "Public Access Submission System (PASS)": [
-      ".eclipsefdn",
       "eclipse-pass.github.io",
       "main",
       "modeshape",
@@ -1436,7 +1431,7 @@
     "Technology": [],
     "Vhant": [],
     "WattAdvisor": [
-      ".eclipsefdn",
+      
       "website"
     ],
     "XFSC (Cross Federation Services Components)": [],
@@ -1455,7 +1450,7 @@
     "VJet": [],
     "Datatools": [],
     "Dali Java Persistence Tools": [
-      ".eclipsefdn",
+      
       "webtools.dali"
     ],
     "JavaScript Development Tools": [
@@ -1500,7 +1495,7 @@
     ],
     "StatET: Tooling for the R language": [],
     "TeXlipse": [
-      ".eclipsefdn",
+      
       "texlipse"
     ],
     "Triquetrum": [
@@ -1525,7 +1520,7 @@
   },
   "Digital Twin": {
     "AASX Package Explorer and Server": [
-      ".eclipsefdn",
+      
       "aaspe",
       "aaspe-common",
       "aasx-server"
@@ -1536,7 +1531,6 @@
       "aas4j-transformation-library"
     ],
     "Semantic Modeling Framework (ESMF)": [
-      ".eclipsefdn",
       "eclipse-esmf.github.io",
       "esmf-antora-ui",
       "esmf-aspect-model-editor",
@@ -1552,8 +1546,6 @@
       "esmf-semantic-aspect-meta-model"
     ],
     "BaSyx": [
-      ".eclipsefdn",
-      ".github",
       "basyx-applications",
       "basyx-archive",
       "basyx-cpp-components",
@@ -1579,8 +1571,6 @@
       "aaswc"
     ],
     "Service Lifecycle Management": [
-      ".eclipsefdn",
-      ".github",
       "ansible",
       "awx",
       "awx-jwt-authenticator",
@@ -1636,7 +1626,7 @@
       "udpcap"
     ],
     "Leda": [
-      ".eclipsefdn",
+      
       "eclipse-leda.github.io",
       "leda",
       "leda-contrib-cloud-connector",
@@ -1655,19 +1645,17 @@
       "mosaic.website"
     ],
     "openDuT": [
-      ".eclipsefdn",
-      ".github",
       "eclipse-opendut.github.io",
       "opendut"
     ],
     "SUMO": [
-      ".eclipsefdn",
+      
       "sumo",
       "sumo.website"
     ],
     "Velocitas": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "cli",
       "devcontainer-base-images",
       "devenv-devcontainer-setup",
@@ -1696,8 +1684,8 @@
     "APP4MC": [],
     "MDM|BL": [],
     "Tractus-X": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "app-dashboard",
       "bpdm",
       "bpdm-certificate-management",
@@ -1731,7 +1719,7 @@
       "adaaa"
     ],
     "Ankaios": [
-      ".eclipsefdn",
+      
       "ankaios"
     ],
     "ArchE": [
@@ -1743,7 +1731,7 @@
     "Automotive": [],
     "Backend function Bindings (BfB)": [],
     "BlueChi": [
-      ".eclipsefdn",
+      
       "bluechi",
       "bluechi-ansible-collection",
       "bluechi-on-yocto",
@@ -1751,7 +1739,7 @@
       "terraform-provider-bluechi"
     ],
     "Chariott": [
-      ".eclipsefdn",
+      
       "Agemo",
       "chariott",
       "chariott-example-applications"
@@ -1763,14 +1751,14 @@
       "heimlig"
     ],
     "Ibeji": [
-      ".eclipsefdn",
+      
       "freyja",
       "ibeji",
       "ibeji-example-applications"
     ],
     "Kuksa": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "kuksa-actions",
       "kuksa-android-companion",
       "kuksa-android-sdk",
@@ -1796,7 +1784,7 @@
     ],
     "MoEc": [],
     "Muto": [
-      ".eclipsefdn",
+      
       "agent",
       "composer",
       "core",
@@ -1824,8 +1812,8 @@
     ],
     "SCM": [],
     "SDV Blueprints": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "blueprints",
       "blueprints-website",
       "companion-application",
@@ -1840,8 +1828,8 @@
       "sommr-website"
     ],
     "uProtocol": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "manifests",
       "up-android-core",
       "up-android-discovery",
@@ -1914,7 +1902,7 @@
       "emfcloud-website-source"
     ],
     "GLSP": [
-      ".eclipsefdn",
+      
       "glsp",
       "glsp-client",
       "glsp-eclipse-integration",
@@ -1928,7 +1916,7 @@
       "glsp-website-source"
     ],
     "Theia": [
-      ".eclipsefdn",
+      
       "cryptodetector",
       "discourse-forum-archive",
       "dugite-extra",
@@ -2004,8 +1992,7 @@
       "blog",
       "che-server",
       "che-tests",
-      "che-docs-vale-style",
-      ".github"
+      "che-docs-vale-style"
     ],
     "Orion": [
       "orion.electron",
@@ -2015,7 +2002,7 @@
       "orion"
     ],
     "Sprotty": [
-      ".eclipsefdn",
+      
       "sprotty",
       "sprotty-previews",
       "sprotty-server",
@@ -2031,7 +2018,7 @@
       "che-che4z-explorer-for-endevor"
     ],
     "Langium": [
-      ".eclipsefdn",
+      
       "langium",
       "langium-previews",
       "langium-website"
@@ -2041,7 +2028,7 @@
       "open-vsx.org"
     ],
     "CDT Cloud": [
-      ".eclipsefdn",
+      
       "cdt-amalgamator",
       "cdt-cloud",
       "cdt-cloud-blueprint",
@@ -2248,8 +2235,7 @@
     ],
     "EE4J": [
       "ee4j-website",
-      "ee4j",
-      ".github"
+      "ee4j"
     ],
     "Angus": [
       "angus-activation",
@@ -2461,13 +2447,13 @@
   "Eclipse Project": {
     "Project": [],
     "JDT LS": [
-      ".eclipsefdn",
+      
       "eclipse-jdt-core-incubator",
       "eclipse.jdt.ls"
     ],
     "e4 Project": [],
     "Equinox": [
-      ".github",
+      
       "equinox",
       "equinox-website",
       "equinox.binaries",
@@ -2476,8 +2462,8 @@
       "p2"
     ],
     "JDT (Java development tools)": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "eclipse.jdt",
       "eclipse.jdt.core",
       "eclipse.jdt.core.binaries",
@@ -2486,15 +2472,15 @@
       "jdt-website"
     ],
     "PDE": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "eclipse.pde",
       "eclipse.pde.build",
       "pde-website"
     ],
     "Platform": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "eclipse.platform",
       "eclipse.platform.common",
       "eclipse.platform.debug",
@@ -2543,8 +2529,7 @@
     "Oniro Blueprints": [],
     "Oniro Compliance Toolchain": [],
     "Oniro for OpenHarmony": [
-      ".eclipsefdn",
-      ".github",
+      
       "eclipse-oniro4openharmony.github.io",
       "manifest",
       "oniro-ide",
@@ -2554,8 +2539,8 @@
   },
   "RT": {
     "Vert.x": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "vert.x",
       "vertx-auth",
       "vertx-codegen",
@@ -2575,7 +2560,7 @@
     "Remote Application Platform": [
       "org.eclipse.rap",
       "org.eclipse.rap.tools",
-      ".github",
+      
       "org.eclipse.rap.website"
     ],
     "Apricot": [],
@@ -2584,8 +2569,8 @@
       "ecf-website"
     ],
     "Gemini": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "gemini-website",
       "gemini.blueprint",
       "gemini.blueprint-website",
@@ -2605,8 +2590,8 @@
       "gyrex-server"
     ],
     "Jetty - Servlet Engine and Http Server": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "jetty-alpn-api",
       "jetty-artifact-remote-resources",
       "jetty-assembly-descriptors",
@@ -2639,15 +2624,15 @@
     ],
     "SMILA": [],
     "Virgo": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "virgo-bundlor",
       "virgo-ide",
       "virgo-root"
     ],
     "Gemini Management": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "gemini-website",
       "gemini.blueprint",
       "gemini.blueprint-website",
@@ -2673,8 +2658,8 @@
       "gemini.dbaccess.postgresql"
     ],
     "Gemini JPA": [
-      ".eclipsefdn",
-      ".github",
+      
+      
       "gemini-website",
       "gemini.blueprint",
       "gemini.blueprint-website",
@@ -2724,7 +2709,7 @@
   "PolarSys": {
     "CHESS": [],
     "Capella": [
-      ".eclipsefdn",
+      
       "capella",
       "capella-addons",
       "capella-basic-vp",

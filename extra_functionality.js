@@ -1,7 +1,7 @@
 // create a combined object for the email data for the given range
 function create_for(feed_size) {
   var sub_array = [];
-  var this_project = document.getElementById("txt_ide").value;
+  var this_project = document.getElementById("repoDropdown").value;
   var curr_month = document.getElementById("Month").value;
   var cur_month = feed_size[0];
 
@@ -9,7 +9,7 @@ function create_for(feed_size) {
     try {
       var projectInfo = JSON.parse(
         readTextFile(
-          `./UPDATED_Data/new/email_measures/${alias_to_name[this_project]}_${cur_month}.json`
+          `./UPDATED_Data/new/email_measures/${this_project}_${cur_month}.json`
         )
       );
     } catch {}
@@ -37,14 +37,14 @@ function create_for(feed_size) {
 // create combined object based on th range for the tech nets
 // function create_for_commits(feed_size) {
 //   var sub_array = [];
-//   var this_project = document.getElementById("txt_ide").value;
+//   var this_project = document.getElementById("repoDropdown").value;
 //   var curr_month = document.getElementById("Month").value;
 //   var cur_month = feed_size[0];
 //   for (const cur_month of feed_size) {
 //     try {
 //       var projectInfo = JSON.parse(
 //         readTextFile(
-//           `./UPDATED_Data/new/commits_measure/${alias_to_name[this_project]}_${cur_month}.json`
+//           `./UPDATED_Data/new/commits_measure/${this_project}_${cur_month}.json`
 //         )
 //       );
 //     } catch (err) {}
@@ -86,9 +86,9 @@ function create_network_data(feed_size) {
   var new_empty = [];
   var feed_size = feed_size;
   var first_data;
-  var this_project = document.getElementById("txt_ide").value;
+  var this_project = document.getElementById("repoDropdown").value;
   for (const cur_month of feed_size) {
-    var common_path = `./UPDATED_Data/new/email_measures/${alias_to_name[this_project]}_${cur_month}.json`;
+    var common_path = `./UPDATED_Data/new/email_measures/${this_project}_${cur_month}.json`;
     var dataf1;
 
     d3.json(`${common_path}`, function (error, dataf) {
@@ -105,9 +105,9 @@ function create_new_data_force_net(feed_size) {
   var new_empty = [];
   var feed_size = feed_size;
   var first_data;
-  var this_project = document.getElementById("txt_ide").value;
+  var this_project = document.getElementById("repoDropdown").value;
   for (const cur_month of feed_size) {
-    var common_path = `./UPDATED_Data/new/email_measures/${alias_to_name[this_project]}_${cur_month}.json`;
+    var common_path = `./UPDATED_Data/new/email_measures/${this_project}_${cur_month}.json`;
 
     first_data = eval(readTextFile(`${common_path}`));
 
@@ -139,9 +139,9 @@ function create_new_data(feed_size) {
   var feed_size = feed_size;
 
   var first_data = [];
-  var this_project = document.getElementById("txt_ide").value;
+  var this_project = document.getElementById("repoDropdown").value;
   for (const cur_month of feed_size) {
-    var common_path = `./UPDATED_Data/new/new_emails/${alias_to_name[this_project]}_${cur_month}.json`;
+    var common_path = `./UPDATED_Data/new/new_emails/${this_project}_${cur_month}.json`;
 
     if (cur_month == feed_size[0]) {
       try {
@@ -203,11 +203,11 @@ function merge_all_jsons(array2, res) {
 function create_new_data1(feed_size) {
   var end = feed_size[feed_size.length - 1];
   var start = feed_size[0];
-  var this_project = document.getElementById("txt_ide").value;
+  var this_project = document.getElementById("repoDropdown").value;
   //  read two json files and update the to and from
   to_from_info = JSON.parse(
     readTextFile(
-      `./UPDATED_Data/new/new_month_intervals/${alias_to_name[this_project]}.json`
+      `./UPDATED_Data/new/new_month_intervals/${this_project}.json`
     )
   );
 
@@ -225,9 +225,9 @@ function create_new_data1(feed_size) {
   var feed_size = feed_size;
   var first_data1 = [];
   new_empty = [];
-  var this_project = document.getElementById("txt_ide").value;
+  var this_project = document.getElementById("repoDropdown").value;
   for (const cur_month of feed_size) {
-    var common_path = `./UPDATED_Data/new/new_commit/Jan/${alias_to_name[this_project]}_${cur_month}.json`;
+    var common_path = `./UPDATED_Data/new/new_commit/Jan/${this_project}_${cur_month}.json`;
 
     try {
     } catch {}

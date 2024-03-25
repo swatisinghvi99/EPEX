@@ -1,6 +1,5 @@
 // reset function to ensure that when new project is selected the month and the month slider resets to zero
 function resetAll() {
-  console.log("its working");
   document.getElementById("num_emails").innerHTML = 0;
 
   document.getElementById("num_senders").innerHTML = 0;
