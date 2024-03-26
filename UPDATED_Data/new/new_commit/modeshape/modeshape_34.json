@@ -1,0 +1,77 @@
+[
+    [
+        "John D. Ament",
+        "java",
+        10
+    ],
+    [
+        "John D. Ament",
+        "properties",
+        2
+    ],
+    [
+        "John D. Ament",
+        "xml",
+        1
+    ],
+    [
+        "Dan Florian",
+        "java",
+        2
+    ],
+    [
+        "Brian Carothers",
+        "java",
+        24
+    ],
+    [
+        "Brian Carothers",
+        "properties",
+        4
+    ],
+    [
+        "Brian Carothers",
+        "xml",
+        2
+    ],
+    [
+        "Van Halbert",
+        "java",
+        14
+    ],
+    [
+        "Van Halbert",
+        "bat",
+        1
+    ],
+    [
+        "Van Halbert",
+        "sh",
+        1
+    ],
+    [
+        "Randall Hauch",
+        "java",
+        64
+    ],
+    [
+        "Randall Hauch",
+        "xml",
+        9
+    ],
+    [
+        "Randall Hauch",
+        "cnd",
+        7
+    ],
+    [
+        "Randall Hauch",
+        "properties",
+        1
+    ],
+    [
+        "Ted Jones",
+        "java",
+        7
+    ]
+]

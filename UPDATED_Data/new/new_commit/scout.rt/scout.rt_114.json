@@ -1,0 +1,377 @@
+[
+    [
+        "Claudio Guglielmo",
+        "java",
+        4
+    ],
+    [
+        "Claudio Guglielmo",
+        "js",
+        57
+    ],
+    [
+        "Claudio Guglielmo",
+        "gitignore",
+        3
+    ],
+    [
+        "Claudio Guglielmo",
+        "json",
+        10
+    ],
+    [
+        "Claudio Guglielmo",
+        "npmignore",
+        1
+    ],
+    [
+        "Claudio Guglielmo",
+        "npmrc",
+        1
+    ],
+    [
+        "Claudio Guglielmo",
+        "project",
+        1
+    ],
+    [
+        "Claudio Guglielmo",
+        "jsdtscope",
+        1
+    ],
+    [
+        "Claudio Guglielmo",
+        "prefs",
+        14
+    ],
+    [
+        "Claudio Guglielmo",
+        "container",
+        1
+    ],
+    [
+        "Claudio Guglielmo",
+        "name",
+        1
+    ],
+    [
+        "Claudio Guglielmo",
+        "iml",
+        2
+    ],
+    [
+        "Claudio Guglielmo",
+        "html",
+        1
+    ],
+    [
+        "Claudio Guglielmo",
+        "less",
+        2
+    ],
+    [
+        "Claudio Guglielmo",
+        "xml",
+        2
+    ],
+    [
+        "Andreas Hoegger",
+        "java",
+        37
+    ],
+    [
+        "Andreas Hoegger",
+        "gitignore",
+        1
+    ],
+    [
+        "Andreas Hoegger",
+        "xml",
+        4
+    ],
+    [
+        "Andreas Hoegger",
+        "iml",
+        3
+    ],
+    [
+        "Andreas Hoegger",
+        "classpath",
+        1
+    ],
+    [
+        "Andreas Hoegger",
+        "project",
+        1
+    ],
+    [
+        "Andreas Hoegger",
+        "jsdtscope",
+        1
+    ],
+    [
+        "Andreas Hoegger",
+        "prefs",
+        15
+    ],
+    [
+        "Andreas Hoegger",
+        "container",
+        1
+    ],
+    [
+        "Andreas Hoegger",
+        "name",
+        1
+    ],
+    [
+        "Andreas Hoegger",
+        "html",
+        1
+    ],
+    [
+        "Andreas Hoegger",
+        "properties",
+        1
+    ],
+    [
+        "Ralf Muri",
+        "js",
+        17
+    ],
+    [
+        "Ralf Muri",
+        "java",
+        2
+    ],
+    [
+        "Ralf Muri",
+        "less",
+        1
+    ],
+    [
+        "Beat Schwarzentrub",
+        "js",
+        22
+    ],
+    [
+        "Beat Schwarzentrub",
+        "java",
+        5
+    ],
+    [
+        "Adrian Egloff",
+        "js",
+        2
+    ],
+    [
+        "Adrian Egloff",
+        "java",
+        4
+    ],
+    [
+        "Arthur van Dorp",
+        "java",
+        6
+    ],
+    [
+        "Arthur van Dorp",
+        "properties",
+        5
+    ],
+    [
+        "Paolo Bazzi",
+        "java",
+        1
+    ],
+    [
+        "Ralph Steiner",
+        "java",
+        4
+    ],
+    [
+        "Andr\u00e9 Wegm\u00fcller",
+        "java",
+        9
+    ],
+    [
+        "Andr\u00e9 Wegm\u00fcller",
+        "js",
+        380
+    ],
+    [
+        "Andr\u00e9 Wegm\u00fcller",
+        "jsdtscope",
+        4
+    ],
+    [
+        "Andr\u00e9 Wegm\u00fcller",
+        "container",
+        3
+    ],
+    [
+        "Andr\u00e9 Wegm\u00fcller",
+        "name",
+        3
+    ],
+    [
+        "Andr\u00e9 Wegm\u00fcller",
+        "gitignore",
+        4
+    ],
+    [
+        "Andr\u00e9 Wegm\u00fcller",
+        "project",
+        3
+    ],
+    [
+        "Andr\u00e9 Wegm\u00fcller",
+        "prefs",
+        30
+    ],
+    [
+        "Andr\u00e9 Wegm\u00fcller",
+        "html",
+        10
+    ],
+    [
+        "Andr\u00e9 Wegm\u00fcller",
+        "json",
+        33
+    ],
+    [
+        "Andr\u00e9 Wegm\u00fcller",
+        "less",
+        54
+    ],
+    [
+        "Andr\u00e9 Wegm\u00fcller",
+        "css",
+        4
+    ],
+    [
+        "Andr\u00e9 Wegm\u00fcller",
+        "orig",
+        2
+    ],
+    [
+        "Michael Rudolf",
+        "java",
+        1
+    ],
+    [
+        "Stephan Merkli",
+        "java",
+        4
+    ],
+    [
+        "Ivan Motsch",
+        "java",
+        9
+    ],
+    [
+        "Patrick B\u00e4nziger",
+        "java",
+        3
+    ],
+    [
+        "Patrick B\u00e4nziger",
+        "js",
+        5
+    ],
+    [
+        "Patrick B\u00e4nziger",
+        "less",
+        1
+    ],
+    [
+        "Nino Weingart",
+        "java",
+        6
+    ],
+    [
+        "Nino Weingart",
+        "json",
+        1
+    ],
+    [
+        "Matthias Villiger",
+        "java",
+        103
+    ],
+    [
+        "Matthias Villiger",
+        "js",
+        33
+    ],
+    [
+        "Matthias Villiger",
+        "json",
+        11
+    ],
+    [
+        "Matthias Villiger",
+        "npmrc",
+        2
+    ],
+    [
+        "Matthias Villiger",
+        "less",
+        1
+    ],
+    [
+        "Matthias Villiger",
+        "gitignore",
+        2
+    ],
+    [
+        "Matthias Villiger",
+        "xml",
+        5
+    ],
+    [
+        "Matthias Villiger",
+        "iml",
+        1
+    ],
+    [
+        "Matthias Villiger",
+        "classpath",
+        1
+    ],
+    [
+        "Andi Bur",
+        "java",
+        6
+    ],
+    [
+        "Matthias Otterbach",
+        "java",
+        2
+    ],
+    [
+        "Daniel Schmid",
+        "gitignore",
+        2
+    ],
+    [
+        "Daniel Schmid",
+        "npmrc",
+        1
+    ],
+    [
+        "Daniel Schmid",
+        "iml",
+        3
+    ],
+    [
+        "Daniel Schmid",
+        "json",
+        5
+    ],
+    [
+        "Daniel Schmid",
+        "js",
+        17
+    ]
+]

@@ -1,0 +1,132 @@
+[
+    [
+        "David Joos",
+        "java",
+        41
+    ],
+    [
+        "David Joos",
+        "xml",
+        3
+    ],
+    [
+        "Yufei Cai",
+        "java",
+        394
+    ],
+    [
+        "Yufei Cai",
+        "json",
+        11
+    ],
+    [
+        "Yufei Cai",
+        "md",
+        28
+    ],
+    [
+        "Yufei Cai",
+        "xml",
+        13
+    ],
+    [
+        "Yufei Cai",
+        "yml",
+        3
+    ],
+    [
+        "Yufei Cai",
+        "html",
+        2
+    ],
+    [
+        "Yufei Cai",
+        "svg",
+        2
+    ],
+    [
+        "Yufei Cai",
+        "conf",
+        5
+    ],
+    [
+        "Thomas Jaeckle",
+        "java",
+        127
+    ],
+    [
+        "Thomas Jaeckle",
+        "yml",
+        1
+    ],
+    [
+        "Thomas Jaeckle",
+        "json",
+        3
+    ],
+    [
+        "Thomas Jaeckle",
+        "md",
+        7
+    ],
+    [
+        "Thomas Jaeckle",
+        "conf",
+        3
+    ],
+    [
+        "Thomas Jaeckle",
+        "xml",
+        1
+    ],
+    [
+        "Joel Bartelheimer",
+        "java",
+        48
+    ],
+    [
+        "Joel Bartelheimer",
+        "conf",
+        1
+    ],
+    [
+        "julian",
+        "java",
+        2
+    ],
+    [
+        "Dominik Guggemos",
+        "java",
+        18
+    ],
+    [
+        "Dominik Guggemos",
+        "MockMaker",
+        1
+    ],
+    [
+        "Stefan Maute",
+        "java",
+        15
+    ],
+    [
+        "Stefan Maute",
+        "conf",
+        2
+    ],
+    [
+        "Yannic Klem",
+        "java",
+        18
+    ],
+    [
+        "David Schwilk",
+        "java",
+        23
+    ],
+    [
+        "Florian Fendt",
+        "java",
+        16
+    ]
+]

@@ -1,0 +1,432 @@
+[
+    [
+        "Markus Rathgeb",
+        "java",
+        43
+    ],
+    [
+        "Markus Rathgeb",
+        "properties",
+        11
+    ],
+    [
+        "Markus Rathgeb",
+        "launch",
+        2
+    ],
+    [
+        "Markus Rathgeb",
+        "xml",
+        1
+    ],
+    [
+        "lolodomo",
+        "js",
+        2
+    ],
+    [
+        "lolodomo",
+        "MF",
+        2
+    ],
+    [
+        "lolodomo",
+        "java",
+        13
+    ],
+    [
+        "lolodomo",
+        "properties",
+        3
+    ],
+    [
+        "lolodomo",
+        "html",
+        1
+    ],
+    [
+        "Stefan Triller",
+        "java",
+        61
+    ],
+    [
+        "Stefan Triller",
+        "MF",
+        14
+    ],
+    [
+        "Stefan Triller",
+        "xml",
+        19
+    ],
+    [
+        "Stefan Triller",
+        "gitignore",
+        9
+    ],
+    [
+        "Stefan Triller",
+        "properties",
+        1
+    ],
+    [
+        "Stefan Triller",
+        "md",
+        10
+    ],
+    [
+        "Stefan Triller",
+        "js",
+        7
+    ],
+    [
+        "Stefan Triller",
+        "html",
+        5
+    ],
+    [
+        "Henning Treu",
+        "js",
+        3
+    ],
+    [
+        "Henning Treu",
+        "java",
+        17
+    ],
+    [
+        "Henning Treu",
+        "MF",
+        2
+    ],
+    [
+        "Simon Kaufmann",
+        "java",
+        26
+    ],
+    [
+        "Simon Kaufmann",
+        "MF",
+        2
+    ],
+    [
+        "Simon Kaufmann",
+        "md",
+        1
+    ],
+    [
+        "Simon Kaufmann",
+        "js",
+        1
+    ],
+    [
+        "Yordan",
+        "java",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "java",
+        2
+    ],
+    [
+        "Ga\u00ebl L'hopital",
+        "java",
+        5
+    ],
+    [
+        "Ga\u00ebl L'hopital",
+        "xml",
+        1
+    ],
+    [
+        "Ga\u00ebl L'hopital",
+        "md",
+        1
+    ],
+    [
+        "Jan Hendriks",
+        "java",
+        1
+    ],
+    [
+        "John Sichi",
+        "java",
+        4
+    ],
+    [
+        "John Sichi",
+        "xml",
+        1
+    ],
+    [
+        "Gary Tse",
+        "classpath",
+        2
+    ],
+    [
+        "Gary Tse",
+        "project",
+        2
+    ],
+    [
+        "Gary Tse",
+        "MF",
+        5
+    ],
+    [
+        "Gary Tse",
+        "test/NOTICE",
+        1
+    ],
+    [
+        "Gary Tse",
+        "gitignore",
+        2
+    ],
+    [
+        "Gary Tse",
+        "xml",
+        5
+    ],
+    [
+        "Gary Tse",
+        "md",
+        2
+    ],
+    [
+        "Gary Tse",
+        "properties",
+        2
+    ],
+    [
+        "Gary Tse",
+        "java",
+        25
+    ],
+    [
+        "Michael Reitler (former Michael Dicke)",
+        "classpath",
+        1
+    ],
+    [
+        "Michael Reitler (former Michael Dicke)",
+        "project",
+        1
+    ],
+    [
+        "Michael Reitler (former Michael Dicke)",
+        "xml",
+        6
+    ],
+    [
+        "Michael Reitler (former Michael Dicke)",
+        "MF",
+        1
+    ],
+    [
+        "Michael Reitler (former Michael Dicke)",
+        "homematic/NOTICE",
+        1
+    ],
+    [
+        "Michael Reitler (former Michael Dicke)",
+        "gitignore",
+        1
+    ],
+    [
+        "Michael Reitler (former Michael Dicke)",
+        "md",
+        1
+    ],
+    [
+        "Michael Reitler (former Michael Dicke)",
+        "properties",
+        7
+    ],
+    [
+        "Michael Reitler (former Michael Dicke)",
+        "java",
+        123
+    ],
+    [
+        "Michael Ochel",
+        "java",
+        24
+    ],
+    [
+        "Michael Ochel",
+        "md",
+        1
+    ],
+    [
+        "Wouter Born",
+        "html",
+        2
+    ],
+    [
+        "Wouter Born",
+        "js",
+        2
+    ],
+    [
+        "Lyubomir Papazov",
+        "gitignore",
+        2
+    ],
+    [
+        "Lyubomir Papazov",
+        "xml",
+        7
+    ],
+    [
+        "Lyubomir Papazov",
+        "java",
+        20
+    ],
+    [
+        "Lyubomir Papazov",
+        "MF",
+        3
+    ],
+    [
+        "adimova",
+        "MF",
+        14
+    ],
+    [
+        "adimova",
+        "java",
+        167
+    ],
+    [
+        "adimova",
+        "gitignore",
+        4
+    ],
+    [
+        "adimova",
+        "launch",
+        4
+    ],
+    [
+        "adimova",
+        "xml",
+        13
+    ],
+    [
+        "adimova",
+        "ucls",
+        1
+    ],
+    [
+        "adimova",
+        "classpath",
+        4
+    ],
+    [
+        "adimova",
+        "project",
+        7
+    ],
+    [
+        "adimova",
+        "properties",
+        4
+    ],
+    [
+        "adimova",
+        "groovy",
+        3
+    ],
+    [
+        "adimova",
+        "css",
+        1
+    ],
+    [
+        "adimova",
+        "js",
+        2
+    ],
+    [
+        "adimova",
+        "html",
+        1
+    ],
+    [
+        "Alexander Kostadinov",
+        "java",
+        1
+    ],
+    [
+        "Florian Stolte",
+        "xml",
+        1
+    ],
+    [
+        "Florian Stolte",
+        "java",
+        6
+    ],
+    [
+        "vzorglub",
+        "java",
+        2
+    ],
+    [
+        "Martin van Wingerden",
+        "MF",
+        1
+    ],
+    [
+        "Martin van Wingerden",
+        "launch",
+        1
+    ],
+    [
+        "Martin van Wingerden",
+        "xml",
+        1
+    ],
+    [
+        "Martin van Wingerden",
+        "java",
+        5
+    ],
+    [
+        "David Gr\u00e4ff",
+        "MF",
+        4
+    ],
+    [
+        "David Gr\u00e4ff",
+        "launch",
+        2
+    ],
+    [
+        "David Gr\u00e4ff",
+        "java",
+        29
+    ],
+    [
+        "David Gr\u00e4ff",
+        "xml",
+        4
+    ],
+    [
+        "Christoph Weitkamp",
+        "java",
+        1
+    ],
+    [
+        "Velichko Stoykov",
+        "MF",
+        1
+    ],
+    [
+        "Velichko Stoykov",
+        "java",
+        1
+    ]
+]

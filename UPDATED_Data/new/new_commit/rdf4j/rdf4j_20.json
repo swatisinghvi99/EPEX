@@ -1,0 +1,287 @@
+[
+    [
+        "James Leigh",
+        "java",
+        7531
+    ],
+    [
+        "James Leigh",
+        "xml",
+        405
+    ],
+    [
+        "James Leigh",
+        "md",
+        5
+    ],
+    [
+        "James Leigh",
+        "sh",
+        5
+    ],
+    [
+        "James Leigh",
+        "ttl",
+        1288
+    ],
+    [
+        "James Leigh",
+        "rq",
+        965
+    ],
+    [
+        "James Leigh",
+        "srx",
+        518
+    ],
+    [
+        "James Leigh",
+        "txt",
+        25
+    ],
+    [
+        "James Leigh",
+        "rdfs",
+        1
+    ],
+    [
+        "James Leigh",
+        "kml",
+        1
+    ],
+    [
+        "James Leigh",
+        "nq",
+        193
+    ],
+    [
+        "James Leigh",
+        "unknown",
+        10
+    ],
+    [
+        "James Leigh",
+        "nt",
+        508
+    ],
+    [
+        "James Leigh",
+        "rj",
+        36
+    ],
+    [
+        "James Leigh",
+        "rdf",
+        221
+    ],
+    [
+        "James Leigh",
+        "trig",
+        345
+    ],
+    [
+        "James Leigh",
+        "serql",
+        84
+    ],
+    [
+        "James Leigh",
+        "html",
+        137
+    ],
+    [
+        "James Leigh",
+        "0-w3c/data-r2/LICENSE",
+        1
+    ],
+    [
+        "James Leigh",
+        "0-w3c/data-r2/README",
+        1
+    ],
+    [
+        "James Leigh",
+        "ru",
+        155
+    ],
+    [
+        "James Leigh",
+        "csv",
+        3
+    ],
+    [
+        "James Leigh",
+        "tsv",
+        3
+    ],
+    [
+        "James Leigh",
+        "srj",
+        22
+    ],
+    [
+        "James Leigh",
+        "1-w3c/service/README",
+        1
+    ],
+    [
+        "James Leigh",
+        "bat",
+        3
+    ],
+    [
+        "James Leigh",
+        "properties",
+        26
+    ],
+    [
+        "James Leigh",
+        "springBeans",
+        3
+    ],
+    [
+        "James Leigh",
+        "jspf",
+        47
+    ],
+    [
+        "James Leigh",
+        "tld",
+        3
+    ],
+    [
+        "James Leigh",
+        "tag",
+        3
+    ],
+    [
+        "James Leigh",
+        "jsp",
+        18
+    ],
+    [
+        "James Leigh",
+        "css",
+        34
+    ],
+    [
+        "James Leigh",
+        "xsl",
+        120
+    ],
+    [
+        "James Leigh",
+        "js",
+        50
+    ],
+    [
+        "James Leigh",
+        "map",
+        47
+    ],
+    [
+        "James Leigh",
+        "ts",
+        50
+    ],
+    [
+        "James Leigh",
+        "yml",
+        2
+    ],
+    [
+        "James Leigh",
+        "Function",
+        12
+    ],
+    [
+        "James Leigh",
+        "jjt",
+        8
+    ],
+    [
+        "James Leigh",
+        "QueryParserFactory",
+        8
+    ],
+    [
+        "James Leigh",
+        "gitignore",
+        4
+    ],
+    [
+        "James Leigh",
+        "TupleQueryResultParserFactory",
+        16
+    ],
+    [
+        "James Leigh",
+        "TupleQueryResultWriterFactory",
+        16
+    ],
+    [
+        "James Leigh",
+        "BooleanQueryResultParserFactory",
+        12
+    ],
+    [
+        "James Leigh",
+        "BooleanQueryResultWriterFactory",
+        12
+    ],
+    [
+        "James Leigh",
+        "RepositoryFactory",
+        24
+    ],
+    [
+        "James Leigh",
+        "FileTypeDetector",
+        4
+    ],
+    [
+        "James Leigh",
+        "RDFParserFactory",
+        40
+    ],
+    [
+        "James Leigh",
+        "RDFWriterFactory",
+        40
+    ],
+    [
+        "James Leigh",
+        "DatatypeHandler",
+        4
+    ],
+    [
+        "James Leigh",
+        "LanguageHandler",
+        4
+    ],
+    [
+        "James Leigh",
+        "trix",
+        4
+    ],
+    [
+        "James Leigh",
+        "SailFactory",
+        32
+    ],
+    [
+        "James Leigh",
+        "apt",
+        4
+    ],
+    [
+        "James Leigh",
+        "TupleFunction",
+        8
+    ],
+    [
+        "Pavel Mihaylov",
+        "java",
+        4
+    ]
+]

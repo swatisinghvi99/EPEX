@@ -1,0 +1,152 @@
+[
+    [
+        "Jean-Christian Kouame",
+        "java",
+        17
+    ],
+    [
+        "Jean-Christian Kouame",
+        "MF",
+        2
+    ],
+    [
+        "Jean-Christian Kouame",
+        "target",
+        1
+    ],
+    [
+        "Loic Prieur-Drevon",
+        "java",
+        32
+    ],
+    [
+        "Loic Prieur-Drevon",
+        "xml",
+        4
+    ],
+    [
+        "Loic Prieur-Drevon",
+        "properties",
+        2
+    ],
+    [
+        "Loic Prieur-Drevon",
+        "exsd",
+        1
+    ],
+    [
+        "Loic Prieur-Drevon",
+        "MF",
+        4
+    ],
+    [
+        "Loic Prieur-Drevon",
+        "tests/resources/controlFlowViewExpectedData/getEntryList",
+        1
+    ],
+    [
+        "Loic Prieur-Drevon",
+        "tests/resources/controlFlowViewExpectedData/getLinkList",
+        1
+    ],
+    [
+        "Bernd Hufmann",
+        "MF",
+        1
+    ],
+    [
+        "Bernd Hufmann",
+        "java",
+        14
+    ],
+    [
+        "Matthew Khouzam",
+        "java",
+        5
+    ],
+    [
+        "Matthew Khouzam",
+        "xml",
+        3
+    ],
+    [
+        "Matthew Khouzam",
+        "exsd",
+        1
+    ],
+    [
+        "Simon Delisle",
+        "java",
+        29
+    ],
+    [
+        "Simon Delisle",
+        "properties",
+        1
+    ],
+    [
+        "Simon Delisle",
+        "mediawiki",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "java",
+        84
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "xml",
+        5
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "MF",
+        5
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "classpath",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "properties",
+        4
+    ],
+    [
+        "Patrick Tasse",
+        "java",
+        30
+    ],
+    [
+        "Patrick Tasse",
+        "MF",
+        1
+    ],
+    [
+        "Patrick Tasse",
+        "properties",
+        1
+    ],
+    [
+        "Patrick Tasse",
+        "api_filters",
+        1
+    ],
+    [
+        "Lo\u00efc Prieur-Drevon",
+        "MF",
+        1
+    ],
+    [
+        "Lo\u00efc Prieur-Drevon",
+        "xml",
+        1
+    ],
+    [
+        "Lo\u00efc Prieur-Drevon",
+        "java",
+        9
+    ]
+]

@@ -1,0 +1,82 @@
+[
+    [
+        "Juergen Rose",
+        "yml",
+        1
+    ],
+    [
+        "Juergen Rose",
+        "unknown",
+        1
+    ],
+    [
+        "Juergen Rose",
+        "MF",
+        304
+    ],
+    [
+        "Juergen Rose",
+        "project",
+        2
+    ],
+    [
+        "Juergen Rose",
+        "xml",
+        328
+    ],
+    [
+        "Juergen Rose",
+        "properties",
+        12
+    ],
+    [
+        "Juergen Rose",
+        "isv/input/javase-8/package-list",
+        1
+    ],
+    [
+        "Juergen Rose",
+        "isv/input/osgi-r6-core/package-list",
+        1
+    ],
+    [
+        "Juergen Rose",
+        "isv/input/osgi-r6-enterprise/package-list",
+        1
+    ],
+    [
+        "Juergen Rose",
+        "java",
+        10
+    ],
+    [
+        "Juergen Rose",
+        "gitignore",
+        19
+    ],
+    [
+        "Juergen Rose",
+        "target",
+        1
+    ],
+    [
+        "Juergen Rose",
+        "tpd",
+        1
+    ],
+    [
+        "Juergen Rose",
+        "doc/input/javase-8/package-list",
+        1
+    ],
+    [
+        "Juergen Rose",
+        "doc/input/osgi-r6-core/package-list",
+        1
+    ],
+    [
+        "Juergen Rose",
+        "doc/input/osgi-r6-enterprise/package-list",
+        1
+    ]
+]

@@ -1,0 +1,132 @@
+[
+    [
+        "Ed Merks",
+        "gitignore",
+        1
+    ],
+    [
+        "Ed Merks",
+        "project",
+        23
+    ],
+    [
+        "Ed Merks",
+        "launch",
+        3
+    ],
+    [
+        "Ed Merks",
+        "target",
+        3
+    ],
+    [
+        "Ed Merks",
+        "classpath",
+        14
+    ],
+    [
+        "Ed Merks",
+        "prefs",
+        52
+    ],
+    [
+        "Ed Merks",
+        "edit/COPYRIGHT",
+        2
+    ],
+    [
+        "Ed Merks",
+        "MF",
+        15
+    ],
+    [
+        "Ed Merks",
+        "properties",
+        33
+    ],
+    [
+        "Ed Merks",
+        "xml",
+        38
+    ],
+    [
+        "Ed Merks",
+        "java",
+        588
+    ],
+    [
+        "Ed Merks",
+        "editor/COPYRIGHT",
+        1
+    ],
+    [
+        "Ed Merks",
+        "maven/COPYRIGHT",
+        2
+    ],
+    [
+        "Ed Merks",
+        "engine/COPYRIGHT",
+        1
+    ],
+    [
+        "Ed Merks",
+        "ui/COPYRIGHT",
+        1
+    ],
+    [
+        "Ed Merks",
+        "legacy/COPYRIGHT",
+        1
+    ],
+    [
+        "Ed Merks",
+        "aggregator/COPYRIGHT",
+        1
+    ],
+    [
+        "Ed Merks",
+        "genmodel",
+        4
+    ],
+    [
+        "Ed Merks",
+        "txt",
+        1
+    ],
+    [
+        "Ed Merks",
+        "product",
+        1
+    ],
+    [
+        "Ed Merks",
+        "cli/COPYRIGHT",
+        1
+    ],
+    [
+        "Ed Merks",
+        "indexer/COPYRIGHT",
+        1
+    ],
+    [
+        "Ed Merks",
+        "tests/COPYRIGHT",
+        1
+    ],
+    [
+        "Ed Merks",
+        "p2/COPYRIGHT",
+        1
+    ],
+    [
+        "Ed Merks",
+        "util/COPYRIGHT",
+        1
+    ],
+    [
+        "Ed Merks",
+        "tycho/COPYRIGHT",
+        1
+    ]
+]

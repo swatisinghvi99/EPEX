@@ -1,0 +1,92 @@
+[
+    [
+        "BJ Hargrave",
+        "prefs",
+        12
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        7
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        195
+    ],
+    [
+        "BJ Hargrave",
+        "md",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "zigbee/src/org/osgi/test/cases/zigbee/mock/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "zigbee/src/org/osgi/test/cases/zigbee/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "xml",
+        5
+    ],
+    [
+        "BJ Hargrave",
+        "xsd",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "svg",
+        6
+    ],
+    [
+        "Raymond Auge",
+        "java",
+        57
+    ],
+    [
+        "Tim Ward",
+        "java",
+        3
+    ],
+    [
+        "Christian Schneider",
+        "mvn",
+        2
+    ],
+    [
+        "Christian Schneider",
+        "lib",
+        2
+    ],
+    [
+        "Christian Schneider",
+        "bnd",
+        3
+    ],
+    [
+        "Christian Schneider",
+        "java",
+        3
+    ],
+    [
+        "Tim Verbelen",
+        "bnd",
+        3
+    ],
+    [
+        "Tim Verbelen",
+        "json",
+        3
+    ],
+    [
+        "Tim Verbelen",
+        "java",
+        2
+    ]
+]

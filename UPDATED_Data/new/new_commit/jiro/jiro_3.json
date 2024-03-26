@@ -1,0 +1,207 @@
+[
+    [
+        "Frederic Gurr",
+        "sh",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "dash/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "json",
+        19
+    ],
+    [
+        "Frederic Gurr",
+        "yml",
+        133
+    ],
+    [
+        "Frederic Gurr",
+        "js",
+        11
+    ],
+    [
+        "Frederic Gurr",
+        "hbs",
+        10
+    ],
+    [
+        "Frederic Gurr",
+        "osee/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "swtbot/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "acute/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "acute/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "acute/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "override",
+        8
+    ],
+    [
+        "Frederic Gurr",
+        "equinox/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "equinox/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "equinox/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "bpmn2/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "ebr/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "etrice/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "etrice/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "etrice/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "rmf/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "uomo/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "ptp/target/Dockerfile",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "json",
+        22
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "jakartaee-tck/target/Dockerfile",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "yml",
+        78
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "js",
+        10
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "jsonnet",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "hbs",
+        6
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "cdt/target/Dockerfile",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "egit/target/Dockerfile",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "groovy",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "sh",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "basyx/target/Dockerfile",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "statet/target/Dockerfile",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "override",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "orion/target/Dockerfile",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "recommenders/target/Dockerfile",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "ecf/target/Dockerfile",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "linuxtools/target/Dockerfile",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "cbi/target/Dockerfile",
+        1
+    ]
+]

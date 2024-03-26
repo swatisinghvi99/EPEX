@@ -1,0 +1,437 @@
+[
+    [
+        "Sergey Prigogin",
+        "java",
+        258
+    ],
+    [
+        "Sergey Prigogin",
+        "properties",
+        1
+    ],
+    [
+        "Marc Khouzam",
+        "java",
+        57
+    ],
+    [
+        "Marc Khouzam",
+        "properties",
+        15
+    ],
+    [
+        "Marc Khouzam",
+        "launch",
+        2
+    ],
+    [
+        "Marc Khouzam",
+        "project",
+        5
+    ],
+    [
+        "Marc Khouzam",
+        "xml",
+        14
+    ],
+    [
+        "Marc Khouzam",
+        "classpath",
+        3
+    ],
+    [
+        "Marc Khouzam",
+        "prefs",
+        2
+    ],
+    [
+        "Marc Khouzam",
+        "MF",
+        6
+    ],
+    [
+        "Marc Khouzam",
+        "html",
+        4
+    ],
+    [
+        "Marc Khouzam",
+        "txt",
+        2
+    ],
+    [
+        "Marc Khouzam",
+        "ini",
+        1
+    ],
+    [
+        "Marc Khouzam",
+        "mappings",
+        1
+    ],
+    [
+        "Marc Khouzam",
+        "cvsignore",
+        2
+    ],
+    [
+        "Marc Khouzam",
+        "qnx/ChangeLog",
+        1
+    ],
+    [
+        "Marc Khouzam",
+        "qnx/library/Makefile",
+        1
+    ],
+    [
+        "Marc Khouzam",
+        "qnx/library/pty/Makefile",
+        1
+    ],
+    [
+        "Marc Khouzam",
+        "h",
+        8
+    ],
+    [
+        "Marc Khouzam",
+        "mk",
+        2
+    ],
+    [
+        "Marc Khouzam",
+        "c",
+        6
+    ],
+    [
+        "Marc Khouzam",
+        "qnx/library/pty/x86/Makefile",
+        1
+    ],
+    [
+        "Marc Khouzam",
+        "qnx/library/pty/x86/so/Makefile",
+        1
+    ],
+    [
+        "Marc Khouzam",
+        "qnx/library/spawner/Makefile",
+        1
+    ],
+    [
+        "Marc Khouzam",
+        "qnx/library/spawner/x86/Makefile",
+        1
+    ],
+    [
+        "Marc Khouzam",
+        "qnx/library/spawner/x86/so/Makefile",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        85
+    ],
+    [
+        "Doug Schaefer",
+        "prefs",
+        20
+    ],
+    [
+        "Doug Schaefer",
+        "xml",
+        2
+    ],
+    [
+        "Nathan Ridge",
+        "java",
+        2
+    ],
+    [
+        "Teodor Madan",
+        "java",
+        3
+    ],
+    [
+        "Teodor Madan",
+        "properties",
+        1
+    ],
+    [
+        "Marc Dumais",
+        "java",
+        36
+    ],
+    [
+        "Marc Dumais",
+        "properties",
+        1
+    ],
+    [
+        "raddepal",
+        "java",
+        7
+    ],
+    [
+        "Wainer dos Santos Moschetta",
+        "java",
+        13
+    ],
+    [
+        "Wainer dos Santos Moschetta",
+        "properties",
+        4
+    ],
+    [
+        "Wainer dos Santos Moschetta",
+        "classpath",
+        1
+    ],
+    [
+        "Wainer dos Santos Moschetta",
+        "project",
+        1
+    ],
+    [
+        "Wainer dos Santos Moschetta",
+        "prefs",
+        1
+    ],
+    [
+        "Wainer dos Santos Moschetta",
+        "MF",
+        2
+    ],
+    [
+        "Uwe Stieber",
+        "java",
+        12
+    ],
+    [
+        "Uwe Stieber",
+        "properties",
+        3
+    ],
+    [
+        "Jonah Graham",
+        "MF",
+        11
+    ],
+    [
+        "Jonah Graham",
+        "xml",
+        20
+    ],
+    [
+        "Jonah Graham",
+        "java",
+        779
+    ],
+    [
+        "Jonah Graham",
+        "product",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "launch",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "ini",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "classpath",
+        4
+    ],
+    [
+        "Jonah Graham",
+        "prefs",
+        5
+    ],
+    [
+        "Jonah Graham",
+        "properties",
+        21
+    ],
+    [
+        "Jonah Graham",
+        "exsd",
+        2
+    ],
+    [
+        "Jonah Graham",
+        "cvsignore",
+        3
+    ],
+    [
+        "Jonah Graham",
+        "options",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "project",
+        3
+    ],
+    [
+        "Jonah Graham",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "core/ChangeLog-2003",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "html",
+        3
+    ],
+    [
+        "Jonah Graham",
+        "txt",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "tests/Changelog",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "map",
+        1
+    ],
+    [
+        "Greg Watson",
+        "java",
+        12
+    ],
+    [
+        "Greg Watson",
+        "properties",
+        1
+    ],
+    [
+        "Mario Pierro",
+        "java",
+        4
+    ],
+    [
+        "Alena Laskavaia",
+        "java",
+        481
+    ],
+    [
+        "Alena Laskavaia",
+        "properties",
+        2
+    ],
+    [
+        "Alena Laskavaia",
+        "xml",
+        3
+    ],
+    [
+        "Alena Laskavaia",
+        "classpath",
+        1
+    ],
+    [
+        "Alena Laskavaia",
+        "prefs",
+        1
+    ],
+    [
+        "Alena Laskavaia",
+        "MF",
+        2
+    ],
+    [
+        "Alena Laskavaia",
+        "launch",
+        1
+    ],
+    [
+        "Jesper Eskilson",
+        "java",
+        10
+    ],
+    [
+        "Jesper Eskilson",
+        "xml",
+        1
+    ],
+    [
+        "Jesper Eskilson",
+        "properties",
+        1
+    ],
+    [
+        "Jonathan Williams",
+        "project",
+        1
+    ],
+    [
+        "Jonathan Williams",
+        "MF",
+        1
+    ],
+    [
+        "Jonathan Williams",
+        "xml",
+        4
+    ],
+    [
+        "Jonathan Williams",
+        "exsd",
+        2
+    ],
+    [
+        "Jonathan Williams",
+        "java",
+        11
+    ],
+    [
+        "Simon Marchi",
+        "java",
+        1
+    ],
+    [
+        "Rob Stryker",
+        "java",
+        1
+    ],
+    [
+        "Alvaro Sanchez-Leon",
+        "java",
+        35
+    ],
+    [
+        "Alvaro Sanchez-Leon",
+        "api_filters",
+        1
+    ],
+    [
+        "Alvaro Sanchez-Leon",
+        "MF",
+        1
+    ],
+    [
+        "Alvaro Sanchez-Leon",
+        "xml",
+        1
+    ]
+]

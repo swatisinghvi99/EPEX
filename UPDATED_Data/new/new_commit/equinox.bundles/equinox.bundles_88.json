@@ -1,0 +1,82 @@
+[
+    [
+        "John Ross",
+        "java",
+        11
+    ],
+    [
+        "John Ross",
+        "MF",
+        1
+    ],
+    [
+        "John Ross",
+        "coordinator/src/org/osgi/service/coordinator/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "xml",
+        5
+    ],
+    [
+        "Thomas Watson",
+        "java",
+        40
+    ],
+    [
+        "Thomas Watson",
+        "MF",
+        3
+    ],
+    [
+        "Stoyan Boshev",
+        "java",
+        5
+    ],
+    [
+        "Stoyan Boshev",
+        "xml",
+        1
+    ],
+    [
+        "Markus Keller",
+        "prefs",
+        2
+    ],
+    [
+        "Markus Keller",
+        "xml",
+        2
+    ],
+    [
+        "Markus Keller",
+        "java",
+        14
+    ],
+    [
+        "Markus Keller",
+        "properties",
+        1
+    ],
+    [
+        "Markus Keller",
+        "exsd",
+        1
+    ],
+    [
+        "Martin Lippert",
+        "java",
+        6
+    ],
+    [
+        "Martin Lippert",
+        "MF",
+        1
+    ],
+    [
+        "Martin Lippert",
+        "xml",
+        1
+    ]
+]

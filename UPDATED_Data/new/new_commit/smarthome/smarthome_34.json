@@ -1,0 +1,452 @@
+[
+    [
+        "Kai Kreuzer",
+        "java",
+        46
+    ],
+    [
+        "Kai Kreuzer",
+        "MF",
+        5
+    ],
+    [
+        "Kai Kreuzer",
+        "xml",
+        12
+    ],
+    [
+        "Kai Kreuzer",
+        "groovy",
+        2
+    ],
+    [
+        "Kai Kreuzer",
+        "classpath",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "project",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "html",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "properties",
+        1
+    ],
+    [
+        "Thomas H\u00f6fer",
+        "groovy",
+        2
+    ],
+    [
+        "plamen-peev",
+        "groovy",
+        1
+    ],
+    [
+        "plamen-peev",
+        "json",
+        1
+    ],
+    [
+        "plamen-peev",
+        "xml",
+        1
+    ],
+    [
+        "plamen-peev",
+        "java",
+        2
+    ],
+    [
+        "Hans-J\u00f6rg Merk",
+        "xml",
+        1
+    ],
+    [
+        "Hans-J\u00f6rg Merk",
+        "md",
+        1
+    ],
+    [
+        "Hans-J\u00f6rg Merk",
+        "java",
+        4
+    ],
+    [
+        "aounhaider1",
+        "js",
+        12
+    ],
+    [
+        "aounhaider1",
+        "html",
+        8
+    ],
+    [
+        "aounhaider1",
+        "css",
+        3
+    ],
+    [
+        "Vlad Ivanov",
+        "html",
+        16
+    ],
+    [
+        "Vlad Ivanov",
+        "java",
+        8
+    ],
+    [
+        "Vlad Ivanov",
+        "js",
+        4
+    ],
+    [
+        "Vlad Ivanov",
+        "less",
+        2
+    ],
+    [
+        "Vlad Ivanov",
+        "css",
+        2
+    ],
+    [
+        "Alexander Kostadinov",
+        "groovy",
+        3
+    ],
+    [
+        "Alexander Kostadinov",
+        "properties",
+        2
+    ],
+    [
+        "Alexander Kostadinov",
+        "MF",
+        1
+    ],
+    [
+        "Alexander Kostadinov",
+        "java",
+        3
+    ],
+    [
+        "Simon Kaufmann",
+        "launch",
+        2
+    ],
+    [
+        "Simon Kaufmann",
+        "groovy",
+        9
+    ],
+    [
+        "Simon Kaufmann",
+        "MF",
+        3
+    ],
+    [
+        "Simon Kaufmann",
+        "java",
+        44
+    ],
+    [
+        "Simon Kaufmann",
+        "xtext",
+        2
+    ],
+    [
+        "Simon Kaufmann",
+        "xtend",
+        2
+    ],
+    [
+        "Simon Kaufmann",
+        "md",
+        2
+    ],
+    [
+        "Simon Kaufmann",
+        "properties",
+        1
+    ],
+    [
+        "Simon Kaufmann",
+        "xml",
+        3
+    ],
+    [
+        "Markus Rathgeb",
+        "java",
+        7
+    ],
+    [
+        "Markus Rathgeb",
+        "groovy",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "MF",
+        3
+    ],
+    [
+        "Ivan Iliev",
+        "java",
+        21
+    ],
+    [
+        "Ivan Iliev",
+        "xml",
+        18
+    ],
+    [
+        "Ivan Iliev",
+        "groovy",
+        2
+    ],
+    [
+        "Ivan Iliev",
+        "MF",
+        1
+    ],
+    [
+        "Wouter Born",
+        "java",
+        3
+    ],
+    [
+        "Wouter Born",
+        "html",
+        1
+    ],
+    [
+        "Svilen",
+        "classpath",
+        1
+    ],
+    [
+        "Svilen",
+        "project",
+        1
+    ],
+    [
+        "Svilen",
+        "prefs",
+        1
+    ],
+    [
+        "Svilen",
+        "MF",
+        1
+    ],
+    [
+        "Svilen",
+        "properties",
+        1
+    ],
+    [
+        "Svilen",
+        "launch",
+        1
+    ],
+    [
+        "Svilen",
+        "xml",
+        2
+    ],
+    [
+        "Svilen",
+        "groovy",
+        17
+    ],
+    [
+        "Svilen",
+        "java",
+        1
+    ],
+    [
+        "Petar Valchev",
+        "classpath",
+        2
+    ],
+    [
+        "Petar Valchev",
+        "project",
+        2
+    ],
+    [
+        "Petar Valchev",
+        "MF",
+        2
+    ],
+    [
+        "Petar Valchev",
+        "launch",
+        2
+    ],
+    [
+        "Petar Valchev",
+        "properties",
+        2
+    ],
+    [
+        "Petar Valchev",
+        "xml",
+        5
+    ],
+    [
+        "Petar Valchev",
+        "groovy",
+        5
+    ],
+    [
+        "Petar Valchev",
+        "java",
+        3
+    ],
+    [
+        "Petar Valchev",
+        "cfg",
+        58
+    ],
+    [
+        "Petar Valchev",
+        "txt",
+        2
+    ],
+    [
+        "Mihaela Memova",
+        "classpath",
+        1
+    ],
+    [
+        "Mihaela Memova",
+        "project",
+        1
+    ],
+    [
+        "Mihaela Memova",
+        "launch",
+        1
+    ],
+    [
+        "Mihaela Memova",
+        "MF",
+        2
+    ],
+    [
+        "Mihaela Memova",
+        "html",
+        1
+    ],
+    [
+        "Mihaela Memova",
+        "properties",
+        1
+    ],
+    [
+        "Mihaela Memova",
+        "xml",
+        2
+    ],
+    [
+        "Mihaela Memova",
+        "groovy",
+        1
+    ],
+    [
+        "Mihaela Memova",
+        "java",
+        4
+    ],
+    [
+        "Karel Goderis",
+        "java",
+        6
+    ],
+    [
+        "Andre Fuechsel",
+        "java",
+        2
+    ],
+    [
+        "Andre Fuechsel",
+        "groovy",
+        2
+    ],
+    [
+        "vilchev",
+        "java",
+        13
+    ],
+    [
+        "vilchev",
+        "MF",
+        1
+    ],
+    [
+        "vilchev",
+        "xml",
+        5
+    ],
+    [
+        "vilchev",
+        "properties",
+        2
+    ],
+    [
+        "vilchev",
+        "groovy",
+        3
+    ],
+    [
+        "Martin K\u00fchl",
+        "groovy",
+        1
+    ],
+    [
+        "adimova",
+        "java",
+        11
+    ],
+    [
+        "adimova",
+        "xml",
+        1
+    ],
+    [
+        "adimova",
+        "json",
+        1
+    ],
+    [
+        "Christoph Knauf",
+        "groovy",
+        1
+    ],
+    [
+        "Christoph Knauf",
+        "java",
+        3
+    ],
+    [
+        "Dimitar Ivanov",
+        "MF",
+        1
+    ],
+    [
+        "Dimitar Ivanov",
+        "java",
+        1
+    ]
+]

@@ -1,0 +1,232 @@
+[
+    [
+        "Andrew Niefer",
+        "java",
+        401
+    ],
+    [
+        "Andrew Niefer",
+        "properties",
+        3
+    ],
+    [
+        "Vladimir Hirsl",
+        "xml",
+        4
+    ],
+    [
+        "Vladimir Hirsl",
+        "exsd",
+        1
+    ],
+    [
+        "Vladimir Hirsl",
+        "java",
+        57
+    ],
+    [
+        "Vladimir Hirsl",
+        "properties",
+        2
+    ],
+    [
+        "Vladimir Hirsl",
+        "core/ChangeLog",
+        3
+    ],
+    [
+        "Vladimir Hirsl",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "John Camelon",
+        "java",
+        392
+    ],
+    [
+        "John Camelon",
+        "classpath",
+        1
+    ],
+    [
+        "John Camelon",
+        "properties",
+        2
+    ],
+    [
+        "John Camelon",
+        "xml",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "java",
+        69
+    ],
+    [
+        "Alain Magloire",
+        "core/ChangeLog",
+        16
+    ],
+    [
+        "Alain Magloire",
+        "ui/ChangeLog",
+        6
+    ],
+    [
+        "Alain Magloire",
+        "xml",
+        5
+    ],
+    [
+        "Alain Magloire",
+        "properties",
+        5
+    ],
+    [
+        "Alain Magloire",
+        "core/index/ChangeLog",
+        1
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "ui/ChangeLog",
+        4
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        29
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "core/ChangeLog",
+        3
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "properties",
+        3
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "xml",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "properties",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "xml",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "exsd",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        25
+    ],
+    [
+        "Bogdan Gheorghe",
+        "tests/ChangeLog",
+        2
+    ],
+    [
+        "Bogdan Gheorghe",
+        "java",
+        78
+    ],
+    [
+        "Bogdan Gheorghe",
+        "core/ChangeLog",
+        2
+    ],
+    [
+        "Bogdan Gheorghe",
+        "core/browser/ChangeLog-browser",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "core/dependency/ChangeLog",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "core/index/ChangeLog",
+        3
+    ],
+    [
+        "Bogdan Gheorghe",
+        "xml",
+        3
+    ],
+    [
+        "Bogdan Gheorghe",
+        "exsd",
+        2
+    ],
+    [
+        "Bogdan Gheorghe",
+        "core/search/ChangeLog",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "properties",
+        1
+    ],
+    [
+        "David Inglis",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "David Inglis",
+        "java",
+        23
+    ],
+    [
+        "David Inglis",
+        "classpath",
+        2
+    ],
+    [
+        "David Inglis",
+        "properties",
+        2
+    ],
+    [
+        "David Inglis",
+        "xml",
+        3
+    ],
+    [
+        "David Inglis",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "David Inglis",
+        "cvsignore",
+        1
+    ],
+    [
+        "David Inglis",
+        "project",
+        1
+    ]
+]

@@ -1,0 +1,242 @@
+[
+    [
+        "Nathan Ridge",
+        "java",
+        8
+    ],
+    [
+        "Torbj\u00f6rn Svensson",
+        "MF",
+        1
+    ],
+    [
+        "Torbj\u00f6rn Svensson",
+        "java",
+        1
+    ],
+    [
+        "Alexander Fedorov",
+        "java",
+        1
+    ],
+    [
+        "Marco Stornelli",
+        "java",
+        16
+    ],
+    [
+        "Marco Stornelli",
+        "properties",
+        2
+    ],
+    [
+        "Jonah Graham",
+        "MF",
+        68
+    ],
+    [
+        "Jonah Graham",
+        "java",
+        2203
+    ],
+    [
+        "Jonah Graham",
+        "gitignore",
+        5
+    ],
+    [
+        "Jonah Graham",
+        "project",
+        90
+    ],
+    [
+        "Jonah Graham",
+        "adoc",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "target",
+        10
+    ],
+    [
+        "Jonah Graham",
+        "classpath",
+        57
+    ],
+    [
+        "Jonah Graham",
+        "cvsignore",
+        54
+    ],
+    [
+        "Jonah Graham",
+        "txt",
+        33
+    ],
+    [
+        "Jonah Graham",
+        "html",
+        232
+    ],
+    [
+        "Jonah Graham",
+        "css",
+        5
+    ],
+    [
+        "Jonah Graham",
+        "properties",
+        311
+    ],
+    [
+        "Jonah Graham",
+        "xml",
+        216
+    ],
+    [
+        "Jonah Graham",
+        "ini",
+        24
+    ],
+    [
+        "Jonah Graham",
+        "mappings",
+        24
+    ],
+    [
+        "Jonah Graham",
+        "prefs",
+        80
+    ],
+    [
+        "Jonah Graham",
+        "api_filters",
+        10
+    ],
+    [
+        "Jonah Graham",
+        "jardesc",
+        5
+    ],
+    [
+        "Jonah Graham",
+        "options",
+        7
+    ],
+    [
+        "Jonah Graham",
+        "exsd",
+        13
+    ],
+    [
+        "Jonah Graham",
+        "dtd",
+        2
+    ],
+    [
+        "Jonah Graham",
+        "rmtjardesc",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "dat",
+        4
+    ],
+    [
+        "Jonah Graham",
+        "pl",
+        8
+    ],
+    [
+        "Jonah Graham",
+        "sh",
+        2
+    ],
+    [
+        "Jonah Graham",
+        "bat",
+        3
+    ],
+    [
+        "Jonah Graham",
+        "launch",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "sln",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "vcproj",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "cpp",
+        5
+    ],
+    [
+        "Jonah Graham",
+        "h",
+        5
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        395
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        13
+    ],
+    [
+        "Alexander Kurtakov",
+        "classpath",
+        4
+    ],
+    [
+        "Fabrizio Iannetti",
+        "java",
+        1
+    ],
+    [
+        "Joost Kraaijeveld",
+        "xml",
+        1
+    ],
+    [
+        "Joost Kraaijeveld",
+        "java",
+        4
+    ],
+    [
+        "Joost Kraaijeveld",
+        "api_filters",
+        2
+    ],
+    [
+        "Joost Kraaijeveld",
+        "MF",
+        1
+    ],
+    [
+        "John Dallaway",
+        "api_filters",
+        1
+    ],
+    [
+        "John Dallaway",
+        "java",
+        2
+    ],
+    [
+        "John Dallaway",
+        "MF",
+        1
+    ]
+]

@@ -1,0 +1,247 @@
+[
+    [
+        "John Camelon",
+        "java",
+        314
+    ],
+    [
+        "John Camelon",
+        "properties",
+        4
+    ],
+    [
+        "John Camelon",
+        "xml",
+        1
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "ui/ChangeLog",
+        5
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        51
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "properties",
+        10
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "core/ChangeLog",
+        4
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "xml",
+        2
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "launch/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Niefer",
+        "java",
+        280
+    ],
+    [
+        "Andrew Niefer",
+        "properties",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "java",
+        124
+    ],
+    [
+        "Bogdan Gheorghe",
+        "properties",
+        4
+    ],
+    [
+        "Bogdan Gheorghe",
+        "xml",
+        2
+    ],
+    [
+        "Alain Magloire",
+        "core/ChangeLog",
+        8
+    ],
+    [
+        "Alain Magloire",
+        "java",
+        69
+    ],
+    [
+        "Alain Magloire",
+        "ui/ChangeLog",
+        5
+    ],
+    [
+        "Alain Magloire",
+        "xml",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "properties",
+        2
+    ],
+    [
+        "Leo Treggiari",
+        "exsd",
+        4
+    ],
+    [
+        "Leo Treggiari",
+        "java",
+        197
+    ],
+    [
+        "Leo Treggiari",
+        "properties",
+        12
+    ],
+    [
+        "Leo Treggiari",
+        "xml",
+        12
+    ],
+    [
+        "Leo Treggiari",
+        "classpath",
+        4
+    ],
+    [
+        "Leo Treggiari",
+        "tests/resources/test21Projects/linkedFolder/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Leo Treggiari",
+        "mk",
+        6
+    ],
+    [
+        "Leo Treggiari",
+        "c",
+        8
+    ],
+    [
+        "Leo Treggiari",
+        "h",
+        4
+    ],
+    [
+        "Leo Treggiari",
+        "tests/resources/test30Projects/linkedFolder/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Leo Treggiari",
+        "cvsignore",
+        2
+    ],
+    [
+        "Leo Treggiari",
+        "project",
+        2
+    ],
+    [
+        "Leo Treggiari",
+        "html",
+        2
+    ],
+    [
+        "Vladimir Hirsl",
+        "core/ChangeLog",
+        8
+    ],
+    [
+        "Vladimir Hirsl",
+        "java",
+        63
+    ],
+    [
+        "Vladimir Hirsl",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "Vladimir Hirsl",
+        "xml",
+        1
+    ],
+    [
+        "Vladimir Hirsl",
+        "properties",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        25
+    ],
+    [
+        "Doug Schaefer",
+        "prefs",
+        5
+    ],
+    [
+        "David Inglis",
+        "xml",
+        1
+    ],
+    [
+        "David Inglis",
+        "java",
+        17
+    ],
+    [
+        "David Inglis",
+        "properties",
+        3
+    ],
+    [
+        "David Inglis",
+        "ui/NEWS",
+        1
+    ],
+    [
+        "David Inglis",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "David Inglis",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Mikhail Sennikovsky",
+        "xml",
+        3
+    ],
+    [
+        "Mikhail Sennikovsky",
+        "exsd",
+        1
+    ],
+    [
+        "Mikhail Sennikovsky",
+        "java",
+        80
+    ],
+    [
+        "Mikhail Sennikovsky",
+        "properties",
+        2
+    ]
+]

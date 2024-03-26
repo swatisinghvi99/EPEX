@@ -1,0 +1,162 @@
+[
+    [
+        "Dmitry Kornilov",
+        "yml",
+        1
+    ],
+    [
+        "Dmitry Kornilov",
+        "gitignore",
+        1
+    ],
+    [
+        "Dmitry Kornilov",
+        "unknown",
+        3
+    ],
+    [
+        "Dmitry Kornilov",
+        "txt",
+        1
+    ],
+    [
+        "Dmitry Kornilov",
+        "gradle",
+        8
+    ],
+    [
+        "Dmitry Kornilov",
+        "java",
+        185
+    ],
+    [
+        "Dmitry Kornilov",
+        "SeContainerInitializer",
+        1
+    ],
+    [
+        "Dmitry Kornilov",
+        "CDIProvider",
+        1
+    ],
+    [
+        "Dmitry Kornilov",
+        "groovy",
+        15
+    ],
+    [
+        "Dmitry Kornilov",
+        "xml",
+        6
+    ],
+    [
+        "Dmitry Kornilov",
+        "properties",
+        4
+    ],
+    [
+        "Dmitry Kornilov",
+        "bat",
+        1
+    ],
+    [
+        "Dmitry Kornilov",
+        "AnnotationMapper",
+        1
+    ],
+    [
+        "Dmitry Kornilov",
+        "AnnotationRemapper",
+        1
+    ],
+    [
+        "Dmitry Kornilov",
+        "AnnotationTransformer",
+        1
+    ],
+    [
+        "Dmitry Kornilov",
+        "BeanElementVisitor",
+        1
+    ],
+    [
+        "Dmitry Kornilov",
+        "TypeElementVisitor",
+        1
+    ],
+    [
+        "Dmitry Kornilov",
+        "BuildServices",
+        1
+    ],
+    [
+        "Dmitry Kornilov",
+        "BuildCompatibleExtension",
+        1
+    ],
+    [
+        "Dmitry Kornilov",
+        "LoadableExtension",
+        1
+    ],
+    [
+        "graemerocher",
+        "gradle",
+        2
+    ],
+    [
+        "graemerocher",
+        "java",
+        42
+    ],
+    [
+        "graemerocher",
+        "properties",
+        3
+    ],
+    [
+        "graemerocher",
+        "unknown",
+        1
+    ],
+    [
+        "graemerocher",
+        "bat",
+        1
+    ],
+    [
+        "graemerocher",
+        "groovy",
+        1
+    ],
+    [
+        "graemerocher",
+        "TypeElementVisitor",
+        1
+    ],
+    [
+        "graemerocher",
+        "xml",
+        2
+    ],
+    [
+        "Graeme Rocher",
+        "java",
+        3
+    ],
+    [
+        "Graeme Rocher",
+        "properties",
+        2
+    ],
+    [
+        "Graeme Rocher",
+        "xml",
+        1
+    ],
+    [
+        "Graeme Rocher",
+        "gradle",
+        1
+    ]
+]

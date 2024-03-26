@@ -1,0 +1,37 @@
+[
+    [
+        "ds-ext-bkepa",
+        "groovy",
+        5
+    ],
+    [
+        "ds-ext-bkepa",
+        "java",
+        5
+    ],
+    [
+        "ds-ext-bkepa",
+        "json",
+        2
+    ],
+    [
+        "ds-ext-jserwa",
+        "groovy",
+        18
+    ],
+    [
+        "ds-ext-jserwa",
+        "yml",
+        5
+    ],
+    [
+        "ds-ext-jserwa",
+        "java",
+        54
+    ],
+    [
+        "ds-ext-jserwa",
+        "kts",
+        2
+    ]
+]

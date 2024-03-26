@@ -1,0 +1,67 @@
+[
+    [
+        "BJ Hargrave",
+        "bnd",
+        11
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        9
+    ],
+    [
+        "BJ Hargrave",
+        "tracker/src/org/osgi/util/tracker/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "xml",
+        1
+    ],
+    [
+        "Tim Ward",
+        "java",
+        43
+    ],
+    [
+        "Tim Ward",
+        "classpath",
+        1
+    ],
+    [
+        "Tim Ward",
+        "project",
+        1
+    ],
+    [
+        "Tim Ward",
+        "prefs",
+        4
+    ],
+    [
+        "Tim Ward",
+        "bnd",
+        1
+    ],
+    [
+        "Tim Ward",
+        "whiteboard/src/org/osgi/service/jaxrs/runtime/dto/packageinfo",
+        1
+    ],
+    [
+        "Tim Ward",
+        "whiteboard/src/org/osgi/service/jaxrs/runtime/packageinfo",
+        1
+    ],
+    [
+        "Tim Ward",
+        "whiteboard/src/org/osgi/service/jaxrs/whiteboard/packageinfo",
+        1
+    ],
+    [
+        "Tim Ward",
+        "pushstream/src/org/osgi/util/pushstream/build/packageinfo",
+        2
+    ]
+]

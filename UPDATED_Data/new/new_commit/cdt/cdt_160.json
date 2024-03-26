@@ -1,0 +1,257 @@
+[
+    [
+        "Nathan Ridge",
+        "java",
+        1
+    ],
+    [
+        "Greg Watson",
+        "java",
+        4
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        35
+    ],
+    [
+        "Doug Schaefer",
+        "classpath",
+        4
+    ],
+    [
+        "Doug Schaefer",
+        "prefs",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "MF",
+        9
+    ],
+    [
+        "Doug Schaefer",
+        "properties",
+        5
+    ],
+    [
+        "Doug Schaefer",
+        "xml",
+        8
+    ],
+    [
+        "Doug Schaefer",
+        "exsd",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "project",
+        4
+    ],
+    [
+        "Doug Schaefer",
+        "launch",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "gitignore",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "target",
+        1
+    ],
+    [
+        "Anton Leherbauer",
+        "java",
+        2
+    ],
+    [
+        "Wainer dos Santos Moschetta",
+        "java",
+        4
+    ],
+    [
+        "Wainer dos Santos Moschetta",
+        "MF",
+        1
+    ],
+    [
+        "Wainer dos Santos Moschetta",
+        "properties",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "MF",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "gdb/data/launch/src/Makefile",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "cc",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "java",
+        44
+    ],
+    [
+        "Teodor Madan",
+        "java",
+        14
+    ],
+    [
+        "Teodor Madan",
+        "exsd",
+        1
+    ],
+    [
+        "Matthew Bastien",
+        "java",
+        13
+    ],
+    [
+        "Matthew Bastien",
+        "MF",
+        2
+    ],
+    [
+        "Matthew Bastien",
+        "xml",
+        2
+    ],
+    [
+        "Matthew Bastien",
+        "classpath",
+        1
+    ],
+    [
+        "Matthew Bastien",
+        "project",
+        1
+    ],
+    [
+        "Matthew Bastien",
+        "prefs",
+        1
+    ],
+    [
+        "Matthew Bastien",
+        "gitignore",
+        1
+    ],
+    [
+        "Matthew Bastien",
+        "js",
+        8
+    ],
+    [
+        "Matthew Bastien",
+        "json",
+        1
+    ],
+    [
+        "Matthew Bastien",
+        "properties",
+        2
+    ],
+    [
+        "Marc Dumais",
+        "java",
+        3
+    ],
+    [
+        "Marc Dumais",
+        "MF",
+        1
+    ],
+    [
+        "Alena Laskavaia",
+        "java",
+        6
+    ],
+    [
+        "Marc Khouzam",
+        "java",
+        6
+    ],
+    [
+        "Alexander Kurtakov",
+        "prefs",
+        11
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        293
+    ],
+    [
+        "Alexander Kurtakov",
+        "classpath",
+        4
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        5
+    ],
+    [
+        "Alexander Kurtakov",
+        "properties",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "xml",
+        1
+    ],
+    [
+        "Marc-Andre Laperle",
+        "java",
+        4
+    ],
+    [
+        "Marc-Andre Laperle",
+        "properties",
+        1
+    ],
+    [
+        "Marc-Andre Laperle",
+        "ini",
+        1
+    ],
+    [
+        "Marc-Andre Laperle",
+        "MF",
+        1
+    ],
+    [
+        "Marc-Andre Laperle",
+        "xml",
+        1
+    ],
+    [
+        "Patrick Tasse",
+        "java",
+        3
+    ],
+    [
+        "Torkild U. Resheim",
+        "java",
+        6
+    ],
+    [
+        "Torkild U. Resheim",
+        "properties",
+        1
+    ]
+]

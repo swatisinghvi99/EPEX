@@ -1,0 +1,127 @@
+[
+    [
+        "Peter Kriens",
+        "java",
+        22
+    ],
+    [
+        "Peter Kriens",
+        "prefs",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "bnd",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "xml",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "tools/src/org/osgi/tools/xmldoclet/Makefile",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "mf",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        594
+    ],
+    [
+        "BJ Hargrave",
+        "prefs",
+        5
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        6
+    ],
+    [
+        "BJ Hargrave",
+        "html",
+        50
+    ],
+    [
+        "BJ Hargrave",
+        "remoteserviceadmin/doc/package-list",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "css",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "classpath",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "project",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "xml",
+        3
+    ],
+    [
+        "David Bosschaert",
+        "java",
+        3
+    ],
+    [
+        "Tom Watson",
+        "java",
+        14
+    ],
+    [
+        "Tom Watson",
+        "bnd",
+        1
+    ],
+    [
+        "Hal Hildebrand",
+        "java",
+        35
+    ],
+    [
+        "Hal Hildebrand",
+        "bnd",
+        1
+    ],
+    [
+        "Jason Warner",
+        "bnd",
+        10
+    ],
+    [
+        "Jason Warner",
+        "xml",
+        7
+    ],
+    [
+        "Jason Warner",
+        "java",
+        5
+    ],
+    [
+        "Jan Rellermeyer",
+        "java",
+        1
+    ],
+    [
+        "Tim Diekman",
+        "java",
+        1
+    ]
+]

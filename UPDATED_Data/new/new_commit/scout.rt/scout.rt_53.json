@@ -1,0 +1,237 @@
+[
+    [
+        "Thomas Schweigler",
+        "java",
+        15
+    ],
+    [
+        "Andreas Hoegger",
+        "java",
+        396
+    ],
+    [
+        "Andreas Hoegger",
+        "css",
+        4
+    ],
+    [
+        "Andreas Hoegger",
+        "MF",
+        3
+    ],
+    [
+        "Matthias Villiger",
+        "java",
+        61
+    ],
+    [
+        "Claudio Guglielmo",
+        "java",
+        212
+    ],
+    [
+        "Claudio Guglielmo",
+        "css",
+        61
+    ],
+    [
+        "Claudio Guglielmo",
+        "js",
+        249
+    ],
+    [
+        "Claudio Guglielmo",
+        "html",
+        13
+    ],
+    [
+        "Claudio Guglielmo",
+        "txt",
+        7
+    ],
+    [
+        "Claudio Guglielmo",
+        "gitignore",
+        2
+    ],
+    [
+        "Claudio Guglielmo",
+        "empty",
+        1
+    ],
+    [
+        "Claudio Guglielmo",
+        "xml",
+        13
+    ],
+    [
+        "Claudio Guglielmo",
+        "classpath",
+        4
+    ],
+    [
+        "Claudio Guglielmo",
+        "project",
+        4
+    ],
+    [
+        "Claudio Guglielmo",
+        "MF",
+        7
+    ],
+    [
+        "Claudio Guglielmo",
+        "properties",
+        4
+    ],
+    [
+        "Claudio Guglielmo",
+        "launch",
+        3
+    ],
+    [
+        "Claudio Guglielmo",
+        "jshintrc",
+        2
+    ],
+    [
+        "Claudio Guglielmo",
+        "prefs",
+        3
+    ],
+    [
+        "Claudio Guglielmo",
+        "log",
+        1
+    ],
+    [
+        "Andre Wegmueller",
+        "java",
+        162
+    ],
+    [
+        "Andre Wegmueller",
+        "project",
+        1
+    ],
+    [
+        "Andre Wegmueller",
+        "prefs",
+        1
+    ],
+    [
+        "Andre Wegmueller",
+        "js",
+        113
+    ],
+    [
+        "Andre Wegmueller",
+        "css",
+        14
+    ],
+    [
+        "Andre Wegmueller",
+        "html",
+        3
+    ],
+    [
+        "Andre Wegmueller",
+        "txt",
+        1
+    ],
+    [
+        "Matthias Nick",
+        "java",
+        35
+    ],
+    [
+        "Matthias Nick",
+        "MF",
+        2
+    ],
+    [
+        "Christian Rusche",
+        "js",
+        29
+    ],
+    [
+        "Christian Rusche",
+        "css",
+        24
+    ],
+    [
+        "Adrian Sacchi",
+        "properties",
+        2
+    ],
+    [
+        "Adrian Sacchi",
+        "java",
+        62
+    ],
+    [
+        "Adrian Sacchi",
+        "MF",
+        1
+    ],
+    [
+        "Ken Lee",
+        "java",
+        7
+    ],
+    [
+        "Ken Lee",
+        "js",
+        1
+    ],
+    [
+        "Ken Lee",
+        "xml",
+        92
+    ],
+    [
+        "Ken Lee",
+        "MF",
+        56
+    ],
+    [
+        "Judith Gull",
+        "MF",
+        5
+    ],
+    [
+        "Judith Gull",
+        "java",
+        29
+    ],
+    [
+        "Jeremie Bresson",
+        "java",
+        4
+    ],
+    [
+        "Beat Schwarzentrub",
+        "jshintrc",
+        1
+    ],
+    [
+        "Beat Schwarzentrub",
+        "js",
+        15
+    ],
+    [
+        "Beat Schwarzentrub",
+        "java",
+        8
+    ],
+    [
+        "Christoph Schwank",
+        "java",
+        4
+    ],
+    [
+        "Stephan Leicht Vogt",
+        "java",
+        5
+    ]
+]

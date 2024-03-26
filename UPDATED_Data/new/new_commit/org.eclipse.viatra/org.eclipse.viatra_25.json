@@ -1,0 +1,177 @@
+[
+    [
+        "Istvan David",
+        "java",
+        70
+    ],
+    [
+        "Istvan David",
+        "xtend",
+        23
+    ],
+    [
+        "Istvan David",
+        "ecore",
+        4
+    ],
+    [
+        "Istvan David",
+        "genmodel",
+        4
+    ],
+    [
+        "Istvan David",
+        "xtext",
+        2
+    ],
+    [
+        "Istvan David",
+        "MF",
+        11
+    ],
+    [
+        "Istvan David",
+        "classpath",
+        2
+    ],
+    [
+        "Istvan David",
+        "project",
+        8
+    ],
+    [
+        "Istvan David",
+        "prefs",
+        1
+    ],
+    [
+        "Istvan David",
+        "properties",
+        2
+    ],
+    [
+        "Istvan David",
+        "xml",
+        28
+    ],
+    [
+        "Istvan David",
+        "def",
+        3
+    ],
+    [
+        "Istvan David",
+        "target",
+        1
+    ],
+    [
+        "Istvan David",
+        "setup",
+        1
+    ],
+    [
+        "Istvan David",
+        "mwe2",
+        1
+    ],
+    [
+        "Istvan David",
+        "gitignore",
+        1
+    ],
+    [
+        "Istvan David",
+        "eiq",
+        1
+    ],
+    [
+        "Andr\u00e1s Szabolcs Nagy",
+        "java",
+        13
+    ],
+    [
+        "bergmann",
+        "xtend",
+        4
+    ],
+    [
+        "bergmann",
+        "java",
+        156
+    ],
+    [
+        "bergmann",
+        "MF",
+        3
+    ],
+    [
+        "bergmann",
+        "xml",
+        3
+    ],
+    [
+        "bergmann",
+        "gitignore",
+        4
+    ],
+    [
+        "bergmann",
+        "ecore",
+        2
+    ],
+    [
+        "bergmann",
+        "api_filters",
+        1
+    ],
+    [
+        "bergmann",
+        "prefs",
+        1
+    ],
+    [
+        "Tamas Szabo",
+        "java",
+        3
+    ],
+    [
+        "Tamas Szabo",
+        "xtend",
+        3
+    ],
+    [
+        "Zoltan Ujhelyi",
+        "java",
+        111
+    ],
+    [
+        "Zoltan Ujhelyi",
+        "xtend",
+        1
+    ],
+    [
+        "Zoltan Ujhelyi",
+        "xtext",
+        1
+    ],
+    [
+        "De\u0301nes Harmath",
+        "java",
+        4
+    ],
+    [
+        "Abel Hegedus",
+        "java",
+        11
+    ],
+    [
+        "Abel Hegedus",
+        "exsd",
+        1
+    ],
+    [
+        "Abel Hegedus",
+        "MF",
+        1
+    ]
+]

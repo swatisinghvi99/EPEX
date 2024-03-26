@@ -1,0 +1,67 @@
+[
+    [
+        "cbrun",
+        "java",
+        5
+    ],
+    [
+        "cbrun",
+        "qmodel",
+        2
+    ],
+    [
+        "Yvan Lussaud",
+        "java",
+        100
+    ],
+    [
+        "Yvan Lussaud",
+        "ecore",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "genmodel",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "qmodel",
+        3
+    ],
+    [
+        "Yvan Lussaud",
+        "g4",
+        1
+    ],
+    [
+        "Laurent Goubet",
+        "xml",
+        72
+    ],
+    [
+        "Laurent Goubet",
+        "java",
+        34
+    ],
+    [
+        "Laurent Goubet",
+        "qmodel",
+        1
+    ],
+    [
+        "Laurent Goubet",
+        "MF",
+        45
+    ],
+    [
+        "Laurent Goubet",
+        "prefs",
+        2
+    ],
+    [
+        "Laurent Goubet",
+        "project",
+        1
+    ]
+]

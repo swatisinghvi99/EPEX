@@ -1,0 +1,222 @@
+[
+    [
+        "namdre",
+        "cpp",
+        145
+    ],
+    [
+        "namdre",
+        "h",
+        75
+    ],
+    [
+        "namdre",
+        "netconvert",
+        4
+    ],
+    [
+        "namdre",
+        "py",
+        41
+    ],
+    [
+        "namdre",
+        "xsd",
+        2
+    ],
+    [
+        "namdre",
+        "complex",
+        82
+    ],
+    [
+        "namdre",
+        "java",
+        4
+    ],
+    [
+        "namdre",
+        "txt",
+        3
+    ],
+    [
+        "namdre",
+        "md",
+        1
+    ],
+    [
+        "namdre",
+        "sumo",
+        5
+    ],
+    [
+        "namdre",
+        "xml",
+        6
+    ],
+    [
+        "namdre",
+        "sumocfg",
+        2
+    ],
+    [
+        "namdre",
+        "libsumo",
+        1
+    ],
+    [
+        "namdre",
+        "unknown",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "cpp",
+        58
+    ],
+    [
+        "Michael Behrisch",
+        "h",
+        24
+    ],
+    [
+        "Michael Behrisch",
+        "py",
+        124
+    ],
+    [
+        "Michael Behrisch",
+        "complex",
+        12
+    ],
+    [
+        "Michael Behrisch",
+        "i",
+        3
+    ],
+    [
+        "Michael Behrisch",
+        "txt",
+        3
+    ],
+    [
+        "Michael Behrisch",
+        "cmake",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "proto",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "libsumo",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "tools",
+        3
+    ],
+    [
+        "Michael Behrisch",
+        "traci",
+        1
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "cpp",
+        588
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "h",
+        270
+    ],
+    [
+        "David Rusu",
+        "py",
+        2
+    ],
+    [
+        "ArmelliniMG",
+        "py",
+        4
+    ],
+    [
+        "ArmelliniMG",
+        "complex",
+        3
+    ],
+    [
+        "Laura",
+        "cpp",
+        1
+    ],
+    [
+        "Laura",
+        "complex",
+        2
+    ],
+    [
+        "Laura",
+        "py",
+        4
+    ],
+    [
+        "Yun-Pang Fl\u00f6tter\u00f6d",
+        "py",
+        5
+    ],
+    [
+        "Yun-Pang Fl\u00f6tter\u00f6d",
+        "complex",
+        1
+    ],
+    [
+        "Matthias Schwamborn",
+        "complex",
+        1
+    ],
+    [
+        "Matthias Schwamborn",
+        "py",
+        2
+    ],
+    [
+        "Angelo Banse",
+        "complex",
+        1
+    ],
+    [
+        "Angelo Banse",
+        "py",
+        1
+    ],
+    [
+        "Angelo Banse",
+        "cpp",
+        7
+    ],
+    [
+        "Angelo Banse",
+        "md",
+        192
+    ],
+    [
+        "Angelo Banse",
+        "yml",
+        1
+    ],
+    [
+        "Angelo Banse",
+        "css",
+        1
+    ],
+    [
+        "Michael Ernst",
+        "java",
+        2
+    ]
+]

@@ -1,0 +1,112 @@
+[
+    [
+        "Pascal Rapicault",
+        "java",
+        48
+    ],
+    [
+        "Pascal Rapicault",
+        "properties",
+        4
+    ],
+    [
+        "Pascal Rapicault",
+        "gitignore",
+        1
+    ],
+    [
+        "Pascal Rapicault",
+        "target",
+        1
+    ],
+    [
+        "Pascal Rapicault",
+        "test",
+        23
+    ],
+    [
+        "Pascal Rapicault",
+        "ctx",
+        7
+    ],
+    [
+        "Pascal Rapicault",
+        "suite",
+        1
+    ],
+    [
+        "Pascal Rapicault",
+        "xml",
+        5
+    ],
+    [
+        "Pascal Rapicault",
+        "classpath",
+        1
+    ],
+    [
+        "Pascal Rapicault",
+        "MF",
+        2
+    ],
+    [
+        "Pascal Rapicault",
+        "ecore",
+        3
+    ],
+    [
+        "Pascal Rapicault",
+        "genmodel",
+        1
+    ],
+    [
+        "Marc Khouzam",
+        "java",
+        13
+    ],
+    [
+        "Jacques Bouthillier",
+        "java",
+        20
+    ],
+    [
+        "Jacques Bouthillier",
+        "properties",
+        3
+    ],
+    [
+        "Jacques Bouthillier",
+        "xml",
+        1
+    ],
+    [
+        "gperron",
+        "java",
+        29
+    ],
+    [
+        "gperron",
+        "project",
+        3
+    ],
+    [
+        "gperron",
+        "test",
+        3
+    ],
+    [
+        "gperron",
+        "ctx",
+        1
+    ],
+    [
+        "gperron",
+        "ecore",
+        1
+    ],
+    [
+        "Michael Keppler",
+        "java",
+        1
+    ]
+]

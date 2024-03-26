@@ -1,0 +1,107 @@
+[
+    [
+        "Thibault Vallin",
+        "xml",
+        4
+    ],
+    [
+        "Thibault Vallin",
+        "java",
+        1
+    ],
+    [
+        "Andy McCright",
+        "xml",
+        15
+    ],
+    [
+        "Andy McCright",
+        "java",
+        319
+    ],
+    [
+        "Andy McCright",
+        "java_",
+        1
+    ],
+    [
+        "Andy McCright",
+        "properties",
+        10
+    ],
+    [
+        "Andy McCright",
+        "xsd",
+        1
+    ],
+    [
+        "Andy McCright",
+        "xjb",
+        2
+    ],
+    [
+        "Andy McCright",
+        "txt",
+        1
+    ],
+    [
+        "Andy McCright",
+        "unknown",
+        1
+    ],
+    [
+        "Piotrek Zygielo",
+        "java",
+        1
+    ],
+    [
+        "Lukas Jungmann",
+        "java",
+        684
+    ],
+    [
+        "Lukas Jungmann",
+        "gitignore",
+        1
+    ],
+    [
+        "Lukas Jungmann",
+        "xml",
+        18
+    ],
+    [
+        "Lukas Jungmann",
+        "bat",
+        2
+    ],
+    [
+        "Lukas Jungmann",
+        "sh",
+        2
+    ],
+    [
+        "Lukas Jungmann",
+        "properties",
+        240
+    ],
+    [
+        "Lukas Jungmann",
+        "txt",
+        2
+    ],
+    [
+        "Lukas Jungmann",
+        "JAXBContext",
+        1
+    ],
+    [
+        "Lukas Jungmann",
+        "JAXBContextFactory",
+        1
+    ],
+    [
+        "Lukas Jungmann",
+        "rng",
+        1
+    ]
+]

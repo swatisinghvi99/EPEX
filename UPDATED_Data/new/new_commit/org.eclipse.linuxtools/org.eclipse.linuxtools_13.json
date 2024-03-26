@@ -1,0 +1,272 @@
+[
+    [
+        "Andrew Overholt",
+        "java",
+        2
+    ],
+    [
+        "Charley Wang",
+        "callgraph/ChangeLog",
+        9
+    ],
+    [
+        "Charley Wang",
+        "java",
+        15
+    ],
+    [
+        "Charley Wang",
+        "properties",
+        1
+    ],
+    [
+        "Charley Wang",
+        "core/ChangeLog",
+        2
+    ],
+    [
+        "Daniel Drigo Pastore",
+        "project",
+        3
+    ],
+    [
+        "Daniel Drigo Pastore",
+        "properties",
+        21
+    ],
+    [
+        "Daniel Drigo Pastore",
+        "html",
+        2
+    ],
+    [
+        "Daniel Drigo Pastore",
+        "xml",
+        4
+    ],
+    [
+        "Daniel Drigo Pastore",
+        "classpath",
+        2
+    ],
+    [
+        "Daniel Drigo Pastore",
+        "cvsignore",
+        2
+    ],
+    [
+        "Daniel Drigo Pastore",
+        "prefs",
+        2
+    ],
+    [
+        "Daniel Drigo Pastore",
+        "MF",
+        3
+    ],
+    [
+        "Daniel Drigo Pastore",
+        "exsd",
+        4
+    ],
+    [
+        "Daniel Drigo Pastore",
+        "java",
+        91
+    ],
+    [
+        "Daniel Drigo Pastore",
+        "ini",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "prefs",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "core/ChangeLog",
+        4
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        66
+    ],
+    [
+        "Alexander Kurtakov",
+        "editor/ChangeLog",
+        10
+    ],
+    [
+        "Alexander Kurtakov",
+        "xml",
+        4
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/ChangeLog",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "rpmlint/ChangeLog",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        3
+    ],
+    [
+        "Alexander Kurtakov",
+        "rpmstubby/ChangeLog",
+        1
+    ],
+    [
+        "Francois Chouinard",
+        "xml",
+        5
+    ],
+    [
+        "Francois Chouinard",
+        "properties",
+        6
+    ],
+    [
+        "Francois Chouinard",
+        "java",
+        83
+    ],
+    [
+        "Francois Chouinard",
+        "MF",
+        3
+    ],
+    [
+        "William Bourque",
+        "java",
+        29
+    ],
+    [
+        "Roland Grunberg",
+        "callgraph/ChangeLog",
+        2
+    ],
+    [
+        "Roland Grunberg",
+        "java",
+        9
+    ],
+    [
+        "Roland Grunberg",
+        "core/ChangeLog",
+        3
+    ],
+    [
+        "Roland Grunberg",
+        "prop",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "properties",
+        2
+    ],
+    [
+        "Anithra P Janakiraman",
+        "classpath",
+        5
+    ],
+    [
+        "Anithra P Janakiraman",
+        "project",
+        5
+    ],
+    [
+        "Anithra P Janakiraman",
+        "MF",
+        10
+    ],
+    [
+        "Anithra P Janakiraman",
+        "properties",
+        29
+    ],
+    [
+        "Anithra P Janakiraman",
+        "html",
+        51
+    ],
+    [
+        "Anithra P Janakiraman",
+        "xml",
+        25
+    ],
+    [
+        "Anithra P Janakiraman",
+        "java",
+        194
+    ],
+    [
+        "Anithra P Janakiraman",
+        "graphicalrun/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "dashboard/ChangeLog",
+        2
+    ],
+    [
+        "Anithra P Janakiraman",
+        "dashboardextension/ChangeLog",
+        2
+    ],
+    [
+        "Anithra P Janakiraman",
+        "systemtap-feature/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "editor/src/org/eclipse/linuxtools/systemtap/backup/ui/editor/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "consolelog/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "editor/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "graphing/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "tests/ChangeLog",
+        2
+    ],
+    [
+        "Anithra P Janakiraman",
+        "nonui/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "ide/ChangeLog",
+        2
+    ]
+]

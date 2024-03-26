@@ -1,0 +1,217 @@
+[
+    [
+        "Frederic Gurr",
+        "jsonnet",
+        46
+    ],
+    [
+        "Frederic Gurr",
+        "ditto/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "json",
+        161
+    ],
+    [
+        "Frederic Gurr",
+        "yml",
+        209
+    ],
+    [
+        "Frederic Gurr",
+        "hbs",
+        23
+    ],
+    [
+        "Frederic Gurr",
+        "override",
+        23
+    ],
+    [
+        "Frederic Gurr",
+        "js",
+        23
+    ],
+    [
+        "Frederic Gurr",
+        "datatools/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "datatools/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "datatools/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "kiso/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "ecoretools/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "emfstore/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "emfstore/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "emfstore/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "geogig/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "geomesa/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "leshan/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "proj4j/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "opencert/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "nebula/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "mpc/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "scout/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "gef/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "gef/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "gef/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "efbt/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "unide/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "unide/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "unide/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "xpect/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "xsemantics/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "virgo/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "virgo/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "virgo/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "unknown",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "skills/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "skills/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "skills/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "kitalpha/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "kitalpha/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "kitalpha/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "repairnator/target/Dockerfile",
+        1
+    ]
+]

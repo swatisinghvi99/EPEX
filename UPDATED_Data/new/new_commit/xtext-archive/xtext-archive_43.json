@@ -1,0 +1,472 @@
+[
+    [
+        "Sebastian Zarnekow",
+        "java",
+        344
+    ],
+    [
+        "Sebastian Zarnekow",
+        "g",
+        29
+    ],
+    [
+        "Sebastian Zarnekow",
+        "tokens",
+        6
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ecore",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xmi",
+        11
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        7
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        7
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml_gen",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        14
+    ],
+    [
+        "Sebastian Zarnekow",
+        "properties",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xpt",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "mwe2",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "js",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "html",
+        9
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xdoc",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "css",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "php",
+        6
+    ],
+    [
+        "Knut Wannheden",
+        "properties",
+        1
+    ],
+    [
+        "Knut Wannheden",
+        "java",
+        6
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        588
+    ],
+    [
+        "Jan Koehnlein",
+        "ext",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "xpt",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "xml",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "MF",
+        12
+    ],
+    [
+        "Jan Koehnlein",
+        "mwe2",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "g",
+        12
+    ],
+    [
+        "Jan Koehnlein",
+        "tokens",
+        8
+    ],
+    [
+        "Jan Koehnlein",
+        "ecore",
+        4
+    ],
+    [
+        "Jan Koehnlein",
+        "xmi",
+        4
+    ],
+    [
+        "Jan Koehnlein",
+        "xtext",
+        4
+    ],
+    [
+        "Jan Koehnlein",
+        "xtend",
+        37
+    ],
+    [
+        "Jan Koehnlein",
+        "classpath",
+        6
+    ],
+    [
+        "Jan Koehnlein",
+        "gitignore",
+        4
+    ],
+    [
+        "Jan Koehnlein",
+        "project",
+        4
+    ],
+    [
+        "Jan Koehnlein",
+        "prefs",
+        4
+    ],
+    [
+        "Jan Koehnlein",
+        "properties",
+        4
+    ],
+    [
+        "Jan Koehnlein",
+        "html",
+        34
+    ],
+    [
+        "Jan Koehnlein",
+        "php",
+        12
+    ],
+    [
+        "Jan Koehnlein",
+        "xdoc",
+        12
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        140
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtext",
+        3
+    ],
+    [
+        "Moritz Eysholdt",
+        "ecore",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtend",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "g",
+        8
+    ],
+    [
+        "Moritz Eysholdt",
+        "xmi",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "MF",
+        4
+    ],
+    [
+        "Moritz Eysholdt",
+        "properties",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "xml",
+        5
+    ],
+    [
+        "Moritz Eysholdt",
+        "xml_gen",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "html",
+        6
+    ],
+    [
+        "Moritz Eysholdt",
+        "php",
+        4
+    ],
+    [
+        "Moritz Eysholdt",
+        "js",
+        3
+    ],
+    [
+        "Moritz Eysholdt",
+        "css",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        384
+    ],
+    [
+        "Sven Efftinge",
+        "html",
+        81
+    ],
+    [
+        "Sven Efftinge",
+        "xml",
+        35
+    ],
+    [
+        "Sven Efftinge",
+        "css",
+        12
+    ],
+    [
+        "Sven Efftinge",
+        "php",
+        12
+    ],
+    [
+        "Sven Efftinge",
+        "js",
+        18
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        37
+    ],
+    [
+        "Sven Efftinge",
+        "project",
+        8
+    ],
+    [
+        "Sven Efftinge",
+        "prefs",
+        8
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        40
+    ],
+    [
+        "Sven Efftinge",
+        "classpath",
+        12
+    ],
+    [
+        "Sven Efftinge",
+        "gitignore",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "properties",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "api_filters",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "xdoc",
+        6
+    ],
+    [
+        "Holger Schill",
+        "java",
+        77
+    ],
+    [
+        "Holger Schill",
+        "xtend",
+        4
+    ],
+    [
+        "Holger Schill",
+        "xpt",
+        2
+    ],
+    [
+        "Holger Schill",
+        "MF",
+        2
+    ],
+    [
+        "Holger Schill",
+        "properties",
+        1
+    ],
+    [
+        "Holger Schill",
+        "xml",
+        4
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        6
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        557
+    ],
+    [
+        "Dennis Huebner",
+        "properties",
+        6
+    ],
+    [
+        "Dennis Huebner",
+        "classpath",
+        4
+    ],
+    [
+        "Dennis Huebner",
+        "project",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "prefs",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "modifier/META-INF/MANIFEST:MF",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "ant",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "sh",
+        1
+    ],
+    [
+        "Michael Clay",
+        "classpath",
+        4
+    ],
+    [
+        "Michael Clay",
+        "gitignore",
+        4
+    ],
+    [
+        "Michael Clay",
+        "project",
+        4
+    ],
+    [
+        "Michael Clay",
+        "prefs",
+        14
+    ],
+    [
+        "Michael Clay",
+        "MF",
+        4
+    ],
+    [
+        "Michael Clay",
+        "html",
+        2
+    ],
+    [
+        "Michael Clay",
+        "properties",
+        2
+    ],
+    [
+        "Michael Clay",
+        "java",
+        26
+    ],
+    [
+        "Michael Clay",
+        "xml",
+        32
+    ],
+    [
+        "Michael Clay",
+        "xtend",
+        16
+    ]
+]

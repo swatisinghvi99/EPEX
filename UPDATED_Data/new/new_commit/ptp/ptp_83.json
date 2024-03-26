@@ -1,0 +1,317 @@
+[
+    [
+        "Claudia Knobloch",
+        "java",
+        4
+    ],
+    [
+        "Greg Watson",
+        "java",
+        108
+    ],
+    [
+        "Greg Watson",
+        "xml",
+        7
+    ],
+    [
+        "Greg Watson",
+        "exsd",
+        3
+    ],
+    [
+        "Greg Watson",
+        "properties",
+        8
+    ],
+    [
+        "Greg Watson",
+        "classpath",
+        2
+    ],
+    [
+        "Greg Watson",
+        "MF",
+        2
+    ],
+    [
+        "David Wootton",
+        "c",
+        2
+    ],
+    [
+        "cvs2svn",
+        "classpath",
+        1
+    ],
+    [
+        "cvs2svn",
+        "project",
+        3
+    ],
+    [
+        "cvs2svn",
+        "prefs",
+        1
+    ],
+    [
+        "cvs2svn",
+        "MF",
+        2
+    ],
+    [
+        "cvs2svn",
+        "html",
+        2
+    ],
+    [
+        "cvs2svn",
+        "properties",
+        6
+    ],
+    [
+        "cvs2svn",
+        "java",
+        2
+    ],
+    [
+        "cvs2svn",
+        "sample",
+        1
+    ],
+    [
+        "cvs2svn",
+        "xml",
+        7
+    ],
+    [
+        "cvs2svn",
+        "ini",
+        1
+    ],
+    [
+        "cvs2svn",
+        "mappings",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "java",
+        49
+    ],
+    [
+        "Roland Schulz",
+        "classpath",
+        5
+    ],
+    [
+        "Roland Schulz",
+        "cvsignore",
+        3
+    ],
+    [
+        "Roland Schulz",
+        "project",
+        6
+    ],
+    [
+        "Roland Schulz",
+        "prefs",
+        6
+    ],
+    [
+        "Roland Schulz",
+        "MF",
+        6
+    ],
+    [
+        "Roland Schulz",
+        "inf",
+        2
+    ],
+    [
+        "Roland Schulz",
+        "html",
+        8
+    ],
+    [
+        "Roland Schulz",
+        "properties",
+        17
+    ],
+    [
+        "Roland Schulz",
+        "xml",
+        10
+    ],
+    [
+        "Roland Schulz",
+        "ini",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "mappings",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "css",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "launch",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "txt",
+        13
+    ],
+    [
+        "Roland Schulz",
+        "cproject",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "proxy/COPYING",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "proxy/INSTALL",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "am",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "in",
+        3
+    ],
+    [
+        "Roland Schulz",
+        "m4",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "proxy/compile",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "guess",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "sub",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "proxy/configure",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "proxy/depcomp",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "h",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "proxy/install-sh",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "proxy/missing",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "c",
+        3
+    ],
+    [
+        "Wyatt Spear",
+        "java",
+        39
+    ],
+    [
+        "Wyatt Spear",
+        "MF",
+        6
+    ],
+    [
+        "Wyatt Spear",
+        "properties",
+        2
+    ],
+    [
+        "Wyatt Spear",
+        "xml",
+        8
+    ],
+    [
+        "Alan Humphrey",
+        "MF",
+        2
+    ],
+    [
+        "Alan Humphrey",
+        "java",
+        31
+    ],
+    [
+        "Alan Humphrey",
+        "properties",
+        4
+    ],
+    [
+        "Alan Humphrey",
+        "html",
+        1
+    ],
+    [
+        "Alan Humphrey",
+        "xml",
+        1
+    ],
+    [
+        "Beth Tibbitts",
+        "java",
+        5
+    ],
+    [
+        "wspear",
+        "MF",
+        2
+    ],
+    [
+        "wspear",
+        "java",
+        8
+    ],
+    [
+        "wspear",
+        "properties",
+        1
+    ],
+    [
+        "John D Eblen",
+        "java",
+        2
+    ]
+]

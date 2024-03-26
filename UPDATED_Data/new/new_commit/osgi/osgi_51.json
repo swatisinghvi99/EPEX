@@ -1,0 +1,592 @@
+[
+    [
+        "BJ Hargrave",
+        "java",
+        4137
+    ],
+    [
+        "BJ Hargrave",
+        "classpath",
+        49
+    ],
+    [
+        "BJ Hargrave",
+        "mf",
+        242
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        7
+    ],
+    [
+        "BJ Hargrave",
+        "properties",
+        52
+    ],
+    [
+        "BJ Hargrave",
+        "html",
+        141
+    ],
+    [
+        "BJ Hargrave",
+        "discovery/src/org/osgi/impl/service/discovery/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "dmtree/src/info/dmtree/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "deploymentadmin/src/org/osgi/service/deploymentadmin/spi/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "project",
+        48
+    ],
+    [
+        "BJ Hargrave",
+        "prefs",
+        71
+    ],
+    [
+        "BJ Hargrave",
+        "xml",
+        79
+    ],
+    [
+        "BJ Hargrave",
+        "concurrent/src/org/osgi/service/concurrent/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "measurement/src/org/osgi/util/measurement/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "position/src/org/osgi/util/position/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "gsm/src/org/osgi/util/gsm/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "cvsignore",
+        45
+    ],
+    [
+        "BJ Hargrave",
+        "template/src/org/osgi/impl/service/template/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "template/src/org/osgi/test/cases/template/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "template/src/org/osgi/test/cases/template/tb1/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "template/src/org/osgi/test/cases/template/tbc/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "xsd",
+        9
+    ],
+    [
+        "BJ Hargrave",
+        "ddf",
+        7
+    ],
+    [
+        "BJ Hargrave",
+        "xsl",
+        7
+    ],
+    [
+        "BJ Hargrave",
+        "js",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "css",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "obr/src/org/osgi/service/obr/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "txt",
+        22
+    ],
+    [
+        "BJ Hargrave",
+        "rpwa/output",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "servlet/src/javax/servlet/http/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "servlet/src/javax/servlet/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "cu/src/org/osgi/impl/service/cu/admin/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "TXT",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "launch",
+        8
+    ],
+    [
+        "BJ Hargrave",
+        "metatype2/src/org/osgi/impl/service/metatype2/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "upnp/src/org/osgi/impl/service/upnp/cd/control/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "upnp/src/org/osgi/impl/service/upnp/cd/event/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "upnp/src/org/osgi/impl/service/upnp/cd/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "upnp/src/org/osgi/impl/service/upnp/cd/ssdp/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "upnp/src/org/osgi/impl/service/upnp/cp/basedriver/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "upnp/src/org/osgi/impl/service/upnp/cp/control/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "upnp/src/org/osgi/impl/service/upnp/cp/description/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "upnp/src/org/osgi/impl/service/upnp/cp/event/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "upnp/src/org/osgi/impl/service/upnp/cp/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "upnp/src/org/osgi/impl/service/upnp/cp/ssdp/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "upnp/src/org/osgi/impl/service/upnp/cp/util/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "policy",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "script",
+        11
+    ],
+    [
+        "BJ Hargrave",
+        "cu/src/org/osgi/service/cu/admin/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "cu/src/org/osgi/service/cu/admin/spi/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "cu/src/org/osgi/service/cu/diag/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "cu/src/org/osgi/service/cu/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "dmt/src/org/osgi/service/dmt/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "dmt/src/org/osgi/service/dmt/security/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "dmt/src/org/osgi/service/dmt/spi/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "metatype2/src/org/osgi/service/metatype2/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "navigation/src/org/osgi/service/navigation/control/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "navigation/src/org/osgi/service/navigation/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "navigation/src/org/osgi/service/navigation/poi/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "power/src/org/osgi/service/power/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "condpermadmin/src/org/osgi/test/cases/condpermadmin/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "condpermadmin/src/org/osgi/test/cases/condpermadmin/tb1/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "condpermadmin/src/org/osgi/test/cases/condpermadmin/tbc/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "ref",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "cu/src/org/osgi/test/cases/cu/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "cu/src/org/osgi/test/cases/cu/tb1/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "cu/src/org/osgi/test/cases/cu/tbc/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "SF",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "bat",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "sh",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "deploymentadmin/src/org/osgi/test/cases/deploymentadmin/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "deploymentadmin/src/org/osgi/test/cases/deploymentadmin/tb1/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "deploymentadmin/src/org/osgi/test/cases/deploymentadmin/tbc/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "diagnostics/src/org/osgi/test/cases/diagnostics/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "diagnostics/src/org/osgi/test/cases/diagnostics/tb1/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "diagnostics/src/org/osgi/test/cases/diagnostics/tbc/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "dmt/src/org/osgi/test/cases/dmt/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "dmt/src/org/osgi/test/cases/dmt/tb1/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "dmt/src/org/osgi/test/cases/dmt/tbc/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "meglet/src/org/osgi/test/cases/meglet/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "meglet/src/org/osgi/test/cases/meglet/tb1/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "meglet/src/org/osgi/test/cases/meglet/tbc/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "metatype2/src/org/osgi/test/cases/metatype2/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "metatype2/src/org/osgi/test/cases/metatype2/tb1/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "metatype2/src/org/osgi/test/cases/metatype2/tb2/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "metatype2/src/org/osgi/test/cases/metatype2/tbc/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "power/src/org/osgi/test/cases/power/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "power/src/org/osgi/test/cases/power/tb1/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "power/src/org/osgi/test/cases/power/tbc/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "signatures/src/org/osgi/test/cases/template/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "signatures/src/org/osgi/test/cases/template/tb1/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "signatures/src/org/osgi/test/cases/template/tbc/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "MF",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "options",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "ini",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "test/target/policy",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "jardesc",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "unittest/integration_test/policy",
+        1
+    ],
+    [
+        "Philipp Konradi",
+        "java",
+        14
+    ],
+    [
+        "Philipp Konradi",
+        "mf",
+        1
+    ],
+    [
+        "Philipp Konradi",
+        "bnd",
+        1
+    ],
+    [
+        "Philipp Konradi",
+        "properties",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "bnd",
+        15
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        6
+    ],
+    [
+        "Peter Kriens",
+        "classpath",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "project",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "mf",
+        13
+    ],
+    [
+        "Peter Kriens",
+        "properties",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "activationpolicy/src/org/osgi/test/cases/activationpolicy/packageinfo",
+        1
+    ],
+    [
+        "Stoyan Boshev",
+        "java",
+        11
+    ],
+    [
+        "Stoyan Boshev",
+        "classpath",
+        1
+    ],
+    [
+        "Stoyan Boshev",
+        "properties",
+        1
+    ],
+    [
+        "Thomas Kiesslich",
+        "java",
+        10
+    ],
+    [
+        "Tim Diekman",
+        "classpath",
+        1
+    ],
+    [
+        "Tim Diekman",
+        "project",
+        1
+    ],
+    [
+        "Tim Diekman",
+        "bnd",
+        1
+    ],
+    [
+        "Tim Diekman",
+        "xml",
+        1
+    ],
+    [
+        "Tim Diekman",
+        "java",
+        1
+    ]
+]

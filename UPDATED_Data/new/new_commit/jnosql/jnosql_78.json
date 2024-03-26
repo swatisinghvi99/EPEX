@@ -1,0 +1,142 @@
+[
+    [
+        "Otavio Santana",
+        "java",
+        1974
+    ],
+    [
+        "Otavio Santana",
+        "EntityAnnotationReader",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "Params$ParamsProvider",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "Settings$SettingsBuilderProvider",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "Sort$SortProvider",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "TypeReferenceReader",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "Value$ValueProvider",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "ValueReader",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "ValueWriter",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "KeyValueEntity$KeyValueEntityProvider",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "KeyValueQueryParser",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "DocumentCondition$DocumentConditionProvider",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "SelectQueryConverter",
+        3
+    ],
+    [
+        "Otavio Santana",
+        "Column$ColumnProvider",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "ColumnCondition$ColumnConditionProvider",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "ColumnDeleteQuery$ColumnDeleteProvider",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "ColumnDeleteQuery$ColumnDeleteQueryBuilderProvider",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "ColumnEntity$ColumnEntityProvider",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "ColumnQuery$ColumnQueryBuilderProvider",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "ColumnQuery$ColumnSelectProvider",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "ColumnQueryParser",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "DeleteQueryConverter",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "xml",
+        20
+    ],
+    [
+        "Otavio Santana",
+        "Pagination$PaginationBuilderProvider",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "Sorts$SortsProvider",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "CollectionSupplier",
+        2
+    ],
+    [
+        "Otavio Santana",
+        "RepositoryReturn",
+        2
+    ],
+    [
+        "Otavio Santana",
+        "gitignore",
+        1
+    ]
+]

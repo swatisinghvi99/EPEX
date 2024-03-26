@@ -1,0 +1,382 @@
+[
+    [
+        "Elliott Baron",
+        "project",
+        10
+    ],
+    [
+        "Elliott Baron",
+        "valgrind-feature/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "properties",
+        33
+    ],
+    [
+        "Elliott Baron",
+        "html",
+        17
+    ],
+    [
+        "Elliott Baron",
+        "xml",
+        15
+    ],
+    [
+        "Elliott Baron",
+        "tests/ChangeLog",
+        4
+    ],
+    [
+        "Elliott Baron",
+        "MF",
+        12
+    ],
+    [
+        "Elliott Baron",
+        "classpath",
+        8
+    ],
+    [
+        "Elliott Baron",
+        "prefs",
+        8
+    ],
+    [
+        "Elliott Baron",
+        "cachegrind/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "java",
+        95
+    ],
+    [
+        "Elliott Baron",
+        "core/ChangeLog",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "doc/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "xsl",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "launch/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "exsd",
+        3
+    ],
+    [
+        "Elliott Baron",
+        "massif/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "memcheck/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "test-feature/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "editor/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "Charley Wang",
+        "java",
+        162
+    ],
+    [
+        "Charley Wang",
+        "properties",
+        3
+    ],
+    [
+        "Charley Wang",
+        "stp",
+        3
+    ],
+    [
+        "Charley Wang",
+        "xml",
+        1
+    ],
+    [
+        "Charley Wang",
+        "callgraph/ChangeLog",
+        8
+    ],
+    [
+        "Charley Wang",
+        "core/ChangeLog",
+        7
+    ],
+    [
+        "Charley Wang",
+        "launch/ChangeLog",
+        3
+    ],
+    [
+        "Charley Wang",
+        "MF",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "graph",
+        9
+    ],
+    [
+        "Roland Grunberg",
+        "java",
+        42
+    ],
+    [
+        "Roland Grunberg",
+        "properties",
+        7
+    ],
+    [
+        "Roland Grunberg",
+        "callgraph/ChangeLog",
+        2
+    ],
+    [
+        "Roland Grunberg",
+        "xml",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "tests/ChangeLog",
+        3
+    ],
+    [
+        "Roland Grunberg",
+        "stp",
+        1
+    ],
+    [
+        "Xavier Raynaud",
+        "ref",
+        6
+    ],
+    [
+        "Xavier Raynaud",
+        "java",
+        10
+    ],
+    [
+        "Xavier Raynaud",
+        "16",
+        2
+    ],
+    [
+        "Francois Chouinard",
+        "java",
+        46
+    ],
+    [
+        "Jeff Johnston",
+        "autotools/ChangeLog",
+        8
+    ],
+    [
+        "Jeff Johnston",
+        "java",
+        698
+    ],
+    [
+        "Jeff Johnston",
+        "properties",
+        49
+    ],
+    [
+        "Jeff Johnston",
+        "xml",
+        14
+    ],
+    [
+        "Jeff Johnston",
+        "autotools/templates/projecttemplates/HelloWorldCAutotoolsProject/src/AUTHORS",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "c",
+        3
+    ],
+    [
+        "Jeff Johnston",
+        "autotools/templates/projecttemplates/HelloWorldCAutotoolsProject/src/COPYING",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "src",
+        6
+    ],
+    [
+        "Jeff Johnston",
+        "top",
+        12
+    ],
+    [
+        "Jeff Johnston",
+        "autotools/templates/projecttemplates/HelloWorldCAutotoolsProject/src/NEWS",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "autotools/templates/projecttemplates/HelloWorldCAutotoolsProject/src/README",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "autotools/templates/projecttemplates/HelloWorldCPPAutotoolsProject/src/AUTHORS",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "cpp",
+        3
+    ],
+    [
+        "Jeff Johnston",
+        "autotools/templates/projecttemplates/HelloWorldCPPAutotoolsProject/src/COPYING",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "autotools/templates/projecttemplates/HelloWorldCPPAutotoolsProject/src/NEWS",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "autotools/templates/projecttemplates/HelloWorldCPPAutotoolsProject/src/README",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "classpath",
+        6
+    ],
+    [
+        "Jeff Johnston",
+        "cvsignore",
+        3
+    ],
+    [
+        "Jeff Johnston",
+        "project",
+        6
+    ],
+    [
+        "Jeff Johnston",
+        "prefs",
+        12
+    ],
+    [
+        "Jeff Johnston",
+        "MF",
+        6
+    ],
+    [
+        "Jeff Johnston",
+        "html",
+        11
+    ],
+    [
+        "Jeff Johnston",
+        "tests/ChangeLog",
+        3
+    ],
+    [
+        "Jeff Johnston",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "ui/templates/projecttemplates/HelloWorldCAutotoolsProject/src/AUTHORS",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "ui/templates/projecttemplates/HelloWorldCAutotoolsProject/src/COPYING",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "ui/templates/projecttemplates/HelloWorldCAutotoolsProject/src/NEWS",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "ui/templates/projecttemplates/HelloWorldCAutotoolsProject/src/README",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "ui/templates/projecttemplates/HelloWorldCPPAutotoolsProject/src/AUTHORS",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "ui/templates/projecttemplates/HelloWorldCPPAutotoolsProject/src/COPYING",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "ui/templates/projecttemplates/HelloWorldCPPAutotoolsProject/src/NEWS",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "ui/templates/projecttemplates/HelloWorldCPPAutotoolsProject/src/README",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "editor/ChangeLog",
+        4
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        48
+    ],
+    [
+        "Alexander Kurtakov",
+        "rpmstubby/ChangeLog",
+        1
+    ]
+]

@@ -1,0 +1,62 @@
+[
+    [
+        "Thomas Watson",
+        "java",
+        42
+    ],
+    [
+        "Thomas Watson",
+        "api_filters",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "MF",
+        5
+    ],
+    [
+        "Thomas Watson",
+        "xml",
+        4
+    ],
+    [
+        "Thomas Watson",
+        "services/src/org/osgi/service/component/annotations/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "services/src/org/osgi/service/component/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "services/src/org/osgi/service/component/runtime/dto/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "services/src/org/osgi/service/component/runtime/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "properties",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "util/src/org/osgi/util/function/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "util/src/org/osgi/util/promise/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        17
+    ]
+]

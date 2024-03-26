@@ -1,0 +1,547 @@
+[
+    [
+        "szarnekow",
+        "java",
+        104
+    ],
+    [
+        "szarnekow",
+        "MF",
+        1
+    ],
+    [
+        "szarnekow",
+        "xml",
+        1
+    ],
+    [
+        "szarnekow",
+        "xmi",
+        123
+    ],
+    [
+        "szarnekow",
+        "g",
+        8
+    ],
+    [
+        "szarnekow",
+        "genmodel",
+        1
+    ],
+    [
+        "sefftinge",
+        "java",
+        19
+    ],
+    [
+        "sefftinge",
+        "g",
+        4
+    ],
+    [
+        "sefftinge",
+        "xmi",
+        1
+    ],
+    [
+        "sefftinge",
+        "xtext",
+        1
+    ],
+    [
+        "sefftinge",
+        "mwe2",
+        1
+    ],
+    [
+        "sefftinge",
+        "properties",
+        1
+    ],
+    [
+        "sefftinge",
+        "MF",
+        1
+    ],
+    [
+        "jkohnlein",
+        "java",
+        69
+    ],
+    [
+        "jkohnlein",
+        "xml",
+        1
+    ],
+    [
+        "jkohnlein",
+        "properties",
+        11
+    ],
+    [
+        "jkohnlein",
+        "launch",
+        1
+    ],
+    [
+        "meysholdt",
+        "java",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "classpath",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "project",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "prefs",
+        5
+    ],
+    [
+        "Dennis Huebner",
+        "releng/META-INF/CVS/Entries",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/META-INF/CVS/Repository",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/META-INF/CVS/Root",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "MF",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "mwe2",
+        6
+    ],
+    [
+        "Dennis Huebner",
+        "cspec",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "properties",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "releng/distrobuilder/CVS/Entries",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/distrobuilder/CVS/Repository",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/distrobuilder/CVS/Root",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "sh",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/lib/CVS/Entries",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/lib/CVS/Repository",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/lib/CVS/Root",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "ant",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "cvsignore",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "releng/releng/CVS/Entries",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/releng/CVS/Repository",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/releng/CVS/Root",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "txt",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "mspec",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "cquery",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "rmap",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "releng/src/CVS/Entries",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/src/CVS/Repository",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/src/CVS/Root",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/src/org/CVS/Entries",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/src/org/CVS/Repository",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/src/org/CVS/Root",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/src/org/eclipse/CVS/Entries",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/src/org/eclipse/CVS/Repository",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/src/org/eclipse/CVS/Root",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/src/org/eclipse/emf/CVS/Entries",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/src/org/eclipse/emf/CVS/Repository",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/src/org/eclipse/emf/CVS/Root",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/src/org/eclipse/xtext/CVS/Entries",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/src/org/eclipse/xtext/CVS/Repository",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/src/org/eclipse/xtext/CVS/Root",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/team/CVS/Entries",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/team/CVS/Repository",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/team/CVS/Root",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "launch",
+        9
+    ],
+    [
+        "Dennis Huebner",
+        "releng/team/launchconfig/CVS/Entries",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/team/launchconfig/CVS/Repository",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/team/launchconfig/CVS/Root",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/team/projectset/CVS/Entries",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/team/projectset/CVS/Repository",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/team/projectset/CVS/Root",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/team/projectset/extssh-withProxy/CVS/Entries",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/team/projectset/extssh-withProxy/CVS/Repository",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/team/projectset/extssh-withProxy/CVS/Root",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "generated",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "psf",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "releng/team/projectset/extssh/CVS/Entries",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/team/projectset/extssh/CVS/Repository",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/team/projectset/extssh/CVS/Root",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/team/projectset/pserver/CVS/Entries",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/team/projectset/pserver/CVS/Repository",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "releng/team/projectset/pserver/CVS/Root",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "classpath",
+        10
+    ],
+    [
+        "Sven Efftinge",
+        "fbprefs",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "project",
+        8
+    ],
+    [
+        "Sven Efftinge",
+        "prefs",
+        24
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        10
+    ],
+    [
+        "Sven Efftinge",
+        "properties",
+        10
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        1058
+    ],
+    [
+        "Sven Efftinge",
+        "ecore",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "genmodel",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "xmi",
+        35
+    ],
+    [
+        "Sven Efftinge",
+        "g",
+        10
+    ],
+    [
+        "Sven Efftinge",
+        "tokens",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "gitignore",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "html",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "xml_gen",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "mwe2",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "chk",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "xtext",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "xml",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "launch",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        10
+    ],
+    [
+        "Holger Schill",
+        "MF",
+        4
+    ],
+    [
+        "Holger Schill",
+        "java",
+        59
+    ],
+    [
+        "Holger Schill",
+        "launch",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        1
+    ],
+    [
+        "Michael Clay",
+        "MF",
+        3
+    ],
+    [
+        "Michael Clay",
+        "java",
+        12
+    ]
+]

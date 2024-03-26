@@ -1,0 +1,82 @@
+[
+    [
+        "Matthew Khouzam",
+        "java",
+        4
+    ],
+    [
+        "Bernd Hufmann",
+        "java",
+        4
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "MF",
+        6
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "java",
+        40
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "tests/testfiles/dp/expectedDataTid2read",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "tests/testfiles/dp/expectedDataTid2rw",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "tests/testfiles/dp/expectedDataTid2rw2",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "tests/testfiles/dp/expectedDataTid2write",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "tests/testfiles/dp/expectedIoAccessMultiRows",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "tests/testfiles/dp/expectedIoAccessMultiTree",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "tests/testfiles/dp/expectedIoAccessRows",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "tests/testfiles/dp/expectedIoAccessTree",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "tests/testfiles/dp/expectedIoTree",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "tests/testfiles/stateSystem/expectedIoStateProvider",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "xml",
+        5
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "properties",
+        5
+    ]
+]

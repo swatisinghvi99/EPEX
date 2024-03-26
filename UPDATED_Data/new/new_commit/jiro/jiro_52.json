@@ -1,0 +1,62 @@
+[
+    [
+        "Frederic Gurr",
+        "jsonnet",
+        11
+    ],
+    [
+        "Frederic Gurr",
+        "n4js/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "json",
+        84
+    ],
+    [
+        "Frederic Gurr",
+        "yml",
+        12
+    ],
+    [
+        "Frederic Gurr",
+        "hbs",
+        7
+    ],
+    [
+        "Frederic Gurr",
+        "override",
+        6
+    ],
+    [
+        "Frederic Gurr",
+        "js",
+        5
+    ],
+    [
+        "Frederic Gurr",
+        "tigerstripe/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "corev/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "dltk/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "jubula/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "log",
+        1
+    ]
+]

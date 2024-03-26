@@ -1,0 +1,77 @@
+[
+    [
+        "BJ Hargrave",
+        "java",
+        99
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        4
+    ],
+    [
+        "BJ Hargrave",
+        "framework/src/org/osgi/framework/launch/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "xml",
+        7
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "java",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "java",
+        2
+    ],
+    [
+        "Evgeni Grigorov",
+        "project",
+        4
+    ],
+    [
+        "Evgeni Grigorov",
+        "java",
+        83
+    ],
+    [
+        "Evgeni Grigorov",
+        "classpath",
+        3
+    ],
+    [
+        "Evgeni Grigorov",
+        "prefs",
+        15
+    ],
+    [
+        "Evgeni Grigorov",
+        "bnd",
+        3
+    ],
+    [
+        "Evgeni Grigorov",
+        "xml",
+        3
+    ],
+    [
+        "Evgeni Grigorov",
+        "requirements",
+        1
+    ],
+    [
+        "Markus Alexander Kuppe",
+        "java",
+        1
+    ],
+    [
+        "David Bosschaert",
+        "java",
+        2
+    ]
+]

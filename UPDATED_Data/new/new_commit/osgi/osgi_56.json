@@ -1,0 +1,712 @@
+[
+    [
+        "Thomas Kiesslich",
+        "java",
+        28
+    ],
+    [
+        "Philipp Konradi",
+        "java",
+        17
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        564
+    ],
+    [
+        "BJ Hargrave",
+        "condpermadmin/src/org/osgi/service/condpermadmin/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        220
+    ],
+    [
+        "BJ Hargrave",
+        "classpath",
+        4
+    ],
+    [
+        "BJ Hargrave",
+        "project",
+        5
+    ],
+    [
+        "BJ Hargrave",
+        "prefs",
+        12
+    ],
+    [
+        "BJ Hargrave",
+        "xml",
+        4
+    ],
+    [
+        "BJ Hargrave",
+        "perm",
+        28
+    ],
+    [
+        "BJ Hargrave",
+        "txt",
+        24
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb1a/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb1b/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb1c/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb1d/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb1e/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb1f/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb1g/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb1h/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb1i/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb1j/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb20/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb2a/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb2b/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb2c/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb2d/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb3a/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb3b/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb3c/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb3d/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb3e/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb3f/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb7a/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb7b/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb7c/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb7e/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb7f/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb7g/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb7h/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb8a/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb8b/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb8c/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tb8d/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "fragments/src/org/osgi/test/cases/framework/fragments/tbc/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "launch",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "1",
+        4
+    ],
+    [
+        "BJ Hargrave",
+        "2",
+        4
+    ],
+    [
+        "BJ Hargrave",
+        "3",
+        4
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb1a/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb1b/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb1c/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb1d/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb1e/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb1f/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb1g/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb1h/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb1i/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb1j/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb20/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb2a/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb2b/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb2c/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb2d/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb3a/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb3b/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb3c/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb3d/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb3e/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb3f/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb7a/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb7b/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb7c/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb7e/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb7f/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb7g/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb7h/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb8a/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb8b/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb8c/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/fragments/tb8d/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "secure/src/org/osgi/test/cases/framework/junit/fragments/packageinfo",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb2a/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb2b/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb2c/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb2d/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb7f/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb7g/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "xsd",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        3
+    ],
+    [
+        "Tim Diekman",
+        "java",
+        1
+    ],
+    [
+        "Adrian Colyer",
+        "java",
+        20
+    ],
+    [
+        "Tom Watson",
+        "classpath",
+        7
+    ],
+    [
+        "Tom Watson",
+        "project",
+        1
+    ],
+    [
+        "Tom Watson",
+        "mf",
+        47
+    ],
+    [
+        "Tom Watson",
+        "launch",
+        3
+    ],
+    [
+        "Tom Watson",
+        "bnd",
+        139
+    ],
+    [
+        "Tom Watson",
+        "properties",
+        7
+    ],
+    [
+        "Tom Watson",
+        "java",
+        147
+    ],
+    [
+        "Tom Watson",
+        "1",
+        2
+    ],
+    [
+        "Tom Watson",
+        "2",
+        2
+    ],
+    [
+        "Tom Watson",
+        "3",
+        2
+    ],
+    [
+        "Tom Watson",
+        "perm",
+        30
+    ],
+    [
+        "Tom Watson",
+        "fragments/src/org/osgi/test/cases/framework/fragments/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "txt",
+        8
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb1a/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb1b/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb1c/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb1d/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb1e/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb1f/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb1g/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb1h/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb1i/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb1j/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb20/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb2a/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb2b/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb2c/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb2d/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb3a/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb3b/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb3c/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb3d/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb3e/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb3f/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb7a/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb7b/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb7c/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb7e/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb7f/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb7g/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb7h/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb8a/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb8b/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb8c/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/fragments/tb8d/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "framework/src/org/osgi/test/cases/framework/junit/fragments/packageinfo",
+        1
+    ],
+    [
+        "Tom Watson",
+        "ref",
+        3
+    ],
+    [
+        "Tom Watson",
+        "tc5/src/org/osgi/test/cases/packageadmin/tc5/packageinfo",
+        1
+    ],
+    [
+        "Ikuo Yamasaki",
+        "bnd",
+        10
+    ],
+    [
+        "Ikuo Yamasaki",
+        "properties",
+        116
+    ],
+    [
+        "Ikuo Yamasaki",
+        "java",
+        23
+    ]
+]

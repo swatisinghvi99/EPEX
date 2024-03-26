@@ -1,0 +1,282 @@
+[
+    [
+        "Markus Rathgeb",
+        "java",
+        4
+    ],
+    [
+        "Markus Rathgeb",
+        "xml",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "js",
+        1
+    ],
+    [
+        "Hans Hazelius",
+        "java",
+        2
+    ],
+    [
+        "Kai Kreuzer",
+        "java",
+        1062
+    ],
+    [
+        "Kai Kreuzer",
+        "xtext",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "launch",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "groovy",
+        89
+    ],
+    [
+        "Kai Kreuzer",
+        "MF",
+        13
+    ],
+    [
+        "Kai Kreuzer",
+        "xml",
+        226
+    ],
+    [
+        "Kai Kreuzer",
+        "txt",
+        5
+    ],
+    [
+        "Kai Kreuzer",
+        "prefs",
+        24
+    ],
+    [
+        "Kai Kreuzer",
+        "md",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "classpath",
+        6
+    ],
+    [
+        "Kai Kreuzer",
+        "gitignore",
+        3
+    ],
+    [
+        "Kai Kreuzer",
+        "project",
+        7
+    ],
+    [
+        "Kai Kreuzer",
+        "html",
+        7
+    ],
+    [
+        "Kai Kreuzer",
+        "bnd",
+        3
+    ],
+    [
+        "Kai Kreuzer",
+        "impl/src/main/java/org/eclipse/smarthome/protocols/enocean/basedriver/impl/conf/packageinfo",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "impl/src/main/java/org/eclipse/smarthome/protocols/enocean/basedriver/impl/esp/packageinfo",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "impl/src/main/java/org/eclipse/smarthome/protocols/enocean/basedriver/impl/impl/packageinfo",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "impl/src/main/java/org/eclipse/smarthome/protocols/enocean/basedriver/impl/packageinfo",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "impl/src/main/java/org/eclipse/smarthome/protocols/enocean/basedriver/impl/radio/packageinfo",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "impl/src/main/java/org/eclipse/smarthome/protocols/enocean/basedriver/impl/utils/packageinfo",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "basic/src/main/java/org/eclipse/smarthome/protocols/enocean/eeps/basic/packageinfo",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "basic/src/main/java/org/eclipse/smarthome/protocols/enocean/eeps/basic/utils/packageinfo",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "client/src/main/java/org/eclipse/smarthome/protocols/enocean/sample/client/packageinfo",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "client/src/main/java/org/eclipse/smarthome/protocols/enocean/sample/client/shell/packageinfo",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "client/src/main/java/org/eclipse/smarthome/protocols/enocean/sample/client/utils/packageinfo",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "properties",
+        9
+    ],
+    [
+        "adimova",
+        "java",
+        1
+    ],
+    [
+        "John Cocula",
+        "java",
+        1
+    ],
+    [
+        "lolodomo",
+        "java",
+        10
+    ],
+    [
+        "Simon Kaufmann",
+        "java",
+        1
+    ],
+    [
+        "aounhaider1",
+        "js",
+        8
+    ],
+    [
+        "aounhaider1",
+        "html",
+        3
+    ],
+    [
+        "aounhaider1",
+        "css",
+        1
+    ],
+    [
+        "Thomas H\u00f6fer",
+        "java",
+        7
+    ],
+    [
+        "Thomas H\u00f6fer",
+        "launch",
+        2
+    ],
+    [
+        "Thomas H\u00f6fer",
+        "groovy",
+        4
+    ],
+    [
+        "Thomas H\u00f6fer",
+        "md",
+        1
+    ],
+    [
+        "Thomas H\u00f6fer",
+        "properties",
+        2
+    ],
+    [
+        "Thomas H\u00f6fer",
+        "MF",
+        1
+    ],
+    [
+        "Thomas H\u00f6fer",
+        "xml",
+        3
+    ],
+    [
+        "Wouter Born",
+        "java",
+        1
+    ],
+    [
+        "Andre Fuechsel",
+        "launch",
+        1
+    ],
+    [
+        "Andre Fuechsel",
+        "groovy",
+        2
+    ],
+    [
+        "Andre Fuechsel",
+        "java",
+        5
+    ],
+    [
+        "Andre Fuechsel",
+        "xml",
+        1
+    ],
+    [
+        "Yordan Mihaylov",
+        "java",
+        3
+    ],
+    [
+        "Chris Jackson",
+        "MF",
+        2
+    ],
+    [
+        "Chris Jackson",
+        "java",
+        14
+    ],
+    [
+        "Chris Jackson",
+        "xml",
+        1
+    ],
+    [
+        "Christoph Schauer",
+        "java",
+        1
+    ],
+    [
+        "ivivanov-bg",
+        "java",
+        4
+    ],
+    [
+        "ivivanov-bg",
+        "groovy",
+        1
+    ]
+]

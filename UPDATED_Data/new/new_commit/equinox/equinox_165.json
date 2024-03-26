@@ -1,0 +1,162 @@
+[
+    [
+        "Lars Vogel",
+        "classpath",
+        2
+    ],
+    [
+        "Lars Vogel",
+        "xml",
+        12
+    ],
+    [
+        "Lars Vogel",
+        "java",
+        15
+    ],
+    [
+        "Lars Vogel",
+        "gitignore",
+        1
+    ],
+    [
+        "Lars Vogel",
+        "prefs",
+        2
+    ],
+    [
+        "Lars Vogel",
+        "MF",
+        1
+    ],
+    [
+        "Lars Vogel",
+        "properties",
+        6
+    ],
+    [
+        "Lars Vogel",
+        "html",
+        1
+    ],
+    [
+        "Lars Vogel",
+        "project",
+        1
+    ],
+    [
+        "Lars Vogel",
+        "txt",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "c",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "java",
+        112
+    ],
+    [
+        "Thomas Watson",
+        "classpath",
+        3
+    ],
+    [
+        "Thomas Watson",
+        "gitignore",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "project",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "prefs",
+        9
+    ],
+    [
+        "Thomas Watson",
+        "MF",
+        4
+    ],
+    [
+        "Thomas Watson",
+        "html",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "properties",
+        4
+    ],
+    [
+        "Thomas Watson",
+        "xml",
+        3
+    ],
+    [
+        "Thomas Watson",
+        "api_filters",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "services/src/org/osgi/service/device/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "services/src/org/osgi/service/event/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "services/src/org/osgi/service/metatype/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "services/src/org/osgi/service/provisioning/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "services/src/org/osgi/service/upnp/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "services/src/org/osgi/service/useradmin/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "services/src/org/osgi/service/wireadmin/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "util/src/org/osgi/util/measurement/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "util/src/org/osgi/util/position/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "util/src/org/osgi/util/xml/packageinfo",
+        1
+    ]
+]

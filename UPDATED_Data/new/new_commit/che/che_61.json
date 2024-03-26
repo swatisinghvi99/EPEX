@@ -1,0 +1,122 @@
+[
+    [
+        "Sergii Kabashniuk",
+        "java",
+        8
+    ],
+    [
+        "Sergii Kabashniuk",
+        "properties",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "xml",
+        1
+    ],
+    [
+        "Sergey Skorik",
+        "opts",
+        2
+    ],
+    [
+        "Sergey Skorik",
+        "json",
+        2
+    ],
+    [
+        "Sergey Skorik",
+        "ts",
+        6
+    ],
+    [
+        "Shmaraiev Oleksandr",
+        "ts",
+        13
+    ],
+    [
+        "Max Shaposhnik",
+        "java",
+        19
+    ],
+    [
+        "Dmytro Nochevnov",
+        "infra/crw-ci/pr-check/k8s/Jenkinsfile",
+        1
+    ],
+    [
+        "Dmytro Nochevnov",
+        "ts",
+        4
+    ],
+    [
+        "Dmytro Nochevnov",
+        "yaml",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "java",
+        2
+    ],
+    [
+        "Angel Misevski",
+        "java",
+        2
+    ],
+    [
+        "Igor Ohrimenko",
+        "ts",
+        19
+    ],
+    [
+        "Igor Ohrimenko",
+        "opts",
+        1
+    ],
+    [
+        "Igor Ohrimenko",
+        "json",
+        1
+    ],
+    [
+        "Pavol Baran",
+        "properties",
+        1
+    ],
+    [
+        "Pavol Baran",
+        "java",
+        3
+    ],
+    [
+        "Katerina Foniok",
+        "ts",
+        3
+    ],
+    [
+        "Sergii Leshchenko",
+        "md",
+        3
+    ],
+    [
+        "Sergii Leshchenko",
+        "yaml",
+        1
+    ],
+    [
+        "Sergii Leshchenko",
+        "xml",
+        6
+    ],
+    [
+        "Sergii Leshchenko",
+        "java",
+        1
+    ],
+    [
+        "Sergii Leshchenko",
+        "unknown",
+        1
+    ]
+]

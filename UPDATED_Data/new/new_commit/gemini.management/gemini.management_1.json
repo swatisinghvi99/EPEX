@@ -1,0 +1,67 @@
+[
+    [
+        "Mike Keith",
+        "html",
+        9
+    ],
+    [
+        "Mike Keith",
+        "classpath",
+        1
+    ],
+    [
+        "Mike Keith",
+        "project",
+        3
+    ],
+    [
+        "Mike Keith",
+        "prefs",
+        2
+    ],
+    [
+        "Mike Keith",
+        "MF",
+        1
+    ],
+    [
+        "Mike Keith",
+        "properties",
+        1
+    ],
+    [
+        "Mike Keith",
+        "java",
+        34
+    ],
+    [
+        "Mike Keith",
+        "jmx/src/org/osgi/jmx/framework/packageinfo",
+        1
+    ],
+    [
+        "Mike Keith",
+        "jmx/src/org/osgi/jmx/packageinfo",
+        1
+    ],
+    [
+        "Mike Keith",
+        "jmx/src/org/osgi/jmx/service/cm/packageinfo",
+        1
+    ],
+    [
+        "Mike Keith",
+        "jmx/src/org/osgi/jmx/service/permissionadmin/packageinfo",
+        1
+    ],
+    [
+        "Mike Keith",
+        "jmx/src/org/osgi/jmx/service/provisioning/packageinfo",
+        1
+    ],
+    [
+        "Mike Keith",
+        "jmx/src/org/osgi/jmx/service/useradmin/packageinfo",
+        1
+    ]
+]

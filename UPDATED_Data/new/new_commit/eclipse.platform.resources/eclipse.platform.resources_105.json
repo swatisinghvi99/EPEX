@@ -1,0 +1,82 @@
+[
+    [
+        "Serge Beauchamp",
+        "java",
+        40
+    ],
+    [
+        "Serge Beauchamp",
+        "properties",
+        2
+    ],
+    [
+        "Serge Beauchamp",
+        "xml",
+        1
+    ],
+    [
+        "Serge Beauchamp",
+        "exsd",
+        1
+    ],
+    [
+        "Szymon Brandys",
+        "java",
+        41
+    ],
+    [
+        "Szymon Brandys",
+        "properties",
+        2
+    ],
+    [
+        "Szymon Brandys",
+        "MF",
+        7
+    ],
+    [
+        "Szymon Brandys",
+        "filesystem/natives/macosx/Makefile",
+        1
+    ],
+    [
+        "Szymon Brandys",
+        "c",
+        4
+    ],
+    [
+        "Szymon Brandys",
+        "TXT",
+        1
+    ],
+    [
+        "Szymon Brandys",
+        "filesystem/natives/unix/linux/Makefile",
+        1
+    ],
+    [
+        "Szymon Brandys",
+        "h",
+        5
+    ],
+    [
+        "Szymon Brandys",
+        "filesystem/natives/unix/macosx/Makefile",
+        1
+    ],
+    [
+        "Szymon Brandys",
+        "txt",
+        7
+    ],
+    [
+        "Szymon Brandys",
+        "filesystem/natives/unix/aix/Makefile",
+        1
+    ],
+    [
+        "Szymon Brandys",
+        "filesystem/natives/unix/solaris/Makefile",
+        1
+    ]
+]

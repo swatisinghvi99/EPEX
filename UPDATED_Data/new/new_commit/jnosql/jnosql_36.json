@@ -1,0 +1,62 @@
+[
+    [
+        "Otavio Santana",
+        "java",
+        214
+    ],
+    [
+        "Otavio Santana",
+        "DocumentQueryPagination$DocumentQueryPaginationProvider",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "DeleteQueryConverter",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "DocumentQueryParser",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "DocumentQueryParserAsync",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "SelectQueryConverter",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "Extension",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "xml",
+        11
+    ],
+    [
+        "Otavio Santana",
+        "yaml",
+        4
+    ],
+    [
+        "Otavio Santana",
+        "gitignore",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "json",
+        7
+    ],
+    [
+        "Otavio Santana",
+        "ValueReader",
+        1
+    ]
+]

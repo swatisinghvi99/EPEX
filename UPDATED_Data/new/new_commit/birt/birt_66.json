@@ -1,0 +1,307 @@
+[
+    [
+        "Lin Zhu",
+        "java",
+        72
+    ],
+    [
+        "Lin Zhu",
+        "txt",
+        5
+    ],
+    [
+        "jili",
+        "java",
+        25
+    ],
+    [
+        "jili",
+        "properties",
+        2
+    ],
+    [
+        "Jun Ouyang",
+        "java",
+        77
+    ],
+    [
+        "Jun Ouyang",
+        "properties",
+        6
+    ],
+    [
+        "Dazheng Gao",
+        "java",
+        29
+    ],
+    [
+        "Dazheng Gao",
+        "properties",
+        5
+    ],
+    [
+        "Gang Liu",
+        "java",
+        14
+    ],
+    [
+        "Gang Liu",
+        "xml",
+        2
+    ],
+    [
+        "cchao",
+        "java",
+        47
+    ],
+    [
+        "cchao",
+        "properties",
+        1
+    ],
+    [
+        "yuchen",
+        "java",
+        32
+    ],
+    [
+        "yuchen",
+        "properties",
+        1
+    ],
+    [
+        "xzhu",
+        "java",
+        27
+    ],
+    [
+        "wtu",
+        "java",
+        42
+    ],
+    [
+        "wtu",
+        "properties",
+        5
+    ],
+    [
+        "xli",
+        "java",
+        46
+    ],
+    [
+        "xli",
+        "properties",
+        2
+    ],
+    [
+        "xli",
+        "xml",
+        22
+    ],
+    [
+        "xli",
+        "def",
+        1
+    ],
+    [
+        "Yueqian Wang",
+        "java",
+        19
+    ],
+    [
+        "Yueqian Wang",
+        "xml",
+        13
+    ],
+    [
+        "Yueqian Wang",
+        "def",
+        2
+    ],
+    [
+        "Yueqian Wang",
+        "properties",
+        1
+    ],
+    [
+        "heli",
+        "java",
+        45
+    ],
+    [
+        "heli",
+        "MF",
+        1
+    ],
+    [
+        "heli",
+        "js",
+        2
+    ],
+    [
+        "yulin",
+        "java",
+        47
+    ],
+    [
+        "yulin",
+        "properties",
+        2
+    ],
+    [
+        "ywang1",
+        "java",
+        122
+    ],
+    [
+        "ywang1",
+        "MF",
+        1
+    ],
+    [
+        "ywang1",
+        "genmodel",
+        2
+    ],
+    [
+        "ywang1",
+        "xsd2ecore",
+        2
+    ],
+    [
+        "ywang1",
+        "ecore",
+        5
+    ],
+    [
+        "ywang1",
+        "xsd",
+        5
+    ],
+    [
+        "Mingxia Wu",
+        "java",
+        32
+    ],
+    [
+        "Mingxia Wu",
+        "txt",
+        1
+    ],
+    [
+        "vpetry",
+        "java",
+        4
+    ],
+    [
+        "Linda Chan",
+        "MF",
+        5
+    ],
+    [
+        "Linda Chan",
+        "properties",
+        3
+    ],
+    [
+        "Linda Chan",
+        "xml",
+        2
+    ],
+    [
+        "Linda Chan",
+        "java",
+        13
+    ],
+    [
+        "Linda Chan",
+        "classpath",
+        1
+    ],
+    [
+        "Linda Chan",
+        "cvsignore",
+        1
+    ],
+    [
+        "Linda Chan",
+        "project",
+        1
+    ],
+    [
+        "Linda Chan",
+        "html",
+        1
+    ],
+    [
+        "Xiaoying Gu",
+        "java",
+        3
+    ],
+    [
+        "Xiaoying Gu",
+        "xml",
+        5
+    ],
+    [
+        "Xiaoying Gu",
+        "MF",
+        1
+    ],
+    [
+        "xiazhang",
+        "java",
+        59
+    ],
+    [
+        "xiazhang",
+        "properties",
+        1
+    ],
+    [
+        "Rick Lu",
+        "java",
+        6
+    ],
+    [
+        "Rick Lu",
+        "properties",
+        1
+    ],
+    [
+        "Rick Lu",
+        "txt",
+        1
+    ],
+    [
+        "Zhiqiang Qian",
+        "java",
+        17
+    ],
+    [
+        "Zhiqiang Qian",
+        "MF",
+        1
+    ],
+    [
+        "Zhiqiang Qian",
+        "js",
+        1
+    ],
+    [
+        "Zhiqiang Qian",
+        "xml",
+        1
+    ],
+    [
+        "Zhiqiang Qian",
+        "properties",
+        1
+    ],
+    [
+        "Wei Yan",
+        "java",
+        5
+    ]
+]

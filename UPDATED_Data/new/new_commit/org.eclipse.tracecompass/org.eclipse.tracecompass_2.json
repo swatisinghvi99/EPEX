@@ -1,0 +1,47 @@
+[
+    [
+        "Francois Chouinard",
+        "java",
+        170
+    ],
+    [
+        "Francois Chouinard",
+        "tmf/ChangeLog",
+        5
+    ],
+    [
+        "Francois Chouinard",
+        "ui/ChangeLog",
+        10
+    ],
+    [
+        "Francois Chouinard",
+        "MF",
+        3
+    ],
+    [
+        "Francois Chouinard",
+        "properties",
+        1
+    ],
+    [
+        "Francois Chouinard",
+        "xml",
+        1
+    ],
+    [
+        "Francois Chouinard",
+        "exsd",
+        1
+    ],
+    [
+        "Francois Chouinard",
+        "tests/ChangeLog",
+        1
+    ],
+    [
+        "Francois Chouinard",
+        "lttng/ChangeLog",
+        1
+    ]
+]

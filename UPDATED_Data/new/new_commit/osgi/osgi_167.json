@@ -1,0 +1,42 @@
+[
+    [
+        "Tim Verbelen",
+        "json",
+        1
+    ],
+    [
+        "Tim Verbelen",
+        "java",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        16
+    ],
+    [
+        "BJ Hargrave",
+        "mvn",
+        1
+    ],
+    [
+        "Todor Boev",
+        "bnd",
+        20
+    ],
+    [
+        "Todor Boev",
+        "java",
+        96
+    ],
+    [
+        "Todor Boev",
+        "cdi/src/org/osgi/test/cases/cdi/serviceapi/packageinfo",
+        1
+    ],
+    [
+        "Raymond Auge",
+        "java",
+        3
+    ]
+]

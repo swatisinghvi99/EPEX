@@ -1,0 +1,102 @@
+[
+    [
+        "Yufei Cai",
+        "java",
+        123
+    ],
+    [
+        "Yufei Cai",
+        "conf",
+        5
+    ],
+    [
+        "Philipp Michalski",
+        "java",
+        192
+    ],
+    [
+        "Philipp Michalski",
+        "xml",
+        3
+    ],
+    [
+        "Dominik Guggemos",
+        "xml",
+        1
+    ],
+    [
+        "Dominik Guggemos",
+        "java",
+        169
+    ],
+    [
+        "Dominik Guggemos",
+        "conf",
+        2
+    ],
+    [
+        "Thomas Jaeckle",
+        "conf",
+        16
+    ],
+    [
+        "Thomas Jaeckle",
+        "java",
+        259
+    ],
+    [
+        "Thomas Jaeckle",
+        "xml",
+        6
+    ],
+    [
+        "Thomas Jaeckle",
+        "js",
+        3
+    ],
+    [
+        "Daniel Fesenmeyer",
+        "java",
+        117
+    ],
+    [
+        "Daniel Fesenmeyer",
+        "xml",
+        4
+    ],
+    [
+        "Daniel Fesenmeyer",
+        "scala",
+        2
+    ],
+    [
+        "Daniel Fesenmeyer",
+        "conf",
+        2
+    ],
+    [
+        "Stefan Maute",
+        "java",
+        54
+    ],
+    [
+        "Cai Yufei (INST/ECS1)",
+        "xml",
+        17
+    ],
+    [
+        "Cai Yufei (INST/ECS1)",
+        "java",
+        199
+    ],
+    [
+        "Cai Yufei (INST/ECS1)",
+        "conf",
+        8
+    ],
+    [
+        "Cai Yufei (INST/ECS1)",
+        "json",
+        1
+    ]
+]

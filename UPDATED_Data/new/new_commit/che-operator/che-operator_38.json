@@ -1,0 +1,102 @@
+[
+    [
+        "Anatolii Bazko",
+        "go",
+        8
+    ],
+    [
+        "Anatolii Bazko",
+        "json",
+        2
+    ],
+    [
+        "Anatolii Bazko",
+        "unknown",
+        3
+    ],
+    [
+        "Anatolii Bazko",
+        "md",
+        3
+    ],
+    [
+        "Anatolii Bazko",
+        "Dockerfile",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "yaml",
+        10
+    ],
+    [
+        "Anatolii Bazko",
+        "sh",
+        1
+    ],
+    [
+        "David Kwon",
+        "go",
+        2
+    ],
+    [
+        "che-bot",
+        "Dockerfile",
+        1
+    ],
+    [
+        "che-bot",
+        "yaml",
+        5
+    ],
+    [
+        "che-bot",
+        "diff",
+        2
+    ],
+    [
+        "che-bot",
+        "sh",
+        1
+    ],
+    [
+        "che-bot",
+        "go",
+        1
+    ],
+    [
+        "Ilya Buziuk",
+        "go",
+        4
+    ],
+    [
+        "Ilya Buziuk",
+        "yaml",
+        7
+    ],
+    [
+        "Angel Misevski",
+        "md",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "mod",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "sum",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "go",
+        4
+    ],
+    [
+        "Angel Misevski",
+        "txt",
+        1
+    ]
+]

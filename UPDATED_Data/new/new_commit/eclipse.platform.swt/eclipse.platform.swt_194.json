@@ -1,0 +1,257 @@
+[
+    [
+        "Eric Williams",
+        "java",
+        88
+    ],
+    [
+        "Eric Williams",
+        "c",
+        6
+    ],
+    [
+        "Eric Williams",
+        "h",
+        8
+    ],
+    [
+        "Eric Williams",
+        "classpath",
+        1
+    ],
+    [
+        "Eric Williams",
+        "gtk/Bug Snippets/org/eclipse/swt/tests/gtk/snippets/README",
+        1
+    ],
+    [
+        "Arun Thondapu",
+        "java",
+        12
+    ],
+    [
+        "Arun Thondapu",
+        "mak",
+        10
+    ],
+    [
+        "Arun Thondapu",
+        "txt",
+        10
+    ],
+    [
+        "Niraj Modi",
+        "java",
+        4
+    ],
+    [
+        "Ian Pun",
+        "java",
+        7
+    ],
+    [
+        "Ian Pun",
+        "c",
+        2
+    ],
+    [
+        "Ian Pun",
+        "h",
+        2
+    ],
+    [
+        "Ian Pun",
+        "properties",
+        1
+    ],
+    [
+        "Leo Ufimtsev",
+        "java",
+        18
+    ],
+    [
+        "Leo Ufimtsev",
+        "c",
+        4
+    ],
+    [
+        "Leo Ufimtsev",
+        "h",
+        2
+    ],
+    [
+        "Leo Ufimtsev",
+        "classpath",
+        1
+    ],
+    [
+        "Conrad Groth",
+        "java",
+        4
+    ],
+    [
+        "Conrad Groth",
+        "xml",
+        4
+    ],
+    [
+        "Conrad Groth",
+        "classpath",
+        3
+    ],
+    [
+        "Conrad Groth",
+        "project",
+        3
+    ],
+    [
+        "Conrad Groth",
+        "prefs",
+        8
+    ],
+    [
+        "Conrad Groth",
+        "cocoa/JUnit Tests/org/eclipse/swt/tests/cocoa/README",
+        1
+    ],
+    [
+        "Conrad Groth",
+        "MF",
+        3
+    ],
+    [
+        "Conrad Groth",
+        "properties",
+        3
+    ],
+    [
+        "Conrad Groth",
+        "gtk/JUnit Tests/org/eclipse/swt/tests/gtk/README",
+        1
+    ],
+    [
+        "Conrad Groth",
+        "win32/JUnit Tests/org/eclipse/swt/tests/win32/README",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "c",
+        17
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        159
+    ],
+    [
+        "Alexander Kurtakov",
+        "classpath",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "properties",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "h",
+        27
+    ],
+    [
+        "Alexander Kurtakov",
+        "classpath_cocoa",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "classpath_gtk",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "classpath_gtk_win32",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "classpath_win32",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "rc",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "cpp",
+        7
+    ],
+    [
+        "Alexander Kurtakov",
+        "html",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "inf",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "xml",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "manifest",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "idl",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "js",
+        1
+    ],
+    [
+        "Lakshmi Shanmugam",
+        "java",
+        14
+    ],
+    [
+        "Lakshmi Shanmugam",
+        "classpath_cocoa",
+        1
+    ],
+    [
+        "Lakshmi Shanmugam",
+        "classpath_gtk",
+        1
+    ],
+    [
+        "Lakshmi Shanmugam",
+        "classpath_win32",
+        1
+    ],
+    [
+        "Markus Keller",
+        "java",
+        2
+    ],
+    [
+        "Lars Vogel",
+        "java",
+        1
+    ]
+]

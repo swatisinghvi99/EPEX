@@ -1,0 +1,397 @@
+[
+    [
+        "Uwe Stieber",
+        "project",
+        3
+    ],
+    [
+        "Uwe Stieber",
+        "properties",
+        14
+    ],
+    [
+        "Uwe Stieber",
+        "xml",
+        18
+    ],
+    [
+        "Uwe Stieber",
+        "MF",
+        2
+    ],
+    [
+        "Uwe Stieber",
+        "java",
+        100
+    ],
+    [
+        "Uwe Stieber",
+        "options",
+        7
+    ],
+    [
+        "Alena Laskavaia",
+        "java",
+        11
+    ],
+    [
+        "Marc Khouzam",
+        "properties",
+        2
+    ],
+    [
+        "Marc Khouzam",
+        "xml",
+        1
+    ],
+    [
+        "Marc Khouzam",
+        "java",
+        21
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        3
+    ],
+    [
+        "Simon Marchi",
+        "java",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        150
+    ],
+    [
+        "Doug Schaefer",
+        "properties",
+        19
+    ],
+    [
+        "Doug Schaefer",
+        "classpath",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "gitignore",
+        5
+    ],
+    [
+        "Doug Schaefer",
+        "project",
+        6
+    ],
+    [
+        "Doug Schaefer",
+        "prefs",
+        6
+    ],
+    [
+        "Doug Schaefer",
+        "MF",
+        8
+    ],
+    [
+        "Doug Schaefer",
+        "html",
+        4
+    ],
+    [
+        "Doug Schaefer",
+        "ini",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "mappings",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "xml",
+        21
+    ],
+    [
+        "Doug Schaefer",
+        "target",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "mk",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "exsd",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "core/templates/Makefile",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "cpp",
+        1
+    ],
+    [
+        "Jesper Eskilson",
+        "java",
+        1
+    ],
+    [
+        "Marc-Andre Laperle",
+        "java",
+        3
+    ],
+    [
+        "Marc-Andre Laperle",
+        "htm",
+        1
+    ],
+    [
+        "Marc-Andre Laperle",
+        "project",
+        1
+    ],
+    [
+        "Marc-Andre Laperle",
+        "product/README",
+        1
+    ],
+    [
+        "Marc-Andre Laperle",
+        "html",
+        3
+    ],
+    [
+        "Marc-Andre Laperle",
+        "properties",
+        3
+    ],
+    [
+        "Marc-Andre Laperle",
+        "product",
+        1
+    ],
+    [
+        "Marc-Andre Laperle",
+        "ini",
+        1
+    ],
+    [
+        "Marc-Andre Laperle",
+        "xml",
+        3
+    ],
+    [
+        "Marc-Andre Laperle",
+        "target",
+        6
+    ],
+    [
+        "Greg Watson",
+        "java",
+        46
+    ],
+    [
+        "Greg Watson",
+        "classpath",
+        1
+    ],
+    [
+        "Greg Watson",
+        "cvsignore",
+        1
+    ],
+    [
+        "Greg Watson",
+        "gitignore",
+        1
+    ],
+    [
+        "Greg Watson",
+        "project",
+        2
+    ],
+    [
+        "Greg Watson",
+        "prefs",
+        2
+    ],
+    [
+        "Greg Watson",
+        "xml",
+        10
+    ],
+    [
+        "Greg Watson",
+        "MF",
+        1
+    ],
+    [
+        "Greg Watson",
+        "html",
+        6
+    ],
+    [
+        "Greg Watson",
+        "ini",
+        1
+    ],
+    [
+        "Greg Watson",
+        "mappings",
+        1
+    ],
+    [
+        "Greg Watson",
+        "properties",
+        8
+    ],
+    [
+        "Greg Watson",
+        "css",
+        1
+    ],
+    [
+        "Greg Watson",
+        "exsd",
+        1
+    ],
+    [
+        "Sergey Prigogin",
+        "java",
+        99
+    ],
+    [
+        "Rob Stryker",
+        "java",
+        10
+    ],
+    [
+        "Rob Stryker",
+        "properties",
+        1
+    ],
+    [
+        "Max Weninger",
+        "java",
+        6
+    ],
+    [
+        "Max Weninger",
+        "properties",
+        1
+    ],
+    [
+        "Anton Leherbauer",
+        "java",
+        2
+    ],
+    [
+        "Stefan Xenos",
+        "java",
+        2
+    ],
+    [
+        "Nathan Ridge",
+        "java",
+        5
+    ],
+    [
+        "Jonah Graham",
+        "java",
+        6
+    ],
+    [
+        "Jonah Graham",
+        "html",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "properties",
+        3
+    ],
+    [
+        "Jonah Graham",
+        "xml",
+        1
+    ],
+    [
+        "Guy",
+        "java",
+        1
+    ],
+    [
+        "mazab",
+        "java",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "MF",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "project",
+        3
+    ],
+    [
+        "Jeff Johnston",
+        "properties",
+        7
+    ],
+    [
+        "Jeff Johnston",
+        "xml",
+        8
+    ],
+    [
+        "Jeff Johnston",
+        "classpath",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "gitignore",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "prefs",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "html",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "java",
+        17
+    ],
+    [
+        "Jeff Johnston",
+        "target",
+        1
+    ],
+    [
+        "",
+        "java",
+        1
+    ],
+    [
+        "Martin Oberhuber",
+        "java",
+        2
+    ]
+]

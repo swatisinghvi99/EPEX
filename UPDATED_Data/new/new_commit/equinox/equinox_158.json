@@ -1,0 +1,137 @@
+[
+    [
+        "Thomas Watson",
+        "java",
+        99
+    ],
+    [
+        "Thomas Watson",
+        "api_filters",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "MF",
+        9
+    ],
+    [
+        "Thomas Watson",
+        "xml",
+        9
+    ],
+    [
+        "Thomas Watson",
+        "services/src/org/osgi/service/component/annotations/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "services/src/org/osgi/service/component/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "services/src/org/osgi/service/component/runtime/dto/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "services/src/org/osgi/service/component/runtime/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "properties",
+        4
+    ],
+    [
+        "Thomas Watson",
+        "util/src/org/osgi/util/function/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "util/src/org/osgi/util/promise/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "launch",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "classpath",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "options",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "prefs",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "html",
+        5
+    ],
+    [
+        "Thomas Watson",
+        "inf",
+        1
+    ],
+    [
+        "Raymond Auge",
+        "java",
+        9
+    ],
+    [
+        "Mikael Barbero",
+        "java",
+        1
+    ],
+    [
+        "Mikael Barbero",
+        "classpath",
+        1
+    ],
+    [
+        "Mikael Barbero",
+        "prefs",
+        1
+    ],
+    [
+        "Mikael Barbero",
+        "MF",
+        1
+    ],
+    [
+        "Mikael Barbero",
+        "properties",
+        1
+    ],
+    [
+        "Mikael Barbero",
+        "xml",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        17
+    ],
+    [
+        "Markus Keller",
+        "api_filters",
+        1
+    ],
+    [
+        "Markus Keller",
+        "java",
+        2
+    ]
+]

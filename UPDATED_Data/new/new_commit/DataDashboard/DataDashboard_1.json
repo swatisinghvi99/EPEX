@@ -1,0 +1,112 @@
+[
+    [
+        "C.B. Lomonico",
+        "dockerignore",
+        1
+    ],
+    [
+        "C.B. Lomonico",
+        "editorconfig",
+        1
+    ],
+    [
+        "C.B. Lomonico",
+        "md",
+        13
+    ],
+    [
+        "C.B. Lomonico",
+        "yaml",
+        2
+    ],
+    [
+        "C.B. Lomonico",
+        "gitignore",
+        2
+    ],
+    [
+        "C.B. Lomonico",
+        "unknown",
+        3
+    ],
+    [
+        "C.B. Lomonico",
+        "json",
+        7
+    ],
+    [
+        "C.B. Lomonico",
+        "conf",
+        1
+    ],
+    [
+        "C.B. Lomonico",
+        "txt",
+        1
+    ],
+    [
+        "C.B. Lomonico",
+        "js",
+        1
+    ],
+    [
+        "C.B. Lomonico",
+        "http",
+        1
+    ],
+    [
+        "C.B. Lomonico",
+        "ts",
+        89
+    ],
+    [
+        "C.B. Lomonico",
+        "html",
+        16
+    ],
+    [
+        "C.B. Lomonico",
+        "scss",
+        15
+    ],
+    [
+        "C.B. Lomonico",
+        "openapi-generator-ignore",
+        1
+    ],
+    [
+        "C.B. Lomonico",
+        "openapi-generator/FILES",
+        1
+    ],
+    [
+        "C.B. Lomonico",
+        "openapi-generator/VERSION",
+        1
+    ],
+    [
+        "C.B. Lomonico",
+        "sh",
+        1
+    ],
+    [
+        "C.B. Lomonico",
+        "tf",
+        3
+    ],
+    [
+        "C.B. Lomonico",
+        "tfstate",
+        1
+    ],
+    [
+        "C.B. Lomonico",
+        "backup",
+        1
+    ],
+    [
+        "C.B. Lomonico",
+        "tfvars",
+        1
+    ]
+]

@@ -1,0 +1,122 @@
+[
+    [
+        "Greg Wilkins",
+        "java",
+        42
+    ],
+    [
+        "Olivier Lamy",
+        "mod",
+        44
+    ],
+    [
+        "Olivier Lamy",
+        "xml",
+        11
+    ],
+    [
+        "Olivier Lamy",
+        "adoc",
+        26
+    ],
+    [
+        "Olivier Lamy",
+        "java",
+        21
+    ],
+    [
+        "Olivier Lamy",
+        "txt",
+        1
+    ],
+    [
+        "Olivier Lamy",
+        "unknown",
+        1
+    ],
+    [
+        "Olivier Lamy",
+        "groovy",
+        12
+    ],
+    [
+        "Simone Bordet",
+        "java",
+        47
+    ],
+    [
+        "Simone Bordet",
+        "properties",
+        1
+    ],
+    [
+        "Simone Bordet",
+        "adoc",
+        3
+    ],
+    [
+        "Simone Bordet",
+        "groovy",
+        3
+    ],
+    [
+        "Simone Bordet",
+        "xml",
+        3
+    ],
+    [
+        "Simone Bordet",
+        "mod",
+        2
+    ],
+    [
+        "Joakim Erdfelt",
+        "java",
+        56
+    ],
+    [
+        "Joakim Erdfelt",
+        "unknown",
+        1
+    ],
+    [
+        "Joakim Erdfelt",
+        "xml",
+        3
+    ],
+    [
+        "Lachlan Roberts",
+        "java",
+        22
+    ],
+    [
+        "Luke Butters",
+        "java",
+        4
+    ],
+    [
+        "Jan Bartel",
+        "java",
+        3
+    ],
+    [
+        "olivier lamy",
+        "java",
+        2
+    ],
+    [
+        "Lachlan",
+        "java",
+        3
+    ],
+    [
+        "Sean Kavanagh",
+        "java",
+        1
+    ],
+    [
+        "Matthias Perktold",
+        "java",
+        30
+    ]
+]

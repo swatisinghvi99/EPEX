@@ -1,0 +1,107 @@
+[
+    [
+        "Simeon H.K. Fitch",
+        "scala",
+        16
+    ],
+    [
+        "Simeon H.K. Fitch",
+        "dockerignore",
+        1
+    ],
+    [
+        "Simeon H.K. Fitch",
+        "circleci/Dockerfile",
+        1
+    ],
+    [
+        "Simeon H.K. Fitch",
+        "circleci/Makefile",
+        1
+    ],
+    [
+        "Simeon H.K. Fitch",
+        "yml",
+        2
+    ],
+    [
+        "Simeon H.K. Fitch",
+        "circleci/fix-permissions",
+        1
+    ],
+    [
+        "Simeon H.K. Fitch",
+        "py",
+        6
+    ],
+    [
+        "Simeon H.K. Fitch",
+        "sbtopts",
+        1
+    ],
+    [
+        "Simeon H.K. Fitch",
+        "gitignore",
+        1
+    ],
+    [
+        "Simeon H.K. Fitch",
+        "md",
+        1
+    ],
+    [
+        "Simeon H.K. Fitch",
+        "sbt",
+        3
+    ],
+    [
+        "Simeon H.K. Fitch",
+        "DataSourceRegister",
+        1
+    ],
+    [
+        "Simeon H.K. Fitch",
+        "properties",
+        1
+    ],
+    [
+        "Grigory Pomadchin",
+        "scala",
+        180
+    ],
+    [
+        "Grigory Pomadchin",
+        "sbt",
+        1
+    ],
+    [
+        "Grigory Pomadchin",
+        "py",
+        11
+    ],
+    [
+        "Grigory Pomadchin",
+        "ipynb",
+        3
+    ],
+    [
+        "Grigory Pomadchin",
+        "md",
+        1
+    ],
+    [
+        "Grigory Pomadchin",
+        "unknown",
+        2
+    ],
+    [
+        "Grigory Pomadchin",
+        "yml",
+        2
+    ],
+    [
+        "Grigory Pomadchin",
+        "gitignore",
+        1
+    ]
+]

@@ -1,0 +1,297 @@
+[
+    [
+        "Oleksii Kurinnyi",
+        "ts",
+        55
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "html",
+        12
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "styl",
+        12
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "java",
+        1
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "json",
+        1
+    ],
+    [
+        "Vitaliy Gulyy",
+        "ts",
+        4
+    ],
+    [
+        "Sergii Kabashniuk",
+        "java",
+        25
+    ],
+    [
+        "Sergii Kabashniuk",
+        "xml",
+        3
+    ],
+    [
+        "Sergii Kabashniuk",
+        "yaml",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "sql",
+        1
+    ],
+    [
+        "Sergii Leshchenko",
+        "java",
+        17
+    ],
+    [
+        "Sergii Leshchenko",
+        "json",
+        2
+    ],
+    [
+        "Sergii Leshchenko",
+        "yaml",
+        1
+    ],
+    [
+        "Sergey Skorik",
+        "java",
+        10
+    ],
+    [
+        "Sergey Skorik",
+        "xml",
+        2
+    ],
+    [
+        "Vitalii Parfonov",
+        "yaml",
+        3
+    ],
+    [
+        "Vitalii Parfonov",
+        "java",
+        8
+    ],
+    [
+        "Oleksii Orel",
+        "ts",
+        5
+    ],
+    [
+        "Oleksii Orel",
+        "json",
+        1
+    ],
+    [
+        "Oleksii Orel",
+        "lock",
+        1
+    ],
+    [
+        "Lucia Jelinkova",
+        "js",
+        3
+    ],
+    [
+        "Dmytro Nochevnov",
+        "java",
+        2
+    ],
+    [
+        "Dmytro Nochevnov",
+        "ts",
+        1
+    ],
+    [
+        "Lukas Krejci",
+        "java",
+        77
+    ],
+    [
+        "Lukas Krejci",
+        "yaml",
+        2
+    ],
+    [
+        "Lukas Krejci",
+        "sh",
+        1
+    ],
+    [
+        "Lukas Krejci",
+        "xml",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "java",
+        31
+    ],
+    [
+        "Max Shaposhnik",
+        "xml",
+        9
+    ],
+    [
+        "Angel Misevski",
+        "java",
+        2
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "sh",
+        1
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "xml",
+        285
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "java",
+        1356
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "properties",
+        14
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "txt",
+        36
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "json",
+        108
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "unknown",
+        36
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "cs",
+        6
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "csproj",
+        4
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "md",
+        42
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "jsp",
+        114
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "gitignore",
+        16
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "cc",
+        4
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "cpp",
+        4
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "h",
+        2
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "html",
+        16
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "py",
+        8
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "less",
+        8
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "sql",
+        6
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "css",
+        10
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "js",
+        25
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "go",
+        8
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "yaml",
+        2
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "php",
+        5
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "ts",
+        12
+    ],
+    [
+        "Kate\u0159ina Foniok",
+        "infra/crw-ci/pr-check/k8s/Jenkinsfile",
+        1
+    ],
+    [
+        "Igor Ohrimenko",
+        "gitignore",
+        1
+    ],
+    [
+        "Igor Ohrimenko",
+        "ts",
+        8
+    ],
+    [
+        "Igor Ohrimenko",
+        "json",
+        1
+    ]
+]

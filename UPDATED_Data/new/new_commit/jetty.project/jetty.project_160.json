@@ -1,0 +1,242 @@
+[
+    [
+        "Lachlan Roberts",
+        "ServletContainerInitializer",
+        3
+    ],
+    [
+        "Lachlan Roberts",
+        "ContainerProvider",
+        1
+    ],
+    [
+        "Lachlan Roberts",
+        "ServerEndpointConfig$Configurator",
+        1
+    ],
+    [
+        "Lachlan Roberts",
+        "Configuration",
+        4
+    ],
+    [
+        "Lachlan Roberts",
+        "ExtensionConfig$Parser",
+        2
+    ],
+    [
+        "Lachlan Roberts",
+        "java",
+        113
+    ],
+    [
+        "Lachlan Roberts",
+        "xml",
+        4
+    ],
+    [
+        "Lachlan",
+        "java",
+        1
+    ],
+    [
+        "Olivier Lamy",
+        "txt",
+        4
+    ],
+    [
+        "Olivier Lamy",
+        "xml",
+        82
+    ],
+    [
+        "Olivier Lamy",
+        "properties",
+        6
+    ],
+    [
+        "Olivier Lamy",
+        "java",
+        65
+    ],
+    [
+        "Olivier Lamy",
+        "html",
+        25
+    ],
+    [
+        "Olivier Lamy",
+        "sh",
+        2
+    ],
+    [
+        "Olivier Lamy",
+        "jsp",
+        4
+    ],
+    [
+        "Olivier Lamy",
+        "providers",
+        2
+    ],
+    [
+        "Olivier Lamy",
+        "ServletContainerInitializer",
+        2
+    ],
+    [
+        "Olivier Lamy",
+        "css",
+        4
+    ],
+    [
+        "Olivier Lamy",
+        "mod",
+        4
+    ],
+    [
+        "Olivier Lamy",
+        "json",
+        4
+    ],
+    [
+        "Greg Wilkins",
+        "java",
+        301
+    ],
+    [
+        "Greg Wilkins",
+        "xml",
+        91
+    ],
+    [
+        "Greg Wilkins",
+        "mod",
+        35
+    ],
+    [
+        "Greg Wilkins",
+        "properties",
+        11
+    ],
+    [
+        "Greg Wilkins",
+        "Configuration",
+        2
+    ],
+    [
+        "Greg Wilkins",
+        "Authenticator$Factory",
+        3
+    ],
+    [
+        "Greg Wilkins",
+        "html",
+        7
+    ],
+    [
+        "Greg Wilkins",
+        "ServletContainerInitializer",
+        1
+    ],
+    [
+        "Greg Wilkins",
+        "MF",
+        1
+    ],
+    [
+        "Greg Wilkins",
+        "txt",
+        1
+    ],
+    [
+        "Joakim Erdfelt",
+        "java",
+        39
+    ],
+    [
+        "Jan Bartel",
+        "xml",
+        344
+    ],
+    [
+        "Jan Bartel",
+        "groovy",
+        15
+    ],
+    [
+        "Jan Bartel",
+        "java",
+        203
+    ],
+    [
+        "Jan Bartel",
+        "mod",
+        30
+    ],
+    [
+        "Jan Bartel",
+        "properties",
+        19
+    ],
+    [
+        "Jan Bartel",
+        "txt",
+        16
+    ],
+    [
+        "Jan Bartel",
+        "html",
+        8
+    ],
+    [
+        "Jan Bartel",
+        "ServletContainerInitializer",
+        4
+    ],
+    [
+        "Jan Bartel",
+        "unknown",
+        8
+    ],
+    [
+        "Jan Bartel",
+        "sql",
+        4
+    ],
+    [
+        "Jan Bartel",
+        "jsp",
+        4
+    ],
+    [
+        "Jan Bartel",
+        "Configuration",
+        2
+    ],
+    [
+        "Tamas Cservenak",
+        "xml",
+        2
+    ],
+    [
+        "Tamas Cservenak",
+        "java",
+        2
+    ],
+    [
+        "keller-j",
+        "java",
+        2
+    ],
+    [
+        "Ludovic Orban",
+        "java",
+        395
+    ],
+    [
+        "Ludovic Orban",
+        "xml",
+        19
+    ]
+]

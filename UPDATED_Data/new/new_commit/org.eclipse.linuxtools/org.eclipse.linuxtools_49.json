@@ -1,0 +1,317 @@
+[
+    [
+        "Francois Chouinard",
+        "java",
+        77
+    ],
+    [
+        "Xavier Raynaud",
+        "java",
+        143
+    ],
+    [
+        "Xavier Raynaud",
+        "MF",
+        3
+    ],
+    [
+        "Xavier Raynaud",
+        "xml",
+        2
+    ],
+    [
+        "Xavier Raynaud",
+        "properties",
+        3
+    ],
+    [
+        "Otavio Pontes",
+        "java",
+        2
+    ],
+    [
+        "Otavio Pontes",
+        "exsd",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        456
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        24
+    ],
+    [
+        "Alexander Kurtakov",
+        "prefs",
+        8
+    ],
+    [
+        "Alexander Kurtakov",
+        "xml",
+        27
+    ],
+    [
+        "Alexander Kurtakov",
+        "properties",
+        15
+    ],
+    [
+        "Alexander Kurtakov",
+        "classpath",
+        4
+    ],
+    [
+        "Alexander Kurtakov",
+        "gitignore",
+        4
+    ],
+    [
+        "Alexander Kurtakov",
+        "project",
+        4
+    ],
+    [
+        "Alexander Kurtakov",
+        "genericzestdemo/ChangeLog",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "inf",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "stp",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "patch",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "exsd",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "logging/ChangeLog",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "html",
+        1
+    ],
+    [
+        "Camilo Bernal",
+        "java",
+        47
+    ],
+    [
+        "Matthew Khouzam",
+        "java",
+        17
+    ],
+    [
+        "Matthew Khouzam",
+        "MF",
+        1
+    ],
+    [
+        "Rafael Medeiros Teixeira",
+        "java",
+        9
+    ],
+    [
+        "Rafael Medeiros Teixeira",
+        "properties",
+        2
+    ],
+    [
+        "Patrick Tasse",
+        "java",
+        24
+    ],
+    [
+        "Patrick Tasse",
+        "xml",
+        1
+    ],
+    [
+        "Patrick Tasse",
+        "properties",
+        1
+    ],
+    [
+        "Bernd Hufmann",
+        "java",
+        36
+    ],
+    [
+        "Bernd Hufmann",
+        "cfg",
+        2
+    ],
+    [
+        "Bernd Hufmann",
+        "properties",
+        1
+    ],
+    [
+        "Alexandre Montplaisir",
+        "java",
+        281
+    ],
+    [
+        "Alexandre Montplaisir",
+        "MF",
+        2
+    ],
+    [
+        "Alexandre Montplaisir",
+        "properties",
+        1
+    ],
+    [
+        "Rodrigo Fraxino Araujo",
+        "java",
+        9
+    ],
+    [
+        "Rodrigo Fraxino Araujo",
+        "xml",
+        2
+    ],
+    [
+        "Rodrigo Fraxino Araujo",
+        "exsd",
+        1
+    ],
+    [
+        "Sami Wagiaalla",
+        "java",
+        113
+    ],
+    [
+        "Sami Wagiaalla",
+        "properties",
+        33
+    ],
+    [
+        "Sami Wagiaalla",
+        "MF",
+        6
+    ],
+    [
+        "Sami Wagiaalla",
+        "xml",
+        10
+    ],
+    [
+        "Sami Wagiaalla",
+        "classpath",
+        1
+    ],
+    [
+        "Sami Wagiaalla",
+        "gitignore",
+        1
+    ],
+    [
+        "Sami Wagiaalla",
+        "project",
+        1
+    ],
+    [
+        "Sami Wagiaalla",
+        "prefs",
+        1
+    ],
+    [
+        "Sami Wagiaalla",
+        "graphicalrun/ChangeLog",
+        1
+    ],
+    [
+        "Sami Wagiaalla",
+        "html",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "java",
+        39
+    ],
+    [
+        "Roland Grunberg",
+        "prop",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "xml",
+        1
+    ],
+    [
+        "Wainer S. Moschetta",
+        "java",
+        6
+    ],
+    [
+        "Michel Dagenais",
+        "java",
+        4
+    ],
+    [
+        "Ansgar Radermacher",
+        "java",
+        3
+    ],
+    [
+        "Ansgar Radermacher",
+        "MF",
+        1
+    ],
+    [
+        "Ansgar Radermacher",
+        "properties",
+        1
+    ],
+    [
+        "Ansgar Radermacher",
+        "xml",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "java",
+        12
+    ],
+    [
+        "Jeff Johnston",
+        "MF",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "properties",
+        3
+    ],
+    [
+        "Jeff Johnston",
+        "xml",
+        1
+    ],
+    [
+        "Francis Giraldeau",
+        "java",
+        1
+    ]
+]

@@ -1,0 +1,162 @@
+[
+    [
+        "Emilio",
+        "tsv",
+        1
+    ],
+    [
+        "Emilio",
+        "scala",
+        359
+    ],
+    [
+        "Emilio",
+        "xml",
+        32
+    ],
+    [
+        "Emilio",
+        "SpatialRDDProvider",
+        1
+    ],
+    [
+        "Emilio",
+        "java",
+        17
+    ],
+    [
+        "Emilio",
+        "FileSystemStorageFactory",
+        2
+    ],
+    [
+        "Emilio",
+        "list",
+        1
+    ],
+    [
+        "Emilio",
+        "sh",
+        5
+    ],
+    [
+        "Emilio",
+        "conf",
+        14
+    ],
+    [
+        "Emilio",
+        "rst",
+        32
+    ],
+    [
+        "Emilio",
+        "ConverterFactory",
+        1
+    ],
+    [
+        "Emilio",
+        "md",
+        1
+    ],
+    [
+        "Emilio",
+        "py",
+        1
+    ],
+    [
+        "Emilio",
+        "sld",
+        2
+    ],
+    [
+        "Anthony Fox",
+        "scala",
+        3
+    ],
+    [
+        "James Hughes",
+        "rst",
+        1
+    ],
+    [
+        "James Hughes",
+        "GeoMesaProcess",
+        1
+    ],
+    [
+        "James Hughes",
+        "scala",
+        2
+    ],
+    [
+        "James Hughes",
+        "xml",
+        1
+    ],
+    [
+        "Atallah Hezbor",
+        "rst",
+        2
+    ],
+    [
+        "Atallah Hezbor",
+        "xml",
+        3
+    ],
+    [
+        "Atallah Hezbor",
+        "scala",
+        26
+    ],
+    [
+        "Atallah Hezbor",
+        "csv",
+        1
+    ],
+    [
+        "Simeon H.K. Fitch",
+        "scala",
+        49
+    ],
+    [
+        "Simeon H.K. Fitch",
+        "xml",
+        1
+    ],
+    [
+        "Simeon H.K. Fitch",
+        "rst",
+        1
+    ],
+    [
+        "Austin Heyne",
+        "java",
+        1
+    ],
+    [
+        "Austin Heyne",
+        "scala",
+        10
+    ],
+    [
+        "Austin Heyne",
+        "rst",
+        3
+    ],
+    [
+        "Austin Heyne",
+        "unknown",
+        8
+    ],
+    [
+        "Austin Heyne",
+        "sh",
+        1
+    ],
+    [
+        "Austin Heyne",
+        "scala_repl_init",
+        1
+    ]
+]

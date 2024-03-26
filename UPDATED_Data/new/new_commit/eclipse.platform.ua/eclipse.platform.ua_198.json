@@ -1,0 +1,37 @@
+[
+    [
+        "Karsten Thoms",
+        "java",
+        15
+    ],
+    [
+        "Sopot Cela",
+        "MF",
+        1
+    ],
+    [
+        "Sopot Cela",
+        "java",
+        4
+    ],
+    [
+        "Sopot Cela",
+        "xml",
+        1
+    ],
+    [
+        "Sopot Cela",
+        "tests/data/help/searchindex/index700/indexed_contributions",
+        1
+    ],
+    [
+        "Sopot Cela",
+        "tests/data/help/searchindex/index700/indexed_dependencies",
+        1
+    ],
+    [
+        "Sopot Cela",
+        "tests/data/help/searchindex/index700/indexed_docs",
+        1
+    ]
+]

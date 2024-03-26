@@ -1,0 +1,352 @@
+[
+    [
+        "Kristian Duske",
+        "adoc",
+        1
+    ],
+    [
+        "Kristian Duske",
+        "java",
+        2
+    ],
+    [
+        "Kristian Duske",
+        "xtend",
+        1
+    ],
+    [
+        "Kristian Duske",
+        "n4mf",
+        2
+    ],
+    [
+        "Kristian Duske",
+        "n4jsx",
+        3
+    ],
+    [
+        "Kristian Duske",
+        "n4tp",
+        1
+    ],
+    [
+        "mor-n4",
+        "java",
+        45
+    ],
+    [
+        "mor-n4",
+        "xtend",
+        18
+    ],
+    [
+        "mor-n4",
+        "MF",
+        2
+    ],
+    [
+        "mor-n4",
+        "xcore",
+        2
+    ],
+    [
+        "mor-n4",
+        "n4jsd",
+        1
+    ],
+    [
+        "mor-n4",
+        "xt",
+        14
+    ],
+    [
+        "mor-n4",
+        "txt",
+        1
+    ],
+    [
+        "mor-n4",
+        "graffle",
+        1
+    ],
+    [
+        "mor-n4",
+        "svg",
+        1
+    ],
+    [
+        "mor-n4",
+        "adoc",
+        2
+    ],
+    [
+        "mor-n4",
+        "n4ts",
+        2
+    ],
+    [
+        "mor-n4",
+        "xsemantics",
+        1
+    ],
+    [
+        "mor-n4",
+        "g",
+        4
+    ],
+    [
+        "mor-n4",
+        "xtext",
+        1
+    ],
+    [
+        "mor-n4",
+        "properties",
+        1
+    ],
+    [
+        "mor-n4",
+        "xml",
+        1
+    ],
+    [
+        "mmews-n4",
+        "java",
+        129
+    ],
+    [
+        "mmews-n4",
+        "xt",
+        39
+    ],
+    [
+        "mmews-n4",
+        "n4mf",
+        19
+    ],
+    [
+        "mmews-n4",
+        "xtend",
+        21
+    ],
+    [
+        "mmews-n4",
+        "adoc",
+        14
+    ],
+    [
+        "mmews-n4",
+        "idx",
+        14
+    ],
+    [
+        "mmews-n4",
+        "n4jsd",
+        2
+    ],
+    [
+        "mmews-n4",
+        "MF",
+        2
+    ],
+    [
+        "mmews-n4",
+        "xsemantics",
+        1
+    ],
+    [
+        "mmews-n4",
+        "properties",
+        1
+    ],
+    [
+        "mmews-n4",
+        "n4js",
+        1
+    ],
+    [
+        "Quang Minh Tran",
+        "xtend",
+        7
+    ],
+    [
+        "Quang Minh Tran",
+        "java",
+        3
+    ],
+    [
+        "Quang Minh Tran",
+        "xt",
+        5
+    ],
+    [
+        "Quang Minh Tran",
+        "properties",
+        1
+    ],
+    [
+        "Mark-Oliver Reiser",
+        "java",
+        10
+    ],
+    [
+        "Jakub Siberski",
+        "java",
+        78
+    ],
+    [
+        "Jakub Siberski",
+        "js",
+        71
+    ],
+    [
+        "Jakub Siberski",
+        "n4js",
+        5
+    ],
+    [
+        "Jakub Siberski",
+        "xtend",
+        51
+    ],
+    [
+        "Jakub Siberski",
+        "classpath",
+        1
+    ],
+    [
+        "Jakub Siberski",
+        "project",
+        1
+    ],
+    [
+        "Jakub Siberski",
+        "MF",
+        1
+    ],
+    [
+        "Jakub Siberski",
+        "properties",
+        1
+    ],
+    [
+        "Jakub Siberski",
+        "xml",
+        1
+    ],
+    [
+        "Jakub Siberski",
+        "gitignore",
+        1
+    ],
+    [
+        "Jakub Siberski",
+        "xt",
+        20
+    ],
+    [
+        "Jakub Siberski",
+        "n4mf",
+        1
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "launch",
+        1
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "java",
+        121
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "xcore",
+        3
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "MF",
+        6
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "xtend",
+        38
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "g",
+        11
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "tokens",
+        9
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "xtext",
+        2
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "xml",
+        6
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "mwe2",
+        1
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "xsemantics",
+        1
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "properties",
+        6
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "classpath",
+        3
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "project",
+        3
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "n4mf",
+        2
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "n4idl",
+        5
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "n4js",
+        1
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "gitignore",
+        2
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "prefs",
+        23
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "xt",
+        29
+    ]
+]

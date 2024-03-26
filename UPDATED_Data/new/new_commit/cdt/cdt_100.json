@@ -1,0 +1,287 @@
+[
+    [
+        "Marc Khouzam",
+        "xml",
+        1
+    ],
+    [
+        "Marc Khouzam",
+        "java",
+        16
+    ],
+    [
+        "John Cortell",
+        "java",
+        16
+    ],
+    [
+        "Markus Schorn",
+        "java",
+        418
+    ],
+    [
+        "Markus Schorn",
+        "properties",
+        7
+    ],
+    [
+        "Markus Schorn",
+        "options",
+        1
+    ],
+    [
+        "Markus Schorn",
+        "xml",
+        2
+    ],
+    [
+        "Markus Schorn",
+        "prefs",
+        1
+    ],
+    [
+        "Pawel Piech",
+        "java",
+        38
+    ],
+    [
+        "Pawel Piech",
+        "MF",
+        1
+    ],
+    [
+        "Anton Leherbauer",
+        "java",
+        30
+    ],
+    [
+        "Anton Leherbauer",
+        "properties",
+        2
+    ],
+    [
+        "Anton Leherbauer",
+        "xml",
+        2
+    ],
+    [
+        "Vivian Kong",
+        "java",
+        4
+    ],
+    [
+        "Andrew Gvozdev",
+        "java",
+        124
+    ],
+    [
+        "Andrew Gvozdev",
+        "properties",
+        4
+    ],
+    [
+        "Andrew Gvozdev",
+        "xml",
+        4
+    ],
+    [
+        "Andrew Gvozdev",
+        "mk",
+        57
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/depCalcProjects/test1DepCalc2/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/depCalcProjects/test1DepCalc3/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/depCalcProjects/test1DepCalcPreBuild/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "2/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "0/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "1/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "1CPP/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test21Projects/linkedFolder/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test21Projects/linkedLib/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test21Projects/multiResConfig/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test21Projects/singleFileExe/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test21Projects/twoFileSO/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test30Projects/TestATO/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test30Projects/copyandDeploy/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test30Projects/deleteFile/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test30Projects/inputTypeOption/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test30Projects/linkedFolder/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test30Projects/linkedLib30/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test30Projects/multiResConfig/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test30Projects/preAndPostBuildSteps/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test30Projects/rcbsBasicTest/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test30Projects/singleFileExe/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test30Projects/test with spaces/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test30Projects/test30_1/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test30Projects/testFileWithNoExtension/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test30Projects/twoFileSO/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "Dbg/makefile",
+        1
+    ],
+    [
+        "Andrew Gvozdev",
+        "tests/resources/test40Projects/test_40/Benchmarks/dbg 2/makefile",
+        1
+    ],
+    [
+        "David McKnight",
+        "java",
+        5
+    ],
+    [
+        "Sergey Prigogin",
+        "java",
+        19
+    ],
+    [
+        "Martin Oberhuber",
+        "java",
+        2
+    ],
+    [
+        "Alena Laskavaia",
+        "java",
+        10
+    ],
+    [
+        "Alena Laskavaia",
+        "properties",
+        2
+    ],
+    [
+        "Alena Laskavaia",
+        "xml",
+        1
+    ],
+    [
+        "Randy Rohrbach",
+        "xml",
+        1
+    ],
+    [
+        "Randy Rohrbach",
+        "java",
+        3
+    ],
+    [
+        "Chris Recoskie",
+        "MF",
+        1
+    ],
+    [
+        "Chris Recoskie",
+        "java",
+        5
+    ],
+    [
+        "Chris Recoskie",
+        "properties",
+        1
+    ]
+]

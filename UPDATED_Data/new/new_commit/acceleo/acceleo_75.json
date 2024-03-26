@@ -1,0 +1,137 @@
+[
+    [
+        "sbegaudeau",
+        "project",
+        8
+    ],
+    [
+        "sbegaudeau",
+        "html",
+        12
+    ],
+    [
+        "sbegaudeau",
+        "properties",
+        9
+    ],
+    [
+        "sbegaudeau",
+        "xml",
+        15
+    ],
+    [
+        "sbegaudeau",
+        "importorder",
+        2
+    ],
+    [
+        "sbegaudeau",
+        "checkstyle",
+        2
+    ],
+    [
+        "sbegaudeau",
+        "classpath",
+        4
+    ],
+    [
+        "sbegaudeau",
+        "prefs",
+        8
+    ],
+    [
+        "sbegaudeau",
+        "modelregistry",
+        2
+    ],
+    [
+        "sbegaudeau",
+        "MF",
+        4
+    ],
+    [
+        "sbegaudeau",
+        "java",
+        40
+    ],
+    [
+        "sbegaudeau",
+        "acceleo",
+        1
+    ],
+    [
+        "sbegaudeau",
+        "ecore",
+        1
+    ],
+    [
+        "sbegaudeau",
+        "xmi",
+        1
+    ],
+    [
+        "sbegaudeau",
+        "mtl",
+        3
+    ],
+    [
+        "cbrun",
+        "java",
+        5
+    ],
+    [
+        "Laurent Goubet",
+        "project",
+        3
+    ],
+    [
+        "Laurent Goubet",
+        "html",
+        5
+    ],
+    [
+        "Laurent Goubet",
+        "properties",
+        7
+    ],
+    [
+        "Laurent Goubet",
+        "txt",
+        2
+    ],
+    [
+        "Laurent Goubet",
+        "xml",
+        8
+    ],
+    [
+        "Laurent Goubet",
+        "classpath",
+        2
+    ],
+    [
+        "Laurent Goubet",
+        "MF",
+        2
+    ],
+    [
+        "Laurent Goubet",
+        "java",
+        55
+    ],
+    [
+        "Laurent Goubet",
+        "prefs",
+        4
+    ],
+    [
+        "Laurent Goubet",
+        "ecore",
+        1
+    ],
+    [
+        "Laurent Goubet",
+        "genmodel",
+        1
+    ]
+]

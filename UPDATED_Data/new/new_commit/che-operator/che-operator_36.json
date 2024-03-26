@@ -1,0 +1,152 @@
+[
+    [
+        "Anatolii Bazko",
+        "md",
+        3
+    ],
+    [
+        "Anatolii Bazko",
+        "go",
+        85
+    ],
+    [
+        "Anatolii Bazko",
+        "yaml",
+        63
+    ],
+    [
+        "Anatolii Bazko",
+        "diff",
+        20
+    ],
+    [
+        "Anatolii Bazko",
+        "sh",
+        27
+    ],
+    [
+        "Anatolii Bazko",
+        "htpasswd",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "yml",
+        4
+    ],
+    [
+        "Anatolii Bazko",
+        "gitignore",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "unknown",
+        3
+    ],
+    [
+        "Anatolii Bazko",
+        "Dockerfile",
+        4
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "yaml",
+        25
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "diff",
+        15
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "go",
+        1
+    ],
+    [
+        "Mykola Morhun",
+        "go",
+        36
+    ],
+    [
+        "Oleksandr Andriienko",
+        "go",
+        3
+    ],
+    [
+        "Florent BENOIT",
+        "go",
+        1
+    ],
+    [
+        "Michal Vala",
+        "go",
+        5
+    ],
+    [
+        "David Kwon",
+        "go",
+        4
+    ],
+    [
+        "David Kwon",
+        "yaml",
+        7
+    ],
+    [
+        "che-bot",
+        "yaml",
+        18
+    ],
+    [
+        "che-bot",
+        "diff",
+        12
+    ],
+    [
+        "che-bot",
+        "go",
+        2
+    ],
+    [
+        "Lukas Krejci",
+        "md",
+        1
+    ],
+    [
+        "Lukas Krejci",
+        "go",
+        58
+    ],
+    [
+        "Lukas Krejci",
+        "mod",
+        1
+    ],
+    [
+        "Lukas Krejci",
+        "sum",
+        1
+    ],
+    [
+        "Lukas Krejci",
+        "txt",
+        1
+    ],
+    [
+        "disaster37",
+        "mod",
+        1
+    ],
+    [
+        "disaster37",
+        "go",
+        2
+    ],
+    [
+        "disaster37",
+        "txt",
+        1
+    ]
+]

@@ -1,0 +1,362 @@
+[
+    [
+        "Roland Grunberg",
+        "callgraph/ChangeLog",
+        6
+    ],
+    [
+        "Roland Grunberg",
+        "java",
+        92
+    ],
+    [
+        "Roland Grunberg",
+        "unknown",
+        3
+    ],
+    [
+        "Roland Grunberg",
+        "properties",
+        23
+    ],
+    [
+        "Roland Grunberg",
+        "classpath",
+        7
+    ],
+    [
+        "Roland Grunberg",
+        "project",
+        17
+    ],
+    [
+        "Roland Grunberg",
+        "prefs",
+        7
+    ],
+    [
+        "Roland Grunberg",
+        "MF",
+        7
+    ],
+    [
+        "Roland Grunberg",
+        "html",
+        5
+    ],
+    [
+        "Roland Grunberg",
+        "tests/ChangeLog",
+        6
+    ],
+    [
+        "Roland Grunberg",
+        "cproject",
+        10
+    ],
+    [
+        "Roland Grunberg",
+        "cpp",
+        2
+    ],
+    [
+        "Roland Grunberg",
+        "h",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "xml",
+        6
+    ],
+    [
+        "Roland Grunberg",
+        "txt",
+        83
+    ],
+    [
+        "Roland Grunberg",
+        "c",
+        8
+    ],
+    [
+        "Roland Grunberg",
+        "supp",
+        3
+    ],
+    [
+        "Roland Grunberg",
+        "core/ChangeLog",
+        6
+    ],
+    [
+        "Roland Grunberg",
+        "launch/ChangeLog",
+        5
+    ],
+    [
+        "Roland Grunberg",
+        "prop",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "svnignore",
+        2
+    ],
+    [
+        "Andrew Overholt",
+        "classpath",
+        2
+    ],
+    [
+        "Andrew Overholt",
+        "project",
+        2
+    ],
+    [
+        "Andrew Overholt",
+        "prefs",
+        2
+    ],
+    [
+        "Andrew Overholt",
+        "svnignore",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "template",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "core/ChangeLog",
+        3
+    ],
+    [
+        "Andrew Overholt",
+        "MF",
+        3
+    ],
+    [
+        "Andrew Overholt",
+        "properties",
+        6
+    ],
+    [
+        "Andrew Overholt",
+        "xml",
+        2
+    ],
+    [
+        "Andrew Overholt",
+        "exsd",
+        4
+    ],
+    [
+        "Andrew Overholt",
+        "java",
+        60
+    ],
+    [
+        "Andrew Overholt",
+        "libhover/ChangeLog",
+        3
+    ],
+    [
+        "Charley Wang",
+        "callgraph/ChangeLog",
+        25
+    ],
+    [
+        "Charley Wang",
+        "java",
+        42
+    ],
+    [
+        "Charley Wang",
+        "launch/ChangeLog",
+        3
+    ],
+    [
+        "Charley Wang",
+        "core/ChangeLog",
+        4
+    ],
+    [
+        "Charley Wang",
+        "prop",
+        1
+    ],
+    [
+        "Charley Wang",
+        "tests/ChangeLog",
+        1
+    ],
+    [
+        "Charley Wang",
+        "graph",
+        6
+    ],
+    [
+        "Charley Wang",
+        "properties",
+        3
+    ],
+    [
+        "Charley Wang",
+        "stp",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "prefs",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "man/ChangeLog",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "xml",
+        3
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        29
+    ],
+    [
+        "Alexander Kurtakov",
+        "editor/ChangeLog",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "core/ChangeLog",
+        3
+    ],
+    [
+        "Alexander Kurtakov",
+        "ui/ChangeLog",
+        4
+    ],
+    [
+        "Alexander Kurtakov",
+        "properties",
+        4
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/ChangeLog",
+        1
+    ],
+    [
+        "Xavier Raynaud",
+        "java",
+        92
+    ],
+    [
+        "Xavier Raynaud",
+        "classpath",
+        4
+    ],
+    [
+        "Xavier Raynaud",
+        "project",
+        4
+    ],
+    [
+        "Xavier Raynaud",
+        "prefs",
+        4
+    ],
+    [
+        "Xavier Raynaud",
+        "MF",
+        4
+    ],
+    [
+        "Xavier Raynaud",
+        "html",
+        4
+    ],
+    [
+        "Xavier Raynaud",
+        "properties",
+        9
+    ],
+    [
+        "Xavier Raynaud",
+        "xml",
+        4
+    ],
+    [
+        "Xavier Raynaud",
+        "test/test_c/Makefile",
+        1
+    ],
+    [
+        "Xavier Raynaud",
+        "c",
+        3
+    ],
+    [
+        "Xavier Raynaud",
+        "ref",
+        8
+    ],
+    [
+        "Xavier Raynaud",
+        "test/test_cpp/Makefile",
+        1
+    ],
+    [
+        "Xavier Raynaud",
+        "cpp",
+        3
+    ],
+    [
+        "Xavier Raynaud",
+        "hpp",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "autotools/ChangeLog",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "java",
+        2
+    ],
+    [
+        "Francois Chouinard",
+        "properties",
+        17
+    ],
+    [
+        "Francois Chouinard",
+        "xml",
+        3
+    ],
+    [
+        "Francois Chouinard",
+        "MF",
+        9
+    ],
+    [
+        "Francois Chouinard",
+        "java",
+        33
+    ]
+]

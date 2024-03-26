@@ -1,0 +1,57 @@
+[
+    [
+        "Serhii Leshchenko",
+        "go",
+        1
+    ],
+    [
+        "Mykola Morhun",
+        "go",
+        3
+    ],
+    [
+        "Anatolii Bazko",
+        "go",
+        15
+    ],
+    [
+        "Anatolii Bazko",
+        "yaml",
+        10
+    ],
+    [
+        "Lukas Krejci",
+        "yaml",
+        8
+    ],
+    [
+        "Lukas Krejci",
+        "go",
+        18
+    ],
+    [
+        "Flavius Lacatusu",
+        "sh",
+        13
+    ],
+    [
+        "Flavius Lacatusu",
+        "yaml",
+        5
+    ],
+    [
+        "Flavius Lacatusu",
+        "go",
+        2
+    ],
+    [
+        "Nick Boldt",
+        "go",
+        1
+    ],
+    [
+        "Vitalii Parfonov",
+        "go",
+        1
+    ]
+]

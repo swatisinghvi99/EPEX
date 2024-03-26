@@ -1,0 +1,87 @@
+[
+    [
+        "Thomas Watson",
+        "java",
+        53
+    ],
+    [
+        "Thomas Watson",
+        "classpath",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "project",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "prefs",
+        7
+    ],
+    [
+        "Thomas Watson",
+        "MF",
+        4
+    ],
+    [
+        "Thomas Watson",
+        "properties",
+        4
+    ],
+    [
+        "Thomas Watson",
+        "xml",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "options",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "html",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "txt",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "resolver/src/org/osgi/service/resolver/packageinfo",
+        1
+    ],
+    [
+        "John Ross",
+        "properties",
+        1
+    ],
+    [
+        "John Ross",
+        "java",
+        5
+    ],
+    [
+        "Silenio Quarti",
+        "c",
+        5
+    ],
+    [
+        "Silenio Quarti",
+        "h",
+        1
+    ],
+    [
+        "Silenio Quarti",
+        "mak",
+        1
+    ],
+    [
+        "Pascal Rapicault (Ericsson)",
+        "java",
+        1
+    ]
+]

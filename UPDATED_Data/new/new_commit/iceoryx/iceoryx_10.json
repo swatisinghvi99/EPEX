@@ -1,0 +1,292 @@
+[
+    [
+        "Kroenke Dietrich (CC-AD/ESW1)",
+        "hpp",
+        20
+    ],
+    [
+        "Kroenke Dietrich (CC-AD/ESW1)",
+        "cpp",
+        14
+    ],
+    [
+        "Kroenke Dietrich (CC-AD/ESW1)",
+        "inl",
+        5
+    ],
+    [
+        "Kroenke Dietrich (CC-AD/ESW1)",
+        "md",
+        1
+    ],
+    [
+        "Eltzschig Christian (CC-AD/ESW1)",
+        "hpp",
+        50
+    ],
+    [
+        "Eltzschig Christian (CC-AD/ESW1)",
+        "inl",
+        21
+    ],
+    [
+        "Eltzschig Christian (CC-AD/ESW1)",
+        "cpp",
+        28
+    ],
+    [
+        "Eltzschig Christian (CC-AD/ESW1)",
+        "txt",
+        1
+    ],
+    [
+        "Ithier Jeff (CC-AD/EYF1)",
+        "dockerfile",
+        1
+    ],
+    [
+        "Ithier Jeff (CC-AD/EYF1)",
+        "entrypoint",
+        3
+    ],
+    [
+        "Ithier Jeff (CC-AD/EYF1)",
+        "yml",
+        1
+    ],
+    [
+        "Ithier Jeff (CC-AD/EYF1)",
+        "sh",
+        1
+    ],
+    [
+        "Ithier Jeff (CC-AD/EYF1)",
+        "cpp",
+        56
+    ],
+    [
+        "Ithier Jeff (CC-AD/EYF1)",
+        "txt",
+        11
+    ],
+    [
+        "Ithier Jeff (CC-AD/EYF1)",
+        "inl",
+        32
+    ],
+    [
+        "Ithier Jeff (CC-AD/EYF1)",
+        "hpp",
+        71
+    ],
+    [
+        "Ithier Jeff (CC-AD/EYF1)",
+        "autosave",
+        2
+    ],
+    [
+        "Christian Eltzschig",
+        "cmake",
+        2
+    ],
+    [
+        "Christian Eltzschig",
+        "hpp",
+        40
+    ],
+    [
+        "Christian Eltzschig",
+        "inl",
+        12
+    ],
+    [
+        "Christian Eltzschig",
+        "cpp",
+        50
+    ],
+    [
+        "Christian Eltzschig",
+        "txt",
+        10
+    ],
+    [
+        "Christian Eltzschig",
+        "yml",
+        1
+    ],
+    [
+        "Christian Eltzschig",
+        "md",
+        1
+    ],
+    [
+        "Christian Eltzschig",
+        "in",
+        1
+    ],
+    [
+        "Christian Eltzschig",
+        "h",
+        19
+    ],
+    [
+        "Christian Eltzschig",
+        "c",
+        7
+    ],
+    [
+        "Hintz Martin (CC-AD/ESW1)",
+        "txt",
+        8
+    ],
+    [
+        "Hintz Martin (CC-AD/ESW1)",
+        "hpp",
+        100
+    ],
+    [
+        "Hintz Martin (CC-AD/ESW1)",
+        "inl",
+        42
+    ],
+    [
+        "Hintz Martin (CC-AD/ESW1)",
+        "cpp",
+        68
+    ],
+    [
+        "Lehmann Marika (CC-AD/ESW1)",
+        "hpp",
+        21
+    ],
+    [
+        "Lehmann Marika (CC-AD/ESW1)",
+        "inl",
+        16
+    ],
+    [
+        "Lehmann Marika (CC-AD/ESW1)",
+        "cpp",
+        11
+    ],
+    [
+        "Lehmann Marika (CC-AD/ESW1)",
+        "adoc",
+        13
+    ],
+    [
+        "Eickhoff Bernhard (CC-AD/ESW1)",
+        "hpp",
+        7
+    ],
+    [
+        "Eickhoff Bernhard (CC-AD/ESW1)",
+        "inl",
+        8
+    ],
+    [
+        "Eickhoff Bernhard (CC-AD/ESW1)",
+        "cpp",
+        6
+    ],
+    [
+        "Eickhoff Bernhard (CC-AD/ESW1)",
+        "md",
+        2
+    ],
+    [
+        "Chari Nehal Dattaram (RBEI/EBB1)",
+        "cpp",
+        7
+    ],
+    [
+        "Chari Nehal Dattaram (RBEI/EBB1)",
+        "hpp",
+        1
+    ],
+    [
+        "Hoinkis Simon (CC-AD/ESW1)",
+        "cpp",
+        31
+    ],
+    [
+        "Hoinkis Simon (CC-AD/ESW1)",
+        "hpp",
+        26
+    ],
+    [
+        "Hoinkis Simon (CC-AD/ESW1)",
+        "inl",
+        11
+    ],
+    [
+        "Poehnl Michael (CC-AD/ESW1)",
+        "hpp",
+        28
+    ],
+    [
+        "Poehnl Michael (CC-AD/ESW1)",
+        "cpp",
+        54
+    ],
+    [
+        "Poehnl Michael (CC-AD/ESW1)",
+        "inl",
+        2
+    ],
+    [
+        "Poehnl Michael (CC-AD/ESW1)",
+        "txt",
+        4
+    ],
+    [
+        "Poehnl Michael (CC-AD/ESW1)",
+        "md",
+        2
+    ],
+    [
+        "Marika Lehmann",
+        "cpp",
+        1
+    ],
+    [
+        "Broze Paul (CC-AD/ESW1)",
+        "txt",
+        2
+    ],
+    [
+        "Broze Paul (CC-AD/ESW1)",
+        "in",
+        2
+    ],
+    [
+        "Broze Paul (CC-AD/ESW1)",
+        "cmake",
+        4
+    ],
+    [
+        "Broze Paul (CC-AD/ESW1)",
+        "hpp",
+        18
+    ],
+    [
+        "Broze Paul (CC-AD/ESW1)",
+        "cpp",
+        23
+    ],
+    [
+        "Bernhard Eickhoff (CC-AD/ESW1)",
+        "hpp",
+        1
+    ],
+    [
+        "Bernhard Eickhoff (CC-AD/ESW1)",
+        "inl",
+        1
+    ],
+    [
+        "Bernhard Eickhoff (CC-AD/ESW1)",
+        "cpp",
+        1
+    ]
+]

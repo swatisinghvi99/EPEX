@@ -1,0 +1,277 @@
+[
+    [
+        "akosyakov",
+        "java",
+        18
+    ],
+    [
+        "akosyakov",
+        "classpath",
+        1
+    ],
+    [
+        "akosyakov",
+        "project",
+        1
+    ],
+    [
+        "akosyakov",
+        "prefs",
+        6
+    ],
+    [
+        "akosyakov",
+        "xml",
+        1
+    ],
+    [
+        "akosyakov",
+        "launch",
+        1
+    ],
+    [
+        "akosyakov",
+        "MF",
+        3
+    ],
+    [
+        "akosyakov",
+        "mwe2",
+        2
+    ],
+    [
+        "akosyakov",
+        "xtend",
+        8
+    ],
+    [
+        "akosyakov",
+        "txt",
+        48
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        123
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        8
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "xtend",
+        5
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        5
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        16
+    ],
+    [
+        "Jan Koehnlein",
+        "xml_gen",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "api_filters",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "xtend",
+        5
+    ],
+    [
+        "Jan Koehnlein",
+        "MF",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        35
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        4
+    ],
+    [
+        "Moritz Eysholdt",
+        "MF",
+        9
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        175
+    ],
+    [
+        "Moritz Eysholdt",
+        "xml_gen",
+        4
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtend",
+        60
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtext",
+        8
+    ],
+    [
+        "Moritz Eysholdt",
+        "mwe2",
+        6
+    ],
+    [
+        "Moritz Eysholdt",
+        "MF_gen",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "xml",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "classpath",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "properties",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "api_filters",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "MF",
+        7
+    ],
+    [
+        "Stefan Oehme",
+        "java",
+        101
+    ],
+    [
+        "Stefan Oehme",
+        "xtend",
+        3
+    ],
+    [
+        "Stefan Oehme",
+        "classpath",
+        4
+    ],
+    [
+        "Stefan Oehme",
+        "properties",
+        4
+    ],
+    [
+        "Stefan Oehme",
+        "xpt",
+        13
+    ],
+    [
+        "Stefan Oehme",
+        "ext",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "xml",
+        3
+    ],
+    [
+        "Stefan Oehme",
+        "project",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "gradle",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "mwe2",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "gitignore",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "prefs",
+        6
+    ],
+    [
+        "Stefan Oehme",
+        "html",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "genmodel",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "java",
+        2
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "java",
+        20
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "MF",
+        2
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "properties",
+        2
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "xml",
+        1
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "xtend",
+        1
+    ],
+    [
+        "Holger Schill",
+        "java",
+        2
+    ]
+]

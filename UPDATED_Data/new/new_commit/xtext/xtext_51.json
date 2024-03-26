@@ -1,0 +1,107 @@
+[
+    [
+        "Sebastian Zarnekow",
+        "java",
+        246
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        42
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtend",
+        10
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        3
+    ],
+    [
+        "Moritz Eysholdt",
+        "mwe2",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        88
+    ],
+    [
+        "Dennis Huebner",
+        "classpath",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "project",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "prefs",
+        11
+    ],
+    [
+        "Dennis Huebner",
+        "MF",
+        8
+    ],
+    [
+        "Dennis Huebner",
+        "cspex",
+        5
+    ],
+    [
+        "Dennis Huebner",
+        "properties",
+        10
+    ],
+    [
+        "Dennis Huebner",
+        "ant",
+        5
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        5
+    ],
+    [
+        "Dennis Huebner",
+        "gitignore",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "html",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        14
+    ],
+    [
+        "Holger Schill",
+        "java",
+        5
+    ],
+    [
+        "Michael Clay",
+        "java",
+        5
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        1
+    ]
+]

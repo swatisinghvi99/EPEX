@@ -1,0 +1,422 @@
+[
+    [
+        "Andrew Overholt",
+        "classpath",
+        8
+    ],
+    [
+        "Andrew Overholt",
+        "project",
+        35
+    ],
+    [
+        "Andrew Overholt",
+        "prefs",
+        22
+    ],
+    [
+        "Andrew Overholt",
+        "MF",
+        17
+    ],
+    [
+        "Andrew Overholt",
+        "properties",
+        34
+    ],
+    [
+        "Andrew Overholt",
+        "java",
+        254
+    ],
+    [
+        "Andrew Overholt",
+        "history/e4/0056fdb7b8a6001e143aec015f68a927",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "version",
+        2
+    ],
+    [
+        "Andrew Overholt",
+        "xml",
+        21
+    ],
+    [
+        "Andrew Overholt",
+        "ini",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "cproject",
+        22
+    ],
+    [
+        "Andrew Overholt",
+        "c",
+        26
+    ],
+    [
+        "Andrew Overholt",
+        "cvsignore",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "editor/ChangeLog",
+        3
+    ],
+    [
+        "Andrew Overholt",
+        "tests/ChangeLog",
+        12
+    ],
+    [
+        "Andrew Overholt",
+        "svnignore",
+        2
+    ],
+    [
+        "Andrew Overholt",
+        "unknown",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "html",
+        4
+    ],
+    [
+        "Andrew Overholt",
+        "txt",
+        231
+    ],
+    [
+        "Andrew Overholt",
+        "supp",
+        9
+    ],
+    [
+        "Andrew Overholt",
+        "cpp",
+        4
+    ],
+    [
+        "Andrew Overholt",
+        "h",
+        2
+    ],
+    [
+        "Andrew Overholt",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Alvaro Sanchez-Leon",
+        "classpath",
+        9
+    ],
+    [
+        "Alvaro Sanchez-Leon",
+        "project",
+        9
+    ],
+    [
+        "Alvaro Sanchez-Leon",
+        "MF",
+        9
+    ],
+    [
+        "Alvaro Sanchez-Leon",
+        "properties",
+        21
+    ],
+    [
+        "Alvaro Sanchez-Leon",
+        "java",
+        446
+    ],
+    [
+        "Alvaro Sanchez-Leon",
+        "xml",
+        6
+    ],
+    [
+        "Alvaro Sanchez-Leon",
+        "txt",
+        2
+    ],
+    [
+        "Alvaro Sanchez-Leon",
+        "options",
+        3
+    ],
+    [
+        "Alvaro Sanchez-Leon",
+        "tmf/ChangeLog",
+        1
+    ],
+    [
+        "Charley Wang",
+        "classpath",
+        1
+    ],
+    [
+        "Charley Wang",
+        "project",
+        1
+    ],
+    [
+        "Charley Wang",
+        "prefs",
+        1
+    ],
+    [
+        "Charley Wang",
+        "MF",
+        1
+    ],
+    [
+        "Charley Wang",
+        "properties",
+        1
+    ],
+    [
+        "Charley Wang",
+        "xml",
+        1
+    ],
+    [
+        "Charley Wang",
+        "java",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "xml",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "java",
+        5
+    ],
+    [
+        "Roland Grunberg",
+        "launch/ChangeLog",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "properties",
+        2
+    ],
+    [
+        "Roland Grunberg",
+        "dashboard/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "profiling-feature/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "xml",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "ui/ChangeLog",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "MF",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "java",
+        18
+    ],
+    [
+        "Elliott Baron",
+        "tests/ChangeLog",
+        3
+    ],
+    [
+        "Elliott Baron",
+        "massif/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "launch/ChangeLog",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "properties",
+        1
+    ],
+    [
+        "William Bourque",
+        "java",
+        10
+    ],
+    [
+        "Jeff Johnston",
+        "tests/ChangeLog",
+        8
+    ],
+    [
+        "Jeff Johnston",
+        "java",
+        146
+    ],
+    [
+        "Jeff Johnston",
+        "ui/ChangeLog",
+        6
+    ],
+    [
+        "Jeff Johnston",
+        "properties",
+        4
+    ],
+    [
+        "Jeff Johnston",
+        "core/ChangeLog",
+        8
+    ],
+    [
+        "Jeff Johnston",
+        "editor/ChangeLog",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "classpath",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "prefs",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "MF",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "launch",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "product",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "xml",
+        3
+    ],
+    [
+        "Jeff Johnston",
+        "cparser/ChangeLog",
+        1
+    ],
+    [
+        "Francois Chouinard",
+        "java",
+        229
+    ],
+    [
+        "Francois Chouinard",
+        "properties",
+        2
+    ],
+    [
+        "Francois Chouinard",
+        "MF",
+        1
+    ],
+    [
+        "Francois Chouinard",
+        "options",
+        4
+    ],
+    [
+        "Francois Chouinard",
+        "html",
+        1
+    ],
+    [
+        "Xavier Raynaud",
+        "java",
+        4
+    ],
+    [
+        "Xavier Raynaud",
+        "ref",
+        24
+    ],
+    [
+        "Xavier Raynaud",
+        "cpp",
+        1
+    ],
+    [
+        "Xavier Raynaud",
+        "c",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "rpmstubby/ChangeLog",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        3
+    ],
+    [
+        "Alexander Kurtakov",
+        "rpmlint/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "editor/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "java",
+        4
+    ],
+    [
+        "Anithra P Janakiraman",
+        "consolelog/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "ide/ChangeLog",
+        2
+    ]
+]

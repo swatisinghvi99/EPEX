@@ -1,0 +1,122 @@
+[
+    [
+        "Emilio",
+        "scala",
+        340
+    ],
+    [
+        "Emilio",
+        "sh",
+        7
+    ],
+    [
+        "Emilio",
+        "rst",
+        18
+    ],
+    [
+        "Emilio",
+        "xml",
+        62
+    ],
+    [
+        "Emilio",
+        "java",
+        21
+    ],
+    [
+        "Emilio",
+        "GridFormatFactorySpi",
+        1
+    ],
+    [
+        "Emilio",
+        "properties",
+        2
+    ],
+    [
+        "Emilio",
+        "tsv",
+        3
+    ],
+    [
+        "Emilio",
+        "SimpleFeatureConverterFactory",
+        5
+    ],
+    [
+        "Emilio",
+        "TransformerFunctionFactory",
+        2
+    ],
+    [
+        "Emilio",
+        "SimpleFeatureValidator$ValidatorFactory",
+        1
+    ],
+    [
+        "Emilio",
+        "conf",
+        1
+    ],
+    [
+        "Emilio",
+        "list",
+        2
+    ],
+    [
+        "Emilio",
+        "py",
+        1
+    ],
+    [
+        "Emilio Lahr-Vivaz",
+        "rst",
+        2
+    ],
+    [
+        "Emilio Lahr-Vivaz",
+        "scala",
+        21
+    ],
+    [
+        "Jeffrey Klassen",
+        "gitignore",
+        1
+    ],
+    [
+        "Jeffrey Klassen",
+        "sh",
+        1
+    ],
+    [
+        "Jeffrey Klassen",
+        "tsv",
+        1
+    ],
+    [
+        "Jeffrey Klassen",
+        "rst",
+        5
+    ],
+    [
+        "Jeffrey Klassen",
+        "xml",
+        20
+    ],
+    [
+        "Jeffrey Klassen",
+        "scala",
+        120
+    ],
+    [
+        "Jeffrey Klassen",
+        "java",
+        4
+    ],
+    [
+        "James Hughes",
+        "scala",
+        2
+    ]
+]

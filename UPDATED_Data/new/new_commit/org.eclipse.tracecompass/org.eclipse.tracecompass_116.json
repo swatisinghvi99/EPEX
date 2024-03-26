@@ -1,0 +1,62 @@
+[
+    [
+        "Ivan Grinenko",
+        "java",
+        4
+    ],
+    [
+        "Ivan Grinenko",
+        "properties",
+        2
+    ],
+    [
+        "Bernd Hufmann",
+        "java",
+        1
+    ],
+    [
+        "Matthew Khouzam",
+        "java",
+        7
+    ],
+    [
+        "Matthew Khouzam",
+        "properties",
+        1
+    ],
+    [
+        "Lo\u00efc Prieur-Drevon",
+        "java",
+        1
+    ],
+    [
+        "Patrick Tasse",
+        "java",
+        2
+    ],
+    [
+        "Patrick Tasse",
+        "properties",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "java",
+        32
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "MF",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "properties",
+        2
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "tests/testfiles/kernel_analysis/expectedThreadStatusTree",
+        2
+    ]
+]

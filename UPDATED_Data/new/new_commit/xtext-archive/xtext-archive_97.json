@@ -1,0 +1,312 @@
+[
+    [
+        "Sven Efftinge",
+        "java",
+        192
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        80
+    ],
+    [
+        "Sven Efftinge",
+        "prefs",
+        10
+    ],
+    [
+        "Sven Efftinge",
+        "classpath",
+        5
+    ],
+    [
+        "Sven Efftinge",
+        "project",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        8
+    ],
+    [
+        "Sven Efftinge",
+        "html",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "properties",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "ecore",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "genmodel",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "xml",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "g",
+        6
+    ],
+    [
+        "Sven Efftinge",
+        "tokens",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "mwe2",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "xtext",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "testlang",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "gitignore",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "ISetup",
+        2
+    ],
+    [
+        "Christian Dietrich",
+        "xtend",
+        8
+    ],
+    [
+        "Christian Dietrich",
+        "java",
+        13
+    ],
+    [
+        "Lorenzo Bettini",
+        "xtend",
+        10
+    ],
+    [
+        "Lorenzo Bettini",
+        "java",
+        18
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        1
+    ],
+    [
+        "Bernhard Stadler",
+        "java",
+        1
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "xtend",
+        3
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "java",
+        12
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "js",
+        2
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "classpath",
+        1
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "project",
+        1
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "prefs",
+        1
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "gradle",
+        4
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "txt",
+        2
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "sh",
+        3
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "md",
+        1
+    ],
+    [
+        "akosyakov",
+        "api_filters",
+        1
+    ],
+    [
+        "akosyakov",
+        "MF",
+        8
+    ],
+    [
+        "akosyakov",
+        "java",
+        183
+    ],
+    [
+        "akosyakov",
+        "xtend",
+        114
+    ],
+    [
+        "akosyakov",
+        "gradle",
+        1
+    ],
+    [
+        "akosyakov",
+        "xml",
+        10
+    ],
+    [
+        "akosyakov",
+        "launch",
+        2
+    ],
+    [
+        "akosyakov",
+        "ISetup",
+        1
+    ],
+    [
+        "akosyakov",
+        "classpath",
+        4
+    ],
+    [
+        "akosyakov",
+        "prefs",
+        4
+    ],
+    [
+        "akosyakov",
+        "json",
+        8
+    ],
+    [
+        "akosyakov",
+        "gitignore",
+        1
+    ],
+    [
+        "akosyakov",
+        "vscodeignore",
+        1
+    ],
+    [
+        "akosyakov",
+        "md",
+        2
+    ],
+    [
+        "akosyakov",
+        "ts",
+        3
+    ],
+    [
+        "akosyakov",
+        "tmLanguage",
+        1
+    ],
+    [
+        "Christian Schneider",
+        "java",
+        32
+    ],
+    [
+        "Christian Schneider",
+        "xtend",
+        13
+    ],
+    [
+        "Dennis Huebner",
+        "xtend",
+        7
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        553
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        8
+    ],
+    [
+        "Dennis Huebner",
+        "classpath",
+        100
+    ],
+    [
+        "Dennis Huebner",
+        "prefs",
+        97
+    ],
+    [
+        "Dennis Huebner",
+        "api_filters",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "MF",
+        121
+    ],
+    [
+        "Dennis Huebner",
+        "xpt",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "MF_gen",
+        4
+    ],
+    [
+        "Dennis Huebner",
+        "launch",
+        2
+    ]
+]

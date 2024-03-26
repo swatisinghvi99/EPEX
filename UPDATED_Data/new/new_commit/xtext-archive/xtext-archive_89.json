@@ -1,0 +1,427 @@
+[
+    [
+        "akosyakov",
+        "xtend",
+        31
+    ],
+    [
+        "akosyakov",
+        "java",
+        64
+    ],
+    [
+        "akosyakov",
+        "launch",
+        2
+    ],
+    [
+        "akosyakov",
+        "api_filters",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        102
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        167
+    ],
+    [
+        "Sven Efftinge",
+        "xml",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "gitignore",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "project",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "prefs",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "gradle",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "launch",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "xml_gen",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "g",
+        7
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        56
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        286
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ext",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xpt",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "g",
+        16
+    ],
+    [
+        "Sebastian Zarnekow",
+        "mwe2",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml_gen",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "tokens",
+        12
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ecore",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "genmodel",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "txt",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "classpath",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "prefs",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "api_filters",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "gradle",
+        1
+    ],
+    [
+        "Jan Sebechlebsky",
+        "java",
+        5
+    ],
+    [
+        "Jan Koehnlein",
+        "xtend",
+        14
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        17
+    ],
+    [
+        "Jan Koehnlein",
+        "xml",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        80
+    ],
+    [
+        "Dennis Huebner",
+        "xtend",
+        73
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "gradle",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "launch",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "prefs",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "MF",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "MF",
+        24
+    ],
+    [
+        "Stefan Oehme",
+        "xtend",
+        213
+    ],
+    [
+        "Stefan Oehme",
+        "java",
+        302
+    ],
+    [
+        "Stefan Oehme",
+        "properties",
+        17
+    ],
+    [
+        "Stefan Oehme",
+        "mwe2",
+        42
+    ],
+    [
+        "Stefan Oehme",
+        "xtext",
+        5
+    ],
+    [
+        "Stefan Oehme",
+        "gradle",
+        38
+    ],
+    [
+        "Stefan Oehme",
+        "xml",
+        35
+    ],
+    [
+        "Stefan Oehme",
+        "target",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "api_filters",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "project",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "classpath",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "g",
+        6
+    ],
+    [
+        "Stefan Oehme",
+        "prefs",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "xtend",
+        51
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "java",
+        92
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "css",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "properties",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "js",
+        3
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "mwe2",
+        4
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "MF",
+        4
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "xml_gen",
+        3
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "api_filters",
+        1
+    ],
+    [
+        "Lorenzo Bettini",
+        "java",
+        4
+    ],
+    [
+        "Lorenzo Bettini",
+        "mwe2",
+        1
+    ],
+    [
+        "Lorenzo Bettini",
+        "xtend",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "xtend",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "java",
+        1
+    ],
+    [
+        "Christian Schneider",
+        "java",
+        51
+    ],
+    [
+        "Christian Schneider",
+        "mwe2",
+        18
+    ],
+    [
+        "Christian Schneider",
+        "MF",
+        5
+    ],
+    [
+        "Christian Schneider",
+        "xtend",
+        21
+    ],
+    [
+        "Christian Schneider",
+        "xml_gen",
+        4
+    ],
+    [
+        "Moritz Eysholdt",
+        "MF",
+        3
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        179
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtend",
+        20
+    ],
+    [
+        "Moritz Eysholdt",
+        "ecore",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "genmodel",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "g",
+        4
+    ],
+    [
+        "Moritz Eysholdt",
+        "tokens",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtext",
+        2
+    ]
+]

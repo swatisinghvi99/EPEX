@@ -1,0 +1,77 @@
+[
+    [
+        "eclipse-edc-bot",
+        "unknown",
+        2
+    ],
+    [
+        "eclipse-edc-bot",
+        "properties",
+        4
+    ],
+    [
+        "eclipse-edc-bot",
+        "toml",
+        2
+    ],
+    [
+        "eclipse-edc-bot",
+        "java",
+        2
+    ],
+    [
+        "eclipse-edc-bot",
+        "json",
+        2
+    ],
+    [
+        "Paul Latzelsperger",
+        "unknown",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "kts",
+        5
+    ],
+    [
+        "Paul Latzelsperger",
+        "toml",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "md",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "java",
+        19
+    ],
+    [
+        "Paul Latzelsperger",
+        "json",
+        3
+    ],
+    [
+        "ndr_brt",
+        "unknown",
+        1
+    ],
+    [
+        "ndr_brt",
+        "kts",
+        2
+    ],
+    [
+        "ndr_brt",
+        "toml",
+        1
+    ],
+    [
+        "ndr_brt",
+        "java",
+        5
+    ]
+]

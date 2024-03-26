@@ -1,0 +1,92 @@
+[
+    [
+        "Mykola Morhun",
+        "go",
+        4
+    ],
+    [
+        "Angel Misevski",
+        "com/gogo/protobuf/AUTHORS",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "com/gogo/protobuf/CONTRIBUTORS",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "com/gogo/protobuf/GOLANG_CONTRIBUTORS",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "com/gogo/protobuf/LICENSE",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "com/gogo/protobuf/proto/Makefile",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "go",
+        93
+    ],
+    [
+        "Angel Misevski",
+        "gitignore",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "yml",
+        2
+    ],
+    [
+        "Angel Misevski",
+        "com/spf13/pflag/LICENSE",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "md",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "mod",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "v0/LICENSE",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "io/apimachinery/LICENSE",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "io/apimachinery/pkg/api/resource/OWNERS",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "proto",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "yaml",
+        18
+    ],
+    [
+        "Angel Misevski",
+        "unknown",
+        3
+    ]
+]

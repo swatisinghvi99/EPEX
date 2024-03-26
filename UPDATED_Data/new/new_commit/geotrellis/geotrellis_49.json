@@ -1,0 +1,97 @@
+[
+    [
+        "Andrew Fink",
+        "md",
+        4
+    ],
+    [
+        "Andrew Fink",
+        "rst",
+        8
+    ],
+    [
+        "Andrew Fink",
+        "py",
+        1
+    ],
+    [
+        "Andrew Fink",
+        "sh",
+        1
+    ],
+    [
+        "Andrew Fink",
+        "sbt",
+        2
+    ],
+    [
+        "Andrew Fink",
+        "scala",
+        1
+    ],
+    [
+        "Andrew Fink",
+        "gitignore",
+        1
+    ],
+    [
+        "Andrew Fink",
+        "js",
+        3
+    ],
+    [
+        "Andrew Fink",
+        "json",
+        1
+    ],
+    [
+        "Andrew Fink",
+        "css",
+        2
+    ],
+    [
+        "Andrew Fink",
+        "svg",
+        4
+    ],
+    [
+        "Andrew Fink",
+        "lock",
+        1
+    ],
+    [
+        "Grigory",
+        "md",
+        3
+    ],
+    [
+        "Grigory",
+        "sbt",
+        3
+    ],
+    [
+        "Grigory",
+        "scala",
+        7
+    ],
+    [
+        "Grigory",
+        "unknown",
+        1
+    ],
+    [
+        "Grigory",
+        "gitignore",
+        1
+    ],
+    [
+        "Grigory",
+        "conf",
+        1
+    ],
+    [
+        "Grigory",
+        "properties",
+        1
+    ]
+]

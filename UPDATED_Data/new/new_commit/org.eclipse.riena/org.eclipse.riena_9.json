@@ -1,0 +1,87 @@
+[
+    [
+        "Elias Volanakis",
+        "java",
+        136
+    ],
+    [
+        "Elias Volanakis",
+        "xml",
+        1
+    ],
+    [
+        "Erich Achilles",
+        "java",
+        101
+    ],
+    [
+        "Erich Achilles",
+        "MF",
+        2
+    ],
+    [
+        "Erich Achilles",
+        "xml",
+        2
+    ],
+    [
+        "Erich Achilles",
+        "properties",
+        1
+    ],
+    [
+        "Erich Achilles",
+        "exsd",
+        1
+    ],
+    [
+        "Thorsten Schenkel",
+        "java",
+        181
+    ],
+    [
+        "Thorsten Schenkel",
+        "xml",
+        2
+    ],
+    [
+        "Thorsten Schenkel",
+        "MF",
+        2
+    ],
+    [
+        "Thorsten Schenkel",
+        "launch",
+        2
+    ],
+    [
+        "Christian Campo",
+        "java",
+        20
+    ],
+    [
+        "Christian Campo",
+        "MF",
+        2
+    ],
+    [
+        "Christian Campo",
+        "launch",
+        1
+    ],
+    [
+        "Stefan Liebig",
+        "java",
+        35
+    ],
+    [
+        "Carsten Drossel",
+        "java",
+        3
+    ],
+    [
+        "Frank Schepp",
+        "java",
+        1
+    ]
+]

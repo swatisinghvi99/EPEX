@@ -1,0 +1,232 @@
+[
+    [
+        "Alexander Fedorov",
+        "MF",
+        90
+    ],
+    [
+        "Alexander Fedorov",
+        "properties",
+        83
+    ],
+    [
+        "Alexander Fedorov",
+        "xml",
+        83
+    ],
+    [
+        "Alexander Fedorov",
+        "java",
+        513
+    ],
+    [
+        "Alexander Fedorov",
+        "classpath",
+        34
+    ],
+    [
+        "Alexander Fedorov",
+        "options",
+        29
+    ],
+    [
+        "Alexander Fedorov",
+        "project",
+        22
+    ],
+    [
+        "Alexander Fedorov",
+        "html",
+        20
+    ],
+    [
+        "Alexander Fedorov",
+        "gitignore",
+        13
+    ],
+    [
+        "Liviu Ionescu",
+        "h",
+        956
+    ],
+    [
+        "Liviu Ionescu",
+        "java",
+        708
+    ],
+    [
+        "Liviu Ionescu",
+        "classpath",
+        23
+    ],
+    [
+        "Liviu Ionescu",
+        "options",
+        6
+    ],
+    [
+        "Liviu Ionescu",
+        "project",
+        20
+    ],
+    [
+        "Liviu Ionescu",
+        "MF",
+        52
+    ],
+    [
+        "Liviu Ionescu",
+        "html",
+        34
+    ],
+    [
+        "Liviu Ionescu",
+        "properties",
+        79
+    ],
+    [
+        "Liviu Ionescu",
+        "xml",
+        56
+    ],
+    [
+        "Liviu Ionescu",
+        "ini",
+        6
+    ],
+    [
+        "Liviu Ionescu",
+        "gitignore",
+        6
+    ],
+    [
+        "Liviu Ionescu",
+        "mappings",
+        3
+    ],
+    [
+        "Liviu Ionescu",
+        "txt",
+        12
+    ],
+    [
+        "Liviu Ionescu",
+        "yml",
+        1
+    ],
+    [
+        "Liviu Ionescu",
+        "md",
+        27
+    ],
+    [
+        "Liviu Ionescu",
+        "gitmodules",
+        1
+    ],
+    [
+        "Liviu Ionescu",
+        "ui/templates/sifive_exe_c_project/LICENSE",
+        1
+    ],
+    [
+        "Liviu Ionescu",
+        "sifive/templates/sifive_exe_c_project/LICENSE",
+        1
+    ],
+    [
+        "Liviu Ionescu",
+        "sifive/templates/sifive_exe_c_project/xpacks/micro-os-plus-c-libs",
+        1
+    ],
+    [
+        "Liviu Ionescu",
+        "sifive/templates/sifive_exe_c_project/xpacks/micro-os-plus-cpp-libs",
+        1
+    ],
+    [
+        "Liviu Ionescu",
+        "sifive/templates/sifive_exe_c_project/xpacks/micro-os-plus-diag-trace",
+        1
+    ],
+    [
+        "Liviu Ionescu",
+        "sifive/templates/sifive_exe_c_project/xpacks/micro-os-plus-riscv-arch",
+        1
+    ],
+    [
+        "Liviu Ionescu",
+        "sifive/templates/sifive_exe_c_project/xpacks/micro-os-plus-semihosting",
+        1
+    ],
+    [
+        "Liviu Ionescu",
+        "sifive/templates/sifive_exe_c_project/xpacks/micro-os-plus-startup",
+        1
+    ],
+    [
+        "Liviu Ionescu",
+        "sifive/templates/sifive_exe_c_project/xpacks/sifive-arty-boards",
+        1
+    ],
+    [
+        "Liviu Ionescu",
+        "sifive/templates/sifive_exe_c_project/xpacks/sifive-devices",
+        1
+    ],
+    [
+        "Liviu Ionescu",
+        "sifive/templates/sifive_exe_c_project/xpacks/sifive-hifive1-board",
+        1
+    ],
+    [
+        "Liviu Ionescu",
+        "sifive/templates/sifive_exe_c_project/xpacks/sifive-templates",
+        1
+    ],
+    [
+        "Liviu Ionescu",
+        "ui/templates/LICENSE",
+        1
+    ],
+    [
+        "Liviu Ionescu",
+        "c",
+        1074
+    ],
+    [
+        "Liviu Ionescu",
+        "cpp",
+        34
+    ],
+    [
+        "Liviu Ionescu",
+        "ld",
+        22
+    ],
+    [
+        "Liviu Ionescu",
+        "stm/templates/LICENSE",
+        1
+    ],
+    [
+        "Liviu Ionescu",
+        "exsd",
+        2
+    ],
+    [
+        "Jonah Graham",
+        "java",
+        34
+    ],
+    [
+        "Jonah Graham",
+        "MF",
+        1
+    ],
+    [
+        "Tim Gates",
+        "c",
+        2
+    ]
+]

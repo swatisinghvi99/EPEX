@@ -1,0 +1,152 @@
+[
+    [
+        "Lachlan",
+        "java",
+        20
+    ],
+    [
+        "Simone Bordet",
+        "java",
+        5379
+    ],
+    [
+        "Simone Bordet",
+        "xml",
+        10
+    ],
+    [
+        "Simone Bordet",
+        "groovy",
+        1
+    ],
+    [
+        "Simone Bordet",
+        "txt",
+        4
+    ],
+    [
+        "Simone Bordet",
+        "unknown",
+        1
+    ],
+    [
+        "Lachlan Roberts",
+        "java",
+        944
+    ],
+    [
+        "Lachlan Roberts",
+        "xml",
+        63
+    ],
+    [
+        "Lachlan Roberts",
+        "sha",
+        8
+    ],
+    [
+        "Lachlan Roberts",
+        "properties",
+        8
+    ],
+    [
+        "Lachlan Roberts",
+        "txt",
+        4
+    ],
+    [
+        "Lachlan Roberts",
+        "html",
+        4
+    ],
+    [
+        "Lachlan Roberts",
+        "ExtensionConfig$Parser",
+        2
+    ],
+    [
+        "Lachlan Roberts",
+        "ArgIdentifier",
+        2
+    ],
+    [
+        "Lachlan Roberts",
+        "ServletContainerInitializer",
+        2
+    ],
+    [
+        "Lachlan Roberts",
+        "Configuration",
+        2
+    ],
+    [
+        "Lachlan Roberts",
+        "css",
+        2
+    ],
+    [
+        "Lachlan Roberts",
+        "js",
+        2
+    ],
+    [
+        "Lachlan Roberts",
+        "json",
+        4
+    ],
+    [
+        "Lachlan Roberts",
+        "adoc",
+        12
+    ],
+    [
+        "Joakim Erdfelt",
+        "java",
+        306
+    ],
+    [
+        "Joakim Erdfelt",
+        "xml",
+        1
+    ],
+    [
+        "Greg Wilkins",
+        "java",
+        23
+    ],
+    [
+        "Jesse Glick",
+        "java",
+        1
+    ],
+    [
+        "olivier lamy",
+        "java",
+        5721
+    ],
+    [
+        "olivier lamy",
+        "adoc",
+        499
+    ],
+    [
+        "olivier lamy",
+        "xml",
+        2
+    ],
+    [
+        "Jan Bartel",
+        "java",
+        12
+    ],
+    [
+        "Jan Bartel",
+        "xml",
+        6
+    ],
+    [
+        "Jan Bartel",
+        "html",
+        1
+    ]
+]

@@ -1,0 +1,322 @@
+[
+    [
+        "Jetty Bot",
+        "html",
+        30678
+    ],
+    [
+        "Jetty Bot",
+        "cache",
+        36
+    ],
+    [
+        "Jetty Bot",
+        "svg",
+        34
+    ],
+    [
+        "Jetty Bot",
+        "dot",
+        4
+    ],
+    [
+        "Jetty Bot",
+        "js",
+        77
+    ],
+    [
+        "Jetty Bot",
+        "css",
+        41
+    ],
+    [
+        "Jetty Bot",
+        "map",
+        2
+    ],
+    [
+        "Jetty Bot",
+        "v20201020/META-INF/LICENSE",
+        2
+    ],
+    [
+        "Jetty Bot",
+        "MF",
+        5
+    ],
+    [
+        "Jetty Bot",
+        "txt",
+        2
+    ],
+    [
+        "Jetty Bot",
+        "v20201020/element-list",
+        2
+    ],
+    [
+        "Jetty Bot",
+        "unknown",
+        2
+    ],
+    [
+        "Jetty Bot",
+        "beta3/element-list",
+        2
+    ],
+    [
+        "Jetty Bot",
+        "sh",
+        2
+    ],
+    [
+        "Jetty Bot",
+        "beta3/options",
+        2
+    ],
+    [
+        "Jetty Bot",
+        "beta3/packages",
+        2
+    ],
+    [
+        "Jetty Bot",
+        "v20201102/META-INF/LICENSE",
+        1
+    ],
+    [
+        "Jetty Bot",
+        "v20201102/element-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "php",
+        117
+    ],
+    [
+        "Jesse McConnell",
+        "html",
+        146345
+    ],
+    [
+        "Jesse McConnell",
+        "svg",
+        273
+    ],
+    [
+        "Jesse McConnell",
+        "v20161220/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "js",
+        461
+    ],
+    [
+        "Jesse McConnell",
+        "css",
+        204
+    ],
+    [
+        "Jesse McConnell",
+        "sh",
+        3
+    ],
+    [
+        "Jesse McConnell",
+        "v20170120/options",
+        2
+    ],
+    [
+        "Jesse McConnell",
+        "v20170120/package-list",
+        2
+    ],
+    [
+        "Jesse McConnell",
+        "v20170120/packages",
+        2
+    ],
+    [
+        "Jesse McConnell",
+        "v20170317/package-list",
+        2
+    ],
+    [
+        "Jesse McConnell",
+        "v20170406/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20170502/package-list",
+        2
+    ],
+    [
+        "Jesse McConnell",
+        "v20170531/package-list",
+        2
+    ],
+    [
+        "Jesse McConnell",
+        "v20170918/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20171030/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20180228/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20161208/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20180503/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20180605/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20180830/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20181111/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20181114/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20190215/element-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20190411/element-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20190418/element-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20190429/element-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20190610/element-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20170220/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20190813/element-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20190926/element-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20191022/element-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20191120/element-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20191120/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20191220/element-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20191220/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20200117/element-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20200117/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20170414/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20170914/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20171121/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "v20180320/package-list",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "cache",
+        17
+    ],
+    [
+        "Jesse McConnell",
+        "asciidoctorconfig",
+        2
+    ],
+    [
+        "Jesse McConnell",
+        "dot",
+        9
+    ],
+    [
+        "Jesse McConnell",
+        "map",
+        5
+    ]
+]

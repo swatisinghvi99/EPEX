@@ -1,0 +1,97 @@
+[
+    [
+        "Thomas Watson",
+        "bnd",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "java",
+        5
+    ],
+    [
+        "BJ Hargrave",
+        "mvn",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "classpath",
+        5
+    ],
+    [
+        "BJ Hargrave",
+        "project",
+        5
+    ],
+    [
+        "BJ Hargrave",
+        "prefs",
+        20
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        12
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        93
+    ],
+    [
+        "BJ Hargrave",
+        "xsd",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "application/src/org/osgi/impl/service/application/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "xml",
+        6
+    ],
+    [
+        "BJ Hargrave",
+        "application/src/org/osgi/test/cases/application/tb1/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "application/src/org/osgi/test/cases/application/tbc/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "svg",
+        5
+    ],
+    [
+        "Juergen Albert",
+        "java",
+        1
+    ],
+    [
+        "Juergen Albert",
+        "xml",
+        3
+    ],
+    [
+        "Hiroyuki Maeomichi",
+        "java",
+        1
+    ],
+    [
+        "Hiroyuki Maeomichi",
+        "xml",
+        1
+    ],
+    [
+        "Carsten Ziegeler",
+        "java",
+        1
+    ]
+]

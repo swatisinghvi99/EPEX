@@ -1,0 +1,212 @@
+[
+    [
+        "Greg Watson",
+        "java",
+        487
+    ],
+    [
+        "Greg Watson",
+        "properties",
+        35
+    ],
+    [
+        "Greg Watson",
+        "xml",
+        3
+    ],
+    [
+        "Greg Watson",
+        "classpath",
+        4
+    ],
+    [
+        "Greg Watson",
+        "MF",
+        5
+    ],
+    [
+        "Greg Watson",
+        "project",
+        2
+    ],
+    [
+        "Greg Watson",
+        "prefs",
+        4
+    ],
+    [
+        "Greg Watson",
+        "c",
+        13
+    ],
+    [
+        "Greg Watson",
+        "cproject",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sci/Makefile",
+        1
+    ],
+    [
+        "Greg Watson",
+        "html",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sci/common/Makefile",
+        1
+    ],
+    [
+        "Greg Watson",
+        "cpp",
+        55
+    ],
+    [
+        "Greg Watson",
+        "hpp",
+        47
+    ],
+    [
+        "Greg Watson",
+        "sci/include/Makefile",
+        1
+    ],
+    [
+        "Greg Watson",
+        "h",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sci/libsci/Makefile",
+        1
+    ],
+    [
+        "Greg Watson",
+        "define",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sci/man/Makefile",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sci/man/aix/Makefile",
+        1
+    ],
+    [
+        "Greg Watson",
+        "3",
+        36
+    ],
+    [
+        "Greg Watson",
+        "sci/man/linux/Makefile",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sci/scia/Makefile",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sci/scid/Makefile",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sci/scid/sciv1",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sci/usecase/dsh/Makefile",
+        1
+    ],
+    [
+        "Greg Watson",
+        "aix",
+        4
+    ],
+    [
+        "Greg Watson",
+        "sci/usecase/dsh/buildit",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sci/usecase/dsh/use_ext_launcher",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sci/usecase/dsh/use_ext_launcher2",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sci/usecase/dsh_2/Makefile",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sci/usecase/dsh_2/buildit",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sci/usecase/dsh_filter/Makefile",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sci/usecase/dsh_filter/buildit",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sci/usecase/dsh_filter2/Makefile",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sci/usecase/dsh_filter2/buildit",
+        1
+    ],
+    [
+        "Randy Roberts",
+        "java",
+        17
+    ],
+    [
+        "David Wootton",
+        "java",
+        5
+    ],
+    [
+        "David Wootton",
+        "properties",
+        2
+    ],
+    [
+        "Mike Kucera",
+        "java",
+        10
+    ],
+    [
+        "Mike Kucera",
+        "xml",
+        1
+    ],
+    [
+        "Beth Tibbitts",
+        "java",
+        7
+    ]
+]

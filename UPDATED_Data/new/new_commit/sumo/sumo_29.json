@@ -1,0 +1,357 @@
+[
+    [
+        "Alvarez Lopez, Pablo",
+        "netedit",
+        4363
+    ],
+    [
+        "Alvarez Lopez, Pablo",
+        "py",
+        1377
+    ],
+    [
+        "Alvarez Lopez, Pablo",
+        "xml",
+        152
+    ],
+    [
+        "Alvarez Lopez, Pablo",
+        "cpp",
+        33
+    ],
+    [
+        "Alvarez Lopez, Pablo",
+        "h",
+        8
+    ],
+    [
+        "Alvarez Lopez, Pablo",
+        "neteditcheckoutput",
+        595
+    ],
+    [
+        "Alvarez Lopez, Pablo",
+        "demand1",
+        2
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "cpp",
+        58
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "h",
+        31
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "netedit",
+        707
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "py",
+        260
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "xml",
+        35
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "netccfg",
+        2
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "neteditcheckoutput",
+        44
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "sumocfg",
+        1
+    ],
+    [
+        "namdre",
+        "complex",
+        112
+    ],
+    [
+        "namdre",
+        "py",
+        71
+    ],
+    [
+        "namdre",
+        "xml",
+        22
+    ],
+    [
+        "namdre",
+        "cpp",
+        136
+    ],
+    [
+        "namdre",
+        "h",
+        57
+    ],
+    [
+        "namdre",
+        "i",
+        3
+    ],
+    [
+        "namdre",
+        "sumocfg",
+        2
+    ],
+    [
+        "namdre",
+        "unknown",
+        1
+    ],
+    [
+        "namdre",
+        "traci",
+        1
+    ],
+    [
+        "namdre",
+        "txt",
+        2
+    ],
+    [
+        "namdre",
+        "java",
+        2
+    ],
+    [
+        "namdre",
+        "xsd",
+        5
+    ],
+    [
+        "namdre",
+        "tools",
+        2
+    ],
+    [
+        "namdre",
+        "libsumo",
+        1
+    ],
+    [
+        "namdre",
+        "meso",
+        4
+    ],
+    [
+        "Michael Behrisch",
+        "py",
+        91
+    ],
+    [
+        "Michael Behrisch",
+        "cpp",
+        187
+    ],
+    [
+        "Michael Behrisch",
+        "h",
+        87
+    ],
+    [
+        "Michael Behrisch",
+        "xml",
+        4
+    ],
+    [
+        "Michael Behrisch",
+        "complex",
+        19
+    ],
+    [
+        "Michael Behrisch",
+        "sumocfg",
+        2
+    ],
+    [
+        "Michael Behrisch",
+        "tools",
+        3
+    ],
+    [
+        "Michael Behrisch",
+        "txt",
+        3
+    ],
+    [
+        "Michael Behrisch",
+        "meso",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "gitignore",
+        2
+    ],
+    [
+        "Michael Behrisch",
+        "json",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "activitygen",
+        3
+    ],
+    [
+        "Michael Behrisch",
+        "dfrouter",
+        7
+    ],
+    [
+        "Michael Behrisch",
+        "duarouter",
+        10
+    ],
+    [
+        "Michael Behrisch",
+        "jtrrouter",
+        10
+    ],
+    [
+        "Michael Behrisch",
+        "marouter",
+        7
+    ],
+    [
+        "Michael Behrisch",
+        "netconvert",
+        7
+    ],
+    [
+        "Michael Behrisch",
+        "netgen",
+        7
+    ],
+    [
+        "Michael Behrisch",
+        "od2trips",
+        4
+    ],
+    [
+        "Michael Behrisch",
+        "polyconvert",
+        3
+    ],
+    [
+        "Michael Behrisch",
+        "sumo",
+        6
+    ],
+    [
+        "Michael Behrisch",
+        "md",
+        10
+    ],
+    [
+        "Michael Behrisch",
+        "xsd",
+        10
+    ],
+    [
+        "Robert Hilbrich",
+        "txt",
+        2
+    ],
+    [
+        "Robert Hilbrich",
+        "c",
+        23
+    ],
+    [
+        "Robert Hilbrich",
+        "cpp",
+        5
+    ],
+    [
+        "Robert Hilbrich",
+        "h",
+        10
+    ],
+    [
+        "lbieker",
+        "tools",
+        12
+    ],
+    [
+        "lbieker",
+        "py",
+        3
+    ],
+    [
+        "lbieker",
+        "complex",
+        3
+    ],
+    [
+        "lbieker",
+        "xml",
+        4
+    ],
+    [
+        "Matthias Schwamborn",
+        "complex",
+        4
+    ],
+    [
+        "Matthias Schwamborn",
+        "xml",
+        2
+    ],
+    [
+        "Matthias Schwamborn",
+        "py",
+        4
+    ],
+    [
+        "Matthias Schwamborn",
+        "h",
+        3
+    ],
+    [
+        "Matthias Schwamborn",
+        "cpp",
+        2
+    ],
+    [
+        "Matthias Schwamborn",
+        "java",
+        1
+    ],
+    [
+        "Weber",
+        "py",
+        3
+    ],
+    [
+        "Weber",
+        "complex",
+        5
+    ],
+    [
+        "Weber",
+        "xml",
+        2
+    ],
+    [
+        "Krumnow, Mario",
+        "java",
+        3
+    ]
+]

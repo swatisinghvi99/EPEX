@@ -1,0 +1,397 @@
+[
+    [
+        "Michael Behrisch",
+        "cpp",
+        213
+    ],
+    [
+        "Michael Behrisch",
+        "h",
+        86
+    ],
+    [
+        "Michael Behrisch",
+        "xsd",
+        2
+    ],
+    [
+        "Michael Behrisch",
+        "java",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "py",
+        60
+    ],
+    [
+        "Michael Behrisch",
+        "complex",
+        56
+    ],
+    [
+        "Michael Behrisch",
+        "txt",
+        11
+    ],
+    [
+        "Michael Behrisch",
+        "traci",
+        8
+    ],
+    [
+        "Michael Behrisch",
+        "sumo",
+        3
+    ],
+    [
+        "Michael Behrisch",
+        "cs",
+        2
+    ],
+    [
+        "Michael Behrisch",
+        "i",
+        2
+    ],
+    [
+        "Michael Behrisch",
+        "ci",
+        2
+    ],
+    [
+        "Michael Behrisch",
+        "properties",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "xml",
+        16
+    ],
+    [
+        "Michael Behrisch",
+        "libsumo",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "sumocfg",
+        3
+    ],
+    [
+        "Michael Behrisch",
+        "netccfg",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "netgcfg",
+        3
+    ],
+    [
+        "Michael Behrisch",
+        "disabled",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "sh",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "cmake",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "md",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "tools",
+        15
+    ],
+    [
+        "Max Schrader",
+        "cpp",
+        10
+    ],
+    [
+        "Max Schrader",
+        "h",
+        4
+    ],
+    [
+        "Max Schrader",
+        "sumo",
+        17
+    ],
+    [
+        "Max Schrader",
+        "xml",
+        3
+    ],
+    [
+        "Max Schrader",
+        "md",
+        1
+    ],
+    [
+        "Pablo Alvarez lopez",
+        "cpp",
+        247
+    ],
+    [
+        "Pablo Alvarez lopez",
+        "h",
+        167
+    ],
+    [
+        "Pablo Alvarez lopez",
+        "xpm",
+        1
+    ],
+    [
+        "Pablo Alvarez lopez",
+        "py",
+        58
+    ],
+    [
+        "Pablo Alvarez lopez",
+        "netedit",
+        213
+    ],
+    [
+        "Pablo Alvarez lopez",
+        "neteditcheckoutput",
+        31
+    ],
+    [
+        "Pablo Alvarez lopez",
+        "xml",
+        179
+    ],
+    [
+        "Pablo Alvarez lopez",
+        "pyproj",
+        2
+    ],
+    [
+        "Pablo Alvarez lopez",
+        "txt",
+        14
+    ],
+    [
+        "Pablo Alvarez lopez",
+        "flow_junctions",
+        1
+    ],
+    [
+        "m-kro",
+        "cpp",
+        50
+    ],
+    [
+        "m-kro",
+        "h",
+        32
+    ],
+    [
+        "m-kro",
+        "xsd",
+        1
+    ],
+    [
+        "m-kro",
+        "mtl",
+        1
+    ],
+    [
+        "m-kro",
+        "obj",
+        4
+    ],
+    [
+        "namdre",
+        "cpp",
+        177
+    ],
+    [
+        "namdre",
+        "h",
+        74
+    ],
+    [
+        "namdre",
+        "py",
+        56
+    ],
+    [
+        "namdre",
+        "xml",
+        22
+    ],
+    [
+        "namdre",
+        "complex",
+        74
+    ],
+    [
+        "namdre",
+        "meso",
+        4
+    ],
+    [
+        "namdre",
+        "tools",
+        6
+    ],
+    [
+        "namdre",
+        "sumocfg",
+        2
+    ],
+    [
+        "namdre",
+        "xsd",
+        1
+    ],
+    [
+        "namdre",
+        "duarcfg",
+        1
+    ],
+    [
+        "Angelo Banse",
+        "cpp",
+        21
+    ],
+    [
+        "Angelo Banse",
+        "py",
+        11
+    ],
+    [
+        "Angelo Banse",
+        "js",
+        1
+    ],
+    [
+        "Angelo Banse",
+        "h",
+        6
+    ],
+    [
+        "Angelo Banse",
+        "txt",
+        1
+    ],
+    [
+        "Benjamin Cou\u00e9raud",
+        "py",
+        18
+    ],
+    [
+        "Benjamin Cou\u00e9raud",
+        "tools",
+        11
+    ],
+    [
+        "Yun-Pang Fl\u00f6tter\u00f6d",
+        "py",
+        1
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "cpp",
+        94
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "h",
+        27
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "netedit",
+        66
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "py",
+        5
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "txt",
+        4
+    ],
+    [
+        "vijay-jaisankar",
+        "py",
+        10
+    ],
+    [
+        "Robert Hilbrich",
+        "xml",
+        3
+    ],
+    [
+        "Robert Hilbrich",
+        "complex",
+        3
+    ],
+    [
+        "Robert Hilbrich",
+        "py",
+        1
+    ],
+    [
+        "Vijay Jaisankar",
+        "py",
+        8
+    ],
+    [
+        "Vijay Jaisankar",
+        "cpp",
+        4
+    ],
+    [
+        "Matthias Schwamborn",
+        "txt",
+        3
+    ],
+    [
+        "Matthias Schwamborn",
+        "cpp",
+        1
+    ],
+    [
+        "Matthias Schwamborn",
+        "xml",
+        4
+    ],
+    [
+        "Matthias Schwamborn",
+        "sumocfg",
+        1
+    ],
+    [
+        "Dominik Salles",
+        "cpp",
+        10
+    ],
+    [
+        "Dominik Salles",
+        "md",
+        1
+    ],
+    [
+        "Dominik Salles",
+        "h",
+        2
+    ]
+]

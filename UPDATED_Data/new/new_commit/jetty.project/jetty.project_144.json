@@ -1,0 +1,107 @@
+[
+    [
+        "gregw",
+        "java",
+        11
+    ],
+    [
+        "Simone Bordet",
+        "java",
+        13
+    ],
+    [
+        "Simone Bordet",
+        "adoc",
+        33
+    ],
+    [
+        "Simone Bordet",
+        "html",
+        1
+    ],
+    [
+        "Simone Bordet",
+        "css",
+        2
+    ],
+    [
+        "Simone Bordet",
+        "js",
+        1
+    ],
+    [
+        "Simone Bordet",
+        "txt",
+        1
+    ],
+    [
+        "Simone Bordet",
+        "xml",
+        1
+    ],
+    [
+        "Simone Bordet",
+        "mod",
+        2
+    ],
+    [
+        "Simone Bordet",
+        "properties",
+        2
+    ],
+    [
+        "Greg Wilkins",
+        "java",
+        36
+    ],
+    [
+        "Olivier Lamy",
+        "java",
+        6
+    ],
+    [
+        "olivier lamy",
+        "java",
+        4
+    ],
+    [
+        "Joakim Erdfelt",
+        "java",
+        23
+    ],
+    [
+        "Joakim Erdfelt",
+        "xml",
+        16
+    ],
+    [
+        "Joakim Erdfelt",
+        "mod",
+        1
+    ],
+    [
+        "Lachlan Roberts",
+        "java",
+        13
+    ],
+    [
+        "Jan Bartel",
+        "java",
+        17
+    ],
+    [
+        "Jan Bartel",
+        "adoc",
+        2
+    ],
+    [
+        "Jan Bartel",
+        "xml",
+        1
+    ],
+    [
+        "Jan Bartel",
+        "asciidoctorconfig",
+        1
+    ]
+]

@@ -1,0 +1,542 @@
+[
+    [
+        "Hakan Tandogan",
+        "js",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "xml",
+        29
+    ],
+    [
+        "Kai Kreuzer",
+        "java",
+        65
+    ],
+    [
+        "Kai Kreuzer",
+        "MF",
+        12
+    ],
+    [
+        "Kai Kreuzer",
+        "classpath",
+        4
+    ],
+    [
+        "Kai Kreuzer",
+        "project",
+        4
+    ],
+    [
+        "Kai Kreuzer",
+        "prefs",
+        6
+    ],
+    [
+        "Kai Kreuzer",
+        "json",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "html",
+        4
+    ],
+    [
+        "Kai Kreuzer",
+        "properties",
+        4
+    ],
+    [
+        "Kai Kreuzer",
+        "md",
+        1
+    ],
+    [
+        "Stefan Bu\u00dfweiler",
+        "groovy",
+        17
+    ],
+    [
+        "Stefan Bu\u00dfweiler",
+        "java",
+        19
+    ],
+    [
+        "Stefan Bu\u00dfweiler",
+        "html",
+        1
+    ],
+    [
+        "Stefan Bu\u00dfweiler",
+        "md",
+        3
+    ],
+    [
+        "Stefan Bu\u00dfweiler",
+        "xml",
+        2
+    ],
+    [
+        "aounhaider1",
+        "html",
+        11
+    ],
+    [
+        "aounhaider1",
+        "paper/about_files/EVENTSOURCE_LICENSE",
+        1
+    ],
+    [
+        "aounhaider1",
+        "js",
+        19
+    ],
+    [
+        "aounhaider1",
+        "json",
+        1
+    ],
+    [
+        "aounhaider1",
+        "css",
+        3
+    ],
+    [
+        "Aoun Bukhari",
+        "js",
+        1
+    ],
+    [
+        "lolodomo",
+        "java",
+        14
+    ],
+    [
+        "lolodomo",
+        "MF",
+        1
+    ],
+    [
+        "lolodomo",
+        "properties",
+        3
+    ],
+    [
+        "Wouter Born",
+        "xml",
+        2
+    ],
+    [
+        "Wouter Born",
+        "MF",
+        1
+    ],
+    [
+        "Wouter Born",
+        "java",
+        30
+    ],
+    [
+        "Wouter Born",
+        "js",
+        2
+    ],
+    [
+        "Wouter Born",
+        "md",
+        1
+    ],
+    [
+        "John Cocula",
+        "java",
+        2
+    ],
+    [
+        "John Cocula",
+        "html",
+        1
+    ],
+    [
+        "John Cocula",
+        "js",
+        2
+    ],
+    [
+        "Simon Kaufmann",
+        "java",
+        21
+    ],
+    [
+        "Simon Kaufmann",
+        "groovy",
+        5
+    ],
+    [
+        "Simon Kaufmann",
+        "txt",
+        1
+    ],
+    [
+        "Simon Kaufmann",
+        "md",
+        2
+    ],
+    [
+        "Alexander Kostadinov",
+        "java",
+        1
+    ],
+    [
+        "Karel Goderis",
+        "java",
+        10
+    ],
+    [
+        "Markus Rathgeb",
+        "java",
+        8
+    ],
+    [
+        "Mihaela Memova",
+        "java",
+        10
+    ],
+    [
+        "Mihaela Memova",
+        "classpath",
+        1
+    ],
+    [
+        "Mihaela Memova",
+        "project",
+        1
+    ],
+    [
+        "Mihaela Memova",
+        "launch",
+        1
+    ],
+    [
+        "Mihaela Memova",
+        "MF",
+        3
+    ],
+    [
+        "Mihaela Memova",
+        "properties",
+        1
+    ],
+    [
+        "Mihaela Memova",
+        "xml",
+        2
+    ],
+    [
+        "Mihaela Memova",
+        "groovy",
+        4
+    ],
+    [
+        "Ana Dimova",
+        "MF",
+        3
+    ],
+    [
+        "Ana Dimova",
+        "java",
+        31
+    ],
+    [
+        "Ana Dimova",
+        "classpath",
+        1
+    ],
+    [
+        "Ana Dimova",
+        "project",
+        2
+    ],
+    [
+        "Ana Dimova",
+        "xml",
+        10
+    ],
+    [
+        "Ana Dimova",
+        "html",
+        1
+    ],
+    [
+        "Ana Dimova",
+        "properties",
+        2
+    ],
+    [
+        "Ana Dimova",
+        "json",
+        3
+    ],
+    [
+        "Ana Dimova",
+        "launch",
+        2
+    ],
+    [
+        "Ana Dimova",
+        "groovy",
+        2
+    ],
+    [
+        "engawel",
+        "MF",
+        2
+    ],
+    [
+        "engawel",
+        "xml",
+        2
+    ],
+    [
+        "engawel",
+        "groovy",
+        1
+    ],
+    [
+        "engawel",
+        "java",
+        3
+    ],
+    [
+        "Ivan Iliev",
+        "java",
+        1
+    ],
+    [
+        "ivivanov-bg",
+        "java",
+        1
+    ],
+    [
+        "BenediktNiehues",
+        "groovy",
+        2
+    ],
+    [
+        "BenediktNiehues",
+        "java",
+        2
+    ],
+    [
+        "Chris Jackson",
+        "classpath",
+        3
+    ],
+    [
+        "Chris Jackson",
+        "project",
+        2
+    ],
+    [
+        "Chris Jackson",
+        "prefs",
+        7
+    ],
+    [
+        "Chris Jackson",
+        "MF",
+        2
+    ],
+    [
+        "Chris Jackson",
+        "launch",
+        1
+    ],
+    [
+        "Chris Jackson",
+        "html",
+        2
+    ],
+    [
+        "Chris Jackson",
+        "properties",
+        3
+    ],
+    [
+        "Chris Jackson",
+        "xml",
+        6
+    ],
+    [
+        "Chris Jackson",
+        "groovy",
+        1
+    ],
+    [
+        "Chris Jackson",
+        "java",
+        6
+    ],
+    [
+        "Vlad Ivanov",
+        "js",
+        2
+    ],
+    [
+        "plamen-peev",
+        "classpath",
+        1
+    ],
+    [
+        "plamen-peev",
+        "MF",
+        1
+    ],
+    [
+        "plamen-peev",
+        "xml",
+        3
+    ],
+    [
+        "plamen-peev",
+        "html",
+        1
+    ],
+    [
+        "plamen-peev",
+        "properties",
+        1
+    ],
+    [
+        "plamen-peev",
+        "txt",
+        1
+    ],
+    [
+        "plamen-peev",
+        "java",
+        1
+    ],
+    [
+        "Dimitar Ivanov",
+        "java",
+        4
+    ],
+    [
+        "Dimitar Ivanov",
+        "groovy",
+        1
+    ],
+    [
+        "Svilen Valkanov",
+        "groovy",
+        1
+    ],
+    [
+        "Svilen Valkanov",
+        "java",
+        2
+    ],
+    [
+        "Svilen",
+        "java",
+        1
+    ],
+    [
+        "J-N-K",
+        "java",
+        1
+    ],
+    [
+        "Hans-J\u00f6rg Merk",
+        "java",
+        4
+    ],
+    [
+        "mboesling",
+        "groovy",
+        1
+    ],
+    [
+        "mboesling",
+        "java",
+        1
+    ],
+    [
+        "vilchev",
+        "java",
+        11
+    ],
+    [
+        "vilchev",
+        "json",
+        9
+    ],
+    [
+        "Christoph Knauf",
+        "java",
+        2
+    ],
+    [
+        "Yordan Mihaylov",
+        "java",
+        6
+    ],
+    [
+        "Yordan Mihaylov",
+        "xml",
+        1
+    ],
+    [
+        "Andre Fuechsel",
+        "java",
+        1
+    ],
+    [
+        "Sebastian Janzen",
+        "classpath",
+        1
+    ],
+    [
+        "Sebastian Janzen",
+        "project",
+        1
+    ],
+    [
+        "Sebastian Janzen",
+        "prefs",
+        1
+    ],
+    [
+        "Sebastian Janzen",
+        "MF",
+        1
+    ],
+    [
+        "Sebastian Janzen",
+        "xml",
+        4
+    ],
+    [
+        "Sebastian Janzen",
+        "md",
+        1
+    ],
+    [
+        "Sebastian Janzen",
+        "html",
+        1
+    ],
+    [
+        "Sebastian Janzen",
+        "properties",
+        1
+    ],
+    [
+        "Sebastian Janzen",
+        "java",
+        2
+    ]
+]

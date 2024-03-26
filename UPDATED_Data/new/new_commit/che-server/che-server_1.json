@@ -1,0 +1,637 @@
+[
+    [
+        "Eclipse Che Initial Contribution",
+        "gitignore",
+        5
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "config",
+        4
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "md",
+        9
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "unknown",
+        16
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "yml",
+        2
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "xml",
+        340
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "java",
+        4450
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "css",
+        67
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "json",
+        15
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "jsp",
+        1
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "properties",
+        30
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "js",
+        231
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "txt",
+        14
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "sh",
+        3
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "bat",
+        2
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "svg",
+        207
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "ServletContainerInitializer",
+        1
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "html",
+        71
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "blank",
+        1
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "babelrc",
+        1
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "bowerrc",
+        1
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "editorconfig",
+        1
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "eslintrc",
+        2
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "jshintrc",
+        1
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "styl",
+        69
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "template",
+        2
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "MD",
+        1
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "tokens",
+        2
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "codenvy/classpath",
+        3
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "maven",
+        1
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "rscjson",
+        20
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "rsc",
+        4
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "log",
+        1
+    ],
+    [
+        "Eclipse Che Initial Contribution",
+        "diff",
+        3
+    ],
+    [
+        "Sergii Kabashniuk",
+        "md",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "xml",
+        117
+    ],
+    [
+        "Sergii Kabashniuk",
+        "java",
+        1270
+    ],
+    [
+        "Sergii Kabashniuk",
+        "properties",
+        27
+    ],
+    [
+        "Sergii Kabashniuk",
+        "sh",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "js",
+        13
+    ],
+    [
+        "Sergii Kabashniuk",
+        "map",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "css",
+        2
+    ],
+    [
+        "Sergii Kabashniuk",
+        "svg",
+        3
+    ],
+    [
+        "Sergii Kabashniuk",
+        "styl",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "html",
+        5
+    ],
+    [
+        "Sergii Kabashniuk",
+        "g",
+        2
+    ],
+    [
+        "Sergii Kabashniuk",
+        "profile",
+        1
+    ],
+    [
+        "Dmitry Shnurenko",
+        "java",
+        61
+    ],
+    [
+        "Dmitry Shnurenko",
+        "xml",
+        4
+    ],
+    [
+        "Dmitry Shnurenko",
+        "properties",
+        4
+    ],
+    [
+        "Florent BENOIT",
+        "js",
+        43
+    ],
+    [
+        "Florent BENOIT",
+        "html",
+        4
+    ],
+    [
+        "Florent BENOIT",
+        "styl",
+        1
+    ],
+    [
+        "Florent BENOIT",
+        "xml",
+        1
+    ],
+    [
+        "Florent BENOIT",
+        "java",
+        8
+    ],
+    [
+        "Florent BENOIT",
+        "properties",
+        1
+    ],
+    [
+        "Florent BENOIT",
+        "gitignore",
+        1
+    ],
+    [
+        "Vitaly Parfonov",
+        "xml",
+        1
+    ],
+    [
+        "Vitaly Parfonov",
+        "java",
+        13
+    ],
+    [
+        "Dmytro Nochevnov",
+        "java",
+        4
+    ],
+    [
+        "Dmytro Nochevnov",
+        "xml",
+        1
+    ],
+    [
+        "Anton Johansson",
+        "java",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "java",
+        66
+    ],
+    [
+        "Max Shaposhnik",
+        "xml",
+        5
+    ],
+    [
+        "Max Shaposhnik",
+        "properties",
+        1
+    ],
+    [
+        "Anton Korneta",
+        "java",
+        12
+    ],
+    [
+        "Anton Korneta",
+        "xml",
+        2
+    ],
+    [
+        "Valeriy Svydenko",
+        "java",
+        35
+    ],
+    [
+        "Valeriy Svydenko",
+        "xml",
+        1
+    ],
+    [
+        "Roman Nikitenko",
+        "java",
+        53
+    ],
+    [
+        "Roman Nikitenko",
+        "xml",
+        2
+    ],
+    [
+        "Roman Nikitenko",
+        "css",
+        1
+    ],
+    [
+        "Artem Zatsarynnyi",
+        "java",
+        87
+    ],
+    [
+        "Igor Vinokur",
+        "java",
+        86
+    ],
+    [
+        "Igor Vinokur",
+        "xml",
+        4
+    ],
+    [
+        "Igor Vinokur",
+        "properties",
+        5
+    ],
+    [
+        "Igor Vinokur",
+        "html",
+        1
+    ],
+    [
+        "Aleksandr Andrienko",
+        "java",
+        67
+    ],
+    [
+        "Aleksandr Andrienko",
+        "properties",
+        1
+    ],
+    [
+        "Aleksandr Andrienko",
+        "xml",
+        7
+    ],
+    [
+        "Aleksandr Andrienko",
+        "json",
+        3
+    ],
+    [
+        "Aleksandr Andrienko",
+        "svg",
+        5
+    ],
+    [
+        "Vitaliy Guliy",
+        "java",
+        80
+    ],
+    [
+        "Vitaliy Guliy",
+        "css",
+        7
+    ],
+    [
+        "Vitaliy Guliy",
+        "svg",
+        2
+    ],
+    [
+        "Vitaliy Guliy",
+        "xml",
+        3
+    ],
+    [
+        "Vitaliy Guliy",
+        "js",
+        3
+    ],
+    [
+        "Vitaliy Guliy",
+        "properties",
+        1
+    ],
+    [
+        "Ann Shumilova",
+        "html",
+        15
+    ],
+    [
+        "Ann Shumilova",
+        "js",
+        24
+    ],
+    [
+        "Ann Shumilova",
+        "styl",
+        10
+    ],
+    [
+        "Ann Shumilova",
+        "json",
+        4
+    ],
+    [
+        "Ann Shumilova",
+        "svg",
+        1
+    ],
+    [
+        "Ann Shumilova",
+        "template",
+        1
+    ],
+    [
+        "Ann Shumilova",
+        "properties",
+        1
+    ],
+    [
+        "Ann Shumilova",
+        "java",
+        3
+    ],
+    [
+        "Eugene Ivantsov",
+        "java",
+        7
+    ],
+    [
+        "Eugene Ivantsov",
+        "properties",
+        1
+    ],
+    [
+        "Alexander Garagatyi",
+        "java",
+        214
+    ],
+    [
+        "Alexander Garagatyi",
+        "xml",
+        5
+    ],
+    [
+        "Alexander Garagatyi",
+        "properties",
+        4
+    ],
+    [
+        "Alexander Garagatyi",
+        "sh",
+        1
+    ],
+    [
+        "Roman Iuvshin",
+        "java",
+        3
+    ],
+    [
+        "Oleksii Orel",
+        "js",
+        55
+    ],
+    [
+        "Oleksii Orel",
+        "html",
+        21
+    ],
+    [
+        "Oleksii Orel",
+        "java",
+        1
+    ],
+    [
+        "Oleksii Orel",
+        "styl",
+        5
+    ],
+    [
+        "Oleksii Orel",
+        "json",
+        1
+    ],
+    [
+        "Mihail Kuznyetsov",
+        "xml",
+        2
+    ],
+    [
+        "Mihail Kuznyetsov",
+        "java",
+        11
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "json",
+        2
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "js",
+        2
+    ],
+    [
+        "Anatoliy Bazko",
+        "java",
+        19
+    ],
+    [
+        "Anatoliy Bazko",
+        "css",
+        1
+    ],
+    [
+        "Anatoliy Bazko",
+        "xml",
+        1
+    ],
+    [
+        "Vladyslav Zhukovskii",
+        "java",
+        10
+    ],
+    [
+        "Vladyslav Zhukovskii",
+        "xml",
+        1
+    ],
+    [
+        "Mykola Morhun",
+        "java",
+        51
+    ],
+    [
+        "Mykola Morhun",
+        "css",
+        2
+    ],
+    [
+        "Mykola Morhun",
+        "xml",
+        1
+    ],
+    [
+        "Mykola Morhun",
+        "properties",
+        1
+    ],
+    [
+        "Mykola Morhun",
+        "svg",
+        6
+    ],
+    [
+        "Sergii Leschenko",
+        "xml",
+        1
+    ],
+    [
+        "Sergii Leschenko",
+        "java",
+        3
+    ],
+    [
+        "Yevhenii Voevodin",
+        "java",
+        9
+    ],
+    [
+        "St\u00e9phane Tourni\u00e9",
+        "java",
+        3
+    ],
+    [
+        "Vitalii Parfonov",
+        "java",
+        1
+    ]
+]

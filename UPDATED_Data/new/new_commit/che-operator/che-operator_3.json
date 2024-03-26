@@ -1,0 +1,802 @@
+[
+    [
+        "Eugene Ivantsov",
+        "alpine",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "lock",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "toml",
+        3
+    ],
+    [
+        "Eugene Ivantsov",
+        "go",
+        7138
+    ],
+    [
+        "Eugene Ivantsov",
+        "sh",
+        16
+    ],
+    [
+        "Eugene Ivantsov",
+        "yaml",
+        29
+    ],
+    [
+        "Eugene Ivantsov",
+        "unknown",
+        6
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/go/AUTHORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/go/CONTRIBUTORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/go/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/PuerkitoBio/purell/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/PuerkitoBio/urlesc/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/beorn7/perks/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/davecgh/go-spew/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/docker/spdystream/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "docs",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/emicklei/go-restful/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/ghodss/yaml/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/go-openapi/jsonpointer/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/go-openapi/jsonreference/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/go-openapi/spec/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/go-openapi/swag/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/gogo/protobuf/AUTHORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/gogo/protobuf/CONTRIBUTORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/gogo/protobuf/GOLANG_CONTRIBUTORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/gogo/protobuf/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/golang/glog/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/golang/protobuf/AUTHORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/golang/protobuf/CONTRIBUTORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/golang/protobuf/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/google/gofuzz/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/googleapis/gnostic/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/hashicorp/golang-lru/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "txt",
+        7
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/imdario/mergo/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "yml",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/json-iterator/go/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/mailru/easyjson/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/matttproud/golang_protobuf_extensions/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/matttproud/golang_protobuf_extensions/NOTICE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/modern-go/concurrent/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/modern-go/reflect2/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/openshift/api/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/operator-framework/operator-sdk/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "md",
+        14
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/prometheus/client_golang/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/prometheus/client_golang/NOTICE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/prometheus/client_model/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/prometheus/client_model/NOTICE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/prometheus/client_model/ruby/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/prometheus/common/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/prometheus/common/NOTICE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/prometheus/procfs/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/prometheus/procfs/NOTICE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/sirupsen/logrus/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/spf13/pflag/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/crypto/AUTHORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/crypto/CONTRIBUTORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/crypto/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/crypto/PATENTS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/net/AUTHORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/net/CONTRIBUTORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/net/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/net/PATENTS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/oauth2/AUTHORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/oauth2/CONTRIBUTORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/oauth2/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/sys/AUTHORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/sys/CONTRIBUTORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/sys/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/sys/PATENTS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "s",
+        101
+    ],
+    [
+        "Eugene Ivantsov",
+        "c",
+        9
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/text/AUTHORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/text/CONTRIBUTORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/text/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/text/PATENTS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/time/AUTHORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/time/CONTRIBUTORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/time/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/time/PATENTS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/tools/AUTHORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/tools/CONTRIBUTORS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/tools/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/tools/PATENTS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/tools/cmd/getgo/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/tools/third_party/moduleloader/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/tools/third_party/typescript/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/x/tools/third_party/webcomponents/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "org/appengine/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "v0/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "v2/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "libyaml",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "v2/NOTICE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/api/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/apimachinery/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/client-go/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "json",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/Godeps/OWNERS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/Godeps/Readme",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/OWNERS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/client-gen/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/client-gen/OWNERS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/client-gen/args/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/client-gen/generators/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/client-gen/generators/fake/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/client-gen/generators/scheme/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/client-gen/generators/util/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/client-gen/path/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/client-gen/types/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/conversion-gen/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/conversion-gen/args/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/conversion-gen/generators/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/deepcopy-gen/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/deepcopy-gen/args/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/defaulter-gen/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/defaulter-gen/args/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "gitignore",
+        8
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/go-to-protobuf/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/go-to-protobuf/OWNERS",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/go-to-protobuf/protobuf/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/go-to-protobuf/protoc-gen-gogo/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/import-boss/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/informer-gen/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/informer-gen/args/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/informer-gen/generators/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "import-restrictions",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/lister-gen/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/lister-gen/args/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/lister-gen/generators/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/openapi-gen/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/openapi-gen/README",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/openapi-gen/args/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/cmd/set-gen/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/hack/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/pkg/util/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/third_party/forked/golang/reflect/BUILD",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/gengo/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/kube-openapi/LICENSE",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "h",
+        3
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/alecthomas/template/LICENSE",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/alecthomas/units/COPYING",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/go-logr/logr/LICENSE",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/go-logr/zapr/LICENSE",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/golang/groupcache/LICENSE",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/google/btree/LICENSE",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/google/uuid/CONTRIBUTORS",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/google/uuid/LICENSE",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/mattbaird/jsonpatch/LICENSE",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/pborman/uuid/CONTRIBUTORS",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/pborman/uuid/LICENSE",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/petar/GoLLRB/AUTHORS",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/petar/GoLLRB/LICENSE",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "com/peterbourgon/diskv/LICENSE",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "cc",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "v2/COPYING",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/code-generator/SECURITY_CONTACTS",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/klog/LICENSE",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "io/controller-runtime/LICENSE",
+        1
+    ]
+]

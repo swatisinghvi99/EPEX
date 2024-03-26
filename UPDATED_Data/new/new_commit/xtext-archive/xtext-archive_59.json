@@ -1,0 +1,592 @@
+[
+    [
+        "Sven Efftinge",
+        "xtend",
+        74
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        238
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        9
+    ],
+    [
+        "Sven Efftinge",
+        "html",
+        50
+    ],
+    [
+        "Sven Efftinge",
+        "php",
+        7
+    ],
+    [
+        "Sven Efftinge",
+        "xml",
+        7
+    ],
+    [
+        "Sven Efftinge",
+        "xdoc",
+        8
+    ],
+    [
+        "Sven Efftinge",
+        "css",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "classpath",
+        7
+    ],
+    [
+        "Sven Efftinge",
+        "project",
+        7
+    ],
+    [
+        "Sven Efftinge",
+        "prefs",
+        12
+    ],
+    [
+        "Sven Efftinge",
+        "gitignore",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "properties",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "launch",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "xml_gen",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "g",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "tokens",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "ecore",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "genmodel",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "xmi",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "mwe2",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "xtext",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        460
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        116
+    ],
+    [
+        "Sebastian Zarnekow",
+        "classpath",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "properties",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "launch",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml_gen",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "g",
+        13
+    ],
+    [
+        "Sebastian Zarnekow",
+        "tokens",
+        10
+    ],
+    [
+        "Sebastian Zarnekow",
+        "genmodel",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xmi",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "mwe2",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "prefs",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ecore",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "html",
+        4
+    ],
+    [
+        "Holger Schill",
+        "xtend",
+        2
+    ],
+    [
+        "Holger Schill",
+        "java",
+        19
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        90
+    ],
+    [
+        "Jan Koehnlein",
+        "js",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "html",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "xmi",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "g",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "xtext",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "xtend",
+        13
+    ],
+    [
+        "Jan Koehnlein",
+        "tokens",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "api_filters",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "properties",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "ecore",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "txt",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "list",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        31
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtend",
+        8
+    ],
+    [
+        "Moritz Eysholdt",
+        "classpath",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "project",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "prefs",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "MF",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "properties",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "html",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        60
+    ],
+    [
+        "Dennis Huebner",
+        "classpath",
+        4
+    ],
+    [
+        "Dennis Huebner",
+        "project",
+        4
+    ],
+    [
+        "Dennis Huebner",
+        "prefs",
+        8
+    ],
+    [
+        "Dennis Huebner",
+        "MF",
+        6
+    ],
+    [
+        "Dennis Huebner",
+        "properties",
+        5
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        16
+    ],
+    [
+        "Dennis Huebner",
+        "xtend",
+        40
+    ],
+    [
+        "Dennis Huebner",
+        "html",
+        300
+    ],
+    [
+        "Dennis Huebner",
+        "0/package-list",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "css",
+        38
+    ],
+    [
+        "Dennis Huebner",
+        "js",
+        104
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/images/quotes/CVS/Entries",
+        4
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/images/quotes/CVS/Repository",
+        4
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/images/quotes/CVS/Root",
+        4
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/iplogs/CVS/Entries",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/iplogs/CVS/Repository",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/iplogs/CVS/Root",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "md",
+        4
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/new_and_noteworthy/CVS/Entries",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/new_and_noteworthy/CVS/Repository",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/new_and_noteworthy/CVS/Root",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/new_and_noteworthy/images/CVS/Entries",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/new_and_noteworthy/images/CVS/Repository",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/new_and_noteworthy/images/CVS/Root",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/project-info/CVS/Entries",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/project-info/CVS/Repository",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/project-info/CVS/Root",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/projectplans/CVS/Entries",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/projectplans/CVS/Repository",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/projectplans/CVS/Root",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/documentation/1_0_1/CVS/Entries",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/documentation/1_0_1/CVS/Repository",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/documentation/1_0_1/CVS/Root",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/documentation/2_1_0/CVS/Entries",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/documentation/2_1_0/CVS/Repository",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/documentation/2_1_0/CVS/Root",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/ip_log/CVS/Entries",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/ip_log/CVS/Repository",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/ip_log/CVS/Root",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/projectplan/CVS/Entries",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/projectplan/CVS/Repository",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/projectplan/CVS/Root",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "0/CVS/Entries",
+        6
+    ],
+    [
+        "Dennis Huebner",
+        "0/CVS/Repository",
+        6
+    ],
+    [
+        "Dennis Huebner",
+        "0/CVS/Root",
+        6
+    ],
+    [
+        "Dennis Huebner",
+        "0/images/CVS/Entries",
+        6
+    ],
+    [
+        "Dennis Huebner",
+        "0/images/CVS/Repository",
+        6
+    ],
+    [
+        "Dennis Huebner",
+        "0/images/CVS/Root",
+        6
+    ],
+    [
+        "Dennis Huebner",
+        "php",
+        6
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/releasenotes/CVS/Entries",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/releasenotes/CVS/Repository",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "generator/website/releasenotes/CVS/Root",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "api_filters",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "gitignore",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "b3aggr",
+        1
+    ]
+]

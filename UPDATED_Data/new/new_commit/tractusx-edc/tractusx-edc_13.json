@@ -1,0 +1,202 @@
+[
+    [
+        "Paul Latzelsperger",
+        "kts",
+        21
+    ],
+    [
+        "Paul Latzelsperger",
+        "yaml",
+        33
+    ],
+    [
+        "Paul Latzelsperger",
+        "yml",
+        5
+    ],
+    [
+        "Paul Latzelsperger",
+        "md",
+        11
+    ],
+    [
+        "Paul Latzelsperger",
+        "java",
+        21
+    ],
+    [
+        "Paul Latzelsperger",
+        "ServiceExtension",
+        2
+    ],
+    [
+        "Paul Latzelsperger",
+        "feature",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "github/workflows/deploy-test-secrets",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "helmignore",
+        3
+    ],
+    [
+        "Paul Latzelsperger",
+        "gotmpl",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "txt",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "tpl",
+        2
+    ],
+    [
+        "Paul Latzelsperger",
+        "unknown",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "gitignore",
+        1
+    ],
+    [
+        "Tuncay Tunc",
+        "kts",
+        2
+    ],
+    [
+        "Tuncay Tunc",
+        "java",
+        1
+    ],
+    [
+        "Tuncay Tunc",
+        "yaml",
+        1
+    ],
+    [
+        "Enrico Risa",
+        "java",
+        50
+    ],
+    [
+        "Enrico Risa",
+        "yaml",
+        5
+    ],
+    [
+        "Enrico Risa",
+        "kts",
+        2
+    ],
+    [
+        "Tuncay Tunc (ZF Friedrichshafen AG)",
+        "yaml",
+        6
+    ],
+    [
+        "Tuncay Tunc (ZF Friedrichshafen AG)",
+        "tpl",
+        1
+    ],
+    [
+        "Tuncay Tunc (ZF Friedrichshafen AG)",
+        "kts",
+        6
+    ],
+    [
+        "dependabot[bot]",
+        "kts",
+        23
+    ],
+    [
+        "github-actions[bot]",
+        "md",
+        25
+    ],
+    [
+        "github-actions[bot]",
+        "yml",
+        7
+    ],
+    [
+        "github-actions[bot]",
+        "yaml",
+        50
+    ],
+    [
+        "github-actions[bot]",
+        "github/workflows/deploy-test-secrets",
+        1
+    ],
+    [
+        "github-actions[bot]",
+        "kts",
+        16
+    ],
+    [
+        "github-actions[bot]",
+        "unknown",
+        8
+    ],
+    [
+        "github-actions[bot]",
+        "txt",
+        3
+    ],
+    [
+        "github-actions[bot]",
+        "tpl",
+        4
+    ],
+    [
+        "github-actions[bot]",
+        "gotmpl",
+        2
+    ],
+    [
+        "github-actions[bot]",
+        "helmignore",
+        3
+    ],
+    [
+        "github-actions[bot]",
+        "java",
+        63
+    ],
+    [
+        "github-actions[bot]",
+        "ServiceExtension",
+        2
+    ],
+    [
+        "github-actions[bot]",
+        "feature",
+        1
+    ],
+    [
+        "github-actions[bot]",
+        "gitignore",
+        1
+    ],
+    [
+        "github-actions[bot]",
+        "properties",
+        1
+    ],
+    [
+        "ndr_brt",
+        "kts",
+        3
+    ]
+]

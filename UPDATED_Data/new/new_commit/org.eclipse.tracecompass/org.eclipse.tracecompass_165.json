@@ -1,0 +1,87 @@
+[
+    [
+        "Patrick Tasse",
+        "java",
+        1
+    ],
+    [
+        "Matthew Khouzam",
+        "java",
+        2
+    ],
+    [
+        "Bernd Hufmann",
+        "yml",
+        4
+    ],
+    [
+        "Bernd Hufmann",
+        "java",
+        9
+    ],
+    [
+        "Arnaud Fiorini",
+        "java",
+        133
+    ],
+    [
+        "Arnaud Fiorini",
+        "classpath",
+        4
+    ],
+    [
+        "Arnaud Fiorini",
+        "gitignore",
+        4
+    ],
+    [
+        "Arnaud Fiorini",
+        "project",
+        4
+    ],
+    [
+        "Arnaud Fiorini",
+        "prefs",
+        27
+    ],
+    [
+        "Arnaud Fiorini",
+        "MF",
+        14
+    ],
+    [
+        "Arnaud Fiorini",
+        "html",
+        4
+    ],
+    [
+        "Arnaud Fiorini",
+        "properties",
+        11
+    ],
+    [
+        "Arnaud Fiorini",
+        "xml",
+        10
+    ],
+    [
+        "Arnaud Fiorini",
+        "tests/testfiles/dp/expectedFgTreeFull",
+        1
+    ],
+    [
+        "Arnaud Fiorini",
+        "tests/testfiles/dp/expectedFgTreeOne",
+        1
+    ],
+    [
+        "Arnaud Fiorini",
+        "tests/testfiles/dp/expectedFgTreeProcess",
+        1
+    ],
+    [
+        "Arnaud Fiorini",
+        "tests/testfiles/dp/expectedFgTreeSelection",
+        1
+    ]
+]

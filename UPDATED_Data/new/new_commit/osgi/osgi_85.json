@@ -1,0 +1,122 @@
+[
+    [
+        "Shigekuni Kondo",
+        "java",
+        4
+    ],
+    [
+        "David Savage",
+        "java",
+        24
+    ],
+    [
+        "Thomas Watson",
+        "classpath",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "project",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "prefs",
+        8
+    ],
+    [
+        "Thomas Watson",
+        "bnd",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "xml",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "java",
+        14
+    ],
+    [
+        "Thomas Watson",
+        "resolver/src/org/osgi/service/resolver/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        130
+    ],
+    [
+        "Peter Kriens",
+        "xsl",
+        4
+    ],
+    [
+        "Peter Kriens",
+        "classpath",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "project",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "prefs",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "bnd",
+        5
+    ],
+    [
+        "Peter Kriens",
+        "xml",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "dmtree/src/info/dmtree/registry/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "tr069todmt/src/org/osgi/service/tr069todmt/packageinfo",
+        1
+    ],
+    [
+        "John Ross",
+        "java",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        30
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "dmtree/src/info/dmtree/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "dmtree/src/info/dmtree/spi/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "framework/src/org/osgi/framework/packageinfo",
+        1
+    ]
+]

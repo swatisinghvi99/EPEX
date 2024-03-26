@@ -1,0 +1,387 @@
+[
+    [
+        "Filip Jeremic",
+        "cpp",
+        26
+    ],
+    [
+        "Filip Jeremic",
+        "hpp",
+        30
+    ],
+    [
+        "Babneet Singh",
+        "hpp",
+        2
+    ],
+    [
+        "Babneet Singh",
+        "cpp",
+        2
+    ],
+    [
+        "Babneet Singh",
+        "c",
+        2
+    ],
+    [
+        "Harry Yu",
+        "cpp",
+        4
+    ],
+    [
+        "Harry Yu",
+        "hpp",
+        3
+    ],
+    [
+        "Graham Chapman",
+        "c",
+        6
+    ],
+    [
+        "Graham Chapman",
+        "h",
+        1
+    ],
+    [
+        "Graham Chapman",
+        "hpp",
+        1
+    ],
+    [
+        "Dmitri Pivkine",
+        "h",
+        3
+    ],
+    [
+        "Dmitri Pivkine",
+        "hpp",
+        15
+    ],
+    [
+        "Dmitri Pivkine",
+        "cpp",
+        11
+    ],
+    [
+        "Yi Zhang",
+        "cpp",
+        4
+    ],
+    [
+        "Yi Zhang",
+        "hpp",
+        13
+    ],
+    [
+        "liqunl",
+        "cpp",
+        1
+    ],
+    [
+        "Yan Luo",
+        "cpp",
+        3
+    ],
+    [
+        "Yan Luo",
+        "hpp",
+        3
+    ],
+    [
+        "Yan Luo",
+        "inc",
+        1
+    ],
+    [
+        "bharathappali",
+        "h",
+        3
+    ],
+    [
+        "bharathappali",
+        "c",
+        4
+    ],
+    [
+        "Victor Ding",
+        "cpp",
+        14
+    ],
+    [
+        "Victor Ding",
+        "hpp",
+        15
+    ],
+    [
+        "Victor Ding",
+        "inc",
+        1
+    ],
+    [
+        "Leonardo Banderali",
+        "cpp",
+        3
+    ],
+    [
+        "Leonardo Banderali",
+        "hpp",
+        5
+    ],
+    [
+        "Leonardo Banderali",
+        "txt",
+        1
+    ],
+    [
+        "Leonardo Banderali",
+        "unknown",
+        1
+    ],
+    [
+        "Leonardo Banderali",
+        "py",
+        4
+    ],
+    [
+        "Leonardo Banderali",
+        "json",
+        15
+    ],
+    [
+        "Keith W. Campbell",
+        "cpp",
+        11
+    ],
+    [
+        "Keith W. Campbell",
+        "hpp",
+        6
+    ],
+    [
+        "Keith W. Campbell",
+        "c",
+        2
+    ],
+    [
+        "Dhruv Chopra",
+        "cpp",
+        2
+    ],
+    [
+        "Rahil Shah",
+        "cpp",
+        1
+    ],
+    [
+        "Rahil Shah",
+        "inc",
+        1
+    ],
+    [
+        "Ben Thomas",
+        "cpp",
+        1
+    ],
+    [
+        "Ben Thomas",
+        "inc",
+        1
+    ],
+    [
+        "Charlie Gracie",
+        "cpp",
+        3
+    ],
+    [
+        "Charlie Gracie",
+        "hpp",
+        2
+    ],
+    [
+        "Charlie Gracie",
+        "txt",
+        1
+    ],
+    [
+        "Charlie Gracie",
+        "unknown",
+        1
+    ],
+    [
+        "Evgenia Badyanova",
+        "cpp",
+        11
+    ],
+    [
+        "Evgenia Badyanova",
+        "hpp",
+        11
+    ],
+    [
+        "Evgenia Badyanova",
+        "txt",
+        1
+    ],
+    [
+        "Evgenia Badyanova",
+        "h",
+        2
+    ],
+    [
+        "Nigel Yu",
+        "hpp",
+        3
+    ],
+    [
+        "Nigel Yu",
+        "cpp",
+        3
+    ],
+    [
+        "mikezhang",
+        "hpp",
+        2
+    ],
+    [
+        "mikezhang",
+        "cpp",
+        3
+    ],
+    [
+        "mikezhang",
+        "unknown",
+        1
+    ],
+    [
+        "mikezhang",
+        "mk",
+        1
+    ],
+    [
+        "knn-k",
+        "cpp",
+        22
+    ],
+    [
+        "knn-k",
+        "hpp",
+        24
+    ],
+    [
+        "knn-k",
+        "mk",
+        1
+    ],
+    [
+        "Daniel Hong",
+        "cpp",
+        24
+    ],
+    [
+        "Daniel Hong",
+        "hpp",
+        7
+    ],
+    [
+        "Daniel Hong",
+        "enum",
+        1
+    ],
+    [
+        "Daniel Hong",
+        "txt",
+        1
+    ],
+    [
+        "Devin Papineau",
+        "cpp",
+        1
+    ],
+    [
+        "Devin Papineau",
+        "hpp",
+        1
+    ],
+    [
+        "Daryl Maier",
+        "cpp",
+        4
+    ],
+    [
+        "Daryl Maier",
+        "hpp",
+        3
+    ],
+    [
+        "Liqun Liu",
+        "cpp",
+        2
+    ],
+    [
+        "Liqun Liu",
+        "hpp",
+        2
+    ],
+    [
+        "Andrew Young",
+        "cpp",
+        1
+    ],
+    [
+        "Andrew Young",
+        "hpp",
+        1
+    ],
+    [
+        "Ashutosh Mehra",
+        "c",
+        1
+    ],
+    [
+        "Lin Hu",
+        "hpp",
+        4
+    ],
+    [
+        "Lin Hu",
+        "cpp",
+        1
+    ],
+    [
+        "Boris Shingarov",
+        "cpp",
+        1
+    ],
+    [
+        "Aleksandar Micic",
+        "cpp",
+        4
+    ],
+    [
+        "Aleksandar Micic",
+        "hpp",
+        1
+    ],
+    [
+        "Aleksandar Micic",
+        "tdf",
+        1
+    ],
+    [
+        "Henry Zongaro",
+        "hpp",
+        1
+    ],
+    [
+        "Henry Zongaro",
+        "cpp",
+        1
+    ],
+    [
+        "Irwin D'Souza",
+        "cpp",
+        2
+    ]
+]

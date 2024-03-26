@@ -1,0 +1,392 @@
+[
+    [
+        "Jan Koehnlein",
+        "java",
+        1006
+    ],
+    [
+        "Jan Koehnlein",
+        "tokens",
+        22
+    ],
+    [
+        "Jan Koehnlein",
+        "g",
+        126
+    ],
+    [
+        "Jan Koehnlein",
+        "MF",
+        14
+    ],
+    [
+        "Jan Koehnlein",
+        "xmi",
+        55
+    ],
+    [
+        "Jan Koehnlein",
+        "xtext",
+        17
+    ],
+    [
+        "Jan Koehnlein",
+        "launch",
+        6
+    ],
+    [
+        "Jan Koehnlein",
+        "xpt",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "ext",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "genmodel",
+        4
+    ],
+    [
+        "Jan Koehnlein",
+        "ecore",
+        15
+    ],
+    [
+        "Jan Koehnlein",
+        "xml",
+        7
+    ],
+    [
+        "Jan Koehnlein",
+        "properties",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "classpath",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "xtend",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "xml_gen",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "mwe2",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "exsd",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        616
+    ],
+    [
+        "Sebastian Zarnekow",
+        "g",
+        45
+    ],
+    [
+        "Sebastian Zarnekow",
+        "tokens",
+        17
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xmi",
+        17
+    ],
+    [
+        "Sebastian Zarnekow",
+        "launch",
+        14
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ecore",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "genmodel",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xpt",
+        6
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ext",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "mwe2",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        12
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        41
+    ],
+    [
+        "Sebastian Zarnekow",
+        "txt",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "list",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "classpath",
+        7
+    ],
+    [
+        "Sebastian Zarnekow",
+        "gitignore",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "project",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "prefs",
+        25
+    ],
+    [
+        "Sebastian Zarnekow",
+        "properties",
+        7
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        787
+    ],
+    [
+        "Sven Efftinge",
+        "g",
+        20
+    ],
+    [
+        "Sven Efftinge",
+        "tokens",
+        15
+    ],
+    [
+        "Sven Efftinge",
+        "xmi",
+        7
+    ],
+    [
+        "Sven Efftinge",
+        "xtext",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "ecore",
+        78
+    ],
+    [
+        "Sven Efftinge",
+        "classpath",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "gitignore",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "project",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "prefs",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        14
+    ],
+    [
+        "Sven Efftinge",
+        "properties",
+        6
+    ],
+    [
+        "Sven Efftinge",
+        "genmodel",
+        82
+    ],
+    [
+        "Sven Efftinge",
+        "mwe2",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "html",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "xdoc",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "xml",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "ext",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "txt",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "list",
+        1
+    ],
+    [
+        "Michael Clay",
+        "java",
+        5
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        258
+    ],
+    [
+        "Moritz Eysholdt",
+        "mwe2",
+        4
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtext",
+        5
+    ],
+    [
+        "Moritz Eysholdt",
+        "MF_gen",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "xml_gen",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "ecore",
+        5
+    ],
+    [
+        "Moritz Eysholdt",
+        "genmodel",
+        5
+    ],
+    [
+        "Moritz Eysholdt",
+        "xmi",
+        5
+    ],
+    [
+        "Moritz Eysholdt",
+        "g",
+        5
+    ],
+    [
+        "Moritz Eysholdt",
+        "tokens",
+        5
+    ],
+    [
+        "Moritz Eysholdt",
+        "dot",
+        2
+    ],
+    [
+        "Knut Wannheden",
+        "java",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "MF",
+        9
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "properties",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "rmap",
+        1
+    ],
+    [
+        "Holger Schill",
+        "java",
+        25
+    ]
+]

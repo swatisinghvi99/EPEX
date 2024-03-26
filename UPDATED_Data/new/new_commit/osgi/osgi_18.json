@@ -1,0 +1,207 @@
+[
+    [
+        "Peter Nagy",
+        "java",
+        15
+    ],
+    [
+        "Peter Kriens",
+        "properties",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "mf",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        58
+    ],
+    [
+        "Peter Kriens",
+        "tools/src/org/osgi/tools/cmadmin/Makefile",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "classpath",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "cvsignore",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "prefs",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "xml",
+        4
+    ],
+    [
+        "Peter Kriens",
+        "html",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "css",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "obr/src/org/osgi/service/obr/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "xsl",
+        5
+    ],
+    [
+        "Peter Kriens",
+        "js",
+        1
+    ],
+    [
+        "gdepaula",
+        "java",
+        210
+    ],
+    [
+        "gdepaula",
+        "prefs",
+        1
+    ],
+    [
+        "gdepaula",
+        "properties",
+        4
+    ],
+    [
+        "gdepaula",
+        "xml",
+        1
+    ],
+    [
+        "gdepaula",
+        "mf",
+        11
+    ],
+    [
+        "gdepaula",
+        "bat",
+        2
+    ],
+    [
+        "gdepaula",
+        "SF",
+        1
+    ],
+    [
+        "Ivan Zahoranszky",
+        "java",
+        58
+    ],
+    [
+        "Olivier Pave",
+        "java",
+        2
+    ],
+    [
+        "Tamas Szeredi",
+        "java",
+        15
+    ],
+    [
+        "BJ Hargrave",
+        "prefs",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        199
+    ],
+    [
+        "BJ Hargrave",
+        "classpath",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "options",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "profile",
+        4
+    ],
+    [
+        "BJ Hargrave",
+        "MF",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "properties",
+        6
+    ],
+    [
+        "BJ Hargrave",
+        "xml",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "permissions",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "aliases",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "html",
+        1
+    ],
+    [
+        "Tom Watson",
+        "java",
+        1
+    ],
+    [
+        "Pavlin Dobrev",
+        "java",
+        1
+    ],
+    [
+        "ckarai",
+        "java",
+        17
+    ],
+    [
+        "Per Gustafson",
+        "mf",
+        1
+    ],
+    [
+        "Per Gustafson",
+        "java",
+        10
+    ],
+    [
+        "Per Gustafson",
+        "manager/src/org/osgi/impl/service/device/manager/packageinfo",
+        1
+    ]
+]

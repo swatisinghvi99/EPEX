@@ -1,0 +1,362 @@
+[
+    [
+        "Michael Clay",
+        "java",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        907
+    ],
+    [
+        "Sven Efftinge",
+        "ecore",
+        15
+    ],
+    [
+        "Sven Efftinge",
+        "xtext",
+        16
+    ],
+    [
+        "Sven Efftinge",
+        "mwe2",
+        13
+    ],
+    [
+        "Sven Efftinge",
+        "g",
+        70
+    ],
+    [
+        "Sven Efftinge",
+        "launch",
+        23
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        28
+    ],
+    [
+        "Sven Efftinge",
+        "properties",
+        20
+    ],
+    [
+        "Sven Efftinge",
+        "xdoc",
+        7
+    ],
+    [
+        "Sven Efftinge",
+        "xml",
+        18
+    ],
+    [
+        "Sven Efftinge",
+        "xml_gen",
+        8
+    ],
+    [
+        "Sven Efftinge",
+        "tokens",
+        30
+    ],
+    [
+        "Sven Efftinge",
+        "genmodel",
+        9
+    ],
+    [
+        "Sven Efftinge",
+        "xmi",
+        22
+    ],
+    [
+        "Sven Efftinge",
+        "txt",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "classpath",
+        12
+    ],
+    [
+        "Sven Efftinge",
+        "gitignore",
+        10
+    ],
+    [
+        "Sven Efftinge",
+        "project",
+        12
+    ],
+    [
+        "Sven Efftinge",
+        "prefs",
+        32
+    ],
+    [
+        "Sven Efftinge",
+        "log",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "tex",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "ext",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "xpt",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "html",
+        28
+    ],
+    [
+        "Sven Efftinge",
+        "chk",
+        6
+    ],
+    [
+        "Sven Efftinge",
+        "generated",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "psf",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "cvsignore",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "log4j/META-INF/LICENSE",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "log4j/META-INF/NOTICE",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "aux",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "out",
+        1
+    ],
+    [
+        "knut",
+        "java",
+        1
+    ],
+    [
+        "Knut Wannheden",
+        "java",
+        24
+    ],
+    [
+        "Jan Koehnlein",
+        "xml_gen",
+        9
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        378
+    ],
+    [
+        "Jan Koehnlein",
+        "xmi",
+        4
+    ],
+    [
+        "Jan Koehnlein",
+        "mwe2",
+        9
+    ],
+    [
+        "Jan Koehnlein",
+        "ext",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "xpt",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "MF",
+        6
+    ],
+    [
+        "Jan Koehnlein",
+        "TXT",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "xml",
+        4
+    ],
+    [
+        "Jan Koehnlein",
+        "launch",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "properties",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "textile",
+        13
+    ],
+    [
+        "Jan Koehnlein",
+        "ecore",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "genmodel",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "g",
+        4
+    ],
+    [
+        "Jan Koehnlein",
+        "tokens",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "xtext",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "project",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "xdoc",
+        43
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        451
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xpt",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "launch",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        14
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml_gen",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ecore",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "genmodel",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xmi",
+        11
+    ],
+    [
+        "Sebastian Zarnekow",
+        "g",
+        22
+    ],
+    [
+        "Sebastian Zarnekow",
+        "tokens",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "mwe2",
+        12
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        8
+    ],
+    [
+        "Sebastian Zarnekow",
+        "properties",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF_gen",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "project",
+        6
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtexterror",
+        4
+    ],
+    [
+        "DanielWeber",
+        "java",
+        1
+    ]
+]

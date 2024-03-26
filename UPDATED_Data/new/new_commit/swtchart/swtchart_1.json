@@ -1,0 +1,352 @@
+[
+    [
+        "Dr. Philip Wenig",
+        "project",
+        10
+    ],
+    [
+        "Dr. Philip Wenig",
+        "txt",
+        4
+    ],
+    [
+        "Dr. Philip Wenig",
+        "xml",
+        12
+    ],
+    [
+        "Dr. Philip Wenig",
+        "classpath",
+        6
+    ],
+    [
+        "Dr. Philip Wenig",
+        "gitignore",
+        10
+    ],
+    [
+        "Dr. Philip Wenig",
+        "prefs",
+        6
+    ],
+    [
+        "Dr. Philip Wenig",
+        "MF",
+        6
+    ],
+    [
+        "Dr. Philip Wenig",
+        "properties",
+        8
+    ],
+    [
+        "Dr. Philip Wenig",
+        "java",
+        315
+    ],
+    [
+        "Dr. Philip Wenig",
+        "launch",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "e4xmi",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/BarSeries1",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/BarSeries2",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/BarSeries3-Negative",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/BarSeries3-Positive",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries1",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries1_ActivePeaks",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries1_Baseline",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries1_IdentifiedScans",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries1_IdentifiedScansSelected",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries1_InactivePeaks",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries1_SelectedPeak_1",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries1_SelectedPeak_1_Background",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries1_SelectedPeak_2",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries1_SelectedPeak_2_Background",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries1_SelectedScans",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries2",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries3",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries4_1",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries4_2",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries4_3",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries4_4",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries4_5",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries5_Negative",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries5_Positive",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries6",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/LineSeries7",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/Measurement1_Readings",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/Measurement1_Regression",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/Measurement2_Readings_1",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/Measurement2_Readings_2",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/Measurement2_Readings_3",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/Measurement2_Regression_1",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/Measurement2_Regression_2",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/Measurement2_Regression_3",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/Measurement3_Readings",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/Measurement3_Regression",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/ScatterSeries1",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/ScatterSeries2_1",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/ScatterSeries2_2",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/ScatterSeries2_3",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/ScatterSeries2_4",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/ScatterSeries2_5",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/ScatterSeries2_6",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/ScatterSeries2_7",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/ScatterSeries2_8",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "examples/src/org/eclipse/swtchart/extensions/examples/support/ScatterSeries2_9",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "test/testData/files/import/BarSeries1",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "test/testData/files/import/LineSeries1",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "test/testData/files/import/ScatterSeries1",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "exsd",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "ctx",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "suite",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "test",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "html",
+        1
+    ],
+    [
+        "Dr. Philip Wenig",
+        "xsl",
+        1
+    ],
+    [
+        "jiventeva",
+        "java",
+        1
+    ],
+    [
+        "laeubi",
+        "java",
+        4
+    ],
+    [
+        "Yoshitaka Yanagida",
+        "java",
+        16
+    ],
+    [
+        "Yoshitaka Yanagida",
+        "MF",
+        1
+    ]
+]

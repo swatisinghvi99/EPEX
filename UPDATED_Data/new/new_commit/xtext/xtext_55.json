@@ -1,0 +1,167 @@
+[
+    [
+        "Sebastian Zarnekow",
+        "java",
+        144
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        24
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        91
+    ],
+    [
+        "Jan Koehnlein",
+        "xtend",
+        40
+    ],
+    [
+        "Jan Koehnlein",
+        "MF",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "properties",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "xml",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "xpt",
+        13
+    ],
+    [
+        "Jan Koehnlein",
+        "ext",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        137
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "api_filters",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        3
+    ],
+    [
+        "Knut Wannheden",
+        "java",
+        6
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        110
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtend",
+        55
+    ],
+    [
+        "Moritz Eysholdt",
+        "MF",
+        3
+    ],
+    [
+        "Moritz Eysholdt",
+        "launch",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "properties",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "xml",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        72
+    ],
+    [
+        "Dennis Huebner",
+        "xtend",
+        4
+    ],
+    [
+        "Dennis Huebner",
+        "MF",
+        4
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "prefs",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "properties",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "classpath",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "launch",
+        6
+    ],
+    [
+        "Holger Schill",
+        "java",
+        7
+    ],
+    [
+        "Holger Schill",
+        "MF",
+        1
+    ],
+    [
+        "Holger Schill",
+        "xtend",
+        2
+    ]
+]

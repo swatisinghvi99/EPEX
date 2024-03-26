@@ -1,0 +1,162 @@
+[
+    [
+        "Tom George",
+        "go",
+        166
+    ],
+    [
+        "Tom George",
+        "yaml",
+        6
+    ],
+    [
+        "Tom George",
+        "mod",
+        2
+    ],
+    [
+        "Tom George",
+        "sum",
+        2
+    ],
+    [
+        "Tom George",
+        "yml",
+        4
+    ],
+    [
+        "Tom George",
+        "com/blang/semver/LICENSE",
+        1
+    ],
+    [
+        "Tom George",
+        "md",
+        3
+    ],
+    [
+        "Tom George",
+        "json",
+        1
+    ],
+    [
+        "Tom George",
+        "com/operator-framework/api/LICENSE",
+        1
+    ],
+    [
+        "Tom George",
+        "com/operator-framework/operator-lifecycle-manager/LICENSE",
+        1
+    ],
+    [
+        "Tom George",
+        "com/pkg/errors/Makefile",
+        1
+    ],
+    [
+        "Tom George",
+        "s",
+        5
+    ],
+    [
+        "Tom George",
+        "sh",
+        1
+    ],
+    [
+        "Tom George",
+        "txt",
+        1
+    ],
+    [
+        "Tom George",
+        "io/yaml/OWNERS",
+        1
+    ],
+    [
+        "Mykola Morhun",
+        "go",
+        2
+    ],
+    [
+        "Mykola Morhun",
+        "sh",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "json",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "unknown",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "md",
+        3
+    ],
+    [
+        "Oleksandr Andriienko",
+        "yaml",
+        9
+    ],
+    [
+        "Oleksandr Andriienko",
+        "go",
+        24
+    ],
+    [
+        "Oleksandr Andriienko",
+        "sh",
+        3
+    ],
+    [
+        "Oleksandr Andriienko",
+        "mod",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "sum",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/golang/mock/AUTHORS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/golang/mock/CONTRIBUTORS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/golang/mock/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "txt",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "go",
+        11
+    ],
+    [
+        "Anatolii Bazko",
+        "yaml",
+        10
+    ],
+    [
+        "Anatolii Bazko",
+        "sh",
+        3
+    ]
+]

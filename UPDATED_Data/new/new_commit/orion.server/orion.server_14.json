@@ -1,0 +1,102 @@
+[
+    [
+        "Tomasz Zarna",
+        "java",
+        44
+    ],
+    [
+        "Tomasz Zarna",
+        "patch",
+        18
+    ],
+    [
+        "Tomasz Zarna",
+        "tests/testData/patchTest/A1_PostImage",
+        2
+    ],
+    [
+        "Tomasz Zarna",
+        "tests/testData/patchTest/A2_PostImage",
+        2
+    ],
+    [
+        "Tomasz Zarna",
+        "tests/testData/patchTest/D_PreImage",
+        2
+    ],
+    [
+        "Tomasz Zarna",
+        "tests/testData/patchTest/E_PostImage",
+        2
+    ],
+    [
+        "Tomasz Zarna",
+        "tests/testData/patchTest/F1_PreImage",
+        2
+    ],
+    [
+        "Tomasz Zarna",
+        "tests/testData/patchTest/F2_PreImage",
+        2
+    ],
+    [
+        "Tomasz Zarna",
+        "tests/testData/patchTest/X_PostImage",
+        2
+    ],
+    [
+        "Tomasz Zarna",
+        "tests/testData/patchTest/X_PreImage",
+        2
+    ],
+    [
+        "Tomasz Zarna",
+        "tests/testData/patchTest/Y_PostImage",
+        2
+    ],
+    [
+        "Tomasz Zarna",
+        "tests/testData/patchTest/Y_PreImage",
+        2
+    ],
+    [
+        "Tomasz Zarna",
+        "tests/testData/patchTest/Z_PostImage",
+        2
+    ],
+    [
+        "Tomasz Zarna",
+        "tests/testData/patchTest/Z_PreImage",
+        2
+    ],
+    [
+        "Tomasz Zarna",
+        "MF",
+        2
+    ],
+    [
+        "Malgorzata Janczarska",
+        "java",
+        3
+    ],
+    [
+        "skaegi",
+        "java",
+        2
+    ],
+    [
+        "skaegi",
+        "xml",
+        1
+    ],
+    [
+        "John Arthorne",
+        "properties",
+        2
+    ],
+    [
+        "John Arthorne",
+        "java",
+        10
+    ]
+]

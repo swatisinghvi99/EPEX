@@ -1,0 +1,87 @@
+[
+    [
+        "purplefox",
+        "java",
+        33
+    ],
+    [
+        "purplefox",
+        "adoc",
+        1
+    ],
+    [
+        "Paulo Lopes",
+        "java",
+        7
+    ],
+    [
+        "Julien Viet",
+        "java",
+        28
+    ],
+    [
+        "Julien Viet",
+        "templ",
+        1
+    ],
+    [
+        "Julien Viet",
+        "adoc",
+        1
+    ],
+    [
+        "Bartek Zdanowski",
+        "java",
+        1
+    ],
+    [
+        "Testo Nakada",
+        "java",
+        10
+    ],
+    [
+        "Clement Escoffier",
+        "xml",
+        2
+    ],
+    [
+        "Clement Escoffier",
+        "adoc",
+        14
+    ],
+    [
+        "Clement Escoffier",
+        "java",
+        245
+    ],
+    [
+        "Clement Escoffier",
+        "CommandFactory",
+        4
+    ],
+    [
+        "Clement Escoffier",
+        "md",
+        1
+    ],
+    [
+        "Clement Escoffier",
+        "MF",
+        5
+    ],
+    [
+        "Clement Escoffier",
+        "json",
+        1
+    ],
+    [
+        "Manish Kumar",
+        "java",
+        12
+    ],
+    [
+        "Tim Fox",
+        "java",
+        2
+    ]
+]

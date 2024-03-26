@@ -1,0 +1,177 @@
+[
+    [
+        "d_dikova",
+        "java",
+        22
+    ],
+    [
+        "d_dikova",
+        "properties",
+        1
+    ],
+    [
+        "Ivan Zahoranszky",
+        "java",
+        122
+    ],
+    [
+        "Ivan Zahoranszky",
+        "classpath",
+        2
+    ],
+    [
+        "Ivan Zahoranszky",
+        "properties",
+        2
+    ],
+    [
+        "Ivan Zahoranszky",
+        "mf",
+        2
+    ],
+    [
+        "Ivan Zahoranszky",
+        "xml",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        88
+    ],
+    [
+        "Peter Kriens",
+        "classpath",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "mf",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "properties",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "tools/src/org/osgi/tools/jar2xml/Makefile",
+        1
+    ],
+    [
+        "Tamas Szeredi",
+        "java",
+        57
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        81
+    ],
+    [
+        "BJ Hargrave",
+        "xsd",
+        1
+    ],
+    [
+        "Luis Tenorio",
+        "properties",
+        2
+    ],
+    [
+        "Luis Tenorio",
+        "java",
+        30
+    ],
+    [
+        "Luis Tenorio",
+        "mf",
+        13
+    ],
+    [
+        "Luis Tenorio",
+        "txt",
+        1
+    ],
+    [
+        "Janet Dmitrovich",
+        "java",
+        10
+    ],
+    [
+        "Peter Nagy",
+        "xml",
+        9
+    ],
+    [
+        "Peter Nagy",
+        "java",
+        35
+    ],
+    [
+        "Tom Watson",
+        "java",
+        55
+    ],
+    [
+        "Tom Watson",
+        "html",
+        1
+    ],
+    [
+        "Tom Watson",
+        "classpath",
+        1
+    ],
+    [
+        "jmascena",
+        "java",
+        4
+    ],
+    [
+        "gdepaula",
+        "properties",
+        1
+    ],
+    [
+        "gdepaula",
+        "java",
+        49
+    ],
+    [
+        "Pavlin Dobrev",
+        "java",
+        6
+    ],
+    [
+        "Pavlin Dobrev",
+        "mf",
+        1
+    ],
+    [
+        "Devendra Tewari",
+        "java",
+        2
+    ],
+    [
+        "i_karabashev",
+        "perm",
+        1
+    ],
+    [
+        "i_karabashev",
+        "properties",
+        1
+    ],
+    [
+        "i_karabashev",
+        "java",
+        16
+    ],
+    [
+        "i_karabashev",
+        "mf",
+        1
+    ]
+]

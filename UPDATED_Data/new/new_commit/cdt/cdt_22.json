@@ -1,0 +1,297 @@
+[
+    [
+        "Alain Magloire",
+        "ui/ChangeLog",
+        34
+    ],
+    [
+        "Alain Magloire",
+        "java",
+        321
+    ],
+    [
+        "Alain Magloire",
+        "core/ChangeLog",
+        26
+    ],
+    [
+        "Alain Magloire",
+        "properties",
+        8
+    ],
+    [
+        "Alain Magloire",
+        "xml",
+        10
+    ],
+    [
+        "Alain Magloire",
+        "exsd",
+        4
+    ],
+    [
+        "Alain Magloire",
+        "core/template/cpp_headers",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "classpath",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "core/browser/ChangeLog",
+        2
+    ],
+    [
+        "Alain Magloire",
+        "tests/ChangeLog",
+        2
+    ],
+    [
+        "Alain Magloire",
+        "launch/ChangeLog",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        12
+    ],
+    [
+        "John Camelon",
+        "core/parser/ChangeLog-parser",
+        33
+    ],
+    [
+        "John Camelon",
+        "java",
+        348
+    ],
+    [
+        "John Camelon",
+        "tests/ChangeLog",
+        22
+    ],
+    [
+        "John Camelon",
+        "ui/ChangeLog",
+        4
+    ],
+    [
+        "Bogdan Gheorghe",
+        "java",
+        57
+    ],
+    [
+        "Bogdan Gheorghe",
+        "ui/ChangeLog",
+        8
+    ],
+    [
+        "Bogdan Gheorghe",
+        "properties",
+        5
+    ],
+    [
+        "Bogdan Gheorghe",
+        "core/index/ChangeLog",
+        5
+    ],
+    [
+        "Bogdan Gheorghe",
+        "xml",
+        3
+    ],
+    [
+        "Bogdan Gheorghe",
+        "tests/ChangeLog",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "core/search/ChangeLog",
+        1
+    ],
+    [
+        "David Inglis",
+        "core/ChangeLog",
+        9
+    ],
+    [
+        "David Inglis",
+        "java",
+        218
+    ],
+    [
+        "David Inglis",
+        "xml",
+        12
+    ],
+    [
+        "David Inglis",
+        "properties",
+        18
+    ],
+    [
+        "David Inglis",
+        "classpath",
+        1
+    ],
+    [
+        "David Inglis",
+        "ui/ChangeLog",
+        10
+    ],
+    [
+        "David Inglis",
+        "launch/ChangeLog",
+        2
+    ],
+    [
+        "David Inglis",
+        "exsd",
+        3
+    ],
+    [
+        "David Inglis",
+        "tests/ChangeLog",
+        1
+    ],
+    [
+        "David Inglis",
+        "options",
+        1
+    ],
+    [
+        "Sean Evoy",
+        "java",
+        49
+    ],
+    [
+        "Sean Evoy",
+        "exsd",
+        3
+    ],
+    [
+        "Sean Evoy",
+        "xml",
+        5
+    ],
+    [
+        "Sean Evoy",
+        "properties",
+        7
+    ],
+    [
+        "Sean Evoy",
+        "classpath",
+        1
+    ],
+    [
+        "Sean Evoy",
+        "project",
+        1
+    ],
+    [
+        "Sean Evoy",
+        "tests/tests/org/eclipse/cdt/managedbuild/core/tests/test_commands",
+        1
+    ],
+    [
+        "Andrew Niefer",
+        "core/parser/ChangeLog-parser",
+        22
+    ],
+    [
+        "Andrew Niefer",
+        "java",
+        175
+    ],
+    [
+        "Andrew Niefer",
+        "tests/ChangeLog",
+        18
+    ],
+    [
+        "Andrew Niefer",
+        "properties",
+        1
+    ],
+    [
+        "Andrew Niefer",
+        "core/search/ChangeLog",
+        2
+    ],
+    [
+        "Andrew Niefer",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Niefer",
+        "ui/ChangeLog",
+        2
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "ui/ChangeLog",
+        17
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "properties",
+        19
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "xml",
+        15
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        163
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "core/ChangeLog",
+        16
+    ],
+    [
+        "Hoda Amer",
+        "ui/ChangeLog",
+        19
+    ],
+    [
+        "Hoda Amer",
+        "properties",
+        4
+    ],
+    [
+        "Hoda Amer",
+        "java",
+        66
+    ],
+    [
+        "Hoda Amer",
+        "xml",
+        2
+    ],
+    [
+        "Hoda Amer",
+        "core/ChangeLog",
+        3
+    ],
+    [
+        "Hoda Amer",
+        "tests/ChangeLog",
+        2
+    ],
+    [
+        "Hoda Amer",
+        "tests/build/org/eclipse/cdt/core/build/managed/tests/test_commands",
+        1
+    ]
+]

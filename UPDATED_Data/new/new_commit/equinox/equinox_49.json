@@ -1,0 +1,82 @@
+[
+    [
+        "Oleg Besedin",
+        "java",
+        7
+    ],
+    [
+        "Oleg Besedin",
+        "MF",
+        1
+    ],
+    [
+        "Oleg Besedin",
+        "properties",
+        3
+    ],
+    [
+        "Oleg Besedin",
+        "xml",
+        1
+    ],
+    [
+        "Oleg Besedin",
+        "exsd",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "classpath",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "properties",
+        5
+    ],
+    [
+        "Thomas Watson",
+        "MF",
+        10
+    ],
+    [
+        "Thomas Watson",
+        "java",
+        63
+    ],
+    [
+        "Thomas Watson",
+        "options",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "tests/test_files/security/bundles/README",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "tests/test_files/security/pkcs12/README",
+        1
+    ],
+    [
+        "Andrew Niefer",
+        "java",
+        3
+    ],
+    [
+        "Andrew Niefer",
+        "c",
+        4
+    ],
+    [
+        "Simon Kaegi",
+        "MF",
+        1
+    ],
+    [
+        "Simon Kaegi",
+        "java",
+        1
+    ]
+]

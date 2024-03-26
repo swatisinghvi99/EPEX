@@ -1,0 +1,352 @@
+[
+    [
+        "VelinYordanov",
+        "js",
+        1
+    ],
+    [
+        "VelinYordanov",
+        "json",
+        1
+    ],
+    [
+        "VelinYordanov",
+        "xml",
+        1
+    ],
+    [
+        "Christoph Weitkamp",
+        "java",
+        46
+    ],
+    [
+        "Christoph Weitkamp",
+        "xml",
+        7
+    ],
+    [
+        "Christoph Weitkamp",
+        "properties",
+        3
+    ],
+    [
+        "Christoph Weitkamp",
+        "md",
+        2
+    ],
+    [
+        "Christoph Weitkamp",
+        "groovy",
+        7
+    ],
+    [
+        "Christoph Weitkamp",
+        "MF",
+        3
+    ],
+    [
+        "Christoph Weitkamp",
+        "classpath",
+        1
+    ],
+    [
+        "Christoph Weitkamp",
+        "project",
+        1
+    ],
+    [
+        "Christoph Weitkamp",
+        "prefs",
+        1
+    ],
+    [
+        "Christoph Weitkamp",
+        "launch",
+        2
+    ],
+    [
+        "Simon Kaufmann",
+        "java",
+        18
+    ],
+    [
+        "Simon Kaufmann",
+        "MF",
+        1
+    ],
+    [
+        "Stefan Triller",
+        "classpath",
+        4
+    ],
+    [
+        "Stefan Triller",
+        "project",
+        1
+    ],
+    [
+        "Stefan Triller",
+        "js",
+        4
+    ],
+    [
+        "Stefan Triller",
+        "MF",
+        5
+    ],
+    [
+        "Stefan Triller",
+        "launch",
+        2
+    ],
+    [
+        "Stefan Triller",
+        "xml",
+        2
+    ],
+    [
+        "Stefan Triller",
+        "java",
+        51
+    ],
+    [
+        "Stefan Triller",
+        "properties",
+        2
+    ],
+    [
+        "Stefan Triller",
+        "test/NOTICE",
+        1
+    ],
+    [
+        "Stefan Triller",
+        "setup",
+        1
+    ],
+    [
+        "Florian Stolte",
+        "java",
+        7
+    ],
+    [
+        "Florian Stolte",
+        "xml",
+        1
+    ],
+    [
+        "Florian Stolte",
+        "md",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "java",
+        34
+    ],
+    [
+        "Henning Sudbrock",
+        "java",
+        12
+    ],
+    [
+        "Kai Kreuzer",
+        "java",
+        163
+    ],
+    [
+        "Kai Kreuzer",
+        "classpath",
+        2
+    ],
+    [
+        "Kai Kreuzer",
+        "project",
+        2
+    ],
+    [
+        "Kai Kreuzer",
+        "MF",
+        2
+    ],
+    [
+        "Kai Kreuzer",
+        "test/NOTICE",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "properties",
+        2
+    ],
+    [
+        "Kai Kreuzer",
+        "xml",
+        7
+    ],
+    [
+        "Kai Kreuzer",
+        "bluegiga/NOTICE",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "gitignore",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "md",
+        1
+    ],
+    [
+        "Alexander Kostadinov",
+        "java",
+        2
+    ],
+    [
+        "Alexander Kostadinov",
+        "MF",
+        1
+    ],
+    [
+        "Dimitar Ivanov",
+        "java",
+        6
+    ],
+    [
+        "Wouter Born",
+        "java",
+        70
+    ],
+    [
+        "Michael Reitler (former Michael Dicke)",
+        "java",
+        3
+    ],
+    [
+        "tmrobert8",
+        "java",
+        3
+    ],
+    [
+        "lolodomo",
+        "java",
+        9
+    ],
+    [
+        "lolodomo",
+        "MF",
+        1
+    ],
+    [
+        "lolodomo",
+        "js",
+        1
+    ],
+    [
+        "Tanya Georgieva",
+        "properties",
+        10
+    ],
+    [
+        "Tanya Georgieva",
+        "MF",
+        18
+    ],
+    [
+        "Tanya Georgieva",
+        "groovy",
+        2
+    ],
+    [
+        "Tanya Georgieva",
+        "java",
+        2
+    ],
+    [
+        "msteigenberger",
+        "MF",
+        4
+    ],
+    [
+        "msteigenberger",
+        "java",
+        11
+    ],
+    [
+        "msteigenberger",
+        "classpath",
+        1
+    ],
+    [
+        "msteigenberger",
+        "project",
+        1
+    ],
+    [
+        "msteigenberger",
+        "prefs",
+        2
+    ],
+    [
+        "msteigenberger",
+        "rfc2217/NOTICE",
+        1
+    ],
+    [
+        "msteigenberger",
+        "gitignore",
+        2
+    ],
+    [
+        "msteigenberger",
+        "properties",
+        2
+    ],
+    [
+        "msteigenberger",
+        "xml",
+        5
+    ],
+    [
+        "adimova",
+        "java",
+        39
+    ],
+    [
+        "Jan Hendriks",
+        "java",
+        1
+    ],
+    [
+        "Andre Fuechsel",
+        "java",
+        3
+    ],
+    [
+        "ivivanov-bg",
+        "java",
+        1
+    ],
+    [
+        "David Gr\u00e4ff",
+        "java",
+        1
+    ],
+    [
+        "Henning Treu",
+        "js",
+        10
+    ],
+    [
+        "Henning Treu",
+        "css",
+        1
+    ],
+    [
+        "Henning Treu",
+        "html",
+        6
+    ]
+]

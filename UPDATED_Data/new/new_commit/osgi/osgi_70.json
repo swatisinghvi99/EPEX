@@ -1,0 +1,102 @@
+[
+    [
+        "Tim Diekman",
+        "bnd",
+        18
+    ],
+    [
+        "Tim Diekman",
+        "java",
+        35
+    ],
+    [
+        "Tim Diekman",
+        "xml",
+        2
+    ],
+    [
+        "Tim Diekman",
+        "classpath",
+        1
+    ],
+    [
+        "Tim Diekman",
+        "project",
+        1
+    ],
+    [
+        "Tim Diekman",
+        "secure/generated/buildfiles",
+        1
+    ],
+    [
+        "Tim Diekman",
+        "perm",
+        3
+    ],
+    [
+        "David Savage",
+        "bnd",
+        6
+    ],
+    [
+        "David Savage",
+        "java",
+        7
+    ],
+    [
+        "David Bosschaert",
+        "bnd",
+        6
+    ],
+    [
+        "David Bosschaert",
+        "java",
+        12
+    ],
+    [
+        "David Bosschaert",
+        "perm",
+        4
+    ],
+    [
+        "Hal Hildebrand",
+        "java",
+        4
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        7
+    ],
+    [
+        "Peter Kriens",
+        "framework/src/org/osgi/framework/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        6
+    ],
+    [
+        "BJ Hargrave",
+        "framework/src/org/osgi/framework/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "jmx/src/org/osgi/jmx/service/useradmin/packageinfo",
+        1
+    ],
+    [
+        "E Grigorov",
+        "java",
+        5
+    ],
+    [
+        "Tom Watson",
+        "java",
+        2
+    ]
+]

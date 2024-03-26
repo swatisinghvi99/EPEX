@@ -1,0 +1,237 @@
+[
+    [
+        "Sven Efftinge",
+        "ecore",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "xtext",
+        5
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        224
+    ],
+    [
+        "Sven Efftinge",
+        "xml_gen",
+        6
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        18
+    ],
+    [
+        "Sven Efftinge",
+        "classpath",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "project",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "prefs",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        10
+    ],
+    [
+        "Sven Efftinge",
+        "properties",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "xml",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "MF_gen",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "xpt",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "api_filters",
+        2
+    ],
+    [
+        "Knut Wannheden",
+        "java",
+        8
+    ],
+    [
+        "Knut Wannheden",
+        "api_filters",
+        3
+    ],
+    [
+        "Michael Clay",
+        "java",
+        5
+    ],
+    [
+        "Michael Clay",
+        "properties",
+        1
+    ],
+    [
+        "Michael Clay",
+        "xml",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        35
+    ],
+    [
+        "Dennis Huebner",
+        "properties",
+        4
+    ],
+    [
+        "Dennis Huebner",
+        "xtend",
+        19
+    ],
+    [
+        "Dennis Huebner",
+        "MF",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "xpt",
+        5
+    ],
+    [
+        "Dennis Huebner",
+        "ext",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "xtext",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        1
+    ],
+    [
+        "Holger Schill",
+        "java",
+        95
+    ],
+    [
+        "Holger Schill",
+        "xtend",
+        8
+    ],
+    [
+        "Holger Schill",
+        "MF",
+        5
+    ],
+    [
+        "Holger Schill",
+        "mwe2",
+        4
+    ],
+    [
+        "Holger Schill",
+        "xtext",
+        4
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        140
+    ],
+    [
+        "Jan Koehnlein",
+        "api_filters",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "xpt",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "prefs",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "properties",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "MF",
+        5
+    ],
+    [
+        "Jan Koehnlein",
+        "mwe2",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "xml_gen",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "mwe2",
+        18
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtext",
+        15
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        144
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtend",
+        11
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        79
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        4
+    ]
+]

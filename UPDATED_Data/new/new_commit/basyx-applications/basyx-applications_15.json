@@ -1,0 +1,642 @@
+[
+    [
+        "Aaron Zielstorff",
+        "md",
+        6
+    ],
+    [
+        "Aaron Zielstorff",
+        "dockerignore",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "gitignore",
+        6
+    ],
+    [
+        "Aaron Zielstorff",
+        "json",
+        17
+    ],
+    [
+        "Aaron Zielstorff",
+        "svg",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "unknown",
+        4
+    ],
+    [
+        "Aaron Zielstorff",
+        "py",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "sln",
+        2
+    ],
+    [
+        "Aaron Zielstorff",
+        "cs",
+        65
+    ],
+    [
+        "Aaron Zielstorff",
+        "csproj",
+        5
+    ],
+    [
+        "Aaron Zielstorff",
+        "yaml",
+        2
+    ],
+    [
+        "Aaron Zielstorff",
+        "pdf",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/HTW/01_Demo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/HTW/02_WorkspaceExtension_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/HTW/03_BucklingArmRobot_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/HTW/04_Sorting_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/HTW/05_SupplyUnit_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/01_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/02_Bosch_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/03_Bosch_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/04_Bosch_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/05_Bosch_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/06_Bosch_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/07_PhoenixContact_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/08_SchneiderElectric_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/09_SchneiderElectric_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/10_SchneiderElectric_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/11_SchneiderElectric_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/12_Pepperl+Fuchs_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/13_DKE_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/14_Siemens_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/15_Siemens_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/16_Lenze_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/17_ABB_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/18_Hitachi_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/19_Balluff_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/20_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/21_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/22_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/23_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/24_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/25_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/26_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/27_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/30_Wittenstein_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/31_SICK_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/32_SICK_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/33_SICK_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/DescriptorFactoryTests/TestData/PassiveShells/ComplianceLogs/IDTA/34_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "xml",
+        133
+    ],
+    [
+        "Aaron Zielstorff",
+        "xsc",
+        4
+    ],
+    [
+        "Aaron Zielstorff",
+        "xsd",
+        4
+    ],
+    [
+        "Aaron Zielstorff",
+        "xss",
+        4
+    ],
+    [
+        "Aaron Zielstorff",
+        "txt",
+        5
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/HTW/01_Demo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/HTW/02_WorkspaceExtension_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/HTW/03_BucklingArmRobot_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/HTW/04_Sorting_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/HTW/05_SupplyUnit_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/01_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/02_Bosch_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/03_Bosch_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/04_Bosch_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/05_Bosch_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/06_Bosch_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/07_PhoenixContact_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/08_SchneiderElectric_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/09_SchneiderElectric_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/10_SchneiderElectric_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/11_SchneiderElectric_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/12_Pepperl+Fuchs_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/13_DKE_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/14_Siemens_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/15_Siemens_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/16_Lenze_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/17_ABB_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/18_Hitachi_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/19_Balluff_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/20_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/21_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/22_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/23_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/24_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/25_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/26_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/27_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/30_Wittenstein_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/31_SICK_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/32_SICK_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/33_SICK_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TestObjectTests/TestData/PassiveShells/ComplianceLogs/IDTA/34_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/HTW/01_Demo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/HTW/02_WorkspaceExtension_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/HTW/03_BucklingArmRobot_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/HTW/04_Sorting_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/HTW/05_SupplyUnit_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/01_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/02_Bosch_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/03_Bosch_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/04_Bosch_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/05_Bosch_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/06_Bosch_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/07_PhoenixContact_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/08_SchneiderElectric_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/09_SchneiderElectric_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/10_SchneiderElectric_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/11_SchneiderElectric_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/12_Pepperl+Fuchs_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/13_DKE_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/14_Siemens_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/15_Siemens_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/16_Lenze_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/17_ABB_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/18_Hitachi_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/19_Balluff_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/20_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/21_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/22_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/23_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/24_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/25_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/26_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/27_Festo_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/30_Wittenstein_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/31_SICK_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/32_SICK_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/33_SICK_AAS",
+        1
+    ],
+    [
+        "Aaron Zielstorff",
+        "Tests/TicketRepositoryServiceTests/TestData/PassiveShells/ComplianceLogs/IDTA/34_Festo_AAS",
+        1
+    ]
+]

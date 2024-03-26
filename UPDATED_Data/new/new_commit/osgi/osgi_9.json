@@ -1,0 +1,587 @@
+[
+    [
+        "Olivier Pave",
+        "classpath",
+        1
+    ],
+    [
+        "Olivier Pave",
+        "properties",
+        1
+    ],
+    [
+        "Olivier Pave",
+        "ref",
+        3
+    ],
+    [
+        "Olivier Pave",
+        "java",
+        43
+    ],
+    [
+        "Olivier Pave",
+        "mf",
+        5
+    ],
+    [
+        "Peter Nagy",
+        "java",
+        56
+    ],
+    [
+        "Peter Nagy",
+        "classpath",
+        1
+    ],
+    [
+        "Peter Nagy",
+        "cvsignore",
+        1
+    ],
+    [
+        "Peter Nagy",
+        "launch",
+        2
+    ],
+    [
+        "Peter Nagy",
+        "project",
+        1
+    ],
+    [
+        "Peter Nagy",
+        "xml",
+        1
+    ],
+    [
+        "Peter Nagy",
+        "xsd",
+        1
+    ],
+    [
+        "Peter Nagy",
+        "mf",
+        2
+    ],
+    [
+        "ckarai",
+        "java",
+        100
+    ],
+    [
+        "ckarai",
+        "properties",
+        3
+    ],
+    [
+        "ckarai",
+        "xml",
+        7
+    ],
+    [
+        "ckarai",
+        "classpath",
+        6
+    ],
+    [
+        "ckarai",
+        "project",
+        3
+    ],
+    [
+        "ckarai",
+        "mf",
+        2
+    ],
+    [
+        "ckarai",
+        "html",
+        1
+    ],
+    [
+        "ckarai",
+        "scheduler/src/org/osgi/impl/service/scheduler/packageinfo",
+        1
+    ],
+    [
+        "Nickola Jetchev",
+        "java",
+        42
+    ],
+    [
+        "Ivan Zahoranszky",
+        "properties",
+        2
+    ],
+    [
+        "Ivan Zahoranszky",
+        "mf",
+        2
+    ],
+    [
+        "Ivan Zahoranszky",
+        "dbscript",
+        2
+    ],
+    [
+        "Ivan Zahoranszky",
+        "java",
+        29
+    ],
+    [
+        "Tamas Szeredi",
+        "java",
+        65
+    ],
+    [
+        "Tom Watson",
+        "java",
+        117
+    ],
+    [
+        "Tom Watson",
+        "MF",
+        2
+    ],
+    [
+        "Tom Watson",
+        "properties",
+        5
+    ],
+    [
+        "Tom Watson",
+        "launch",
+        2
+    ],
+    [
+        "Tom Watson",
+        "permissions",
+        2
+    ],
+    [
+        "Tom Watson",
+        "aliases",
+        3
+    ],
+    [
+        "Tom Watson",
+        "profile",
+        4
+    ],
+    [
+        "Tom Watson",
+        "html",
+        1
+    ],
+    [
+        "Julian Chen",
+        "java",
+        18
+    ],
+    [
+        "Julian Chen",
+        "properties",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        142
+    ],
+    [
+        "Peter Kriens",
+        "xml",
+        4
+    ],
+    [
+        "Peter Kriens",
+        "classpath",
+        6
+    ],
+    [
+        "Peter Kriens",
+        "cvsignore",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "project",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "mf",
+        6
+    ],
+    [
+        "Peter Kriens",
+        "properties",
+        5
+    ],
+    [
+        "Peter Kriens",
+        "tc5/src/org/osgi/test/cases/packageadmin/tc5/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "tc5/src/org/osgi/test/cases/packageadmin/tc5/tb1/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "tc5/src/org/osgi/test/cases/packageadmin/tc5/tbc/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "h",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "div/src/org/osgi/test/cases/div/tb12/linux_x86/Makefile",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "c",
+        6
+    ],
+    [
+        "Peter Kriens",
+        "div/src/org/osgi/test/cases/div/tb12/qnx_armle/Makefile",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "div/src/org/osgi/test/cases/div/tb12/qnx_ppc/Makefile",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "div/src/org/osgi/test/cases/div/tb12/qnx_x86/Makefile",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "div/src/org/osgi/test/cases/div/tb12/solaris_sparc/Makefile",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "div/src/org/osgi/test/cases/div/tb12/windows_x86/Makefile",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "txt",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "html",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "meglet/src/org/osgi/meglet/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "application/src/org/osgi/service/application/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "cd/src/org/osgi/impl/service/upnp/cd/control/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "cd/src/org/osgi/impl/service/upnp/cd/event/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "cd/src/org/osgi/impl/service/upnp/cd/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "cd/src/org/osgi/impl/service/upnp/cd/ssdp/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "cd/src/org/osgi/impl/service/upnp/cd/util/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "cp/src/org/osgi/impl/service/upnp/cp/basedriver/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "cp/src/org/osgi/impl/service/upnp/cp/control/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "cp/src/org/osgi/impl/service/upnp/cp/description/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "cp/src/org/osgi/impl/service/upnp/cp/event/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "cp/src/org/osgi/impl/service/upnp/cp/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "cp/src/org/osgi/impl/service/upnp/cp/ssdp/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "cp/src/org/osgi/impl/service/upnp/cp/util/packageinfo",
+        1
+    ],
+    [
+        "Devendra Tewari",
+        "ref",
+        1
+    ],
+    [
+        "Devendra Tewari",
+        "java",
+        6
+    ],
+    [
+        "Devendra Tewari",
+        "mf",
+        1
+    ],
+    [
+        "p_sotirova",
+        "properties",
+        4
+    ],
+    [
+        "p_sotirova",
+        "java",
+        8
+    ],
+    [
+        "p_sotirova",
+        "mf",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        144
+    ],
+    [
+        "BJ Hargrave",
+        "classpath",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "cvsignore",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "project",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "mf",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "properties",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "xml",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "component/src/org/eclipse/osgi/component/instance/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "component/src/org/eclipse/osgi/component/model/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "component/src/org/eclipse/osgi/component/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "component/src/org/eclipse/osgi/component/parser/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "component/src/org/eclipse/osgi/component/resolver/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "component/src/org/eclipse/osgi/component/workqueue/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "component/src/org/eclipse/osgi/impl/service/component/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "component/src/org/eclipse/osgi/util/tracker/packageinfo",
+        1
+    ],
+    [
+        "Balazs Godeny",
+        "java",
+        2
+    ],
+    [
+        "Richard S. Hall",
+        "java",
+        20
+    ],
+    [
+        "jmascena",
+        "properties",
+        2
+    ],
+    [
+        "jmascena",
+        "ref",
+        2
+    ],
+    [
+        "jmascena",
+        "h",
+        1
+    ],
+    [
+        "jmascena",
+        "java",
+        14
+    ],
+    [
+        "jmascena",
+        "div/src/org/osgi/test/cases/div/tb12/linux_x86/Makefile",
+        1
+    ],
+    [
+        "jmascena",
+        "c",
+        6
+    ],
+    [
+        "jmascena",
+        "div/src/org/osgi/test/cases/div/tb12/qnx_armle/Makefile",
+        1
+    ],
+    [
+        "jmascena",
+        "div/src/org/osgi/test/cases/div/tb12/qnx_ppc/Makefile",
+        1
+    ],
+    [
+        "jmascena",
+        "div/src/org/osgi/test/cases/div/tb12/qnx_x86/Makefile",
+        1
+    ],
+    [
+        "jmascena",
+        "div/src/org/osgi/test/cases/div/tb12/solaris_sparc/Makefile",
+        1
+    ],
+    [
+        "jmascena",
+        "div/src/org/osgi/test/cases/div/tb12/windows_x86/Makefile",
+        1
+    ],
+    [
+        "jmascena",
+        "txt",
+        1
+    ],
+    [
+        "jmascena",
+        "mf",
+        17
+    ],
+    [
+        "d_dikova",
+        "java",
+        3
+    ],
+    [
+        "Luis Tenorio",
+        "mf",
+        13
+    ],
+    [
+        "Luis Tenorio",
+        "properties",
+        7
+    ],
+    [
+        "Luis Tenorio",
+        "java",
+        63
+    ],
+    [
+        "Luis Tenorio",
+        "xml",
+        1
+    ],
+    [
+        "gdepaula",
+        "java",
+        3
+    ],
+    [
+        "hmarques",
+        "java",
+        5
+    ],
+    [
+        "hmarques",
+        "mf",
+        3
+    ],
+    [
+        "hmarques",
+        "properties",
+        6
+    ],
+    [
+        "Janet Dmitrovich",
+        "java",
+        37
+    ]
+]

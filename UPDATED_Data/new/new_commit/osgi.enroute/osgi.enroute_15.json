@@ -1,0 +1,67 @@
+[
+    [
+        "Peter Kriens",
+        "json",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        52
+    ],
+    [
+        "Peter Kriens",
+        "classpath",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "gitignore",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "project",
+        4
+    ],
+    [
+        "Peter Kriens",
+        "prefs",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "bnd",
+        7
+    ],
+    [
+        "Peter Kriens",
+        "api/src/osgi/enroute/iot/gpio/config/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "md",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "provider/src/org/slf4j/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "txt",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "api/src/osgi/enroute/iot/admin/api/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "api/src/osgi/enroute/iot/admin/dto/packageinfo",
+        1
+    ]
+]

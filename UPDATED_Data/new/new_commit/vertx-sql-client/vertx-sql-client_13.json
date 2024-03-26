@@ -1,0 +1,67 @@
+[
+    [
+        "Julien Viet",
+        "java",
+        342
+    ],
+    [
+        "Julien Viet",
+        "adoc",
+        11
+    ],
+    [
+        "Julien Viet",
+        "xml",
+        7
+    ],
+    [
+        "Julien Viet",
+        "GeneratorLoader",
+        5
+    ],
+    [
+        "Julien Viet",
+        "properties",
+        5
+    ],
+    [
+        "Andrew Guibert",
+        "java",
+        139
+    ],
+    [
+        "Andrew Guibert",
+        "Driver",
+        12
+    ],
+    [
+        "Andrew Guibert",
+        "adoc",
+        1
+    ],
+    [
+        "Billy Yuan",
+        "sql",
+        2
+    ],
+    [
+        "Billy Yuan",
+        "java",
+        118
+    ],
+    [
+        "Billy Yuan",
+        "adoc",
+        5
+    ],
+    [
+        "Billy Yuan",
+        "yml",
+        1
+    ],
+    [
+        "Julian Ladisch",
+        "java",
+        23
+    ]
+]

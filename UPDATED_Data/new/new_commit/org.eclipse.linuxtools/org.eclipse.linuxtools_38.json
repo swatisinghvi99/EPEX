@@ -1,0 +1,207 @@
+[
+    [
+        "Alexander Kurtakov",
+        "java",
+        8
+    ],
+    [
+        "Bernd Hufmann",
+        "java",
+        233
+    ],
+    [
+        "Bernd Hufmann",
+        "properties",
+        12
+    ],
+    [
+        "Bernd Hufmann",
+        "xml",
+        5
+    ],
+    [
+        "Bernd Hufmann",
+        "MF",
+        3
+    ],
+    [
+        "francois",
+        "java",
+        248
+    ],
+    [
+        "francois",
+        "xml",
+        2
+    ],
+    [
+        "Francois Chouinard",
+        "java",
+        508
+    ],
+    [
+        "Francois Chouinard",
+        "options",
+        2
+    ],
+    [
+        "Francois Chouinard",
+        "MF",
+        3
+    ],
+    [
+        "Francois Chouinard",
+        "properties",
+        5
+    ],
+    [
+        "Francois Chouinard",
+        "xml",
+        6
+    ],
+    [
+        "Francois Chouinard",
+        "gitignore",
+        1
+    ],
+    [
+        "Patrick Tasse",
+        "java",
+        151
+    ],
+    [
+        "Patrick Tasse",
+        "MF",
+        3
+    ],
+    [
+        "Patrick Tasse",
+        "html",
+        1
+    ],
+    [
+        "Patrick Tasse",
+        "gitignore",
+        1
+    ],
+    [
+        "Patrick Tasse",
+        "project",
+        1
+    ],
+    [
+        "Patrick Tasse",
+        "xml",
+        8
+    ],
+    [
+        "Patrick Tasse",
+        "properties",
+        2
+    ],
+    [
+        "Roland Grunberg",
+        "java",
+        38
+    ],
+    [
+        "Roland Grunberg",
+        "properties",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "MF",
+        4
+    ],
+    [
+        "Roland Grunberg",
+        "xml",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "core/ChangeLog",
+        4
+    ],
+    [
+        "Jeff Johnston",
+        "java",
+        37
+    ],
+    [
+        "Jeff Johnston",
+        "tests/ChangeLog",
+        5
+    ],
+    [
+        "Jeff Johnston",
+        "properties",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "ui/ChangeLog",
+        3
+    ],
+    [
+        "Jeff Johnston",
+        "gitignore",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "MF",
+        3
+    ],
+    [
+        "Jeff Johnston",
+        "xml",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "ini",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "devhelp/ChangeLog",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "libhover/ChangeLog",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "systemtapgui/ChangeLog",
+        1
+    ],
+    [
+        "Daniel Henrique Barboza",
+        "java",
+        1
+    ],
+    [
+        "Xavier Raynaud",
+        "java",
+        116
+    ],
+    [
+        "Xavier Raynaud",
+        "MF",
+        4
+    ],
+    [
+        "Xavier Raynaud",
+        "xml",
+        7
+    ],
+    [
+        "Elliott Baron",
+        "java",
+        1
+    ]
+]

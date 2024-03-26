@@ -1,0 +1,247 @@
+[
+    [
+        "Bernd Hufmann",
+        "MF",
+        4
+    ],
+    [
+        "Bernd Hufmann",
+        "java",
+        29
+    ],
+    [
+        "Bernd Hufmann",
+        "properties",
+        2
+    ],
+    [
+        "Bernd Hufmann",
+        "xml",
+        1
+    ],
+    [
+        "Bernd Hufmann",
+        "tests/testfiles/syslog_collapse",
+        1
+    ],
+    [
+        "Bernd Hufmann",
+        "prefs",
+        1
+    ],
+    [
+        "Patrick Tasse",
+        "java",
+        17
+    ],
+    [
+        "Patrick Tasse",
+        "xml",
+        1
+    ],
+    [
+        "Patrick Tasse",
+        "MF",
+        1
+    ],
+    [
+        "Patrick Tasse",
+        "properties",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "java",
+        3
+    ],
+    [
+        "Marc-Andre Laperle",
+        "java",
+        24
+    ],
+    [
+        "Alexandre Montplaisir",
+        "MF",
+        167
+    ],
+    [
+        "Alexandre Montplaisir",
+        "xml",
+        260
+    ],
+    [
+        "Alexandre Montplaisir",
+        "java",
+        4546
+    ],
+    [
+        "Alexandre Montplaisir",
+        "prefs",
+        274
+    ],
+    [
+        "Alexandre Montplaisir",
+        "sh",
+        3
+    ],
+    [
+        "Alexandre Montplaisir",
+        "project",
+        90
+    ],
+    [
+        "Alexandre Montplaisir",
+        "properties",
+        298
+    ],
+    [
+        "Alexandre Montplaisir",
+        "classpath",
+        37
+    ],
+    [
+        "Alexandre Montplaisir",
+        "launch",
+        9
+    ],
+    [
+        "Alexandre Montplaisir",
+        "help/README",
+        7
+    ],
+    [
+        "Alexandre Montplaisir",
+        "html",
+        46
+    ],
+    [
+        "Alexandre Montplaisir",
+        "options",
+        5
+    ],
+    [
+        "Alexandre Montplaisir",
+        "gitignore",
+        12
+    ],
+    [
+        "Alexandre Montplaisir",
+        "inf",
+        12
+    ],
+    [
+        "Alexandre Montplaisir",
+        "tests/ChangeLog",
+        2
+    ],
+    [
+        "Alexandre Montplaisir",
+        "xsd",
+        4
+    ],
+    [
+        "Alexandre Montplaisir",
+        "txt",
+        2
+    ],
+    [
+        "Alexandre Montplaisir",
+        "tests/testfiles/syslog_collapse",
+        2
+    ],
+    [
+        "Alexandre Montplaisir",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Alexandre Montplaisir",
+        "exsd",
+        6
+    ],
+    [
+        "Alexandre Montplaisir",
+        "css",
+        4
+    ],
+    [
+        "Alexandre Montplaisir",
+        "mediawiki",
+        2
+    ],
+    [
+        "Alexandre Montplaisir",
+        "api_filters",
+        3
+    ],
+    [
+        "Alexandre Montplaisir",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "Alexandre Montplaisir",
+        "tmf/ChangeLog",
+        1
+    ],
+    [
+        "Alexandre Montplaisir",
+        "product",
+        1
+    ],
+    [
+        "Alexandre Montplaisir",
+        "help/reference/api/package-list",
+        2
+    ],
+    [
+        "Alexandre Montplaisir",
+        "g",
+        4
+    ],
+    [
+        "Alexandre Montplaisir",
+        "parser/README",
+        1
+    ],
+    [
+        "Naser Ezzati",
+        "java",
+        13
+    ],
+    [
+        "Naser Ezzati",
+        "MF",
+        1
+    ],
+    [
+        "Naser Ezzati",
+        "xml",
+        1
+    ],
+    [
+        "Jonathan Rajotte Julien",
+        "java",
+        2
+    ],
+    [
+        "Matthew Khouzam",
+        "java",
+        19
+    ],
+    [
+        "Matthew Khouzam",
+        "MF",
+        1
+    ],
+    [
+        "Matthew Khouzam",
+        "properties",
+        4
+    ],
+    [
+        "Matthew Khouzam",
+        "xml",
+        1
+    ]
+]

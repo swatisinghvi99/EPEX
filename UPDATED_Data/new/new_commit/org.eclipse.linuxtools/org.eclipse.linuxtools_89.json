@@ -1,0 +1,72 @@
+[
+    [
+        "Jeff Johnston",
+        "java",
+        53
+    ],
+    [
+        "Jeff Johnston",
+        "properties",
+        2
+    ],
+    [
+        "Roland Grunberg",
+        "java",
+        51
+    ],
+    [
+        "Roland Grunberg",
+        "properties",
+        4
+    ],
+    [
+        "Roland Grunberg",
+        "xml",
+        1
+    ],
+    [
+        "Xavier Coulon",
+        "java",
+        99
+    ],
+    [
+        "Xavier Coulon",
+        "properties",
+        10
+    ],
+    [
+        "Xavier Coulon",
+        "xml",
+        1
+    ],
+    [
+        "Xavier Coulon",
+        "tests/projects/foo/Dockerfile",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        89
+    ],
+    [
+        "Alexander Kurtakov",
+        "prefs",
+        1
+    ],
+    [
+        "Mat Booth",
+        "java",
+        25
+    ],
+    [
+        "Mat Booth",
+        "MF",
+        2
+    ],
+    [
+        "Mat Booth",
+        "xml",
+        2
+    ]
+]

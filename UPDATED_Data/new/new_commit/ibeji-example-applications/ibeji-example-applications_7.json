@@ -1,0 +1,17 @@
+[
+    [
+        "dependabot[bot]",
+        "lock",
+        1
+    ],
+    [
+        "dependabot[bot]",
+        "toml",
+        3
+    ],
+    [
+        "dependabot[bot]",
+        "rs",
+        3
+    ]
+]

@@ -1,0 +1,57 @@
+[
+    [
+        "Frederic Gurr",
+        "jsonnet",
+        6
+    ],
+    [
+        "Frederic Gurr",
+        "serializer/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "json",
+        56
+    ],
+    [
+        "Frederic Gurr",
+        "yml",
+        7
+    ],
+    [
+        "Frederic Gurr",
+        "hbs",
+        3
+    ],
+    [
+        "Frederic Gurr",
+        "override",
+        3
+    ],
+    [
+        "Frederic Gurr",
+        "js",
+        4
+    ],
+    [
+        "Frederic Gurr",
+        "store/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "etag",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "sh",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "log",
+        1
+    ]
+]

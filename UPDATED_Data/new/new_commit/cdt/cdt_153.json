@@ -1,0 +1,347 @@
+[
+    [
+        "Greg Watson",
+        "java",
+        83
+    ],
+    [
+        "Greg Watson",
+        "properties",
+        9
+    ],
+    [
+        "Greg Watson",
+        "classpath",
+        3
+    ],
+    [
+        "Greg Watson",
+        "prefs",
+        4
+    ],
+    [
+        "Greg Watson",
+        "MF",
+        4
+    ],
+    [
+        "Greg Watson",
+        "xml",
+        11
+    ],
+    [
+        "Greg Watson",
+        "exsd",
+        2
+    ],
+    [
+        "Greg Watson",
+        "cvsignore",
+        1
+    ],
+    [
+        "Greg Watson",
+        "gitignore",
+        1
+    ],
+    [
+        "Greg Watson",
+        "project",
+        2
+    ],
+    [
+        "Greg Watson",
+        "html",
+        6
+    ],
+    [
+        "Greg Watson",
+        "ini",
+        1
+    ],
+    [
+        "Greg Watson",
+        "mappings",
+        1
+    ],
+    [
+        "Greg Watson",
+        "css",
+        1
+    ],
+    [
+        "Nathan Ridge",
+        "java",
+        78
+    ],
+    [
+        "Sergey Prigogin",
+        "java",
+        4
+    ],
+    [
+        "Sergey Prigogin",
+        "MF",
+        1
+    ],
+    [
+        "Marc Dumais",
+        "MF",
+        1
+    ],
+    [
+        "Marc Dumais",
+        "xml",
+        1
+    ],
+    [
+        "Marc Dumais",
+        "java",
+        8
+    ],
+    [
+        "Marc Dumais",
+        "properties",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        10
+    ],
+    [
+        "Doug Schaefer",
+        "properties",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "xml",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "gitignore",
+        5
+    ],
+    [
+        "Doug Schaefer",
+        "sln",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "cpp",
+        6
+    ],
+    [
+        "Doug Schaefer",
+        "vcxproj",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "filters",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "h",
+        4
+    ],
+    [
+        "Doug Schaefer",
+        "win32/library/winreg/Makefile",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "classpath",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "MF",
+        1
+    ],
+    [
+        "Anton Leherbauer",
+        "java",
+        7
+    ],
+    [
+        "Milivoje Legenovic",
+        "java",
+        2
+    ],
+    [
+        "Alena Laskavaia",
+        "java",
+        35
+    ],
+    [
+        "Alena Laskavaia",
+        "options",
+        1
+    ],
+    [
+        "Alena Laskavaia",
+        "MF",
+        3
+    ],
+    [
+        "Alena Laskavaia",
+        "xml",
+        5
+    ],
+    [
+        "Uwe Stieber",
+        "java",
+        157
+    ],
+    [
+        "Uwe Stieber",
+        "xml",
+        63
+    ],
+    [
+        "Uwe Stieber",
+        "project",
+        18
+    ],
+    [
+        "Uwe Stieber",
+        "properties",
+        54
+    ],
+    [
+        "Uwe Stieber",
+        "classpath",
+        6
+    ],
+    [
+        "Uwe Stieber",
+        "cvsignore",
+        6
+    ],
+    [
+        "Uwe Stieber",
+        "prefs",
+        12
+    ],
+    [
+        "Uwe Stieber",
+        "MF",
+        8
+    ],
+    [
+        "Uwe Stieber",
+        "html",
+        36
+    ],
+    [
+        "Uwe Stieber",
+        "ini",
+        6
+    ],
+    [
+        "Uwe Stieber",
+        "mappings",
+        6
+    ],
+    [
+        "Uwe Stieber",
+        "css",
+        6
+    ],
+    [
+        "Matthew Khouzam",
+        "java",
+        49
+    ],
+    [
+        "Marc Khouzam",
+        "java",
+        474
+    ],
+    [
+        "Marc Khouzam",
+        "MF",
+        18
+    ],
+    [
+        "Marc Khouzam",
+        "prefs",
+        16
+    ],
+    [
+        "Marc Khouzam",
+        "classpath",
+        16
+    ],
+    [
+        "Andrew Gvozdev",
+        "java",
+        11
+    ],
+    [
+        "Andrew Gvozdev",
+        "properties",
+        3
+    ],
+    [
+        "Dave McKnight",
+        "java",
+        4
+    ],
+    [
+        "Marc-Andre Laperle",
+        "java",
+        7
+    ],
+    [
+        "Marc-Andre Laperle",
+        "xml",
+        2
+    ],
+    [
+        "Marc-Andre Laperle",
+        "properties",
+        1
+    ],
+    [
+        "Marc-Andre Laperle",
+        "MF",
+        1
+    ],
+    [
+        "Bernd Hufmann",
+        "xml",
+        1
+    ],
+    [
+        "Bernd Hufmann",
+        "java",
+        2
+    ],
+    [
+        "Patrick Tasse",
+        "java",
+        4
+    ],
+    [
+        "William Riley",
+        "java",
+        2
+    ],
+    [
+        "Alvaro Sanchez-Leon",
+        "java",
+        3
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        10
+    ]
+]

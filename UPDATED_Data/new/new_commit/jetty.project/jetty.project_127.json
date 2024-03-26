@@ -1,0 +1,137 @@
+[
+    [
+        "Greg Wilkins",
+        "java",
+        50
+    ],
+    [
+        "Greg Wilkins",
+        "mod",
+        2
+    ],
+    [
+        "Jan Bartel",
+        "java",
+        130
+    ],
+    [
+        "Jan Bartel",
+        "Configuration",
+        2
+    ],
+    [
+        "Jan Bartel",
+        "xml",
+        70
+    ],
+    [
+        "Jan Bartel",
+        "groovy",
+        26
+    ],
+    [
+        "Jan Bartel",
+        "properties",
+        8
+    ],
+    [
+        "Jan Bartel",
+        "jsp",
+        2
+    ],
+    [
+        "Jan Bartel",
+        "mod",
+        1
+    ],
+    [
+        "Jan Bartel",
+        "html",
+        1
+    ],
+    [
+        "Simone Bordet",
+        "java",
+        118
+    ],
+    [
+        "Simone Bordet",
+        "properties",
+        2
+    ],
+    [
+        "Simone Bordet",
+        "xml",
+        3
+    ],
+    [
+        "Simone Bordet",
+        "mod",
+        1
+    ],
+    [
+        "Lachlan",
+        "xml",
+        2
+    ],
+    [
+        "Lachlan",
+        "java",
+        11
+    ],
+    [
+        "Lachlan",
+        "properties",
+        1
+    ],
+    [
+        "olivier lamy",
+        "java",
+        1
+    ],
+    [
+        "Joakim Erdfelt",
+        "java",
+        17
+    ],
+    [
+        "Lachlan Roberts",
+        "java",
+        19
+    ],
+    [
+        "Lachlan Roberts",
+        "xml",
+        6
+    ],
+    [
+        "Lachlan Roberts",
+        "mod",
+        3
+    ],
+    [
+        "Marc-Olivier Fleury",
+        "java",
+        2
+    ],
+    [
+        "Travis Spencer",
+        "java",
+        11
+    ],
+    [
+        "Travis Spencer",
+        "xml",
+        3
+    ],
+    [
+        "Travis Spencer",
+        "mod",
+        2
+    ],
+    [
+        "contextshuffling",
+        "java",
+        1
+    ]
+]

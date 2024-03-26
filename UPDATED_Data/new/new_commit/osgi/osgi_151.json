@@ -1,0 +1,147 @@
+[
+    [
+        "BJ Hargrave",
+        "java",
+        22
+    ],
+    [
+        "BJ Hargrave",
+        "xsd",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "xml",
+        2
+    ],
+    [
+        "Tim Ward",
+        "java",
+        36
+    ],
+    [
+        "Tim Ward",
+        "xml",
+        7
+    ],
+    [
+        "Tim Ward",
+        "mvn",
+        3
+    ],
+    [
+        "Tim Ward",
+        "lib",
+        5
+    ],
+    [
+        "Tim Ward",
+        "bnd",
+        8
+    ],
+    [
+        "Tim Ward",
+        "classpath",
+        2
+    ],
+    [
+        "Tim Ward",
+        "project",
+        2
+    ],
+    [
+        "Tim Ward",
+        "prefs",
+        8
+    ],
+    [
+        "Carsten Ziegeler",
+        "lib",
+        1
+    ],
+    [
+        "Carsten Ziegeler",
+        "java",
+        14
+    ],
+    [
+        "David Bosschaert",
+        "java",
+        3
+    ],
+    [
+        "David Bosschaert",
+        "xml",
+        2
+    ],
+    [
+        "Raymond Auge",
+        "mvn",
+        2
+    ],
+    [
+        "Raymond Auge",
+        "classpath",
+        2
+    ],
+    [
+        "Raymond Auge",
+        "project",
+        2
+    ],
+    [
+        "Raymond Auge",
+        "prefs",
+        8
+    ],
+    [
+        "Raymond Auge",
+        "bnd",
+        14
+    ],
+    [
+        "Raymond Auge",
+        "java",
+        49
+    ],
+    [
+        "Raymond Auge",
+        "lib",
+        1
+    ],
+    [
+        "Raymond Auge",
+        "xml",
+        1
+    ],
+    [
+        "Raymond Auge",
+        "cdi/src/org/osgi/test/cases/tb/serviceapi/packageinfo",
+        1
+    ],
+    [
+        "cmunilla",
+        "classpath",
+        2
+    ],
+    [
+        "cmunilla",
+        "project",
+        1
+    ],
+    [
+        "cmunilla",
+        "prefs",
+        3
+    ],
+    [
+        "cmunilla",
+        "bnd",
+        2
+    ],
+    [
+        "cmunilla",
+        "java",
+        7
+    ]
+]

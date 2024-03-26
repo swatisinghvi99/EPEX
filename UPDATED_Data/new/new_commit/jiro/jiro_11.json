@@ -1,0 +1,187 @@
+[
+    [
+        "Frederic Gurr",
+        "jsonnet",
+        38
+    ],
+    [
+        "Frederic Gurr",
+        "metro/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "metro/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "json",
+        147
+    ],
+    [
+        "Frederic Gurr",
+        "yml",
+        191
+    ],
+    [
+        "Frederic Gurr",
+        "hbs",
+        24
+    ],
+    [
+        "Frederic Gurr",
+        "metro/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "override",
+        17
+    ],
+    [
+        "Frederic Gurr",
+        "js",
+        17
+    ],
+    [
+        "Frederic Gurr",
+        "mojarra/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "openmq/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "orb/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "sprotty/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "servlet/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "servlet/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "servlet/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "soteria/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "umlgen/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "stem/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "sw360/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "websocket/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "websocket/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "websocket/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "yasson/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "yasson/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "yasson/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "xacc/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "glassfish/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "glassfish/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "glassfish/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "jacc/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "jacc/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "jacc/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "iceoryx/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "iceoryx/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "iceoryx/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "jkube/target/Dockerfile",
+        1
+    ]
+]

@@ -1,0 +1,517 @@
+[
+    [
+        "Christian Schneider",
+        "mwe2",
+        27
+    ],
+    [
+        "Christian Schneider",
+        "xml_gen",
+        6
+    ],
+    [
+        "Christian Schneider",
+        "java",
+        340
+    ],
+    [
+        "Christian Schneider",
+        "MF",
+        14
+    ],
+    [
+        "Christian Schneider",
+        "xtend",
+        129
+    ],
+    [
+        "Christian Schneider",
+        "g",
+        20
+    ],
+    [
+        "Christian Schneider",
+        "classpath",
+        6
+    ],
+    [
+        "Christian Schneider",
+        "project",
+        4
+    ],
+    [
+        "Christian Schneider",
+        "prefs",
+        13
+    ],
+    [
+        "Christian Schneider",
+        "html",
+        3
+    ],
+    [
+        "Christian Schneider",
+        "properties",
+        9
+    ],
+    [
+        "Christian Schneider",
+        "xml",
+        3
+    ],
+    [
+        "Christian Schneider",
+        "xpt",
+        1
+    ],
+    [
+        "Christian Schneider",
+        "gradle",
+        2
+    ],
+    [
+        "Christian Schneider",
+        "tokens",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "java",
+        441
+    ],
+    [
+        "Stefan Oehme",
+        "xtend",
+        253
+    ],
+    [
+        "Stefan Oehme",
+        "g",
+        10
+    ],
+    [
+        "Stefan Oehme",
+        "tokens",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "api_filters",
+        3
+    ],
+    [
+        "Stefan Oehme",
+        "mwe2",
+        19
+    ],
+    [
+        "Stefan Oehme",
+        "xml",
+        19
+    ],
+    [
+        "Stefan Oehme",
+        "MF",
+        3
+    ],
+    [
+        "Stefan Oehme",
+        "properties",
+        4
+    ],
+    [
+        "Stefan Oehme",
+        "gradle",
+        19
+    ],
+    [
+        "Stefan Oehme",
+        "bat",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "prefs",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "project",
+        1
+    ],
+    [
+        "akosyakov",
+        "xtend",
+        58
+    ],
+    [
+        "akosyakov",
+        "java",
+        1089
+    ],
+    [
+        "akosyakov",
+        "xml",
+        2
+    ],
+    [
+        "akosyakov",
+        "gradle",
+        2
+    ],
+    [
+        "akosyakov",
+        "g",
+        226
+    ],
+    [
+        "akosyakov",
+        "tokens",
+        3
+    ],
+    [
+        "akosyakov",
+        "txt",
+        886
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        539
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtend",
+        29
+    ],
+    [
+        "Moritz Eysholdt",
+        "MF",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtext",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "g",
+        6
+    ],
+    [
+        "Moritz Eysholdt",
+        "tokens",
+        4
+    ],
+    [
+        "Moritz Eysholdt",
+        "ecore",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "genmodel",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "mwe2",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        117
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        44
+    ],
+    [
+        "Sebastian Zarnekow",
+        "gradle",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "mwe2",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "g",
+        7
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "classpath",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "api_filters",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "prefs",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "tokens",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        236
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        108
+    ],
+    [
+        "Sven Efftinge",
+        "mwe2",
+        8
+    ],
+    [
+        "Sven Efftinge",
+        "api_filters",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "css",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "svg",
+        10
+    ],
+    [
+        "Sven Efftinge",
+        "html",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "js",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "xml",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "classpath",
+        7
+    ],
+    [
+        "Sven Efftinge",
+        "project",
+        5
+    ],
+    [
+        "Sven Efftinge",
+        "prefs",
+        11
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        5
+    ],
+    [
+        "Sven Efftinge",
+        "properties",
+        8
+    ],
+    [
+        "Sven Efftinge",
+        "g",
+        6
+    ],
+    [
+        "Sven Efftinge",
+        "tokens",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "gitignore",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "xml_gen",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "ecore",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "genmodel",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "xtext",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "txt",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "xtend",
+        55
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "java",
+        70
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "MF",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "mwe2",
+        2
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "genmodel",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "g",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "gradle",
+        2
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "html",
+        21
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "css",
+        4
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "js",
+        9
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "statemachine",
+        1
+    ],
+    [
+        "Jan Sebechlebsky",
+        "java",
+        13
+    ],
+    [
+        "Jan Sebechlebsky",
+        "xtend",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "xtend",
+        72
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        124
+    ],
+    [
+        "Dennis Huebner",
+        "MF",
+        11
+    ],
+    [
+        "Dennis Huebner",
+        "properties",
+        8
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        8
+    ],
+    [
+        "Dennis Huebner",
+        "target",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "classpath",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "wizard/resources/gradlew/gradlew",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "bat",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "parent/gradlew",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "gradle",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "api_filters",
+        2
+    ]
+]

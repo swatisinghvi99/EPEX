@@ -1,0 +1,417 @@
+[
+    [
+        "Jim Marino",
+        "java",
+        101
+    ],
+    [
+        "Jim Marino",
+        "kts",
+        34
+    ],
+    [
+        "bscholtes1A",
+        "kts",
+        36
+    ],
+    [
+        "bscholtes1A",
+        "java",
+        227
+    ],
+    [
+        "bscholtes1A",
+        "md",
+        4
+    ],
+    [
+        "bscholtes1A",
+        "ServiceExtension",
+        16
+    ],
+    [
+        "bscholtes1A",
+        "pem",
+        2
+    ],
+    [
+        "bscholtes1A",
+        "properties",
+        1
+    ],
+    [
+        "Julia Pampus",
+        "java",
+        37
+    ],
+    [
+        "Julia Pampus",
+        "properties",
+        2
+    ],
+    [
+        "Julia Pampus",
+        "json",
+        1
+    ],
+    [
+        "Julia Pampus",
+        "md",
+        7
+    ],
+    [
+        "Julia Pampus",
+        "kts",
+        3
+    ],
+    [
+        "Ronja Quensel",
+        "java",
+        51
+    ],
+    [
+        "Ronja Quensel",
+        "ServiceExtension",
+        2
+    ],
+    [
+        "Ronja Quensel",
+        "unknown",
+        1
+    ],
+    [
+        "Ronja Quensel",
+        "md",
+        1
+    ],
+    [
+        "Ronja Quensel",
+        "kts",
+        1
+    ],
+    [
+        "Ronja Quensel",
+        "properties",
+        1
+    ],
+    [
+        "Ronja Quensel",
+        "env",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "java",
+        229
+    ],
+    [
+        "Paul Latzelsperger",
+        "kts",
+        25
+    ],
+    [
+        "Paul Latzelsperger",
+        "ServiceExtension",
+        8
+    ],
+    [
+        "Paul Latzelsperger",
+        "yaml",
+        8
+    ],
+    [
+        "Paul Latzelsperger",
+        "md",
+        4
+    ],
+    [
+        "Paul Latzelsperger",
+        "js",
+        4
+    ],
+    [
+        "Alexandre Gattiker",
+        "java",
+        87
+    ],
+    [
+        "Alexandre Gattiker",
+        "yaml",
+        17
+    ],
+    [
+        "Alexandre Gattiker",
+        "md",
+        22
+    ],
+    [
+        "Alexandre Gattiker",
+        "kts",
+        25
+    ],
+    [
+        "Alexandre Gattiker",
+        "ServiceExtension",
+        6
+    ],
+    [
+        "Alexandre Gattiker",
+        "unknown",
+        1
+    ],
+    [
+        "Alexandre Gattiker",
+        "txt",
+        1
+    ],
+    [
+        "Alexandre Gattiker",
+        "tpl",
+        1
+    ],
+    [
+        "Alexandre Gattiker",
+        "sh",
+        2
+    ],
+    [
+        "Alexandre Gattiker",
+        "properties",
+        2
+    ],
+    [
+        "Alexandre Gattiker",
+        "yml",
+        1
+    ],
+    [
+        "Alexandre Gattiker",
+        "json",
+        1
+    ],
+    [
+        "Marc Gomez",
+        "yaml",
+        3
+    ],
+    [
+        "Marc Gomez",
+        "kts",
+        16
+    ],
+    [
+        "Marc Gomez",
+        "java",
+        48
+    ],
+    [
+        "Marc Gomez",
+        "md",
+        9
+    ],
+    [
+        "Marc Gomez",
+        "properties",
+        1
+    ],
+    [
+        "Denis Neuling",
+        "md",
+        2
+    ],
+    [
+        "Denis Neuling",
+        "kts",
+        3
+    ],
+    [
+        "Denis Neuling",
+        "java",
+        26
+    ],
+    [
+        "Denis Neuling",
+        "ServiceExtension",
+        1
+    ],
+    [
+        "Denis Neuling",
+        "properties",
+        1
+    ],
+    [
+        "Florian Rusch (ZF Friedrichshafen AG)",
+        "kts",
+        5
+    ],
+    [
+        "Florian Rusch (ZF Friedrichshafen AG)",
+        "java",
+        8
+    ],
+    [
+        "Florian Rusch (ZF Friedrichshafen AG)",
+        "ServiceExtension",
+        1
+    ],
+    [
+        "Florian Rusch (ZF Friedrichshafen AG)",
+        "editorconfig",
+        1
+    ],
+    [
+        "Florian Rusch (ZF Friedrichshafen AG)",
+        "xml",
+        1
+    ],
+    [
+        "Florian Rusch (ZF Friedrichshafen AG)",
+        "yaml",
+        7
+    ],
+    [
+        "Florian Rusch (ZF Friedrichshafen AG)",
+        "md",
+        1
+    ],
+    [
+        "Florian Rusch (ZF Friedrichshafen AG)",
+        "properties",
+        1
+    ],
+    [
+        "Diego Alejandro G\u00f3mez Pardo (ZF Friedrichshafen AG)",
+        "kts",
+        2
+    ],
+    [
+        "Diego Alejandro G\u00f3mez Pardo (ZF Friedrichshafen AG)",
+        "java",
+        11
+    ],
+    [
+        "Diego Alejandro G\u00f3mez Pardo (ZF Friedrichshafen AG)",
+        "ServiceExtension",
+        1
+    ],
+    [
+        "ndr_brt",
+        "java",
+        82
+    ],
+    [
+        "ndr_brt",
+        "kts",
+        24
+    ],
+    [
+        "ndr_brt",
+        "yaml",
+        4
+    ],
+    [
+        "ndr_brt",
+        "md",
+        8
+    ],
+    [
+        "ndr_brt",
+        "properties",
+        3
+    ],
+    [
+        "ndr_brt",
+        "ServiceExtension",
+        3
+    ],
+    [
+        "ndr_brt",
+        "json",
+        2
+    ],
+    [
+        "ndr_brt",
+        "pem",
+        2
+    ],
+    [
+        "ppuetsch",
+        "java",
+        15
+    ],
+    [
+        "ppuetsch",
+        "kts",
+        1
+    ],
+    [
+        "Tim Berthold",
+        "kts",
+        4
+    ],
+    [
+        "Tim Berthold",
+        "java",
+        31
+    ],
+    [
+        "Tim Berthold",
+        "md",
+        2
+    ],
+    [
+        "Tim Berthold",
+        "ServiceExtension",
+        1
+    ],
+    [
+        "Peeyush Chandel",
+        "java",
+        11
+    ],
+    [
+        "Peeyush Chandel",
+        "kts",
+        4
+    ],
+    [
+        "Peeyush Chandel",
+        "properties",
+        1
+    ],
+    [
+        "Izabela Kulakowska",
+        "yml",
+        1
+    ],
+    [
+        "Izabela Kulakowska",
+        "java",
+        8
+    ],
+    [
+        "Izabela Kulakowska",
+        "md",
+        1
+    ],
+    [
+        "Dominik-Pinsel",
+        "java",
+        9
+    ],
+    [
+        "Benjamin Scholtes",
+        "java",
+        37
+    ],
+    [
+        "Benjamin Scholtes",
+        "kts",
+        8
+    ],
+    [
+        "Benjamin Scholtes",
+        "ServiceExtension",
+        1
+    ]
+]

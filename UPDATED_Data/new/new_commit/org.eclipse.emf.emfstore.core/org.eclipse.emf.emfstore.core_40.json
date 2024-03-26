@@ -1,0 +1,142 @@
+[
+    [
+        "Johannes Faltermeier",
+        "java",
+        1
+    ],
+    [
+        "neil",
+        "java",
+        6
+    ],
+    [
+        "Edgar Mueller",
+        "exsd",
+        1
+    ],
+    [
+        "Edgar Mueller",
+        "java",
+        1045
+    ],
+    [
+        "Edgar Mueller",
+        "properties",
+        32
+    ],
+    [
+        "Edgar Mueller",
+        "MF",
+        23
+    ],
+    [
+        "Edgar Mueller",
+        "launch",
+        9
+    ],
+    [
+        "Edgar Mueller",
+        "fuzzy",
+        5
+    ],
+    [
+        "Edgar Mueller",
+        "api_filters",
+        7
+    ],
+    [
+        "Edgar Mueller",
+        "xml",
+        11
+    ],
+    [
+        "Edgar Mueller",
+        "checkstyle",
+        12
+    ],
+    [
+        "Edgar Mueller",
+        "classpath",
+        9
+    ],
+    [
+        "Edgar Mueller",
+        "project",
+        5
+    ],
+    [
+        "Edgar Mueller",
+        "prefs",
+        42
+    ],
+    [
+        "Edgar Mueller",
+        "html",
+        6
+    ],
+    [
+        "Edgar Mueller",
+        "genmodel",
+        2
+    ],
+    [
+        "Edgar Mueller",
+        "alltests/foo",
+        1
+    ],
+    [
+        "Edgar Mueller",
+        "gitignore",
+        1
+    ],
+    [
+        "Edgar Mueller",
+        "ecore",
+        1
+    ],
+    [
+        "Edgar Mueller",
+        "orig",
+        1
+    ],
+    [
+        "Philip Langer",
+        "properties",
+        3
+    ],
+    [
+        "Philip Langer",
+        "java",
+        62
+    ],
+    [
+        "Philip Langer",
+        "ecore",
+        2
+    ],
+    [
+        "Philip Langer",
+        "MF",
+        4
+    ],
+    [
+        "Philip Langer",
+        "classpath",
+        1
+    ],
+    [
+        "Philip Langer",
+        "project",
+        1
+    ],
+    [
+        "Philip Langer",
+        "prefs",
+        3
+    ],
+    [
+        "Philip Langer",
+        "xml",
+        1
+    ]
+]

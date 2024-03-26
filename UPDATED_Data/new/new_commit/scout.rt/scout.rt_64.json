@@ -1,0 +1,392 @@
+[
+    [
+        "Claudio Guglielmo",
+        "js",
+        118
+    ],
+    [
+        "Claudio Guglielmo",
+        "html",
+        1
+    ],
+    [
+        "Claudio Guglielmo",
+        "java",
+        262
+    ],
+    [
+        "Claudio Guglielmo",
+        "css",
+        69
+    ],
+    [
+        "Claudio Guglielmo",
+        "txt",
+        3
+    ],
+    [
+        "Claudio Guglielmo",
+        "json",
+        6
+    ],
+    [
+        "Claudio Guglielmo",
+        "xml",
+        1
+    ],
+    [
+        "Claudio Guglielmo",
+        "jshintrc",
+        1
+    ],
+    [
+        "Beat Schwarzentrub",
+        "java",
+        302
+    ],
+    [
+        "Beat Schwarzentrub",
+        "css",
+        11
+    ],
+    [
+        "Beat Schwarzentrub",
+        "js",
+        78
+    ],
+    [
+        "Beat Schwarzentrub",
+        "json",
+        5
+    ],
+    [
+        "Beat Schwarzentrub",
+        "txt",
+        2
+    ],
+    [
+        "Andr\u00e9 Wegm\u00fcller",
+        "java",
+        72
+    ],
+    [
+        "Andre Wegmueller",
+        "java",
+        61
+    ],
+    [
+        "Andre Wegmueller",
+        "js",
+        67
+    ],
+    [
+        "Andre Wegmueller",
+        "css",
+        5
+    ],
+    [
+        "Andre Wegmueller",
+        "txt",
+        3
+    ],
+    [
+        "Matthias Villiger",
+        "java",
+        1195
+    ],
+    [
+        "Matthias Villiger",
+        "MF",
+        120
+    ],
+    [
+        "Matthias Villiger",
+        "classpath",
+        55
+    ],
+    [
+        "Matthias Villiger",
+        "project",
+        71
+    ],
+    [
+        "Matthias Villiger",
+        "properties",
+        97
+    ],
+    [
+        "Matthias Villiger",
+        "xml",
+        113
+    ],
+    [
+        "Matthias Villiger",
+        "html",
+        56
+    ],
+    [
+        "Matthias Villiger",
+        "product",
+        1
+    ],
+    [
+        "Matthias Villiger",
+        "txt",
+        3
+    ],
+    [
+        "Matthias Villiger",
+        "ini",
+        1
+    ],
+    [
+        "Matthias Villiger",
+        "psf",
+        5
+    ],
+    [
+        "Matthias Villiger",
+        "target",
+        9
+    ],
+    [
+        "Matthias Villiger",
+        "exsd",
+        5
+    ],
+    [
+        "Matthias Villiger",
+        "launch",
+        3
+    ],
+    [
+        "Andi Bur",
+        "merge_file_a06284",
+        1
+    ],
+    [
+        "Andi Bur",
+        "merge_file_a09772",
+        1
+    ],
+    [
+        "Andi Bur",
+        "classpath",
+        59
+    ],
+    [
+        "Andi Bur",
+        "properties",
+        19
+    ],
+    [
+        "Andi Bur",
+        "xml",
+        26
+    ],
+    [
+        "Andi Bur",
+        "java",
+        72
+    ],
+    [
+        "Andi Bur",
+        "project",
+        3
+    ],
+    [
+        "Andi Bur",
+        "gitignore",
+        1
+    ],
+    [
+        "Andi Bur",
+        "prefs",
+        1
+    ],
+    [
+        "Ivan Motsch",
+        "java",
+        538
+    ],
+    [
+        "Ivan Motsch",
+        "classpath",
+        2
+    ],
+    [
+        "Ivan Motsch",
+        "xml",
+        1
+    ],
+    [
+        "Daniel Wiehl",
+        "java",
+        391
+    ],
+    [
+        "Daniel Wiehl",
+        "xml",
+        3
+    ],
+    [
+        "Daniel Wiehl",
+        "project",
+        1
+    ],
+    [
+        "Daniel Wiehl",
+        "html",
+        1
+    ],
+    [
+        "Andreas Hoegger",
+        "java",
+        187
+    ],
+    [
+        "Andreas Hoegger",
+        "gitignore",
+        1
+    ],
+    [
+        "Andreas Hoegger",
+        "project",
+        8
+    ],
+    [
+        "Andreas Hoegger",
+        "prefs",
+        7
+    ],
+    [
+        "Andreas Hoegger",
+        "xml",
+        13
+    ],
+    [
+        "Andreas Hoegger",
+        "jsdtscope",
+        1
+    ],
+    [
+        "Andreas Hoegger",
+        "container",
+        1
+    ],
+    [
+        "Andreas Hoegger",
+        "name",
+        1
+    ],
+    [
+        "Andreas Hoegger",
+        "js",
+        449
+    ],
+    [
+        "Andreas Hoegger",
+        "css",
+        118
+    ],
+    [
+        "Andreas Hoegger",
+        "json",
+        2
+    ],
+    [
+        "Andreas Hoegger",
+        "LICENSE",
+        2
+    ],
+    [
+        "Andreas Hoegger",
+        "svg",
+        2
+    ],
+    [
+        "Andreas Hoegger",
+        "properties",
+        4
+    ],
+    [
+        "Andreas Hoegger",
+        "html",
+        2
+    ],
+    [
+        "Andreas Hoegger",
+        "nls",
+        2
+    ],
+    [
+        "Andreas Hoegger",
+        "psf",
+        1
+    ],
+    [
+        "Judith Gull",
+        "java",
+        253
+    ],
+    [
+        "Judith Gull",
+        "xml",
+        1
+    ],
+    [
+        "Judith Gull",
+        "properties",
+        1
+    ],
+    [
+        "Rainer Niedermayr",
+        "java",
+        45
+    ],
+    [
+        "Nathan Burgherr",
+        "js",
+        166
+    ],
+    [
+        "Nathan Burgherr",
+        "java",
+        3
+    ],
+    [
+        "Nathan Burgherr",
+        "css",
+        13
+    ],
+    [
+        "Christian Rusche",
+        "css",
+        8
+    ],
+    [
+        "Christian Rusche",
+        "js",
+        12
+    ],
+    [
+        "Adrian Sacchi",
+        "java",
+        93
+    ],
+    [
+        "Adrian Sacchi",
+        "txt",
+        1
+    ],
+    [
+        "Florian K\u00f6hl",
+        "java",
+        2
+    ],
+    [
+        "Oli Schmid",
+        "java",
+        12
+    ]
+]

@@ -1,0 +1,177 @@
+[
+    [
+        "Christoph L\u00e4ubrich",
+        "prefs",
+        5
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "java",
+        280
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "xml",
+        111
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "classpath",
+        1
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "gitignore",
+        1
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "project",
+        1
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "filter",
+        1
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "md",
+        6
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "yml",
+        1
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "MF",
+        20
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "properties",
+        6
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "bundles",
+        1
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "xml_expected",
+        43
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "product",
+        20
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "product_expected",
+        16
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "MF_expected",
+        10
+    ],
+    [
+        "Michael Keppler",
+        "MF",
+        2
+    ],
+    [
+        "Michael Keppler",
+        "properties",
+        2
+    ],
+    [
+        "Michael Keppler",
+        "xml",
+        3
+    ],
+    [
+        "Michael Keppler",
+        "target",
+        1
+    ],
+    [
+        "Michael Keppler",
+        "java",
+        4
+    ],
+    [
+        "Konrad Windszus",
+        "xml",
+        1
+    ],
+    [
+        "Konrad Windszus",
+        "java",
+        3
+    ],
+    [
+        "Ed Merks",
+        "md",
+        1
+    ],
+    [
+        "Ed Merks",
+        "xml",
+        9
+    ],
+    [
+        "Ed Merks",
+        "java",
+        19
+    ],
+    [
+        "Ed Merks",
+        "target",
+        1
+    ],
+    [
+        "Edoardo Luppi",
+        "java",
+        5
+    ],
+    [
+        "Hannes Wellmann",
+        "java",
+        17
+    ],
+    [
+        "Hannes Wellmann",
+        "config",
+        1
+    ],
+    [
+        "Hannes Wellmann",
+        "xml",
+        2
+    ],
+    [
+        "Hannes Wellmann",
+        "md",
+        1
+    ],
+    [
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u044a\u0440 \u041a\u0443\u0440\u0442\u0430\u043a\u043e\u0432",
+        "xml",
+        2
+    ],
+    [
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u044a\u0440 \u041a\u0443\u0440\u0442\u0430\u043a\u043e\u0432",
+        "java",
+        2
+    ],
+    [
+        "Daniel Schwering",
+        "java",
+        1
+    ]
+]

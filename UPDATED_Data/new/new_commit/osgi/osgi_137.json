@@ -1,0 +1,72 @@
+[
+    [
+        "BJ Hargrave",
+        "java",
+        148
+    ],
+    [
+        "BJ Hargrave",
+        "dal/src/org/osgi/service/dal/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "gitignore",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "prefs",
+        4
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "dmt/src/org/osgi/service/dmt/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "measurement/src/org/osgi/util/measurement/packageinfo",
+        1
+    ],
+    [
+        "Tim Ward",
+        "classpath",
+        1
+    ],
+    [
+        "Tim Ward",
+        "gitignore",
+        1
+    ],
+    [
+        "Tim Ward",
+        "project",
+        1
+    ],
+    [
+        "Tim Ward",
+        "prefs",
+        1
+    ],
+    [
+        "Tim Ward",
+        "bnd",
+        1
+    ],
+    [
+        "Tim Ward",
+        "java",
+        11
+    ],
+    [
+        "Tim Ward",
+        "pushstream/src/org/osgi/util/pushstream/packageinfo",
+        1
+    ]
+]

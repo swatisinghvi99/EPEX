@@ -1,0 +1,232 @@
+[
+    [
+        "Fabrizio Iannetti",
+        "MF",
+        2
+    ],
+    [
+        "Fabrizio Iannetti",
+        "java",
+        9
+    ],
+    [
+        "Fabrizio Iannetti",
+        "properties",
+        2
+    ],
+    [
+        "Jonah Graham",
+        "java",
+        30
+    ],
+    [
+        "Jonah Graham",
+        "api_filters",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "MF",
+        4
+    ],
+    [
+        "Jonah Graham",
+        "md",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "xml",
+        3
+    ],
+    [
+        "Jonah Graham",
+        "target",
+        1
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/depCalcProjects/test1DepCalc2/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/depCalcProjects/test1DepCalc3/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/depCalcProjects/test1DepCalcPreBuild/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "2/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "0/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "1/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "1CPP/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test21Projects/linkedFolder/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test21Projects/linkedLib/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test21Projects/multiResConfig/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test21Projects/singleFileExe/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test21Projects/twoFileSO/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test30Projects/CDTFortranTest1/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test30Projects/CDTFortranTest2/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test30Projects/TestATO/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test30Projects/copyandDeploy/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test30Projects/deleteFile/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test30Projects/inputTypeOption/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test30Projects/linkedFolder/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test30Projects/linkedLib30/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test30Projects/multiResConfig/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test30Projects/preAndPostBuildSteps/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test30Projects/rcbsBasicTest/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test30Projects/singleFileExe/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test30Projects/test with spaces/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test30Projects/test30_1/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test30Projects/test30_2/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test30Projects/testFileWithNoExtension/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test30Projects/testMacroSupportInBuildDefinitions/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test30Projects/twoFileSO/Benchmarks/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "Dbg/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "tests/resources/test40Projects/test_40/Benchmarks/dbg 2/makefile",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "java",
+        17
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "mk",
+        90
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "MF",
+        2
+    ],
+    [
+        "Torbj\u00f6rn SVENSSON",
+        "properties",
+        1
+    ],
+    [
+        "Umair Sair",
+        "java",
+        1
+    ]
+]

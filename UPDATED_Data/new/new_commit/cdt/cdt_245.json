@@ -1,0 +1,337 @@
+[
+    [
+        "Jonah Graham",
+        "cc",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "md",
+        6
+    ],
+    [
+        "Jonah Graham",
+        "java",
+        615
+    ],
+    [
+        "Jonah Graham",
+        "xml",
+        33
+    ],
+    [
+        "Jonah Graham",
+        "project",
+        16
+    ],
+    [
+        "Jonah Graham",
+        "prefs",
+        85
+    ],
+    [
+        "Jonah Graham",
+        "properties",
+        51
+    ],
+    [
+        "Jonah Graham",
+        "classpath",
+        12
+    ],
+    [
+        "Jonah Graham",
+        "MF",
+        21
+    ],
+    [
+        "Jonah Graham",
+        "html",
+        13
+    ],
+    [
+        "Jonah Graham",
+        "js",
+        30
+    ],
+    [
+        "Jonah Graham",
+        "gitignore",
+        4
+    ],
+    [
+        "Jonah Graham",
+        "json",
+        3
+    ],
+    [
+        "Jonah Graham",
+        "exsd",
+        3
+    ],
+    [
+        "Jonah Graham",
+        "cpp",
+        3
+    ],
+    [
+        "Jonah Graham",
+        "h",
+        3
+    ],
+    [
+        "Jonah Graham",
+        "core/templates/project/Qt5/Makefile",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "pro",
+        2
+    ],
+    [
+        "Jonah Graham",
+        "qml",
+        2
+    ],
+    [
+        "Jonah Graham",
+        "qrc",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "npmignore",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "core/tern-qml/Makefile",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "css",
+        2
+    ],
+    [
+        "Jonah Graham",
+        "ini",
+        4
+    ],
+    [
+        "Jonah Graham",
+        "mappings",
+        4
+    ],
+    [
+        "Jonah Graham",
+        "setup",
+        2
+    ],
+    [
+        "Jonah Graham",
+        "target",
+        4
+    ],
+    [
+        "Jonah Graham",
+        "2/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "mk",
+        32
+    ],
+    [
+        "Jonah Graham",
+        "0/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "1/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "1CPP/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "tests/resources/test21Projects/linkedFolder/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "c",
+        4
+    ],
+    [
+        "Jonah Graham",
+        "tests/resources/test21Projects/linkedLib/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "tests/resources/test21Projects/multiResConfig/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "tests/resources/test21Projects/singleFileExe/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "tests/resources/test21Projects/twoFileSO/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "unknown",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "launch",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "lock",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "sh",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "product",
+        2
+    ],
+    [
+        "Jonah Graham",
+        "htm",
+        2
+    ],
+    [
+        "15knots",
+        "md",
+        1
+    ],
+    [
+        "15knots",
+        "java",
+        2
+    ],
+    [
+        "John Dallaway",
+        "java",
+        1
+    ],
+    [
+        "Neuromancer42",
+        "awts",
+        1
+    ],
+    [
+        "Neuromancer42",
+        "java",
+        1
+    ],
+    [
+        "Umair Sair",
+        "md",
+        2
+    ],
+    [
+        "Umair Sair",
+        "java",
+        17
+    ],
+    [
+        "Moritz 'Morty' Str\u00fcbe",
+        "classpath",
+        1
+    ],
+    [
+        "Moritz 'Morty' Str\u00fcbe",
+        "project",
+        1
+    ],
+    [
+        "Moritz 'Morty' Str\u00fcbe",
+        "prefs",
+        6
+    ],
+    [
+        "Moritz 'Morty' Str\u00fcbe",
+        "MF",
+        2
+    ],
+    [
+        "Moritz 'Morty' Str\u00fcbe",
+        "html",
+        1
+    ],
+    [
+        "Moritz 'Morty' Str\u00fcbe",
+        "properties",
+        2
+    ],
+    [
+        "Moritz 'Morty' Str\u00fcbe",
+        "java",
+        7
+    ],
+    [
+        "Mat Booth",
+        "java",
+        2
+    ],
+    [
+        "Mat Booth",
+        "properties",
+        1
+    ],
+    [
+        "Erwin Waterlander",
+        "java",
+        1
+    ],
+    [
+        "John Moule",
+        "MF",
+        5
+    ],
+    [
+        "John Moule",
+        "java",
+        22
+    ],
+    [
+        "John Moule",
+        "api_filters",
+        2
+    ],
+    [
+        "John Moule",
+        "md",
+        1
+    ],
+    [
+        "John Moule",
+        "html",
+        1
+    ],
+    [
+        "John Moule",
+        "properties",
+        3
+    ]
+]

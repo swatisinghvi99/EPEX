@@ -1,0 +1,72 @@
+[
+    [
+        "Tim Verbelen",
+        "MF",
+        2
+    ],
+    [
+        "Tim Verbelen",
+        "gradle",
+        2
+    ],
+    [
+        "Tim Verbelen",
+        "java",
+        159
+    ],
+    [
+        "Tim Verbelen",
+        "concierge/src/org/osgi/dto/packageinfo",
+        1
+    ],
+    [
+        "Tim Verbelen",
+        "concierge/src/org/osgi/framework/dto/packageinfo",
+        1
+    ],
+    [
+        "Tim Verbelen",
+        "concierge/src/org/osgi/framework/hooks/weaving/packageinfo",
+        1
+    ],
+    [
+        "Tim Verbelen",
+        "concierge/src/org/osgi/framework/launch/packageinfo",
+        1
+    ],
+    [
+        "Tim Verbelen",
+        "concierge/src/org/osgi/framework/namespace/packageinfo",
+        1
+    ],
+    [
+        "Tim Verbelen",
+        "concierge/src/org/osgi/framework/packageinfo",
+        1
+    ],
+    [
+        "Tim Verbelen",
+        "concierge/src/org/osgi/framework/startlevel/dto/packageinfo",
+        1
+    ],
+    [
+        "Tim Verbelen",
+        "concierge/src/org/osgi/framework/wiring/dto/packageinfo",
+        1
+    ],
+    [
+        "Tim Verbelen",
+        "concierge/src/org/osgi/framework/wiring/packageinfo",
+        1
+    ],
+    [
+        "Tim Verbelen",
+        "concierge/src/org/osgi/resource/dto/packageinfo",
+        1
+    ],
+    [
+        "Tim Verbelen",
+        "concierge/src/org/osgi/service/resolver/packageinfo",
+        1
+    ]
+]

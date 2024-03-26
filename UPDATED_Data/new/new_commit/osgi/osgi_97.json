@@ -1,0 +1,57 @@
+[
+    [
+        "Thomas Watson",
+        "java",
+        2
+    ],
+    [
+        "David Bosschaert",
+        "xml",
+        3
+    ],
+    [
+        "David Bosschaert",
+        "java",
+        5
+    ],
+    [
+        "David Bosschaert",
+        "bnd",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        56
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        36
+    ],
+    [
+        "BJ Hargrave",
+        "classpath",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "prefs",
+        2
+    ],
+    [
+        "Felix Meschberger",
+        "bnd",
+        4
+    ],
+    [
+        "Felix Meschberger",
+        "java",
+        4
+    ],
+    [
+        "Evgeni Grigorov",
+        "java",
+        2
+    ]
+]

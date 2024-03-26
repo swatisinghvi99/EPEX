@@ -1,0 +1,247 @@
+[
+    [
+        "Ivan Frade",
+        "java",
+        38
+    ],
+    [
+        "Thomas Wolf",
+        "java",
+        129
+    ],
+    [
+        "Thomas Wolf",
+        "unknown",
+        4
+    ],
+    [
+        "Thomas Wolf",
+        "junit/BUILD",
+        2
+    ],
+    [
+        "Thomas Wolf",
+        "MF",
+        17
+    ],
+    [
+        "Thomas Wolf",
+        "xml",
+        16
+    ],
+    [
+        "Thomas Wolf",
+        "test/BUILD",
+        5
+    ],
+    [
+        "Thomas Wolf",
+        "bzl",
+        2
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/id_dsa_test",
+        2
+    ],
+    [
+        "Thomas Wolf",
+        "pub",
+        20
+    ],
+    [
+        "Thomas Wolf",
+        "api_filters",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/ssh/id_dsa",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/ssh/id_dsa_testpass",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/ssh/id_ecdsa_256",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/ssh/id_ecdsa_256_testpass",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/ssh/id_ecdsa_384",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/ssh/id_ecdsa_384_testpass",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/ssh/id_ecdsa_521",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/ssh/id_ecdsa_521_testpass",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/ssh/id_ed25519",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/ssh/id_ed25519_testpass",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/ssh/id_rsa_1024",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/ssh/id_rsa_1024_testpass",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/ssh/id_rsa_2048",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/ssh/id_rsa_2048_testpass",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/ssh/id_rsa_3072",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/ssh/id_rsa_3072_testpass",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/ssh/id_rsa_4096",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "test/tst-rsrc/org/eclipse/jgit/transport/ssh/id_rsa_4096_testpass",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "classpath",
+        4
+    ],
+    [
+        "Thomas Wolf",
+        "gitignore",
+        3
+    ],
+    [
+        "Thomas Wolf",
+        "project",
+        3
+    ],
+    [
+        "Thomas Wolf",
+        "prefs",
+        24
+    ],
+    [
+        "Thomas Wolf",
+        "html",
+        2
+    ],
+    [
+        "Thomas Wolf",
+        "properties",
+        15
+    ],
+    [
+        "Thomas Wolf",
+        "fbprefs",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "apache/BUILD",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "pgm/BUILD",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "ssh/BUILD",
+        1
+    ],
+    [
+        "David Pursehouse",
+        "java",
+        1
+    ],
+    [
+        "Jonathan Tan",
+        "java",
+        3
+    ],
+    [
+        "Jonathan Nieder",
+        "java",
+        8
+    ],
+    [
+        "H\u00e5vard Wall",
+        "java",
+        2
+    ],
+    [
+        "Masaya Suzuki",
+        "java",
+        6
+    ],
+    [
+        "Gunnar Wagenknecht",
+        "java",
+        3
+    ],
+    [
+        "Matthias Sohn",
+        "MF",
+        2
+    ],
+    [
+        "Matthias Sohn",
+        "java",
+        7
+    ],
+    [
+        "Matthias Sohn",
+        "xml",
+        1
+    ],
+    [
+        "Matthias Sohn",
+        "api_filters",
+        1
+    ]
+]

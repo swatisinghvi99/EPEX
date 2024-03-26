@@ -1,0 +1,67 @@
+[
+    [
+        "Arthur Daussy",
+        "java",
+        10
+    ],
+    [
+        "Arthur Daussy",
+        "xml",
+        2
+    ],
+    [
+        "Arthur Daussy",
+        "MF",
+        2
+    ],
+    [
+        "Axel Richard",
+        "java",
+        26
+    ],
+    [
+        "Axel Richard",
+        "test",
+        2
+    ],
+    [
+        "Axel Richard",
+        "suite",
+        2
+    ],
+    [
+        "Axel Richard",
+        "MF",
+        1
+    ],
+    [
+        "Axel Richard",
+        "ecore",
+        1
+    ],
+    [
+        "Axel Richard",
+        "genmodel",
+        1
+    ],
+    [
+        "Axel Richard",
+        "nodes",
+        2
+    ],
+    [
+        "Philip Langer",
+        "java",
+        3
+    ],
+    [
+        "Philip Langer",
+        "nodes",
+        2
+    ],
+    [
+        "Laurent Goubet",
+        "java",
+        2
+    ]
+]

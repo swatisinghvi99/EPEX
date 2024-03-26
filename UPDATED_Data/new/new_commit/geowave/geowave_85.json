@@ -1,0 +1,77 @@
+[
+    [
+        "Johnathan Garrett",
+        "java",
+        212
+    ],
+    [
+        "Johnathan Garrett",
+        "xml",
+        1
+    ],
+    [
+        "Johnathan Garrett",
+        "install4j",
+        1
+    ],
+    [
+        "Johnathan Garrett",
+        "txt",
+        8
+    ],
+    [
+        "Johnathan Garrett",
+        "adoc",
+        4
+    ],
+    [
+        "Johnathan Garrett",
+        "IngestFormatPluginProviderSpi",
+        1
+    ],
+    [
+        "Johnathan Garrett",
+        "ColumnVisibilityManagementSpi",
+        1
+    ],
+    [
+        "Johnathan Garrett",
+        "AttributeIndexProviderSpi",
+        2
+    ],
+    [
+        "Johnathan Garrett",
+        "DimensionalityTypeProviderSpi",
+        1
+    ],
+    [
+        "rfecher",
+        "java",
+        26
+    ],
+    [
+        "rfecher",
+        "xml",
+        6
+    ],
+    [
+        "rfecher",
+        "unknown",
+        1
+    ],
+    [
+        "rfecher",
+        "template",
+        1
+    ],
+    [
+        "rfecher",
+        "sh",
+        2
+    ],
+    [
+        "rfecher",
+        "PersistableRegistrySpi",
+        1
+    ]
+]

@@ -1,0 +1,367 @@
+[
+    [
+        "Albert L. Rossi",
+        "java",
+        405
+    ],
+    [
+        "Albert L. Rossi",
+        "properties",
+        12
+    ],
+    [
+        "Albert L. Rossi",
+        "xsd",
+        38
+    ],
+    [
+        "Albert L. Rossi",
+        "xml",
+        93
+    ],
+    [
+        "Albert L. Rossi",
+        "MF",
+        2
+    ],
+    [
+        "Albert L. Rossi",
+        "prefs",
+        1
+    ],
+    [
+        "Albert L. Rossi",
+        "html",
+        19
+    ],
+    [
+        "Albert L. Rossi",
+        "project",
+        1
+    ],
+    [
+        "Albert L. Rossi",
+        "txt",
+        2
+    ],
+    [
+        "Albert L. Rossi",
+        "tests/data/qstat",
+        1
+    ],
+    [
+        "Albert L. Rossi",
+        "tests/data/qstatF",
+        1
+    ],
+    [
+        "Albert L. Rossi",
+        "tests/data/qstatId",
+        1
+    ],
+    [
+        "Albert L. Rossi",
+        "tests/data/qsub",
+        1
+    ],
+    [
+        "Greg Watson",
+        "prefs",
+        3
+    ],
+    [
+        "Greg Watson",
+        "java",
+        53
+    ],
+    [
+        "Greg Watson",
+        "properties",
+        12
+    ],
+    [
+        "Greg Watson",
+        "MF",
+        6
+    ],
+    [
+        "Greg Watson",
+        "xml",
+        7
+    ],
+    [
+        "Greg Watson",
+        "classpath",
+        1
+    ],
+    [
+        "Greg Watson",
+        "options",
+        1
+    ],
+    [
+        "Greg Watson",
+        "project",
+        2
+    ],
+    [
+        "Greg Watson",
+        "html",
+        2
+    ],
+    [
+        "Greg Watson",
+        "c",
+        14
+    ],
+    [
+        "Greg Watson",
+        "cpp",
+        1
+    ],
+    [
+        "Greg Watson",
+        "am",
+        1
+    ],
+    [
+        "Greg Watson",
+        "in",
+        1
+    ],
+    [
+        "Greg Watson",
+        "m4",
+        1
+    ],
+    [
+        "Greg Watson",
+        "proxy/configure",
+        1
+    ],
+    [
+        "Greg Watson",
+        "h",
+        4
+    ],
+    [
+        "David Wootton",
+        "c",
+        3
+    ],
+    [
+        "John Eblen",
+        "java",
+        8
+    ],
+    [
+        "John Eblen",
+        "properties",
+        1
+    ],
+    [
+        "Claudia Knobloch",
+        "java",
+        16
+    ],
+    [
+        "Claudia Knobloch",
+        "pm",
+        2
+    ],
+    [
+        "Beth Tibbitts",
+        "java",
+        13
+    ],
+    [
+        "Beth Tibbitts",
+        "MF",
+        4
+    ],
+    [
+        "Beth Tibbitts",
+        "classpath",
+        2
+    ],
+    [
+        "Beth Tibbitts",
+        "cvsignore",
+        2
+    ],
+    [
+        "Beth Tibbitts",
+        "project",
+        2
+    ],
+    [
+        "Beth Tibbitts",
+        "prefs",
+        2
+    ],
+    [
+        "Beth Tibbitts",
+        "html",
+        2
+    ],
+    [
+        "Beth Tibbitts",
+        "properties",
+        4
+    ],
+    [
+        "cvs2svn",
+        "am",
+        2
+    ],
+    [
+        "cvs2svn",
+        "in",
+        4
+    ],
+    [
+        "cvs2svn",
+        "m4",
+        2
+    ],
+    [
+        "cvs2svn",
+        "proxy/configure",
+        2
+    ],
+    [
+        "cvs2svn",
+        "h",
+        5
+    ],
+    [
+        "cvs2svn",
+        "c",
+        17
+    ],
+    [
+        "cvs2svn",
+        "java",
+        121
+    ],
+    [
+        "cvs2svn",
+        "classpath",
+        11
+    ],
+    [
+        "cvs2svn",
+        "project",
+        19
+    ],
+    [
+        "cvs2svn",
+        "MF",
+        13
+    ],
+    [
+        "cvs2svn",
+        "properties",
+        50
+    ],
+    [
+        "cvs2svn",
+        "xml",
+        23
+    ],
+    [
+        "cvs2svn",
+        "cvsignore",
+        4
+    ],
+    [
+        "cvs2svn",
+        "html",
+        27
+    ],
+    [
+        "cvs2svn",
+        "prefs",
+        7
+    ],
+    [
+        "cvs2svn",
+        "inf",
+        2
+    ],
+    [
+        "cvs2svn",
+        "ini",
+        1
+    ],
+    [
+        "cvs2svn",
+        "mappings",
+        1
+    ],
+    [
+        "cvs2svn",
+        "css",
+        1
+    ],
+    [
+        "cvs2svn",
+        "launch",
+        1
+    ],
+    [
+        "cvs2svn",
+        "txt",
+        15
+    ],
+    [
+        "cvs2svn",
+        "cproject",
+        1
+    ],
+    [
+        "cvs2svn",
+        "proxy/COPYING",
+        1
+    ],
+    [
+        "cvs2svn",
+        "proxy/INSTALL",
+        1
+    ],
+    [
+        "cvs2svn",
+        "proxy/compile",
+        1
+    ],
+    [
+        "cvs2svn",
+        "guess",
+        1
+    ],
+    [
+        "cvs2svn",
+        "sub",
+        1
+    ],
+    [
+        "cvs2svn",
+        "proxy/depcomp",
+        1
+    ],
+    [
+        "cvs2svn",
+        "proxy/install-sh",
+        1
+    ],
+    [
+        "cvs2svn",
+        "proxy/missing",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "java",
+        2
+    ]
+]

@@ -1,0 +1,87 @@
+[
+    [
+        "Gabriel Roldan",
+        "java",
+        122
+    ],
+    [
+        "Gabriel Roldan",
+        "gitignore",
+        2
+    ],
+    [
+        "Gabriel Roldan",
+        "rst",
+        5
+    ],
+    [
+        "Gabriel Roldan",
+        "xml",
+        35
+    ],
+    [
+        "Gabriel Roldan",
+        "feature",
+        14
+    ],
+    [
+        "Gabriel Roldan",
+        "RepositoryInitializer",
+        1
+    ],
+    [
+        "Gabriel Roldan",
+        "RepositoryResolver",
+        1
+    ],
+    [
+        "Gabriel Roldan",
+        "py",
+        8
+    ],
+    [
+        "Johnathan Garrett",
+        "java",
+        196
+    ],
+    [
+        "Johnathan Garrett",
+        "RepositoryInitializer",
+        2
+    ],
+    [
+        "Johnathan Garrett",
+        "RepositoryResolver",
+        2
+    ],
+    [
+        "Johnathan Garrett",
+        "rst",
+        1
+    ],
+    [
+        "Johnathan Garrett",
+        "feature",
+        6
+    ],
+    [
+        "Erik Merkle",
+        "java",
+        24
+    ],
+    [
+        "Erik Merkle",
+        "xml",
+        1
+    ],
+    [
+        "Erik Merkle",
+        "CommandRepresentationFactory",
+        1
+    ],
+    [
+        "Erik Merkle",
+        "DataStoreImportContextService",
+        1
+    ]
+]

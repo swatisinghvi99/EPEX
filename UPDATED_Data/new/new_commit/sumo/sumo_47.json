@@ -1,0 +1,282 @@
+[
+    [
+        "Michael Behrisch",
+        "cpp",
+        40
+    ],
+    [
+        "Michael Behrisch",
+        "h",
+        30
+    ],
+    [
+        "Michael Behrisch",
+        "py",
+        81
+    ],
+    [
+        "Michael Behrisch",
+        "complex",
+        3
+    ],
+    [
+        "Michael Behrisch",
+        "txt",
+        10
+    ],
+    [
+        "Michael Behrisch",
+        "i",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "libsumogui",
+        3
+    ],
+    [
+        "Michael Behrisch",
+        "veh",
+        2
+    ],
+    [
+        "Michael Behrisch",
+        "csv",
+        4
+    ],
+    [
+        "Michael Behrisch",
+        "md",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "cs",
+        7
+    ],
+    [
+        "Michael Behrisch",
+        "MIT",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "hpp",
+        1
+    ],
+    [
+        "namdre",
+        "cpp",
+        233
+    ],
+    [
+        "namdre",
+        "h",
+        95
+    ],
+    [
+        "namdre",
+        "py",
+        75
+    ],
+    [
+        "namdre",
+        "java",
+        3
+    ],
+    [
+        "namdre",
+        "complex",
+        156
+    ],
+    [
+        "namdre",
+        "meso",
+        33
+    ],
+    [
+        "namdre",
+        "xml",
+        19
+    ],
+    [
+        "namdre",
+        "sumocfg",
+        3
+    ],
+    [
+        "namdre",
+        "xsd",
+        5
+    ],
+    [
+        "namdre",
+        "txt",
+        2
+    ],
+    [
+        "namdre",
+        "sumo",
+        1
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "py",
+        972
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "netedit",
+        4743
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "neteditcheckoutput",
+        483
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "xml",
+        297
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "cpp",
+        658
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "pyproj",
+        3
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "h",
+        352
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "txt",
+        12
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "trip_junctions",
+        2
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "netccfg",
+        7
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "xpm",
+        7
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "sumocfg",
+        6
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "basic",
+        1
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "busstop",
+        1
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "chargingstation",
+        1
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "containerstop",
+        1
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "lane",
+        1
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "parkingarea",
+        1
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "xsd",
+        1
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "sln",
+        1
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "tools",
+        2
+    ],
+    [
+        "Matthias Schwamborn",
+        "cpp",
+        11
+    ],
+    [
+        "Matthias Schwamborn",
+        "h",
+        13
+    ],
+    [
+        "Matthias Schwamborn",
+        "complex",
+        4
+    ],
+    [
+        "Matthias Schwamborn",
+        "py",
+        6
+    ],
+    [
+        "Matthias Schwamborn",
+        "java",
+        2
+    ],
+    [
+        "Matthias Schwamborn",
+        "meso",
+        2
+    ],
+    [
+        "Matthias Schwamborn",
+        "xml",
+        2
+    ],
+    [
+        "Alexander Brummer",
+        "py",
+        1
+    ],
+    [
+        "Mirko Barthauer",
+        "cpp",
+        2
+    ],
+    [
+        "Mirko Barthauer",
+        "h",
+        2
+    ],
+    [
+        "Angelo Banse",
+        "cpp",
+        1
+    ]
+]

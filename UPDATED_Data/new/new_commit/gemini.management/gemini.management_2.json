@@ -1,0 +1,42 @@
+[
+    [
+        "Mike Keith",
+        "java",
+        10
+    ],
+    [
+        "Mike Keith",
+        "html",
+        6
+    ],
+    [
+        "Mike Keith",
+        "jmx/src/org/osgi/jmx/framework/packageinfo",
+        1
+    ],
+    [
+        "Mike Keith",
+        "jmx/src/org/osgi/jmx/packageinfo",
+        1
+    ],
+    [
+        "Mike Keith",
+        "jmx/src/org/osgi/jmx/service/cm/packageinfo",
+        1
+    ],
+    [
+        "Mike Keith",
+        "jmx/src/org/osgi/jmx/service/permissionadmin/packageinfo",
+        1
+    ],
+    [
+        "Mike Keith",
+        "jmx/src/org/osgi/jmx/service/provisioning/packageinfo",
+        1
+    ],
+    [
+        "Mike Keith",
+        "jmx/src/org/osgi/jmx/service/useradmin/packageinfo",
+        1
+    ]
+]

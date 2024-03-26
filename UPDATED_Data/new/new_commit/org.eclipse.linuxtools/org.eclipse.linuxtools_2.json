@@ -1,0 +1,237 @@
+[
+    [
+        "Jeff Johnston",
+        "java",
+        17
+    ],
+    [
+        "Jeff Johnston",
+        "javaparser/ChangeLog",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "xml",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "libhover/ChangeLog",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "unknown",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "autotools/ChangeLog",
+        5
+    ],
+    [
+        "Jeff Johnston",
+        "MF",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "properties",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "tests/ChangeLog",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "prefs",
+        4
+    ],
+    [
+        "Alexander Kurtakov",
+        "rpmlint/ChangeLog",
+        3
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        96
+    ],
+    [
+        "Alexander Kurtakov",
+        "properties",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "editor/ChangeLog",
+        15
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "xml",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "rpmstubby/ChangeLog",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/ChangeLog",
+        8
+    ],
+    [
+        "Kent Sebastian",
+        "MF",
+        1
+    ],
+    [
+        "Kent Sebastian",
+        "properties",
+        4
+    ],
+    [
+        "Kent Sebastian",
+        "xml",
+        3
+    ],
+    [
+        "Kent Sebastian",
+        "java",
+        15
+    ],
+    [
+        "Kent Sebastian",
+        "cc",
+        1
+    ],
+    [
+        "Kent Sebastian",
+        "h",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "cachegrind/ChangeLog",
+        3
+    ],
+    [
+        "Elliott Baron",
+        "java",
+        95
+    ],
+    [
+        "Elliott Baron",
+        "core/ChangeLog",
+        3
+    ],
+    [
+        "Elliott Baron",
+        "MF",
+        8
+    ],
+    [
+        "Elliott Baron",
+        "properties",
+        10
+    ],
+    [
+        "Elliott Baron",
+        "launch/ChangeLog",
+        4
+    ],
+    [
+        "Elliott Baron",
+        "xml",
+        52
+    ],
+    [
+        "Elliott Baron",
+        "exsd",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "tests/ChangeLog",
+        7
+    ],
+    [
+        "Elliott Baron",
+        "massif/ChangeLog",
+        4
+    ],
+    [
+        "Elliott Baron",
+        "supp",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "c",
+        3
+    ],
+    [
+        "Elliott Baron",
+        "memcheck/ChangeLog",
+        3
+    ],
+    [
+        "Elliott Baron",
+        "test-feature/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "project",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "ui/ChangeLog",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "txt",
+        22
+    ],
+    [
+        "Elliott Baron",
+        "tests/valgrindFiles/testValgrindError/errorCode",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "tests/valgrindFiles/testValgrindError/template_errorCode",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "libhover/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "java",
+        2
+    ],
+    [
+        "Andrew Overholt",
+        "unknown",
+        1
+    ]
+]

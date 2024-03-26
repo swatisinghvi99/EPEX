@@ -1,0 +1,137 @@
+[
+    [
+        "Simon Hoinkis",
+        "txt",
+        8
+    ],
+    [
+        "Simon Hoinkis",
+        "bazel",
+        1
+    ],
+    [
+        "Simon Hoinkis",
+        "hpp",
+        23
+    ],
+    [
+        "Simon Hoinkis",
+        "inl",
+        15
+    ],
+    [
+        "Simon Hoinkis",
+        "cpp",
+        9
+    ],
+    [
+        "Simon Hoinkis",
+        "cmake",
+        1
+    ],
+    [
+        "Simon Hoinkis",
+        "md",
+        1
+    ],
+    [
+        "shaik saifulla",
+        "hpp",
+        6
+    ],
+    [
+        "shaik saifulla",
+        "inl",
+        5
+    ],
+    [
+        "shaik saifulla",
+        "cpp",
+        4
+    ],
+    [
+        "Marika Lehmann",
+        "hpp",
+        88
+    ],
+    [
+        "Marika Lehmann",
+        "inl",
+        28
+    ],
+    [
+        "Marika Lehmann",
+        "cpp",
+        38
+    ],
+    [
+        "Marika Lehmann",
+        "txt",
+        7
+    ],
+    [
+        "Marika Lehmann",
+        "md",
+        12
+    ],
+    [
+        "Marika Lehmann",
+        "bazel",
+        2
+    ],
+    [
+        "Marika Lehmann",
+        "yml",
+        1
+    ],
+    [
+        "Christian Eltzschig",
+        "hpp",
+        12
+    ],
+    [
+        "Christian Eltzschig",
+        "inl",
+        5
+    ],
+    [
+        "Christian Eltzschig",
+        "cpp",
+        18
+    ],
+    [
+        "Christian Eltzschig",
+        "txt",
+        2
+    ],
+    [
+        "Christian Eltzschig",
+        "sh",
+        1
+    ],
+    [
+        "Mathias Kraus",
+        "txt",
+        2
+    ],
+    [
+        "Mathias Kraus",
+        "md",
+        1
+    ],
+    [
+        "Mathias Kraus",
+        "cpp",
+        14
+    ],
+    [
+        "Mathias Kraus",
+        "hpp",
+        7
+    ],
+    [
+        "Mathias Kraus",
+        "inl",
+        3
+    ]
+]

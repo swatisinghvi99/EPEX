@@ -1,0 +1,172 @@
+[
+    [
+        "Hoda Amer",
+        "core/ChangeLog",
+        4
+    ],
+    [
+        "Hoda Amer",
+        "ui/ChangeLog",
+        10
+    ],
+    [
+        "Hoda Amer",
+        "java",
+        130
+    ],
+    [
+        "Hoda Amer",
+        "properties",
+        2
+    ],
+    [
+        "Hoda Amer",
+        "core/parser/ChangeLog-parser",
+        3
+    ],
+    [
+        "Hoda Amer",
+        "tests/ChangeLog",
+        10
+    ],
+    [
+        "Hoda Amer",
+        "options",
+        3
+    ],
+    [
+        "Hoda Amer",
+        "cpp",
+        26
+    ],
+    [
+        "Hoda Amer",
+        "classpath",
+        1
+    ],
+    [
+        "Hoda Amer",
+        "project",
+        1
+    ],
+    [
+        "Hoda Amer",
+        "xml",
+        1
+    ],
+    [
+        "Hoda Amer",
+        "h",
+        10
+    ],
+    [
+        "John Camelon",
+        "core/parser/ChangeLog-parser",
+        15
+    ],
+    [
+        "John Camelon",
+        "java",
+        259
+    ],
+    [
+        "John Camelon",
+        "tests/ChangeLog",
+        11
+    ],
+    [
+        "John Camelon",
+        "ui/ChangeLog",
+        4
+    ],
+    [
+        "John Camelon",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        3
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "core/ChangeLog",
+        5
+    ],
+    [
+        "Alain Magloire",
+        "java",
+        60
+    ],
+    [
+        "Alain Magloire",
+        "ui/ChangeLog",
+        3
+    ],
+    [
+        "Alain Magloire",
+        "launch/ChangeLog",
+        1
+    ],
+    [
+        "Sebastien Marineau",
+        "c",
+        5
+    ],
+    [
+        "Sebastien Marineau",
+        "h",
+        2
+    ],
+    [
+        "Sebastien Marineau",
+        "cpp",
+        2
+    ],
+    [
+        "David Inglis",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "David Inglis",
+        "java",
+        52
+    ],
+    [
+        "David Inglis",
+        "properties",
+        3
+    ],
+    [
+        "David Inglis",
+        "classpath",
+        1
+    ],
+    [
+        "David Inglis",
+        "xml",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "xml",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        6
+    ]
+]

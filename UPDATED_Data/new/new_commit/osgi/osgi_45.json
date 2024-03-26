@@ -1,0 +1,32 @@
+[
+    [
+        "Stoyan Boshev",
+        "java",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        16
+    ],
+    [
+        "BJ Hargrave",
+        "xml/src/org/osgi/util/xml/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "html",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "component/src/org/osgi/service/component/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        1
+    ]
+]

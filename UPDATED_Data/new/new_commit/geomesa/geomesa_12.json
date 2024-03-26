@@ -1,0 +1,97 @@
+[
+    [
+        "Anthony Fox",
+        "java",
+        3
+    ],
+    [
+        "Anthony Fox",
+        "scala",
+        91
+    ],
+    [
+        "Anthony Fox",
+        "md",
+        1
+    ],
+    [
+        "Anthony Fox",
+        "xml",
+        7
+    ],
+    [
+        "Anthony Fox",
+        "SimpleFeatureConverterFactory",
+        4
+    ],
+    [
+        "Anthony Fox",
+        "TransformerFunctionFactory",
+        2
+    ],
+    [
+        "Anthony Fox",
+        "avsc",
+        1
+    ],
+    [
+        "Anthony Fox",
+        "conf",
+        5
+    ],
+    [
+        "Anthony Fox",
+        "csv",
+        1
+    ],
+    [
+        "Jake Kenneally",
+        "scala",
+        6
+    ],
+    [
+        "Michael Matthews",
+        "scala",
+        5
+    ],
+    [
+        "Emilio Lahr-Vivaz",
+        "scala",
+        54
+    ],
+    [
+        "Emilio Lahr-Vivaz",
+        "xml",
+        5
+    ],
+    [
+        "Emilio Lahr-Vivaz",
+        "list",
+        1
+    ],
+    [
+        "Emilio Lahr-Vivaz",
+        "sh",
+        1
+    ],
+    [
+        "Emilio Lahr-Vivaz",
+        "md",
+        1
+    ],
+    [
+        "Andrew Hulbert",
+        "scala",
+        24
+    ],
+    [
+        "Andrew Hulbert",
+        "md",
+        1
+    ],
+    [
+        "Jim Hughes",
+        "scala",
+        1
+    ]
+]

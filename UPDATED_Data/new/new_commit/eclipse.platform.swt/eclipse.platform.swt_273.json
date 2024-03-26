@@ -1,0 +1,177 @@
+[
+    [
+        "Hannes Wellmann",
+        "java",
+        23
+    ],
+    [
+        "Hannes Wellmann",
+        "unknown",
+        2
+    ],
+    [
+        "Hannes Wellmann",
+        "xml",
+        6
+    ],
+    [
+        "Hannes Wellmann",
+        "classpath_cocoa_aarch64",
+        1
+    ],
+    [
+        "Hannes Wellmann",
+        "classpath_cocoa_x86_64",
+        2
+    ],
+    [
+        "Hannes Wellmann",
+        "classpath_gtk",
+        2
+    ],
+    [
+        "Hannes Wellmann",
+        "classpath_win32",
+        2
+    ],
+    [
+        "Hannes Wellmann",
+        "gitignore",
+        2
+    ],
+    [
+        "Hannes Wellmann",
+        "properties",
+        3
+    ],
+    [
+        "Hannes Wellmann",
+        "yml",
+        2
+    ],
+    [
+        "Hannes Wellmann",
+        "classpath_cocoa",
+        1
+    ],
+    [
+        "Hannes Wellmann",
+        "prefs",
+        9
+    ],
+    [
+        "Hannes Wellmann",
+        "project",
+        8
+    ],
+    [
+        "Hannes Wellmann",
+        "setup",
+        1
+    ],
+    [
+        "Hannes Wellmann",
+        "classpath",
+        1
+    ],
+    [
+        "Hannes Wellmann",
+        "api_filters",
+        1
+    ],
+    [
+        "Hannes Wellmann",
+        "MF",
+        4
+    ],
+    [
+        "Hannes Wellmann",
+        "md",
+        4
+    ],
+    [
+        "Elsa Zacharia",
+        "java",
+        3
+    ],
+    [
+        "Phillipus",
+        "java",
+        1
+    ],
+    [
+        "Heiko Klare",
+        "java",
+        16
+    ],
+    [
+        "J\u00f6rg Kubitz",
+        "java",
+        4
+    ],
+    [
+        "J\u00f6rg Kubitz",
+        "classpath_cocoa",
+        1
+    ],
+    [
+        "J\u00f6rg Kubitz",
+        "classpath_gtk",
+        1
+    ],
+    [
+        "J\u00f6rg Kubitz",
+        "md",
+        1
+    ],
+    [
+        "Patrick Tief",
+        "java",
+        3
+    ],
+    [
+        "Eclipse Releng Bot",
+        "jnilib",
+        6
+    ],
+    [
+        "Eclipse Releng Bot",
+        "dll",
+        4
+    ],
+    [
+        "Eclipse Releng Bot",
+        "java",
+        1
+    ],
+    [
+        "Eclipse Releng Bot",
+        "mak",
+        1
+    ],
+    [
+        "Deepika Udayagiri",
+        "java",
+        1
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "properties",
+        7
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "xml",
+        1
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "java",
+        1
+    ],
+    [
+        "Alexandr Miloslavskiy",
+        "java",
+        13
+    ]
+]

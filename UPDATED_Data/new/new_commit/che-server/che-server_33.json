@@ -1,0 +1,607 @@
+[
+    [
+        "Sergii Kabashniuk",
+        "java",
+        22
+    ],
+    [
+        "Sergii Kabashniuk",
+        "json",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "unknown",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "lock",
+        2
+    ],
+    [
+        "Sergii Kabashniuk",
+        "toml",
+        2
+    ],
+    [
+        "Sergii Kabashniuk",
+        "go",
+        42
+    ],
+    [
+        "Sergii Kabashniuk",
+        "md",
+        3
+    ],
+    [
+        "Sergii Kabashniuk",
+        "gitignore",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "yml",
+        2
+    ],
+    [
+        "Sergii Kabashniuk",
+        "com/eclipse/che-go-jsonrpc/LICENSE",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "com/eclipse/che-lib/LICENSE",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "bash",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "xml",
+        5
+    ],
+    [
+        "Sergii Kabashniuk",
+        "sh",
+        2
+    ],
+    [
+        "Sergii Kabashniuk",
+        "yaml",
+        1
+    ],
+    [
+        "Sergii Leshchenko",
+        "java",
+        37
+    ],
+    [
+        "Oleksandr Garagatyi",
+        "java",
+        15
+    ],
+    [
+        "Dmytro Kulieshov",
+        "java",
+        13
+    ],
+    [
+        "Florent BENOIT",
+        "java",
+        1
+    ],
+    [
+        "Florent BENOIT",
+        "unknown",
+        4
+    ],
+    [
+        "Florent BENOIT",
+        "ts",
+        4
+    ],
+    [
+        "Florent BENOIT",
+        "yarnclean",
+        1
+    ],
+    [
+        "Florent BENOIT",
+        "sh",
+        3
+    ],
+    [
+        "Florent BENOIT",
+        "json",
+        1
+    ],
+    [
+        "Artem Zatsarynnyi",
+        "java",
+        5
+    ],
+    [
+        "Sergey Skorik",
+        "java",
+        143
+    ],
+    [
+        "Sergey Skorik",
+        "xml",
+        8
+    ],
+    [
+        "Sergey Skorik",
+        "properties",
+        1
+    ],
+    [
+        "Sergey Skorik",
+        "jsp",
+        2
+    ],
+    [
+        "Sergey Skorik",
+        "json",
+        2
+    ],
+    [
+        "Igor Ohrimenko",
+        "java",
+        40
+    ],
+    [
+        "Igor Ohrimenko",
+        "unknown",
+        1
+    ],
+    [
+        "Igor Ohrimenko",
+        "xml",
+        2
+    ],
+    [
+        "Vitalii Parfonov",
+        "xml",
+        9
+    ],
+    [
+        "Vitalii Parfonov",
+        "json",
+        2
+    ],
+    [
+        "Vitalii Parfonov",
+        "sh",
+        1
+    ],
+    [
+        "Vitalii Parfonov",
+        "java",
+        39
+    ],
+    [
+        "Vitalii Parfonov",
+        "properties",
+        1
+    ],
+    [
+        "Roman Nikitenko",
+        "java",
+        3
+    ],
+    [
+        "Katka92",
+        "java",
+        3
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "java",
+        10
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "xml",
+        1
+    ],
+    [
+        "Thomas M\u00e4der",
+        "xml",
+        105
+    ],
+    [
+        "Thomas M\u00e4der",
+        "java",
+        3251
+    ],
+    [
+        "Thomas M\u00e4der",
+        "json",
+        5
+    ],
+    [
+        "Thomas M\u00e4der",
+        "sh",
+        5
+    ],
+    [
+        "Thomas M\u00e4der",
+        "txt",
+        6
+    ],
+    [
+        "Thomas M\u00e4der",
+        "properties",
+        34
+    ],
+    [
+        "Thomas M\u00e4der",
+        "html",
+        12
+    ],
+    [
+        "Thomas M\u00e4der",
+        "sql",
+        12
+    ],
+    [
+        "Thomas M\u00e4der",
+        "profile",
+        1
+    ],
+    [
+        "Thomas M\u00e4der",
+        "css",
+        1
+    ],
+    [
+        "Valeriy Svydenko",
+        "sh",
+        1
+    ],
+    [
+        "Valeriy Svydenko",
+        "xml",
+        49
+    ],
+    [
+        "Valeriy Svydenko",
+        "java",
+        1734
+    ],
+    [
+        "Valeriy Svydenko",
+        "unknown",
+        5
+    ],
+    [
+        "Valeriy Svydenko",
+        "properties",
+        4
+    ],
+    [
+        "Valeriy Svydenko",
+        "txt",
+        6
+    ],
+    [
+        "Valeriy Svydenko",
+        "html",
+        2
+    ],
+    [
+        "Valeriy Svydenko",
+        "css",
+        4
+    ],
+    [
+        "Valeriy Svydenko",
+        "svg",
+        3
+    ],
+    [
+        "Valeriy Svydenko",
+        "gitignore",
+        1
+    ],
+    [
+        "Valeriy Svydenko",
+        "md",
+        1
+    ],
+    [
+        "Valeriy Svydenko",
+        "jsp",
+        2
+    ],
+    [
+        "Mykola Morhun",
+        "java",
+        17
+    ],
+    [
+        "Mykola Morhun",
+        "xml",
+        2
+    ],
+    [
+        "Mykola Morhun",
+        "properties",
+        1
+    ],
+    [
+        "Mykola Morhun",
+        "css",
+        1
+    ],
+    [
+        "Mykola Morhun",
+        "svg",
+        2
+    ],
+    [
+        "Anatoliy Bazko",
+        "sh",
+        5
+    ],
+    [
+        "Anatoliy Bazko",
+        "java",
+        323
+    ],
+    [
+        "Anatoliy Bazko",
+        "xml",
+        51
+    ],
+    [
+        "Anatoliy Bazko",
+        "json",
+        6
+    ],
+    [
+        "Anatoliy Bazko",
+        "sql",
+        13
+    ],
+    [
+        "Anatoliy Bazko",
+        "css",
+        4
+    ],
+    [
+        "Anatoliy Bazko",
+        "svg",
+        6
+    ],
+    [
+        "Anatoliy Bazko",
+        "txt",
+        1
+    ],
+    [
+        "Anatoliy Bazko",
+        "less",
+        1
+    ],
+    [
+        "Anatoliy Bazko",
+        "unknown",
+        1
+    ],
+    [
+        "Anatoliy Bazko",
+        "html",
+        1
+    ],
+    [
+        "Anatoliy Bazko",
+        "js",
+        1
+    ],
+    [
+        "Anatoliy Bazko",
+        "jsp",
+        2
+    ],
+    [
+        "Dmitrii Bocharov",
+        "java",
+        12
+    ],
+    [
+        "Igor Vinokur",
+        "java",
+        95
+    ],
+    [
+        "Igor Vinokur",
+        "unknown",
+        2
+    ],
+    [
+        "Igor Vinokur",
+        "json",
+        1
+    ],
+    [
+        "Igor Vinokur",
+        "properties",
+        1
+    ],
+    [
+        "Igor Vinokur",
+        "xml",
+        1
+    ],
+    [
+        "Igor Vinokur",
+        "gitignore",
+        5
+    ],
+    [
+        "Josh Pinkney",
+        "java",
+        817
+    ],
+    [
+        "Josh Pinkney",
+        "profile",
+        1
+    ],
+    [
+        "Josh Pinkney",
+        "css",
+        1
+    ],
+    [
+        "Josh Pinkney",
+        "properties",
+        21
+    ],
+    [
+        "Josh Pinkney",
+        "xml",
+        4
+    ],
+    [
+        "Josh Pinkney",
+        "sh",
+        1
+    ],
+    [
+        "Josh Pinkney",
+        "json",
+        1
+    ],
+    [
+        "Victor V. Rubezhny",
+        "java",
+        28
+    ],
+    [
+        "Victor V. Rubezhny",
+        "xml",
+        2
+    ],
+    [
+        "Aleksandr Shmaraiev",
+        "java",
+        14
+    ],
+    [
+        "Yevhen Vydolob",
+        "js",
+        1
+    ],
+    [
+        "Vladyslav Zhukovskyi",
+        "java",
+        8
+    ],
+    [
+        "RomanNikitenko",
+        "java",
+        23
+    ],
+    [
+        "RomanNikitenko",
+        "properties",
+        2
+    ],
+    [
+        "Oleksii Orel",
+        "ts",
+        2
+    ],
+    [
+        "Angel Misevski",
+        "java",
+        24
+    ],
+    [
+        "Radim Hopp",
+        "java",
+        22
+    ],
+    [
+        "Radim Hopp",
+        "xml",
+        1
+    ],
+    [
+        "Maxim Musienko",
+        "java",
+        5
+    ],
+    [
+        "Max Shaposhnik",
+        "java",
+        18
+    ],
+    [
+        "Dmytro Nochevnov",
+        "sh",
+        1
+    ],
+    [
+        "Dmytro Nochevnov",
+        "java",
+        30
+    ],
+    [
+        "Dmytro Nochevnov",
+        "md",
+        1
+    ],
+    [
+        "David Festal",
+        "html",
+        1
+    ],
+    [
+        "David Festal",
+        "js",
+        1
+    ],
+    [
+        "David Festal",
+        "ts",
+        1
+    ],
+    [
+        "David Festal",
+        "java",
+        2
+    ],
+    [
+        "Tibor Dancs",
+        "java",
+        7
+    ],
+    [
+        "Aur\u00e9lien Pupier",
+        "java",
+        3
+    ],
+    [
+        "Florent Benoit",
+        "unknown",
+        2
+    ],
+    [
+        "Florent Benoit",
+        "ts",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "sh",
+        3
+    ]
+]

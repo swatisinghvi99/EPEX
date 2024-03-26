@@ -1,0 +1,657 @@
+[
+    [
+        "Oleksii Kurinnyi",
+        "ts",
+        107
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "html",
+        25
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "styl",
+        10
+    ],
+    [
+        "Vladyslav Zhukovskyi",
+        "java",
+        22
+    ],
+    [
+        "Oleksandr Garagatyi",
+        "html",
+        3
+    ],
+    [
+        "Oleksandr Garagatyi",
+        "java",
+        360
+    ],
+    [
+        "Oleksandr Garagatyi",
+        "go",
+        3
+    ],
+    [
+        "Oleksandr Garagatyi",
+        "github/CODEOWNERS",
+        1
+    ],
+    [
+        "Oleksandr Garagatyi",
+        "xml",
+        22
+    ],
+    [
+        "Oleksandr Garagatyi",
+        "txt",
+        1
+    ],
+    [
+        "Oleksandr Garagatyi",
+        "bats",
+        1
+    ],
+    [
+        "Oleksandr Garagatyi",
+        "ts",
+        4
+    ],
+    [
+        "Artem Zatsarynnyi",
+        "java",
+        39
+    ],
+    [
+        "Artem Zatsarynnyi",
+        "xml",
+        154
+    ],
+    [
+        "Artem Zatsarynnyi",
+        "properties",
+        2
+    ],
+    [
+        "Artem Zatsarynnyi",
+        "txt",
+        1
+    ],
+    [
+        "Artem Zatsarynnyi",
+        "json",
+        1
+    ],
+    [
+        "Roman Nikitenko",
+        "java",
+        26
+    ],
+    [
+        "Roman Nikitenko",
+        "xml",
+        1
+    ],
+    [
+        "Sergii Leshchenko",
+        "java",
+        205
+    ],
+    [
+        "Sergii Leshchenko",
+        "xml",
+        10
+    ],
+    [
+        "Sergii Leshchenko",
+        "ts",
+        2
+    ],
+    [
+        "Sergii Leshchenko",
+        "sql",
+        1
+    ],
+    [
+        "Sergii Leshchenko",
+        "sh",
+        1
+    ],
+    [
+        "Sergii Leshchenko",
+        "go",
+        4
+    ],
+    [
+        "Igor Ohrimenko",
+        "java",
+        44
+    ],
+    [
+        "Sergey Skorik",
+        "java",
+        51
+    ],
+    [
+        "Sergey Skorik",
+        "html",
+        1
+    ],
+    [
+        "Sergey Skorik",
+        "txt",
+        2
+    ],
+    [
+        "Sergey Skorik",
+        "xml",
+        4
+    ],
+    [
+        "Dmytro Nochevnov",
+        "java",
+        50
+    ],
+    [
+        "Dmytro Nochevnov",
+        "xml",
+        3
+    ],
+    [
+        "Dmytro Nochevnov",
+        "sh",
+        2
+    ],
+    [
+        "Dmytro Nochevnov",
+        "json",
+        1
+    ],
+    [
+        "Florent BENOIT",
+        "java",
+        4946
+    ],
+    [
+        "Florent BENOIT",
+        "xml",
+        87
+    ],
+    [
+        "Sergii Kabashniuk",
+        "xml",
+        66
+    ],
+    [
+        "Sergii Kabashniuk",
+        "bat",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "sh",
+        3
+    ],
+    [
+        "Sergii Kabashniuk",
+        "unknown",
+        5
+    ],
+    [
+        "Sergii Kabashniuk",
+        "txt",
+        3
+    ],
+    [
+        "Sergii Kabashniuk",
+        "md",
+        9
+    ],
+    [
+        "Sergii Kabashniuk",
+        "java",
+        241
+    ],
+    [
+        "Sergii Kabashniuk",
+        "svg",
+        34
+    ],
+    [
+        "Sergii Kabashniuk",
+        "js",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "properties",
+        2
+    ],
+    [
+        "Sergii Kabashniuk",
+        "css",
+        2
+    ],
+    [
+        "Anton Korneta",
+        "java",
+        49
+    ],
+    [
+        "Anton Korneta",
+        "properties",
+        2
+    ],
+    [
+        "Anton Korneta",
+        "env",
+        1
+    ],
+    [
+        "Anton Korneta",
+        "yml",
+        1
+    ],
+    [
+        "Anton Korneta",
+        "sh",
+        1
+    ],
+    [
+        "Anton Korneta",
+        "xml",
+        1
+    ],
+    [
+        "Roman Iuvshyn",
+        "env",
+        1
+    ],
+    [
+        "Roman Iuvshyn",
+        "pp",
+        1
+    ],
+    [
+        "Roman Iuvshyn",
+        "erb",
+        1
+    ],
+    [
+        "Roman Iuvshyn",
+        "java",
+        1
+    ],
+    [
+        "Anna Shumilova",
+        "ts",
+        7
+    ],
+    [
+        "Anna Shumilova",
+        "html",
+        2
+    ],
+    [
+        "Anna Shumilova",
+        "styl",
+        2
+    ],
+    [
+        "Anatoliy Bazko",
+        "java",
+        169
+    ],
+    [
+        "Anatoliy Bazko",
+        "css",
+        5
+    ],
+    [
+        "Anatoliy Bazko",
+        "xml",
+        13
+    ],
+    [
+        "Anatoliy Bazko",
+        "properties",
+        4
+    ],
+    [
+        "Anatoliy Bazko",
+        "sh",
+        3
+    ],
+    [
+        "Anatoliy Bazko",
+        "svg",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "xml",
+        40
+    ],
+    [
+        "Max Shaposhnik",
+        "info",
+        2
+    ],
+    [
+        "Max Shaposhnik",
+        "java",
+        83
+    ],
+    [
+        "Max Shaposhnik",
+        "json",
+        2
+    ],
+    [
+        "Max Shaposhnik",
+        "ts",
+        4
+    ],
+    [
+        "Max Shaposhnik",
+        "TckModule",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "sql",
+        2
+    ],
+    [
+        "Max Shaposhnik",
+        "sh",
+        8
+    ],
+    [
+        "Max Shaposhnik",
+        "config",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "html",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "properties",
+        2
+    ],
+    [
+        "Max Shaposhnik",
+        "js",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "env",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "yml",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "go",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "template",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "unknown",
+        2
+    ],
+    [
+        "Max Shaposhnik",
+        "erb",
+        2
+    ],
+    [
+        "Max Shaposhnik",
+        "yaml",
+        1
+    ],
+    [
+        "Aleksandr Shmaraiev",
+        "java",
+        30
+    ],
+    [
+        "Aleksandr Shmaraiev",
+        "xml",
+        3
+    ],
+    [
+        "Vitalii Parfonov",
+        "java",
+        7
+    ],
+    [
+        "Yevhen Vydolob",
+        "java",
+        145
+    ],
+    [
+        "Maxim Musienko",
+        "java",
+        24
+    ],
+    [
+        "Maxim Musienko",
+        "xml",
+        5
+    ],
+    [
+        "Maxim Musienko",
+        "md",
+        1
+    ],
+    [
+        "Maxim Musienko",
+        "jsp",
+        2
+    ],
+    [
+        "Maxim Musienko",
+        "json",
+        1
+    ],
+    [
+        "Masaki Muranaka",
+        "java",
+        1
+    ],
+    [
+        "Ilya Buziuk",
+        "sh",
+        1
+    ],
+    [
+        "Ilya Buziuk",
+        "java",
+        6
+    ],
+    [
+        "David Festal",
+        "java",
+        51
+    ],
+    [
+        "David Festal",
+        "properties",
+        2
+    ],
+    [
+        "David Festal",
+        "sh",
+        6
+    ],
+    [
+        "David Festal",
+        "xml",
+        2
+    ],
+    [
+        "Patrick Collins",
+        "md",
+        2
+    ],
+    [
+        "Patrick Collins",
+        "go",
+        2
+    ],
+    [
+        "jpinkney",
+        "java",
+        1
+    ],
+    [
+        "Oleksii Orel",
+        "ts",
+        4
+    ],
+    [
+        "Oleksandr Andriienko",
+        "css",
+        4
+    ],
+    [
+        "Oleksandr Andriienko",
+        "java",
+        97
+    ],
+    [
+        "Oleksandr Andriienko",
+        "xml",
+        7
+    ],
+    [
+        "Oleksandr Andriienko",
+        "properties",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "svg",
+        6
+    ],
+    [
+        "Oleksandr Andriienko",
+        "txt",
+        2
+    ],
+    [
+        "Vitaliy Guliy",
+        "java",
+        33
+    ],
+    [
+        "Vitaliy Guliy",
+        "css",
+        5
+    ],
+    [
+        "Vitaliy Guliy",
+        "xml",
+        9
+    ],
+    [
+        "Vitaliy Guliy",
+        "html",
+        3
+    ],
+    [
+        "Vitaliy Guliy",
+        "js",
+        1
+    ],
+    [
+        "Vitaliy Guliy",
+        "styl",
+        2
+    ],
+    [
+        "Vitaliy Guliy",
+        "ts",
+        1
+    ],
+    [
+        "Vitaliy Guliy",
+        "properties",
+        1
+    ],
+    [
+        "Igor Vinokur",
+        "java",
+        28
+    ],
+    [
+        "Igor Vinokur",
+        "properties",
+        1
+    ],
+    [
+        "Igor Vinokur",
+        "svg",
+        8
+    ],
+    [
+        "Igor Vinokur",
+        "xml",
+        2
+    ],
+    [
+        "Alexander Garagatyi",
+        "java",
+        2
+    ],
+    [
+        "Kamesh Sampath",
+        "java",
+        4
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "xml",
+        17
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "java",
+        12
+    ],
+    [
+        "Hanno Kolvenbach",
+        "properties",
+        2
+    ],
+    [
+        "Hanno Kolvenbach",
+        "env",
+        2
+    ],
+    [
+        "Hanno Kolvenbach",
+        "java",
+        14
+    ],
+    [
+        "Olivier Sallou",
+        "java",
+        2
+    ]
+]

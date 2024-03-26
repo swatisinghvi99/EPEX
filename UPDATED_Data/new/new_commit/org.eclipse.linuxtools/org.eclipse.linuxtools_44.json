@@ -1,0 +1,282 @@
+[
+    [
+        "Sami Wagiaalla",
+        "MF",
+        8
+    ],
+    [
+        "Sami Wagiaalla",
+        "xml",
+        5
+    ],
+    [
+        "Sami Wagiaalla",
+        "java",
+        74
+    ],
+    [
+        "Sami Wagiaalla",
+        "properties",
+        1
+    ],
+    [
+        "Francois Chouinard",
+        "java",
+        8
+    ],
+    [
+        "Camilo Bernal",
+        "xml",
+        10
+    ],
+    [
+        "Camilo Bernal",
+        "exsd",
+        1
+    ],
+    [
+        "Camilo Bernal",
+        "java",
+        45
+    ],
+    [
+        "Camilo Bernal",
+        "properties",
+        7
+    ],
+    [
+        "Camilo Bernal",
+        "classpath",
+        2
+    ],
+    [
+        "Camilo Bernal",
+        "project",
+        2
+    ],
+    [
+        "Camilo Bernal",
+        "prefs",
+        2
+    ],
+    [
+        "Camilo Bernal",
+        "MF",
+        4
+    ],
+    [
+        "Bernd Hufmann",
+        "java",
+        41
+    ],
+    [
+        "Bernd Hufmann",
+        "properties",
+        3
+    ],
+    [
+        "Bernd Hufmann",
+        "cfg",
+        3
+    ],
+    [
+        "Mathieu Denis",
+        "java",
+        68
+    ],
+    [
+        "Mathieu Denis",
+        "MF",
+        2
+    ],
+    [
+        "Mathieu Denis",
+        "exsd",
+        1
+    ],
+    [
+        "Mathieu Denis",
+        "properties",
+        3
+    ],
+    [
+        "Alexandre Montplaisir",
+        "java",
+        327
+    ],
+    [
+        "Alexandre Montplaisir",
+        "classpath",
+        5
+    ],
+    [
+        "Alexandre Montplaisir",
+        "gitignore",
+        7
+    ],
+    [
+        "Alexandre Montplaisir",
+        "project",
+        6
+    ],
+    [
+        "Alexandre Montplaisir",
+        "prefs",
+        5
+    ],
+    [
+        "Alexandre Montplaisir",
+        "tests/ChangeLog",
+        2
+    ],
+    [
+        "Alexandre Montplaisir",
+        "MF",
+        5
+    ],
+    [
+        "Alexandre Montplaisir",
+        "properties",
+        25
+    ],
+    [
+        "Alexandre Montplaisir",
+        "xml",
+        9
+    ],
+    [
+        "Alexandre Montplaisir",
+        "txt",
+        2
+    ],
+    [
+        "Alexandre Montplaisir",
+        "options",
+        2
+    ],
+    [
+        "Alexandre Montplaisir",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Alexandre Montplaisir",
+        "html",
+        5
+    ],
+    [
+        "Alexandre Montplaisir",
+        "jni/ChangeLog",
+        1
+    ],
+    [
+        "Alexandre Montplaisir",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "Alexandre Montplaisir",
+        "inf",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "java",
+        11
+    ],
+    [
+        "Roland Grunberg",
+        "MF",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "html",
+        3
+    ],
+    [
+        "Roland Grunberg",
+        "properties",
+        3
+    ],
+    [
+        "Daniel Henrique Barboza",
+        "java",
+        3
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        601
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        5
+    ],
+    [
+        "Alexander Kurtakov",
+        "prefs",
+        5
+    ],
+    [
+        "Alexander Kurtakov",
+        "classpath",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "gitignore",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "project",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/ChangeLog",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "properties",
+        5
+    ],
+    [
+        "Alexander Kurtakov",
+        "xml",
+        5
+    ],
+    [
+        "Matthew Khouzam",
+        "java",
+        7
+    ],
+    [
+        "Patrick Tasse",
+        "java",
+        8
+    ],
+    [
+        "Jeff Johnston",
+        "xml",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "MF",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "java",
+        5
+    ],
+    [
+        "Jeff Johnston",
+        "libhover/ChangeLog",
+        1
+    ]
+]

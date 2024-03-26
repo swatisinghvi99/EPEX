@@ -1,0 +1,377 @@
+[
+    [
+        "Marc Khouzam",
+        "java",
+        66
+    ],
+    [
+        "Marc Khouzam",
+        "MF",
+        3
+    ],
+    [
+        "Marc Khouzam",
+        "xml",
+        4
+    ],
+    [
+        "Marc Khouzam",
+        "properties",
+        2
+    ],
+    [
+        "Jesper Eskilson",
+        "java",
+        1
+    ],
+    [
+        "mazab",
+        "properties",
+        2
+    ],
+    [
+        "mazab",
+        "xml",
+        1
+    ],
+    [
+        "mazab",
+        "java",
+        13
+    ],
+    [
+        "Greg Watson",
+        "java",
+        6
+    ],
+    [
+        "Greg Watson",
+        "xml",
+        1
+    ],
+    [
+        "Guy Bonneau",
+        "java",
+        1
+    ],
+    [
+        "Wainer S. Moschetta",
+        "java",
+        2
+    ],
+    [
+        "Nathan Ridge",
+        "java",
+        23
+    ],
+    [
+        "Roland Schulz",
+        "java",
+        2
+    ],
+    [
+        "Sergey Prigogin",
+        "java",
+        237
+    ],
+    [
+        "Sergey Prigogin",
+        "prefs",
+        18
+    ],
+    [
+        "Sergey Prigogin",
+        "MF",
+        2
+    ],
+    [
+        "Sergey Prigogin",
+        "xml",
+        2
+    ],
+    [
+        "Vladimir Prus",
+        "java",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "macosx/library/Makefile",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "MF",
+        4
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        25
+    ],
+    [
+        "Doug Schaefer",
+        "properties",
+        15
+    ],
+    [
+        "Doug Schaefer",
+        "classpath",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "gitignore",
+        9
+    ],
+    [
+        "Doug Schaefer",
+        "project",
+        4
+    ],
+    [
+        "Doug Schaefer",
+        "prefs",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "html",
+        4
+    ],
+    [
+        "Doug Schaefer",
+        "ini",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "mappings",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "serial/jni/posix/Makefile",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "c",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "xml",
+        11
+    ],
+    [
+        "Doug Schaefer",
+        "sln",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "cpp",
+        4
+    ],
+    [
+        "Doug Schaefer",
+        "vcxproj",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "filters",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "h",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "target",
+        1
+    ],
+    [
+        "Thomas Corbat",
+        "java",
+        8
+    ],
+    [
+        "Thomas Corbat",
+        "properties",
+        1
+    ],
+    [
+        "Marc Dumais",
+        "java",
+        12
+    ],
+    [
+        "Marc Dumais",
+        "MF",
+        2
+    ],
+    [
+        "Marc Dumais",
+        "classpath",
+        1
+    ],
+    [
+        "Marc Dumais",
+        "project",
+        1
+    ],
+    [
+        "Marc Dumais",
+        "prefs",
+        1
+    ],
+    [
+        "Marc Dumais",
+        "html",
+        1
+    ],
+    [
+        "Marc Dumais",
+        "properties",
+        1
+    ],
+    [
+        "Marc Dumais",
+        "xml",
+        2
+    ],
+    [
+        "Alena Laskavaia",
+        "java",
+        7
+    ],
+    [
+        "Anton Leherbauer",
+        "java",
+        5
+    ],
+    [
+        "Simon Marchi",
+        "java",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "java",
+        1
+    ],
+    [
+        "Uwe Stieber",
+        "gitignore",
+        19
+    ],
+    [
+        "Uwe Stieber",
+        "project",
+        51
+    ],
+    [
+        "Uwe Stieber",
+        "xml",
+        149
+    ],
+    [
+        "Uwe Stieber",
+        "target",
+        5
+    ],
+    [
+        "Uwe Stieber",
+        "properties",
+        123
+    ],
+    [
+        "Uwe Stieber",
+        "options",
+        3
+    ],
+    [
+        "Uwe Stieber",
+        "MF",
+        35
+    ],
+    [
+        "Uwe Stieber",
+        "java",
+        600
+    ],
+    [
+        "Uwe Stieber",
+        "ini",
+        9
+    ],
+    [
+        "Uwe Stieber",
+        "exsd",
+        5
+    ],
+    [
+        "Uwe Stieber",
+        "txt",
+        5
+    ],
+    [
+        "Uwe Stieber",
+        "classpath",
+        9
+    ],
+    [
+        "Uwe Stieber",
+        "cvsignore",
+        9
+    ],
+    [
+        "Uwe Stieber",
+        "prefs",
+        17
+    ],
+    [
+        "Uwe Stieber",
+        "html",
+        10
+    ],
+    [
+        "Uwe Stieber",
+        "launch",
+        3
+    ],
+    [
+        "Uwe Stieber",
+        "css",
+        1
+    ],
+    [
+        "Uwe Stieber",
+        "inf",
+        2
+    ],
+    [
+        "Jonah Graham",
+        "properties",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "java",
+        2
+    ],
+    [
+        "Matthew Bastien",
+        "java",
+        5
+    ],
+    [
+        "Matthew Bastien",
+        "xml",
+        1
+    ]
+]

@@ -1,0 +1,137 @@
+[
+    [
+        "Mattia Dal Ben",
+        "java",
+        10
+    ],
+    [
+        "Marcello Rinaldo Martina",
+        "java",
+        37
+    ],
+    [
+        "Marcello Rinaldo Martina",
+        "xml",
+        28
+    ],
+    [
+        "Marcello Rinaldo Martina",
+        "properties",
+        3
+    ],
+    [
+        "Marcello Rinaldo Martina",
+        "xml-generic-device",
+        2
+    ],
+    [
+        "Marcello Rinaldo Martina",
+        "MF",
+        9
+    ],
+    [
+        "Marcello Rinaldo Martina",
+        "html",
+        2
+    ],
+    [
+        "Marcello Rinaldo Martina",
+        "test/src/main/resources/EXTENDED_PROPERTIES_FILTER_REQUEST",
+        1
+    ],
+    [
+        "Marcello Rinaldo Martina",
+        "test/src/main/resources/EXTENDED_PROPERTIES_RESPONSE",
+        1
+    ],
+    [
+        "Marcello Rinaldo Martina",
+        "test/src/main/resources/FRAMEWORK_PROPERTIES_FILTER_REQUEST",
+        2
+    ],
+    [
+        "Marcello Rinaldo Martina",
+        "test/src/main/resources/FRAMEWORK_PROPERTIES_RESPONSE",
+        2
+    ],
+    [
+        "Marcello Rinaldo Martina",
+        "test/src/main/resources/KURA_PROPERTIES_FILTER_REQUEST",
+        1
+    ],
+    [
+        "Marcello Rinaldo Martina",
+        "test/src/main/resources/KURA_PROPERTIES_RESPONSE",
+        1
+    ],
+    [
+        "Marcello Rinaldo Martina",
+        "xml-intelup2",
+        1
+    ],
+    [
+        "Marcello Rinaldo Martina",
+        "xml-jetson-nano",
+        1
+    ],
+    [
+        "Marcello Rinaldo Martina",
+        "xml-raspberry",
+        1
+    ],
+    [
+        "Pierantonio Merlino",
+        "MF",
+        11
+    ],
+    [
+        "Pierantonio Merlino",
+        "java",
+        74
+    ],
+    [
+        "Pierantonio Merlino",
+        "xml",
+        6
+    ],
+    [
+        "Pierantonio Merlino",
+        "properties",
+        1
+    ],
+    [
+        "Salvatore Coppola",
+        "java",
+        6
+    ],
+    [
+        "Salvatore Coppola",
+        "MF",
+        3
+    ],
+    [
+        "Salvatore Coppola",
+        "xml",
+        8
+    ],
+    [
+        "Salvatore Coppola",
+        "properties",
+        3
+    ],
+    [
+        "Salvatore Coppola",
+        "html",
+        2
+    ],
+    [
+        "G_Ivo",
+        "MF",
+        2
+    ],
+    [
+        "G_Ivo",
+        "java",
+        8
+    ]
+]

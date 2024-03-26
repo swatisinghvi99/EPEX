@@ -1,0 +1,72 @@
+[
+    [
+        "Steffen",
+        "java",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "gitignore",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        1
+    ],
+    [
+        "Jarek Gawor",
+        "java",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "bnd",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "java",
+        8
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        146
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        42
+    ],
+    [
+        "BJ Hargrave",
+        "prefs",
+        41
+    ],
+    [
+        "BJ Hargrave",
+        "html",
+        59
+    ],
+    [
+        "BJ Hargrave",
+        "packageadmin/src/org/osgi/service/packageadmin/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "framework/src/org/osgi/framework/wiring/packageinfo",
+        1
+    ],
+    [
+        "David",
+        "java",
+        31
+    ],
+    [
+        "David",
+        "bnd",
+        1
+    ]
+]

@@ -1,0 +1,72 @@
+[
+    [
+        "Peter Kriens",
+        "classpath",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "gitignore",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "project",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "prefs",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "bnd",
+        10
+    ],
+    [
+        "Peter Kriens",
+        "bndrun",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "md",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        74
+    ],
+    [
+        "Peter Kriens",
+        "txt",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "xml",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "sha",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "api/src/osgi/enroute/servlet/api/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "provider/src/osgi/enroute/servlet/api/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "json",
+        1
+    ]
+]

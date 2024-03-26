@@ -1,0 +1,122 @@
+[
+    [
+        "Patrick Tasse",
+        "java",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "java",
+        4
+    ],
+    [
+        "Jeff Johnston",
+        "properties",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "html",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "xml",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Wainer S. Moschetta",
+        "java",
+        4
+    ],
+    [
+        "Daniel Henrique Barboza",
+        "java",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "properties",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "svg",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "xml",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "java",
+        3
+    ],
+    [
+        "Roland Grunberg",
+        "core/ChangeLog",
+        2
+    ],
+    [
+        "Roland Grunberg",
+        "java",
+        23
+    ],
+    [
+        "Roland Grunberg",
+        "launch/ChangeLog",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "classpath",
+        2
+    ],
+    [
+        "Roland Grunberg",
+        "MF",
+        2
+    ],
+    [
+        "Roland Grunberg",
+        "properties",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "java",
+        3
+    ],
+    [
+        "Otavio Pontes",
+        "launch/ChangeLog",
+        1
+    ],
+    [
+        "Otavio Pontes",
+        "java",
+        11
+    ],
+    [
+        "Otavio Pontes",
+        "tests/ChangeLog",
+        1
+    ],
+    [
+        "Otavio Pontes",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Otavio Pontes",
+        "exsd",
+        1
+    ]
+]

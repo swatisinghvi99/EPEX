@@ -1,0 +1,72 @@
+[
+    [
+        "BJ Hargrave",
+        "prefs",
+        5
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        23
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        8
+    ],
+    [
+        "BJ Hargrave",
+        "xml",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "namespace/src/org/osgi/namespace/whiteboard/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "classpath",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "project",
+        1
+    ],
+    [
+        "Petia Sotirova",
+        "java",
+        10
+    ],
+    [
+        "Petia Sotirova",
+        "bnd",
+        3
+    ],
+    [
+        "Petia Sotirova",
+        "xsd",
+        1
+    ],
+    [
+        "Cyrille Bareau",
+        "txt",
+        1
+    ],
+    [
+        "Cyrille Bareau",
+        "java",
+        1
+    ],
+    [
+        "David Bosschaert",
+        "java",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "java",
+        1
+    ]
+]

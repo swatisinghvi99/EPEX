@@ -1,0 +1,347 @@
+[
+    [
+        "Sven Efftinge",
+        "css",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "html",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "js",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        324
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        40
+    ],
+    [
+        "Sven Efftinge",
+        "mwe2",
+        9
+    ],
+    [
+        "Sven Efftinge",
+        "xml_gen",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "g",
+        15
+    ],
+    [
+        "Sven Efftinge",
+        "tokens",
+        6
+    ],
+    [
+        "Sven Efftinge",
+        "ecore",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "genmodel",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "api_filters",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "xtend",
+        73
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "java",
+        99
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "js",
+        29
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "gradle",
+        4
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "html",
+        16
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "css",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "statemachine",
+        2
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "g",
+        2
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "genmodel",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "mwe2",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "xtend",
+        8
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        26
+    ],
+    [
+        "Dennis Huebner",
+        "MF",
+        181
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        155
+    ],
+    [
+        "Dennis Huebner",
+        "api_filters",
+        16
+    ],
+    [
+        "Dennis Huebner",
+        "prefs",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "properties",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "project",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "gradle",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "txt",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "launch",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "setup",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        448
+    ],
+    [
+        "Sebastian Zarnekow",
+        "g",
+        31
+    ],
+    [
+        "Sebastian Zarnekow",
+        "tokens",
+        15
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "api_filters",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ext",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xpt",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        23
+    ],
+    [
+        "Sebastian Zarnekow",
+        "mwe2",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml_gen",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ecore",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "genmodel",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "txt",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "prefs",
+        1
+    ],
+    [
+        "Christian Schneider",
+        "xtend",
+        34
+    ],
+    [
+        "Christian Schneider",
+        "java",
+        287
+    ],
+    [
+        "Christian Schneider",
+        "classpath",
+        1
+    ],
+    [
+        "Christian Schneider",
+        "mwe2",
+        4
+    ],
+    [
+        "Christian Schneider",
+        "xml",
+        2
+    ],
+    [
+        "Christian Schneider",
+        "ISetup",
+        2
+    ],
+    [
+        "Christian Schneider",
+        "g",
+        16
+    ],
+    [
+        "Christian Schneider",
+        "MF_gen",
+        1
+    ],
+    [
+        "Christian Schneider",
+        "genmodel",
+        5
+    ],
+    [
+        "Christian Schneider",
+        "xml_gen",
+        3
+    ],
+    [
+        "Christian Schneider",
+        "tokens",
+        6
+    ],
+    [
+        "Christian Schneider",
+        "MF",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtend",
+        6
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        13
+    ],
+    [
+        "Lorenzo Bettini",
+        "java",
+        1
+    ],
+    [
+        "ghha",
+        "java",
+        3
+    ],
+    [
+        "ghha",
+        "xtend",
+        2
+    ],
+    [
+        "Miguel Jim\u00e9nez",
+        "java",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "xtend",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "java",
+        2
+    ]
+]

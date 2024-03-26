@@ -1,0 +1,47 @@
+[
+    [
+        "Felix Meschberger",
+        "java",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        113
+    ],
+    [
+        "BJ Hargrave",
+        "framework/src/org/osgi/framework/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "java",
+        6
+    ],
+    [
+        "Thomas Watson",
+        "bnd",
+        4
+    ],
+    [
+        "John Ross",
+        "java",
+        4
+    ],
+    [
+        "John Ross",
+        "txt",
+        1
+    ],
+    [
+        "John Ross",
+        "bnd",
+        4
+    ]
+]

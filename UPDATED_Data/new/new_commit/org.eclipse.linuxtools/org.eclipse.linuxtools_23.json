@@ -1,0 +1,132 @@
+[
+    [
+        "Francois Chouinard",
+        "headless/ChangeLog",
+        1
+    ],
+    [
+        "Francois Chouinard",
+        "java",
+        360
+    ],
+    [
+        "Francois Chouinard",
+        "jni/ChangeLog",
+        2
+    ],
+    [
+        "Francois Chouinard",
+        "tests/ChangeLog",
+        6
+    ],
+    [
+        "Francois Chouinard",
+        "ui/ChangeLog",
+        9
+    ],
+    [
+        "Francois Chouinard",
+        "properties",
+        22
+    ],
+    [
+        "Francois Chouinard",
+        "lttng/ChangeLog",
+        6
+    ],
+    [
+        "Francois Chouinard",
+        "tmf/ChangeLog",
+        4
+    ],
+    [
+        "Francois Chouinard",
+        "xml",
+        4
+    ],
+    [
+        "Francois Chouinard",
+        "options",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "core/ChangeLog",
+        3
+    ],
+    [
+        "Jeff Johnston",
+        "java",
+        9
+    ],
+    [
+        "Jeff Johnston",
+        "ui/ChangeLog",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "libhover/ChangeLog",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "tests/ChangeLog",
+        1
+    ],
+    [
+        "Xavier Raynaud",
+        "java",
+        2
+    ],
+    [
+        "Severin Gehwolf",
+        "classpath",
+        1
+    ],
+    [
+        "Severin Gehwolf",
+        "project",
+        1
+    ],
+    [
+        "Severin Gehwolf",
+        "prefs",
+        1
+    ],
+    [
+        "Severin Gehwolf",
+        "tests/ChangeLog",
+        4
+    ],
+    [
+        "Severin Gehwolf",
+        "MF",
+        6
+    ],
+    [
+        "Severin Gehwolf",
+        "properties",
+        1
+    ],
+    [
+        "Severin Gehwolf",
+        "java",
+        21
+    ],
+    [
+        "Severin Gehwolf",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Severin Gehwolf",
+        "cparser/ChangeLog",
+        1
+    ],
+    [
+        "Severin Gehwolf",
+        "javaparser/ChangeLog",
+        1
+    ]
+]

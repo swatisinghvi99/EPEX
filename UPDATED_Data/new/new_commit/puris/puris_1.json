@@ -1,0 +1,177 @@
+[
+    [
+        "Malte Hellmeier",
+        "properties",
+        2
+    ],
+    [
+        "Malte Hellmeier",
+        "unknown",
+        8
+    ],
+    [
+        "Malte Hellmeier",
+        "md",
+        6
+    ],
+    [
+        "Malte Hellmeier",
+        "cmd",
+        1
+    ],
+    [
+        "Malte Hellmeier",
+        "xml",
+        2
+    ],
+    [
+        "Malte Hellmeier",
+        "txt",
+        2
+    ],
+    [
+        "Malte Hellmeier",
+        "java",
+        27
+    ],
+    [
+        "Malte Hellmeier",
+        "helmignore",
+        1
+    ],
+    [
+        "Malte Hellmeier",
+        "yaml",
+        10
+    ],
+    [
+        "Malte Hellmeier",
+        "tpl",
+        1
+    ],
+    [
+        "Malte Hellmeier",
+        "env",
+        1
+    ],
+    [
+        "Malte Hellmeier",
+        "cjs",
+        1
+    ],
+    [
+        "Malte Hellmeier",
+        "gitignore",
+        1
+    ],
+    [
+        "Malte Hellmeier",
+        "json",
+        3
+    ],
+    [
+        "Malte Hellmeier",
+        "html",
+        1
+    ],
+    [
+        "Malte Hellmeier",
+        "js",
+        5
+    ],
+    [
+        "Malte Hellmeier",
+        "vue",
+        10
+    ],
+    [
+        "Malte Hellmeier",
+        "css",
+        2
+    ],
+    [
+        "Malte Hellmeier",
+        "svg",
+        8
+    ],
+    [
+        "Tom Meyer",
+        "java",
+        258
+    ],
+    [
+        "Tom Meyer",
+        "unknown",
+        1
+    ],
+    [
+        "Tom Meyer",
+        "xml",
+        1
+    ],
+    [
+        "Tom Meyer",
+        "json",
+        1
+    ],
+    [
+        "Tom Meyer",
+        "vue",
+        6
+    ],
+    [
+        "Tom Meyer",
+        "css",
+        1
+    ],
+    [
+        "Tom Meyer",
+        "js",
+        1
+    ],
+    [
+        "Ernst-Christoph Schrewe",
+        "java",
+        152
+    ],
+    [
+        "Ernst-Christoph Schrewe",
+        "properties",
+        17
+    ],
+    [
+        "Ernst-Christoph Schrewe",
+        "md",
+        1
+    ],
+    [
+        "--show-origin",
+        "dockerbuild",
+        2
+    ],
+    [
+        "--show-origin",
+        "unknown",
+        3
+    ],
+    [
+        "--show-origin",
+        "json",
+        3
+    ],
+    [
+        "--show-origin",
+        "js",
+        2
+    ],
+    [
+        "--show-origin",
+        "vue",
+        2
+    ],
+    [
+        "--show-origin",
+        "sh",
+        2
+    ]
+]

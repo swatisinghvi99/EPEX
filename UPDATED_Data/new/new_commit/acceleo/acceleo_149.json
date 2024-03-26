@@ -1,0 +1,742 @@
+[
+    [
+        "William Piers",
+        "txt",
+        143
+    ],
+    [
+        "William Piers",
+        "mtl",
+        452
+    ],
+    [
+        "William Piers",
+        "java",
+        78
+    ],
+    [
+        "William Piers",
+        "properties",
+        10
+    ],
+    [
+        "William Piers",
+        "ecore",
+        1
+    ],
+    [
+        "William Piers",
+        "genmodel",
+        1
+    ],
+    [
+        "William Piers",
+        "classpath",
+        3
+    ],
+    [
+        "William Piers",
+        "project",
+        3
+    ],
+    [
+        "William Piers",
+        "prefs",
+        8
+    ],
+    [
+        "William Piers",
+        "MF",
+        4
+    ],
+    [
+        "William Piers",
+        "acceleo3/README",
+        1
+    ],
+    [
+        "William Piers",
+        "launch",
+        4
+    ],
+    [
+        "William Piers",
+        "gitignore",
+        2
+    ],
+    [
+        "William Piers",
+        "xmi",
+        48
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/dualTemplateCall/generated/dual_query_invocation",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/dualTemplateCall/generated/dual_template_invocation",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/elseletBlock/generated/testElseLetBlock",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/emptyBlocks/generated/emptyBlocks1",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/fileStatement/generated/testNewLineAfter",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/fileStatement/generated/testNewLineBefore",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/fileStatement/generated/testNewLineBeforeAndAfter",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/fileStatement/generated/testOneLine",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/forBlock/generated/testForSeparator",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/forBlock/generated/testForSimple",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/forBlock/generated/testSequenceInt",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/forBlock/generated/testSequenceInts",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/forBlock/generated/testSequenceString",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/forBlock/generated/testSequenceStrings",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/ifBlock/generated/testCompleteIf",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/ifBlock/generated/testElse",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/ifBlock/generated/testElseif",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/ifBlock/generated/testIf",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/ifBlock/generated/testNestedIf",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/ifBlockIndent/generated/testIfA3Indent",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/ifBlockIndent/generated/testIfA4Indent",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/ifBlockIndent/generated/testIfAnyIndent",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/ifBlockIndent/generated/testIfNoIndent",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/implicitForIterator/generated/test",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/letBlock/generated/testLetBlock",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/lost_protected_areas",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/protected_areas",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/removed_protected_areas",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_conditional_multiple_generations",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_file_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_file_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_for_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_for_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_for_let_if_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_for_let_if_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_for_template_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_for_template_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_for_template_for_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_for_template_for_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_for_template_if_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_for_template_if_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_for_template_let_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_for_template_let_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_if_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_if_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_if_template_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_if_template_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_if_template_for_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_if_template_for_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_if_template_if_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_if_template_if_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_if_template_let_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_if_template_let_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_let_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_let_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_let_template_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_let_template_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_let_template_for_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_let_template_for_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_let_template_if_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_let_template_if_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_let_template_let_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_let_template_let_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_multiple_generations",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_template_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_template_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_template_for_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_template_for_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_template_if_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_template_if_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_template_let_block",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_template_let_block_merge",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/protectedAreaBlock/generated/test_protected_area_variable_marker_id_multiple_generations",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/queryInvocation/generated/query_invocation_wrapping",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/range/generated/testIntRange",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/recursiveTemplateInvocation/generated/recursive_template_invocation_is",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/recursiveTemplateInvocation/generated/recursive_template_invocation_not",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/templateVariableInitialization/generated/test",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/variables/generated/implicit_self_query",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/variables/generated/implicit_self_template",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/variables/generated/self_query",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/evaluation/variables/generated/self_template",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/services/booleanServices/generated/complexTest",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/services/booleanServices/generated/oclAnyTests",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/services/booleanServices/generated/simpleTest",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/services/emfServices/generated/testEObject",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/services/numericServices/generated/integerTests",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/services/numericServices/generated/realTests",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/services/orderedSetsServices/generated/testOrderedSet",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/services/sequencesServices/generated/testSequence",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/services/stringServices/generated/oclAnyTests",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/services/stringServices/generated/testAdd",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/src/resources/services/stringServices/generated/testServices",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/status/IRRELEVANT",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/status/PASS",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/status/README",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/status/TODO",
+        1
+    ],
+    [
+        "William Piers",
+        "acceleo3/status/TODO_lot1",
+        1
+    ],
+    [
+        "William Piers",
+        "checkstyle",
+        2
+    ],
+    [
+        "William Piers",
+        "tests/README",
+        1
+    ],
+    [
+        "William Piers",
+        "xml",
+        3
+    ],
+    [
+        "William Piers",
+        "emtl",
+        115
+    ],
+    [
+        "William Piers",
+        "migration/README",
+        1
+    ],
+    [
+        "Florent Latombe",
+        "java",
+        83
+    ],
+    [
+        "Florent Latombe",
+        "txt",
+        95
+    ],
+    [
+        "Florent Latombe",
+        "MF",
+        4
+    ],
+    [
+        "lgoubet",
+        "asciidoc",
+        1
+    ],
+    [
+        "lgoubet",
+        "java",
+        5
+    ],
+    [
+        "lgoubet",
+        "project",
+        5
+    ],
+    [
+        "lgoubet",
+        "html",
+        6
+    ],
+    [
+        "lgoubet",
+        "properties",
+        7
+    ],
+    [
+        "lgoubet",
+        "txt",
+        2
+    ],
+    [
+        "lgoubet",
+        "xml",
+        11
+    ],
+    [
+        "lgoubet",
+        "checkstyle",
+        1
+    ],
+    [
+        "lgoubet",
+        "classpath",
+        2
+    ],
+    [
+        "lgoubet",
+        "prefs",
+        3
+    ],
+    [
+        "lgoubet",
+        "MF",
+        2
+    ],
+    [
+        "lgoubet",
+        "xmi",
+        1
+    ],
+    [
+        "lgoubet",
+        "mtl",
+        2
+    ],
+    [
+        "Yvan Lussaud",
+        "java",
+        108
+    ],
+    [
+        "Yvan Lussaud",
+        "MF",
+        4
+    ],
+    [
+        "Yvan Lussaud",
+        "xml",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "classpath",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "prefs",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "launch",
+        3
+    ],
+    [
+        "Yvan Lussaud",
+        "mtl",
+        6
+    ],
+    [
+        "Yvan Lussaud",
+        "acceleo3/src/resources/language/serviceInvocation/generated/service_invocation",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "acceleo3/status/IRRELEVANT",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "acceleo3/status/PASS",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "acceleo3/status/TODO",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "acceleo3/status/TODO_lot1",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "txt",
+        73
+    ],
+    [
+        "Yvan Lussaud",
+        "emtl",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "xmi",
+        1
+    ]
+]

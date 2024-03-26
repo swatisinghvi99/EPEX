@@ -1,0 +1,247 @@
+[
+    [
+        "Roland Grunberg",
+        "classpath",
+        5
+    ],
+    [
+        "Roland Grunberg",
+        "project",
+        5
+    ],
+    [
+        "Roland Grunberg",
+        "prefs",
+        5
+    ],
+    [
+        "Roland Grunberg",
+        "svnignore",
+        7
+    ],
+    [
+        "Roland Grunberg",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "MF",
+        6
+    ],
+    [
+        "Roland Grunberg",
+        "core/README",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "html",
+        5
+    ],
+    [
+        "Roland Grunberg",
+        "properties",
+        14
+    ],
+    [
+        "Roland Grunberg",
+        "core/natives/linux/opxml/Makefile",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "core/natives/linux/opxml/README",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "cc",
+        14
+    ],
+    [
+        "Roland Grunberg",
+        "h",
+        14
+    ],
+    [
+        "Roland Grunberg",
+        "sh",
+        7
+    ],
+    [
+        "Roland Grunberg",
+        "pamd",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "security",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "xml",
+        11
+    ],
+    [
+        "Roland Grunberg",
+        "exsd",
+        2
+    ],
+    [
+        "Roland Grunberg",
+        "java",
+        81
+    ],
+    [
+        "Roland Grunberg",
+        "tests/ChangeLog",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "x86_64/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "remote/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "java",
+        2
+    ],
+    [
+        "Charley Wang",
+        "classpath",
+        1
+    ],
+    [
+        "Charley Wang",
+        "project",
+        1
+    ],
+    [
+        "Charley Wang",
+        "prefs",
+        1
+    ],
+    [
+        "Charley Wang",
+        "MF",
+        1
+    ],
+    [
+        "Charley Wang",
+        "stp",
+        2
+    ],
+    [
+        "Charley Wang",
+        "properties",
+        1
+    ],
+    [
+        "Charley Wang",
+        "xml",
+        1
+    ],
+    [
+        "Charley Wang",
+        "java",
+        15
+    ],
+    [
+        "Charley Wang",
+        "patch",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "java",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "properties",
+        1
+    ],
+    [
+        "Francois Chouinard",
+        "ui/ChangeLog",
+        2
+    ],
+    [
+        "Francois Chouinard",
+        "java",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "rpmstubby/ChangeLog",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "xml",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        16
+    ],
+    [
+        "Alexander Kurtakov",
+        "editor/ChangeLog",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "core/ChangeLog",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "prefs",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "man/ChangeLog",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "properties",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "cc",
+        14
+    ],
+    [
+        "Andrew Overholt",
+        "h",
+        14
+    ]
+]

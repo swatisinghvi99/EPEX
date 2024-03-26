@@ -1,0 +1,187 @@
+[
+    [
+        "Frederic Gurr",
+        "json",
+        25
+    ],
+    [
+        "Frederic Gurr",
+        "imagen/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "yml",
+        180
+    ],
+    [
+        "Frederic Gurr",
+        "hbs",
+        12
+    ],
+    [
+        "Frederic Gurr",
+        "override",
+        12
+    ],
+    [
+        "Frederic Gurr",
+        "js",
+        12
+    ],
+    [
+        "Frederic Gurr",
+        "2/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "2/base-plugins",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "asc",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "sh",
+        2
+    ],
+    [
+        "Frederic Gurr",
+        "2/scripts/jenkins-support",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "eclipselink/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "sirius/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "sirius/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "sirius/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "thym/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "m2e/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "tracecompass/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "txt",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "californium/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "amalgam/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "amalgam/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "amalgam/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "xtext/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "xtext/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "xtext/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "concierge/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "dltk/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "ease/target/Dockerfile",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "json",
+        2
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "jgit/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "jgit/target/Dockerfile",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "yml",
+        15
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "hbs",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "jgit/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "override",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "js",
+        1
+    ]
+]

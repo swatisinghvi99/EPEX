@@ -1,0 +1,127 @@
+[
+    [
+        "Oleksandr Andriienko",
+        "md",
+        3
+    ],
+    [
+        "Oleksandr Andriienko",
+        "go",
+        108
+    ],
+    [
+        "Oleksandr Andriienko",
+        "yaml",
+        37
+    ],
+    [
+        "Oleksandr Andriienko",
+        "mod",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "sum",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/golang/mock/AUTHORS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/golang/mock/CONTRIBUTORS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/golang/mock/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "txt",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "json",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "sh",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "yaml",
+        23
+    ],
+    [
+        "Anatolii Bazko",
+        "go",
+        76
+    ],
+    [
+        "Anatolii Bazko",
+        "unknown",
+        2
+    ],
+    [
+        "Anatolii Bazko",
+        "sum",
+        3
+    ],
+    [
+        "Anatolii Bazko",
+        "sh",
+        4
+    ],
+    [
+        "Anatolii Bazko",
+        "mod",
+        2
+    ],
+    [
+        "Anatolii Bazko",
+        "yml",
+        2
+    ],
+    [
+        "Anatolii Bazko",
+        "io/apiextensions-apiserver/LICENSE",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "proto",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "io/utils/pointer/OWNERS",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "txt",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "io/yaml/OWNERS",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "md",
+        1
+    ],
+    [
+        "Fumiaki MATSUSHIMA",
+        "go",
+        2
+    ]
+]

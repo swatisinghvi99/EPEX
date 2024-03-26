@@ -1,0 +1,107 @@
+[
+    [
+        "Peter Kriens",
+        "java",
+        5
+    ],
+    [
+        "Peter Kriens",
+        "js",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "bnd",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "xml",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "sha",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "api/src/osgi/enroute/servlet/api/packageinfo",
+        1
+    ],
+    [
+        "David Leangen",
+        "classpath",
+        1
+    ],
+    [
+        "David Leangen",
+        "gitignore",
+        1
+    ],
+    [
+        "David Leangen",
+        "project",
+        1
+    ],
+    [
+        "David Leangen",
+        "prefs",
+        1
+    ],
+    [
+        "David Leangen",
+        "bnd",
+        15
+    ],
+    [
+        "David Leangen",
+        "json",
+        6
+    ],
+    [
+        "David Leangen",
+        "bndrun",
+        3
+    ],
+    [
+        "David Leangen",
+        "java",
+        219
+    ],
+    [
+        "David Leangen",
+        "txt",
+        6
+    ],
+    [
+        "David Leangen",
+        "html",
+        7
+    ],
+    [
+        "David Leangen",
+        "md",
+        9
+    ],
+    [
+        "Kamesh Sampath",
+        "md",
+        1
+    ],
+    [
+        "Kamesh Sampath",
+        "java",
+        3
+    ],
+    [
+        "Kamesh Sampath",
+        "js",
+        770
+    ],
+    [
+        "Kamesh Sampath",
+        "txt",
+        1
+    ]
+]

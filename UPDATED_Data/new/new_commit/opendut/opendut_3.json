@@ -1,0 +1,227 @@
+[
+    [
+        "Elmar Schug",
+        "rs",
+        83
+    ],
+    [
+        "Elmar Schug",
+        "lock",
+        4
+    ],
+    [
+        "Elmar Schug",
+        "toml",
+        8
+    ],
+    [
+        "Elmar Schug",
+        "scss",
+        2
+    ],
+    [
+        "Elmar Schug",
+        "gitignore",
+        1
+    ],
+    [
+        "Elmar Schug",
+        "js",
+        2
+    ],
+    [
+        "Elmar Schug",
+        "md",
+        5
+    ],
+    [
+        "Elmar Schug",
+        "proto",
+        1
+    ],
+    [
+        "Elmar Schug",
+        "yml",
+        5
+    ],
+    [
+        "Frank M\u00e4rkle",
+        "rs",
+        144
+    ],
+    [
+        "Frank M\u00e4rkle",
+        "toml",
+        22
+    ],
+    [
+        "Frank M\u00e4rkle",
+        "proto",
+        1
+    ],
+    [
+        "Frank M\u00e4rkle",
+        "sh",
+        6
+    ],
+    [
+        "Frank M\u00e4rkle",
+        "md",
+        1
+    ],
+    [
+        "Frank M\u00e4rkle",
+        "yml",
+        3
+    ],
+    [
+        "Frank M\u00e4rkle",
+        "yaml",
+        1
+    ],
+    [
+        "Frank M\u00e4rkle",
+        "ci/docker/edgar/Dockerfile",
+        1
+    ],
+    [
+        "Frank M\u00e4rkle",
+        "dockerignore",
+        1
+    ],
+    [
+        "Frank M\u00e4rkle",
+        "lock",
+        1
+    ],
+    [
+        "anna.voelker@mercedes-benz.com",
+        "rs",
+        4
+    ],
+    [
+        "Reimar Stier",
+        "yml",
+        38
+    ],
+    [
+        "Reimar Stier",
+        "toml",
+        13
+    ],
+    [
+        "Reimar Stier",
+        "ci/docker/dev/Dockerfile",
+        1
+    ],
+    [
+        "Reimar Stier",
+        "rs",
+        93
+    ],
+    [
+        "Reimar Stier",
+        "ci/docker/Vagrantfile",
+        3
+    ],
+    [
+        "Reimar Stier",
+        "md",
+        17
+    ],
+    [
+        "Reimar Stier",
+        "sh",
+        26
+    ],
+    [
+        "Reimar Stier",
+        "lock",
+        4
+    ],
+    [
+        "Reimar Stier",
+        "ci/docker/edgar/Dockerfile",
+        2
+    ],
+    [
+        "Reimar Stier",
+        "ci/docker/keycloak/Dockerfile-keycloak-provision",
+        2
+    ],
+    [
+        "Reimar Stier",
+        "ci/docker/keycloak/Dockerfile-keycloak-server",
+        2
+    ],
+    [
+        "Reimar Stier",
+        "ci/docker/netbird/Dockerfile_management",
+        2
+    ],
+    [
+        "Reimar Stier",
+        "ci/docker/netbird/Dockerfile_netbird_init",
+        2
+    ],
+    [
+        "Reimar Stier",
+        "json",
+        1
+    ],
+    [
+        "Reimar Stier",
+        "gitignore",
+        1
+    ],
+    [
+        "Reimar Stier",
+        "key",
+        2
+    ],
+    [
+        "Reimar Stier",
+        "pem",
+        2
+    ],
+    [
+        "Reimar Stier",
+        "yaml",
+        1
+    ],
+    [
+        "Reimar Stier",
+        "dockerignore",
+        1
+    ],
+    [
+        "Reimar Stier",
+        "svg",
+        4
+    ],
+    [
+        "Reimar Stier",
+        "tmpl",
+        2
+    ],
+    [
+        "Matthias Twardawski",
+        "rs",
+        31
+    ],
+    [
+        "Matthias Twardawski",
+        "proto",
+        1
+    ],
+    [
+        "Anna V\u00f6lker",
+        "proto",
+        4
+    ],
+    [
+        "Anna V\u00f6lker",
+        "rs",
+        36
+    ]
+]

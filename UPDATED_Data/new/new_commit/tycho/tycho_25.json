@@ -1,0 +1,152 @@
+[
+    [
+        "Nepomuk Seiler",
+        "java",
+        4
+    ],
+    [
+        "Nepomuk Seiler",
+        "mf",
+        1
+    ],
+    [
+        "Nepomuk Seiler",
+        "mf_expected",
+        1
+    ],
+    [
+        "Nepomuk Seiler",
+        "MF",
+        1
+    ],
+    [
+        "Nepomuk Seiler",
+        "MF_expected",
+        1
+    ],
+    [
+        "Nepomuk Seiler",
+        "xml",
+        1
+    ],
+    [
+        "Nepomuk Seiler",
+        "xml_expected",
+        1
+    ],
+    [
+        "Tobias Oberlies",
+        "java",
+        67
+    ],
+    [
+        "Tobias Oberlies",
+        "mf",
+        1
+    ],
+    [
+        "Tobias Oberlies",
+        "mf_expected",
+        1
+    ],
+    [
+        "Tobias Oberlies",
+        "xml",
+        29
+    ],
+    [
+        "Tobias Oberlies",
+        "xml_expected",
+        1
+    ],
+    [
+        "Tobias Oberlies",
+        "MF",
+        9
+    ],
+    [
+        "Tobias Oberlies",
+        "inf",
+        1
+    ],
+    [
+        "Tobias Oberlies",
+        "classpath",
+        3
+    ],
+    [
+        "Tobias Oberlies",
+        "project",
+        3
+    ],
+    [
+        "Tobias Oberlies",
+        "prefs",
+        3
+    ],
+    [
+        "Tobias Oberlies",
+        "gitignore",
+        1
+    ],
+    [
+        "Tobias Oberlies",
+        "txt",
+        1
+    ],
+    [
+        "Tobias Oberlies",
+        "product",
+        2
+    ],
+    [
+        "Jan Sievers",
+        "java",
+        37
+    ],
+    [
+        "Jan Sievers",
+        "xml",
+        4
+    ],
+    [
+        "Jan Sievers",
+        "properties",
+        3
+    ],
+    [
+        "Jan Sievers",
+        "MF",
+        2
+    ],
+    [
+        "Mickael Istria",
+        "properties",
+        3
+    ],
+    [
+        "Mickael Istria",
+        "xml",
+        9
+    ],
+    [
+        "Mickael Istria",
+        "product",
+        1
+    ],
+    [
+        "Mickael Istria",
+        "MF",
+        2
+    ],
+    [
+        "Mickael Istria",
+        "java",
+        6
+    ],
+    [
+        "Thanh Ha",
+        "java",
+        1
+    ]
+]

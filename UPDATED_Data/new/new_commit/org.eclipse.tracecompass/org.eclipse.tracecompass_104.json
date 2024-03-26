@@ -1,0 +1,82 @@
+[
+    [
+        "Genevi\u00e8ve Bastien",
+        "java",
+        30
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "MF",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "xml",
+        4
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "tests/testfiles/kernel_analysis/expectedThreadStatusRows",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "tests/testfiles/kernel_analysis/expectedThreadStatusTree",
+        1
+    ],
+    [
+        "Patrick Tasse",
+        "MF",
+        5
+    ],
+    [
+        "Patrick Tasse",
+        "java",
+        19
+    ],
+    [
+        "Bernd Hufmann",
+        "java",
+        23
+    ],
+    [
+        "Bernd Hufmann",
+        "MF",
+        2
+    ],
+    [
+        "Bernd Hufmann",
+        "properties",
+        2
+    ],
+    [
+        "Matthew Khouzam",
+        "java",
+        40
+    ],
+    [
+        "Matthew Khouzam",
+        "xml",
+        1
+    ],
+    [
+        "Matthew Khouzam",
+        "xsd",
+        1
+    ],
+    [
+        "Matthew Khouzam",
+        "properties",
+        2
+    ],
+    [
+        "Simon Delisle",
+        "java",
+        5
+    ],
+    [
+        "Simon Delisle",
+        "properties",
+        1
+    ]
+]

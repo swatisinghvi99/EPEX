@@ -1,0 +1,337 @@
+[
+    [
+        "Sven Efftinge",
+        "java",
+        15
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        5
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtend",
+        14
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        28
+    ],
+    [
+        "Moritz Eysholdt",
+        "xml",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "api_filters",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "api_filters",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        109
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        12
+    ],
+    [
+        "Dennis Huebner",
+        "classpath",
+        12
+    ],
+    [
+        "Dennis Huebner",
+        "gitignore",
+        9
+    ],
+    [
+        "Dennis Huebner",
+        "project",
+        13
+    ],
+    [
+        "Dennis Huebner",
+        "prefs",
+        22
+    ],
+    [
+        "Dennis Huebner",
+        "TXT",
+        6
+    ],
+    [
+        "Dennis Huebner",
+        "MF",
+        17
+    ],
+    [
+        "Dennis Huebner",
+        "properties",
+        18
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        11
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        166
+    ],
+    [
+        "Dennis Huebner",
+        "options",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "def",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "ext",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "gmfgen",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "gmfgraph",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "gmfmap",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "gmftool",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "xpt",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "xml_gen",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "xtext",
+        4
+    ],
+    [
+        "Dennis Huebner",
+        "mwe2",
+        4
+    ],
+    [
+        "Dennis Huebner",
+        "setup",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "ecore",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "genmodel",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "xtend",
+        6
+    ],
+    [
+        "Dennis Huebner",
+        "launch",
+        4
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "java",
+        276
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "xml",
+        4
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "classpath",
+        3
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "project",
+        3
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "prefs",
+        6
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "MF",
+        3
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "properties",
+        4
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "xtend",
+        116
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "xml_gen",
+        2
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "ecore",
+        1
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "genmodel",
+        1
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "mwe2",
+        1
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "xtext",
+        1
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "xpt",
+        18
+    ],
+    [
+        "Stefan Oehme",
+        "java",
+        17
+    ],
+    [
+        "Stefan Oehme",
+        "xtend",
+        6
+    ],
+    [
+        "Stefan Oehme",
+        "classpath",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "project",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "MF",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "properties",
+        2
+    ],
+    [
+        "Holger Schill",
+        "java",
+        35
+    ],
+    [
+        "Holger Schill",
+        "xpt",
+        7
+    ],
+    [
+        "Holger Schill",
+        "ext",
+        1
+    ],
+    [
+        "Holger Schill",
+        "classpath",
+        1
+    ],
+    [
+        "Holger Schill",
+        "properties",
+        1
+    ],
+    [
+        "Holger Schill",
+        "MF",
+        4
+    ],
+    [
+        "Holger Schill",
+        "genmodel",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        36
+    ],
+    [
+        "Jan Koehnlein",
+        "xtend",
+        3
+    ],
+    [
+        "akosyakov",
+        "java",
+        17
+    ],
+    [
+        "akosyakov",
+        "MF",
+        2
+    ],
+    [
+        "akosyakov",
+        "mwe2",
+        8
+    ],
+    [
+        "akosyakov",
+        "xtend",
+        6
+    ]
+]

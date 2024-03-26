@@ -1,0 +1,162 @@
+[
+    [
+        "Dominic Sudy",
+        "clang-tidy",
+        1
+    ],
+    [
+        "Dominic Sudy",
+        "conan/profiles/linux_aarch64_debug",
+        1
+    ],
+    [
+        "Dominic Sudy",
+        "conan/profiles/linux_aarch64_release",
+        1
+    ],
+    [
+        "Dominic Sudy",
+        "conan/profiles/linux_x86_64_debug",
+        1
+    ],
+    [
+        "Dominic Sudy",
+        "conan/profiles/linux_x86_64_release",
+        1
+    ],
+    [
+        "Dominic Sudy",
+        "yaml",
+        17
+    ],
+    [
+        "Dominic Sudy",
+        "devcontainer/Dockerfile",
+        1
+    ],
+    [
+        "Dominic Sudy",
+        "json",
+        8
+    ],
+    [
+        "Dominic Sudy",
+        "sh",
+        22
+    ],
+    [
+        "Dominic Sudy",
+        "md",
+        6
+    ],
+    [
+        "Dominic Sudy",
+        "tpl",
+        3
+    ],
+    [
+        "Dominic Sudy",
+        "yml",
+        16
+    ],
+    [
+        "Dominic Sudy",
+        "gitignore",
+        2
+    ],
+    [
+        "Dominic Sudy",
+        "txt",
+        24
+    ],
+    [
+        "Dominic Sudy",
+        "cfg",
+        3
+    ],
+    [
+        "Dominic Sudy",
+        "unknown",
+        4
+    ],
+    [
+        "Dominic Sudy",
+        "cpp",
+        35
+    ],
+    [
+        "Dominic Sudy",
+        "h",
+        34
+    ],
+    [
+        "Dominic Sudy",
+        "py",
+        2
+    ],
+    [
+        "Dominic Sudy",
+        "helmignore",
+        2
+    ],
+    [
+        "Dominic Sudy",
+        "log",
+        1
+    ],
+    [
+        "Dominic Sudy",
+        "dbc",
+        1
+    ],
+    [
+        "Dominic Sudy",
+        "dockerignore",
+        1
+    ],
+    [
+        "Dominic Sudy",
+        "cc",
+        2
+    ],
+    [
+        "Dominic Sudy",
+        "proto",
+        3
+    ],
+    [
+        "BjoernAtBosch",
+        "yml",
+        1
+    ],
+    [
+        "BjoernAtBosch",
+        "md",
+        1
+    ],
+    [
+        "BjoernAtBosch",
+        "h",
+        7
+    ],
+    [
+        "BjoernAtBosch",
+        "cpp",
+        11
+    ],
+    [
+        "BjoernAtBosch",
+        "yaml",
+        1
+    ],
+    [
+        "BjoernAtBosch",
+        "cfg",
+        1
+    ],
+    [
+        "BjoernAtBosch",
+        "txt",
+        1
+    ]
+]

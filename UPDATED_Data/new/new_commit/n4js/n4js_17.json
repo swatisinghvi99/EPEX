@@ -1,0 +1,472 @@
+[
+    [
+        "Quang Minh Tran",
+        "unknown",
+        1
+    ],
+    [
+        "Quang Minh Tran",
+        "json",
+        2
+    ],
+    [
+        "Quang Minh Tran",
+        "sh",
+        1
+    ],
+    [
+        "Quang Minh Tran",
+        "js",
+        1
+    ],
+    [
+        "Quang Minh Tran",
+        "n4js",
+        1
+    ],
+    [
+        "mor-n4",
+        "adoc",
+        1
+    ],
+    [
+        "mor-n4",
+        "java",
+        146
+    ],
+    [
+        "mor-n4",
+        "xcore",
+        3
+    ],
+    [
+        "mor-n4",
+        "xtend",
+        37
+    ],
+    [
+        "mor-n4",
+        "properties",
+        2
+    ],
+    [
+        "mor-n4",
+        "MF",
+        2
+    ],
+    [
+        "mor-n4",
+        "json",
+        6
+    ],
+    [
+        "mor-n4",
+        "n4js",
+        17
+    ],
+    [
+        "mor-n4",
+        "tests/probands/workspace/A/_project",
+        1
+    ],
+    [
+        "mor-n4",
+        "tests/probands/workspace/B/_project",
+        1
+    ],
+    [
+        "mor-n4",
+        "xt",
+        10
+    ],
+    [
+        "mor-n4",
+        "api/_project",
+        1
+    ],
+    [
+        "mor-n4",
+        "n4js/_project",
+        1
+    ],
+    [
+        "mor-n4",
+        "utils/_project",
+        1
+    ],
+    [
+        "mor-n4",
+        "tests/probands/ExcludePckJson/ExcludePckJson/_project",
+        1
+    ],
+    [
+        "mor-n4",
+        "tests/probands/ListBase/_project",
+        1
+    ],
+    [
+        "mor-n4",
+        "tests/probands/npmScopes/example1/@myScope/Lib/_project",
+        1
+    ],
+    [
+        "mor-n4",
+        "tests/probands/npmScopes/example1/Lib/_project",
+        1
+    ],
+    [
+        "mor-n4",
+        "tests/probands/npmScopes/example1/XClient/_project",
+        1
+    ],
+    [
+        "mmews-n4",
+        "java",
+        31
+    ],
+    [
+        "mmews-n4",
+        "properties",
+        1
+    ],
+    [
+        "mmews-n4",
+        "xtend",
+        4
+    ],
+    [
+        "mmews-n4",
+        "tests/probands/ShadowingCreatesVersionWarnings/P1/_project",
+        1
+    ],
+    [
+        "mmews-n4",
+        "json",
+        2
+    ],
+    [
+        "mmews-n4",
+        "n4js",
+        2
+    ],
+    [
+        "mmews-n4",
+        "lang/_project",
+        1
+    ],
+    [
+        "mmews-n4",
+        "xml",
+        11
+    ],
+    [
+        "mmews-n4",
+        "MF",
+        5
+    ],
+    [
+        "mmews-n4",
+        "exsd",
+        1
+    ],
+    [
+        "mmews-n4",
+        "project",
+        1
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "MF",
+        2
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "java",
+        103
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "xml",
+        2
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "xtend",
+        10
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "xcore",
+        2
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "n4jsd",
+        2
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "properties",
+        1
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "json",
+        3
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "adoc",
+        1
+    ],
+    [
+        "Luca Beurer-Kellner",
+        "js",
+        1
+    ],
+    [
+        "Jens von Pilgrim",
+        "MF",
+        5
+    ],
+    [
+        "Jens von Pilgrim",
+        "xml",
+        4
+    ],
+    [
+        "Jens von Pilgrim",
+        "java",
+        33
+    ],
+    [
+        "Jens von Pilgrim",
+        "classpath",
+        1
+    ],
+    [
+        "Jens von Pilgrim",
+        "project",
+        1
+    ],
+    [
+        "Jens von Pilgrim",
+        "prefs",
+        10
+    ],
+    [
+        "Jens von Pilgrim",
+        "html",
+        1
+    ],
+    [
+        "Jens von Pilgrim",
+        "properties",
+        4
+    ],
+    [
+        "Jens von Pilgrim",
+        "tests/probands/sourcemaps/SVDemo/_project",
+        1
+    ],
+    [
+        "Jens von Pilgrim",
+        "json",
+        1
+    ],
+    [
+        "Jens von Pilgrim",
+        "js",
+        1
+    ],
+    [
+        "Jens von Pilgrim",
+        "map",
+        1
+    ],
+    [
+        "Jens von Pilgrim",
+        "n4js",
+        1
+    ],
+    [
+        "Jens von Pilgrim",
+        "xtend",
+        5
+    ],
+    [
+        "Kristian Duske",
+        "n4jsd",
+        12
+    ],
+    [
+        "Kristian Duske",
+        "json",
+        4
+    ],
+    [
+        "Kristian Duske",
+        "bin/n4js",
+        6
+    ],
+    [
+        "Kristian Duske",
+        "map",
+        28
+    ],
+    [
+        "Kristian Duske",
+        "java",
+        1
+    ],
+    [
+        "Mark-Oliver Reiser",
+        "java",
+        51
+    ],
+    [
+        "Mark-Oliver Reiser",
+        "json",
+        1
+    ],
+    [
+        "Mark-Oliver Reiser",
+        "g",
+        4
+    ],
+    [
+        "Mark-Oliver Reiser",
+        "tokens",
+        4
+    ],
+    [
+        "Mark-Oliver Reiser",
+        "xtext",
+        2
+    ],
+    [
+        "Mark-Oliver Reiser",
+        "xtend",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        20
+    ],
+    [
+        "Sebastian Zarnekow",
+        "tests/probands/reproduce-invalid-index/Client/_project",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "json",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "n4js",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "tests/probands/reproduce-invalid-index/Def/_project",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "n4jsd",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "tests/probands/reproduce-invalid-index/Impl/_project",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "prefs",
+        3
+    ],
+    [
+        "\u01ddlzl\u01ddoq l\u01dd\u1d09u\u0250p \u30c4",
+        "js",
+        12
+    ],
+    [
+        "\u01ddlzl\u01ddoq l\u01dd\u1d09u\u0250p \u30c4",
+        "n4js",
+        8
+    ],
+    [
+        "\u01ddlzl\u01ddoq l\u01dd\u1d09u\u0250p \u30c4",
+        "map",
+        1
+    ],
+    [
+        "\u01ddlzl\u01ddoq l\u01dd\u1d09u\u0250p \u30c4",
+        "n4jsd",
+        2
+    ],
+    [
+        "\u01ddlzl\u01ddoq l\u01dd\u1d09u\u0250p \u30c4",
+        "java",
+        1
+    ],
+    [
+        "mmews",
+        "java",
+        70
+    ],
+    [
+        "mmews",
+        "MF",
+        2
+    ],
+    [
+        "mmews",
+        "xt",
+        5
+    ],
+    [
+        "mmews",
+        "xml",
+        4
+    ],
+    [
+        "mmews",
+        "exsd",
+        4
+    ],
+    [
+        "mmews",
+        "g",
+        2
+    ],
+    [
+        "mmews",
+        "tokens",
+        2
+    ],
+    [
+        "mmews",
+        "xtend",
+        2
+    ],
+    [
+        "mmews",
+        "json",
+        1
+    ],
+    [
+        "mmews",
+        "n4jsd",
+        1
+    ]
+]

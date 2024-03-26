@@ -1,0 +1,172 @@
+[
+    [
+        "Sergey Prigogin",
+        "java",
+        48
+    ],
+    [
+        "Sergey Prigogin",
+        "properties",
+        30
+    ],
+    [
+        "Sergey Prigogin",
+        "classpath",
+        69
+    ],
+    [
+        "Sergey Prigogin",
+        "prefs",
+        68
+    ],
+    [
+        "Sergey Prigogin",
+        "MF",
+        70
+    ],
+    [
+        "Andrew Eidsness",
+        "java",
+        94
+    ],
+    [
+        "Andrew Eidsness",
+        "MF",
+        3
+    ],
+    [
+        "Andrew Eidsness",
+        "xml",
+        1
+    ],
+    [
+        "Andrew Eidsness",
+        "properties",
+        1
+    ],
+    [
+        "Pawel Piech",
+        "java",
+        4
+    ],
+    [
+        "Marc Khouzam",
+        "java",
+        4
+    ],
+    [
+        "Marc-Andre Laperle",
+        "java",
+        1
+    ],
+    [
+        "Dave McKnight",
+        "java",
+        16
+    ],
+    [
+        "Greg Watson",
+        "java",
+        2
+    ],
+    [
+        "David Kaspar",
+        "MF",
+        1
+    ],
+    [
+        "David Kaspar",
+        "java",
+        7
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        1
+    ],
+    [
+        "Alvaro Sanchez-Leon",
+        "java",
+        7
+    ],
+    [
+        "Alvaro Sanchez-Leon",
+        "MF",
+        1
+    ],
+    [
+        "Daniel Pesch",
+        "properties",
+        1
+    ],
+    [
+        "Daniel Pesch",
+        "xml",
+        1
+    ],
+    [
+        "Daniel Pesch",
+        "exsd",
+        1
+    ],
+    [
+        "Daniel Pesch",
+        "java",
+        4
+    ],
+    [
+        "Doug Schaefer",
+        "xml",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "cpp",
+        4
+    ],
+    [
+        "Doug Schaefer",
+        "hh",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "core/templates/project/Qt4/Makefile",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "pro",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "qml",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "properties",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "core/templates/project/Qt5/Makefile",
+        1
+    ],
+    [
+        "Teodor Madan",
+        "java",
+        2
+    ],
+    [
+        "Ji\u0159\u00ed Nytra",
+        "java",
+        1
+    ],
+    [
+        "Nathan Ridge",
+        "java",
+        2
+    ]
+]

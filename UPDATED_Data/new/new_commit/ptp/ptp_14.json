@@ -1,0 +1,207 @@
+[
+    [
+        "Kam Man Chu",
+        "java",
+        418
+    ],
+    [
+        "Kam Man Chu",
+        "c",
+        3
+    ],
+    [
+        "Kam Man Chu",
+        "properties",
+        12
+    ],
+    [
+        "Kam Man Chu",
+        "xml",
+        10
+    ],
+    [
+        "Kam Man Chu",
+        "project",
+        2
+    ],
+    [
+        "Kam Man Chu",
+        "MF",
+        7
+    ],
+    [
+        "Kam Man Chu",
+        "classpath",
+        2
+    ],
+    [
+        "Kam Man Chu",
+        "exsd",
+        1
+    ],
+    [
+        "Greg Watson",
+        "java",
+        19
+    ],
+    [
+        "Greg Watson",
+        "c",
+        56
+    ],
+    [
+        "Greg Watson",
+        "cdtproject",
+        3
+    ],
+    [
+        "Greg Watson",
+        "project",
+        2
+    ],
+    [
+        "Greg Watson",
+        "proxy/AUTHORS",
+        1
+    ],
+    [
+        "Greg Watson",
+        "proxy/COPYING",
+        1
+    ],
+    [
+        "Greg Watson",
+        "proxy/INSTALL",
+        1
+    ],
+    [
+        "Greg Watson",
+        "am",
+        4
+    ],
+    [
+        "Greg Watson",
+        "in",
+        13
+    ],
+    [
+        "Greg Watson",
+        "proxy/README",
+        1
+    ],
+    [
+        "Greg Watson",
+        "m4",
+        2
+    ],
+    [
+        "Greg Watson",
+        "proxy/compile",
+        1
+    ],
+    [
+        "Greg Watson",
+        "guess",
+        2
+    ],
+    [
+        "Greg Watson",
+        "sub",
+        2
+    ],
+    [
+        "Greg Watson",
+        "proxy/configure",
+        2
+    ],
+    [
+        "Greg Watson",
+        "proxy/depcomp",
+        1
+    ],
+    [
+        "Greg Watson",
+        "h",
+        25
+    ],
+    [
+        "Greg Watson",
+        "proxy/install-sh",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sh",
+        2
+    ],
+    [
+        "Greg Watson",
+        "proxy/missing",
+        1
+    ],
+    [
+        "Greg Watson",
+        "utils/AUTHORS",
+        1
+    ],
+    [
+        "Greg Watson",
+        "utils/COPYING",
+        1
+    ],
+    [
+        "Greg Watson",
+        "utils/INSTALL",
+        1
+    ],
+    [
+        "Greg Watson",
+        "utils/README",
+        1
+    ],
+    [
+        "Greg Watson",
+        "utils/compile",
+        1
+    ],
+    [
+        "Greg Watson",
+        "utils/configure",
+        1
+    ],
+    [
+        "Greg Watson",
+        "utils/depcomp",
+        1
+    ],
+    [
+        "Greg Watson",
+        "utils/install-sh",
+        1
+    ],
+    [
+        "Greg Watson",
+        "utils/missing",
+        1
+    ],
+    [
+        "Greg Watson",
+        "cvsignore",
+        2
+    ],
+    [
+        "Greg Watson",
+        "sdm/configure",
+        2
+    ],
+    [
+        "Greg Watson",
+        "properties",
+        1
+    ],
+    [
+        "Nathan DeBardeleben",
+        "java",
+        11
+    ]
+]

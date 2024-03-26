@@ -1,0 +1,152 @@
+[
+    [
+        "Alain Magloire",
+        "java",
+        355
+    ],
+    [
+        "Alain Magloire",
+        "core/ChangeLog",
+        3
+    ],
+    [
+        "Alain Magloire",
+        "win32/ChangeLog",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "c",
+        3
+    ],
+    [
+        "Alain Magloire",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "cpp",
+        1
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "core/ChangeLog",
+        22
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        151
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "ui/ChangeLog",
+        20
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "properties",
+        6
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "xml",
+        10
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "classpath",
+        2
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "project",
+        2
+    ],
+    [
+        "David Inglis",
+        "launch/ChangeLog",
+        5
+    ],
+    [
+        "David Inglis",
+        "java",
+        62
+    ],
+    [
+        "David Inglis",
+        "ui/ChangeLog",
+        4
+    ],
+    [
+        "David Inglis",
+        "core/ChangeLog",
+        3
+    ],
+    [
+        "David Inglis",
+        "xml",
+        2
+    ],
+    [
+        "David Inglis",
+        "classpath",
+        1
+    ],
+    [
+        "David Inglis",
+        "project",
+        1
+    ],
+    [
+        "David Inglis",
+        "properties",
+        1
+    ],
+    [
+        "Peter Graves",
+        "java",
+        7
+    ],
+    [
+        "Peter Graves",
+        "tests/ChangeLog",
+        1
+    ],
+    [
+        "Peter Graves",
+        "tests/Changelog",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "core/ChangeLog",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        74
+    ],
+    [
+        "Doug Schaefer",
+        "classpath",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "xml",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "exsd",
+        6
+    ],
+    [
+        "Doug Schaefer",
+        "ui/ChangeLog",
+        1
+    ]
+]

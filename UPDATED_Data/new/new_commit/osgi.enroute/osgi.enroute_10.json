@@ -1,0 +1,102 @@
+[
+    [
+        "Peter Kriens",
+        "bnd",
+        14
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        60
+    ],
+    [
+        "Peter Kriens",
+        "bndrun",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "js",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "json",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "classpath",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "gitignore",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "prefs",
+        4
+    ],
+    [
+        "Peter Kriens",
+        "xml",
+        7
+    ],
+    [
+        "Peter Kriens",
+        "properties",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "gradle",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "base/src/org/osgi/util/function/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "base/src/org/osgi/util/promise/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "project",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "md",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "web/src/osgi/enroute/angular/web/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "web/src/osgi/enroute/bootstrap/web/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "web/src/osgi/enroute/eventadmin/sse/bridge/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "web/src/osgi/enroute/web/statics/extender/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "web/src/osgi/enroute/xcross/filter/packageinfo",
+        1
+    ]
+]

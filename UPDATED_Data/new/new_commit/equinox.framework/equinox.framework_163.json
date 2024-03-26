@@ -1,0 +1,237 @@
+[
+    [
+        "Martin Oberhuber",
+        "h",
+        1
+    ],
+    [
+        "Martin Oberhuber",
+        "c",
+        4
+    ],
+    [
+        "Martin Oberhuber",
+        "sh",
+        1
+    ],
+    [
+        "Martin Oberhuber",
+        "mak",
+        1
+    ],
+    [
+        "Arun Thondapu",
+        "c",
+        4
+    ],
+    [
+        "Arun Thondapu",
+        "h",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "classpath",
+        4
+    ],
+    [
+        "Thomas Watson",
+        "properties",
+        9
+    ],
+    [
+        "Thomas Watson",
+        "MF",
+        14
+    ],
+    [
+        "Thomas Watson",
+        "java",
+        242
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/service/log/packageinfo",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/framework/wiring/dto/packageinfo",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/service/log/admin/packageinfo",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/framework/packageinfo",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/service/resolver/packageinfo",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "xml",
+        5
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/dto/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/framework/dto/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/framework/hooks/bundle/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/framework/hooks/resolver/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/framework/hooks/service/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/framework/hooks/weaving/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/framework/launch/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/framework/namespace/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/framework/startlevel/dto/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/framework/startlevel/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/framework/wiring/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/resource/dto/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/resource/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/service/condpermadmin/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/service/packageadmin/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/service/permissionadmin/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/service/startlevel/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/service/url/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "osgi/osgi/src/org/osgi/util/tracker/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "gitignore",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "project",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "prefs",
+        7
+    ],
+    [
+        "Thomas Watson",
+        "util/src/org/osgi/util/function/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "util/src/org/osgi/util/promise/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "html",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "api_filters",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "services/src/org/osgi/service/log/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        8
+    ],
+    [
+        "BJ Hargrave",
+        "MF",
+        1
+    ],
+    [
+        "Anjum Fatima",
+        "java",
+        13
+    ],
+    [
+        "Anjum Fatima",
+        "MF",
+        1
+    ]
+]

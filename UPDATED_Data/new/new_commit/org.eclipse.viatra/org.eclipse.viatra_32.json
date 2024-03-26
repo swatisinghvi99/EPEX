@@ -1,0 +1,102 @@
+[
+    [
+        "bergmann",
+        "java",
+        3
+    ],
+    [
+        "Andr\u00e1s Szabolcs Nagy",
+        "java",
+        25
+    ],
+    [
+        "Istvan David",
+        "ecore",
+        1
+    ],
+    [
+        "Istvan David",
+        "genmodel",
+        1
+    ],
+    [
+        "Istvan David",
+        "xtext",
+        1
+    ],
+    [
+        "Istvan David",
+        "java",
+        33
+    ],
+    [
+        "Istvan David",
+        "xtend",
+        2
+    ],
+    [
+        "De\u0301nes Harmath",
+        "MF",
+        21
+    ],
+    [
+        "De\u0301nes Harmath",
+        "xml",
+        5
+    ],
+    [
+        "De\u0301nes Harmath",
+        "java",
+        52
+    ],
+    [
+        "De\u0301nes Harmath",
+        "setup",
+        2
+    ],
+    [
+        "De\u0301nes Harmath",
+        "target",
+        3
+    ],
+    [
+        "De\u0301nes Harmath",
+        "ecore",
+        2
+    ],
+    [
+        "De\u0301nes Harmath",
+        "xtend",
+        2
+    ],
+    [
+        "Marton Bur",
+        "java",
+        18
+    ],
+    [
+        "Marton Bur",
+        "classpath",
+        1
+    ],
+    [
+        "Marton Bur",
+        "project",
+        1
+    ],
+    [
+        "Marton Bur",
+        "xml",
+        1
+    ],
+    [
+        "Marton Bur",
+        "xtend",
+        1
+    ],
+    [
+        "Marton Bur",
+        "gitignore",
+        1
+    ]
+]

@@ -1,0 +1,132 @@
+[
+    [
+        "Otavio Santana",
+        "gitignore",
+        20
+    ],
+    [
+        "Otavio Santana",
+        "xml",
+        50
+    ],
+    [
+        "Otavio Santana",
+        "java",
+        1676
+    ],
+    [
+        "Otavio Santana",
+        "g4",
+        6
+    ],
+    [
+        "Otavio Santana",
+        "DeleteQuerySupplier",
+        3
+    ],
+    [
+        "Otavio Santana",
+        "GetQuerySupplier",
+        3
+    ],
+    [
+        "Otavio Santana",
+        "InsertQuerySupplier",
+        3
+    ],
+    [
+        "Otavio Santana",
+        "PutQuerySupplier",
+        3
+    ],
+    [
+        "Otavio Santana",
+        "RemoveQuerySupplier",
+        3
+    ],
+    [
+        "Otavio Santana",
+        "SelectQuerySupplier",
+        3
+    ],
+    [
+        "Otavio Santana",
+        "UpdateQuerySupplier",
+        3
+    ],
+    [
+        "Otavio Santana",
+        "nosql",
+        42
+    ],
+    [
+        "Otavio Santana",
+        "md",
+        18
+    ],
+    [
+        "Otavio Santana",
+        "ColumnQueryParser",
+        2
+    ],
+    [
+        "Otavio Santana",
+        "ColumnQueryParserAsync",
+        2
+    ],
+    [
+        "Otavio Santana",
+        "TypeReferenceReader",
+        2
+    ],
+    [
+        "Otavio Santana",
+        "ValueReader",
+        2
+    ],
+    [
+        "Otavio Santana",
+        "ValueWriter",
+        2
+    ],
+    [
+        "Otavio Santana",
+        "DocumentQueryParser",
+        2
+    ],
+    [
+        "Otavio Santana",
+        "DocumentQueryParserAsync",
+        2
+    ],
+    [
+        "Otavio Santana",
+        "KeyValueQueryParser",
+        2
+    ],
+    [
+        "Otavio Santana",
+        "Extension",
+        10
+    ],
+    [
+        "Otavio Santana",
+        "json",
+        18
+    ],
+    [
+        "Otavio Santana",
+        "yaml",
+        2
+    ],
+    [
+        "Otavio Santana",
+        "tempalte",
+        1
+    ],
+    [
+        "Otavio Santana",
+        "template",
+        2
+    ]
+]

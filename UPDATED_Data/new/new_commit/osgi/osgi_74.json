@@ -1,0 +1,132 @@
+[
+    [
+        "Thomas Watson",
+        "java",
+        44
+    ],
+    [
+        "Thomas Watson",
+        "framework/src/org/osgi/framework/hooks/bundle/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "framework/src/org/osgi/framework/hooks/resolver/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "bnd",
+        38
+    ],
+    [
+        "Thomas Watson",
+        "framework/src/org/osgi/test/cases/hooks/tb/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "v100/org/osgi/test/cases/framework/resolver/tb1/test",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "v110/org/osgi/test/cases/framework/resolver/tb1/test",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "framework/src/org/osgi/test/cases/framework/resolver/tb1/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        94
+    ],
+    [
+        "BJ Hargrave",
+        "classpath",
+        4
+    ],
+    [
+        "BJ Hargrave",
+        "project",
+        4
+    ],
+    [
+        "BJ Hargrave",
+        "prefs",
+        10
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        38
+    ],
+    [
+        "BJ Hargrave",
+        "xml",
+        6
+    ],
+    [
+        "BJ Hargrave",
+        "composite/src/org/osgi/service/composite/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "composite/src/org/osgi/test/cases/composite/tb3/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "composite/src/org/osgi/test/cases/composite/tb3/params/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "composite/src/org/osgi/test/cases/composite/tb4/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "composite/src/org/osgi/test/cases/composite/tb4/params/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "remoteserviceadmin/src/org/osgi/service/remoteserviceadmin/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "html",
+        3
+    ],
+    [
+        "BJ Hargrave",
+        "bat",
+        5
+    ],
+    [
+        "BJ Hargrave",
+        "sh",
+        5
+    ],
+    [
+        "BJ Hargrave",
+        "config",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        14
+    ],
+    [
+        "Peter Kriens",
+        "bnd",
+        1
+    ]
+]

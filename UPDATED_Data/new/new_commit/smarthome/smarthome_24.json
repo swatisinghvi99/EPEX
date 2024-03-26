@@ -1,0 +1,367 @@
+[
+    [
+        "Ana Dimova",
+        "java",
+        22
+    ],
+    [
+        "Ana Dimova",
+        "json",
+        2
+    ],
+    [
+        "Marin Mitev",
+        "groovy",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "java",
+        32
+    ],
+    [
+        "Markus Rathgeb",
+        "js",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "groovy",
+        6
+    ],
+    [
+        "Markus Rathgeb",
+        "MF",
+        6
+    ],
+    [
+        "Markus Rathgeb",
+        "xml",
+        10
+    ],
+    [
+        "Markus Rathgeb",
+        "properties",
+        6
+    ],
+    [
+        "Markus Rathgeb",
+        "project",
+        3
+    ],
+    [
+        "Kai Kreuzer",
+        "java",
+        26
+    ],
+    [
+        "Kai Kreuzer",
+        "gitignore",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "launch",
+        3
+    ],
+    [
+        "Kai Kreuzer",
+        "MF",
+        10
+    ],
+    [
+        "Kai Kreuzer",
+        "xml_gen",
+        6
+    ],
+    [
+        "Kai Kreuzer",
+        "xml",
+        10
+    ],
+    [
+        "Kai Kreuzer",
+        "xtend",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "setup",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "target",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "properties",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "html",
+        8
+    ],
+    [
+        "Kai Kreuzer",
+        "js",
+        1
+    ],
+    [
+        "Chris Jackson",
+        "java",
+        5
+    ],
+    [
+        "Chris Jackson",
+        "xml",
+        1
+    ],
+    [
+        "Marcel Verpaalen",
+        "js",
+        1
+    ],
+    [
+        "Marcel Verpaalen",
+        "java",
+        2
+    ],
+    [
+        "Christoph Knauf",
+        "groovy",
+        6
+    ],
+    [
+        "Christoph Knauf",
+        "MF",
+        2
+    ],
+    [
+        "Christoph Knauf",
+        "xml",
+        2
+    ],
+    [
+        "Christoph Knauf",
+        "java",
+        13
+    ],
+    [
+        "Christoph Knauf",
+        "launch",
+        1
+    ],
+    [
+        "Yordan Mihaylov",
+        "java",
+        7
+    ],
+    [
+        "Yordan Mihaylov",
+        "MF",
+        2
+    ],
+    [
+        "Simon Kaufmann",
+        "groovy",
+        3
+    ],
+    [
+        "Simon Kaufmann",
+        "java",
+        3
+    ],
+    [
+        "Benedikt Niehues",
+        "json",
+        1
+    ],
+    [
+        "Benedikt Niehues",
+        "groovy",
+        1
+    ],
+    [
+        "Benedikt Niehues",
+        "java",
+        1
+    ],
+    [
+        "Dominic Lerbs",
+        "launch",
+        1
+    ],
+    [
+        "Dominic Lerbs",
+        "groovy",
+        1
+    ],
+    [
+        "Dominic Lerbs",
+        "md",
+        1
+    ],
+    [
+        "Dominic Lerbs",
+        "cfg",
+        1
+    ],
+    [
+        "Dominic Lerbs",
+        "java",
+        1
+    ],
+    [
+        "chriskn",
+        "java",
+        1
+    ],
+    [
+        "chriskn",
+        "groovy",
+        1
+    ],
+    [
+        "Aoun Bukhari",
+        "css",
+        1
+    ],
+    [
+        "Aoun Bukhari",
+        "html",
+        4
+    ],
+    [
+        "Aoun Bukhari",
+        "js",
+        4
+    ],
+    [
+        "Andre Fuechsel",
+        "groovy",
+        1
+    ],
+    [
+        "Andre Fuechsel",
+        "java",
+        1
+    ],
+    [
+        "Patrick Koenemann",
+        "classpath",
+        1
+    ],
+    [
+        "Patrick Koenemann",
+        "project",
+        1
+    ],
+    [
+        "Patrick Koenemann",
+        "xml",
+        5
+    ],
+    [
+        "Patrick Koenemann",
+        "MF",
+        1
+    ],
+    [
+        "Patrick Koenemann",
+        "md",
+        1
+    ],
+    [
+        "Patrick Koenemann",
+        "html",
+        1
+    ],
+    [
+        "Patrick Koenemann",
+        "properties",
+        1
+    ],
+    [
+        "Patrick Koenemann",
+        "java",
+        7
+    ],
+    [
+        "Thomas Eichst\u00e4dt-Engelen",
+        "MF",
+        1
+    ],
+    [
+        "Thomas Eichst\u00e4dt-Engelen",
+        "java",
+        2
+    ],
+    [
+        "Sebastian Janzen",
+        "xml",
+        1
+    ],
+    [
+        "Sebastian Janzen",
+        "java",
+        2
+    ],
+    [
+        "Vlad Ivanov",
+        "html",
+        2
+    ],
+    [
+        "Vlad Ivanov",
+        "js",
+        6
+    ],
+    [
+        "Vlad Ivanov",
+        "less",
+        1
+    ],
+    [
+        "Vlad Ivanov",
+        "css",
+        1
+    ],
+    [
+        "Vlad Ivanov",
+        "java",
+        1
+    ],
+    [
+        "Simon Merschjohann",
+        "MF",
+        1
+    ],
+    [
+        "Simon Merschjohann",
+        "xml",
+        1
+    ],
+    [
+        "Simon Merschjohann",
+        "java",
+        2
+    ],
+    [
+        "YordanDZhelev",
+        "groovy",
+        2
+    ],
+    [
+        "YordanDZhelev",
+        "xml",
+        19
+    ],
+    [
+        "YordanDZhelev",
+        "java",
+        3
+    ]
+]

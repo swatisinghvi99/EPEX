@@ -1,0 +1,292 @@
+[
+    [
+        "Christoph L\u00e4ubrich",
+        "java",
+        71
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "MF",
+        9
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "properties",
+        6
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "xml",
+        23
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "md",
+        2
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "target",
+        5
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "product",
+        1
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "prefs",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        8
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        113
+    ],
+    [
+        "Alexander Kurtakov",
+        "target",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "xml",
+        57
+    ],
+    [
+        "Alexander Kurtakov",
+        "md",
+        3
+    ],
+    [
+        "Alexander Kurtakov",
+        "properties",
+        5
+    ],
+    [
+        "Alexander Kurtakov",
+        "xml_expected",
+        6
+    ],
+    [
+        "Alexander Kurtakov",
+        "project",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "product",
+        12
+    ],
+    [
+        "Alexander Kurtakov",
+        "txt",
+        5
+    ],
+    [
+        "Alexander Kurtakov",
+        "prefs",
+        2
+    ],
+    [
+        "Martin Schreiber",
+        "xml",
+        147
+    ],
+    [
+        "Martin Schreiber",
+        "html",
+        33
+    ],
+    [
+        "Martin Schreiber",
+        "properties",
+        49
+    ],
+    [
+        "Martin Schreiber",
+        "java",
+        192
+    ],
+    [
+        "Martin Schreiber",
+        "inf",
+        1
+    ],
+    [
+        "Martin Schreiber",
+        "groovy",
+        3
+    ],
+    [
+        "mschreiber",
+        "md",
+        4
+    ],
+    [
+        "mschreiber",
+        "unknown",
+        1
+    ],
+    [
+        "mschreiber",
+        "xml",
+        5
+    ],
+    [
+        "mschreiber",
+        "txt",
+        1
+    ],
+    [
+        "mschreiber",
+        "properties",
+        2
+    ],
+    [
+        "mschreiber",
+        "html",
+        8
+    ],
+    [
+        "mschreiber",
+        "target",
+        1
+    ],
+    [
+        "mschreiber",
+        "java",
+        22
+    ],
+    [
+        "mschreiber",
+        "exsd",
+        1
+    ],
+    [
+        "mschreiber",
+        "junit/src/main/resources/about_files/NOTICE",
+        1
+    ],
+    [
+        "mschreiber",
+        "junit4/src/main/resources/about_files/NOTICE",
+        1
+    ],
+    [
+        "mschreiber",
+        "junit47/src/main/resources/about_files/NOTICE",
+        1
+    ],
+    [
+        "mschreiber",
+        "junit5/src/main/resources/about_files/NOTICE",
+        1
+    ],
+    [
+        "mschreiber",
+        "junit54/src/main/resources/about_files/NOTICE",
+        1
+    ],
+    [
+        "mschreiber",
+        "junit55/src/main/resources/about_files/NOTICE",
+        1
+    ],
+    [
+        "mschreiber",
+        "junit56/src/main/resources/about_files/NOTICE",
+        1
+    ],
+    [
+        "mschreiber",
+        "junit57/src/main/resources/about_files/NOTICE",
+        1
+    ],
+    [
+        "mschreiber",
+        "junit57withvintage/src/main/resources/about_files/NOTICE",
+        1
+    ],
+    [
+        "mschreiber",
+        "junit58/src/main/resources/about_files/NOTICE",
+        1
+    ],
+    [
+        "mschreiber",
+        "junit58withvintage/src/main/resources/about_files/NOTICE",
+        1
+    ],
+    [
+        "mschreiber",
+        "osgibooter/src/main/resources/about_files/NOTICE",
+        1
+    ],
+    [
+        "mschreiber",
+        "testng/src/main/resources/about_files/NOTICE",
+        1
+    ],
+    [
+        "Mickael Istria",
+        "xml",
+        8
+    ],
+    [
+        "Mickael Istria",
+        "java",
+        10
+    ],
+    [
+        "Mickael Istria",
+        "bnd",
+        10
+    ],
+    [
+        "Mickael Istria",
+        "MF",
+        2
+    ],
+    [
+        "Mickael Istria",
+        "properties",
+        1
+    ],
+    [
+        "Patrick Ziegler",
+        "java",
+        2
+    ],
+    [
+        "Patrick Ziegler",
+        "properties",
+        1
+    ],
+    [
+        "Patrick Ziegler",
+        "xml",
+        4
+    ],
+    [
+        "Patrick Ziegler",
+        "target",
+        1
+    ],
+    [
+        "Sebastian Ratz",
+        "java",
+        2
+    ],
+    [
+        "Sebastian Ratz",
+        "xml",
+        2
+    ]
+]

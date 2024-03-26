@@ -1,0 +1,287 @@
+[
+    [
+        "Sergey Prigogin",
+        "java",
+        234
+    ],
+    [
+        "Sergey Prigogin",
+        "properties",
+        10
+    ],
+    [
+        "Sergey Prigogin",
+        "prefs",
+        1
+    ],
+    [
+        "Sergey Prigogin",
+        "MF",
+        4
+    ],
+    [
+        "Sergey Prigogin",
+        "xml",
+        1
+    ],
+    [
+        "Marc-Andre Laperle",
+        "java",
+        5
+    ],
+    [
+        "Andrew Gvozdev",
+        "java",
+        28
+    ],
+    [
+        "Andrew Gvozdev",
+        "properties",
+        2
+    ],
+    [
+        "Andrew Gvozdev",
+        "xml",
+        2
+    ],
+    [
+        "Uwe Stieber",
+        "xml",
+        53
+    ],
+    [
+        "Uwe Stieber",
+        "MF",
+        14
+    ],
+    [
+        "Uwe Stieber",
+        "java",
+        42
+    ],
+    [
+        "Randy Rohrbach",
+        "java",
+        17
+    ],
+    [
+        "Randy Rohrbach",
+        "xml",
+        2
+    ],
+    [
+        "Randy Rohrbach",
+        "properties",
+        1
+    ],
+    [
+        "Randy Rohrbach",
+        "exsd",
+        1
+    ],
+    [
+        "Marc Khouzam",
+        "java",
+        43
+    ],
+    [
+        "Marc Khouzam",
+        "properties",
+        1
+    ],
+    [
+        "Marc Khouzam",
+        "gdb/data/launch/src/Makefile",
+        1
+    ],
+    [
+        "Marc Khouzam",
+        "cc",
+        4
+    ],
+    [
+        "Marc Khouzam",
+        "xml",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        8
+    ],
+    [
+        "Doug Schaefer",
+        "xml",
+        7
+    ],
+    [
+        "Doug Schaefer",
+        "properties",
+        7
+    ],
+    [
+        "Doug Schaefer",
+        "project",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "html",
+        4
+    ],
+    [
+        "Doug Schaefer",
+        "classpath",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "prefs",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "MF",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "cpp",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "pro",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "qml",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "core/templates/project/helloWorld/qtQuick2/Makefile",
+        1
+    ],
+    [
+        "Markus Schorn",
+        "java",
+        7
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        40
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "properties",
+        6
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "xml",
+        3
+    ],
+    [
+        "Nathan Ridge",
+        "java",
+        22
+    ],
+    [
+        "Ivan Ivanoff",
+        "java",
+        1
+    ],
+    [
+        "Caroline Rieder",
+        "java",
+        2
+    ],
+    [
+        "David McKnight",
+        "java",
+        11
+    ],
+    [
+        "Martin Oberhuber",
+        "java",
+        4
+    ],
+    [
+        "David Dykstal",
+        "MF",
+        2
+    ],
+    [
+        "David Dykstal",
+        "xml",
+        2
+    ],
+    [
+        "David Dykstal",
+        "java",
+        7
+    ],
+    [
+        "Vivian Kong",
+        "java",
+        1
+    ],
+    [
+        "David Salinas",
+        "MF",
+        1
+    ],
+    [
+        "David Salinas",
+        "h",
+        4
+    ],
+    [
+        "David Salinas",
+        "c",
+        6
+    ],
+    [
+        "David Salinas",
+        "xml",
+        1
+    ],
+    [
+        "cabernal",
+        "java",
+        2
+    ],
+    [
+        "unknown",
+        "java",
+        7
+    ],
+    [
+        "unknown",
+        "xml",
+        1
+    ],
+    [
+        "unknown",
+        "properties",
+        1
+    ],
+    [
+        "Anna Dushistova",
+        "xml",
+        2
+    ],
+    [
+        "Anna Dushistova",
+        "java",
+        1
+    ],
+    [
+        "Chris Recoskie",
+        "java",
+        1
+    ]
+]

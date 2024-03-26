@@ -1,0 +1,337 @@
+[
+    [
+        "Oleksandr Andriienko",
+        "unknown",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "go",
+        2067
+    ],
+    [
+        "Oleksandr Andriienko",
+        "mod",
+        11
+    ],
+    [
+        "Oleksandr Andriienko",
+        "sum",
+        8
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/davecgh/go-spew/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "docs",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "yml",
+        11
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/go-logr/logr/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "md",
+        25
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/gogo/protobuf/AUTHORS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/gogo/protobuf/CONTRIBUTORS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/gogo/protobuf/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/gogo/protobuf/proto/Makefile",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/golang/glog/README",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "proto",
+        62
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/google/go-cmp/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "sh",
+        8
+    ],
+    [
+        "Oleksandr Andriienko",
+        "json",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "gitignore",
+        5
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/gorilla/websocket/AUTHORS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "lock",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "toml",
+        3
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/moby/spdystream/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/moby/spdystream/MAINTAINERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/moby/spdystream/NOTICE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/pkg/errors/Makefile",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/stretchr/testify/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "tmpl",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "org/x/oauth2/AUTHORS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "org/x/oauth2/CONTRIBUTORS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "s",
+        38
+    ],
+    [
+        "Oleksandr Andriienko",
+        "c",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "pl",
+        8
+    ],
+    [
+        "Oleksandr Andriienko",
+        "bash",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "org/x/term/AUTHORS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "org/x/term/CONTRIBUTORS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "org/x/term/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "org/appengine/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "org/protobuf/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "org/protobuf/PATENTS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "v2/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "v2/NOTICE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/apimachinery/pkg/api/errors/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/apimachinery/pkg/api/meta/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/apimachinery/pkg/api/resource/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/apimachinery/pkg/apis/meta/v1/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/client-go/pkg/apis/clientauthentication/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "bzl",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/client-go/rest/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/client-go/tools/metrics/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/client-go/transport/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/client-go/util/cert/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/client-go/util/keyutil/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/klog/v2/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/klog/v2/SECURITY_CONTACTS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/utils/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "txt",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/structured-merge-diff/v4/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/yaml/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/yaml/SECURITY_CONTACTS",
+        1
+    ],
+    [
+        "Flavius Lacatusu",
+        "yml",
+        6
+    ],
+    [
+        "Flavius Lacatusu",
+        "yaml",
+        13
+    ],
+    [
+        "Flavius Lacatusu",
+        "go",
+        115
+    ],
+    [
+        "Flavius Lacatusu",
+        "ts",
+        10
+    ],
+    [
+        "Flavius Lacatusu",
+        "sh",
+        7
+    ],
+    [
+        "Flavius Lacatusu",
+        "txt",
+        2
+    ],
+    [
+        "Flavius Lacatusu",
+        "py",
+        3
+    ]
+]

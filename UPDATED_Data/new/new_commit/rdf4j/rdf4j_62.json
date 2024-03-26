@@ -1,0 +1,107 @@
+[
+    [
+        "Jeen Broekstra",
+        "java",
+        24
+    ],
+    [
+        "Jeen Broekstra",
+        "md",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "xml",
+        2
+    ],
+    [
+        "hmottestad",
+        "java",
+        102
+    ],
+    [
+        "hmottestad",
+        "ttl",
+        5
+    ],
+    [
+        "hmottestad",
+        "rq",
+        2
+    ],
+    [
+        "Ha\u030avard Ottestad",
+        "java",
+        152
+    ],
+    [
+        "Ha\u030avard Ottestad",
+        "rq",
+        28
+    ],
+    [
+        "Ha\u030avard Ottestad",
+        "ttl",
+        19
+    ],
+    [
+        "Ha\u030avard Ottestad",
+        "xml",
+        1
+    ],
+    [
+        "desislava.hristova",
+        "java",
+        11
+    ],
+    [
+        "desislava.hristova",
+        "RDFParserFactory",
+        1
+    ],
+    [
+        "desislava.hristova",
+        "RDFWriterFactory",
+        1
+    ],
+    [
+        "desislava.hristova",
+        "ndjsonld",
+        1
+    ],
+    [
+        "Alexey Ivanov",
+        "java",
+        2
+    ],
+    [
+        "Alexey Ivanov",
+        "ttl",
+        1
+    ],
+    [
+        "Jerven Bolleman",
+        "java",
+        37
+    ],
+    [
+        "Jerven Bolleman",
+        "xml",
+        13
+    ],
+    [
+        "Bart Hanssens",
+        "java",
+        10
+    ],
+    [
+        "Manuel Fiorelli",
+        "xml",
+        1
+    ],
+    [
+        "Manuel Fiorelli",
+        "java",
+        2
+    ]
+]

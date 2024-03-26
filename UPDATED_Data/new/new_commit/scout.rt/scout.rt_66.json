@@ -1,0 +1,362 @@
+[
+    [
+        "Daniel Wiehl",
+        "java",
+        501
+    ],
+    [
+        "Daniel Wiehl",
+        "css",
+        4
+    ],
+    [
+        "Daniel Wiehl",
+        "js",
+        37
+    ],
+    [
+        "Daniel Wiehl",
+        "json",
+        2
+    ],
+    [
+        "Nathan Burgherr",
+        "js",
+        120
+    ],
+    [
+        "Nathan Burgherr",
+        "css",
+        11
+    ],
+    [
+        "Nathan Burgherr",
+        "java",
+        2
+    ],
+    [
+        "Christian Rusche",
+        "css",
+        11
+    ],
+    [
+        "Christian Rusche",
+        "js",
+        37
+    ],
+    [
+        "Christian Rusche",
+        "java",
+        1
+    ],
+    [
+        "Christian Rusche",
+        "properties",
+        2
+    ],
+    [
+        "Adrian Sacchi",
+        "java",
+        217
+    ],
+    [
+        "Adrian Sacchi",
+        "xml",
+        11
+    ],
+    [
+        "Adrian Sacchi",
+        "gitignore",
+        1
+    ],
+    [
+        "Adrian Sacchi",
+        "project",
+        2
+    ],
+    [
+        "Adrian Sacchi",
+        "IPlatform",
+        2
+    ],
+    [
+        "Judith Gull",
+        "java",
+        107
+    ],
+    [
+        "Judith Gull",
+        "xml",
+        1
+    ],
+    [
+        "Ivan Motsch",
+        "java",
+        90
+    ],
+    [
+        "Ivan Motsch",
+        "js",
+        6
+    ],
+    [
+        "Ivan Motsch",
+        "prefs",
+        1
+    ],
+    [
+        "Ivan Motsch",
+        "project",
+        1
+    ],
+    [
+        "Ivan Motsch",
+        "css",
+        4
+    ],
+    [
+        "Andre Wegmueller",
+        "css",
+        28
+    ],
+    [
+        "Andre Wegmueller",
+        "js",
+        171
+    ],
+    [
+        "Andre Wegmueller",
+        "txt",
+        3
+    ],
+    [
+        "Andre Wegmueller",
+        "java",
+        20
+    ],
+    [
+        "Andre Wegmueller",
+        "properties",
+        2
+    ],
+    [
+        "Beat Schwarzentrub",
+        "js",
+        156
+    ],
+    [
+        "Beat Schwarzentrub",
+        "java",
+        234
+    ],
+    [
+        "Beat Schwarzentrub",
+        "txt",
+        3
+    ],
+    [
+        "Beat Schwarzentrub",
+        "xml",
+        2
+    ],
+    [
+        "Beat Schwarzentrub",
+        "json",
+        2
+    ],
+    [
+        "Beat Schwarzentrub",
+        "css",
+        43
+    ],
+    [
+        "Beat Schwarzentrub",
+        "svg",
+        1
+    ],
+    [
+        "Beat Schwarzentrub",
+        "properties",
+        8
+    ],
+    [
+        "Andy Ackermann",
+        "java",
+        7
+    ],
+    [
+        "Oli Schmid",
+        "java",
+        23
+    ],
+    [
+        "Stephan Merkli",
+        "txt",
+        2
+    ],
+    [
+        "Stephan Merkli",
+        "java",
+        48
+    ],
+    [
+        "Stephan Merkli",
+        "css",
+        1
+    ],
+    [
+        "Stephan Merkli",
+        "js",
+        9
+    ],
+    [
+        "Andr\u00e9 Wegm\u00fcller",
+        "java",
+        29
+    ],
+    [
+        "Claudio Guglielmo",
+        "java",
+        54
+    ],
+    [
+        "Claudio Guglielmo",
+        "js",
+        178
+    ],
+    [
+        "Claudio Guglielmo",
+        "css",
+        48
+    ],
+    [
+        "Claudio Guglielmo",
+        "txt",
+        1
+    ],
+    [
+        "Claudio Guglielmo",
+        "properties",
+        2
+    ],
+    [
+        "Matthias Otterbach",
+        "js",
+        59
+    ],
+    [
+        "Matthias Otterbach",
+        "java",
+        59
+    ],
+    [
+        "Matthias Otterbach",
+        "css",
+        6
+    ],
+    [
+        "Matthias Otterbach",
+        "txt",
+        2
+    ],
+    [
+        "Matthias Otterbach",
+        "json",
+        1
+    ],
+    [
+        "Matthias Otterbach",
+        "svg",
+        1
+    ],
+    [
+        "Matthias Otterbach",
+        "html",
+        1
+    ],
+    [
+        "Patrick B\u00e4nziger",
+        "java",
+        1
+    ],
+    [
+        "Stephan Leicht Vogt",
+        "project",
+        40
+    ],
+    [
+        "Stephan Leicht Vogt",
+        "html",
+        27
+    ],
+    [
+        "Stephan Leicht Vogt",
+        "xml",
+        155
+    ],
+    [
+        "Stephan Leicht Vogt",
+        "java",
+        1744
+    ],
+    [
+        "Stephan Leicht Vogt",
+        "gitignore",
+        5
+    ],
+    [
+        "Stephan Leicht Vogt",
+        "prefs",
+        6
+    ],
+    [
+        "Stephan Leicht Vogt",
+        "properties",
+        4
+    ],
+    [
+        "Stephan Leicht Vogt",
+        "txt",
+        26
+    ],
+    [
+        "Stephan Leicht Vogt",
+        "launch",
+        2
+    ],
+    [
+        "Stephan Leicht Vogt",
+        "css",
+        2
+    ],
+    [
+        "Stephan Leicht Vogt",
+        "svg",
+        2
+    ],
+    [
+        "Stephan Leicht Vogt",
+        "jshintrc",
+        1
+    ],
+    [
+        "Hannes Mueller",
+        "java",
+        3
+    ],
+    [
+        "Rainer Niedermayr",
+        "java",
+        3
+    ],
+    [
+        "Rainer Niedermayr",
+        "js",
+        1
+    ],
+    [
+        "Matthias Nick",
+        "java",
+        1
+    ]
+]

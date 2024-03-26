@@ -1,0 +1,147 @@
+[
+    [
+        "Neil Langmead",
+        "cpp",
+        4
+    ],
+    [
+        "Simon Hoinkis",
+        "hpp",
+        299
+    ],
+    [
+        "Simon Hoinkis",
+        "inl",
+        71
+    ],
+    [
+        "Simon Hoinkis",
+        "cpp",
+        255
+    ],
+    [
+        "Simon Hoinkis",
+        "bazel",
+        2
+    ],
+    [
+        "Simon Hoinkis",
+        "txt",
+        5
+    ],
+    [
+        "Simon Hoinkis",
+        "md",
+        18
+    ],
+    [
+        "Simon Hoinkis",
+        "puml",
+        3
+    ],
+    [
+        "Ibrahim Kuru",
+        "hpp",
+        1
+    ],
+    [
+        "Ibrahim Kuru",
+        "inl",
+        1
+    ],
+    [
+        "Marika Lehmann",
+        "hpp",
+        29
+    ],
+    [
+        "Marika Lehmann",
+        "inl",
+        14
+    ],
+    [
+        "Marika Lehmann",
+        "cpp",
+        69
+    ],
+    [
+        "Marika Lehmann",
+        "txt",
+        1
+    ],
+    [
+        "Marika Lehmann",
+        "md",
+        3
+    ],
+    [
+        "Marika Lehmann",
+        "bazel",
+        1
+    ],
+    [
+        "Jeff Ithier",
+        "inl",
+        6
+    ],
+    [
+        "Jeff Ithier",
+        "hpp",
+        8
+    ],
+    [
+        "Jeff Ithier",
+        "cpp",
+        5
+    ],
+    [
+        "Mathias Kraus",
+        "hpp",
+        9
+    ],
+    [
+        "Mathias Kraus",
+        "cpp",
+        3
+    ],
+    [
+        "Mathias Kraus",
+        "inl",
+        1
+    ],
+    [
+        "Mathias Kraus",
+        "yml",
+        1
+    ],
+    [
+        "Jakub Sosnovec",
+        "hpp",
+        4
+    ],
+    [
+        "Jakub Sosnovec",
+        "inl",
+        2
+    ],
+    [
+        "Jakub Sosnovec",
+        "bazel",
+        2
+    ],
+    [
+        "Jakub Sosnovec",
+        "cmake",
+        2
+    ],
+    [
+        "Jakub Sosnovec",
+        "in",
+        1
+    ],
+    [
+        "Jakub Sosnovec",
+        "cpp",
+        1
+    ]
+]

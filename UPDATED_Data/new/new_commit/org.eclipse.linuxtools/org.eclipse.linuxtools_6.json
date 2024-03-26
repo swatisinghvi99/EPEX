@@ -1,0 +1,357 @@
+[
+    [
+        "Elliott Baron",
+        "unknown",
+        3
+    ],
+    [
+        "Elliott Baron",
+        "java",
+        73
+    ],
+    [
+        "Elliott Baron",
+        "launch/ChangeLog",
+        4
+    ],
+    [
+        "Elliott Baron",
+        "properties",
+        7
+    ],
+    [
+        "Elliott Baron",
+        "tests/ChangeLog",
+        15
+    ],
+    [
+        "Elliott Baron",
+        "MF",
+        6
+    ],
+    [
+        "Elliott Baron",
+        "massif/ChangeLog",
+        4
+    ],
+    [
+        "Elliott Baron",
+        "cachegrind/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "memcheck/ChangeLog",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "txt",
+        32
+    ],
+    [
+        "Alexander Kurtakov",
+        "prefs",
+        3
+    ],
+    [
+        "Alexander Kurtakov",
+        "ui/ChangeLog",
+        5
+    ],
+    [
+        "Alexander Kurtakov",
+        "xml",
+        4
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        92
+    ],
+    [
+        "Alexander Kurtakov",
+        "core/ChangeLog",
+        6
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/ChangeLog",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "editor/ChangeLog",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "properties",
+        9
+    ],
+    [
+        "Alexander Kurtakov",
+        "rpmlint/ChangeLog",
+        1
+    ],
+    [
+        "Kent Sebastian",
+        "java",
+        13
+    ],
+    [
+        "Kent Sebastian",
+        "properties",
+        2
+    ],
+    [
+        "Kent Sebastian",
+        "xml",
+        2
+    ],
+    [
+        "Kent Sebastian",
+        "MF",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "autotools/ChangeLog",
+        6
+    ],
+    [
+        "Jeff Johnston",
+        "java",
+        119
+    ],
+    [
+        "Jeff Johnston",
+        "properties",
+        42
+    ],
+    [
+        "Jeff Johnston",
+        "xml",
+        30
+    ],
+    [
+        "Jeff Johnston",
+        "MF",
+        17
+    ],
+    [
+        "Jeff Johnston",
+        "libstdcxx/ChangeLog",
+        6
+    ],
+    [
+        "Jeff Johnston",
+        "classpath",
+        10
+    ],
+    [
+        "Jeff Johnston",
+        "project",
+        18
+    ],
+    [
+        "Jeff Johnston",
+        "prefs",
+        10
+    ],
+    [
+        "Jeff Johnston",
+        "libhover/ChangeLog",
+        5
+    ],
+    [
+        "Jeff Johnston",
+        "exsd",
+        5
+    ],
+    [
+        "Jeff Johnston",
+        "html",
+        15
+    ],
+    [
+        "Jeff Johnston",
+        "feature/ChangeLog",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "glibc/ChangeLog",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "library-docs/ChangeLog",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "newlib/ChangeLog",
+        2
+    ],
+    [
+        "Andrew Overholt",
+        "classpath",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "prefs",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "MF",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "properties",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "java",
+        38
+    ],
+    [
+        "Xavier Raynaud",
+        "java",
+        100
+    ],
+    [
+        "Xavier Raynaud",
+        "project",
+        4
+    ],
+    [
+        "Xavier Raynaud",
+        "MF",
+        4
+    ],
+    [
+        "Xavier Raynaud",
+        "html",
+        1
+    ],
+    [
+        "Xavier Raynaud",
+        "xml",
+        3
+    ],
+    [
+        "Xavier Raynaud",
+        "exsd",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "project",
+        11
+    ],
+    [
+        "Anithra P Janakiraman",
+        "editor/ChangeLog",
+        3
+    ],
+    [
+        "Anithra P Janakiraman",
+        "MF",
+        11
+    ],
+    [
+        "Anithra P Janakiraman",
+        "xml",
+        9
+    ],
+    [
+        "Anithra P Janakiraman",
+        "editor/src/org/eclipse/linuxtools/systemtap/backup/ui/editor/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "java",
+        306
+    ],
+    [
+        "Anithra P Janakiraman",
+        "editor/src/org/eclipse/linuxtools/systemtap/ui/editor/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "consolelog/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "feature/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "graphing/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "nonui/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "ide/ChangeLog",
+        2
+    ],
+    [
+        "Anithra P Janakiraman",
+        "logging/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "structures/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "properties",
+        3
+    ],
+    [
+        "Anithra P Janakiraman",
+        "systemtapgui/ChangeLog",
+        1
+    ],
+    [
+        "Alphonse Van Assche",
+        "editor/ChangeLog",
+        3
+    ],
+    [
+        "Alphonse Van Assche",
+        "java",
+        13
+    ],
+    [
+        "Alphonse Van Assche",
+        "tests/ChangeLog",
+        1
+    ]
+]

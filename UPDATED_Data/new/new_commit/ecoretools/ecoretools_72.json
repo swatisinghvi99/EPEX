@@ -1,0 +1,22 @@
+[
+    [
+        "cbrun",
+        "java",
+        40
+    ],
+    [
+        "cbrun",
+        "odesign",
+        10
+    ],
+    [
+        "cbrun",
+        "MF",
+        1
+    ],
+    [
+        "cbrun",
+        "xml",
+        1
+    ]
+]

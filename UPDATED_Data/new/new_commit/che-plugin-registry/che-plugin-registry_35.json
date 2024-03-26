@@ -1,0 +1,52 @@
+[
+    [
+        "Mykhailo Kuznietsov",
+        "yaml",
+        5
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "yml",
+        4
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "md",
+        3
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "sh",
+        6
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "ts",
+        5
+    ],
+    [
+        "Florent Benoit",
+        "yaml",
+        6
+    ],
+    [
+        "Florent Benoit",
+        "ts",
+        10
+    ],
+    [
+        "Florent Benoit",
+        "ci/openshift-ci/build/Dockerfile",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "Dockerfile",
+        2
+    ],
+    [
+        "Florent Benoit",
+        "unknown",
+        1
+    ]
+]

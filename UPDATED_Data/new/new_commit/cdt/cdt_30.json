@@ -1,0 +1,162 @@
+[
+    [
+        "Sean Evoy",
+        "java",
+        13
+    ],
+    [
+        "Sean Evoy",
+        "xml",
+        2
+    ],
+    [
+        "Sean Evoy",
+        "properties",
+        1
+    ],
+    [
+        "John Camelon",
+        "java",
+        374
+    ],
+    [
+        "David Inglis",
+        "java",
+        8
+    ],
+    [
+        "David Inglis",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "David Inglis",
+        "properties",
+        1
+    ],
+    [
+        "David Inglis",
+        "c",
+        1
+    ],
+    [
+        "David Inglis",
+        "h",
+        1
+    ],
+    [
+        "Andrew Niefer",
+        "java",
+        212
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "core/ChangeLog",
+        13
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        20
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "ui/ChangeLog",
+        2
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "xml",
+        1
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "launch/ChangeLog",
+        1
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "properties",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "core/ChangeLog",
+        6
+    ],
+    [
+        "Alain Magloire",
+        "java",
+        237
+    ],
+    [
+        "Alain Magloire",
+        "ui/ChangeLog",
+        10
+    ],
+    [
+        "Alain Magloire",
+        "properties",
+        9
+    ],
+    [
+        "Alain Magloire",
+        "xml",
+        5
+    ],
+    [
+        "Alain Magloire",
+        "tests/ChangeLog",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "launch/ChangeLog",
+        1
+    ],
+    [
+        "Chris Wiebe",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "Chris Wiebe",
+        "java",
+        2
+    ],
+    [
+        "Vladimir Hirsl",
+        "java",
+        8
+    ],
+    [
+        "Vladimir Hirsl",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Vladimir Hirsl",
+        "xml",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "java",
+        5
+    ],
+    [
+        "Bogdan Gheorghe",
+        "tests/ChangeLog",
+        2
+    ],
+    [
+        "Leo Treggiari",
+        "java",
+        2
+    ]
+]

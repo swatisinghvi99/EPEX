@@ -1,0 +1,112 @@
+[
+    [
+        "SergeRadinovich",
+        "mod",
+        12
+    ],
+    [
+        "SergeRadinovich",
+        "sum",
+        10
+    ],
+    [
+        "SergeRadinovich",
+        "go",
+        227
+    ],
+    [
+        "SergeRadinovich",
+        "txt",
+        10
+    ],
+    [
+        "SergeRadinovich",
+        "unknown",
+        6
+    ],
+    [
+        "SergeRadinovich",
+        "proto",
+        4
+    ],
+    [
+        "SergeRadinovich",
+        "sh",
+        2
+    ],
+    [
+        "SergeRadinovich",
+        "md",
+        9
+    ],
+    [
+        "SergeRadinovich",
+        "yml",
+        4
+    ],
+    [
+        "SergeRadinovich",
+        "io/yaml/OWNERS",
+        1
+    ],
+    [
+        "SergeRadinovich",
+        "com/eclipse-iofog/iofog-go-sdk/NOTICE",
+        2
+    ],
+    [
+        "SergeRadinovich",
+        "com/eclipse-iofog/iofog-operator/NOTICE",
+        2
+    ],
+    [
+        "SergeRadinovich",
+        "yaml",
+        8
+    ],
+    [
+        "SergeRadinovich",
+        "io/apiextensions-apiserver/LICENSE",
+        1
+    ],
+    [
+        "Lubo\u0161 Kr\u010d\u00e1l",
+        "unknown",
+        2
+    ],
+    [
+        "Lubo\u0161 Kr\u010d\u00e1l",
+        "mod",
+        2
+    ],
+    [
+        "Lubo\u0161 Kr\u010d\u00e1l",
+        "sum",
+        2
+    ],
+    [
+        "Lubo\u0161 Kr\u010d\u00e1l",
+        "go",
+        94
+    ],
+    [
+        "Lubo\u0161 Kr\u010d\u00e1l",
+        "com/eclipse-iofog/iofog-go-sdk/NOTICE",
+        2
+    ],
+    [
+        "Lubo\u0161 Kr\u010d\u00e1l",
+        "md",
+        4
+    ],
+    [
+        "Lubo\u0161 Kr\u010d\u00e1l",
+        "com/eclipse-iofog/iofog-operator/NOTICE",
+        2
+    ],
+    [
+        "Lubo\u0161 Kr\u010d\u00e1l",
+        "txt",
+        2
+    ]
+]

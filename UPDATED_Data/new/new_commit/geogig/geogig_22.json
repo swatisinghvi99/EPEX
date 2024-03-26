@@ -1,0 +1,82 @@
+[
+    [
+        "Gabriel Roldan",
+        "java",
+        19
+    ],
+    [
+        "Gabriel Roldan",
+        "rst",
+        8
+    ],
+    [
+        "Gabriel Roldan",
+        "xml",
+        3
+    ],
+    [
+        "Gabriel Roldan",
+        "feature",
+        4
+    ],
+    [
+        "Gabriel Roldan",
+        "sql",
+        1
+    ],
+    [
+        "Johnathan Garrett",
+        "java",
+        126
+    ],
+    [
+        "Johnathan Garrett",
+        "rst",
+        1
+    ],
+    [
+        "Johnathan Garrett",
+        "feature",
+        1
+    ],
+    [
+        "sebastian-r-schmidt",
+        "java",
+        1
+    ],
+    [
+        "Tyler Battle",
+        "xml",
+        32
+    ],
+    [
+        "Tyler Battle",
+        "java",
+        83
+    ],
+    [
+        "Tyler Battle",
+        "CLIModule",
+        1
+    ],
+    [
+        "Tyler Battle",
+        "json",
+        10
+    ],
+    [
+        "Tyler Battle",
+        "txt",
+        5
+    ],
+    [
+        "Tyler Battle",
+        "unknown",
+        1
+    ],
+    [
+        "Tyler Battle",
+        "CommandRepresentationFactory",
+        1
+    ]
+]

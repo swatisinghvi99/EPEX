@@ -1,0 +1,52 @@
+[
+    [
+        "Frederic Gurr",
+        "jsonnet",
+        6
+    ],
+    [
+        "Frederic Gurr",
+        "zenoh/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "json",
+        21
+    ],
+    [
+        "Frederic Gurr",
+        "yml",
+        27
+    ],
+    [
+        "Frederic Gurr",
+        "hbs",
+        3
+    ],
+    [
+        "Frederic Gurr",
+        "override",
+        3
+    ],
+    [
+        "Frederic Gurr",
+        "js",
+        3
+    ],
+    [
+        "Frederic Gurr",
+        "tyrus/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "lemminx/target/Dockerfile",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "groovy",
+        1
+    ]
+]

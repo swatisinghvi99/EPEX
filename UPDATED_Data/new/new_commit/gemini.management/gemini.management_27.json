@@ -1,0 +1,52 @@
+[
+    [
+        "Christopher Frost",
+        "java",
+        45
+    ],
+    [
+        "Christopher Frost",
+        "MF",
+        3
+    ],
+    [
+        "Christopher Frost",
+        "management/src/main/java/org/osgi/jmx/framework/packageinfo",
+        1
+    ],
+    [
+        "Christopher Frost",
+        "management/src/main/java/org/osgi/jmx/framework/wiring/packageinfo",
+        1
+    ],
+    [
+        "Christopher Frost",
+        "management/src/main/java/org/osgi/jmx/packageinfo",
+        1
+    ],
+    [
+        "Christopher Frost",
+        "management/src/main/java/org/osgi/jmx/service/cm/packageinfo",
+        1
+    ],
+    [
+        "Christopher Frost",
+        "management/src/main/java/org/osgi/jmx/service/permissionadmin/packageinfo",
+        1
+    ],
+    [
+        "Christopher Frost",
+        "management/src/main/java/org/osgi/jmx/service/provisioning/packageinfo",
+        1
+    ],
+    [
+        "Christopher Frost",
+        "management/src/main/java/org/osgi/jmx/service/useradmin/packageinfo",
+        1
+    ],
+    [
+        "Christopher Frost",
+        "target",
+        1
+    ]
+]

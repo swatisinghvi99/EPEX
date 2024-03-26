@@ -1,0 +1,287 @@
+[
+    [
+        "Peter Nagy",
+        "xml",
+        17
+    ],
+    [
+        "Peter Nagy",
+        "java",
+        47
+    ],
+    [
+        "Peter Nagy",
+        "xsd",
+        1
+    ],
+    [
+        "Peter Nagy",
+        "launch",
+        1
+    ],
+    [
+        "Ivan Zahoranszky",
+        "java",
+        104
+    ],
+    [
+        "Ivan Zahoranszky",
+        "classpath",
+        3
+    ],
+    [
+        "Ivan Zahoranszky",
+        "properties",
+        1
+    ],
+    [
+        "Ivan Zahoranszky",
+        "mf",
+        1
+    ],
+    [
+        "Ivan Zahoranszky",
+        "txt",
+        1
+    ],
+    [
+        "gdepaula",
+        "classpath",
+        2
+    ],
+    [
+        "gdepaula",
+        "mf",
+        54
+    ],
+    [
+        "gdepaula",
+        "properties",
+        4
+    ],
+    [
+        "gdepaula",
+        "java",
+        332
+    ],
+    [
+        "gdepaula",
+        "xml",
+        4
+    ],
+    [
+        "gdepaula",
+        "bat",
+        1
+    ],
+    [
+        "gdepaula",
+        "sh",
+        1
+    ],
+    [
+        "gdepaula",
+        "txt",
+        3
+    ],
+    [
+        "gdepaula",
+        "html",
+        1
+    ],
+    [
+        "gdepaula",
+        "main/src/org/osgi/test/cases/template/tb1/packageinfo",
+        1
+    ],
+    [
+        "gdepaula",
+        "main/src/org/osgi/test/cases/template/tbc/packageinfo",
+        1
+    ],
+    [
+        "gdepaula",
+        "plugins/src/org/osgi/test/cases/template/tb1/packageinfo",
+        1
+    ],
+    [
+        "gdepaula",
+        "plugins/src/org/osgi/test/cases/template/tbc/packageinfo",
+        1
+    ],
+    [
+        "Janet Dmitrovich",
+        "java",
+        15
+    ],
+    [
+        "Luis Tenorio",
+        "java",
+        4
+    ],
+    [
+        "Luis Tenorio",
+        "mf",
+        3
+    ],
+    [
+        "i_karabashev",
+        "java",
+        6
+    ],
+    [
+        "i_karabashev",
+        "xml",
+        4
+    ],
+    [
+        "Tamas Szeredi",
+        "java",
+        101
+    ],
+    [
+        "Tamas Szeredi",
+        "properties",
+        1
+    ],
+    [
+        "Tamas Szeredi",
+        "mf",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        134
+    ],
+    [
+        "Peter Kriens",
+        "classpath",
+        6
+    ],
+    [
+        "Peter Kriens",
+        "plana",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "cvsignore",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "project",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "mf",
+        9
+    ],
+    [
+        "Peter Kriens",
+        "properties",
+        4
+    ],
+    [
+        "Peter Kriens",
+        "xml",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "testtool/src/org/osgi/test/cases/testtool/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "testtool/src/org/osgi/test/cases/testtool/tb1/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "testtool/src/org/osgi/test/cases/testtool/tbc/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "launch",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "main/src/org/osgi/test/cases/template/tb1/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "main/src/org/osgi/test/cases/template/tbc/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "plugins/src/org/osgi/test/cases/template/tb1/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "plugins/src/org/osgi/test/cases/template/tbc/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        717
+    ],
+    [
+        "BJ Hargrave",
+        "mf",
+        2
+    ],
+    [
+        "Tom Watson",
+        "java",
+        72
+    ],
+    [
+        "Tom Watson",
+        "properties",
+        4
+    ],
+    [
+        "Tom Watson",
+        "html",
+        1
+    ],
+    [
+        "d_dikova",
+        "java",
+        2
+    ],
+    [
+        "Olivier Pave",
+        "java",
+        5
+    ],
+    [
+        "Olivier Pave",
+        "properties",
+        2
+    ],
+    [
+        "Olivier Pave",
+        "ref",
+        1
+    ],
+    [
+        "Olivier Pave",
+        "xml",
+        1
+    ],
+    [
+        "Nickola Jetchev",
+        "java",
+        3
+    ]
+]

@@ -1,0 +1,462 @@
+[
+    [
+        "Aleksandr Shmaraiev",
+        "java",
+        17
+    ],
+    [
+        "Aleksandr Shmaraiev",
+        "xml",
+        7
+    ],
+    [
+        "Igor Ohrimenko",
+        "java",
+        32
+    ],
+    [
+        "Vitaliy Guliy",
+        "ts",
+        2
+    ],
+    [
+        "Vitaliy Guliy",
+        "java",
+        1
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "java",
+        16
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "xml",
+        4
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "properties",
+        4
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "env",
+        2
+    ],
+    [
+        "Dmytro Nochevnov",
+        "sh",
+        1
+    ],
+    [
+        "Dmytro Nochevnov",
+        "java",
+        99
+    ],
+    [
+        "Dmytro Nochevnov",
+        "md",
+        1
+    ],
+    [
+        "Dmytro Nochevnov",
+        "xml",
+        3
+    ],
+    [
+        "Dmytro Nochevnov",
+        "properties",
+        2
+    ],
+    [
+        "Igor Vinokur",
+        "java",
+        10
+    ],
+    [
+        "Oleksandr Andriienko",
+        "js",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "unknown",
+        1
+    ],
+    [
+        "Sergey Skorik",
+        "java",
+        124
+    ],
+    [
+        "Sergey Skorik",
+        "html",
+        4
+    ],
+    [
+        "Sergey Skorik",
+        "xml",
+        1
+    ],
+    [
+        "Roman Nikitenko",
+        "java",
+        4
+    ],
+    [
+        "Artem Zatsarynnyi",
+        "java",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "java",
+        6
+    ],
+    [
+        "Jonah Graham",
+        "TypeAdapterFactory",
+        1
+    ],
+    [
+        "Ilya Buziuk",
+        "properties",
+        1
+    ],
+    [
+        "Ilya Buziuk",
+        "java",
+        5
+    ],
+    [
+        "Oleksandr Garagatyi",
+        "java",
+        7
+    ],
+    [
+        "Florent BENOIT",
+        "xml",
+        7
+    ],
+    [
+        "Florent BENOIT",
+        "java",
+        7
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "ts",
+        5
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "html",
+        1
+    ],
+    [
+        "Vitalii Parfonov",
+        "java",
+        2
+    ],
+    [
+        "David Festal",
+        "properties",
+        1
+    ],
+    [
+        "David Festal",
+        "js",
+        1
+    ],
+    [
+        "David Festal",
+        "ts",
+        3
+    ],
+    [
+        "David Festal",
+        "html",
+        2
+    ],
+    [
+        "David Festal",
+        "env",
+        1
+    ],
+    [
+        "David Festal",
+        "java",
+        35
+    ],
+    [
+        "David Festal",
+        "xml",
+        1
+    ],
+    [
+        "David Festal",
+        "go",
+        3
+    ],
+    [
+        "Mykola Morhun",
+        "unknown",
+        2
+    ],
+    [
+        "Mykola Morhun",
+        "js",
+        4
+    ],
+    [
+        "RomanNikitenko",
+        "java",
+        22
+    ],
+    [
+        "RomanNikitenko",
+        "xml",
+        2
+    ],
+    [
+        "Max Shaposhnik",
+        "xml",
+        27
+    ],
+    [
+        "Max Shaposhnik",
+        "java",
+        30
+    ],
+    [
+        "Max Shaposhnik",
+        "properties",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "TckModule",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "sql",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "yaml",
+        2
+    ],
+    [
+        "Max Shaposhnik",
+        "yml",
+        1
+    ],
+    [
+        "Anton Korneta",
+        "properties",
+        1
+    ],
+    [
+        "Anton Korneta",
+        "env",
+        1
+    ],
+    [
+        "Anton Korneta",
+        "java",
+        34
+    ],
+    [
+        "Anton Korneta",
+        "xml",
+        7
+    ],
+    [
+        "Anton Korneta",
+        "TckModule",
+        1
+    ],
+    [
+        "Anton Korneta",
+        "sql",
+        2
+    ],
+    [
+        "Anton Korneta",
+        "go",
+        17
+    ],
+    [
+        "Anton Korneta",
+        "json",
+        1
+    ],
+    [
+        "Anton Korneta",
+        "gitignore",
+        1
+    ],
+    [
+        "Anton Korneta",
+        "yml",
+        1
+    ],
+    [
+        "Anton Korneta",
+        "com/dgrijalva/jwt-go/LICENSE",
+        1
+    ],
+    [
+        "Anton Korneta",
+        "md",
+        3
+    ],
+    [
+        "Maxim Musienko",
+        "java",
+        8
+    ],
+    [
+        "Maxim Musienko",
+        "properties",
+        1
+    ],
+    [
+        "Maxim Musienko",
+        "xml",
+        1
+    ],
+    [
+        "Maxim Musienko",
+        "unknown",
+        1
+    ],
+    [
+        "Anna Shumilova",
+        "ts",
+        20
+    ],
+    [
+        "Anna Shumilova",
+        "html",
+        5
+    ],
+    [
+        "Anna Shumilova",
+        "styl",
+        3
+    ],
+    [
+        "Hanno Kolvenbach",
+        "properties",
+        1
+    ],
+    [
+        "Hanno Kolvenbach",
+        "env",
+        1
+    ],
+    [
+        "Hanno Kolvenbach",
+        "pp",
+        1
+    ],
+    [
+        "Hanno Kolvenbach",
+        "erb",
+        2
+    ],
+    [
+        "Hanno Kolvenbach",
+        "java",
+        2
+    ],
+    [
+        "Oleksii Orel",
+        "ts",
+        11
+    ],
+    [
+        "Oleksii Orel",
+        "html",
+        6
+    ],
+    [
+        "Oleksii Orel",
+        "styl",
+        2
+    ],
+    [
+        "Guy Daich",
+        "properties",
+        2
+    ],
+    [
+        "Guy Daich",
+        "yaml",
+        16
+    ],
+    [
+        "Guy Daich",
+        "md",
+        1
+    ],
+    [
+        "Guy Daich",
+        "tpl",
+        3
+    ],
+    [
+        "Guy Daich",
+        "env",
+        1
+    ],
+    [
+        "Guy Daich",
+        "xml",
+        1
+    ],
+    [
+        "Guy Daich",
+        "java",
+        28
+    ],
+    [
+        "Sergii Leshchenko",
+        "java",
+        45
+    ],
+    [
+        "Sergii Leshchenko",
+        "xml",
+        5
+    ],
+    [
+        "Sergii Leshchenko",
+        "TckModule",
+        1
+    ],
+    [
+        "Sergii Leshchenko",
+        "sql",
+        1
+    ],
+    [
+        "Gennady Azarenkov",
+        "go",
+        1
+    ],
+    [
+        "Vladyslav Zhukovskyi",
+        "java",
+        3
+    ],
+    [
+        "Sun Tan",
+        "ts",
+        2
+    ]
+]

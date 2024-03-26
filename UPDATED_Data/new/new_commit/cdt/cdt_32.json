@@ -1,0 +1,197 @@
+[
+    [
+        "John Camelon",
+        "xml",
+        6
+    ],
+    [
+        "John Camelon",
+        "java",
+        285
+    ],
+    [
+        "Alain Magloire",
+        "core/ChangeLog",
+        13
+    ],
+    [
+        "Alain Magloire",
+        "java",
+        112
+    ],
+    [
+        "Alain Magloire",
+        "ui/ChangeLog",
+        14
+    ],
+    [
+        "Alain Magloire",
+        "properties",
+        11
+    ],
+    [
+        "Alain Magloire",
+        "xml",
+        4
+    ],
+    [
+        "Alain Magloire",
+        "ui/browser/ChangeLog-browser",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "ui/NEWS",
+        2
+    ],
+    [
+        "Alain Magloire",
+        "launch/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Niefer",
+        "java",
+        341
+    ],
+    [
+        "Andrew Niefer",
+        "xml",
+        2
+    ],
+    [
+        "Andrew Niefer",
+        "properties",
+        2
+    ],
+    [
+        "Andrew Niefer",
+        "tests/ChangeLog",
+        2
+    ],
+    [
+        "Sean Evoy",
+        "java",
+        7
+    ],
+    [
+        "Leo Treggiari",
+        "java",
+        10
+    ],
+    [
+        "David Inglis",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "David Inglis",
+        "xml",
+        1
+    ],
+    [
+        "David Inglis",
+        "java",
+        13
+    ],
+    [
+        "David Inglis",
+        "properties",
+        1
+    ],
+    [
+        "David Inglis",
+        "launch/ChangeLog",
+        1
+    ],
+    [
+        "David Inglis",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "tests/ChangeLog",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "java",
+        5
+    ],
+    [
+        "Bogdan Gheorghe",
+        "ui/ChangeLog",
+        2
+    ],
+    [
+        "Bogdan Gheorghe",
+        "properties",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "xml",
+        1
+    ],
+    [
+        "Vladimir Hirsl",
+        "java",
+        52
+    ],
+    [
+        "Vladimir Hirsl",
+        "properties",
+        3
+    ],
+    [
+        "Vladimir Hirsl",
+        "xml",
+        5
+    ],
+    [
+        "Vladimir Hirsl",
+        "exsd",
+        1
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "core/ChangeLog",
+        11
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        83
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "ui/ChangeLog",
+        21
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "properties",
+        20
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "xml",
+        8
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        34
+    ],
+    [
+        "Doug Schaefer",
+        "launch",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "project",
+        1
+    ]
+]

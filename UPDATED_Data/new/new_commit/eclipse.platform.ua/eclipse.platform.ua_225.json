@@ -1,0 +1,117 @@
+[
+    [
+        "Lars Vogel",
+        "java",
+        16
+    ],
+    [
+        "Wim Jongman",
+        "java",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        3
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/data/help/searchindex/index191/indexed_contributions",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/data/help/searchindex/index191/indexed_dependencies",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/data/help/searchindex/index191/indexed_docs",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/data/help/searchindex/index291/indexed_contributions",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/data/help/searchindex/index291/indexed_dependencies",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/data/help/searchindex/index291/indexed_docs",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "fnm",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "nrm",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/data/help/searchindex/index350/indexed_contributions",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/data/help/searchindex/index350/indexed_dependencies",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/data/help/searchindex/index350/indexed_docs",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/data/help/searchindex/index610/indexed_contributions",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/data/help/searchindex/index610/indexed_dependencies",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/data/help/searchindex/index610/indexed_docs",
+        1
+    ],
+    [
+        "Carsten Hammer",
+        "java",
+        5
+    ],
+    [
+        "Rolf Theunissen",
+        "java",
+        2
+    ],
+    [
+        "Rolf Theunissen",
+        "prefs",
+        1
+    ],
+    [
+        "Rolf Theunissen",
+        "html",
+        2
+    ],
+    [
+        "Rolf Theunissen",
+        "xml",
+        1
+    ]
+]

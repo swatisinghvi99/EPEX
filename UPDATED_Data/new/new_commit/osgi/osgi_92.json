@@ -1,0 +1,207 @@
+[
+    [
+        "BJ Hargrave",
+        "java",
+        235
+    ],
+    [
+        "BJ Hargrave",
+        "project",
+        8
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        28
+    ],
+    [
+        "BJ Hargrave",
+        "classpath",
+        7
+    ],
+    [
+        "BJ Hargrave",
+        "prefs",
+        28
+    ],
+    [
+        "BJ Hargrave",
+        "xml",
+        7
+    ],
+    [
+        "BJ Hargrave",
+        "framework/src/org/osgi/framework/namespace/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "serviceloader/src/org/osgi/service/serviceloader/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "namespace/src/org/osgi/namespace/contract/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "namespace/src/org/osgi/namespace/extender/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "namespace/src/org/osgi/namespace/service/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "java",
+        69
+    ],
+    [
+        "Thomas Watson",
+        "bnd",
+        11
+    ],
+    [
+        "Thomas Watson",
+        "subsystem/src/x/packageinfo",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "txt",
+        3
+    ],
+    [
+        "Steffen Druesedow",
+        "java",
+        25
+    ],
+    [
+        "John Ross",
+        "java",
+        2
+    ],
+    [
+        "Masaki Nakano",
+        "java",
+        6
+    ],
+    [
+        "Shigekuni Kondo",
+        "java",
+        11
+    ],
+    [
+        "David Bosschaert",
+        "lib",
+        2
+    ],
+    [
+        "David Bosschaert",
+        "classpath",
+        2
+    ],
+    [
+        "David Bosschaert",
+        "project",
+        2
+    ],
+    [
+        "David Bosschaert",
+        "prefs",
+        8
+    ],
+    [
+        "David Bosschaert",
+        "bnd",
+        8
+    ],
+    [
+        "David Bosschaert",
+        "xml",
+        2
+    ],
+    [
+        "David Bosschaert",
+        "java",
+        44
+    ],
+    [
+        "David Bosschaert",
+        "jmx/src/org/osgi/jmx/framework/packageinfo",
+        1
+    ],
+    [
+        "David Bosschaert",
+        "jmx/src/org/osgi/jmx/framework/wiring/packageinfo",
+        1
+    ],
+    [
+        "David Bosschaert",
+        "jmx/src/org/osgi/jmx/service/coordinator/packageinfo",
+        1
+    ],
+    [
+        "David Bosschaert",
+        "properties",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        31
+    ],
+    [
+        "Peter Kriens",
+        "cm/src/org/osgi/service/cm/packageinfo",
+        1
+    ],
+    [
+        "d.mladenova@prosyst.bg",
+        "prefs",
+        1
+    ],
+    [
+        "d.mladenova@prosyst.bg",
+        "java",
+        6
+    ],
+    [
+        "Felix Meschberger",
+        "java",
+        2
+    ],
+    [
+        "Jan S. Rellermeyer",
+        "classpath",
+        1
+    ],
+    [
+        "Jan S. Rellermeyer",
+        "project",
+        1
+    ],
+    [
+        "Jan S. Rellermeyer",
+        "prefs",
+        4
+    ],
+    [
+        "Jan S. Rellermeyer",
+        "bnd",
+        2
+    ],
+    [
+        "Jan S. Rellermeyer",
+        "xml",
+        1
+    ],
+    [
+        "Jan S. Rellermeyer",
+        "java",
+        3
+    ]
+]

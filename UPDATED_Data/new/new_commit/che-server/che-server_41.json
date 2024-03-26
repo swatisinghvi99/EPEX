@@ -1,0 +1,462 @@
+[
+    [
+        "Anna Shumilova",
+        "ts",
+        22
+    ],
+    [
+        "Anna Shumilova",
+        "html",
+        5
+    ],
+    [
+        "Anna Shumilova",
+        "styl",
+        1
+    ],
+    [
+        "Anna Shumilova",
+        "java",
+        47
+    ],
+    [
+        "Anna Shumilova",
+        "xml",
+        1
+    ],
+    [
+        "Anna Shumilova",
+        "sh",
+        1
+    ],
+    [
+        "Skorik Sergey",
+        "ts",
+        1
+    ],
+    [
+        "Skorik Sergey",
+        "xml",
+        2
+    ],
+    [
+        "Igor Ohrimenko",
+        "ts",
+        19
+    ],
+    [
+        "Igor Ohrimenko",
+        "yaml",
+        3
+    ],
+    [
+        "Sergii Leshchenko",
+        "java",
+        8
+    ],
+    [
+        "Sergii Leshchenko",
+        "properties",
+        1
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "java",
+        23
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "ts",
+        7
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "js",
+        1
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "json",
+        4
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "ts",
+        29
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "js",
+        1
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "lock",
+        1
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "html",
+        3
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "styl",
+        1
+    ],
+    [
+        "Aleksandr Shmaraiev",
+        "java",
+        9
+    ],
+    [
+        "Aleksandr Shmaraiev",
+        "xml",
+        2
+    ],
+    [
+        "Max Shaposhnik",
+        "properties",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "java",
+        4
+    ],
+    [
+        "Max Shaposhnik",
+        "yaml",
+        4
+    ],
+    [
+        "Max Shaposhnik",
+        "json",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "java",
+        14
+    ],
+    [
+        "Florent Benoit",
+        "require",
+        4
+    ],
+    [
+        "Florent Benoit",
+        "unknown",
+        22
+    ],
+    [
+        "Florent Benoit",
+        "md",
+        4
+    ],
+    [
+        "Florent Benoit",
+        "sh",
+        55
+    ],
+    [
+        "Florent Benoit",
+        "dockerignore",
+        2
+    ],
+    [
+        "Florent Benoit",
+        "gitignore",
+        2
+    ],
+    [
+        "Florent Benoit",
+        "template",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "bats",
+        10
+    ],
+    [
+        "Florent Benoit",
+        "2/images",
+        5
+    ],
+    [
+        "Florent Benoit",
+        "2/images-stacks",
+        5
+    ],
+    [
+        "Florent Benoit",
+        "0-M5/images",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "0-M5/images-stacks",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "0-M6/images",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "0-M6/images-stacks",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "0-M7/images",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "0-M7/images-stacks",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "0-M8/images",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "0-M8/images-stacks",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "0/images",
+        51
+    ],
+    [
+        "Florent Benoit",
+        "0/images-stacks",
+        51
+    ],
+    [
+        "Florent Benoit",
+        "1/images",
+        14
+    ],
+    [
+        "Florent Benoit",
+        "1/images-stacks",
+        14
+    ],
+    [
+        "Florent Benoit",
+        "0-M1/images",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "0-M1/images-stacks",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "0-M2/images",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "0-M2/images-stacks",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "0-M3/images",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "0-M3/images-stacks",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "0-M4/images",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "0-M4/images-stacks",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "0/images-bootstrap",
+        16
+    ],
+    [
+        "Florent Benoit",
+        "0/images-utilities",
+        16
+    ],
+    [
+        "Florent Benoit",
+        "3/images",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "3/images-stacks",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "ver",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "env",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "pp",
+        7
+    ],
+    [
+        "Florent Benoit",
+        "erb",
+        12
+    ],
+    [
+        "Florent Benoit",
+        "css",
+        2
+    ],
+    [
+        "Florent Benoit",
+        "properties",
+        10
+    ],
+    [
+        "Florent Benoit",
+        "ftl",
+        46
+    ],
+    [
+        "Florent Benoit",
+        "svg",
+        2
+    ],
+    [
+        "Florent Benoit",
+        "rb",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "expected",
+        9
+    ],
+    [
+        "Florent Benoit",
+        "interface",
+        9
+    ],
+    [
+        "Florent Benoit",
+        "output",
+        9
+    ],
+    [
+        "Florent Benoit",
+        "uname",
+        9
+    ],
+    [
+        "Florent Benoit",
+        "babelrc",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "dev",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "xml",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "json",
+        3
+    ],
+    [
+        "Florent Benoit",
+        "ts",
+        69
+    ],
+    [
+        "Sergey Skorik",
+        "java",
+        2
+    ],
+    [
+        "Sergey Skorik",
+        "ts",
+        1
+    ],
+    [
+        "Michal Vala",
+        "yaml",
+        1
+    ],
+    [
+        "Michal Vala",
+        "java",
+        4
+    ],
+    [
+        "Katka92",
+        "ts",
+        1
+    ],
+    [
+        "Fabrice Flore-Th\u00e9bault",
+        "properties",
+        2
+    ],
+    [
+        "Fabrice Flore-Th\u00e9bault",
+        "ts",
+        3
+    ],
+    [
+        "Fabrice Flore-Th\u00e9bault",
+        "html",
+        1
+    ],
+    [
+        "Fabrice Flore-Th\u00e9bault",
+        "sh",
+        1
+    ],
+    [
+        "Fabrice Flore-Th\u00e9bault",
+        "yaml",
+        1
+    ],
+    [
+        "Fabrice Flore-Th\u00e9bault",
+        "java",
+        3
+    ],
+    [
+        "Fabrice Flore-Th\u00e9bault",
+        "md",
+        1
+    ]
+]

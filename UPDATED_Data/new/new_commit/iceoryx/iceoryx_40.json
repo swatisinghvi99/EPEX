@@ -1,0 +1,202 @@
+[
+    [
+        "Matthias Killat",
+        "hpp",
+        35
+    ],
+    [
+        "Matthias Killat",
+        "cpp",
+        32
+    ],
+    [
+        "Matthias Killat",
+        "inl",
+        22
+    ],
+    [
+        "Matthias Killat",
+        "md",
+        8
+    ],
+    [
+        "Matthias Killat",
+        "txt",
+        1
+    ],
+    [
+        "Simon Hoinkis",
+        "inl",
+        28
+    ],
+    [
+        "Simon Hoinkis",
+        "cpp",
+        175
+    ],
+    [
+        "Simon Hoinkis",
+        "md",
+        11
+    ],
+    [
+        "Simon Hoinkis",
+        "hpp",
+        149
+    ],
+    [
+        "Simon Hoinkis",
+        "clang-tidy",
+        1
+    ],
+    [
+        "Simon Hoinkis",
+        "txt",
+        4
+    ],
+    [
+        "Simon Hoinkis",
+        "bazel",
+        3
+    ],
+    [
+        "Tobias Stark",
+        "cpp",
+        3
+    ],
+    [
+        "Tobias Stark",
+        "md",
+        1
+    ],
+    [
+        "Tobias Stark",
+        "hpp",
+        1
+    ],
+    [
+        "Marika Lehmann",
+        "md",
+        19
+    ],
+    [
+        "Marika Lehmann",
+        "hpp",
+        221
+    ],
+    [
+        "Marika Lehmann",
+        "txt",
+        15
+    ],
+    [
+        "Marika Lehmann",
+        "bazel",
+        7
+    ],
+    [
+        "Marika Lehmann",
+        "inl",
+        41
+    ],
+    [
+        "Marika Lehmann",
+        "cpp",
+        136
+    ],
+    [
+        "Marika Lehmann",
+        "puml",
+        1
+    ],
+    [
+        "Marika Lehmann",
+        "svg",
+        1
+    ],
+    [
+        "Ziad Mostafa",
+        "md",
+        2
+    ],
+    [
+        "Ziad Mostafa",
+        "cpp",
+        3
+    ],
+    [
+        "Jeff Ithier",
+        "hpp",
+        4
+    ],
+    [
+        "Jeff Ithier",
+        "inl",
+        4
+    ],
+    [
+        "Jeff Ithier",
+        "cpp",
+        1
+    ],
+    [
+        "Mathias Kraus",
+        "hpp",
+        44
+    ],
+    [
+        "Mathias Kraus",
+        "cpp",
+        55
+    ],
+    [
+        "Mathias Kraus",
+        "md",
+        1
+    ],
+    [
+        "Mathias Kraus",
+        "inl",
+        22
+    ],
+    [
+        "Mathias Kraus",
+        "txt",
+        2
+    ],
+    [
+        "Mathias Kraus",
+        "h",
+        1
+    ],
+    [
+        "Dietrich Kr\u00f6nke",
+        "yml",
+        1
+    ],
+    [
+        "Dietrich Kr\u00f6nke",
+        "py",
+        2
+    ],
+    [
+        "Dietrich Kr\u00f6nke",
+        "hpp",
+        1
+    ],
+    [
+        "Dietrich Kr\u00f6nke",
+        "txt",
+        1
+    ],
+    [
+        "Christian Eltzschig",
+        "inl",
+        1
+    ],
+    [
+        "Ibrahim Kuru",
+        "cpp",
+        2
+    ]
+]

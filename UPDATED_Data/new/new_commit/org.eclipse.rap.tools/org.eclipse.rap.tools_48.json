@@ -1,0 +1,57 @@
+[
+    [
+        "Ralf Sternberg",
+        "java",
+        18
+    ],
+    [
+        "Ralf Sternberg",
+        "template",
+        1
+    ],
+    [
+        "Elias Volanakis",
+        "properties",
+        1
+    ],
+    [
+        "Elias Volanakis",
+        "java",
+        13
+    ],
+    [
+        "Holger Staudacher",
+        "launch",
+        2
+    ],
+    [
+        "Holger Staudacher",
+        "MF",
+        2
+    ],
+    [
+        "Holger Staudacher",
+        "properties",
+        4
+    ],
+    [
+        "Holger Staudacher",
+        "java",
+        15
+    ],
+    [
+        "Holger Staudacher",
+        "xml",
+        5
+    ],
+    [
+        "Holger Staudacher",
+        "cvsignore",
+        1
+    ],
+    [
+        "Holger Staudacher",
+        "target",
+        1
+    ]
+]

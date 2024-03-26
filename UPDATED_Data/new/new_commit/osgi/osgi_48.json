@@ -1,0 +1,62 @@
+[
+    [
+        "BJ Hargrave",
+        "java",
+        4
+    ],
+    [
+        "BJ Hargrave",
+        "tracker/src/org/osgi/util/tracker/packageinfo",
+        1
+    ],
+    [
+        "Philipp Konradi",
+        "classpath",
+        2
+    ],
+    [
+        "Philipp Konradi",
+        "project",
+        2
+    ],
+    [
+        "Philipp Konradi",
+        "prefs",
+        6
+    ],
+    [
+        "Philipp Konradi",
+        "mf",
+        1
+    ],
+    [
+        "Philipp Konradi",
+        "properties",
+        1
+    ],
+    [
+        "Philipp Konradi",
+        "xml",
+        2
+    ],
+    [
+        "Philipp Konradi",
+        "java",
+        9
+    ],
+    [
+        "Philipp Konradi",
+        "html",
+        1
+    ],
+    [
+        "Philipp Konradi",
+        "discovery/src/org/osgi/impl/service/discovery/packageinfo",
+        1
+    ],
+    [
+        "Philipp Konradi",
+        "discovery/src/org/osgi/service/discovery/packageinfo",
+        1
+    ]
+]

@@ -1,0 +1,137 @@
+[
+    [
+        "Peter Kriens",
+        "java",
+        16
+    ],
+    [
+        "Peter Kriens",
+        "prefs",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "bnd",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "html",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "blueprint/src/org/osgi/service/blueprint/container/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "blueprint/src/org/osgi/service/blueprint/reflect/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "classpath",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "project",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "prefs",
+        6
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        6
+    ],
+    [
+        "BJ Hargrave",
+        "xml",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        69
+    ],
+    [
+        "Bob Nettleton",
+        "java",
+        34
+    ],
+    [
+        "Bob Nettleton",
+        "bnd",
+        1
+    ],
+    [
+        "Jason Warner",
+        "bnd",
+        8
+    ],
+    [
+        "Jason Warner",
+        "java",
+        27
+    ],
+    [
+        "Jason Warner",
+        "xml",
+        3
+    ],
+    [
+        "Tim Diekman",
+        "bnd",
+        7
+    ],
+    [
+        "Tim Diekman",
+        "java",
+        26
+    ],
+    [
+        "David Bosschaert",
+        "java",
+        1
+    ],
+    [
+        "Tom Watson",
+        "classpath",
+        2
+    ],
+    [
+        "Tom Watson",
+        "project",
+        2
+    ],
+    [
+        "Tom Watson",
+        "prefs",
+        4
+    ],
+    [
+        "Tom Watson",
+        "bnd",
+        5
+    ],
+    [
+        "Tom Watson",
+        "xml",
+        1
+    ],
+    [
+        "Tom Watson",
+        "java",
+        6
+    ],
+    [
+        "J.J. Snyder",
+        "java",
+        2
+    ]
+]

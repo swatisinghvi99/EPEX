@@ -1,0 +1,162 @@
+[
+    [
+        "Jochen Hiller",
+        "properties",
+        8
+    ],
+    [
+        "Jochen Hiller",
+        "classpath",
+        4
+    ],
+    [
+        "Jochen Hiller",
+        "prefs",
+        4
+    ],
+    [
+        "Jochen Hiller",
+        "gitignore",
+        4
+    ],
+    [
+        "Jochen Hiller",
+        "MF",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "FrameworkFactory",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "gradle",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "java",
+        238
+    ],
+    [
+        "Jochen Hiller",
+        "concierge/src/org/osgi/framework/hooks/bundle/packageinfo",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "concierge/src/org/osgi/framework/hooks/resolver/packageinfo",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "concierge/src/org/osgi/framework/hooks/service/packageinfo",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "concierge/src/org/osgi/framework/hooks/weaving/packageinfo",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "concierge/src/org/osgi/framework/launch/packageinfo",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "concierge/src/org/osgi/framework/namespace/packageinfo",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "concierge/src/org/osgi/framework/packageinfo",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "concierge/src/org/osgi/framework/startlevel/packageinfo",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "concierge/src/org/osgi/framework/wiring/packageinfo",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "concierge/src/org/osgi/resource/packageinfo",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "concierge/src/org/osgi/service/log/packageinfo",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "concierge/src/org/osgi/service/packageadmin/packageinfo",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "concierge/src/org/osgi/service/resolver/packageinfo",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "concierge/src/org/osgi/service/startlevel/packageinfo",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "concierge/src/org/osgi/service/url/packageinfo",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "concierge/src/org/osgi/util/tracker/packageinfo",
+        2
+    ],
+    [
+        "Jochen Hiller",
+        "md",
+        1
+    ],
+    [
+        "jrellerme",
+        "gitignore",
+        1
+    ],
+    [
+        "jrellerme",
+        "classpath",
+        1
+    ],
+    [
+        "jrellerme",
+        "project",
+        1
+    ],
+    [
+        "jrellerme",
+        "prefs",
+        2
+    ],
+    [
+        "jrellerme",
+        "MF",
+        1
+    ],
+    [
+        "jrellerme",
+        "properties",
+        1
+    ],
+    [
+        "jrellerme",
+        "java",
+        6
+    ]
+]

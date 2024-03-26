@@ -1,0 +1,377 @@
+[
+    [
+        "J-N-K",
+        "java",
+        5
+    ],
+    [
+        "J-N-K",
+        "MF",
+        1
+    ],
+    [
+        "David Gr\u00e4ff",
+        "java",
+        48
+    ],
+    [
+        "David Gr\u00e4ff",
+        "classpath",
+        4
+    ],
+    [
+        "David Gr\u00e4ff",
+        "project",
+        4
+    ],
+    [
+        "David Gr\u00e4ff",
+        "MF",
+        4
+    ],
+    [
+        "David Gr\u00e4ff",
+        "test/NOTICE",
+        1
+    ],
+    [
+        "David Gr\u00e4ff",
+        "properties",
+        6
+    ],
+    [
+        "David Gr\u00e4ff",
+        "xml",
+        8
+    ],
+    [
+        "David Gr\u00e4ff",
+        "pem",
+        4
+    ],
+    [
+        "David Gr\u00e4ff",
+        "mqttembeddedbroker/NOTICE",
+        1
+    ],
+    [
+        "David Gr\u00e4ff",
+        "gitignore",
+        2
+    ],
+    [
+        "David Gr\u00e4ff",
+        "md",
+        2
+    ],
+    [
+        "David Gr\u00e4ff",
+        "launch",
+        1
+    ],
+    [
+        "David Gr\u00e4ff",
+        "mqtt/NOTICE",
+        1
+    ],
+    [
+        "Christoph Weitkamp",
+        "cmd",
+        1
+    ],
+    [
+        "Christoph Weitkamp",
+        "sh",
+        1
+    ],
+    [
+        "Christoph Weitkamp",
+        "unknown",
+        1
+    ],
+    [
+        "Christoph Weitkamp",
+        "MF",
+        2
+    ],
+    [
+        "Christoph Weitkamp",
+        "xml",
+        4
+    ],
+    [
+        "Christoph Weitkamp",
+        "java",
+        5
+    ],
+    [
+        "Christoph Weitkamp",
+        "gitignore",
+        1
+    ],
+    [
+        "Stefan Triller",
+        "java",
+        17
+    ],
+    [
+        "Stefan Triller",
+        "MF",
+        2
+    ],
+    [
+        "Hans-J\u00f6rg Merk",
+        "java",
+        3
+    ],
+    [
+        "Marcin Szewczyk",
+        "java",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "xml",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "java",
+        6
+    ],
+    [
+        "Markus Rathgeb",
+        "properties",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "java",
+        57
+    ],
+    [
+        "Kai Kreuzer",
+        "MF",
+        3
+    ],
+    [
+        "Kai Kreuzer",
+        "launch",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "xtend",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "md",
+        2
+    ],
+    [
+        "Kai Kreuzer",
+        "classpath",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "project",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "xml",
+        20
+    ],
+    [
+        "Kai Kreuzer",
+        "bosesoundtouch/NOTICE",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "gitignore",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "properties",
+        1
+    ],
+    [
+        "Andre Fuechsel",
+        "java",
+        1
+    ],
+    [
+        "Henning Treu",
+        "java",
+        47
+    ],
+    [
+        "Henning Treu",
+        "MF",
+        7
+    ],
+    [
+        "Henning Treu",
+        "groovy",
+        11
+    ],
+    [
+        "Henning Treu",
+        "classpath",
+        1
+    ],
+    [
+        "Henning Treu",
+        "xtend",
+        2
+    ],
+    [
+        "Henning Treu",
+        "launch",
+        2
+    ],
+    [
+        "Henning Treu",
+        "js",
+        2
+    ],
+    [
+        "Henning Treu",
+        "html",
+        1
+    ],
+    [
+        "Michael Bock",
+        "java",
+        2
+    ],
+    [
+        "Simon Kaufmann",
+        "MF",
+        8
+    ],
+    [
+        "Simon Kaufmann",
+        "java",
+        137
+    ],
+    [
+        "Simon Kaufmann",
+        "gitignore",
+        20
+    ],
+    [
+        "Simon Kaufmann",
+        "xml",
+        64
+    ],
+    [
+        "Simon Kaufmann",
+        "md",
+        1
+    ],
+    [
+        "Simon Kaufmann",
+        "classpath",
+        3
+    ],
+    [
+        "Simon Kaufmann",
+        "project",
+        3
+    ],
+    [
+        "Simon Kaufmann",
+        "launch",
+        1
+    ],
+    [
+        "Simon Kaufmann",
+        "groovy",
+        11
+    ],
+    [
+        "Simon Kaufmann",
+        "properties",
+        2
+    ],
+    [
+        "Wouter Born",
+        "java",
+        27
+    ],
+    [
+        "Wouter Born",
+        "gitignore",
+        6
+    ],
+    [
+        "Wouter Born",
+        "xml",
+        15
+    ],
+    [
+        "Wouter Born",
+        "MF",
+        1
+    ],
+    [
+        "lolodomo",
+        "java",
+        6
+    ],
+    [
+        "Henning Sudbrock",
+        "launch",
+        1
+    ],
+    [
+        "Henning Sudbrock",
+        "groovy",
+        3
+    ],
+    [
+        "Henning Sudbrock",
+        "java",
+        19
+    ],
+    [
+        "Henning Sudbrock",
+        "properties",
+        1
+    ],
+    [
+        "Henning Sudbrock",
+        "MF",
+        1
+    ],
+    [
+        "Dimitar Ivanov",
+        "groovy",
+        2
+    ],
+    [
+        "Dimitar Ivanov",
+        "java",
+        34
+    ],
+    [
+        "Dimitar Ivanov",
+        "js",
+        2
+    ],
+    [
+        "Mark Hilbush",
+        "java",
+        1
+    ],
+    [
+        "Mark Hilbush",
+        "xml",
+        1
+    ]
+]

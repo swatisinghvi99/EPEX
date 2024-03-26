@@ -1,0 +1,67 @@
+[
+    [
+        "Jeff Mesnil",
+        "adoc",
+        4
+    ],
+    [
+        "Jeff Mesnil",
+        "xml",
+        9
+    ],
+    [
+        "Jeff Mesnil",
+        "java",
+        23
+    ],
+    [
+        "Jeff Mesnil",
+        "unknown",
+        1
+    ],
+    [
+        "Jeff Mesnil",
+        "asciidoc",
+        18
+    ],
+    [
+        "Jeff Mesnil",
+        "properties",
+        3
+    ],
+    [
+        "Steve Moyer",
+        "java",
+        2
+    ],
+    [
+        "Emily Jiang",
+        "java",
+        15
+    ],
+    [
+        "Emily Jiang",
+        "asciidoc",
+        4
+    ],
+    [
+        "Mark Struberg",
+        "java",
+        2
+    ],
+    [
+        "Gunnar Morling",
+        "java",
+        4
+    ],
+    [
+        "Gunnar Morling",
+        "properties",
+        2
+    ],
+    [
+        "Tom Evans",
+        "java",
+        2
+    ]
+]

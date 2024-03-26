@@ -1,0 +1,332 @@
+[
+    [
+        "Igor Ohrimenko",
+        "java",
+        20
+    ],
+    [
+        "Igor Vinokur",
+        "java",
+        2
+    ],
+    [
+        "Thomas M\u00e4der",
+        "java",
+        1172
+    ],
+    [
+        "Thomas M\u00e4der",
+        "xml",
+        15
+    ],
+    [
+        "Thomas M\u00e4der",
+        "properties",
+        26
+    ],
+    [
+        "Thomas M\u00e4der",
+        "profile",
+        1
+    ],
+    [
+        "Thomas M\u00e4der",
+        "css",
+        1
+    ],
+    [
+        "Thomas M\u00e4der",
+        "html",
+        5
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "java",
+        7
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "properties",
+        2
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "yaml",
+        3
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "xml",
+        52
+    ],
+    [
+        "Sergey Skorik",
+        "java",
+        32
+    ],
+    [
+        "Sergey Skorik",
+        "xml",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "xml",
+        7
+    ],
+    [
+        "Sergii Kabashniuk",
+        "java",
+        18
+    ],
+    [
+        "Sergii Kabashniuk",
+        "properties",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "yaml",
+        1
+    ],
+    [
+        "Sergii Leshchenko",
+        "java",
+        96
+    ],
+    [
+        "Sergii Leshchenko",
+        "xml",
+        1
+    ],
+    [
+        "Sergii Leshchenko",
+        "sql",
+        1
+    ],
+    [
+        "Sergii Leshchenko",
+        "ts",
+        3
+    ],
+    [
+        "Sergii Leshchenko",
+        "lock",
+        2
+    ],
+    [
+        "Sergii Leshchenko",
+        "toml",
+        2
+    ],
+    [
+        "Sergii Leshchenko",
+        "md",
+        3
+    ],
+    [
+        "Sergii Leshchenko",
+        "go",
+        8
+    ],
+    [
+        "Katka92",
+        "java",
+        1
+    ],
+    [
+        "Roman Nikitenko",
+        "java",
+        1
+    ],
+    [
+        "Aleksandr Shmaraiev",
+        "java",
+        3
+    ],
+    [
+        "Oleksii Orel",
+        "ts",
+        1
+    ],
+    [
+        "Oleksii Orel",
+        "styl",
+        1
+    ],
+    [
+        "Oleksii Orel",
+        "html",
+        1
+    ],
+    [
+        "Yevhen Vydolob",
+        "js",
+        1
+    ],
+    [
+        "Oleksandr Garagatyi",
+        "xml",
+        2
+    ],
+    [
+        "Oleksandr Garagatyi",
+        "java",
+        55
+    ],
+    [
+        "Oleksandr Garagatyi",
+        "sql",
+        3
+    ],
+    [
+        "Oleksandr Garagatyi",
+        "properties",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "properties",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "java",
+        2
+    ],
+    [
+        "Lukas Krejci",
+        "xml",
+        8
+    ],
+    [
+        "Lukas Krejci",
+        "java",
+        34
+    ],
+    [
+        "Ilya Buziuk",
+        "java",
+        1
+    ],
+    [
+        "Anna Shumilova",
+        "ts",
+        16
+    ],
+    [
+        "Anna Shumilova",
+        "html",
+        7
+    ],
+    [
+        "Anna Shumilova",
+        "java",
+        6
+    ],
+    [
+        "Masaki Muranaka",
+        "java",
+        1
+    ],
+    [
+        "Dmytro Kulieshov",
+        "xml",
+        3
+    ],
+    [
+        "Dmytro Kulieshov",
+        "java",
+        26
+    ],
+    [
+        "Florent Benoit",
+        "unknown",
+        4
+    ],
+    [
+        "Florent Benoit",
+        "ts",
+        2
+    ],
+    [
+        "Florent Benoit",
+        "yarnclean",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "js",
+        2
+    ],
+    [
+        "Florent Benoit",
+        "sh",
+        7
+    ],
+    [
+        "Florent Benoit",
+        "yaml",
+        1
+    ],
+    [
+        "Florent Benoit",
+        "json",
+        2
+    ],
+    [
+        "Florent Benoit",
+        "lock",
+        1
+    ],
+    [
+        "Sachin Araballi",
+        "java",
+        1
+    ],
+    [
+        "Vladyslav Zhukovskyi",
+        "java",
+        2
+    ],
+    [
+        "Vladyslav Zhukovskyi",
+        "xml",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "xml",
+        8
+    ],
+    [
+        "Max Shaposhnik",
+        "java",
+        18
+    ],
+    [
+        "Max Shaposhnik",
+        "json",
+        2
+    ],
+    [
+        "Max Shaposhnik",
+        "yaml",
+        2
+    ],
+    [
+        "Innovimax",
+        "sh",
+        1
+    ],
+    [
+        "Innovimax",
+        "properties",
+        1
+    ],
+    [
+        "Innovimax",
+        "java",
+        9
+    ]
+]

@@ -1,0 +1,147 @@
+[
+    [
+        "Eugen Neufeld",
+        "java",
+        23
+    ],
+    [
+        "Eugen Neufeld",
+        "api_filters",
+        4
+    ],
+    [
+        "Johannes Faltermeier",
+        "java",
+        42
+    ],
+    [
+        "Johannes Faltermeier",
+        "properties",
+        1
+    ],
+    [
+        "Johannes Faltermeier",
+        "api_filters",
+        1
+    ],
+    [
+        "Johannes Faltermeier",
+        "MF",
+        1
+    ],
+    [
+        "Johannes Faltermeier",
+        "ecore",
+        1
+    ],
+    [
+        "Johannes Faltermeier",
+        "genmodel",
+        1
+    ],
+    [
+        "Johannes Faltermeier",
+        "history",
+        1
+    ],
+    [
+        "Johannes Faltermeier",
+        "xml",
+        1
+    ],
+    [
+        "Edgar Mueller",
+        "java",
+        69
+    ],
+    [
+        "Edgar Mueller",
+        "properties",
+        2
+    ],
+    [
+        "Edgar Mueller",
+        "api_filters",
+        3
+    ],
+    [
+        "Edgar Mueller",
+        "ecore",
+        2
+    ],
+    [
+        "Edgar Mueller",
+        "genmodel",
+        2
+    ],
+    [
+        "Edgar Mueller",
+        "MF",
+        1
+    ],
+    [
+        "Edgar Mueller",
+        "xml",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "checkstyle",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "prefs",
+        4
+    ],
+    [
+        "Alexandra Buzila",
+        "xml",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "java",
+        17
+    ],
+    [
+        "Alexandra Buzila",
+        "properties",
+        2
+    ],
+    [
+        "Alexandra Buzila",
+        "MF",
+        2
+    ],
+    [
+        "Alexandra Buzila",
+        "classpath",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "api_filters",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "ecore",
+        1
+    ],
+    [
+        "Lucas Koehler",
+        "java",
+        5
+    ],
+    [
+        "Jonas Helming",
+        "java",
+        1
+    ],
+    [
+        "Mat Hansen",
+        "java",
+        2
+    ]
+]

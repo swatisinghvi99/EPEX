@@ -1,0 +1,217 @@
+[
+    [
+        "John Camelon",
+        "tests/ChangeLog",
+        29
+    ],
+    [
+        "John Camelon",
+        "java",
+        369
+    ],
+    [
+        "John Camelon",
+        "h",
+        3
+    ],
+    [
+        "John Camelon",
+        "core/parser/ChangeLog",
+        17
+    ],
+    [
+        "John Camelon",
+        "cpp",
+        5
+    ],
+    [
+        "John Camelon",
+        "core/index/ChangeLog",
+        5
+    ],
+    [
+        "John Camelon",
+        "core/search/ChangeLog",
+        7
+    ],
+    [
+        "John Camelon",
+        "xml",
+        6
+    ],
+    [
+        "John Camelon",
+        "core/ChangeLog",
+        9
+    ],
+    [
+        "John Camelon",
+        "exsd",
+        3
+    ],
+    [
+        "John Camelon",
+        "ui/ChangeLog",
+        11
+    ],
+    [
+        "John Camelon",
+        "properties",
+        2
+    ],
+    [
+        "John Camelon",
+        "classpath",
+        1
+    ],
+    [
+        "John Camelon",
+        "options",
+        1
+    ],
+    [
+        "John Camelon",
+        "c",
+        1
+    ],
+    [
+        "David Inglis",
+        "java",
+        231
+    ],
+    [
+        "David Inglis",
+        "launch/ChangeLog",
+        2
+    ],
+    [
+        "David Inglis",
+        "classpath",
+        2
+    ],
+    [
+        "David Inglis",
+        "cvsignore",
+        2
+    ],
+    [
+        "David Inglis",
+        "project",
+        5
+    ],
+    [
+        "David Inglis",
+        "html",
+        2
+    ],
+    [
+        "David Inglis",
+        "properties",
+        14
+    ],
+    [
+        "David Inglis",
+        "xml",
+        13
+    ],
+    [
+        "David Inglis",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "David Inglis",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "David Inglis",
+        "exsd",
+        2
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "core/ChangeLog",
+        22
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        68
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "ui/ChangeLog",
+        8
+    ],
+    [
+        "Alain Magloire",
+        "java",
+        51
+    ],
+    [
+        "Alain Magloire",
+        "core/ChangeLog",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "tests/ChangeLog",
+        4
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        82
+    ],
+    [
+        "Doug Schaefer",
+        "core/parser/ChangeLog",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "core/search/ChangeLog",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "xml",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "core/ChangeLog",
+        4
+    ],
+    [
+        "Doug Schaefer",
+        "exsd",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "ui/ChangeLog",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "properties",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "cpp",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "core/index/ChangeLog",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "options",
+        1
+    ]
+]

@@ -1,0 +1,227 @@
+[
+    [
+        "Chris Eichelberger",
+        "scala",
+        16
+    ],
+    [
+        "Emilio Lahr-Vivaz",
+        "rst",
+        2
+    ],
+    [
+        "Emilio Lahr-Vivaz",
+        "scala",
+        139
+    ],
+    [
+        "Emilio Lahr-Vivaz",
+        "xml",
+        1
+    ],
+    [
+        "Emilio Lahr-Vivaz",
+        "java",
+        2
+    ],
+    [
+        "Alex Tatusko",
+        "rst",
+        1
+    ],
+    [
+        "Alex Tatusko",
+        "xml",
+        4
+    ],
+    [
+        "Alex Tatusko",
+        "scala",
+        57
+    ],
+    [
+        "Alex Tatusko",
+        "md",
+        1
+    ],
+    [
+        "Alex Tatusko",
+        "unknown",
+        5
+    ],
+    [
+        "Andrew Hulbert",
+        "scala",
+        23
+    ],
+    [
+        "Andrew Hulbert",
+        "TransformerFunctionFactory",
+        2
+    ],
+    [
+        "Andrew Hulbert",
+        "md",
+        1
+    ],
+    [
+        "Andrew Hulbert",
+        "java",
+        4
+    ],
+    [
+        "Andrew Hulbert",
+        "xml",
+        6
+    ],
+    [
+        "David Seapy",
+        "tsv",
+        1
+    ],
+    [
+        "David Seapy",
+        "scala",
+        24
+    ],
+    [
+        "David Seapy",
+        "md",
+        3
+    ],
+    [
+        "David Seapy",
+        "xml",
+        11
+    ],
+    [
+        "David Seapy",
+        "KafkaUtils",
+        2
+    ],
+    [
+        "David Seapy",
+        "TestKafkaUtils",
+        2
+    ],
+    [
+        "David Seapy",
+        "sh",
+        1
+    ],
+    [
+        "James Hughes",
+        "py",
+        1
+    ],
+    [
+        "James Hughes",
+        "rst",
+        1
+    ],
+    [
+        "James Hughes",
+        "xml",
+        1
+    ],
+    [
+        "Andrew Annex",
+        "tsv",
+        1
+    ],
+    [
+        "Andrew Annex",
+        "scala",
+        5
+    ],
+    [
+        "Andrew Annex",
+        "java",
+        4
+    ],
+    [
+        "Andrew Annex",
+        "md",
+        1
+    ],
+    [
+        "Andrew Annex",
+        "xml",
+        3
+    ],
+    [
+        "Andrew Annex",
+        "FileHandler",
+        1
+    ],
+    [
+        "Andrew",
+        "scala",
+        2
+    ],
+    [
+        "Emilio",
+        "tsv",
+        1
+    ],
+    [
+        "Emilio",
+        "scala",
+        28
+    ],
+    [
+        "Emilio",
+        "xml",
+        2
+    ],
+    [
+        "Matthew Zimmerman",
+        "md",
+        4
+    ],
+    [
+        "Matthew Zimmerman",
+        "xml",
+        4
+    ],
+    [
+        "Matthew Zimmerman",
+        "scala",
+        3
+    ],
+    [
+        "Matthew Zimmerman",
+        "css",
+        1
+    ],
+    [
+        "Matthew Zimmerman",
+        "py",
+        1
+    ],
+    [
+        "Matthew Zimmerman",
+        "rst",
+        2
+    ],
+    [
+        "Anthony Fox",
+        "xml",
+        2
+    ],
+    [
+        "Anthony Fox",
+        "java",
+        5
+    ],
+    [
+        "Anthony Fox",
+        "scala",
+        1
+    ],
+    [
+        "Jim Hughes",
+        "java",
+        1
+    ]
+]

@@ -1,0 +1,157 @@
+[
+    [
+        "ndr_brt",
+        "java",
+        380
+    ],
+    [
+        "ndr_brt",
+        "unknown",
+        1
+    ],
+    [
+        "ndr_brt",
+        "kts",
+        85
+    ],
+    [
+        "ndr_brt",
+        "toml",
+        2
+    ],
+    [
+        "ndr_brt",
+        "sql",
+        1
+    ],
+    [
+        "ndr_brt",
+        "ServiceExtension",
+        21
+    ],
+    [
+        "ndr_brt",
+        "header",
+        2
+    ],
+    [
+        "ndr_brt",
+        "xml",
+        3
+    ],
+    [
+        "ndr_brt",
+        "yml",
+        5
+    ],
+    [
+        "ndr_brt",
+        "yaml",
+        45
+    ],
+    [
+        "ndr_brt",
+        "sh",
+        3
+    ],
+    [
+        "ndr_brt",
+        "properties",
+        1
+    ],
+    [
+        "Enrico Risa",
+        "unknown",
+        5
+    ],
+    [
+        "Enrico Risa",
+        "java",
+        106
+    ],
+    [
+        "Enrico Risa",
+        "toml",
+        4
+    ],
+    [
+        "Enrico Risa",
+        "md",
+        2
+    ],
+    [
+        "Enrico Risa",
+        "kts",
+        11
+    ],
+    [
+        "Enrico Risa",
+        "json",
+        17
+    ],
+    [
+        "Enrico Risa",
+        "ServiceExtension",
+        2
+    ],
+    [
+        "Enrico Risa",
+        "sql",
+        1
+    ],
+    [
+        "dependabot[bot]",
+        "unknown",
+        3
+    ],
+    [
+        "dependabot[bot]",
+        "kts",
+        3
+    ],
+    [
+        "dependabot[bot]",
+        "toml",
+        2
+    ],
+    [
+        "Rafael Magalh\u00e3es",
+        "java",
+        13
+    ],
+    [
+        "Paul Latzelsperger",
+        "unknown",
+        2
+    ],
+    [
+        "Paul Latzelsperger",
+        "kts",
+        12
+    ],
+    [
+        "Paul Latzelsperger",
+        "java",
+        48
+    ],
+    [
+        "Paul Latzelsperger",
+        "toml",
+        2
+    ],
+    [
+        "Paul Latzelsperger",
+        "yaml",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "ServiceExtension",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "json",
+        1
+    ]
+]

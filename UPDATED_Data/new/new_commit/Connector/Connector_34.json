@@ -1,0 +1,147 @@
+[
+    [
+        "Alex Wellnitz",
+        "java",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "java",
+        65
+    ],
+    [
+        "Paul Latzelsperger",
+        "unknown",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "kts",
+        8
+    ],
+    [
+        "Paul Latzelsperger",
+        "json",
+        8
+    ],
+    [
+        "Paul Latzelsperger",
+        "jsonld",
+        2
+    ],
+    [
+        "Paul Latzelsperger",
+        "toml",
+        1
+    ],
+    [
+        "Enrico Risa",
+        "kts",
+        23
+    ],
+    [
+        "Enrico Risa",
+        "java",
+        88
+    ],
+    [
+        "Enrico Risa",
+        "ServiceExtension",
+        5
+    ],
+    [
+        "Enrico Risa",
+        "pem",
+        2
+    ],
+    [
+        "Enrico Risa",
+        "unknown",
+        1
+    ],
+    [
+        "Enrico Risa",
+        "md",
+        3
+    ],
+    [
+        "Enrico Risa",
+        "properties",
+        2
+    ],
+    [
+        "Dr. Christoph \"Schorsch\" Jung",
+        "java",
+        3
+    ],
+    [
+        "ndr_brt",
+        "java",
+        123
+    ],
+    [
+        "ndr_brt",
+        "kts",
+        14
+    ],
+    [
+        "ndr_brt",
+        "md",
+        1
+    ],
+    [
+        "ndr_brt",
+        "sql",
+        1
+    ],
+    [
+        "ndr_brt",
+        "ServiceExtension",
+        2
+    ],
+    [
+        "mohannad-ezzo",
+        "java",
+        12
+    ],
+    [
+        "mohannad-ezzo",
+        "puml",
+        1
+    ],
+    [
+        "mohannad-ezzo",
+        "sql",
+        1
+    ],
+    [
+        "Benjamin Scholtes",
+        "unknown",
+        1
+    ],
+    [
+        "Benjamin Scholtes",
+        "java",
+        6
+    ],
+    [
+        "Benjamin Scholtes",
+        "kts",
+        1
+    ],
+    [
+        "Jim Marino",
+        "java",
+        127
+    ],
+    [
+        "Jim Marino",
+        "kts",
+        20
+    ],
+    [
+        "Jim Marino",
+        "unknown",
+        1
+    ]
+]

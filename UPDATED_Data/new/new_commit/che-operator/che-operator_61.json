@@ -1,0 +1,97 @@
+[
+    [
+        "che-bot",
+        "yaml",
+        10
+    ],
+    [
+        "che-bot",
+        "diff",
+        3
+    ],
+    [
+        "che-bot",
+        "go",
+        2
+    ],
+    [
+        "Igor Vinokur",
+        "yaml",
+        1
+    ],
+    [
+        "Igor Vinokur",
+        "go",
+        3
+    ],
+    [
+        "Angel Misevski",
+        "go",
+        450
+    ],
+    [
+        "Angel Misevski",
+        "md",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "yaml",
+        2
+    ],
+    [
+        "Angel Misevski",
+        "mod",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "sum",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "org/x/net/http2/Dockerfile",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "org/x/net/http2/Makefile",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "s",
+        30
+    ],
+    [
+        "Angel Misevski",
+        "c",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "sh",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "txt",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "unknown",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "yaml",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "go",
+        30
+    ]
+]

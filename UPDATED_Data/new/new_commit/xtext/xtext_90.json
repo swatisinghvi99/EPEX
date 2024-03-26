@@ -1,0 +1,282 @@
+[
+    [
+        "Stefan Oehme",
+        "java",
+        48
+    ],
+    [
+        "Stefan Oehme",
+        "xtend",
+        50
+    ],
+    [
+        "Stefan Oehme",
+        "mwe2",
+        12
+    ],
+    [
+        "Stefan Oehme",
+        "xml",
+        3
+    ],
+    [
+        "Stefan Oehme",
+        "api_filters",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "properties",
+        4
+    ],
+    [
+        "Stefan Oehme",
+        "gradle",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "MF",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        241
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtend",
+        22
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtext",
+        6
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        54
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        18
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "api_filters",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        66
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        42
+    ],
+    [
+        "Sven Efftinge",
+        "api_filters",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "xml",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "classpath",
+        5
+    ],
+    [
+        "Sven Efftinge",
+        "project",
+        5
+    ],
+    [
+        "Sven Efftinge",
+        "prefs",
+        8
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        5
+    ],
+    [
+        "Sven Efftinge",
+        "properties",
+        5
+    ],
+    [
+        "Sven Efftinge",
+        "gitignore",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "xml_gen",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "ecore",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "genmodel",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "mwe2",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "xtext",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "txt",
+        2
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "java",
+        9
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "gradle",
+        2
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "html",
+        16
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "css",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "js",
+        5
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "xtend",
+        14
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "statemachine",
+        1
+    ],
+    [
+        "Christian Schneider",
+        "java",
+        36
+    ],
+    [
+        "Christian Schneider",
+        "mwe2",
+        7
+    ],
+    [
+        "Christian Schneider",
+        "xtend",
+        21
+    ],
+    [
+        "Christian Schneider",
+        "MF",
+        4
+    ],
+    [
+        "Christian Schneider",
+        "classpath",
+        1
+    ],
+    [
+        "Christian Schneider",
+        "properties",
+        1
+    ],
+    [
+        "Christian Schneider",
+        "xml_gen",
+        3
+    ],
+    [
+        "Jan Sebechlebsky",
+        "java",
+        15
+    ],
+    [
+        "Jan Sebechlebsky",
+        "xtend",
+        1
+    ],
+    [
+        "akosyakov",
+        "xtend",
+        5
+    ],
+    [
+        "akosyakov",
+        "java",
+        9
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        52
+    ],
+    [
+        "Dennis Huebner",
+        "xtend",
+        27
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "api_filters",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "properties",
+        4
+    ]
+]

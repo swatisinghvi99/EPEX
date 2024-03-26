@@ -1,0 +1,97 @@
+[
+    [
+        "antonin.chazalet@orange.com",
+        "java",
+        23
+    ],
+    [
+        "Victor Perron",
+        "java",
+        71
+    ],
+    [
+        "Victor Perron",
+        "bnd",
+        1
+    ],
+    [
+        "gregory bonnardel",
+        "java",
+        41
+    ],
+    [
+        "gregory bonnardel",
+        "classpath",
+        4
+    ],
+    [
+        "gregory bonnardel",
+        "project",
+        4
+    ],
+    [
+        "gregory bonnardel",
+        "prefs",
+        16
+    ],
+    [
+        "gregory bonnardel",
+        "bnd",
+        4
+    ],
+    [
+        "gregory bonnardel",
+        "xml",
+        4
+    ],
+    [
+        "gregory bonnardel",
+        "util/src/org/osgi/impl/service/resourcemanagement/util/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        4
+    ],
+    [
+        "BJ Hargrave",
+        "namespace/src/org/osgi/namespace/extender/packageinfo",
+        1
+    ],
+    [
+        "Yukio Koike",
+        "classpath",
+        1
+    ],
+    [
+        "Yukio Koike",
+        "project",
+        1
+    ],
+    [
+        "Yukio Koike",
+        "prefs",
+        1
+    ],
+    [
+        "Yukio Koike",
+        "bnd",
+        1
+    ],
+    [
+        "Yukio Koike",
+        "xml",
+        1
+    ],
+    [
+        "Yukio Koike",
+        "java",
+        1
+    ],
+    [
+        "Yukio Koike",
+        "usb/src/org/osgi/service/usb/packageinfo",
+        1
+    ]
+]

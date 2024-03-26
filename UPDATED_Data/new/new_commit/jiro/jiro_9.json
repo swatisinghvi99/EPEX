@@ -1,0 +1,132 @@
+[
+    [
+        "Mika\u00ebl Barbero",
+        "json",
+        2
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "yml",
+        16
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "infra/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "infra/target/Dockerfile",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "hbs",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "infra/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "override",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "js",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "json",
+        22
+    ],
+    [
+        "Frederic Gurr",
+        "jdt/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "yml",
+        165
+    ],
+    [
+        "Frederic Gurr",
+        "hbs",
+        11
+    ],
+    [
+        "Frederic Gurr",
+        "override",
+        11
+    ],
+    [
+        "Frederic Gurr",
+        "js",
+        11
+    ],
+    [
+        "Frederic Gurr",
+        "nosql/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "mwe/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "hawk/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "wildwebdeveloper/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "packages/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "jemo/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "ca/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "ca/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "ca/target/jenkins/plugins-list",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "cu/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "krazo/target/Dockerfile",
+        1
+    ],
+    [
+        "Frederic Gurr",
+        "cognicrypt/target/Dockerfile",
+        1
+    ]
+]

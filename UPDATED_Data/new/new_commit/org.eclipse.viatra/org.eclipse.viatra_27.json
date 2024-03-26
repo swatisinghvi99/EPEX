@@ -1,0 +1,247 @@
+[
+    [
+        "Marton Bur",
+        "MF",
+        2
+    ],
+    [
+        "Marton Bur",
+        "properties",
+        1
+    ],
+    [
+        "Marton Bur",
+        "xml",
+        3
+    ],
+    [
+        "Marton Bur",
+        "java",
+        75
+    ],
+    [
+        "Tamas Szabo",
+        "java",
+        3
+    ],
+    [
+        "Zoltan Ujhelyi",
+        "java",
+        28
+    ],
+    [
+        "Zoltan Ujhelyi",
+        "exsd",
+        1
+    ],
+    [
+        "Zoltan Ujhelyi",
+        "xtend",
+        3
+    ],
+    [
+        "Zoltan Ujhelyi",
+        "xml",
+        1
+    ],
+    [
+        "Zoltan Ujhelyi",
+        "MF",
+        1
+    ],
+    [
+        "Andr\u00e1s Szabolcs Nagy",
+        "xml",
+        6
+    ],
+    [
+        "Andr\u00e1s Szabolcs Nagy",
+        "MF",
+        4
+    ],
+    [
+        "Andr\u00e1s Szabolcs Nagy",
+        "java",
+        90
+    ],
+    [
+        "Andr\u00e1s Szabolcs Nagy",
+        "classpath",
+        2
+    ],
+    [
+        "Andr\u00e1s Szabolcs Nagy",
+        "gitignore",
+        3
+    ],
+    [
+        "Andr\u00e1s Szabolcs Nagy",
+        "project",
+        2
+    ],
+    [
+        "Andr\u00e1s Szabolcs Nagy",
+        "prefs",
+        4
+    ],
+    [
+        "Andr\u00e1s Szabolcs Nagy",
+        "properties",
+        3
+    ],
+    [
+        "Andr\u00e1s Szabolcs Nagy",
+        "ecore",
+        1
+    ],
+    [
+        "Andr\u00e1s Szabolcs Nagy",
+        "ecorediag",
+        1
+    ],
+    [
+        "Andr\u00e1s Szabolcs Nagy",
+        "genmodel",
+        1
+    ],
+    [
+        "Andr\u00e1s Szabolcs Nagy",
+        "eiq",
+        1
+    ],
+    [
+        "Andr\u00e1s Szabolcs Nagy",
+        "xtend",
+        1
+    ],
+    [
+        "De\u0301nes Harmath",
+        "MF",
+        3
+    ],
+    [
+        "De\u0301nes Harmath",
+        "xml",
+        5
+    ],
+    [
+        "De\u0301nes Harmath",
+        "eiq",
+        5
+    ],
+    [
+        "De\u0301nes Harmath",
+        "setup",
+        1
+    ],
+    [
+        "De\u0301nes Harmath",
+        "classpath",
+        1
+    ],
+    [
+        "De\u0301nes Harmath",
+        "project",
+        1
+    ],
+    [
+        "De\u0301nes Harmath",
+        "prefs",
+        1
+    ],
+    [
+        "De\u0301nes Harmath",
+        "properties",
+        1
+    ],
+    [
+        "De\u0301nes Harmath",
+        "java",
+        6
+    ],
+    [
+        "De\u0301nes Harmath",
+        "gitignore",
+        2
+    ],
+    [
+        "De\u0301nes Harmath",
+        "xtend",
+        1
+    ],
+    [
+        "Peter Lunk",
+        "MF",
+        1
+    ],
+    [
+        "Peter Lunk",
+        "xtend",
+        1
+    ],
+    [
+        "Peter Lunk",
+        "java",
+        3
+    ],
+    [
+        "Istvan David",
+        "MF",
+        1
+    ],
+    [
+        "Istvan David",
+        "java",
+        8
+    ],
+    [
+        "Istvan David",
+        "genmodel",
+        1
+    ],
+    [
+        "Istvan David",
+        "xtend",
+        1
+    ],
+    [
+        "Abel Hegedus",
+        "xtend",
+        1
+    ],
+    [
+        "Abel Hegedus",
+        "MF",
+        1
+    ],
+    [
+        "Abel Hegedus",
+        "java",
+        5
+    ],
+    [
+        "bergmann",
+        "java",
+        53
+    ],
+    [
+        "bergmann",
+        "xtend",
+        2
+    ],
+    [
+        "bergmann",
+        "ecore",
+        1
+    ],
+    [
+        "bergmann",
+        "genmodel",
+        1
+    ],
+    [
+        "bergmann",
+        "MF",
+        1
+    ]
+]

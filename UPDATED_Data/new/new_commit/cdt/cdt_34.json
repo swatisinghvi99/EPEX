@@ -1,0 +1,217 @@
+[
+    [
+        "Bogdan Gheorghe",
+        "options",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "core/index/ChangeLog",
+        6
+    ],
+    [
+        "Bogdan Gheorghe",
+        "java",
+        346
+    ],
+    [
+        "Bogdan Gheorghe",
+        "xml",
+        3
+    ],
+    [
+        "Bogdan Gheorghe",
+        "core/search/ChangeLog",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "properties",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        76
+    ],
+    [
+        "Doug Schaefer",
+        "xml",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "properties",
+        1
+    ],
+    [
+        "Andrew Niefer",
+        "java",
+        325
+    ],
+    [
+        "Vladimir Hirsl",
+        "core/ChangeLog",
+        7
+    ],
+    [
+        "Vladimir Hirsl",
+        "java",
+        66
+    ],
+    [
+        "Vladimir Hirsl",
+        "ui/ChangeLog",
+        3
+    ],
+    [
+        "Vladimir Hirsl",
+        "xml",
+        1
+    ],
+    [
+        "Vladimir Hirsl",
+        "properties",
+        1
+    ],
+    [
+        "Chris Wiebe",
+        "core/browser/ChangeLog-browser",
+        2
+    ],
+    [
+        "Chris Wiebe",
+        "java",
+        14
+    ],
+    [
+        "Chris Wiebe",
+        "ui/ChangeLog",
+        2
+    ],
+    [
+        "Chris Wiebe",
+        "properties",
+        2
+    ],
+    [
+        "Chris Wiebe",
+        "xml",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "ui/ChangeLog",
+        8
+    ],
+    [
+        "Alain Magloire",
+        "java",
+        81
+    ],
+    [
+        "Alain Magloire",
+        "core/ChangeLog",
+        8
+    ],
+    [
+        "Alain Magloire",
+        "properties",
+        5
+    ],
+    [
+        "Alain Magloire",
+        "xml",
+        1
+    ],
+    [
+        "John Camelon",
+        "java",
+        258
+    ],
+    [
+        "David Inglis",
+        "java",
+        41
+    ],
+    [
+        "David Inglis",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "David Inglis",
+        "xml",
+        4
+    ],
+    [
+        "David Inglis",
+        "launch/ChangeLog",
+        1
+    ],
+    [
+        "David Inglis",
+        "properties",
+        1
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "core/ChangeLog",
+        6
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        57
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "ui/ChangeLog",
+        5
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "xml",
+        4
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "properties",
+        8
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "launch/ChangeLog",
+        1
+    ],
+    [
+        "Leo Treggiari",
+        "xml",
+        3
+    ],
+    [
+        "Leo Treggiari",
+        "java",
+        57
+    ],
+    [
+        "Leo Treggiari",
+        "exsd",
+        2
+    ],
+    [
+        "Leo Treggiari",
+        "properties",
+        3
+    ]
+]

@@ -1,0 +1,422 @@
+[
+    [
+        "Sergey Prigogin",
+        "java",
+        36
+    ],
+    [
+        "Anton Leherbauer",
+        "java",
+        111
+    ],
+    [
+        "Anton Leherbauer",
+        "properties",
+        6
+    ],
+    [
+        "Anton Leherbauer",
+        "xml",
+        2
+    ],
+    [
+        "Anton Leherbauer",
+        "cpp",
+        13
+    ],
+    [
+        "Anton Leherbauer",
+        "classpath",
+        14
+    ],
+    [
+        "Anton Leherbauer",
+        "MF",
+        19
+    ],
+    [
+        "Anton Leherbauer",
+        "prefs",
+        1
+    ],
+    [
+        "Markus Schorn",
+        "java",
+        417
+    ],
+    [
+        "Markus Schorn",
+        "properties",
+        9
+    ],
+    [
+        "Markus Schorn",
+        "options",
+        1
+    ],
+    [
+        "Markus Schorn",
+        "xml",
+        2
+    ],
+    [
+        "Oleg Krasilnikov",
+        "java",
+        202
+    ],
+    [
+        "Oleg Krasilnikov",
+        "properties",
+        7
+    ],
+    [
+        "Oleg Krasilnikov",
+        "classpath",
+        1
+    ],
+    [
+        "Oleg Krasilnikov",
+        "prefs",
+        1
+    ],
+    [
+        "Oleg Krasilnikov",
+        "MF",
+        1
+    ],
+    [
+        "Chris Recoskie",
+        "MF",
+        3
+    ],
+    [
+        "Chris Recoskie",
+        "java",
+        7
+    ],
+    [
+        "Chris Recoskie",
+        "properties",
+        2
+    ],
+    [
+        "Chris Recoskie",
+        "xml",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        8
+    ],
+    [
+        "Mike Kucera",
+        "java",
+        206
+    ],
+    [
+        "Mike Kucera",
+        "g",
+        32
+    ],
+    [
+        "Mike Kucera",
+        "xml",
+        5
+    ],
+    [
+        "Mike Kucera",
+        "MF",
+        1
+    ],
+    [
+        "David McKnight",
+        "java",
+        240
+    ],
+    [
+        "David McKnight",
+        "MF",
+        1
+    ],
+    [
+        "David McKnight",
+        "properties",
+        39
+    ],
+    [
+        "David McKnight",
+        "xml",
+        6
+    ],
+    [
+        "Randy Rohrbach",
+        "java",
+        10
+    ],
+    [
+        "Pawel Piech",
+        "java",
+        599
+    ],
+    [
+        "Pawel Piech",
+        "MF",
+        16
+    ],
+    [
+        "Pawel Piech",
+        "classpath",
+        9
+    ],
+    [
+        "Pawel Piech",
+        "cvsignore",
+        3
+    ],
+    [
+        "Pawel Piech",
+        "project",
+        8
+    ],
+    [
+        "Pawel Piech",
+        "prefs",
+        12
+    ],
+    [
+        "Pawel Piech",
+        "html",
+        13
+    ],
+    [
+        "Pawel Piech",
+        "properties",
+        12
+    ],
+    [
+        "Pawel Piech",
+        "xml",
+        17
+    ],
+    [
+        "Pawel Piech",
+        "options",
+        3
+    ],
+    [
+        "Pawel Piech",
+        "pl",
+        2
+    ],
+    [
+        "Pawel Piech",
+        "pda",
+        9
+    ],
+    [
+        "Pawel Piech",
+        "launch",
+        1
+    ],
+    [
+        "Pawel Piech",
+        "cc",
+        6
+    ],
+    [
+        "Pawel Piech",
+        "gdb/data/launch/src/Makefile",
+        1
+    ],
+    [
+        "Martin Oberhuber",
+        "java",
+        303
+    ],
+    [
+        "Martin Oberhuber",
+        "prefs",
+        57
+    ],
+    [
+        "Martin Oberhuber",
+        "html",
+        2
+    ],
+    [
+        "Martin Oberhuber",
+        "MF",
+        1
+    ],
+    [
+        "Martin Oberhuber",
+        "properties",
+        26
+    ],
+    [
+        "Martin Oberhuber",
+        "sh",
+        1
+    ],
+    [
+        "Martin Oberhuber",
+        "bat",
+        1
+    ],
+    [
+        "Martin Oberhuber",
+        "xml",
+        2
+    ],
+    [
+        "Martin Oberhuber",
+        "php",
+        5
+    ],
+    [
+        "Martin Oberhuber",
+        "map",
+        9
+    ],
+    [
+        "Marc Khouzam",
+        "java",
+        12
+    ],
+    [
+        "Andrew Ferguson",
+        "java",
+        83
+    ],
+    [
+        "Andrew Ferguson",
+        "MF",
+        2
+    ],
+    [
+        "Andrew Ferguson",
+        "prefs",
+        1
+    ],
+    [
+        "Andrew Ferguson",
+        "xml",
+        2
+    ],
+    [
+        "Andrew Ferguson",
+        "cpp",
+        1
+    ],
+    [
+        "Andrew Ferguson",
+        "properties",
+        5
+    ],
+    [
+        "Andrew Ferguson",
+        "csv",
+        1
+    ],
+    [
+        "Andrew Ferguson",
+        "exsd",
+        3
+    ],
+    [
+        "Andrew Ferguson",
+        "htm",
+        42
+    ],
+    [
+        "David Dykstal",
+        "java",
+        66
+    ],
+    [
+        "David Dykstal",
+        "html",
+        1
+    ],
+    [
+        "David Dykstal",
+        "exsd",
+        1
+    ],
+    [
+        "David Dykstal",
+        "MF",
+        1
+    ],
+    [
+        "David Dykstal",
+        "xml",
+        1
+    ],
+    [
+        "Ken Ryall",
+        "java",
+        9
+    ],
+    [
+        "Ken Ryall",
+        "xml",
+        1
+    ],
+    [
+        "Ken Ryall",
+        "properties",
+        1
+    ],
+    [
+        "Kevin Doyle",
+        "java",
+        4
+    ],
+    [
+        "Kevin Doyle",
+        "properties",
+        1
+    ],
+    [
+        "John Cortell",
+        "java",
+        8
+    ],
+    [
+        "Xuan Chen",
+        "java",
+        4
+    ],
+    [
+        "Francois Chouinard",
+        "MF",
+        3
+    ],
+    [
+        "Francois Chouinard",
+        "java",
+        4
+    ],
+    [
+        "Michael Scharf",
+        "java",
+        16
+    ],
+    [
+        "John Camelon",
+        "java",
+        1
+    ],
+    [
+        "Uwe Stieber",
+        "java",
+        4
+    ],
+    [
+        "Jason Montojo",
+        "java",
+        1
+    ]
+]

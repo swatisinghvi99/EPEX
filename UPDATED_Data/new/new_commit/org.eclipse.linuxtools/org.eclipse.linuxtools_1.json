@@ -1,0 +1,302 @@
+[
+    [
+        "Kent Sebastian",
+        "MF",
+        10
+    ],
+    [
+        "Kent Sebastian",
+        "html",
+        5
+    ],
+    [
+        "Kent Sebastian",
+        "properties",
+        22
+    ],
+    [
+        "Kent Sebastian",
+        "core/natives/linux/opxml/Makefile",
+        1
+    ],
+    [
+        "Kent Sebastian",
+        "core/natives/linux/opxml/README",
+        1
+    ],
+    [
+        "Kent Sebastian",
+        "cc",
+        9
+    ],
+    [
+        "Kent Sebastian",
+        "h",
+        4
+    ],
+    [
+        "Kent Sebastian",
+        "core/natives/linux/scripts/install",
+        2
+    ],
+    [
+        "Kent Sebastian",
+        "core/natives/linux/scripts/uninstall",
+        2
+    ],
+    [
+        "Kent Sebastian",
+        "java",
+        166
+    ],
+    [
+        "Kent Sebastian",
+        "classpath",
+        4
+    ],
+    [
+        "Kent Sebastian",
+        "project",
+        4
+    ],
+    [
+        "Kent Sebastian",
+        "prefs",
+        5
+    ],
+    [
+        "Kent Sebastian",
+        "svnignore",
+        3
+    ],
+    [
+        "Kent Sebastian",
+        "txt",
+        2
+    ],
+    [
+        "Kent Sebastian",
+        "xml",
+        13
+    ],
+    [
+        "Kent Sebastian",
+        "sh",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "core/ChangeLog",
+        3
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        275
+    ],
+    [
+        "Alexander Kurtakov",
+        "editor/ChangeLog",
+        11
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/ChangeLog",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "prefs",
+        8
+    ],
+    [
+        "Alexander Kurtakov",
+        "rpmlint/ChangeLog",
+        10
+    ],
+    [
+        "Alexander Kurtakov",
+        "rpmstubby/ChangeLog",
+        15
+    ],
+    [
+        "Alexander Kurtakov",
+        "properties",
+        6
+    ],
+    [
+        "Alexander Kurtakov",
+        "xml",
+        4
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "core/ChangeLog",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "MF",
+        4
+    ],
+    [
+        "Jeff Johnston",
+        "java",
+        23
+    ],
+    [
+        "Jeff Johnston",
+        "classpath",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "project",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "prefs",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "libhover/ChangeLog",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "properties",
+        3
+    ],
+    [
+        "Jeff Johnston",
+        "xml",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "exsd",
+        3
+    ],
+    [
+        "Jeff Johnston",
+        "autotools/ChangeLog",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "unknown",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "java",
+        123
+    ],
+    [
+        "Elliott Baron",
+        "massif/ChangeLog",
+        4
+    ],
+    [
+        "Elliott Baron",
+        "core/ChangeLog",
+        3
+    ],
+    [
+        "Elliott Baron",
+        "launch/ChangeLog",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "properties",
+        31
+    ],
+    [
+        "Elliott Baron",
+        "tests/ChangeLog",
+        3
+    ],
+    [
+        "Elliott Baron",
+        "classpath",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "project",
+        3
+    ],
+    [
+        "Elliott Baron",
+        "prefs",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "MF",
+        8
+    ],
+    [
+        "Elliott Baron",
+        "xml",
+        3
+    ],
+    [
+        "Elliott Baron",
+        "cachegrind/ChangeLog",
+        1
+    ],
+    [
+        "Phil Muldoon",
+        "editor/src/org/eclipse/linuxtools/systemtap/ui/editor/ChangeLog",
+        2
+    ],
+    [
+        "Phil Muldoon",
+        "java",
+        2
+    ],
+    [
+        "Fabio Fantato",
+        "project",
+        2
+    ],
+    [
+        "Fabio Fantato",
+        "MF",
+        2
+    ],
+    [
+        "Fabio Fantato",
+        "properties",
+        19
+    ],
+    [
+        "Fabio Fantato",
+        "xml",
+        2
+    ],
+    [
+        "Fabio Fantato",
+        "exsd",
+        2
+    ],
+    [
+        "Fabio Fantato",
+        "java",
+        91
+    ],
+    [
+        "Daniel Barboza Franco",
+        "java",
+        17
+    ]
+]

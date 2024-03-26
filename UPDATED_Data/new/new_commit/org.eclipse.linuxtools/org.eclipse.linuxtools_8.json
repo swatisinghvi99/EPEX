@@ -1,0 +1,492 @@
+[
+    [
+        "Andrew Overholt",
+        "classpath",
+        25
+    ],
+    [
+        "Andrew Overholt",
+        "project",
+        35
+    ],
+    [
+        "Andrew Overholt",
+        "svnignore",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "changelog-feature/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "properties",
+        87
+    ],
+    [
+        "Andrew Overholt",
+        "html",
+        80
+    ],
+    [
+        "Andrew Overholt",
+        "xml",
+        48
+    ],
+    [
+        "Andrew Overholt",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "java",
+        646
+    ],
+    [
+        "Andrew Overholt",
+        "prefs",
+        23
+    ],
+    [
+        "Andrew Overholt",
+        "cparser/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "MF",
+        29
+    ],
+    [
+        "Andrew Overholt",
+        "doc/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "xsl",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "javaparser/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "systemtap-feature/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "backup-feature/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "tests/ChangeLog",
+        7
+    ],
+    [
+        "Andrew Overholt",
+        "consolelog/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "editor/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "graphing/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "nonui/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "ide/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "logging/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "structures/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "systemtapgui/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "ini",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "test-feature/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "libhover-feature/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "glibc/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "library-docs/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "libstdcxx/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "newlib-feature/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "newlib/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "libhover/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "stp",
+        3
+    ],
+    [
+        "Andrew Overholt",
+        "sh",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "exsd",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "autotools-docs/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "autotools-feature/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "cvsignore",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "autotools/ChangeLog",
+        1
+    ],
+    [
+        "Charley Wang",
+        "classpath",
+        2
+    ],
+    [
+        "Charley Wang",
+        "project",
+        2
+    ],
+    [
+        "Charley Wang",
+        "prefs",
+        2
+    ],
+    [
+        "Charley Wang",
+        "MF",
+        7
+    ],
+    [
+        "Charley Wang",
+        "stp",
+        16
+    ],
+    [
+        "Charley Wang",
+        "c",
+        6
+    ],
+    [
+        "Charley Wang",
+        "properties",
+        11
+    ],
+    [
+        "Charley Wang",
+        "unknown",
+        2
+    ],
+    [
+        "Charley Wang",
+        "java",
+        288
+    ],
+    [
+        "Charley Wang",
+        "graph",
+        2
+    ],
+    [
+        "Charley Wang",
+        "prop",
+        8
+    ],
+    [
+        "Charley Wang",
+        "xml",
+        8
+    ],
+    [
+        "Charley Wang",
+        "htm",
+        1
+    ],
+    [
+        "Charley Wang",
+        "tests/makefile",
+        1
+    ],
+    [
+        "Charley Wang",
+        "tests/stapscript",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "java",
+        22
+    ],
+    [
+        "Roland Grunberg",
+        "unknown",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "cpp",
+        2
+    ],
+    [
+        "Roland Grunberg",
+        "tests/makefile",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "unknown",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "MF",
+        17
+    ],
+    [
+        "Elliott Baron",
+        "java",
+        34
+    ],
+    [
+        "Elliott Baron",
+        "tests/ChangeLog",
+        9
+    ],
+    [
+        "Elliott Baron",
+        "txt",
+        83
+    ],
+    [
+        "Elliott Baron",
+        "core/ChangeLog",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "properties",
+        17
+    ],
+    [
+        "Elliott Baron",
+        "massif/ChangeLog",
+        3
+    ],
+    [
+        "Elliott Baron",
+        "c",
+        3
+    ],
+    [
+        "Elliott Baron",
+        "memcheck/ChangeLog",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "project",
+        5
+    ],
+    [
+        "Elliott Baron",
+        "profiling-feature/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "html",
+        5
+    ],
+    [
+        "Elliott Baron",
+        "xml",
+        6
+    ],
+    [
+        "Elliott Baron",
+        "classpath",
+        3
+    ],
+    [
+        "Elliott Baron",
+        "prefs",
+        3
+    ],
+    [
+        "Elliott Baron",
+        "svnignore",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "launch/ChangeLog",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "test-feature/ChangeLog",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "ui/ChangeLog",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "editor/ChangeLog",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "valgrind-feature/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "cachegrind/ChangeLog",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "editor/ChangeLog",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        14
+    ],
+    [
+        "Alexander Kurtakov",
+        "properties",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "rpmstubby/ChangeLog",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "xml",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/ChangeLog",
+        1
+    ],
+    [
+        "Francois Chouinard",
+        "classpath",
+        5
+    ],
+    [
+        "Francois Chouinard",
+        "prefs",
+        5
+    ],
+    [
+        "Francois Chouinard",
+        "MF",
+        10
+    ],
+    [
+        "Francois Chouinard",
+        "java",
+        146
+    ],
+    [
+        "Francois Chouinard",
+        "properties",
+        5
+    ],
+    [
+        "Francois Chouinard",
+        "xml",
+        1
+    ]
+]

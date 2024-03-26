@@ -1,0 +1,362 @@
+[
+    [
+        "Alex Tugarev",
+        "java",
+        1
+    ],
+    [
+        "Marin Mitev",
+        "classpath",
+        2
+    ],
+    [
+        "Marin Mitev",
+        "project",
+        2
+    ],
+    [
+        "Marin Mitev",
+        "MF",
+        1
+    ],
+    [
+        "Marin Mitev",
+        "properties",
+        1
+    ],
+    [
+        "Marin Mitev",
+        "xml",
+        4
+    ],
+    [
+        "Marin Mitev",
+        "java",
+        28
+    ],
+    [
+        "Marin Mitev",
+        "json",
+        6
+    ],
+    [
+        "Karel Goderis",
+        "MF",
+        2
+    ],
+    [
+        "Karel Goderis",
+        "xml",
+        1
+    ],
+    [
+        "Karel Goderis",
+        "java",
+        6
+    ],
+    [
+        "IVAN GEORGIEV ILIEV",
+        "xml",
+        8
+    ],
+    [
+        "IVAN GEORGIEV ILIEV",
+        "groovy",
+        1
+    ],
+    [
+        "IVAN GEORGIEV ILIEV",
+        "properties",
+        1
+    ],
+    [
+        "IVAN GEORGIEV ILIEV",
+        "MF",
+        6
+    ],
+    [
+        "IVAN GEORGIEV ILIEV",
+        "java",
+        11
+    ],
+    [
+        "IVAN GEORGIEV ILIEV",
+        "xsd",
+        1
+    ],
+    [
+        "IVAN GEORGIEV ILIEV",
+        "md",
+        1
+    ],
+    [
+        "Thomas Ho\u0308fer",
+        "xml",
+        17
+    ],
+    [
+        "Thomas Ho\u0308fer",
+        "java",
+        20
+    ],
+    [
+        "Thomas Ho\u0308fer",
+        "groovy",
+        6
+    ],
+    [
+        "Thomas Ho\u0308fer",
+        "xsd",
+        1
+    ],
+    [
+        "Dennis Nobel",
+        "java",
+        18
+    ],
+    [
+        "Dennis Nobel",
+        "groovy",
+        6
+    ],
+    [
+        "Dennis Nobel",
+        "md",
+        1
+    ],
+    [
+        "Ga\u00ebl L'hopital",
+        "java",
+        5
+    ],
+    [
+        "Ga\u00ebl L'hopital",
+        "xtend",
+        1
+    ],
+    [
+        "Ga\u00ebl L'hopital",
+        "xtext",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "java",
+        8
+    ],
+    [
+        "Kai Kreuzer",
+        "properties",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "xml",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "md",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "groovy",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "xtend",
+        1
+    ],
+    [
+        "Benedikt Niehues",
+        "MF",
+        1
+    ],
+    [
+        "Benedikt Niehues",
+        "java",
+        2
+    ],
+    [
+        "Benedikt Niehues",
+        "groovy",
+        1
+    ],
+    [
+        "Benedikt Niehues",
+        "xtend",
+        1
+    ],
+    [
+        "Andre Fuechsel",
+        "java",
+        16
+    ],
+    [
+        "Andre Fuechsel",
+        "classpath",
+        1
+    ],
+    [
+        "Andre Fuechsel",
+        "properties",
+        1
+    ],
+    [
+        "Andre Fuechsel",
+        "launch",
+        1
+    ],
+    [
+        "Andre Fuechsel",
+        "groovy",
+        6
+    ],
+    [
+        "Andre Fuechsel",
+        "xml",
+        1
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "prefs",
+        20
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "md",
+        1
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "classpath",
+        3
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "gitignore",
+        3
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "project",
+        3
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "txt",
+        2
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "html",
+        3
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "bnd",
+        3
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "xml",
+        4
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "java",
+        30
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "impl/src/main/java/org/eclipse/smarthome/protocols/enocean/basedriver/impl/conf/packageinfo",
+        1
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "impl/src/main/java/org/eclipse/smarthome/protocols/enocean/basedriver/impl/esp/packageinfo",
+        1
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "impl/src/main/java/org/eclipse/smarthome/protocols/enocean/basedriver/impl/impl/packageinfo",
+        1
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "impl/src/main/java/org/eclipse/smarthome/protocols/enocean/basedriver/impl/packageinfo",
+        1
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "impl/src/main/java/org/eclipse/smarthome/protocols/enocean/basedriver/impl/radio/packageinfo",
+        1
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "impl/src/main/java/org/eclipse/smarthome/protocols/enocean/basedriver/impl/utils/packageinfo",
+        1
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "basic/src/main/java/org/eclipse/smarthome/protocols/enocean/eeps/basic/packageinfo",
+        1
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "basic/src/main/java/org/eclipse/smarthome/protocols/enocean/eeps/basic/utils/packageinfo",
+        1
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "client/src/main/java/org/eclipse/smarthome/protocols/enocean/sample/client/packageinfo",
+        1
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "client/src/main/java/org/eclipse/smarthome/protocols/enocean/sample/client/shell/packageinfo",
+        1
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "client/src/main/java/org/eclipse/smarthome/protocols/enocean/sample/client/utils/packageinfo",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "MF",
+        4
+    ],
+    [
+        "Markus Rathgeb",
+        "java",
+        40
+    ],
+    [
+        "Markus Rathgeb",
+        "classpath",
+        2
+    ],
+    [
+        "Markus Rathgeb",
+        "project",
+        2
+    ],
+    [
+        "Markus Rathgeb",
+        "xml",
+        9
+    ],
+    [
+        "Markus Rathgeb",
+        "html",
+        2
+    ],
+    [
+        "Markus Rathgeb",
+        "properties",
+        2
+    ]
+]

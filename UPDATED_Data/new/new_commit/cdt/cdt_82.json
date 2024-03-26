@@ -1,0 +1,367 @@
+[
+    [
+        "Markus Schorn",
+        "java",
+        76
+    ],
+    [
+        "Markus Schorn",
+        "properties",
+        2
+    ],
+    [
+        "Markus Schorn",
+        "awts",
+        2
+    ],
+    [
+        "Markus Schorn",
+        "xml",
+        1
+    ],
+    [
+        "Mike Kucera",
+        "java",
+        224
+    ],
+    [
+        "Mike Kucera",
+        "g",
+        15
+    ],
+    [
+        "Mike Kucera",
+        "xml",
+        9
+    ],
+    [
+        "Mike Kucera",
+        "MF",
+        5
+    ],
+    [
+        "Mike Kucera",
+        "classpath",
+        2
+    ],
+    [
+        "Mike Kucera",
+        "project",
+        2
+    ],
+    [
+        "Mike Kucera",
+        "prefs",
+        2
+    ],
+    [
+        "Mike Kucera",
+        "html",
+        2
+    ],
+    [
+        "Mike Kucera",
+        "properties",
+        7
+    ],
+    [
+        "David McKnight",
+        "java",
+        52
+    ],
+    [
+        "David McKnight",
+        "xml",
+        1
+    ],
+    [
+        "David McKnight",
+        "properties",
+        1
+    ],
+    [
+        "Pawel Piech",
+        "properties",
+        2
+    ],
+    [
+        "Pawel Piech",
+        "xml",
+        1
+    ],
+    [
+        "Pawel Piech",
+        "java",
+        31
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        4
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "xml",
+        1
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "properties",
+        1
+    ],
+    [
+        "Alena Laskavaia",
+        "properties",
+        13
+    ],
+    [
+        "Alena Laskavaia",
+        "xml",
+        14
+    ],
+    [
+        "Alena Laskavaia",
+        "java",
+        148
+    ],
+    [
+        "Alena Laskavaia",
+        "classpath",
+        4
+    ],
+    [
+        "Alena Laskavaia",
+        "project",
+        4
+    ],
+    [
+        "Alena Laskavaia",
+        "prefs",
+        5
+    ],
+    [
+        "Alena Laskavaia",
+        "MF",
+        9
+    ],
+    [
+        "Alena Laskavaia",
+        "exsd",
+        2
+    ],
+    [
+        "Alena Laskavaia",
+        "api_filters",
+        1
+    ],
+    [
+        "Marc Khouzam",
+        "java",
+        53
+    ],
+    [
+        "Marc Khouzam",
+        "xml",
+        3
+    ],
+    [
+        "Marc Khouzam",
+        "properties",
+        1
+    ],
+    [
+        "Anton Leherbauer",
+        "java",
+        21
+    ],
+    [
+        "Anton Leherbauer",
+        "prefs",
+        1
+    ],
+    [
+        "Anton Leherbauer",
+        "properties",
+        1
+    ],
+    [
+        "Anton Leherbauer",
+        "xml",
+        1
+    ],
+    [
+        "Warren Paul",
+        "java",
+        3
+    ],
+    [
+        "James Blackburn",
+        "java",
+        14
+    ],
+    [
+        "James Blackburn",
+        "xml",
+        2
+    ],
+    [
+        "Sergey Prigogin",
+        "java",
+        50
+    ],
+    [
+        "Sergey Prigogin",
+        "properties",
+        4
+    ],
+    [
+        "Sergey Prigogin",
+        "cpp",
+        2
+    ],
+    [
+        "Sergey Prigogin",
+        "xml",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        42
+    ],
+    [
+        "Doug Schaefer",
+        "xml",
+        5
+    ],
+    [
+        "Doug Schaefer",
+        "prefs",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "MF",
+        4
+    ],
+    [
+        "Doug Schaefer",
+        "classpath",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "project",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "properties",
+        2
+    ],
+    [
+        "Ken Ryall",
+        "java",
+        7
+    ],
+    [
+        "Vivian Kong",
+        "html",
+        11
+    ],
+    [
+        "Vivian Kong",
+        "properties",
+        47
+    ],
+    [
+        "Vivian Kong",
+        "ini",
+        3
+    ],
+    [
+        "Vivian Kong",
+        "mappings",
+        3
+    ],
+    [
+        "Vivian Kong",
+        "classpath",
+        4
+    ],
+    [
+        "Vivian Kong",
+        "prefs",
+        4
+    ],
+    [
+        "Vivian Kong",
+        "MF",
+        5
+    ],
+    [
+        "Vivian Kong",
+        "java",
+        1
+    ],
+    [
+        "Emanuel Graf",
+        "rts",
+        1
+    ],
+    [
+        "Emanuel Graf",
+        "java",
+        11
+    ],
+    [
+        "Emanuel Graf",
+        "properties",
+        3
+    ],
+    [
+        "Emanuel Graf",
+        "xml",
+        1
+    ],
+    [
+        "Martin Oberhuber",
+        "java",
+        1
+    ],
+    [
+        "Chris Recoskie",
+        "java",
+        11
+    ],
+    [
+        "John Cortell",
+        "java",
+        1
+    ],
+    [
+        "Anna Dushistova",
+        "MF",
+        1
+    ],
+    [
+        "Anna Dushistova",
+        "java",
+        3
+    ],
+    [
+        "Ted Williams",
+        "java",
+        1
+    ],
+    [
+        "Randy Rohrbach",
+        "java",
+        8
+    ],
+    [
+        "Randy Rohrbach",
+        "properties",
+        2
+    ]
+]

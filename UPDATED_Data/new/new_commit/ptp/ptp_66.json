@@ -1,0 +1,432 @@
+[
+    [
+        "Beth Tibbitts",
+        "java",
+        216
+    ],
+    [
+        "Beth Tibbitts",
+        "properties",
+        39
+    ],
+    [
+        "Beth Tibbitts",
+        "MF",
+        6
+    ],
+    [
+        "Beth Tibbitts",
+        "classpath",
+        3
+    ],
+    [
+        "Beth Tibbitts",
+        "project",
+        4
+    ],
+    [
+        "Beth Tibbitts",
+        "prefs",
+        2
+    ],
+    [
+        "Beth Tibbitts",
+        "css",
+        2
+    ],
+    [
+        "Beth Tibbitts",
+        "html",
+        10
+    ],
+    [
+        "Beth Tibbitts",
+        "xml",
+        7
+    ],
+    [
+        "Greg Watson",
+        "properties",
+        46
+    ],
+    [
+        "Greg Watson",
+        "xml",
+        7
+    ],
+    [
+        "Greg Watson",
+        "java",
+        637
+    ],
+    [
+        "Greg Watson",
+        "project",
+        13
+    ],
+    [
+        "Greg Watson",
+        "MF",
+        31
+    ],
+    [
+        "Greg Watson",
+        "html",
+        12
+    ],
+    [
+        "Greg Watson",
+        "css",
+        1
+    ],
+    [
+        "Greg Watson",
+        "classpath",
+        2
+    ],
+    [
+        "Greg Watson",
+        "prefs",
+        2
+    ],
+    [
+        "Greg Watson",
+        "c",
+        107
+    ],
+    [
+        "Greg Watson",
+        "h",
+        59
+    ],
+    [
+        "Greg Watson",
+        "am",
+        5
+    ],
+    [
+        "Greg Watson",
+        "cvsignore",
+        4
+    ],
+    [
+        "Greg Watson",
+        "sdm/libmi/AUTHORS",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sdm/libmi/CHANGES",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sdm/libmi/COPYING",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sdm/libmi/INSTALL",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sdm/libmi/LICENCE",
+        1
+    ],
+    [
+        "Greg Watson",
+        "in",
+        8
+    ],
+    [
+        "Greg Watson",
+        "sdm/libmi/README",
+        1
+    ],
+    [
+        "Greg Watson",
+        "m4",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sdm/libmi/compile",
+        1
+    ],
+    [
+        "Greg Watson",
+        "status",
+        2
+    ],
+    [
+        "Greg Watson",
+        "sdm/libmi/configure",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sdm/libmi/depcomp",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sdm/libmi/exclude",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sdm/libmi/install-sh",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sdm/libmi/missing",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sdm/libmi/mkinstalldirs",
+        1
+    ],
+    [
+        "Greg Watson",
+        "input",
+        2
+    ],
+    [
+        "Greg Watson",
+        "sdm/src/impl/README",
+        1
+    ],
+    [
+        "Greg Watson",
+        "sh",
+        1
+    ],
+    [
+        "Chris Recoskie",
+        "java",
+        88
+    ],
+    [
+        "Chris Recoskie",
+        "MF",
+        7
+    ],
+    [
+        "Chris Recoskie",
+        "html",
+        4
+    ],
+    [
+        "Chris Recoskie",
+        "xml",
+        5
+    ],
+    [
+        "Chris Recoskie",
+        "prefs",
+        2
+    ],
+    [
+        "Chris Recoskie",
+        "properties",
+        5
+    ],
+    [
+        "Chris Recoskie",
+        "exsd",
+        1
+    ],
+    [
+        "Chris Recoskie",
+        "classpath",
+        1
+    ],
+    [
+        "Chris Recoskie",
+        "project",
+        1
+    ],
+    [
+        "Vivian Kong",
+        "java",
+        223
+    ],
+    [
+        "Vivian Kong",
+        "xml",
+        2
+    ],
+    [
+        "Vivian Kong",
+        "html",
+        7
+    ],
+    [
+        "Vivian Kong",
+        "htm",
+        4
+    ],
+    [
+        "Vivian Kong",
+        "jardesc",
+        1
+    ],
+    [
+        "Vivian Kong",
+        "properties",
+        28
+    ],
+    [
+        "Vivian Kong",
+        "MF",
+        1
+    ],
+    [
+        "Albert L. Rossi",
+        "java",
+        54
+    ],
+    [
+        "Albert L. Rossi",
+        "properties",
+        8
+    ],
+    [
+        "Albert L. Rossi",
+        "MF",
+        1
+    ],
+    [
+        "Albert L. Rossi",
+        "txt",
+        2
+    ],
+    [
+        "Albert L. Rossi",
+        "xml",
+        1
+    ],
+    [
+        "Albert L. Rossi",
+        "ui/src/default_template",
+        1
+    ],
+    [
+        "Albert L. Rossi",
+        "ui/src/full_template",
+        2
+    ],
+    [
+        "Randy Roberts",
+        "java",
+        7
+    ],
+    [
+        "Wyatt Spear",
+        "java",
+        53
+    ],
+    [
+        "Wyatt Spear",
+        "properties",
+        14
+    ],
+    [
+        "Jie Jiang",
+        "java",
+        9
+    ],
+    [
+        "Jie Jiang",
+        "properties",
+        2
+    ],
+    [
+        "Jie Jiang",
+        "proxy/ChangeLog",
+        2
+    ],
+    [
+        "Jie Jiang",
+        "am",
+        1
+    ],
+    [
+        "Jie Jiang",
+        "in",
+        4
+    ],
+    [
+        "Jie Jiang",
+        "proxy/README",
+        1
+    ],
+    [
+        "Jie Jiang",
+        "m4",
+        1
+    ],
+    [
+        "Jie Jiang",
+        "proxy/configure",
+        2
+    ],
+    [
+        "Jie Jiang",
+        "h",
+        2
+    ],
+    [
+        "Jie Jiang",
+        "c",
+        3
+    ],
+    [
+        "David Wootton",
+        "java",
+        44
+    ],
+    [
+        "David Wootton",
+        "h",
+        4
+    ],
+    [
+        "David Wootton",
+        "c",
+        10
+    ],
+    [
+        "David Wootton",
+        "properties",
+        2
+    ],
+    [
+        "Roland Schulz",
+        "launch",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "project",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "bat",
+        1
+    ],
+    [
+        "Roland Schulz",
+        "java",
+        25
+    ],
+    [
+        "Roland Schulz",
+        "properties",
+        3
+    ]
+]

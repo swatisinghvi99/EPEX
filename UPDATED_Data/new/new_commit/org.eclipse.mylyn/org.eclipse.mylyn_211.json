@@ -1,0 +1,247 @@
+[
+    [
+        "Alexander Fedorov",
+        "java",
+        13
+    ],
+    [
+        "Alexander Fedorov",
+        "MF",
+        5
+    ],
+    [
+        "Wim Jongman",
+        "prefs",
+        1175
+    ],
+    [
+        "Wim Jongman",
+        "java",
+        5074
+    ],
+    [
+        "Wim Jongman",
+        "project",
+        251
+    ],
+    [
+        "Wim Jongman",
+        "MF",
+        175
+    ],
+    [
+        "Wim Jongman",
+        "html",
+        280
+    ],
+    [
+        "Wim Jongman",
+        "properties",
+        609
+    ],
+    [
+        "Wim Jongman",
+        "xml",
+        534
+    ],
+    [
+        "Wim Jongman",
+        "classpath",
+        176
+    ],
+    [
+        "Wim Jongman",
+        "api_filters",
+        16
+    ],
+    [
+        "Wim Jongman",
+        "exsd",
+        75
+    ],
+    [
+        "Wim Jongman",
+        "css",
+        22
+    ],
+    [
+        "Wim Jongman",
+        "txt",
+        8
+    ],
+    [
+        "Wim Jongman",
+        "gitignore",
+        26
+    ],
+    [
+        "Wim Jongman",
+        "releng/Vagrantfile",
+        8
+    ],
+    [
+        "Wim Jongman",
+        "pp",
+        41
+    ],
+    [
+        "Wim Jongman",
+        "id_rsa",
+        4
+    ],
+    [
+        "Wim Jongman",
+        "conf",
+        6
+    ],
+    [
+        "Wim Jongman",
+        "erb",
+        48
+    ],
+    [
+        "Wim Jongman",
+        "pub",
+        4
+    ],
+    [
+        "Wim Jongman",
+        "json",
+        57
+    ],
+    [
+        "Wim Jongman",
+        "target",
+        14
+    ],
+    [
+        "Wim Jongman",
+        "ini",
+        4
+    ],
+    [
+        "Wim Jongman",
+        "ecore",
+        2
+    ],
+    [
+        "Wim Jongman",
+        "genmodel",
+        2
+    ],
+    [
+        "Wim Jongman",
+        "options",
+        8
+    ],
+    [
+        "Wim Jongman",
+        "launch",
+        26
+    ],
+    [
+        "Wim Jongman",
+        "p2f",
+        4
+    ],
+    [
+        "Wim Jongman",
+        "epf",
+        2
+    ],
+    [
+        "Wim Jongman",
+        "xsd",
+        2
+    ],
+    [
+        "Wim Jongman",
+        "1/secrets/slave-to-master-security-kill-switch",
+        2
+    ],
+    [
+        "Wim Jongman",
+        "pm",
+        8
+    ],
+    [
+        "Wim Jongman",
+        "tmpl",
+        2
+    ],
+    [
+        "Wim Jongman",
+        "sh",
+        10
+    ],
+    [
+        "Wim Jongman",
+        "cgi",
+        2
+    ],
+    [
+        "Wim Jongman",
+        "example",
+        2
+    ],
+    [
+        "Wim Jongman",
+        "tpd",
+        20
+    ],
+    [
+        "Frank Becker",
+        "java",
+        226
+    ],
+    [
+        "Frank Becker",
+        "launch",
+        2
+    ],
+    [
+        "Frank Becker",
+        "md",
+        1
+    ],
+    [
+        "Frank Becker",
+        "yml",
+        6
+    ],
+    [
+        "Frank Becker",
+        "releng/multipass/roles/jenkins/files/Dockerfile",
+        1
+    ],
+    [
+        "Frank Becker",
+        "xml",
+        36
+    ],
+    [
+        "Frank Becker",
+        "3/jenkins_home/secrets/slave-to-master-security-kill-switch",
+        1
+    ],
+    [
+        "Frank Becker",
+        "sh",
+        1
+    ],
+    [
+        "Frank Becker",
+        "txt",
+        1
+    ],
+    [
+        "Frank Becker",
+        "groovy",
+        1
+    ],
+    [
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u044a\u0440 \u041a\u0443\u0440\u0442\u0430\u043a\u043e\u0432",
+        "java",
+        4
+    ]
+]

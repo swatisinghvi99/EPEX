@@ -1,0 +1,177 @@
+[
+    [
+        "coduz",
+        "java",
+        26
+    ],
+    [
+        "coduz",
+        "unknown",
+        4
+    ],
+    [
+        "coduz",
+        "yml",
+        3
+    ],
+    [
+        "coduz",
+        "properties",
+        8
+    ],
+    [
+        "coduz",
+        "md",
+        2
+    ],
+    [
+        "coduz",
+        "xml",
+        198
+    ],
+    [
+        "coduz",
+        "feature",
+        1
+    ],
+    [
+        "riccardomodanese",
+        "java",
+        3
+    ],
+    [
+        "Gianluca Barbon",
+        "java",
+        106
+    ],
+    [
+        "Gianluca Barbon",
+        "properties",
+        3
+    ],
+    [
+        "Gianluca Barbon",
+        "xml",
+        52
+    ],
+    [
+        "Gianluca Barbon",
+        "sql",
+        3
+    ],
+    [
+        "Gianluca Barbon",
+        "feature",
+        4
+    ],
+    [
+        "Claudio Mezzasalma",
+        "java",
+        6282
+    ],
+    [
+        "Claudio Mezzasalma",
+        "properties",
+        182
+    ],
+    [
+        "Claudio Mezzasalma",
+        "json",
+        1
+    ],
+    [
+        "Claudio Mezzasalma",
+        "xml",
+        1332
+    ],
+    [
+        "Claudio Mezzasalma",
+        "feature",
+        129
+    ],
+    [
+        "Claudio Mezzasalma",
+        "md",
+        1
+    ],
+    [
+        "Claudio Mezzasalma",
+        "unknown",
+        53
+    ],
+    [
+        "Claudio Mezzasalma",
+        "profile",
+        2
+    ],
+    [
+        "Claudio Mezzasalma",
+        "config",
+        2
+    ],
+    [
+        "Claudio Mezzasalma",
+        "html",
+        124
+    ],
+    [
+        "Claudio Mezzasalma",
+        "sh",
+        62
+    ],
+    [
+        "Claudio Mezzasalma",
+        "sql",
+        6
+    ],
+    [
+        "Claudio Mezzasalma",
+        "MainViewDescriptor",
+        20
+    ],
+    [
+        "Claudio Mezzasalma",
+        "jsp",
+        2
+    ],
+    [
+        "Claudio Mezzasalma",
+        "js",
+        2
+    ],
+    [
+        "Claudio Mezzasalma",
+        "ps1",
+        8
+    ],
+    [
+        "Claudio Mezzasalma",
+        "css",
+        2
+    ],
+    [
+        "Claudio Mezzasalma",
+        "KapuaLocator",
+        2
+    ],
+    [
+        "Claudio Mezzasalma",
+        "services",
+        2
+    ],
+    [
+        "Claudio Mezzasalma",
+        "GuiceLocatorImplTest$MyTestableService",
+        2
+    ],
+    [
+        "Claudio Mezzasalma",
+        "proto",
+        2
+    ],
+    [
+        "Claudio Mezzasalma",
+        "CredentialsFactory",
+        12
+    ]
+]

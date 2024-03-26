@@ -1,0 +1,62 @@
+[
+    [
+        "Igor Vinokur",
+        "java",
+        8
+    ],
+    [
+        "Max Shaposhnik",
+        "java",
+        11
+    ],
+    [
+        "David Kwon",
+        "java",
+        5
+    ],
+    [
+        "Sergii Kabashniuk",
+        "java",
+        5
+    ],
+    [
+        "Sergii Kabashniuk",
+        "xml",
+        2
+    ],
+    [
+        "Pavol Baran",
+        "xml",
+        4
+    ],
+    [
+        "Pavol Baran",
+        "java",
+        7
+    ],
+    [
+        "Pavol Baran",
+        "properties",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "js",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "yaml",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "unknown",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "sh",
+        1
+    ]
+]

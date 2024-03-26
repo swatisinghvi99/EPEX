@@ -1,0 +1,177 @@
+[
+    [
+        "mmews-n4",
+        "xml",
+        2
+    ],
+    [
+        "mmews-n4",
+        "java",
+        14
+    ],
+    [
+        "mmews-n4",
+        "xtend",
+        1
+    ],
+    [
+        "mmews-n4",
+        "tests/probands/Hyperlink/YarnWorkspaceProject/_project",
+        1
+    ],
+    [
+        "mmews-n4",
+        "json",
+        2
+    ],
+    [
+        "mmews-n4",
+        "tests/probands/Hyperlink/YarnWorkspaceProject/packages/Hyperlink/_project",
+        1
+    ],
+    [
+        "mmews-n4",
+        "n4js",
+        1
+    ],
+    [
+        "mor-n4",
+        "java",
+        32
+    ],
+    [
+        "mor-n4",
+        "xtend",
+        10
+    ],
+    [
+        "mor-n4",
+        "xt",
+        5
+    ],
+    [
+        "mor-n4",
+        "xcore",
+        3
+    ],
+    [
+        "mor-n4",
+        "properties",
+        1
+    ],
+    [
+        "mmews",
+        "java",
+        2
+    ],
+    [
+        "Quang Minh Tran",
+        "adoc",
+        2
+    ],
+    [
+        "Quang Minh Tran",
+        "svg",
+        2
+    ],
+    [
+        "Quang Minh Tran",
+        "java",
+        23
+    ],
+    [
+        "Quang Minh Tran",
+        "xcore",
+        1
+    ],
+    [
+        "Quang Minh Tran",
+        "xml",
+        1
+    ],
+    [
+        "Quang Minh Tran",
+        "MF",
+        1
+    ],
+    [
+        "Quang Minh Tran",
+        "xtend",
+        3
+    ],
+    [
+        "Quang Minh Tran",
+        "json",
+        2
+    ],
+    [
+        "Quang Minh Tran",
+        "xt",
+        35
+    ],
+    [
+        "Quang Minh Tran",
+        "n4js",
+        5
+    ],
+    [
+        "Quang Minh Tran",
+        "unknown",
+        1
+    ],
+    [
+        "Quang Minh Tran",
+        "jenkinsfile",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "adoc",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        512
+    ],
+    [
+        "Sebastian Zarnekow",
+        "prefs",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xcore",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        13
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "setup",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "target",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xt",
+        1
+    ]
+]

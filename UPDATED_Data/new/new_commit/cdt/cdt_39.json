@@ -1,0 +1,92 @@
+[
+    [
+        "Alain Magloire",
+        "ui/ChangeLog",
+        2
+    ],
+    [
+        "Alain Magloire",
+        "java",
+        29
+    ],
+    [
+        "Alain Magloire",
+        "core/ChangeLog",
+        5
+    ],
+    [
+        "Alain Magloire",
+        "tests/ChangeLog",
+        3
+    ],
+    [
+        "Alain Magloire",
+        "launch/ChangeLog",
+        1
+    ],
+    [
+        "Leo Treggiari",
+        "java",
+        33
+    ],
+    [
+        "Leo Treggiari",
+        "xml",
+        3
+    ],
+    [
+        "Leo Treggiari",
+        "properties",
+        2
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "core/ChangeLog",
+        7
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        32
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "ui/ChangeLog",
+        4
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "properties",
+        2
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "launch/ChangeLog",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "classpath",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "properties",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        16
+    ],
+    [
+        "Doug Schaefer",
+        "xml",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "exsd",
+        1
+    ]
+]

@@ -1,0 +1,302 @@
+[
+    [
+        "John Camelon",
+        "tests/ChangeLog",
+        21
+    ],
+    [
+        "John Camelon",
+        "java",
+        272
+    ],
+    [
+        "John Camelon",
+        "options",
+        1
+    ],
+    [
+        "John Camelon",
+        "core/ChangeLog",
+        3
+    ],
+    [
+        "John Camelon",
+        "core/index/ChangeLog",
+        3
+    ],
+    [
+        "John Camelon",
+        "core/parser/ChangeLog-parser",
+        28
+    ],
+    [
+        "John Camelon",
+        "core/search/ChangeLog",
+        2
+    ],
+    [
+        "John Camelon",
+        "ui/ChangeLog",
+        4
+    ],
+    [
+        "Alain Magloire",
+        "java",
+        192
+    ],
+    [
+        "Alain Magloire",
+        "ui/ChangeLog",
+        19
+    ],
+    [
+        "Alain Magloire",
+        "properties",
+        9
+    ],
+    [
+        "Alain Magloire",
+        "xml",
+        4
+    ],
+    [
+        "Alain Magloire",
+        "core/ChangeLog",
+        15
+    ],
+    [
+        "Alain Magloire",
+        "core/index/ChangeLog",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "core/search/ChangeLog",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "win32/ChangeLog",
+        2
+    ],
+    [
+        "Alain Magloire",
+        "h",
+        4
+    ],
+    [
+        "Alain Magloire",
+        "c",
+        5
+    ],
+    [
+        "Alain Magloire",
+        "cpp",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "launch/ChangeLog",
+        4
+    ],
+    [
+        "Alain Magloire",
+        "tests/ChangeLog",
+        4
+    ],
+    [
+        "Hoda Amer",
+        "core/parser/ChangeLog-parser",
+        4
+    ],
+    [
+        "Hoda Amer",
+        "java",
+        70
+    ],
+    [
+        "Hoda Amer",
+        "tests/ChangeLog",
+        4
+    ],
+    [
+        "Hoda Amer",
+        "cpp",
+        7
+    ],
+    [
+        "Hoda Amer",
+        "ui/ChangeLog",
+        5
+    ],
+    [
+        "Hoda Amer",
+        "h",
+        2
+    ],
+    [
+        "Hoda Amer",
+        "core/ChangeLog",
+        2
+    ],
+    [
+        "Hoda Amer",
+        "xml",
+        1
+    ],
+    [
+        "Hoda Amer",
+        "core/search/ChangeLog",
+        1
+    ],
+    [
+        "Hoda Amer",
+        "properties",
+        1
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "core/ChangeLog",
+        4
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        12
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "ui/ChangeLog",
+        5
+    ],
+    [
+        "Thomas Fletcher",
+        "launch/ChangeLog",
+        2
+    ],
+    [
+        "Thomas Fletcher",
+        "java",
+        5
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        31
+    ],
+    [
+        "Andrew Niefer",
+        "tests/ChangeLog",
+        5
+    ],
+    [
+        "Andrew Niefer",
+        "java",
+        218
+    ],
+    [
+        "Andrew Niefer",
+        "core/search/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Niefer",
+        "ui/ChangeLog",
+        2
+    ],
+    [
+        "Andrew Niefer",
+        "core/parser/ChangeLog-parser",
+        5
+    ],
+    [
+        "Andrew Niefer",
+        "xml",
+        1
+    ],
+    [
+        "Andrew Niefer",
+        "properties",
+        8
+    ],
+    [
+        "Andrew Niefer",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Sean Evoy",
+        "core/ChangeLog",
+        4
+    ],
+    [
+        "Sean Evoy",
+        "java",
+        28
+    ],
+    [
+        "Sean Evoy",
+        "properties",
+        3
+    ],
+    [
+        "Sean Evoy",
+        "ui/ChangeLog",
+        2
+    ],
+    [
+        "Sean Evoy",
+        "xml",
+        2
+    ],
+    [
+        "Sean Evoy",
+        "exsd",
+        1
+    ],
+    [
+        "David Inglis",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "David Inglis",
+        "java",
+        38
+    ],
+    [
+        "David Inglis",
+        "properties",
+        2
+    ],
+    [
+        "Bogdan Gheorghe",
+        "tests/ChangeLog",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "java",
+        14
+    ],
+    [
+        "Bogdan Gheorghe",
+        "core/dependency/ChangeLog",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "core/parser/ChangeLog-parser",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "ui/ChangeLog",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "properties",
+        1
+    ]
+]

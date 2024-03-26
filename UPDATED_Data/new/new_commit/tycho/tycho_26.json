@@ -1,0 +1,62 @@
+[
+    [
+        "Jan Sievers",
+        "java",
+        22
+    ],
+    [
+        "Jan Sievers",
+        "properties",
+        3
+    ],
+    [
+        "Thanh Ha",
+        "java",
+        3
+    ],
+    [
+        "Thanh Ha",
+        "xml",
+        2
+    ],
+    [
+        "Tobias Oberlies",
+        "MF",
+        1
+    ],
+    [
+        "Tobias Oberlies",
+        "properties",
+        1
+    ],
+    [
+        "Tobias Oberlies",
+        "target",
+        2
+    ],
+    [
+        "Tobias Oberlies",
+        "xml",
+        8
+    ],
+    [
+        "Tobias Oberlies",
+        "java",
+        16
+    ],
+    [
+        "Tobias Oberlies",
+        "xml_expected",
+        1
+    ],
+    [
+        "Mykola Nikishov",
+        "java",
+        3
+    ],
+    [
+        "Mickael Istria",
+        "java",
+        1
+    ]
+]

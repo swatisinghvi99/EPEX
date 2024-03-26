@@ -1,0 +1,427 @@
+[
+    [
+        "lolodomo",
+        "js",
+        1
+    ],
+    [
+        "lolodomo",
+        "html",
+        2
+    ],
+    [
+        "lolodomo",
+        "java",
+        14
+    ],
+    [
+        "lolodomo",
+        "properties",
+        2
+    ],
+    [
+        "lolodomo",
+        "xml",
+        2
+    ],
+    [
+        "lolodomo",
+        "md",
+        2
+    ],
+    [
+        "lolodomo",
+        "MF",
+        2
+    ],
+    [
+        "Simon Kaufmann",
+        "java",
+        38
+    ],
+    [
+        "Simon Kaufmann",
+        "MF",
+        2
+    ],
+    [
+        "Simon Kaufmann",
+        "js",
+        1
+    ],
+    [
+        "Simon Kaufmann",
+        "json",
+        1
+    ],
+    [
+        "Simon Kaufmann",
+        "html",
+        7
+    ],
+    [
+        "Simon Kaufmann",
+        "css",
+        1
+    ],
+    [
+        "Simon Kaufmann",
+        "groovy",
+        14
+    ],
+    [
+        "Simon Kaufmann",
+        "launch",
+        1
+    ],
+    [
+        "Simon Kaufmann",
+        "xtend",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "java",
+        12
+    ],
+    [
+        "Markus Rathgeb",
+        "xml",
+        2
+    ],
+    [
+        "Markus Rathgeb",
+        "classpath",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "project",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "prefs",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "MF",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "launch",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "properties",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "groovy",
+        1
+    ],
+    [
+        "Stefan Triller",
+        "java",
+        10
+    ],
+    [
+        "Stefan Triller",
+        "MF",
+        1
+    ],
+    [
+        "Stefan Triller",
+        "css",
+        1
+    ],
+    [
+        "Stefan Triller",
+        "html",
+        1
+    ],
+    [
+        "Stefan Triller",
+        "items",
+        1
+    ],
+    [
+        "Stefan Triller",
+        "sitemap",
+        1
+    ],
+    [
+        "Stefan Triller",
+        "things",
+        1
+    ],
+    [
+        "Stefan Triller",
+        "launch",
+        1
+    ],
+    [
+        "Henning Treu",
+        "js",
+        51
+    ],
+    [
+        "Henning Treu",
+        "html",
+        23
+    ],
+    [
+        "Henning Treu",
+        "launch",
+        8
+    ],
+    [
+        "Henning Treu",
+        "java",
+        86
+    ],
+    [
+        "Henning Treu",
+        "MF",
+        16
+    ],
+    [
+        "Henning Treu",
+        "groovy",
+        4
+    ],
+    [
+        "Henning Treu",
+        "xsd",
+        1
+    ],
+    [
+        "Henning Treu",
+        "xml",
+        9
+    ],
+    [
+        "Henning Treu",
+        "gitignore",
+        1
+    ],
+    [
+        "Henning Treu",
+        "properties",
+        2
+    ],
+    [
+        "Henning Treu",
+        "xtext",
+        3
+    ],
+    [
+        "Henning Treu",
+        "xtend",
+        4
+    ],
+    [
+        "Henning Treu",
+        "classpath",
+        1
+    ],
+    [
+        "Henning Treu",
+        "project",
+        1
+    ],
+    [
+        "Henning Treu",
+        "prefs",
+        1
+    ],
+    [
+        "Henning Treu",
+        "items",
+        1
+    ],
+    [
+        "Henning Treu",
+        "rules",
+        1
+    ],
+    [
+        "Henning Treu",
+        "sitemap",
+        1
+    ],
+    [
+        "Henning Treu",
+        "things",
+        1
+    ],
+    [
+        "Henning Treu",
+        "md",
+        4
+    ],
+    [
+        "Henning Treu",
+        "json",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "md",
+        2
+    ],
+    [
+        "Kai Kreuzer",
+        "java",
+        30
+    ],
+    [
+        "Kai Kreuzer",
+        "groovy",
+        2
+    ],
+    [
+        "Kai Kreuzer",
+        "MF",
+        3
+    ],
+    [
+        "Kai Kreuzer",
+        "launch",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "gitignore",
+        1
+    ],
+    [
+        "Lyubomir Papazov",
+        "java",
+        18
+    ],
+    [
+        "Lyubomir Papazov",
+        "MF",
+        4
+    ],
+    [
+        "Lyubomir Papazov",
+        "xml",
+        7
+    ],
+    [
+        "Lyubomir Papazov",
+        "gitignore",
+        2
+    ],
+    [
+        "Lyubomir Papazov",
+        "groovy",
+        1
+    ],
+    [
+        "Alexander Kostadinov",
+        "java",
+        3
+    ],
+    [
+        "Kristina Simova",
+        "java",
+        39
+    ],
+    [
+        "Kristina Simova",
+        "MF",
+        22
+    ],
+    [
+        "Kristina Simova",
+        "md",
+        2
+    ],
+    [
+        "Kristina Simova",
+        "xml",
+        1
+    ],
+    [
+        "Michael Bock",
+        "classpath",
+        1
+    ],
+    [
+        "Michael Bock",
+        "MF",
+        2
+    ],
+    [
+        "Michael Bock",
+        "java",
+        6
+    ],
+    [
+        "Michael Bock",
+        "gitignore",
+        1
+    ],
+    [
+        "Michael Bock",
+        "xml",
+        1
+    ],
+    [
+        "J-N-K",
+        "xml",
+        13
+    ],
+    [
+        "J-N-K",
+        "MF",
+        1
+    ],
+    [
+        "J-N-K",
+        "properties",
+        1
+    ],
+    [
+        "J-N-K",
+        "java",
+        24
+    ],
+    [
+        "J-N-K",
+        "md",
+        1
+    ],
+    [
+        "Wouter Born",
+        "md",
+        1
+    ],
+    [
+        "Wouter Born",
+        "java",
+        3
+    ],
+    [
+        "Wouter Born",
+        "MF",
+        1
+    ],
+    [
+        "Christoph Weitkamp",
+        "java",
+        1
+    ],
+    [
+        "VelinYordanov",
+        "java",
+        70
+    ]
+]

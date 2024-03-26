@@ -1,0 +1,132 @@
+[
+    [
+        "Shawn Pearce",
+        "java",
+        9
+    ],
+    [
+        "Robin Rosenberg",
+        "java",
+        17
+    ],
+    [
+        "Tomasz Zarna",
+        "java",
+        10
+    ],
+    [
+        "Matthias Sohn",
+        "classpath",
+        1
+    ],
+    [
+        "Matthias Sohn",
+        "gitignore",
+        1
+    ],
+    [
+        "Matthias Sohn",
+        "project",
+        1
+    ],
+    [
+        "Matthias Sohn",
+        "prefs",
+        8
+    ],
+    [
+        "Matthias Sohn",
+        "MF",
+        2
+    ],
+    [
+        "Matthias Sohn",
+        "iplog/README",
+        1
+    ],
+    [
+        "Matthias Sohn",
+        "html",
+        1
+    ],
+    [
+        "Matthias Sohn",
+        "properties",
+        4
+    ],
+    [
+        "Matthias Sohn",
+        "xml",
+        6
+    ],
+    [
+        "Matthias Sohn",
+        "java",
+        15
+    ],
+    [
+        "Matthias Sohn",
+        "txt",
+        1
+    ],
+    [
+        "Matthias Sohn",
+        "iplog/src/org/eclipse/jgit/iplog/sample_gerrit_committers",
+        1
+    ],
+    [
+        "Matthias Sohn",
+        "TextBuiltin",
+        1
+    ],
+    [
+        "Tobias Pfeifer",
+        "java",
+        1
+    ],
+    [
+        "Dave Borowitz",
+        "java",
+        2
+    ],
+    [
+        "Colby Ranger",
+        "java",
+        47
+    ],
+    [
+        "Colby Ranger",
+        "properties",
+        1
+    ],
+    [
+        "Markus Duft",
+        "java",
+        6
+    ],
+    [
+        "Roberto Tyley",
+        "java",
+        2
+    ],
+    [
+        "Dani Megert",
+        "java",
+        2
+    ],
+    [
+        "Stefan Lay",
+        "java",
+        4
+    ],
+    [
+        "Robin Stocker",
+        "java",
+        4
+    ],
+    [
+        "Robin Stocker",
+        "properties",
+        1
+    ]
+]

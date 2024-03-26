@@ -1,0 +1,77 @@
+[
+    [
+        "Evgeni Grigorov",
+        "java",
+        4
+    ],
+    [
+        "Thomas Watson",
+        "java",
+        3
+    ],
+    [
+        "Thomas Watson",
+        "bnd",
+        3
+    ],
+    [
+        "BJ Hargrave",
+        "prefs",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        3877
+    ],
+    [
+        "Jean Pierre Poutcheu",
+        "java",
+        2
+    ],
+    [
+        "Yukio Koike",
+        "java",
+        1
+    ],
+    [
+        "gregory bonnardel",
+        "java",
+        30
+    ],
+    [
+        "jeanpierre.poutcheu@orange.com",
+        "java",
+        86
+    ],
+    [
+        "David Bosschaert",
+        "lib",
+        1
+    ],
+    [
+        "David Bosschaert",
+        "java",
+        13
+    ],
+    [
+        "David Bosschaert",
+        "repository/src/org/osgi/service/repository/packageinfo",
+        1
+    ],
+    [
+        "David Bosschaert",
+        "bnd",
+        3
+    ],
+    [
+        "David Bosschaert",
+        "xml",
+        1
+    ]
+]

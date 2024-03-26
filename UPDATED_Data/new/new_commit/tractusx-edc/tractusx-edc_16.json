@@ -1,0 +1,267 @@
+[
+    [
+        "Enrico Risa",
+        "yaml",
+        11
+    ],
+    [
+        "Enrico Risa",
+        "java",
+        182
+    ],
+    [
+        "Enrico Risa",
+        "jsonld",
+        3
+    ],
+    [
+        "Enrico Risa",
+        "sh",
+        1
+    ],
+    [
+        "Enrico Risa",
+        "yml",
+        2
+    ],
+    [
+        "Enrico Risa",
+        "json",
+        2
+    ],
+    [
+        "Enrico Risa",
+        "md",
+        10
+    ],
+    [
+        "Enrico Risa",
+        "kts",
+        26
+    ],
+    [
+        "Enrico Risa",
+        "ServiceExtension",
+        5
+    ],
+    [
+        "Enrico Risa",
+        "unknown",
+        3
+    ],
+    [
+        "Enrico Risa",
+        "toml",
+        2
+    ],
+    [
+        "Enrico Risa",
+        "sql",
+        4
+    ],
+    [
+        "github-actions[bot]",
+        "yaml",
+        61
+    ],
+    [
+        "github-actions[bot]",
+        "yml",
+        8
+    ],
+    [
+        "github-actions[bot]",
+        "md",
+        34
+    ],
+    [
+        "github-actions[bot]",
+        "kts",
+        17
+    ],
+    [
+        "github-actions[bot]",
+        "java",
+        87
+    ],
+    [
+        "github-actions[bot]",
+        "jsonld",
+        3
+    ],
+    [
+        "github-actions[bot]",
+        "json",
+        4
+    ],
+    [
+        "github-actions[bot]",
+        "sh",
+        5
+    ],
+    [
+        "github-actions[bot]",
+        "properties",
+        4
+    ],
+    [
+        "github-actions[bot]",
+        "toml",
+        3
+    ],
+    [
+        "github-actions[bot]",
+        "txt",
+        4
+    ],
+    [
+        "github-actions[bot]",
+        "ServiceExtension",
+        2
+    ],
+    [
+        "github-actions[bot]",
+        "unknown",
+        2
+    ],
+    [
+        "github-actions[bot]",
+        "gitignore",
+        1
+    ],
+    [
+        "github-actions[bot]",
+        "gotmpl",
+        3
+    ],
+    [
+        "github-actions[bot]",
+        "docker",
+        1
+    ],
+    [
+        "ndr_brt",
+        "md",
+        1
+    ],
+    [
+        "ndr_brt",
+        "kts",
+        1
+    ],
+    [
+        "ndr_brt",
+        "java",
+        8
+    ],
+    [
+        "Tuncay Tunc (ZF Friedrichshafen AG)",
+        "md",
+        7
+    ],
+    [
+        "Tuncay Tunc (ZF Friedrichshafen AG)",
+        "yaml",
+        25
+    ],
+    [
+        "Tuncay Tunc (ZF Friedrichshafen AG)",
+        "kts",
+        5
+    ],
+    [
+        "Tuncay Tunc (ZF Friedrichshafen AG)",
+        "java",
+        5
+    ],
+    [
+        "Tuncay Tunc (ZF Friedrichshafen AG)",
+        "ServiceExtension",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "java",
+        69
+    ],
+    [
+        "Paul Latzelsperger",
+        "yaml",
+        3
+    ],
+    [
+        "Paul Latzelsperger",
+        "gitignore",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "kts",
+        13
+    ],
+    [
+        "Paul Latzelsperger",
+        "sh",
+        4
+    ],
+    [
+        "Paul Latzelsperger",
+        "yml",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "md",
+        3
+    ],
+    [
+        "Paul Latzelsperger",
+        "json",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "docker",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "unknown",
+        7
+    ],
+    [
+        "Paul Latzelsperger",
+        "ServiceExtension",
+        2
+    ],
+    [
+        "Paul Latzelsperger",
+        "xml",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "sql",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "properties",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "toml",
+        1
+    ],
+    [
+        "dependabot[bot]",
+        "unknown",
+        9
+    ],
+    [
+        "dependabot[bot]",
+        "kts",
+        6
+    ]
+]

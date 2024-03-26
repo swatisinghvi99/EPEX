@@ -1,0 +1,62 @@
+[
+    [
+        "Mohammad Ghazanfar Ali Danish",
+        "yml",
+        4
+    ],
+    [
+        "Mohammad Ghazanfar Ali Danish",
+        "gitignore",
+        1
+    ],
+    [
+        "Mohammad Ghazanfar Ali Danish",
+        "camel-aas/src/main/resources/META-INF/services/org/apache/camel/component/aas",
+        1
+    ],
+    [
+        "Mohammad Ghazanfar Ali Danish",
+        "camel-hono/src/main/resources/META-INF/services/org/apache/camel/component/hono",
+        1
+    ],
+    [
+        "Mohammad Ghazanfar Ali Danish",
+        "json",
+        19
+    ],
+    [
+        "Mohammad Ghazanfar Ali Danish",
+        "xml",
+        34
+    ],
+    [
+        "Mohammad Ghazanfar Ali Danish",
+        "java",
+        109
+    ],
+    [
+        "Mohammad Ghazanfar Ali Danish",
+        "env",
+        2
+    ],
+    [
+        "Mohammad Ghazanfar Ali Danish",
+        "databridge/src/test/resources/Dockerfile",
+        1
+    ],
+    [
+        "Mohammad Ghazanfar Ali Danish",
+        "properties",
+        8
+    ],
+    [
+        "Mohammad Ghazanfar Ali Danish",
+        "jsonata",
+        2
+    ],
+    [
+        "Mohammad Ghazanfar Ali Danish",
+        "component/src/test/resources/Dockerfile",
+        1
+    ]
+]

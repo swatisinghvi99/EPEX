@@ -1,0 +1,347 @@
+[
+    [
+        "Sergii Kabashniuk",
+        "go",
+        1
+    ],
+    [
+        "che-bot",
+        "yaml",
+        33
+    ],
+    [
+        "che-bot",
+        "diff",
+        42
+    ],
+    [
+        "che-bot",
+        "go",
+        4
+    ],
+    [
+        "Anatolii Bazko",
+        "md",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "go",
+        25
+    ],
+    [
+        "Anatolii Bazko",
+        "unknown",
+        2
+    ],
+    [
+        "Anatolii Bazko",
+        "sh",
+        5
+    ],
+    [
+        "Anatolii Bazko",
+        "yaml",
+        26
+    ],
+    [
+        "Max Shaposhnik",
+        "go",
+        4
+    ],
+    [
+        "Oleksandr Andriienko",
+        "sh",
+        3
+    ],
+    [
+        "Oleksandr Andriienko",
+        "go",
+        1530
+    ],
+    [
+        "Oleksandr Andriienko",
+        "yaml",
+        15
+    ],
+    [
+        "Oleksandr Andriienko",
+        "json",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "md",
+        15
+    ],
+    [
+        "Oleksandr Andriienko",
+        "mod",
+        7
+    ],
+    [
+        "Oleksandr Andriienko",
+        "sum",
+        6
+    ],
+    [
+        "Oleksandr Andriienko",
+        "docs",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "yml",
+        5
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/moby/spdystream/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/moby/spdystream/MAINTAINERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/moby/spdystream/NOTICE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "common",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "ttar",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "org/atomic/Makefile",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "org/zap/Makefile",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "s",
+        39
+    ],
+    [
+        "Oleksandr Andriienko",
+        "bash",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "proto",
+        25
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/apimachinery/pkg/api/errors/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/apimachinery/pkg/api/meta/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/apimachinery/pkg/api/resource/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/apimachinery/pkg/apis/meta/v1/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "bzl",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/client-go/rest/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/client-go/tools/cache/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/client-go/tools/leaderelection/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/client-go/tools/record/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/component-base/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/component-base/config/OWNERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "txt",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/controller-runtime/Makefile",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/controller-runtime/OWNERS_ALIASES",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "io/controller-runtime/SECURITY_CONTACTS",
+        1
+    ],
+    [
+        "David Kwon",
+        "go",
+        6
+    ],
+    [
+        "Mykola Morhun",
+        "go",
+        19
+    ],
+    [
+        "Mykola Morhun",
+        "yaml",
+        6
+    ],
+    [
+        "Mykola Morhun",
+        "mod",
+        1
+    ],
+    [
+        "Mykola Morhun",
+        "txt",
+        1
+    ],
+    [
+        "Michal Vala",
+        "go",
+        25
+    ],
+    [
+        "Sergii Leshchenko",
+        "go",
+        8
+    ],
+    [
+        "Sergii Leshchenko",
+        "unknown",
+        1
+    ],
+    [
+        "Sergii Leshchenko",
+        "yaml",
+        4
+    ],
+    [
+        "Flavius Lacatusu",
+        "sh",
+        3
+    ],
+    [
+        "Flavius Lacatusu",
+        "go",
+        14
+    ],
+    [
+        "Flavius Lacatusu",
+        "yaml",
+        3
+    ],
+    [
+        "Flavius Lacatusu",
+        "mod",
+        1
+    ],
+    [
+        "Flavius Lacatusu",
+        "com/pmezard/go-difflib/LICENSE",
+        1
+    ],
+    [
+        "Flavius Lacatusu",
+        "com/stretchr/testify/LICENSE",
+        1
+    ],
+    [
+        "Flavius Lacatusu",
+        "tmpl",
+        2
+    ],
+    [
+        "Flavius Lacatusu",
+        "txt",
+        1
+    ],
+    [
+        "Lukas Krejci",
+        "sh",
+        1
+    ],
+    [
+        "Lukas Krejci",
+        "go",
+        30
+    ],
+    [
+        "Lukas Krejci",
+        "yaml",
+        8
+    ],
+    [
+        "Lukas Krejci",
+        "proto",
+        1
+    ],
+    [
+        "Lukas Krejci",
+        "txt",
+        1
+    ],
+    [
+        "Serhii Leshchenko",
+        "unknown",
+        3
+    ],
+    [
+        "Serhii Leshchenko",
+        "go",
+        13
+    ],
+    [
+        "Serhii Leshchenko",
+        "yml",
+        2
+    ]
+]

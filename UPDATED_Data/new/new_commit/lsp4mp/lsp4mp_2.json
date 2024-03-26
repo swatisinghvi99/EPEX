@@ -1,0 +1,187 @@
+[
+    [
+        "Fred Bricon",
+        "bat",
+        4
+    ],
+    [
+        "Fred Bricon",
+        "sh",
+        1
+    ],
+    [
+        "Fred Bricon",
+        "java",
+        410
+    ],
+    [
+        "Fred Bricon",
+        "properties",
+        49
+    ],
+    [
+        "Fred Bricon",
+        "json",
+        15
+    ],
+    [
+        "Fred Bricon",
+        "md",
+        6
+    ],
+    [
+        "Fred Bricon",
+        "jdt/mvnw",
+        1
+    ],
+    [
+        "Fred Bricon",
+        "cmd",
+        11
+    ],
+    [
+        "Fred Bricon",
+        "MF",
+        2
+    ],
+    [
+        "Fred Bricon",
+        "xml",
+        29
+    ],
+    [
+        "Fred Bricon",
+        "exsd",
+        3
+    ],
+    [
+        "Fred Bricon",
+        "gitignore",
+        16
+    ],
+    [
+        "Fred Bricon",
+        "classpath",
+        23
+    ],
+    [
+        "Fred Bricon",
+        "project",
+        24
+    ],
+    [
+        "Fred Bricon",
+        "prefs",
+        3
+    ],
+    [
+        "Fred Bricon",
+        "gradle",
+        6
+    ],
+    [
+        "Fred Bricon",
+        "test/projects/gradle/empty-gradle-project/gradlew",
+        1
+    ],
+    [
+        "Fred Bricon",
+        "test/projects/gradle/quarkus-gradle-project/gradlew",
+        1
+    ],
+    [
+        "Fred Bricon",
+        "dockerignore",
+        4
+    ],
+    [
+        "Fred Bricon",
+        "test/projects/gradle/renamed-gradle/gradlew",
+        1
+    ],
+    [
+        "Fred Bricon",
+        "jvm",
+        8
+    ],
+    [
+        "Fred Bricon",
+        "native",
+        8
+    ],
+    [
+        "Fred Bricon",
+        "html",
+        14
+    ],
+    [
+        "Fred Bricon",
+        "test/projects/maven/all-quarkus-extensions/mvnw",
+        1
+    ],
+    [
+        "Fred Bricon",
+        "test/projects/maven/hibernate-orm-resteasy/mvnw",
+        1
+    ],
+    [
+        "Fred Bricon",
+        "sql",
+        1
+    ],
+    [
+        "Fred Bricon",
+        "test/projects/maven/microprofile-context-propagation/mvnw",
+        1
+    ],
+    [
+        "Fred Bricon",
+        "test/projects/maven/microprofile-fault-tolerance/mvnw",
+        1
+    ],
+    [
+        "Fred Bricon",
+        "test/projects/maven/microprofile-health-quickstart/mvnw",
+        1
+    ],
+    [
+        "Fred Bricon",
+        "test/projects/maven/microprofile-lra/mvnw",
+        1
+    ],
+    [
+        "Fred Bricon",
+        "test/projects/maven/microprofile-metrics/mvnw",
+        1
+    ],
+    [
+        "Fred Bricon",
+        "test/projects/maven/microprofile-openapi/mvnw",
+        1
+    ],
+    [
+        "Fred Bricon",
+        "test/projects/maven/microprofile-opentracing/mvnw",
+        1
+    ],
+    [
+        "Fred Bricon",
+        "code-snippets",
+        1
+    ],
+    [
+        "Fred Bricon",
+        "ls/mvnw",
+        1
+    ],
+    [
+        "Fred Bricon",
+        "ISnippetRegistryLoader",
+        1
+    ],
+    [
+        "Ryan Zegray",
+        "java",
+        3
+    ]
+]

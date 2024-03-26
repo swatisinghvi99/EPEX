@@ -1,0 +1,477 @@
+[
+    [
+        "Holger Schill",
+        "java",
+        130
+    ],
+    [
+        "Holger Schill",
+        "MF",
+        2
+    ],
+    [
+        "Holger Schill",
+        "xtend",
+        16
+    ],
+    [
+        "Holger Schill",
+        "ext",
+        1
+    ],
+    [
+        "Holger Schill",
+        "xpt",
+        2
+    ],
+    [
+        "Holger Schill",
+        "api_filters",
+        4
+    ],
+    [
+        "Holger Schill",
+        "xml",
+        3
+    ],
+    [
+        "Holger Schill",
+        "xml_gen",
+        1
+    ],
+    [
+        "Holger Schill",
+        "properties",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        16
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        761
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        25
+    ],
+    [
+        "Sebastian Zarnekow",
+        "prefs",
+        26
+    ],
+    [
+        "Sebastian Zarnekow",
+        "project",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ecore",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "genmodel",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml",
+        9
+    ],
+    [
+        "Sebastian Zarnekow",
+        "classpath",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "api_filters",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "txt",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "list",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xmi",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "g",
+        13
+    ],
+    [
+        "Sebastian Zarnekow",
+        "mwe2",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml_gen",
+        8
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xpt",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "properties",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "launch",
+        2
+    ],
+    [
+        "Knut Wannheden",
+        "java",
+        74
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        51
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        640
+    ],
+    [
+        "Sven Efftinge",
+        "prefs",
+        35
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        23
+    ],
+    [
+        "Sven Efftinge",
+        "project",
+        13
+    ],
+    [
+        "Sven Efftinge",
+        "html",
+        24
+    ],
+    [
+        "Sven Efftinge",
+        "properties",
+        25
+    ],
+    [
+        "Sven Efftinge",
+        "xml",
+        19
+    ],
+    [
+        "Sven Efftinge",
+        "inf",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "classpath",
+        12
+    ],
+    [
+        "Sven Efftinge",
+        "gitignore",
+        9
+    ],
+    [
+        "Sven Efftinge",
+        "js",
+        6
+    ],
+    [
+        "Sven Efftinge",
+        "css",
+        7
+    ],
+    [
+        "Sven Efftinge",
+        "ini",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "mappings",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "mwe2",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "php",
+        6
+    ],
+    [
+        "Sven Efftinge",
+        "xdoc",
+        5
+    ],
+    [
+        "Sven Efftinge",
+        "xml_gen",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "g",
+        19
+    ],
+    [
+        "Sven Efftinge",
+        "tokens",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "launch",
+        6
+    ],
+    [
+        "Sven Efftinge",
+        "ecore",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "genmodel",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "xmi",
+        7
+    ],
+    [
+        "Sven Efftinge",
+        "xtext",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "xpt",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "api_filters",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        653
+    ],
+    [
+        "Dennis Huebner",
+        "properties",
+        8
+    ],
+    [
+        "Dennis Huebner",
+        "xtend",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "classpath",
+        4
+    ],
+    [
+        "Dennis Huebner",
+        "project",
+        4
+    ],
+    [
+        "Dennis Huebner",
+        "prefs",
+        13
+    ],
+    [
+        "Dennis Huebner",
+        "MF",
+        5
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "sh",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "cvsignore",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "html",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "txt",
+        4
+    ],
+    [
+        "Dennis Huebner",
+        "gitignore",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        370
+    ],
+    [
+        "Jan Koehnlein",
+        "g",
+        42
+    ],
+    [
+        "Jan Koehnlein",
+        "tokens",
+        23
+    ],
+    [
+        "Jan Koehnlein",
+        "xmi",
+        17
+    ],
+    [
+        "Jan Koehnlein",
+        "api_filters",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "ecore",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "xtext",
+        6
+    ],
+    [
+        "Jan Koehnlein",
+        "launch",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "xtend",
+        24
+    ],
+    [
+        "Jan Koehnlein",
+        "xbase",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "html",
+        7
+    ],
+    [
+        "Jan Koehnlein",
+        "xdoc",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "xml",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "classpath",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "gitignore",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "project",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "prefs",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "MF",
+        10
+    ],
+    [
+        "Jan Koehnlein",
+        "properties",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "xml_gen",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "genmodel",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "mwe2",
+        2
+    ],
+    [
+        "Michael Clay",
+        "java",
+        21
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        4
+    ]
+]

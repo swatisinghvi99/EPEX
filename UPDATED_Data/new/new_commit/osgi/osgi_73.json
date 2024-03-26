@@ -1,0 +1,102 @@
+[
+    [
+        "BJ Hargrave",
+        "java",
+        528
+    ],
+    [
+        "BJ Hargrave",
+        "html",
+        5
+    ],
+    [
+        "BJ Hargrave",
+        "prefs",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "classpath",
+        4
+    ],
+    [
+        "Peter Kriens",
+        "project",
+        4
+    ],
+    [
+        "Peter Kriens",
+        "prefs",
+        10
+    ],
+    [
+        "Peter Kriens",
+        "bnd",
+        7
+    ],
+    [
+        "Peter Kriens",
+        "xml",
+        4
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        29
+    ],
+    [
+        "Peter Kriens",
+        "html",
+        5
+    ],
+    [
+        "Peter Kriens",
+        "annotations/src/org/osgi/service/command/annotations/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "converter/src/org/osgi/service/converter/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "formatter/src/org/osgi/service/formatter/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "coordination/src/org/osgi/jmx/service/useradmin/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "coordination/src/org/osgi/service/coordination/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "metatype/src/org/osgi/service/metatype/packageinfo",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "gitignore",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "java",
+        9
+    ],
+    [
+        "Steffen",
+        "java",
+        37
+    ],
+    [
+        "Steffen",
+        "bnd",
+        1
+    ]
+]

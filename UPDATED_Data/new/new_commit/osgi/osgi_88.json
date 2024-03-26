@@ -1,0 +1,127 @@
+[
+    [
+        "BJ Hargrave",
+        "classpath",
+        6
+    ],
+    [
+        "BJ Hargrave",
+        "project",
+        5
+    ],
+    [
+        "BJ Hargrave",
+        "prefs",
+        20
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        9
+    ],
+    [
+        "BJ Hargrave",
+        "xml",
+        5
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        64
+    ],
+    [
+        "BJ Hargrave",
+        "cdma/src/org/osgi/util/cdma/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "gsm/src/org/osgi/util/gsm/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "xsd",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "annotations/src/org/osgi/service/component/annotations/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "component/src/org/osgi/service/component/packageinfo",
+        1
+    ],
+    [
+        "John Ross",
+        "java",
+        7
+    ],
+    [
+        "Steffen Druesedow",
+        "bnd",
+        4
+    ],
+    [
+        "Steffen Druesedow",
+        "java",
+        76
+    ],
+    [
+        "Steffen Druesedow",
+        "classpath",
+        1
+    ],
+    [
+        "Steffen Druesedow",
+        "prefs",
+        1
+    ],
+    [
+        "bnd",
+        "java",
+        7
+    ],
+    [
+        "bnd",
+        "xsl",
+        1
+    ],
+    [
+        "Shigekuni Kondo",
+        "bnd",
+        1
+    ],
+    [
+        "Shigekuni Kondo",
+        "java",
+        47
+    ],
+    [
+        "Ikuo YAMASAKI",
+        "bnd",
+        5
+    ],
+    [
+        "Ikuo YAMASAKI",
+        "java",
+        9
+    ],
+    [
+        "Masaki Nakano",
+        "java",
+        6
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        17
+    ],
+    [
+        "Peter Kriens",
+        "xsl",
+        2
+    ]
+]

@@ -1,0 +1,112 @@
+[
+    [
+        "John Dallaway",
+        "java",
+        4
+    ],
+    [
+        "John Dallaway",
+        "MF",
+        1
+    ],
+    [
+        "Nathan Ridge",
+        "java",
+        7
+    ],
+    [
+        "Hansruedi Patzen",
+        "java",
+        8
+    ],
+    [
+        "Hansruedi Patzen",
+        "tests/resources/elf/inside_hints/Makefile",
+        1
+    ],
+    [
+        "Hansruedi Patzen",
+        "asm",
+        16
+    ],
+    [
+        "Hansruedi Patzen",
+        "tests/resources/elf/outside_hints/Makefile",
+        1
+    ],
+    [
+        "Hansruedi Patzen",
+        "properties",
+        1
+    ],
+    [
+        "Hansruedi Patzen",
+        "txt",
+        1
+    ],
+    [
+        "Marc-Andre Laperle",
+        "java",
+        19
+    ],
+    [
+        "Jeff Johnston",
+        "java",
+        9
+    ],
+    [
+        "Bassem Girgis",
+        "java",
+        7
+    ],
+    [
+        "Bassem Girgis",
+        "xml",
+        1
+    ],
+    [
+        "Bassem Girgis",
+        "properties",
+        1
+    ],
+    [
+        "Bassem Girgis",
+        "txt",
+        1
+    ],
+    [
+        "Torbj\u00f6rn Svensson",
+        "MF",
+        1
+    ],
+    [
+        "Torbj\u00f6rn Svensson",
+        "xml",
+        1
+    ],
+    [
+        "Torbj\u00f6rn Svensson",
+        "java",
+        4
+    ],
+    [
+        "Hannes Vogt",
+        "java",
+        3
+    ],
+    [
+        "Hannes Vogt",
+        "properties",
+        1
+    ],
+    [
+        "Christian Walther",
+        "java",
+        1
+    ],
+    [
+        "Evgueni Driouk",
+        "java",
+        1
+    ]
+]

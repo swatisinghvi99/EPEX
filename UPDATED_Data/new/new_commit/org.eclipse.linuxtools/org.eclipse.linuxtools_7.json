@@ -1,0 +1,307 @@
+[
+    [
+        "Jeff Johnston",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "java",
+        208
+    ],
+    [
+        "Jeff Johnston",
+        "autotools/ChangeLog",
+        12
+    ],
+    [
+        "Jeff Johnston",
+        "properties",
+        11
+    ],
+    [
+        "Jeff Johnston",
+        "xml",
+        4
+    ],
+    [
+        "Jeff Johnston",
+        "libhover/ChangeLog",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "tests/ChangeLog",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "project",
+        15
+    ],
+    [
+        "Elliott Baron",
+        "unknown",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "MF",
+        18
+    ],
+    [
+        "Elliott Baron",
+        "java",
+        170
+    ],
+    [
+        "Elliott Baron",
+        "xml",
+        14
+    ],
+    [
+        "Elliott Baron",
+        "launch/ChangeLog",
+        3
+    ],
+    [
+        "Elliott Baron",
+        "memcheck/ChangeLog",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "properties",
+        13
+    ],
+    [
+        "Elliott Baron",
+        "test-feature/ChangeLog",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "tests/ChangeLog",
+        5
+    ],
+    [
+        "Elliott Baron",
+        "ui/ChangeLog",
+        3
+    ],
+    [
+        "Elliott Baron",
+        "editor/ChangeLog",
+        2
+    ],
+    [
+        "Elliott Baron",
+        "cachegrind/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "massif/ChangeLog",
+        1
+    ],
+    [
+        "Kent Sebastian",
+        "java",
+        17
+    ],
+    [
+        "Kent Sebastian",
+        "MF",
+        2
+    ],
+    [
+        "Kent Sebastian",
+        "properties",
+        4
+    ],
+    [
+        "Kent Sebastian",
+        "xml",
+        2
+    ],
+    [
+        "Kent Sebastian",
+        "classpath",
+        1
+    ],
+    [
+        "Kent Sebastian",
+        "project",
+        3
+    ],
+    [
+        "Kent Sebastian",
+        "prefs",
+        1
+    ],
+    [
+        "Kent Sebastian",
+        "svnignore",
+        1
+    ],
+    [
+        "Kent Sebastian",
+        "cproject",
+        2
+    ],
+    [
+        "Kent Sebastian",
+        "c",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "core/ChangeLog",
+        6
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        5
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        45
+    ],
+    [
+        "Alexander Kurtakov",
+        "ui/ChangeLog",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "properties",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "tests/ChangeLog",
+        3
+    ],
+    [
+        "Alexander Kurtakov",
+        "prefs",
+        1
+    ],
+    [
+        "Alphonse Van Assche",
+        "py",
+        1
+    ],
+    [
+        "Francois Chouinard",
+        "java",
+        2
+    ],
+    [
+        "Andrew Overholt",
+        "java",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "project",
+        10
+    ],
+    [
+        "Anithra P Janakiraman",
+        "systemtap-feature/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "properties",
+        27
+    ],
+    [
+        "Anithra P Janakiraman",
+        "html",
+        56
+    ],
+    [
+        "Anithra P Janakiraman",
+        "xml",
+        20
+    ],
+    [
+        "Anithra P Janakiraman",
+        "backup-feature/ChangeLog",
+        1
+    ],
+    [
+        "Anithra P Janakiraman",
+        "consolelog/ChangeLog",
+        2
+    ],
+    [
+        "Anithra P Janakiraman",
+        "MF",
+        16
+    ],
+    [
+        "Anithra P Janakiraman",
+        "graphing/ChangeLog",
+        2
+    ],
+    [
+        "Anithra P Janakiraman",
+        "nonui/ChangeLog",
+        2
+    ],
+    [
+        "Anithra P Janakiraman",
+        "ui/ChangeLog",
+        2
+    ],
+    [
+        "Anithra P Janakiraman",
+        "ide/ChangeLog",
+        2
+    ],
+    [
+        "Anithra P Janakiraman",
+        "java",
+        246
+    ],
+    [
+        "Anithra P Janakiraman",
+        "logging/ChangeLog",
+        2
+    ],
+    [
+        "Anithra P Janakiraman",
+        "structures/ChangeLog",
+        2
+    ],
+    [
+        "Anithra P Janakiraman",
+        "systemtapgui/ChangeLog",
+        2
+    ],
+    [
+        "Anithra P Janakiraman",
+        "classpath",
+        8
+    ],
+    [
+        "Anithra P Janakiraman",
+        "prefs",
+        9
+    ],
+    [
+        "Anithra P Janakiraman",
+        "ini",
+        1
+    ]
+]

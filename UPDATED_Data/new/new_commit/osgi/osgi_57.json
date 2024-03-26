@@ -1,0 +1,207 @@
+[
+    [
+        "BJ Hargrave",
+        "java",
+        141
+    ],
+    [
+        "BJ Hargrave",
+        "classpath",
+        2
+    ],
+    [
+        "BJ Hargrave",
+        "mf",
+        6
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        25
+    ],
+    [
+        "BJ Hargrave",
+        "properties",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "component/src/org/osgi/test/cases/component/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "xml",
+        4
+    ],
+    [
+        "BJ Hargrave",
+        "component/src/org/osgi/test/cases/component/tb1/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "component/src/org/osgi/test/cases/component/tb2/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "component/src/org/osgi/test/cases/component/tb3/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "component/src/org/osgi/test/cases/component/tb4/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "component/src/org/osgi/test/cases/component/tbc/packageinfo",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "html",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "project",
+        1
+    ],
+    [
+        "Philipp Konradi",
+        "java",
+        7
+    ],
+    [
+        "Rick McGuire",
+        "classpath",
+        2
+    ],
+    [
+        "Rick McGuire",
+        "project",
+        2
+    ],
+    [
+        "Rick McGuire",
+        "prefs",
+        6
+    ],
+    [
+        "Rick McGuire",
+        "bnd",
+        333
+    ],
+    [
+        "Rick McGuire",
+        "xml",
+        490
+    ],
+    [
+        "Rick McGuire",
+        "java",
+        420
+    ],
+    [
+        "Rick McGuire",
+        "xsd",
+        7
+    ],
+    [
+        "Rick McGuire",
+        "dat",
+        1
+    ],
+    [
+        "David Bosschaert",
+        "java",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        2
+    ],
+    [
+        "Tom Watson",
+        "java",
+        3
+    ],
+    [
+        "Lin Sun",
+        "bnd",
+        1
+    ],
+    [
+        "Lin Sun",
+        "xml",
+        1
+    ],
+    [
+        "Lin Sun",
+        "java",
+        22
+    ],
+    [
+        "Ikuo Yamasaki",
+        "bnd",
+        23
+    ],
+    [
+        "Ikuo Yamasaki",
+        "properties",
+        205
+    ],
+    [
+        "Ikuo Yamasaki",
+        "6",
+        1
+    ],
+    [
+        "Ikuo Yamasaki",
+        "7",
+        1
+    ],
+    [
+        "Ikuo Yamasaki",
+        "java",
+        43
+    ],
+    [
+        "Lei SO Wang",
+        "java",
+        159
+    ],
+    [
+        "Lei SO Wang",
+        "xml",
+        11
+    ],
+    [
+        "Tim Diekman",
+        "java",
+        6
+    ],
+    [
+        "Mori Kouya",
+        "java",
+        13
+    ],
+    [
+        "Mori Kouya",
+        "bnd",
+        1
+    ],
+    [
+        "Thomas Kiesslich",
+        "bnd",
+        1
+    ],
+    [
+        "Thomas Kiesslich",
+        "java",
+        5
+    ]
+]

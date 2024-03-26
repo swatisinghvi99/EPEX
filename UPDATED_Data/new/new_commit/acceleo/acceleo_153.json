@@ -1,0 +1,127 @@
+[
+    [
+        "Yvan Lussaud",
+        "java",
+        36
+    ],
+    [
+        "Yvan Lussaud",
+        "mtl",
+        57
+    ],
+    [
+        "Yvan Lussaud",
+        "emtl",
+        15
+    ],
+    [
+        "Yvan Lussaud",
+        "project",
+        2
+    ],
+    [
+        "Yvan Lussaud",
+        "properties",
+        5
+    ],
+    [
+        "Yvan Lussaud",
+        "xml",
+        6
+    ],
+    [
+        "Yvan Lussaud",
+        "checkstyle",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "classpath",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "prefs",
+        2
+    ],
+    [
+        "Yvan Lussaud",
+        "MF",
+        6
+    ],
+    [
+        "Yvan Lussaud",
+        "html",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "txt",
+        27
+    ],
+    [
+        "Yvan Lussaud",
+        "xmi",
+        13
+    ],
+    [
+        "Yvan Lussaud",
+        "acceleo3/status/TODO",
+        5
+    ],
+    [
+        "Yvan Lussaud",
+        "acceleo3/status/TODO_lot1",
+        3
+    ],
+    [
+        "Yvan Lussaud",
+        "acceleo3/src/resources/services/acceleoServices/generated/acceleoServices",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "acceleo3/src/resources/services/booleanServices/generated/oclAnyTests",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "acceleo3/src/resources/services/emfServices/generated/testEObject",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "acceleo3/src/resources/services/numericServices/generated/integerTests",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "acceleo3/src/resources/services/numericServices/generated/realTests",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "acceleo3/src/resources/services/orderedSetsServices/generated/testOrderedSet",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "acceleo3/src/resources/services/sequencesServices/generated/testSequence",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "acceleo3/src/resources/services/stringServices/generated/oclAnyTests",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "acceleo3/src/resources/services/stringServices/generated/testServices",
+        1
+    ],
+    [
+        "Yvan Lussaud",
+        "acceleo3/status/PASS",
+        1
+    ]
+]

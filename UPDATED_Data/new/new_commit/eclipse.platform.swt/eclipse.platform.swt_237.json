@@ -1,0 +1,192 @@
+[
+    [
+        "Alexander Kurtakov",
+        "java",
+        8
+    ],
+    [
+        "Alexander Kurtakov",
+        "classpath",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "prefs",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "xml",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "c",
+        1
+    ],
+    [
+        "Nikita Nemkin",
+        "java",
+        17
+    ],
+    [
+        "Nikita Nemkin",
+        "c",
+        2
+    ],
+    [
+        "Nikita Nemkin",
+        "h",
+        1
+    ],
+    [
+        "Alexandr Miloslavskiy",
+        "c",
+        19
+    ],
+    [
+        "Alexandr Miloslavskiy",
+        "java",
+        39
+    ],
+    [
+        "Alexandr Miloslavskiy",
+        "h",
+        10
+    ],
+    [
+        "Alexandr Miloslavskiy",
+        "properties",
+        1
+    ],
+    [
+        "Alexandr Miloslavskiy",
+        "mak",
+        1
+    ],
+    [
+        "Eclipse Releng Bot",
+        "toml",
+        9
+    ],
+    [
+        "Eclipse Releng Bot",
+        "java",
+        9
+    ],
+    [
+        "Eclipse Releng Bot",
+        "mak",
+        9
+    ],
+    [
+        "Mickael Istria",
+        "java",
+        5
+    ],
+    [
+        "Paul D'Pong",
+        "c",
+        12
+    ],
+    [
+        "Paul D'Pong",
+        "h",
+        6
+    ],
+    [
+        "Paul D'Pong",
+        "java",
+        45
+    ],
+    [
+        "Thomas Singer",
+        "java",
+        1
+    ],
+    [
+        "Niraj Modi",
+        "java",
+        5
+    ],
+    [
+        "Lakshmi Shanmugam",
+        "sh",
+        1
+    ],
+    [
+        "Lakshmi Shanmugam",
+        "h",
+        2
+    ],
+    [
+        "Lakshmi Shanmugam",
+        "extras",
+        1
+    ],
+    [
+        "Lakshmi Shanmugam",
+        "java",
+        5
+    ],
+    [
+        "Alexandra Buzila",
+        "extras",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "java",
+        9
+    ],
+    [
+        "Alexandra Buzila",
+        "MF",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "xml",
+        1
+    ],
+    [
+        "Sravan Kumar Lakkimsetti",
+        "c",
+        3
+    ],
+    [
+        "Sravan Kumar Lakkimsetti",
+        "h",
+        1
+    ],
+    [
+        "Sravan Kumar Lakkimsetti",
+        "java",
+        1
+    ],
+    [
+        "Alex Blewitt",
+        "extras",
+        1
+    ],
+    [
+        "Alex Blewitt",
+        "java",
+        4
+    ],
+    [
+        "Lars Vogel",
+        "java",
+        9
+    ],
+    [
+        "Carsten Hammer",
+        "java",
+        12
+    ]
+]

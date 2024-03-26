@@ -1,0 +1,112 @@
+[
+    [
+        "Nina Doschek",
+        "md",
+        1
+    ],
+    [
+        "Nina Doschek",
+        "xml",
+        8
+    ],
+    [
+        "Nina Doschek",
+        "java",
+        21
+    ],
+    [
+        "Nina Doschek",
+        "classpath",
+        2
+    ],
+    [
+        "Nina Doschek",
+        "MF",
+        2
+    ],
+    [
+        "Nina Doschek",
+        "properties",
+        2
+    ],
+    [
+        "Nina Doschek",
+        "project",
+        1
+    ],
+    [
+        "Nina Doschek",
+        "target",
+        1
+    ],
+    [
+        "Nina Doschek",
+        "tpd",
+        1
+    ],
+    [
+        "Martin Fleck",
+        "java",
+        20
+    ],
+    [
+        "Martin Fleck",
+        "unknown",
+        1
+    ],
+    [
+        "Martin Fleck",
+        "project",
+        9
+    ],
+    [
+        "Martin Fleck",
+        "prefs",
+        12
+    ],
+    [
+        "Martin Fleck",
+        "xml",
+        24
+    ],
+    [
+        "Martin Fleck",
+        "checkstyle",
+        2
+    ],
+    [
+        "Martin Fleck",
+        "classpath",
+        2
+    ],
+    [
+        "Martin Fleck",
+        "MF",
+        7
+    ],
+    [
+        "Martin Fleck",
+        "properties",
+        3
+    ],
+    [
+        "Martin Fleck",
+        "target",
+        1
+    ],
+    [
+        "Martin Fleck",
+        "tpd",
+        1
+    ],
+    [
+        "Martin Fleck",
+        "gitignore",
+        1
+    ],
+    [
+        "vhemery",
+        "java",
+        9
+    ]
+]

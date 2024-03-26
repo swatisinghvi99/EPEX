@@ -1,0 +1,232 @@
+[
+    [
+        "Oleksandr Andriienko",
+        "lock",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "toml",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "md",
+        9
+    ],
+    [
+        "Oleksandr Andriienko",
+        "go",
+        233
+    ],
+    [
+        "Oleksandr Andriienko",
+        "json",
+        3
+    ],
+    [
+        "Oleksandr Andriienko",
+        "yaml",
+        5
+    ],
+    [
+        "Oleksandr Andriienko",
+        "gitignore",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/Microsoft/go-winio/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/Microsoft/go-winio/archive/tar/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "yml",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/Sirupsen/logrus/LICENSE",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/docker/distribution/AUTHORS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/docker/distribution/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/docker/docker/AUTHORS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/docker/docker/LICENSE",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/docker/docker/NOTICE",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/docker/docker/contrib/selinux-fedora-24/docker-engine-selinux/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/docker/docker/contrib/selinux-oraclelinux-7/docker-engine-selinux/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/docker/docker/contrib/selinux/docker-engine-selinux/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/docker/docker/contrib/syntax/vim/LICENSE",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "sh",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "default",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "init",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "upstart",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "udev",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "APACHE",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "BSD",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/docker/go-connections/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/docker/go-units/LICENSE",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/docker/go-units/MAINTAINERS",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/codegangsta/cli/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/coreos/go-systemd/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/docker/docker/pkg/mflag/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/godbus/dbus/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/golang/protobuf/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/opencontainers/runtime-spec/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/pquerna/ffjson/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/pquerna/ffjson/NOTICE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/seccomp/libseccomp-golang/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/syndtr/gocapability/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/vishvananda/netlink/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/opencontainers/runc/LICENSE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/opencontainers/runc/NOTICE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "com/opencontainers/runc/libcontainer/user/MAINTAINERS",
+        1
+    ],
+    [
+        "Sergii Leshchenko",
+        "go",
+        1
+    ],
+    [
+        "Sergii Leshchenko",
+        "ts",
+        2
+    ]
+]

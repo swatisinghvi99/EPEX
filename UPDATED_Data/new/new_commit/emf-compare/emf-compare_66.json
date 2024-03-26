@@ -1,0 +1,102 @@
+[
+    [
+        "lgoubet",
+        "java",
+        256
+    ],
+    [
+        "lgoubet",
+        "project",
+        1
+    ],
+    [
+        "lgoubet",
+        "MF",
+        14
+    ],
+    [
+        "lgoubet",
+        "tests/src/org/eclipse/emf/compare/tests/model/mock/CHANGES",
+        1
+    ],
+    [
+        "lgoubet",
+        "ecore",
+        3
+    ],
+    [
+        "lgoubet",
+        "xml",
+        3
+    ],
+    [
+        "lgoubet",
+        "genmodel",
+        1
+    ],
+    [
+        "lgoubet",
+        "nodes",
+        14
+    ],
+    [
+        "Cedric Notot",
+        "java",
+        102
+    ],
+    [
+        "Cedric Notot",
+        "classpath",
+        2
+    ],
+    [
+        "Cedric Notot",
+        "project",
+        1
+    ],
+    [
+        "Cedric Notot",
+        "prefs",
+        1
+    ],
+    [
+        "Cedric Notot",
+        "MF",
+        1
+    ],
+    [
+        "Cedric Notot",
+        "properties",
+        1
+    ],
+    [
+        "Cedric Notot",
+        "xml",
+        2
+    ],
+    [
+        "Cedric Notot",
+        "uml",
+        47
+    ],
+    [
+        "Cedric Notot",
+        "emfdiff",
+        20
+    ],
+    [
+        "cbrun",
+        "java",
+        22
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "java",
+        8
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "MF",
+        1
+    ]
+]

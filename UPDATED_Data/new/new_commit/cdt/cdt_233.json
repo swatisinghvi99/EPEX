@@ -1,0 +1,127 @@
+[
+    [
+        "Torbj\u00f6rn Svensson",
+        "java",
+        1
+    ],
+    [
+        "Mat Booth",
+        "gitattributes",
+        1
+    ],
+    [
+        "Mat Booth",
+        "MF",
+        11
+    ],
+    [
+        "Mat Booth",
+        "xml",
+        6
+    ],
+    [
+        "Mat Booth",
+        "java",
+        25
+    ],
+    [
+        "Mat Booth",
+        "properties",
+        4
+    ],
+    [
+        "Mat Booth",
+        "txt",
+        4
+    ],
+    [
+        "Mat Booth",
+        "c",
+        3
+    ],
+    [
+        "Mat Booth",
+        "in",
+        3
+    ],
+    [
+        "Christian Walther",
+        "xml",
+        1
+    ],
+    [
+        "Christian Walther",
+        "tests/resources/test30Projects/test30_2/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Christian Walther",
+        "mk",
+        91
+    ],
+    [
+        "Christian Walther",
+        "java",
+        5
+    ],
+    [
+        "Christian Walther",
+        "2/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Christian Walther",
+        "0/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Christian Walther",
+        "1CPP/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Christian Walther",
+        "tests/resources/test21Projects/multiResConfig/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Christian Walther",
+        "tests/resources/test21Projects/twoFileSO/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Christian Walther",
+        "tests/resources/test30Projects/deleteFile/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Christian Walther",
+        "tests/resources/test30Projects/multiResConfig/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Christian Walther",
+        "tests/resources/test30Projects/preAndPostBuildSteps/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Christian Walther",
+        "Dbg/makefile",
+        2
+    ],
+    [
+        "Christian Walther",
+        "tests/resources/test40Projects/test_40/Benchmarks/dbg 2/makefile",
+        2
+    ],
+    [
+        "Christian Walther",
+        "tests/resources/test30Projects/CDTFortranTest2/Benchmarks/makefile",
+        1
+    ],
+    [
+        "Jonah Graham",
+        "java",
+        5
+    ]
+]

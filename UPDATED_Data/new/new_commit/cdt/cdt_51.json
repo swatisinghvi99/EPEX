@@ -1,0 +1,392 @@
+[
+    [
+        "Markus Schorn",
+        "java",
+        118
+    ],
+    [
+        "Markus Schorn",
+        "MF",
+        2
+    ],
+    [
+        "Markus Schorn",
+        "xml",
+        2
+    ],
+    [
+        "Markus Schorn",
+        "properties",
+        2
+    ],
+    [
+        "Anton Leherbauer",
+        "cpp",
+        3
+    ],
+    [
+        "Anton Leherbauer",
+        "java",
+        85
+    ],
+    [
+        "Anton Leherbauer",
+        "options",
+        2
+    ],
+    [
+        "Anton Leherbauer",
+        "xml",
+        6
+    ],
+    [
+        "Anton Leherbauer",
+        "properties",
+        6
+    ],
+    [
+        "Anton Leherbauer",
+        "c",
+        1
+    ],
+    [
+        "Anton Leherbauer",
+        "exsd",
+        2
+    ],
+    [
+        "Mikhail Sennikovsky",
+        "java",
+        3
+    ],
+    [
+        "David McKnight",
+        "java",
+        508
+    ],
+    [
+        "David McKnight",
+        "MF",
+        4
+    ],
+    [
+        "David McKnight",
+        "classpath",
+        2
+    ],
+    [
+        "David McKnight",
+        "xml",
+        2
+    ],
+    [
+        "David McKnight",
+        "exsd",
+        2
+    ],
+    [
+        "Chris Recoskie",
+        "java",
+        24
+    ],
+    [
+        "Chris Recoskie",
+        "xml",
+        1
+    ],
+    [
+        "Chris Recoskie",
+        "properties",
+        1
+    ],
+    [
+        "Ken Ryall",
+        "java",
+        7
+    ],
+    [
+        "Martin Oberhuber",
+        "java",
+        269
+    ],
+    [
+        "Martin Oberhuber",
+        "txt",
+        4
+    ],
+    [
+        "Martin Oberhuber",
+        "MF",
+        5
+    ],
+    [
+        "Martin Oberhuber",
+        "properties",
+        24
+    ],
+    [
+        "Martin Oberhuber",
+        "classpath",
+        1
+    ],
+    [
+        "Martin Oberhuber",
+        "xml",
+        7
+    ],
+    [
+        "Martin Oberhuber",
+        "prefs",
+        1
+    ],
+    [
+        "Martin Oberhuber",
+        "sh",
+        9
+    ],
+    [
+        "Martin Oberhuber",
+        "php",
+        5
+    ],
+    [
+        "Martin Oberhuber",
+        "html",
+        18
+    ],
+    [
+        "Martin Oberhuber",
+        "exsd",
+        2
+    ],
+    [
+        "Martin Oberhuber",
+        "map",
+        1
+    ],
+    [
+        "Martin Oberhuber",
+        "count",
+        1
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "core/ChangeLog",
+        3
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        5
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "ui/ChangeLog",
+        2
+    ],
+    [
+        "",
+        "MF",
+        1
+    ],
+    [
+        "",
+        "xml",
+        2
+    ],
+    [
+        "",
+        "java",
+        26
+    ],
+    [
+        "",
+        "properties",
+        2
+    ],
+    [
+        "",
+        "exsd",
+        1
+    ],
+    [
+        "Oleg Krasilnikov",
+        "java",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        22
+    ],
+    [
+        "Doug Schaefer",
+        "cpp",
+        6
+    ],
+    [
+        "Doug Schaefer",
+        "h",
+        5
+    ],
+    [
+        "Doug Schaefer",
+        "properties",
+        1
+    ],
+    [
+        "Kushal Munir",
+        "java",
+        23
+    ],
+    [
+        "Kushal Munir",
+        "xml",
+        2
+    ],
+    [
+        "Pawel Piech",
+        "java",
+        2
+    ],
+    [
+        "Andrew Niefer",
+        "java",
+        2
+    ],
+    [
+        "David Dykstal",
+        "classpath",
+        2
+    ],
+    [
+        "David Dykstal",
+        "project",
+        2
+    ],
+    [
+        "David Dykstal",
+        "MF",
+        2
+    ],
+    [
+        "David Dykstal",
+        "properties",
+        3
+    ],
+    [
+        "David Dykstal",
+        "css",
+        1
+    ],
+    [
+        "David Dykstal",
+        "html",
+        4
+    ],
+    [
+        "David Dykstal",
+        "xml",
+        3
+    ],
+    [
+        "David Dykstal",
+        "exsd",
+        1
+    ],
+    [
+        "David Dykstal",
+        "java",
+        114
+    ],
+    [
+        "David Dykstal",
+        "txt",
+        1
+    ],
+    [
+        "Javier Montalvo Orus",
+        "classpath",
+        8
+    ],
+    [
+        "Javier Montalvo Orus",
+        "options",
+        1
+    ],
+    [
+        "Javier Montalvo Orus",
+        "project",
+        8
+    ],
+    [
+        "Javier Montalvo Orus",
+        "prefs",
+        3
+    ],
+    [
+        "Javier Montalvo Orus",
+        "MF",
+        8
+    ],
+    [
+        "Javier Montalvo Orus",
+        "html",
+        8
+    ],
+    [
+        "Javier Montalvo Orus",
+        "properties",
+        15
+    ],
+    [
+        "Javier Montalvo Orus",
+        "xml",
+        9
+    ],
+    [
+        "Javier Montalvo Orus",
+        "exsd",
+        2
+    ],
+    [
+        "Javier Montalvo Orus",
+        "java",
+        56
+    ],
+    [
+        "Javier Montalvo Orus",
+        "genmodel",
+        1
+    ],
+    [
+        "Javier Montalvo Orus",
+        "xsd",
+        1
+    ],
+    [
+        "Javier Montalvo Orus",
+        "ecore",
+        1
+    ],
+    [
+        "Javier Montalvo Orus",
+        "cvsignore",
+        2
+    ],
+    [
+        "John Camelon",
+        "java",
+        1
+    ],
+    [
+        "Thomas Fletcher",
+        "properties",
+        1
+    ],
+    [
+        "Thomas Fletcher",
+        "java",
+        1
+    ]
+]

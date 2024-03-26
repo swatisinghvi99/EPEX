@@ -1,0 +1,72 @@
+[
+    [
+        "Francois Chouinard",
+        "tests/ChangeLog",
+        4
+    ],
+    [
+        "Francois Chouinard",
+        "java",
+        68
+    ],
+    [
+        "Francois Chouinard",
+        "ui/ChangeLog",
+        6
+    ],
+    [
+        "Francois Chouinard",
+        "lttng/ChangeLog",
+        3
+    ],
+    [
+        "Francois Chouinard",
+        "tmf/ChangeLog",
+        3
+    ],
+    [
+        "Francois Chouinard",
+        "xml",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "core/ChangeLog",
+        3
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        14
+    ],
+    [
+        "Alexander Kurtakov",
+        "properties",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "ui/ChangeLog",
+        3
+    ],
+    [
+        "Alexander Kurtakov",
+        "xml",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "java",
+        1
+    ]
+]

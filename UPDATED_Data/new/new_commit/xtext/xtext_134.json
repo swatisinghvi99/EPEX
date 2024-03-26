@@ -1,0 +1,167 @@
+[
+    [
+        "Christian Dietrich",
+        "target",
+        13
+    ],
+    [
+        "Christian Dietrich",
+        "xml",
+        38
+    ],
+    [
+        "Christian Dietrich",
+        "xtend",
+        48
+    ],
+    [
+        "Christian Dietrich",
+        "java",
+        235
+    ],
+    [
+        "Christian Dietrich",
+        "launch",
+        8
+    ],
+    [
+        "Christian Dietrich",
+        "sh",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "Jenkinsfile",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "unknown",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "gradle",
+        10
+    ],
+    [
+        "Christian Dietrich",
+        "classpath",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "MF",
+        2
+    ],
+    [
+        "Christian Dietrich",
+        "xml_gen",
+        2
+    ],
+    [
+        "Christian Dietrich",
+        "ISetup",
+        2
+    ],
+    [
+        "Christian Dietrich",
+        "g",
+        11
+    ],
+    [
+        "Christian Dietrich",
+        "mwe2",
+        5
+    ],
+    [
+        "Christian Dietrich",
+        "properties",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "genmodel",
+        3
+    ],
+    [
+        "Christian Dietrich",
+        "ecore",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "tokens",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "xtext",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        12
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        23
+    ],
+    [
+        "Sebastian Zarnekow",
+        "target",
+        28
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        1
+    ],
+    [
+        "Tamas Miklossy",
+        "xtend",
+        9
+    ],
+    [
+        "Tamas Miklossy",
+        "java",
+        10
+    ],
+    [
+        "Nico Prediger",
+        "gradle",
+        5
+    ],
+    [
+        "Nico Prediger",
+        "xtend",
+        1
+    ],
+    [
+        "Nico Prediger",
+        "java",
+        1
+    ],
+    [
+        "Lorenzo Addazi",
+        "xtend",
+        1
+    ],
+    [
+        "Lorenzo Addazi",
+        "java",
+        5
+    ],
+    [
+        "Lorenzo Addazi",
+        "properties",
+        1
+    ]
+]

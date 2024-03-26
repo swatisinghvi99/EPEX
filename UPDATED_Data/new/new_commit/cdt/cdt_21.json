@@ -1,0 +1,322 @@
+[
+    [
+        "David Inglis",
+        "java",
+        258
+    ],
+    [
+        "David Inglis",
+        "properties",
+        20
+    ],
+    [
+        "David Inglis",
+        "xml",
+        13
+    ],
+    [
+        "David Inglis",
+        "ui/ChangeLog",
+        4
+    ],
+    [
+        "David Inglis",
+        "core/ChangeLog",
+        11
+    ],
+    [
+        "David Inglis",
+        "launch/ChangeLog",
+        2
+    ],
+    [
+        "David Inglis",
+        "tests/ChangeLog",
+        1
+    ],
+    [
+        "David Inglis",
+        "exsd",
+        2
+    ],
+    [
+        "David Inglis",
+        "classpath",
+        1
+    ],
+    [
+        "David Inglis",
+        "linux/ChangeLog",
+        1
+    ],
+    [
+        "David Inglis",
+        "qnx/ChangeLog",
+        1
+    ],
+    [
+        "David Inglis",
+        "solaris/ChangeLog",
+        1
+    ],
+    [
+        "David Inglis",
+        "win32/ChangeLog",
+        1
+    ],
+    [
+        "Sean Evoy",
+        "core/ChangeLog",
+        9
+    ],
+    [
+        "Sean Evoy",
+        "java",
+        115
+    ],
+    [
+        "Sean Evoy",
+        "properties",
+        10
+    ],
+    [
+        "Sean Evoy",
+        "ui/ChangeLog",
+        3
+    ],
+    [
+        "Sean Evoy",
+        "xml",
+        3
+    ],
+    [
+        "Sean Evoy",
+        "exsd",
+        2
+    ],
+    [
+        "Sean Evoy",
+        "project",
+        1
+    ],
+    [
+        "John Camelon",
+        "tests/ChangeLog",
+        5
+    ],
+    [
+        "John Camelon",
+        "java",
+        52
+    ],
+    [
+        "John Camelon",
+        "xml",
+        1
+    ],
+    [
+        "John Camelon",
+        "ui/ChangeLog",
+        2
+    ],
+    [
+        "John Camelon",
+        "core/parser/ChangeLog-parser",
+        5
+    ],
+    [
+        "Alain Magloire",
+        "core/ChangeLog",
+        31
+    ],
+    [
+        "Alain Magloire",
+        "java",
+        591
+    ],
+    [
+        "Alain Magloire",
+        "xml",
+        2
+    ],
+    [
+        "Alain Magloire",
+        "ui/ChangeLog",
+        12
+    ],
+    [
+        "Alain Magloire",
+        "win32/ChangeLog",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "classpath",
+        3
+    ],
+    [
+        "Alain Magloire",
+        "properties",
+        6
+    ],
+    [
+        "Alain Magloire",
+        "solaris/ChangeLog",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "linux/ChangeLog",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "core/ChangeLog-2003",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "tests/ChangeLog",
+        2
+    ],
+    [
+        "Hoda Amer",
+        "core/ChangeLog",
+        7
+    ],
+    [
+        "Hoda Amer",
+        "java",
+        219
+    ],
+    [
+        "Hoda Amer",
+        "ui/ChangeLog",
+        13
+    ],
+    [
+        "Hoda Amer",
+        "tests/ChangeLog",
+        2
+    ],
+    [
+        "Hoda Amer",
+        "cpp",
+        1
+    ],
+    [
+        "Hoda Amer",
+        "classpath",
+        1
+    ],
+    [
+        "Hoda Amer",
+        "properties",
+        12
+    ],
+    [
+        "Hoda Amer",
+        "xml",
+        6
+    ],
+    [
+        "Hoda Amer",
+        "core/parser/ChangeLog-parser",
+        1
+    ],
+    [
+        "Andrew Niefer",
+        "tests/ChangeLog",
+        11
+    ],
+    [
+        "Andrew Niefer",
+        "java",
+        204
+    ],
+    [
+        "Andrew Niefer",
+        "core/parser/ChangeLog-parser",
+        13
+    ],
+    [
+        "Andrew Niefer",
+        "core/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Niefer",
+        "properties",
+        8
+    ],
+    [
+        "Andrew Niefer",
+        "ui/ChangeLog",
+        5
+    ],
+    [
+        "Andrew Niefer",
+        "core/index/ChangeLog",
+        1
+    ],
+    [
+        "Andrew Niefer",
+        "xml",
+        5
+    ],
+    [
+        "Andrew Niefer",
+        "tests/build/org/eclipse/cdt/core/build/managed/tests/test_commands",
+        1
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "ui/ChangeLog",
+        4
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        121
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "properties",
+        4
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "core/ChangeLog",
+        2
+    ],
+    [
+        "Bogdan Gheorghe",
+        "core/index/ChangeLog",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "java",
+        21
+    ],
+    [
+        "Bogdan Gheorghe",
+        "ui/ChangeLog",
+        4
+    ],
+    [
+        "Bogdan Gheorghe",
+        "core/search/ChangeLog",
+        2
+    ],
+    [
+        "Bogdan Gheorghe",
+        "tests/ChangeLog",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        1
+    ]
+]
