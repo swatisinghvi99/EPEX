@@ -445,7 +445,7 @@ header {
   padding: 1px;
   text-align:center;
   font-size: 19px;
-
+  margin-top: 10px;
   /* border-bottom: thin solid black; */
 }
 /* ------------------------------------------------------- */
@@ -508,7 +508,7 @@ color: #D9F0A3;
 flex-direction: row;
 flex: auto;
   border: 1px solid black;
-  width: 270px;
+  width: 290px;
   border-radius: 0.5rem;
   height: 50px;
   padding: 5px;

@@ -12,8 +12,7 @@ $(document).ready(function () {
 function call_table_commits(actual_name) {
   //  construct the link for the urls
   console.log(actual_name);
-  var this_project = document.getElementById("repoDropdown").value; // we need current project
-  var proj_name = this_project.split("[")[0].toLowerCase().trim();
+  var this_project = document.getElementById("repoDropdown").value;
   var curr_month = document.getElementById("Month").value;
 
   // console.log(actual_name);
@@ -26,9 +25,8 @@ function call_table_commits(actual_name) {
     actual_name +
     ".csv";
   console.log(create_link);
-  // UPDATED_Data/NEW_monthly_commits/+proj_name +curr_month+'/'+actual_name+".csv";
-  var column_names = ["URL", "Date Time"];
-  // var column_names = ["Title","Views","Time","URL","Next boy"];0
+  var column_names = ["File", "Date/Time"];
+  // var column_names = ["Title","Views","Time","File","Next boy"];
   var clicks = { title: 0, views: 0, created_on: 0, url: 0 };
 
   // draw the table
@@ -331,7 +329,7 @@ function make_it_1(create_link, column_names, clicks) {
           });
         }
       }
-      if (d == "URL") {
+      if (d == "File") {
         clicks.url++;
         // even number of clicks
         if (clicks.url % 2 == 0) {
