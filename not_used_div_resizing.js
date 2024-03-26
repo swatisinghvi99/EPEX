@@ -1,6 +1,6 @@
 // div resizing functionality
 // currently not being used
-var this_project = document.getElementById("txt_ide").value;
+var this_project = document.getElementById("repoDropdown").value;
 (function () {
   var currentScale = 1;
 

@@ -1,11 +1,11 @@
 function make_chart_alt() {
-  var this_project = document.getElementById("txt_ide").value;
+  var this_project = document.getElementById("repoDropdown").value;
   // we have stored the name_to_id conversion in order to convert the project name to ids
   // console.log(ids)
   // get which projects folder we need to access
   var link =
     "./UPDATED_Data/new/new_forecast/" +
-    alias_to_name[this_project] +
+    this_project +
     "_" +
     "f_data.csv";
 

@@ -15,9 +15,9 @@ function UpdateEmailNet() {
     .classed("svg-content-responsive", true);
   svg.selectAll("*").remove();
   // var new_name = this_project.split("[")[0].toLowerCase().replace(/ /g, "");
-  var this_project = document.getElementById("txt_ide").value;
+  var this_project = document.getElementById("repoDropdown").value;
   var curr_month = document.getElementById("Month").value;
-  var new_file_path = alias_to_name[this_project] + "_" + curr_month;
+  var new_file_path = this_project + "_" + curr_month;
 
   try {
     // read the data file

@@ -16,7 +16,7 @@ function UpdateTechnicalNet() {
 
   try {
     d3.json(
-      `./UPDATED_Data/new/new_commit/Jan/` + new_file_path + `.json`,
+      `./UPDATED_Data/new/new_commit/${this_project}/` + new_file_path + `.json`,
       function (error, d) {
         if (error) {
           document.getElementById("num_commits").innerHTML = 0;
@@ -35,7 +35,7 @@ function UpdateTechnicalNet() {
           // var running_threshold = Math.ceil(current_info.num_commits / 100);
           // var running_threshold = Math.floor(current_info.num_commits / 100);
           // console.log("tech th", running_threshold);
-          var data = reduce_the_commits(data);
+          // var data = reduce_the_commits(data);
           // console.log("after ", data);
           var g = svg.append("g").attr("transform", "translate(185,45)");
 

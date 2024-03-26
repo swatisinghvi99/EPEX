@@ -28,7 +28,7 @@ function updateAll() {
 
   UpdateprojectInfo();
   //UpdateEmailNet();
-  //UpdateTechnicalNet();
+  UpdateTechnicalNet();
 
   $("#chk").prop("checked", false);
   $("#make_range_slider").prop("checked", false);
@@ -51,11 +51,11 @@ function updateAll_for_range_slider() {
 }
 
 function cal_slider_end_length() {
-  var this_project = document.getElementById("txt_ide").value;
+  var this_project = document.getElementById("repoDropdown").value;
   // read data
   var new_paths =
     "UPDATED_Data/new/new_forecast/" +
-    alias_to_name[this_project] +
+    this_project +
     "_" +
     "f_data.csv";
   d3.csv(new_paths, function (error, data) {

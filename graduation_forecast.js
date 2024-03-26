@@ -1,10 +1,10 @@
 // make the graduation forecast
 function make_chart() {
-  var this_project = document.getElementById("txt_ide").value;
+  var this_project = document.getElementById("repoDropdown").value;
   // read data
   var link =
     "UPDATED_Data/new/new_forecast/" +
-    alias_to_name[this_project] +
+    this_project +
     "_" +
     "f_data.csv";
   d3.select("#my_dataviz").html(null);

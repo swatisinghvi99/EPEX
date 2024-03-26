@@ -227,7 +227,7 @@ function create_new_data1(feed_size) {
   new_empty = [];
   var this_project = document.getElementById("repoDropdown").value;
   for (const cur_month of feed_size) {
-    var common_path = `./UPDATED_Data/new/new_commit/Jan/${this_project}_${cur_month}.json`;
+    var common_path = `./UPDATED_Data/new/new_commit/${this_project}/${this_project}_${cur_month}.json`;
 
     try {
     } catch {}

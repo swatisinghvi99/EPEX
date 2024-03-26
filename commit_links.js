@@ -12,14 +12,14 @@ $(document).ready(function () {
 function call_table_commits(actual_name) {
   //  construct the link for the urls
   console.log(actual_name);
-  var this_project = document.getElementById("txt_ide").value; // we need current project
+  var this_project = document.getElementById("repoDropdown").value; // we need current project
   var proj_name = this_project.split("[")[0].toLowerCase().trim();
   var curr_month = document.getElementById("Month").value;
 
   // console.log(actual_name);
   var create_link =
     "./UPDATED_Data/new_monthly_commits/" +
-    alias_to_name[this_project] +
+    this_project +
     "/" +
     curr_month +
     "/" +
