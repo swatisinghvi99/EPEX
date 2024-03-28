@@ -9,30 +9,18 @@ $(document).ready(function () {
 });
 
 function call_table_emails(actual_name) {
-  var this_project = document.getElementById("txt_ide").value; // we need current project
-  var proj_name = this_project.split("[")[0].toLowerCase().trim();
+  var this_project = document.getElementById("repoDropdown").value; 
   var curr_month = document.getElementById("Month").value;
-  console.log(actual_name);
   var create_link =
-    "./UPDATED_Data/Takeout/Drive/new_deep_dive_email_data/tester_monthly_emails/" +
-    alias_to_name[this_project] +
+  "./UPDATED_Data/new_monthly_issues/" +
+    this_project +
     "/" +
     curr_month +
     "/" +
     actual_name +
     ".csv";
   console.log("link for the email deep dive", create_link);
-  //old
-  // "UPDATED_Data/new_monthly_data/emails/" +
-  //   proj_name +
-  //   "/" +
-  //   actual_name +
-  //   "_" +
-  //   // curr_month +
-  //   // ".csv";
-
-  //---
-  var column_names = ["URL", "Date Time"];
+  var column_names = ["Issue URL", "Date/Time", "Type", "Status"];
   // var column_names = ["Title","Views","Time","URL","Next boy"];0
   var clicks = { title: 0, views: 0, created_on: 0, url: 0 };
   // d3v3.selectAll("*").remove();
@@ -100,7 +88,7 @@ function make_it(create_link, column_names) {
             arr.push(d[k]);
           }
         }
-        return [arr[1], arr[0]];
+        return [arr[1], arr[0], arr[2], arr[3]];
       })
       .enter()
       .append("td");

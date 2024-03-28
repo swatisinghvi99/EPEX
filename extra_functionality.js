@@ -141,7 +141,7 @@ function create_new_data(feed_size) {
   var first_data = [];
   var this_project = document.getElementById("repoDropdown").value;
   for (const cur_month of feed_size) {
-    var common_path = `./UPDATED_Data/new/new_emails/${this_project}_${cur_month}.json`;
+    var common_path = `./UPDATED_Data/new/new_issues/${this_project}/${this_project}_${cur_month}.json`;
 
     if (cur_month == feed_size[0]) {
       try {

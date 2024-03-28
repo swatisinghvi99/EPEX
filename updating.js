@@ -27,7 +27,7 @@ function updateAll() {
   // var this_project = document.getElementById("txt_ide").value;
 
   UpdateprojectInfo();
-  //UpdateEmailNet();
+  UpdateEmailNet();
   UpdateTechnicalNet();
 
   $("#chk").prop("checked", false);

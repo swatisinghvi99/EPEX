@@ -15,7 +15,6 @@ function call_table_commits(actual_name) {
   var this_project = document.getElementById("repoDropdown").value;
   var curr_month = document.getElementById("Month").value;
 
-  // console.log(actual_name);
   var create_link =
     "./UPDATED_Data/new_monthly_commits/" +
     this_project +
@@ -24,7 +23,7 @@ function call_table_commits(actual_name) {
     "/" +
     actual_name +
     ".csv";
-  console.log(create_link);
+  // console.log(create_link);
   var column_names = ["File", "Date/Time"];
   // var column_names = ["Title","Views","Time","File","Next boy"];
   var clicks = { title: 0, views: 0, created_on: 0, url: 0 };

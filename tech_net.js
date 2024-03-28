@@ -4,13 +4,11 @@ function UpdateTechnicalNet() {
     .attr("width", "100%")
     .attr("height", "90%")
     .attr("viewBox", "0 0 700 400")
-    //class to make it responsive
     .attr("preserveAspectRatio", "xMinYMin meet")
     .classed("svg-content-responsive", true);
 
   svg.selectAll("*").remove();
   var this_project = document.getElementById("repoDropdown").value;
-  // var new_name = this_project.split("[")[0].toLowerCase().replace(/ /g, "");
   var curr_month = document.getElementById("Month").value;
   var new_file_path = this_project + "_" + curr_month;
 
