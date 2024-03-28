@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Tue Aug 11 11:42:46 2020,LoraProtocolAdapter.java,Bob Claerhout
+Tue Aug 11 11:42:46 2020,ActilityBaseProvider.java,Bob Claerhout
+Tue Aug 11 11:42:46 2020,ActilityEnterpriseProvider.java,Bob Claerhout
+Tue Aug 11 11:42:46 2020,ActilityWirelessProvider.java,Bob Claerhout
+Tue Aug 11 11:42:46 2020,ChirpStackProvider.java,Bob Claerhout
+Tue Aug 11 11:42:46 2020,EverynetProvider.java,Bob Claerhout
+Tue Aug 11 11:42:46 2020,FireflyProvider.java,Bob Claerhout
+Tue Aug 11 11:42:46 2020,KerlinkProvider.java,Bob Claerhout
+Tue Aug 11 11:42:46 2020,LoraProvider.java,Bob Claerhout
+Tue Aug 11 11:42:46 2020,LoriotProvider.java,Bob Claerhout
+Tue Aug 11 11:42:46 2020,ObjeniousProvider.java,Bob Claerhout
+Tue Aug 11 11:42:46 2020,ProximusProvider.java,Bob Claerhout
+Tue Aug 11 11:42:46 2020,ThingsNetworkProvider.java,Bob Claerhout
+Tue Aug 11 11:42:46 2020,LoraProtocolAdapterTest.java,Bob Claerhout
+Tue Aug 11 11:42:46 2020,ActilityEnterpriseProviderTest.java,Bob Claerhout
+Tue Aug 11 11:42:46 2020,ActilityWirelessProviderTest.java,Bob Claerhout
+Tue Aug 11 11:42:46 2020,actilityEnterprise.uplink.json,Bob Claerhout
+Tue Aug 11 11:42:46 2020,release-notes.md,Bob Claerhout
+Tue Aug 11 12:52:41 2020,OrbiwiseProvider.java,Bob Claerhout
+Tue Aug 11 12:52:41 2020,OrbiwiseProviderTest.java,Bob Claerhout
+Tue Aug 11 12:52:41 2020,orbiwise.uplink.json,Bob Claerhout
+Tue Aug 11 12:52:41 2020,release-notes.md,Bob Claerhout

@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Fri Sep 22 17:31:26 2006,IDebugHelpContextIds.java,Michael Rennie
+Fri Sep 22 17:31:26 2006,BreakpointGroupMessages.java,Michael Rennie
+Fri Sep 22 17:31:26 2006,BreakpointGroupMessages.properties,Michael Rennie
+Fri Sep 22 17:31:26 2006,SelectBreakpointWorkingsetDialog.java,Michael Rennie
+Fri Sep 22 17:31:26 2006,SetDefaultBreakpointGroupAction.java,Michael Rennie
+Fri Sep 22 17:42:38 2006,IDebugHelpContextIds.java,Michael Rennie
+Fri Sep 22 17:42:38 2006,DeleteAssociatedLaunchConfigurationsDialog.java,Michael Rennie
+Fri Sep 22 17:48:36 2006,TerminateAndRelaunchAction.java,Michael Rennie
+Tue Oct 10 15:17:32 2006,ToggleBreakpointObjectActionDelegate.java,Michael Rennie
+Tue Oct 10 16:33:24 2006,LaunchConfigurationsDialog.java,Michael Rennie
+Fri Oct 13 19:29:02 2006,LaunchConfigurationsDialog.java,Michael Rennie
+Mon Oct 16 17:25:40 2006,ILaunchConfigurationWorkingCopy.java,Michael Rennie
+Mon Oct 16 17:25:40 2006,LaunchConfigurationWorkingCopy.java,Michael Rennie
+Mon Oct 16 17:25:40 2006,LaunchConfigurationTabGroupViewer.java,Michael Rennie
+Mon Oct 16 17:25:40 2006,LaunchConfigurationsDialog.java,Michael Rennie
+Mon Oct 16 17:25:40 2006,LaunchConfigurationsMessages.java,Michael Rennie
+Mon Oct 16 17:25:40 2006,LaunchConfigurationsMessages.properties,Michael Rennie
+Mon Oct 16 17:25:40 2006,CommonTab.java,Michael Rennie
+Tue Oct 17 20:33:35 2006,LaunchManager.java,Michael Rennie
+Wed Oct 18 20:49:45 2006,ChangeVariableValueAction.java,Michael Rennie

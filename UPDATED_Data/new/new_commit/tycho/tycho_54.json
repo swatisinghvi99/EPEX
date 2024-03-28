@@ -1,0 +1,37 @@
+[
+    [
+        "Martin Schreiber",
+        "xml",
+        6
+    ],
+    [
+        "Martin Schreiber",
+        "java",
+        6
+    ],
+    [
+        "Martin Schreiber",
+        "xml_expected",
+        3
+    ],
+    [
+        "Martin Schreiber",
+        "unknown",
+        2
+    ],
+    [
+        "Martin Schreiber",
+        "properties",
+        1
+    ],
+    [
+        "Martin Schreiber",
+        "groovy",
+        3
+    ],
+    [
+        "Martin Schreiber",
+        "clazz",
+        2
+    ]
+]

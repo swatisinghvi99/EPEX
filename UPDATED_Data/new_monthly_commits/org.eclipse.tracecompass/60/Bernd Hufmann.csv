@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Mon May 11 19:39:09 2015,HistogramView.java,Bernd Hufmann
+Mon May 11 20:18:59 2015,Histogram.java,Bernd Hufmann
+Mon May 11 20:18:59 2015,HistogramView.java,Bernd Hufmann
+Mon May 11 20:18:59 2015,TimeRangeHistogram.java,Bernd Hufmann
+Mon May 11 20:19:10 2015,TmfMouseDragProvider.java,Bernd Hufmann
+Wed May 13 15:04:45 2015,CpuUsageView.java,Bernd Hufmann
+Wed May 13 15:04:45 2015,TmfChartView.java,Bernd Hufmann
+Wed May 13 15:04:45 2015,AbstractTimeGraphView.java,Bernd Hufmann
+Wed May 13 15:04:55 2015,TmfTimeViewer.java,Bernd Hufmann
+Wed May 13 15:05:08 2015,TmfTimeViewer.java,Bernd Hufmann
+Wed May 13 15:05:18 2015,TmfTimeViewer.java,Bernd Hufmann
+Wed May 13 15:43:05 2015,TimeGraphCombo.java,Bernd Hufmann
+Fri May 15  1:24:05 2015,TmfXYChartViewer.java,Bernd Hufmann
+Fri May 15  1:24:27 2015,CpuUsageView.java,Bernd Hufmann
+Fri May 15 21:40:33 2015,TmfXYChartViewer.java,Bernd Hufmann
+Fri May 15 21:40:48 2015,TmfMouseDragProvider.java,Bernd Hufmann
+Tue May 19 17:24:49 2015,TraceControlPropertiesTest.java,Bernd Hufmann
+Tue May 26 19:06:49 2015,LTTngControlServiceMiTest.java,Bernd Hufmann
+Tue May 26 19:06:49 2015,LTTngServiceMiTest.cfg,Bernd Hufmann
+Tue May 26 19:06:49 2015,LTTngControlServiceMI.java,Bernd Hufmann
+Wed May 27  2:12:22 2015,TmfCommonXLineChartViewer.java,Bernd Hufmann
+Wed May 27 17:56:49 2015,Histogram.java,Bernd Hufmann
+Wed May 27 17:56:49 2015,HistogramDataModel.java,Bernd Hufmann
+Wed May 27 17:56:49 2015,messages.properties,Bernd Hufmann
+Thu May 28 14:27:42 2015,TmfEventsTable.java,Bernd Hufmann

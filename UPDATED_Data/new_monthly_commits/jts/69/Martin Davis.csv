@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Thu Jul 28 23:19:26 2022,CoverageFunctions.java,Martin Davis
+Thu Jul 28 23:19:26 2022,FunctionsUtil.java,Martin Davis
+Thu Jul 28 23:19:26 2022,GeometryFunctionRegistry.java,Martin Davis
+Thu Jul 28 23:19:26 2022,PolygonNodeTopology.java,Martin Davis
+Thu Jul 28 23:19:26 2022,CoverageGapFinder.java,Martin Davis
+Thu Jul 28 23:19:26 2022,CoveragePolygonValidator.java,Martin Davis
+Thu Jul 28 23:19:26 2022,CoverageRing.java,Martin Davis
+Thu Jul 28 23:19:26 2022,CoverageUnion.java,Martin Davis
+Thu Jul 28 23:19:26 2022,CoverageValidator.java,Martin Davis
+Thu Jul 28 23:19:26 2022,InvalidSegmentDetector.java,Martin Davis
+Thu Jul 28 23:19:26 2022,package-info.java,Martin Davis
+Thu Jul 28 23:19:26 2022,MCIndexSegmentSetMutualIntersector.java,Martin Davis
+Thu Jul 28 23:19:26 2022,PolygonIntersectionAnalyzer.java,Martin Davis
+Thu Jul 28 23:19:26 2022,PolygonRing.java,Martin Davis
+Thu Jul 28 23:19:26 2022,PolygonTopologyAnalyzer.java,Martin Davis
+Thu Jul 28 23:19:26 2022,PolygonNodeTopologyTest.java,Martin Davis
+Thu Jul 28 23:19:26 2022,CoverageGapFinderTest.java,Martin Davis
+Thu Jul 28 23:19:26 2022,CoveragePolygonValidatorTest.java,Martin Davis
+Thu Jul 28 23:19:26 2022,CoverageUnionTest.java,Martin Davis
+Thu Jul 28 23:19:26 2022,CoverageValidatorTest.java,Martin Davis
+Thu Jul 28 23:19:26 2022,PolygonNodeTest.java,Martin Davis
+Thu Jul 28 23:19:26 2022,GeometryTestCase.java,Martin Davis

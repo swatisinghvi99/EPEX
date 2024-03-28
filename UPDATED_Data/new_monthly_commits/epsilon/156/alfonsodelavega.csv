@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Tue Aug 31 15:07:50 2021,FlexmiYamlParser.java,alfonsodelavega
+Tue Aug 31 15:07:50 2021,ecore.yaml,alfonsodelavega
+Tue Aug 31 15:07:50 2021,FlexmiParser.java,alfonsodelavega
+Tue Aug 31 15:07:50 2021,FlexmiXmlParser.java,alfonsodelavega
+Wed Sep  1  8:06:00 2021,EglTemplate.java,alfonsodelavega
+Wed Sep  1  8:06:00 2021,TemplateFactory.java,alfonsodelavega
+Wed Sep  1  8:06:00 2021,FlexmiXmlParser.java,alfonsodelavega
+Wed Sep  1  8:06:19 2021,FlexmiTests.java,alfonsodelavega
+Wed Sep  1  8:06:19 2021,TemplateTests.java,alfonsodelavega
+Wed Sep  1  8:06:19 2021,imported-egl-templates.flexmi,alfonsodelavega
+Wed Sep  1  8:06:19 2021,imported-egl-templates.yaml,alfonsodelavega
+Wed Sep  1  8:06:19 2021,imported-template.yaml,alfonsodelavega
+Wed Sep  1  8:06:19 2021,model-with-egl-template-and-slot.yaml,alfonsodelavega
+Wed Sep  1  8:06:19 2021,model-with-egl-templates-importing.flexmi,alfonsodelavega
+Wed Sep  1  8:06:19 2021,model-with-egl-templates-importing.yaml,alfonsodelavega
+Wed Sep  1  8:06:19 2021,model-with-egl-templates-including-mixed.flexmi,alfonsodelavega
+Wed Sep  1  8:06:19 2021,model-with-egl-templates-including-mixed.yaml,alfonsodelavega
+Wed Sep  1  8:06:19 2021,model-with-egl-templates-including.flexmi,alfonsodelavega
+Wed Sep  1  8:06:19 2021,model-with-egl-templates-including.yaml,alfonsodelavega
+Wed Sep  1  8:06:19 2021,model-with-imported-template-mixed-flavour.flexmi,alfonsodelavega
+Wed Sep  1  8:06:19 2021,model-with-imported-template-mixed-flavour.yaml,alfonsodelavega
+Wed Sep  1  8:06:19 2021,model-with-imported-template.yaml,alfonsodelavega
+Wed Sep  1  8:06:19 2021,model-with-included-template-mixed-flavour.flexmi,alfonsodelavega
+Wed Sep  1  8:06:19 2021,model-with-included-template-mixed-flavour.yaml,alfonsodelavega
+Wed Sep  1  8:06:19 2021,model-with-included-template.flexmi,alfonsodelavega
+Wed Sep  1  8:06:19 2021,model-with-included-template.yaml,alfonsodelavega

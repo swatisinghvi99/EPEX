@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Tue Jan  8 12:04:25 2008,plugin.xml,dkelsey
+Tue Jan  8 12:04:25 2008,XDebugVariableValueEditor.java,dkelsey
+Tue Jan  8 12:04:29 2008,DBGpStringValue.java,dkelsey
+Tue Jan  8 12:04:29 2008,DBGpTarget.java,dkelsey
+Tue Jan  8 12:04:29 2008,DBGpVariable.java,dkelsey
+Tue Jan  8 12:04:29 2008,DBGpCommand.java,dkelsey
+Thu Jan 10  7:45:15 2008,XDebugWebLaunchConfigurationDelegate.java,dkelsey
+Thu Jan 10  7:45:15 2008,DBGpMultiSessionTarget.java,dkelsey
+Thu Jan 10  7:45:15 2008,DBGpTarget.java,dkelsey
+Thu Jan 10  7:45:15 2008,DBGpSessionHandler.java,dkelsey
+Thu Jan 10  7:45:15 2008,DBGpSessionListener.java,dkelsey
+Sat Jan 26 16:35:10 2008,PHPDebugCoreMessages.java,dkelsey
+Sat Jan 26 16:35:10 2008,PHPDebugCoreMessages.properties,dkelsey
+Sat Jan 26 16:35:10 2008,PHPDebugPlugin.java,dkelsey
+Sat Jan 26 16:35:10 2008,XDebugExeLaunchConfigurationDelegate.java,dkelsey
+Sat Jan 26 16:35:10 2008,XDebugWebLaunchConfigurationDelegate.java,dkelsey
+Sat Jan 26 16:35:10 2008,XDebugUIAttributeConstants.java,dkelsey
+Sat Jan 26 16:35:10 2008,DBGpProxyHandler.java,dkelsey
+Sat Jan 26 16:35:10 2008,XDebugConfigurationDialog.java,dkelsey
+Sat Jan 26 16:35:10 2008,XDebugDebuggerConfiguration.java,dkelsey
+Sat Jan 26 16:35:10 2008,DBGpStackFrame.java,dkelsey
+Sat Jan 26 16:35:10 2008,DBGpResponse.java,dkelsey
+Sat Jan 26 16:35:10 2008,DBGpUtils.java,dkelsey

@@ -1,0 +1,52 @@
+[
+    [
+        "George Adams",
+        "yml",
+        1
+    ],
+    [
+        "George Adams",
+        "json",
+        7
+    ],
+    [
+        "George Adams",
+        "js",
+        6
+    ],
+    [
+        "George Adams",
+        "tsx",
+        16
+    ],
+    [
+        "George Adams",
+        "snap",
+        9
+    ],
+    [
+        "Tim Ellison",
+        "js",
+        7
+    ],
+    [
+        "Tim Ellison",
+        "json",
+        1
+    ],
+    [
+        "dependabot[bot]",
+        "js",
+        5
+    ],
+    [
+        "dependabot[bot]",
+        "json",
+        2
+    ],
+    [
+        "dependabot[bot]",
+        "tsx",
+        1
+    ]
+]

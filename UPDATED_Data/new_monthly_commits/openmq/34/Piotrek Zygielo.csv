@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Fri Oct 16 11:58:06 2020,DirectConnection.java,Piotrek Zygielo
+Fri Oct 16 11:58:06 2020,DirectConnectionFactory.java,Piotrek Zygielo
+Fri Oct 16 11:58:06 2020,DirectSession.java,Piotrek Zygielo
+Fri Oct 23  9:43:06 2020,BrokerErrorEvent.java,Piotrek Zygielo
+Fri Oct 23 10:43:49 2020,ReadOnlyPacket.java,Piotrek Zygielo
+Fri Oct 23 10:43:49 2020,ReadWritePacket.java,Piotrek Zygielo
+Fri Oct 23 10:57:31 2020,Destination.java,Piotrek Zygielo
+Fri Oct 23 10:57:31 2020,Queue.java,Piotrek Zygielo
+Fri Oct 23 18:56:28 2020,ConnectionMetaData.java,Piotrek Zygielo
+Fri Oct 23 21:30:19 2020,ConnectionMetaDataImplTest.java,Piotrek Zygielo
+Fri Oct 23 21:30:19 2020,ConnectionMetaDataTest.java,Piotrek Zygielo
+Fri Oct 23 22:30:13 2020,ConnectionMetaDataImplTest.java,Piotrek Zygielo
+Fri Oct 23 22:30:13 2020,ConnectionMetaDataTest.java,Piotrek Zygielo
+Sun Oct 25 20:58:37 2020,ReceiveQueue.java,Piotrek Zygielo
+Mon Nov  2 13:10:02 2020,DirectBytesPacket.java,Piotrek Zygielo
+Mon Nov  2 14:21:24 2020,XMLDataBuilder.java,Piotrek Zygielo

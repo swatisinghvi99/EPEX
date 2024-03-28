@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Tue Oct 18 23:51:57 2016,pom.xml,Chris Custine
+Tue Oct 18 23:51:57 2016,build_equinox_distrib.xml,Chris Custine
+Tue Oct 18 23:51:57 2016,kura.service,Chris Custine
+Tue Oct 18 23:51:57 2016,README.md,Chris Custine
+Tue Oct 18 23:51:57 2016,iptables.init,Chris Custine
+Tue Oct 18 23:51:57 2016,jdk.dio.properties,Chris Custine
+Tue Oct 18 23:51:57 2016,kura.properties,Chris Custine
+Tue Oct 18 23:51:57 2016,kura_install.sh,Chris Custine
+Tue Oct 18 23:51:57 2016,kura_upgrade.sh,Chris Custine
+Tue Oct 18 23:51:57 2016,kuranet.conf,Chris Custine
+Tue Oct 18 23:51:57 2016,log4j.properties,Chris Custine
+Tue Oct 18 23:51:57 2016,recover_default_config.init,Chris Custine
+Tue Oct 18 23:51:57 2016,snapshot_0.xml,Chris Custine
+Tue Oct 18 23:51:57 2016,LinuxNamed.java,Chris Custine
+Tue Oct 18 23:51:57 2016,KuraConstants.java,Chris Custine

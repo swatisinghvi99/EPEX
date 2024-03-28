@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Wed Aug 21 20:45:39 2002,ILaunchConfigurationType.java,jszursze
+Wed Aug 21 20:45:39 2002,LaunchConfiguration.java,jszursze
+Wed Aug 21 20:45:39 2002,LaunchConfigurationType.java,jszursze
+Wed Aug 21 20:45:39 2002,plugin.properties,jszursze
+Wed Aug 21 20:45:39 2002,plugin.xml,jszursze
+Wed Aug 21 20:45:39 2002,DebugUIAdapterFactory.java,jszursze
+Wed Aug 21 20:45:39 2002,DebugUIPlugin.java,jszursze
+Wed Aug 21 20:45:39 2002,IDebugHelpContextIds.java,jszursze
+Wed Aug 21 20:45:39 2002,LaunchConfigurationClearWorkingSetAction.java,jszursze
+Wed Aug 21 20:45:39 2002,LaunchConfigurationDialog.java,jszursze
+Wed Aug 21 20:45:39 2002,LaunchConfigurationSelectWorkingSetAction.java,jszursze
+Wed Aug 21 20:45:39 2002,LaunchConfigurationTreeContentProvider.java,jszursze
+Wed Aug 21 20:45:39 2002,LaunchConfigurationWorkingSetActionManager.java,jszursze
+Wed Aug 21 20:45:39 2002,LaunchConfigurationWorkingSetComparator.java,jszursze
+Wed Aug 21 20:45:39 2002,LaunchConfigurationWorkingSetFilter.java,jszursze
+Wed Aug 21 20:45:39 2002,LaunchConfigurationWorkingSetMenuContributionItem.java,jszursze
+Wed Aug 21 20:45:39 2002,LaunchConfigurationWorkingSetPage.java,jszursze
+Wed Aug 21 20:45:39 2002,LaunchConfigurationsMessages.properties,jszursze
+Wed Aug 21 20:45:39 2002,PersistableLaunchConfigurationFactory.java,jszursze
+Wed Aug 21 20:45:39 2002,PersistableLaunchConfigurationTypeFactory.java,jszursze
+Wed Aug 21 20:45:39 2002,IDebugPreferenceConstants.java,jszursze
+Thu Aug 22 15:37:44 2002,LaunchConfigurationWorkingSetActionManager.java,jszursze
+Mon Aug 26 19:45:30 2002,LaunchConfigurationDialog.java,jszursze
+Mon Aug 26 19:45:30 2002,LaunchConfigurationWorkingSetActionManager.java,jszursze
+Mon Aug 26 19:45:30 2002,LaunchConfigurationsMessages.properties,jszursze

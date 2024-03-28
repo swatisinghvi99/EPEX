@@ -1,0 +1,172 @@
+[
+    [
+        "Sean Evoy",
+        "java",
+        3
+    ],
+    [
+        "Sean Evoy",
+        "unknown",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "java",
+        27
+    ],
+    [
+        "Bogdan Gheorghe",
+        "unknown",
+        8
+    ],
+    [
+        "Bogdan Gheorghe",
+        "xml",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "properties",
+        2
+    ],
+    [
+        "John Camelon",
+        "java",
+        185
+    ],
+    [
+        "Hoda Amer",
+        "unknown",
+        8
+    ],
+    [
+        "Hoda Amer",
+        "java",
+        9
+    ],
+    [
+        "Hoda Amer",
+        "properties",
+        2
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "unknown",
+        26
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        54
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "properties",
+        4
+    ],
+    [
+        "David Inglis",
+        "java",
+        63
+    ],
+    [
+        "David Inglis",
+        "properties",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "unknown",
+        36
+    ],
+    [
+        "Alain Magloire",
+        "java",
+        191
+    ],
+    [
+        "Alain Magloire",
+        "classpath",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "properties",
+        12
+    ],
+    [
+        "Alain Magloire",
+        "xml",
+        5
+    ],
+    [
+        "Alain Magloire",
+        "c",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "cpp",
+        1
+    ],
+    [
+        "Andrew Niefer",
+        "java",
+        237
+    ],
+    [
+        "Andrew Niefer",
+        "unknown",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        14
+    ],
+    [
+        "Doug Schaefer",
+        "properties",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "xml",
+        4
+    ],
+    [
+        "Doug Schaefer",
+        "cdtproject",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "classpath",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "cvsignore",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "project",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "unknown",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "h",
+        8
+    ],
+    [
+        "Doug Schaefer",
+        "c",
+        7
+    ]
+]

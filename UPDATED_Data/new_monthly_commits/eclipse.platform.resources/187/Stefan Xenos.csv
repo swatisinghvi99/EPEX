@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Thu Nov  3 13:47:40 2016,AutoBuildJob.java,Stefan Xenos
+Thu Nov  3 13:47:40 2016,CharsetDeltaJob.java,Stefan Xenos
+Thu Nov  3 13:47:40 2016,CharsetManager.java,Stefan Xenos
+Thu Nov  3 13:47:40 2016,Container.java,Stefan Xenos
+Thu Nov  3 13:47:40 2016,ContentDescriptionManager.java,Stefan Xenos
+Thu Nov  3 13:47:40 2016,File.java,Stefan Xenos
+Thu Nov  3 13:47:40 2016,Folder.java,Stefan Xenos
+Thu Nov  3 13:47:40 2016,InternalWorkspaceJob.java,Stefan Xenos
+Thu Nov  3 13:47:40 2016,Marker.java,Stefan Xenos
+Thu Nov  3 13:47:40 2016,Project.java,Stefan Xenos
+Thu Nov  3 13:47:40 2016,ProjectPathVariableManager.java,Stefan Xenos
+Thu Nov  3 13:47:40 2016,Resource.java,Stefan Xenos
+Thu Nov  3 13:47:40 2016,SaveManager.java,Stefan Xenos
+Thu Nov  3 13:47:40 2016,SavedState.java,Stefan Xenos
+Thu Nov  3 13:47:40 2016,Synchronizer.java,Stefan Xenos
+Thu Nov  3 13:47:40 2016,Workspace.java,Stefan Xenos
+Thu Nov  3 13:47:40 2016,Policy.java,Stefan Xenos
+Thu Nov  3 13:47:40 2016,FilteredResourceTest.java,Stefan Xenos
+Thu Nov  3 18:13:02 2016,FileSystemResourceManager.java,Stefan Xenos
+Thu Nov  3 18:13:02 2016,MonitorManager.java,Stefan Xenos
+Thu Nov  3 18:13:02 2016,Resource.java,Stefan Xenos
+Thu Nov  3 18:13:02 2016,FileUtil.java,Stefan Xenos

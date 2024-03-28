@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Tue Mar  2 14:50:00 2021,MigrationCommandLine.java,Laurent Fasani
+Tue Mar  2 14:50:00 2021,RepresentationHelper.java,Laurent Fasani
+Tue Mar  2 14:50:00 2021,CapellaServices.java,Laurent Fasani
+Tue Mar  2 14:50:00 2021,RefreshDiagramsCommandHandler.java,Laurent Fasani
+Tue Mar  2 14:50:00 2021,SessionHelper.java,Laurent Fasani
+Tue Mar  2 14:50:00 2021,DiagramHelper.java,Laurent Fasani
+Tue Mar  2 14:50:00 2021,RefreshAllOnDisabledProject.java,Laurent Fasani
+Tue Mar  2 14:50:00 2021,RefreshAllOnEnabledProject.java,Laurent Fasani
+Tue Mar  2 14:50:00 2021,RefreshAllOnNonCustomizedProject.java,Laurent Fasani
+Tue Mar  2 14:50:00 2021,RefreshAllSubRepresentations.java,Laurent Fasani
+Tue Mar  2 14:50:00 2021,SpecificSettings.java,Laurent Fasani
+Tue Mar  2 14:50:00 2021,DiagramActionsTestSuite.java,Laurent Fasani
+Tue Mar  2 14:50:00 2021,GuiActions.java,Laurent Fasani

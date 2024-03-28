@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Wed Feb 17 15:58:38 2021,TimeoutConstants.ts,Shmaraiev Oleksandr
+Wed Feb 17 15:58:38 2021,DebugView.ts,Shmaraiev Oleksandr
+Wed Feb 17 15:58:38 2021,Ide.ts,Shmaraiev Oleksandr
+Wed Feb 17 15:58:38 2021,GitSsh.spec.ts,Shmaraiev Oleksandr
+Wed Feb 17 15:58:38 2021,HappyPath.spec.ts,Shmaraiev Oleksandr
+Sun Feb 21 15:30:13 2021,DebugView.ts,Shmaraiev Oleksandr
+Sun Feb 21 15:30:13 2021,GitSsh.spec.ts,Shmaraiev Oleksandr
+Sun Feb 21 15:30:13 2021,HappyPath.spec.ts,Shmaraiev Oleksandr
+Mon Feb 22 12:33:38 2021,TimeoutConstants.ts,Shmaraiev Oleksandr
+Mon Feb 22 12:33:38 2021,OpenshiftConnector.spec.ts,Shmaraiev Oleksandr
+Wed Feb 24 12:40:29 2021,GitSsh.spec.ts,Shmaraiev Oleksandr
+Fri Feb 26  8:03:08 2021,DevWorkspaceHappyPath.spec.ts,Shmaraiev Oleksandr
+Tue Mar  2 11:14:51 2021,TimeoutConstants.ts,Shmaraiev Oleksandr

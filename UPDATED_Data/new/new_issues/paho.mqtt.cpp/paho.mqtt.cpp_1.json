@@ -1,0 +1,17 @@
+[
+    [
+        "UsesWincrt",
+        "mprync",
+        1
+    ],
+    [
+        "UsesWincrt",
+        "fpagliughi",
+        1
+    ],
+    [
+        "UsesWincrt",
+        "UsesWincrt",
+        1
+    ]
+]

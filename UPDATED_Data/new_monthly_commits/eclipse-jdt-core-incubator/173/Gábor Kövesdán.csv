@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Mon Nov  2  3:49:09 2015,AbstractJavaModelCompletionTests.java,Gábor Kövesdán
+Mon Nov  2  3:49:09 2015,RunCompletionModelTests.java,Gábor Kövesdán
+Mon Nov  2  3:49:09 2015,SubstringCompletionTests.java,Gábor Kövesdán
+Mon Nov  2  3:49:09 2015,CompletionEngine.java,Gábor Kövesdán
+Mon Nov  2  3:49:09 2015,AssistOptions.java,Gábor Kövesdán
+Mon Nov  2  3:49:09 2015,CharOperation.java,Gábor Kövesdán
+Mon Nov  2  3:49:09 2015,JavaCore.java,Gábor Kövesdán
+Mon Nov  2  3:49:09 2015,JavaCorePreferenceInitializer.java,Gábor Kövesdán
+Mon Nov  2  3:49:09 2015,JavaModelManager.java,Gábor Kövesdán

@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Fri Jun 12  3:32:18 2020,Constants.java,renfeiw
+Fri Jun 12  3:32:18 2020,TestDivider.java,renfeiw
+Mon Jun 22 20:41:30 2020,Arguments.java,renfeiw
+Mon Jun 22 20:41:30 2020,DirectoryVisitor.java,renfeiw
+Mon Jun 22 20:41:30 2020,DirectoryWalker.java,renfeiw
+Mon Jun 22 20:41:30 2020,MainRunner.java,renfeiw
+Mon Jun 22 20:41:30 2020,MkGen.java,renfeiw
+Mon Jun 22 20:41:30 2020,ModesDictionary.java,renfeiw
+Mon Jun 22 20:41:30 2020,ParallelGenVisitor.java,renfeiw
+Mon Jun 22 20:41:30 2020,PlaylistInfo.java,renfeiw
+Mon Jun 22 20:41:30 2020,TestDivider.java,renfeiw
+Mon Jun 22 20:41:30 2020,TestGenVisitor.java,renfeiw
+Mon Jun 22 20:41:30 2020,TestInfo.java,renfeiw
+Mon Jun 22 20:41:30 2020,UtilsGen.java,renfeiw
+Mon Jun 22 20:41:30 2020,Variation.java,renfeiw
+Thu Jul  2 15:12:26 2020,makefile,renfeiw
+Thu Jul  2 15:12:26 2020,EnvDetector.java,renfeiw
+Thu Jul  2 15:12:26 2020,MachineInfo.java,renfeiw
+Fri Jul  3 16:56:42 2020,.gitignore,renfeiw
+Fri Jul  3 16:56:42 2020,Constants.java,renfeiw
+Fri Jul  3 16:56:42 2020,TestDivider.java,renfeiw

@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Fri Dec 22 15:47:10 2017,index_config.rst,Anthony Fox
+Fri Dec 22 15:47:10 2017,index.rst,Anthony Fox
+Fri Dec 22 15:47:10 2017,index_config.rst,Anthony Fox
+Fri Dec 22 15:47:10 2017,usage.rst,Anthony Fox
+Fri Dec 22 15:47:10 2017,HBaseFeatureIndex.scala,Anthony Fox
+Fri Dec 22 15:47:10 2017,HBaseCreateSchemaCommand.scala,Anthony Fox
+Fri Dec 22 15:47:10 2017,CreateSchemaCommand.scala,Anthony Fox
+Fri Dec 22 15:47:10 2017,Conversions.scala,Anthony Fox
+Fri Dec 22 15:47:10 2017,SimpleFeatureTypes.scala,Anthony Fox
+Wed Dec 27 16:17:39 2017,HBaseAttributeIndex.scala,Anthony Fox
+Wed Dec 27 16:17:39 2017,HBaseFeatureIndex.scala,Anthony Fox
+Wed Dec 27 16:17:39 2017,HBaseXZ2Index.scala,Anthony Fox
+Wed Dec 27 16:17:39 2017,HBaseXZ3Index.scala,Anthony Fox
+Wed Dec 27 16:17:39 2017,HBaseZ2Index.scala,Anthony Fox
+Wed Dec 27 16:17:39 2017,HBaseZ3Index.scala,Anthony Fox

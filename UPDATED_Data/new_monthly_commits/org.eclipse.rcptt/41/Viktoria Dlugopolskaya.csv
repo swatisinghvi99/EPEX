@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Tue Oct 10  4:35:08 2017,GetItems.java,Viktoria Dlugopolskaya
+Tue Oct 10  4:35:08 2017,GetItemsResponse.java,Viktoria Dlugopolskaya
+Tue Oct 10  4:35:08 2017,ProtocolFactory.java,Viktoria Dlugopolskaya
+Tue Oct 10  4:35:08 2017,ProtocolPackage.java,Viktoria Dlugopolskaya
+Tue Oct 10  4:35:08 2017,GetItemsImpl.java,Viktoria Dlugopolskaya
+Tue Oct 10  4:35:08 2017,GetItemsResponseImpl.java,Viktoria Dlugopolskaya
+Tue Oct 10  4:35:08 2017,ProtocolFactoryImpl.java,Viktoria Dlugopolskaya
+Tue Oct 10  4:35:08 2017,ProtocolPackageImpl.java,Viktoria Dlugopolskaya
+Tue Oct 10  4:35:08 2017,ProtocolAdapterFactory.java,Viktoria Dlugopolskaya
+Tue Oct 10  4:35:08 2017,ProtocolSwitch.java,Viktoria Dlugopolskaya
+Tue Oct 10  4:35:08 2017,protocol.ecore,Viktoria Dlugopolskaya
+Tue Oct 10  4:35:08 2017,GetComboItemsService.java,Viktoria Dlugopolskaya
+Tue Oct 10  4:35:08 2017,SWTUIProcessor.java,Viktoria Dlugopolskaya
+Mon Oct 16  3:31:21 2017,ControlUIElement.java,Viktoria Dlugopolskaya
+Mon Oct 16  3:31:21 2017,TeslaParserUtil.java,Viktoria Dlugopolskaya
+Mon Oct 16  3:31:21 2017,TeslaSelectorParser.java,Viktoria Dlugopolskaya
+Mon Oct 16  3:31:21 2017,SWTWidgetLocator.java,Viktoria Dlugopolskaya
+Mon Oct 16  3:31:21 2017,GetMenu.test,Viktoria Dlugopolskaya
+Mon Oct 16  3:31:21 2017,SWTWidgetLocator.java,Viktoria Dlugopolskaya
+Mon Oct 16  3:31:21 2017,SWTUIPlayer.java,Viktoria Dlugopolskaya
+Fri Oct 27 14:44:24 2017,WorkspaceContextProcessor.java,Viktoria Dlugopolskaya

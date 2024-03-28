@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Wed Apr 22  6:13:09 2020,pom.xml,Galina Shvetsova
+Wed Apr 22  6:13:09 2020,SWTUIPlayer.java,Galina Shvetsova
+Wed Apr 22  6:47:51 2020,IContext.java,Galina Shvetsova
+Wed Apr 22  6:47:51 2020,Q7Context.java,Galina Shvetsova
+Wed Apr 22  6:47:51 2020,Q7InternalContext.java,Galina Shvetsova
+Wed Apr 22  6:47:51 2020,IProcess.java,Galina Shvetsova
+Wed Apr 22  6:47:51 2020,PrepareExecutionWrapper.java,Galina Shvetsova
+Wed Apr 22  6:47:51 2020,BaseAutLaunch.java,Galina Shvetsova
+Wed Apr 22  6:47:51 2020,FailToExecuteDefaultContext.java,Galina Shvetsova
+Wed Apr 22  6:47:51 2020,ExecAdvancedInfoUtil.java,Galina Shvetsova
+Wed Apr 22  6:47:51 2020,EditorHeader.java,Galina Shvetsova
+Wed Apr 22  6:47:51 2020,RunnerConfiguration.java,Galina Shvetsova
+Wed Apr 22  6:47:51 2020,ScenarioRunnable.java,Galina Shvetsova
+Wed Apr 22  6:47:51 2020,ResultsHandler.java,Galina Shvetsova
+Wed Apr 22  6:47:51 2020,TestResult.java,Galina Shvetsova
+Wed Apr 22  6:47:51 2020,WorkbenchContextProcessor.java,Galina Shvetsova
+Wed Apr 22  6:47:51 2020,UIRunnable.java,Galina Shvetsova
+Wed Apr 22  6:47:51 2020,Utils.java,Galina Shvetsova
+Wed Apr 22  6:52:05 2020,SWTEventRecorder.java,Galina Shvetsova

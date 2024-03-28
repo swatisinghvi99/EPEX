@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Sun Nov  2  1:51:35 2008,TclCheckContentExcludeInputDialog.java,jgangemi
+Sun Nov  2 18:36:45 2008,plugin.properties,jgangemi
+Sun Nov  2 18:36:45 2008,plugin.xml,jgangemi
+Sun Nov  2 18:36:45 2008,TclCorePreferenceInitializer.java,jgangemi
+Sun Nov  2 18:36:45 2008,TclTodoParserType.java,jgangemi
+Sun Nov  2 18:36:52 2008,plugin.properties,jgangemi
+Sun Nov  2 18:36:52 2008,plugin.xml,jgangemi
+Sun Nov  2 18:36:52 2008,TclTodoTaskPreferencePage.java,jgangemi
+Sun Nov  2 18:36:52 2008,TclSourceViewerConfiguration.java,jgangemi
+Sun Nov  2 20:52:53 2008,MANIFEST.MF,jgangemi
+Sun Nov  2 20:52:53 2008,TclActiveStateDebuggerPreferencePage.java,jgangemi
+Sun Nov  2 20:53:10 2008,TclCorePreferencePage.java,jgangemi
+Sun Nov  2 20:53:10 2008,TclTodoTaskPreferencePage.java,jgangemi
+Sun Nov  2 20:53:19 2008,TclDebugPreferencePage.java,jgangemi
+Sun Nov  2 20:53:19 2008,TclDebuggingEnginePreferencePage.java,jgangemi

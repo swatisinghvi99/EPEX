@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Sat Dec 31  9:52:36 2022,CMakeLists.txt,Alexandre MUNSCH
+Sat Dec 31  9:52:36 2022,AbstractPcscReaderAdapter.cpp,Alexandre MUNSCH
+Sat Dec 31  9:52:36 2022,AbstractPcscReaderAdapter.h,Alexandre MUNSCH
+Sat Dec 31  9:52:36 2022,PcscReader.h,Alexandre MUNSCH
+Sat Dec 31  9:55:39 2022,CMakeLists.txt,Alexandre MUNSCH
+Sat Dec 31  9:55:39 2022,AbstractPcscReaderAdapter.cpp,Alexandre MUNSCH
+Sat Dec 31 10:41:29 2022,AbstractPcscReaderAdapter.cpp,Alexandre MUNSCH
+Sat Dec 31 10:41:29 2022,AbstractPcscReaderAdapter.h,Alexandre MUNSCH
+Sat Dec 31 10:41:29 2022,PcscReader.h,Alexandre MUNSCH
+Sat Dec 31 10:41:29 2022,CardTerminal.cpp,Alexandre MUNSCH
+Sat Dec 31 10:41:29 2022,CardTerminal.h,Alexandre MUNSCH

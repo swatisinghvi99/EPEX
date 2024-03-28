@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Wed Jun 29 18:03:58 2016,CriticalPathTest.java,Marc-Andre Laperle
+Wed Jul  6  3:48:11 2016,UstDebugInfoAnalysisModule.java,Marc-Andre Laperle
+Fri Jul  8  4:04:53 2016,User-Guide.mediawiki,Marc-Andre Laperle
+Fri Jul  8  4:04:53 2016,feature.xml,Marc-Andre Laperle
+Fri Jul  8  4:04:53 2016,pom.xml,Marc-Andre Laperle
+Fri Jul  8  4:04:53 2016,tracecompass-e4.5.target,Marc-Andre Laperle
+Fri Jul  8  4:04:53 2016,tracecompass-e4.6.target,Marc-Andre Laperle
+Fri Jul  8  4:04:53 2016,tracecompass-eStaging.target,Marc-Andre Laperle
+Fri Jul  8  4:04:53 2016,MANIFEST.MF,Marc-Andre Laperle
+Fri Jul  8  4:04:53 2016,ManageXMLAnalysisDialog.java,Marc-Andre Laperle
+Fri Jul  8  4:04:53 2016,Messages.java,Marc-Andre Laperle
+Fri Jul  8  4:04:53 2016,messages.properties,Marc-Andre Laperle
+Tue Jul 12 21:04:21 2016,MANIFEST.MF,Marc-Andre Laperle
+Tue Jul 12 21:04:21 2016,SegmentStoreStatistics.java,Marc-Andre Laperle
+Tue Jul 12 21:04:21 2016,MANIFEST.MF,Marc-Andre Laperle
+Tue Jul 12 21:04:21 2016,AbstractSegmentStoreStatisticsViewer.java,Marc-Andre Laperle
+Tue Jul 12 21:04:21 2016,Messages.java,Marc-Andre Laperle
+Tue Jul 12 21:04:21 2016,messages.properties,Marc-Andre Laperle
+Thu Jul 14 17:04:30 2016,FindDialogTestBase.java,Marc-Andre Laperle
+Thu Jul 14 17:04:30 2016,SWTBotUtils.java,Marc-Andre Laperle
+Thu Jul 14 17:04:47 2016,ProjectExplorerTraceActionsTest.java,Marc-Andre Laperle
+Mon Jul 25 19:54:19 2016,PatternLatencyViewTestBase.java,Marc-Andre Laperle
+Mon Jul 25 19:54:19 2016,ConditionHelpers.java,Marc-Andre Laperle
+Mon Jul 25 19:54:19 2016,SWTBotUtils.java,Marc-Andre Laperle
+Wed Jul 27 18:49:37 2016,ControlFlowViewTest.java,Marc-Andre Laperle

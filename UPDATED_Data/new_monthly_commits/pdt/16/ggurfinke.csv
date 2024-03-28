@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Wed Aug  8 10:11:58 2007,IWorkspaceModelListener.java,ggurfinke
+Wed Aug  8 10:11:58 2007,PHPIncludePathModelManager.java,ggurfinke
+Wed Aug  8 10:11:58 2007,PHPWorkspaceModelManager.java,ggurfinke
+Wed Aug  8 10:11:58 2007,DefaultPHPBuilderExtension.java,ggurfinke
+Wed Aug  8 10:12:05 2007,ProjectOutlineContentProvider.java,ggurfinke
+Thu Aug 16 13:20:50 2007,ContentAssistSupport.java,ggurfinke
+Thu Aug 16 14:05:16 2007,PHPFileCreationWizardPage.java,ggurfinke
+Thu Aug 16 14:11:23 2007,CorePreferenceConstants.java,ggurfinke
+Sun Aug 19 14:46:53 2007,ContentAssistSupport.java,ggurfinke
+Sun Aug 19 14:46:53 2007,PHPCompletionRendererVisitor.java,ggurfinke
+Mon Aug 20 16:26:23 2007,DeployFilter.java,ggurfinke
+Mon Aug 20 16:27:48 2007,PHPNature.java,ggurfinke
+Tue Aug 21  8:54:40 2007,FormatterUtils.java,ggurfinke
+Tue Aug 21 12:02:27 2007,PHPValidator.java,ggurfinke
+Wed Aug 22 15:52:13 2007,IncludePathTreeContent.java,ggurfinke
+Sun Aug 26 12:34:46 2007,PHPContentAssistProcessor.java,ggurfinke
+Wed Aug 29 15:54:32 2007,IncludePathTreeContent.java,ggurfinke
+Wed Aug 29 16:52:06 2007,DefaultCacheManager.java,ggurfinke
+Thu Aug 30 10:48:40 2007,PHPStructuredEditor.java,ggurfinke
+Thu Aug 30 14:18:19 2007,PreferenceConstants.java,ggurfinke

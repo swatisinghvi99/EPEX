@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Thu Jul  6 14:48:24 2023,CHANGELOG.md,Thomas Mäder
+Thu Jul  6 14:48:24 2023,keybinding.ts,Thomas Mäder
+Thu Jul  6 14:48:24 2023,tab-bar-toolbar.tsx,Thomas Mäder
+Thu Jul  6 14:48:24 2023,tree-view-widget.tsx,Thomas Mäder
+Thu Jul  6 14:48:24 2023,toolbar.tsx,Thomas Mäder
+Mon Jul 24 12:41:01 2023,CHANGELOG.md,Thomas Mäder
+Mon Jul 24 12:41:01 2023,plugin-api-rpc.ts,Thomas Mäder
+Mon Jul 24 12:41:01 2023,workspace-main.ts,Thomas Mäder
+Mon Jul 24 12:41:01 2023,plugin-context.ts,Thomas Mäder
+Mon Jul 24 12:41:01 2023,plugin-manager.ts,Thomas Mäder
+Mon Jul 24 12:41:01 2023,workspace.ts,Thomas Mäder
+Mon Jul 24 12:41:01 2023,theia.d.ts,Thomas Mäder
+Mon Jul 24 12:41:01 2023,theia.proposed.canonicalUriProvider.d.ts,Thomas Mäder
+Mon Jul 24 12:41:01 2023,canonical-uri-service.ts,Thomas Mäder
+Mon Jul 24 12:41:01 2023,index.ts,Thomas Mäder
+Mon Jul 24 12:41:01 2023,workspace-frontend-module.ts,Thomas Mäder

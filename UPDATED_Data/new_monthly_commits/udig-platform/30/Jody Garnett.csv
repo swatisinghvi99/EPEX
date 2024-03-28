@@ -1,0 +1,596 @@
+date_time,file,committer_name
+Tue Sep 11  1:14:51 2012,JGrassServiceMover.java,Jody Garnett
+Tue Sep 11  1:14:51 2012,ShpImageMoasicAdaptorFactory.java,Jody Garnett
+Tue Sep 11  1:14:51 2012,ShapeMoverAdaptorFactory.java,Jody Garnett
+Tue Sep 11  1:14:51 2012,DummyResolverFactory.java,Jody Garnett
+Tue Sep 11  1:14:51 2012,WMSCTileSetAdapter.java,Jody Garnett
+Tue Sep 11  1:14:51 2012,IResolveAdapterFactory.java,Jody Garnett
+Tue Sep 11  1:14:51 2012,IResolveAdapterFactory2.java,Jody Garnett
+Tue Sep 11  1:14:51 2012,CatalogImpl.java,Jody Garnett
+Tue Sep 11  1:14:51 2012,ResolveManager.java,Jody Garnett
+Tue Sep 11  1:14:51 2012,ResolveManager2.java,Jody Garnett
+Tue Sep 11  1:14:51 2012,ResolversFactory.java,Jody Garnett
+Tue Sep 11  1:14:51 2012,BasicHotlinkResolveFactory.java,Jody Garnett
+Tue Sep 11  1:14:51 2012,ShpDocumentResolveFactory.java,Jody Garnett
+Tue Sep 11  1:14:51 2012,CSVColorFactory.java,Jody Garnett
+Tue Sep 11  6:22:39 2012,net.refractions.udig.catalog.tests.geotiff.launch,Jody Garnett
+Tue Sep 11  6:22:39 2012,net.refractions.udig.catalog.tests.launch,Jody Garnett
+Tue Sep 11  6:22:39 2012,ResolveManagerTest.java,Jody Garnett
+Tue Sep 11  6:22:39 2012,resolvers.exsd,Jody Garnett
+Tue Sep 11  6:22:39 2012,CatalogPlugin.java,Jody Garnett
+Tue Sep 11  6:22:39 2012,IResolveManager.java,Jody Garnett
+Tue Sep 11  6:22:39 2012,ResolveAdapterFactory.java,Jody Garnett
+Tue Sep 11  6:22:39 2012,ResolveManager.java,Jody Garnett
+Tue Sep 11  6:22:39 2012,ResolveManager2.java,Jody Garnett
+Tue Sep 11  6:22:39 2012,GridCoverageReaderRenderer.java,Jody Garnett
+Tue Sep 11  8:03:40 2012,ShapeCatalogTest.java,Jody Garnett
+Tue Sep 11  8:03:40 2012,ServiceFactoryImpl.java,Jody Garnett
+Thu Sep 13  0:28:03 2012,ResourceSearchComposite.java,Jody Garnett
+Thu Sep 13  0:28:03 2012,ResourceSelectionState.java,Jody Garnett
+Thu Sep 13  0:28:03 2012,MapImport.java,Jody Garnett
+Thu Sep 13  2:09:55 2012,pom.xml,Jody Garnett
+Thu Sep 13  2:50:16 2012,feature.xml,Jody Garnett
+Thu Sep 13  2:50:16 2012,MANIFEST.MF,Jody Garnett
+Thu Sep 13  2:50:16 2012,net.refractions.udig.catalog.tests.launch,Jody Garnett
+Thu Sep 13  2:50:16 2012,.project,Jody Garnett
+Thu Sep 13  2:50:16 2012,plugin.xml,Jody Garnett
+Thu Sep 13  2:50:16 2012,InfoPlugin.java,Jody Garnett
+Thu Sep 13  2:50:16 2012,.project,Jody Garnett
+Thu Sep 13  2:50:16 2012,MANIFEST.MF,Jody Garnett
+Thu Sep 13  5:34:59 2012,DocumentView.java,Jody Garnett
+Thu Sep 13 14:15:46 2012,MANIFEST.MF,Jody Garnett
+Thu Sep 13 14:15:46 2012,pom.xml,Jody Garnett
+Thu Sep 13 14:15:46 2012,CatalogImport.java,Jody Garnett
+Thu Sep 13 14:15:46 2012,ResourceSearchState.java,Jody Garnett
+Thu Sep 13 14:15:46 2012,State.java,Jody Garnett
+Fri Sep 14  4:02:26 2012,DataStoreParameterPage.java,Jody Garnett
+Fri Sep 14  4:02:26 2012,CatalogImport.java,Jody Garnett
+Fri Sep 14  4:02:26 2012,IResolveAdapterFactory.java,Jody Garnett
+Fri Sep 14  4:02:26 2012,ResourceSelectionPage.java,Jody Garnett
+Fri Sep 14  4:02:26 2012,CatalogExport.java,Jody Garnett
+Fri Sep 14  4:02:26 2012,CatalogExportWizard.java,Jody Garnett
+Fri Sep 14  4:02:26 2012,ResourceSearchComposite.java,Jody Garnett
+Fri Sep 14  4:02:26 2012,CatalogImportWizard.java,Jody Garnett
+Fri Sep 14  4:02:26 2012,ResourceSearchPage.java,Jody Garnett
+Fri Sep 14  4:02:26 2012,ResourceSearchState.java,Jody Garnett
+Fri Sep 14  4:02:26 2012,ResourceSelectionState.java,Jody Garnett
+Fri Sep 14  4:02:26 2012,MapImport.java,Jody Garnett
+Fri Sep 14  4:02:26 2012,MapImportWizard.java,Jody Garnett
+Fri Sep 14  4:02:26 2012,MapDropAction.java,Jody Garnett
+Fri Sep 14 13:07:28 2012,MapImportTest.java,Jody Garnett
+Fri Sep 14 13:07:28 2012,plugin.properties,Jody Garnett
+Fri Sep 14 13:07:28 2012,plugin.xml,Jody Garnett
+Fri Sep 14 13:07:28 2012,plugin.properties,Jody Garnett
+Fri Sep 14 13:07:28 2012,plugin.xml,Jody Garnett
+Fri Sep 14 13:07:28 2012,AddLayersAction.java,Jody Garnett
+Fri Sep 14 13:07:28 2012,MapDropAction.java,Jody Garnett
+Fri Sep 14 13:07:28 2012,MapImport.java,Jody Garnett
+Fri Sep 14 13:07:28 2012,MapImportWizard.java,Jody Garnett
+Fri Sep 14 13:07:28 2012,MapStylePage.java,Jody Garnett
+Fri Sep 14 13:07:28 2012,NewLayerWizard.java,Jody Garnett
+Fri Sep 14 13:07:28 2012,SelectLayersPage.java,Jody Garnett
+Fri Sep 14 13:07:28 2012,SelectMapPage.java,Jody Garnett
+Fri Sep 14 13:07:28 2012,MapView.java,Jody Garnett
+Fri Sep 14 13:07:28 2012,OverviewMapView.java,Jody Garnett
+Sun Sep 16 23:21:56 2012,pom.xml,Jody Garnett
+Sun Sep 16 23:25:49 2012,feature.xml,Jody Garnett
+Sun Sep 16 23:25:49 2012,MANIFEST.MF,Jody Garnett
+Sun Sep 16 23:25:49 2012,net.refractions.udig.catalog.tests.launch,Jody Garnett
+Sun Sep 16 23:25:49 2012,.project,Jody Garnett
+Sun Sep 16 23:25:49 2012,plugin.xml,Jody Garnett
+Sun Sep 16 23:25:49 2012,InfoPlugin.java,Jody Garnett
+Sun Sep 16 23:25:49 2012,.project,Jody Garnett
+Sun Sep 16 23:25:49 2012,MANIFEST.MF,Jody Garnett
+Sun Sep 16 23:25:50 2012,DocumentView.java,Jody Garnett
+Sun Sep 16 23:51:25 2012,Attaching a document.html,Jody Garnett
+Sun Sep 16 23:51:25 2012,Configure documents.html,Jody Garnett
+Sun Sep 16 23:51:25 2012,Document view.html,Jody Garnett
+Sun Sep 16 23:51:25 2012,Tasks.html,Jody Garnett
+Sun Sep 16 23:51:25 2012,Working with Documents.html,Jody Garnett
+Sun Sep 16 23:51:25 2012,searchindex.js,Jody Garnett
+Sun Sep 16 23:51:25 2012,toc.xml,Jody Garnett
+Mon Sep 17  3:21:59 2012,build.xml,Jody Garnett
+Mon Sep 17  3:21:59 2012,Attaching a document.html,Jody Garnett
+Mon Sep 17  3:21:59 2012,Configure documents.html,Jody Garnett
+Mon Sep 17  3:21:59 2012,Linking a document.html,Jody Garnett
+Mon Sep 17  3:21:59 2012,Setting a hotlink.html,Jody Garnett
+Mon Sep 17  3:21:59 2012,searchindex.js,Jody Garnett
+Mon Sep 17  4:09:25 2012,build.xml,Jody Garnett
+Mon Sep 17  4:09:25 2012,common.py,Jody Garnett
+Mon Sep 17  4:09:25 2012,pom.xml,Jody Garnett
+Mon Sep 17  5:57:12 2012,AOI view.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Accessing context sensitive help.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Active Part.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Add Data wizard.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Add Vertex Tool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Adding Features from DB2.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Adding a column to a shapefile.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Adding a folder.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Adding a layer.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Adding features from ArcSDE.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Adding features from Oracle.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Adding features from PostGIS.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Adding features from WFS.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Adding features from a Shapefile.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Adding layers from WMS.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Application Concepts.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Arc Tool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,ArcSDE page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Area of Interest.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Attaching a document.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Axios uDig Extensions.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Bookmarks View.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Buffer Operation.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,CSV Import page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Catalog Preferences.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Catalog view.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Change a Layers Style.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Changing a layer's z-order.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Changing the projection of a shapefile.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Cheat Sheet Selection dialog.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Cheat Sheet view.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Cheat sheets.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Clip Operation.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Closing an editor.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Community.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Concepts.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Configure a AOI layer.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Configure documents.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Configure table view to list the contents of a polygon.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Configure table view to list the contents of the screen.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Constraint Query Language.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Coordinate Reference System.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Create Layer from Query.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Creating a Project.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Creating a new Map.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Creating a new Project.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Creating fast views.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,DB2 page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Data Menu.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Data Store.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Data page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,DataStore page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Decorator.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Delete Tool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Deleting a layer.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Dissolve Operation.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Document view.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Drag and Drop.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Draw Geometry Tool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Drop cursors.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Edit Geometry Tool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Edit Menu.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Edit Tool Performance Preferences.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Edit Tool Preferences.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Edit Tools.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,EditBlackboard.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Editing Tools.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Editor.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Ellipse Tool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Enabling a Tileset from a WMS Server.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Exiting the workbench.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Export Wizard.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Expression viewer.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Fast views concept.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Fast views.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Feature Collection.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Feature Style Pages.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Feature Type.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Feature count.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Feature.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,File Formats.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,File Menu.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Files page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Files.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Fill Operation.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Fill Tool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Filter viewer.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Filters and Expressions.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Finding new plugins.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,GML.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,GeoTIFF.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Georeference an Image.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Georeference.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Georeferencing Tools.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Geospatial.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Getting Started.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Grid Decoration.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Grouping layers by folder.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Handling Shapefiles with different Character Sets.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Help Menu.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Help Preferences.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Help contents.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Help system.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Help view.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Hole Cut Operation.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Hole Cutter.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Icons and buttons.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Image Georeferencing view.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Import Wizard.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Import imagery folder as mosaic page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Importing data.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Information Tools.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Information view.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Installation and Configuration.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Interaction Properties page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Intersect Operation.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Introduction to the Spatial Toolbox.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,JGrass Raster Legend.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,JGrass Vector Legend.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,JGrass page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Jody.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,KML to Shapefile import page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Keeping up to date.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Label Box.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Layer Menu.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Layer Summary operation.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Layer to Shapefile Wizard.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Layer.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Layers view.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Legend Decoration.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Legend View.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Legend.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Line Creation Tool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Linking a document.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Location View.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Map Decoration page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Map Menu.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Map Navigation.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Map Perspective.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Map editor.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Map to Image Wizard.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Map.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Maximizing.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Menus.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Merge Tool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,MySQL page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,NASA WorldWind page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Navigation Menu.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Navigation Tools.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,New Project wizard.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,North Arrow Decoration.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,North Arrow.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Operations dialog.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Oracle Spatial page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Outline view.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Page editor.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Palette View.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Pan.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Parallel Tool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Perspective.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Perspectives.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Point Creation Tool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Polygon Creation Tool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Polygon to Line Operation.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,PostGIS page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,PostGIS.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Preferences.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Printing the current Map.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Processing the Geometry in a Shapefile.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Project Preferences.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Project.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Projection page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Projection.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Projects view.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Properties dialog.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Property Pages.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Quickstart.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Raster Style Pages.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Rearranging tabbed views.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Rearranging the main toolbar.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Rearranging views and editors.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Rearranging views.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Rectangle Tool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Reference.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Remove Vertex Tool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Rendering Preferences.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Resource Selection page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Resource page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Resource to Shapefile Wizard.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Running uDig.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Scalebar Decoration.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Search view.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Selection Tools.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Selection using Attributes.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Selection using CQL.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Selection.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Send Log dialog.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Service page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Service.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Set raster transparent color.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Setting a hotlink.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Shapefile.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Show or Hide map graphics layers.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Show or hide background layers.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Show or hide grid layer on map.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Show the AOI on the map.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Smart Buffer Tool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Snapping.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Spatial Join Operation.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Spatial Operations.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Spatial Toolbox View.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Split Operation.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Split Tool (Axios Tools).html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Split Tool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Style Editor dialog.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Style Layer Descriptor.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Style Perspective.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Style View.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Style.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Submit Error Log.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Subscribe to the user list.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Summary page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Support.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Symbology.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Table view.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Tasks view.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Tasks.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Template.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Teradata page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Teradata.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,The Processing Region.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Tileset page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Tileset.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Tiling editors.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Tips and Tricks.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Tool Preferences.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Toolbar.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Toolbars.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Tracing WMS Calls.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Transform dialog.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Transform operation.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Trim Line Tool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Use a Coordinate Reference System as the AOI.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Use a bookmark as the AOI.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Use a processing region as the AOI.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Use of Views.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Use polygon as the AOI.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using Advanced Edit Mode.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using Feature Edit Tools.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using Feature operations.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using Geometry Creation Tools.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using Layer Operations.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using Resource Summary.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using Vertex Tools.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using an Editor.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using new to add a Map to a Project.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using the Catalog view.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using the Catalog.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using the Context menu to add a Map to a Project.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using the File menu to add a new Map.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using the Issue Tracker.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using the Layers view.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using the Legend View.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using the Projects view.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using the Search view.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using the Table View.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using the WPS plugin.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using the Workbench.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Using the help system.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Validation.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,View Error Log and Configuration Details.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,View.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Viewport.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Views and editors.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Walkthrough 1.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Walkthrough 2.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Web Feature Server page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Web Feature Server.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Web Map Server Style Pages.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Web Map Server Tile Cache page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Web Map Server page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Web Map Server.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Web Map Tiles page.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Web view.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Welcome.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,What is new 1.1.0.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,What is new 1.2.0.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,What is new.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Window Menu.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Wizards and Dialogs.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Workbench.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Working with AOI.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Working with Documents.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Working with Features.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Working with Images.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Working with Layers.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Working with Maps.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Working with Projects.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Working with Selection.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Working with cheat sheets.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Working with composite cheat sheets.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Working with fast views.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Working with the Update Manager.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,World Plus Image.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Zoom.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Zooming to a layer.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,docguide.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,sphinxSyntax.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,genindex.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,index.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,AddingLayersfromtheCatalogView.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,ConnectingtoaWebMapServer.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,ImportDirectlytoTheCatalog.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,InformationRequest.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,InstallPlugin.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,InstallingandRunningTheuDigApplication.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Introduction.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,OnlineDocumentationandTutorials.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Re-projection.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,TheWorkbench.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,ThemedData.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,WebView.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Welcome.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,WhattodoNext.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,WorkingwithFiles.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,index.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,postgis.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,ChangingSnappingBehavior.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,CopyingContent.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,CreateGeometry.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,CreatingFeatureType.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,DeleteFeatureTool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,EditingGeometrywithWFS.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,ExportingtoShapefile.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,FillTool.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,HoleCutter.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Introduction.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,Save.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,TakeaBreak.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,WMSandWFSIntegration.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,WhattoDoNext.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,WorkingwithAttributes.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,index.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,index.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,search.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,searchindex.js,Jody Garnett
+Mon Sep 17  5:57:12 2012,uDig Overview.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,uDig User Guide.html,Jody Garnett
+Mon Sep 17  5:57:12 2012,uDig.html,Jody Garnett
+Mon Sep 17 23:58:23 2012,AddLayersAction.java,Jody Garnett
+Mon Sep 17 23:58:23 2012,AddToNewMap.java,Jody Garnett
+Mon Sep 17 23:58:23 2012,MapStylePage.java,Jody Garnett
+Mon Sep 17 23:58:23 2012,NewLayerWizard.java,Jody Garnett
+Mon Sep 17 23:58:23 2012,SelectLayersPage.java,Jody Garnett
+Mon Sep 17 23:58:23 2012,SelectMapPage.java,Jody Garnett
+Mon Sep 17 23:58:23 2012,newObjectAction.exsd,Jody Garnett
+Tue Sep 18  3:53:18 2012,Property Pages.rst,Jody Garnett
+Tue Sep 18  3:53:18 2012,Resource page.rst,Jody Garnett
+Tue Sep 18  3:53:18 2012,toc.xml,Jody Garnett
+Tue Sep 18  3:53:18 2012,Attaching a document.html,Jody Garnett
+Tue Sep 18  3:53:18 2012,Configure documents.html,Jody Garnett
+Tue Sep 18  3:53:18 2012,Document view.html,Jody Garnett
+Tue Sep 18  3:53:18 2012,Linking a document.html,Jody Garnett
+Tue Sep 18  3:53:18 2012,Properties dialog.html,Jody Garnett
+Tue Sep 18  3:53:18 2012,Property Pages.html,Jody Garnett
+Tue Sep 18  3:53:18 2012,Resource Document page.html,Jody Garnett
+Tue Sep 18  3:53:18 2012,Resource Information page.html,Jody Garnett
+Tue Sep 18  3:53:18 2012,Resource page.html,Jody Garnett
+Tue Sep 18  3:53:18 2012,Service page.html,Jody Garnett
+Tue Sep 18  3:53:18 2012,Setting a hotlink.html,Jody Garnett
+Tue Sep 18  3:53:18 2012,Views and editors.html,Jody Garnett
+Tue Sep 18  3:53:18 2012,What is new.html,Jody Garnett
+Tue Sep 18  3:53:18 2012,searchindex.js,Jody Garnett
+Tue Sep 18  3:53:18 2012,toc.xml,Jody Garnett
+Tue Sep 18  7:04:03 2012,Attaching a document.rst,Jody Garnett
+Tue Sep 18  7:04:03 2012,Document view.rst,Jody Garnett
+Tue Sep 18  7:04:03 2012,Linking a document.rst,Jody Garnett
+Tue Sep 18  7:04:03 2012,Properties dialog.rst,Jody Garnett
+Tue Sep 18  7:04:03 2012,Property Pages.rst,Jody Garnett
+Tue Sep 18  7:04:03 2012,Setting a hotlink.rst,Jody Garnett
+Tue Sep 18  7:04:03 2012,What is new.rst,Jody Garnett
+Tue Sep 18  7:04:03 2012,Working with Documents.rst,Jody Garnett
+Tue Sep 18  7:04:03 2012,toc.xml,Jody Garnett
+Tue Sep 18  7:04:03 2012,Attaching a document.html,Jody Garnett
+Tue Sep 18  7:04:03 2012,Document view.html,Jody Garnett
+Tue Sep 18  7:04:03 2012,Linking a document.html,Jody Garnett
+Tue Sep 18  7:04:03 2012,Properties dialog.html,Jody Garnett
+Tue Sep 18  7:04:03 2012,Property Pages.html,Jody Garnett
+Tue Sep 18  7:04:03 2012,Resource Document page.html,Jody Garnett
+Tue Sep 18  7:04:03 2012,Resource Information page.html,Jody Garnett
+Tue Sep 18  7:04:03 2012,Setting a hotlink.html,Jody Garnett
+Tue Sep 18  7:04:03 2012,Tasks.html,Jody Garnett
+Tue Sep 18  7:04:03 2012,What is new.html,Jody Garnett
+Tue Sep 18  7:04:03 2012,Working with Documents.html,Jody Garnett
+Tue Sep 18  7:04:03 2012,searchindex.js,Jody Garnett
+Tue Sep 18  7:04:03 2012,toc.xml,Jody Garnett
+Wed Sep 19  6:05:58 2012,CatalogImportTest.java,Jody Garnett
+Wed Sep 19  6:05:58 2012,MANIFEST.MF,Jody Garnett
+Wed Sep 19  6:05:58 2012,plugin.xml,Jody Garnett
+Wed Sep 19  6:05:58 2012,CatalogImportDropAction.java,Jody Garnett
+Wed Sep 19  6:05:58 2012,CatalogImport.java,Jody Garnett
+Wed Sep 19  6:05:58 2012,MANIFEST.MF,Jody Garnett
+Wed Sep 19  6:05:58 2012,MANIFEST.MF,Jody Garnett
+Wed Sep 19  6:05:58 2012,MapImport.java,Jody Garnett
+Wed Sep 19 14:38:44 2012,Configure documents.rst,Jody Garnett
+Wed Sep 19 14:38:44 2012,Working with Documents.rst,Jody Garnett
+Wed Sep 19 14:38:44 2012,Configure documents.html,Jody Garnett
+Wed Sep 19 14:38:44 2012,Working with Documents.html,Jody Garnett
+Wed Sep 19 14:38:44 2012,searchindex.js,Jody Garnett
+Thu Sep 20  7:41:11 2012,MANIFEST.MF,Jody Garnett
+Thu Sep 20  7:41:11 2012,InfoMessage.java,Jody Garnett
+Thu Sep 20 18:01:29 2012,PostGisConnectionFactory.java,Jody Garnett
+Thu Sep 20 18:01:29 2012,ResourceSearchComposite.java,Jody Garnett
+Thu Sep 20 18:01:29 2012,CatalogImport.java,Jody Garnett
+Thu Sep 20 18:01:29 2012,ResourceSearchPage.java,Jody Garnett
+Thu Sep 20 18:01:29 2012,DataSourceSelectionState.java,Jody Garnett
+Thu Sep 20 18:01:29 2012,DefaultThreading.java,Jody Garnett
+Thu Sep 20 18:01:29 2012,ResourceSearchState.java,Jody Garnett
+Thu Sep 20 18:01:29 2012,ResourceSelectionState.java,Jody Garnett
+Thu Sep 20 18:01:29 2012,AddToNewMap.java,Jody Garnett
+Thu Sep 20 18:01:29 2012,MapImport.java,Jody Garnett
+Thu Sep 20 18:01:29 2012,MapImportWizard.java,Jody Garnett
+Thu Sep 20 18:01:29 2012,NewProjectWizard.java,Jody Garnett
+Thu Sep 20 18:01:29 2012,NewProjectWizardPage.java,Jody Garnett
+Thu Sep 20 18:01:29 2012,PlatformGIS.java,Jody Garnett
+Fri Sep 21  0:41:18 2012,MANIFEST.MF,Jody Garnett
+Fri Sep 21  0:41:18 2012,pom.xml,Jody Garnett
+Fri Sep 21  0:41:18 2012,CatalogImport.java,Jody Garnett
+Fri Sep 21  0:41:18 2012,ResourceSearchState.java,Jody Garnett
+Fri Sep 21  0:41:18 2012,State.java,Jody Garnett
+Fri Sep 21  0:41:20 2012,DataStoreParameterPage.java,Jody Garnett
+Fri Sep 21  0:41:20 2012,CatalogImport.java,Jody Garnett
+Fri Sep 21  0:41:20 2012,IResolveAdapterFactory.java,Jody Garnett
+Fri Sep 21  0:41:20 2012,ResourceSelectionPage.java,Jody Garnett
+Fri Sep 21  0:41:20 2012,CatalogExport.java,Jody Garnett
+Fri Sep 21  0:41:20 2012,CatalogExportWizard.java,Jody Garnett
+Fri Sep 21  0:41:20 2012,ResourceSearchComposite.java,Jody Garnett
+Fri Sep 21  0:41:20 2012,CatalogImportWizard.java,Jody Garnett
+Fri Sep 21  0:41:20 2012,ResourceSearchPage.java,Jody Garnett
+Fri Sep 21  0:41:20 2012,ResourceSearchState.java,Jody Garnett
+Fri Sep 21  0:41:20 2012,ResourceSelectionState.java,Jody Garnett
+Fri Sep 21  0:41:20 2012,MapImport.java,Jody Garnett
+Fri Sep 21  0:41:20 2012,MapImportWizard.java,Jody Garnett
+Fri Sep 21  0:41:20 2012,MapDropAction.java,Jody Garnett
+Fri Sep 21  0:41:21 2012,MapImportTest.java,Jody Garnett
+Fri Sep 21  0:41:21 2012,plugin.properties,Jody Garnett
+Fri Sep 21  0:41:21 2012,plugin.xml,Jody Garnett
+Fri Sep 21  0:41:21 2012,plugin.properties,Jody Garnett
+Fri Sep 21  0:41:21 2012,plugin.xml,Jody Garnett
+Fri Sep 21  0:41:21 2012,AddLayersAction.java,Jody Garnett
+Fri Sep 21  0:41:21 2012,MapDropAction.java,Jody Garnett
+Fri Sep 21  0:41:21 2012,MapImport.java,Jody Garnett
+Fri Sep 21  0:41:21 2012,MapImportWizard.java,Jody Garnett
+Fri Sep 21  0:41:21 2012,MapStylePage.java,Jody Garnett
+Fri Sep 21  0:41:21 2012,NewLayerWizard.java,Jody Garnett
+Fri Sep 21  0:41:21 2012,SelectLayersPage.java,Jody Garnett
+Fri Sep 21  0:41:21 2012,SelectMapPage.java,Jody Garnett
+Fri Sep 21  0:41:21 2012,MapView.java,Jody Garnett
+Fri Sep 21  0:41:21 2012,OverviewMapView.java,Jody Garnett
+Fri Sep 21  0:41:21 2012,AddLayersAction.java,Jody Garnett
+Fri Sep 21  0:41:21 2012,AddToNewMap.java,Jody Garnett
+Fri Sep 21  0:41:21 2012,MapStylePage.java,Jody Garnett
+Fri Sep 21  0:41:21 2012,NewLayerWizard.java,Jody Garnett
+Fri Sep 21  0:41:21 2012,SelectLayersPage.java,Jody Garnett
+Fri Sep 21  0:41:21 2012,SelectMapPage.java,Jody Garnett
+Fri Sep 21  0:41:21 2012,newObjectAction.exsd,Jody Garnett
+Fri Sep 21  0:41:23 2012,CatalogImportTest.java,Jody Garnett
+Fri Sep 21  0:41:23 2012,MANIFEST.MF,Jody Garnett
+Fri Sep 21  0:41:23 2012,plugin.xml,Jody Garnett
+Fri Sep 21  0:41:23 2012,CatalogImportDropAction.java,Jody Garnett
+Fri Sep 21  0:41:23 2012,CatalogImport.java,Jody Garnett
+Fri Sep 21  0:41:23 2012,MANIFEST.MF,Jody Garnett
+Fri Sep 21  0:41:23 2012,MANIFEST.MF,Jody Garnett
+Fri Sep 21  0:41:23 2012,MapImport.java,Jody Garnett
+Fri Sep 21  0:41:24 2012,PostGisConnectionFactory.java,Jody Garnett
+Fri Sep 21  0:41:24 2012,ResourceSearchComposite.java,Jody Garnett
+Fri Sep 21  0:41:24 2012,CatalogImport.java,Jody Garnett
+Fri Sep 21  0:41:24 2012,ResourceSearchPage.java,Jody Garnett
+Fri Sep 21  0:41:24 2012,DataSourceSelectionState.java,Jody Garnett
+Fri Sep 21  0:41:24 2012,DefaultThreading.java,Jody Garnett
+Fri Sep 21  0:41:24 2012,ResourceSearchState.java,Jody Garnett
+Fri Sep 21  0:41:24 2012,ResourceSelectionState.java,Jody Garnett
+Fri Sep 21  0:41:24 2012,AddToNewMap.java,Jody Garnett
+Fri Sep 21  0:41:24 2012,MapImport.java,Jody Garnett
+Fri Sep 21  0:41:24 2012,MapImportWizard.java,Jody Garnett
+Fri Sep 21  0:41:24 2012,NewProjectWizard.java,Jody Garnett
+Fri Sep 21  0:41:24 2012,NewProjectWizardPage.java,Jody Garnett
+Fri Sep 21  0:41:24 2012,PlatformGIS.java,Jody Garnett
+Mon Sep 24  6:00:08 2012,rename.properties,Jody Garnett
+Mon Sep 24  6:00:08 2012,ImageRename.java,Jody Garnett
+Wed Sep 26  5:22:24 2012,net.refractions.udig.project.tests.launch,Jody Garnett
+Wed Sep 26  5:22:24 2012,LegendTest.java,Jody Garnett
+Wed Sep 26  5:22:24 2012,MapTests.java,Jody Garnett
+Fri Oct  5  3:26:47 2012,WMSServiceImpl.java,Jody Garnett
+Sun Oct  7 14:46:35 2012,BasicWMSRenderer2.java,Jody Garnett

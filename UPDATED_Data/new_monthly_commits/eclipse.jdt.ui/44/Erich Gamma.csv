@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Fri Dec 10 11:10:18 2004,.classpath,Erich Gamma
+Fri Dec 10 11:10:18 2004,plugin.xml,Erich Gamma
+Fri Dec 10 11:10:18 2004,TestPriorization.java,Erich Gamma
+Fri Dec 10 11:10:18 2004,TestPriorizationSuite.java,Erich Gamma
+Fri Dec 10 11:10:18 2004,TestPriorizationSuite1.java,Erich Gamma
+Fri Dec 10 11:10:18 2004,TestPriorizationSuite2.java,Erich Gamma
+Fri Dec 10 11:22:09 2004,FailuresFirstPrioritizer.java,Erich Gamma
+Fri Dec 10 11:22:09 2004,ITestPrioritizer.java,Erich Gamma
+Fri Dec 10 11:22:09 2004,NullPrioritizer.java,Erich Gamma
+Fri Dec 10 11:22:09 2004,RemoteTestRunner.java,Erich Gamma
+Fri Dec 10 11:44:03 2004,JUnitMessages.properties,Erich Gamma
+Fri Dec 10 11:44:03 2004,JUnitBaseLaunchConfiguration.java,Erich Gamma
+Fri Dec 10 11:44:03 2004,JUnitLaunchConfiguration.java,Erich Gamma
+Fri Dec 10 11:44:03 2004,JUnitMessages.properties,Erich Gamma
+Fri Dec 10 11:44:03 2004,TestRunnerViewPart.java,Erich Gamma
+Mon Dec 13 12:53:15 2004,TestHierarchyTab.java,Erich Gamma
+Sun Dec 19 21:03:26 2004,TestPriorization.java,Erich Gamma
+Sun Dec 19 22:47:23 2004,FailuresFirstPrioritizer.java,Erich Gamma

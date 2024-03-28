@@ -1,0 +1,167 @@
+[
+    [
+        "Mykola Morhun",
+        "yaml",
+        3
+    ],
+    [
+        "Mykola Morhun",
+        "go",
+        16
+    ],
+    [
+        "Tom George",
+        "sh",
+        11
+    ],
+    [
+        "Tom George",
+        "lock",
+        2
+    ],
+    [
+        "Tom George",
+        "toml",
+        2
+    ],
+    [
+        "Tom George",
+        "go",
+        1262
+    ],
+    [
+        "Tom George",
+        "yaml",
+        1
+    ],
+    [
+        "Tom George",
+        "mod",
+        14
+    ],
+    [
+        "Tom George",
+        "sum",
+        8
+    ],
+    [
+        "Tom George",
+        "unknown",
+        47
+    ],
+    [
+        "Tom George",
+        "json",
+        1
+    ],
+    [
+        "Tom George",
+        "gitignore",
+        7
+    ],
+    [
+        "Tom George",
+        "yml",
+        24
+    ],
+    [
+        "Tom George",
+        "md",
+        44
+    ],
+    [
+        "Tom George",
+        "txt",
+        3
+    ],
+    [
+        "Tom George",
+        "s",
+        16
+    ],
+    [
+        "Tom George",
+        "editorconfig",
+        4
+    ],
+    [
+        "Tom George",
+        "common",
+        1
+    ],
+    [
+        "Tom George",
+        "ttar",
+        1
+    ],
+    [
+        "Tom George",
+        "pl",
+        4
+    ],
+    [
+        "Tom George",
+        "bash",
+        2
+    ],
+    [
+        "Tom George",
+        "proto",
+        42
+    ],
+    [
+        "Oleksandr Andriienko",
+        "go",
+        22
+    ],
+    [
+        "Oleksandr Andriienko",
+        "sh",
+        12
+    ],
+    [
+        "Oleksandr Andriienko",
+        "json",
+        4
+    ],
+    [
+        "Oleksandr Andriienko",
+        "yaml",
+        8
+    ],
+    [
+        "Oleksandr Andriienko",
+        "md",
+        4
+    ],
+    [
+        "Anatolii Bazko",
+        "go",
+        1
+    ],
+    [
+        "Valeriy Svydenko",
+        "yaml",
+        3
+    ],
+    [
+        "Valeriy Svydenko",
+        "go",
+        3
+    ],
+    [
+        "Lukas Krejci",
+        "go",
+        4
+    ],
+    [
+        "Michal Vala",
+        "yaml",
+        7
+    ],
+    [
+        "Michal Vala",
+        "go",
+        4
+    ]
+]

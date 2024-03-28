@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Wed May 15 19:19:30 2019,MANIFEST.MF,Alexander Kurtakov
+Wed May 15 19:19:30 2019,pom.xml,Alexander Kurtakov
+Wed May 15 19:19:30 2019,SourceTests.java,Alexander Kurtakov
+Wed May 15 19:19:30 2019,PublishingTests.java,Alexander Kurtakov
+Wed May 15 19:26:08 2019,AssembleTests.java,Alexander Kurtakov
+Wed May 15 19:26:08 2019,PDEBuildTestSuite.java,Alexander Kurtakov
+Thu May 16  7:30:29 2019,FetchTests.java,Alexander Kurtakov
+Thu May 16  7:30:29 2019,P2TestSuite.java,Alexander Kurtakov
+Thu May 16  7:30:29 2019,PDEBuildTestSuite.java,Alexander Kurtakov

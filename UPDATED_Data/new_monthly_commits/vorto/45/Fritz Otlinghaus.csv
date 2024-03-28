@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Thu Nov  8  7:57:24 2018,Role.java,Fritz Otlinghaus
+Fri Nov 16  2:11:52 2018,CodeGeneratorTemplateGenerator.java,Fritz Otlinghaus
+Fri Nov 16  2:11:52 2018,DockerComposeTemplate.xtend,Fritz Otlinghaus
+Fri Nov 16  2:11:52 2018,DockerRunShTemplate.xtend,Fritz Otlinghaus
+Fri Nov 16  2:11:52 2018,DockerfileTemplate.xtend,Fritz Otlinghaus
+Fri Nov 16  2:11:52 2018,PomTemplate.xtend,Fritz Otlinghaus
+Fri Nov 16  2:11:52 2018,RepositoryConfigTemplate.xtend,Fritz Otlinghaus
+Fri Nov 16  2:11:52 2018,docker-compose.yml,Fritz Otlinghaus
+Fri Nov 16  7:01:11 2018,Readme.md,Fritz Otlinghaus
+Fri Nov 16  7:01:11 2018,CodeGeneratorTemplateGenerator.java,Fritz Otlinghaus
+Fri Nov 16  7:01:11 2018,PomTemplate.xtend,Fritz Otlinghaus
+Fri Nov 16  7:01:11 2018,GeneratorMainTemplate.xtend,Fritz Otlinghaus
+Fri Nov 16  7:01:11 2018,HelloWorldTemplate.xtend,Fritz Otlinghaus
+Fri Nov 16  7:01:11 2018,PomTemplate.xtend,Fritz Otlinghaus
+Fri Nov 16  7:01:11 2018,DockerComposeTemplate.xtend,Fritz Otlinghaus
+Fri Nov 16  7:01:11 2018,DockerRunGeneratorsShTemplate.xtend,Fritz Otlinghaus
+Fri Nov 16  7:01:11 2018,DockerWaitForItShTemplate.xtend,Fritz Otlinghaus
+Fri Nov 16  7:01:11 2018,GeneratorConfigurationTemplate.xtend,Fritz Otlinghaus
+Fri Nov 16  7:01:11 2018,PomTemplate.xtend,Fritz Otlinghaus
+Fri Nov 16 13:22:59 2018,CodeGeneratorTemplateGenerator.java,Fritz Otlinghaus
+Fri Nov 16 13:22:59 2018,DockerRunShTemplate.xtend,Fritz Otlinghaus
+Fri Nov 16 13:22:59 2018,RepositoryConfigTemplate.xtend,Fritz Otlinghaus
+Fri Nov 16 13:22:59 2018,config.json,Fritz Otlinghaus

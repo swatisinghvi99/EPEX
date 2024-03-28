@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Wed Jan 31 14:53:26 2018,plugin.properties,jmallet
+Wed Jan 31 14:53:26 2018,DDiagramEditPart.java,jmallet
+Wed Jan 31 14:53:26 2018,BackgroundUpdater.java,jmallet
+Wed Jan 31 14:53:26 2018,GMFDiagramUpdater.java,jmallet
+Wed Jan 31 14:53:26 2018,SiriusDiagramGraphicalViewer.java,jmallet
+Wed Jan 31 14:53:26 2018,DiagramDescriptionItemProvider.java,jmallet
+Wed Jan 31 14:53:26 2018,DiagramImportDescriptionItemProvider.java,jmallet
+Wed Jan 31 14:53:26 2018,diagram.ecore,jmallet
+Wed Jan 31 14:53:26 2018,diagram.genmodel,jmallet
+Wed Jan 31 14:53:26 2018,DiagramPackage.java,jmallet
+Wed Jan 31 14:53:26 2018,DescriptionPackage.java,jmallet
+Wed Jan 31 14:53:26 2018,DiagramDescription.java,jmallet
+Wed Jan 31 14:53:26 2018,DescriptionPackageImpl.java,jmallet
+Wed Jan 31 14:53:26 2018,DiagramDescriptionImpl.java,jmallet
+Wed Jan 31 14:53:26 2018,DiagramImportDescriptionImpl.java,jmallet
+Wed Jan 31 14:53:26 2018,Release_Notes.html,jmallet
+Wed Jan 31 14:53:26 2018,Release_Notes.textile,jmallet
+Wed Jan 31 14:53:26 2018,Diagrams.html,jmallet
+Wed Jan 31 14:53:26 2018,Diagrams.textile,jmallet
+Wed Jan 31 14:53:26 2018,plugin.xml,jmallet
+Wed Jan 31 14:53:26 2018,DiagramDescriptionBackgroundColorFilter.java,jmallet
+Wed Jan 31 14:53:26 2018,DiagramDescriptionBackgroundColorPropertySection.java,jmallet
+Wed Jan 31 14:53:26 2018,plugin.xml,jmallet
+Wed Jan 31 14:53:26 2018,AbstractColorReferenceTestCase.java,jmallet
+Wed Jan 31 14:53:26 2018,AllDiagramPluginsTests.java,jmallet
+Wed Jan 31 14:53:26 2018,EntitiesDiagramBackgroundTests.java,jmallet

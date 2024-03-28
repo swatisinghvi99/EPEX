@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Mon Jun  1 19:10:00 2015,ServerRef.java,Maciej Swiderski
+Mon Jun  1 19:10:00 2015,ServerImpl.java,Maciej Swiderski
+Mon Jun  1 19:10:00 2015,ServerRefImpl.java,Maciej Swiderski
+Mon Jun  1 19:10:00 2015,ServerManagementService.java,Maciej Swiderski
+Mon Jun  1 19:10:00 2015,pom.xml,Maciej Swiderski
+Mon Jun  1 19:10:00 2015,RemoteAccessImpl.java,Maciej Swiderski
+Mon Jun  1 19:10:00 2015,ServerControllerRestImpl.java,Maciej Swiderski
+Mon Jun  1 19:10:00 2015,ServerManagementServiceImpl.java,Maciej Swiderski
+Mon Jun  1 19:10:00 2015,ServerReferenceStorageImpl.java,Maciej Swiderski
+Mon Jun  1 19:10:00 2015,NewContainerForm.java,Maciej Swiderski
+Mon Jun  1 19:10:00 2015,ServerRegistryEndpointForm.java,Maciej Swiderski

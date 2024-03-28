@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Wed Feb 16 11:34:59 2022,pom.xml,Dimitris
+Wed Feb 16 11:34:59 2022,Application.java,Dimitris
+Wed Feb 16 11:34:59 2022,ReusabilityController.java,Dimitris
+Wed Feb 16 11:34:59 2022,FileReusabilityIndex.java,Dimitris
+Wed Feb 16 11:34:59 2022,ProjectReusabilityIndex.java,Dimitris
+Wed Feb 16 11:34:59 2022,AnalyzedCommits.java,Dimitris
+Wed Feb 16 11:34:59 2022,ReusabilityMetrics.java,Dimitris
+Wed Feb 16 11:34:59 2022,ReusabilityService.java,Dimitris
+Wed Feb 16 11:34:59 2022,ReusabilityServiceBean.java,Dimitris

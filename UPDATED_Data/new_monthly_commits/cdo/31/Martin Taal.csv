@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Tue Oct  7  9:01:53 2008,HibernateStore.java,Martin Taal
+Wed Oct 15  9:38:12 2008,HibernateStoreWriter.java,Martin Taal
+Wed Oct 29 23:01:19 2008,resource.hbm.xml,Martin Taal
+Wed Oct 29 23:01:19 2008,HibernateStoreAccessor.java,Martin Taal
+Sat Nov  1 22:12:35 2008,resource.hbm.xml,Martin Taal
+Sat Nov  1 22:12:35 2008,HibernateStoreAccessor.java,Martin Taal
+Sat Nov  1 22:12:35 2008,CDOManyReferenceSetter.java,Martin Taal

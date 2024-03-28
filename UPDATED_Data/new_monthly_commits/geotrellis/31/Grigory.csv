@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Thu May 30 21:52:13 2019,CHANGELOG.rst,Grigory
+Thu May 30 21:52:13 2019,GridExtent.scala,Grigory
+Thu May 30 21:52:13 2019,RasterExtentSpec.scala,Grigory
+Sat Jun 15 11:12:23 2019,CHANGELOG.rst,Grigory
+Sat Jun 15 11:12:23 2019,DeflateCompression.scala,Grigory
+Mon Jun 17 20:10:06 2019,Settings.scala,Grigory
+Mon Jun 17 20:10:06 2019,Version.scala,Grigory
+Tue Jun 18 18:37:30 2019,deploy-211.sh,Grigory
+Tue Jun 18 18:37:30 2019,deploy-212.sh,Grigory
+Tue Jun 18 18:37:30 2019,package.scala,Grigory

@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Thu Aug 28 14:48:20 2008,OXTestSuite.java,Rick Barkhouse
+Thu Aug 28 14:48:20 2008,XMLLoginDeploymentXMLTestCases.java,Rick Barkhouse
+Thu Aug 28 14:48:20 2008,XMLLoginSessionsXMLTestCases.java,Rick Barkhouse
+Thu Aug 28 14:48:20 2008,XMLLoginTestSuite.java,Rick Barkhouse
+Thu Aug 28 14:53:49 2008,AppendNewElementsOrderingPolicyConfig.java,Rick Barkhouse
+Thu Aug 28 14:53:49 2008,DescriptorLevelDocumentPreservationPolicyConfig.java,Rick Barkhouse
+Thu Aug 28 14:53:49 2008,DocumentPreservationPolicyConfig.java,Rick Barkhouse
+Thu Aug 28 14:53:49 2008,IgnoreNewElementsOrderingPolicyConfig.java,Rick Barkhouse
+Thu Aug 28 14:53:49 2008,NoDocumentPreservationPolicyConfig.java,Rick Barkhouse
+Thu Aug 28 14:53:49 2008,NodeOrderingPolicyConfig.java,Rick Barkhouse
+Thu Aug 28 14:53:49 2008,RelativePositionOrderingPolicyConfig.java,Rick Barkhouse
+Thu Aug 28 14:53:49 2008,XMLBinderPolicyConfig.java,Rick Barkhouse
+Thu Aug 28 14:53:49 2008,XMLLoginConfig.java,Rick Barkhouse
+Thu Aug 28 14:54:29 2008,DescriptorLevelDocumentPreservationPolicy.java,Rick Barkhouse
+Thu Aug 28 14:54:29 2008,ObjectPersistenceRuntimeXMLProject_11_1_1.java,Rick Barkhouse
+Thu Aug 28 14:54:29 2008,XMLSessionConfigProject_11_1_1.java,Rick Barkhouse
+Thu Aug 28 14:54:29 2008,XMLContext.java,Rick Barkhouse
+Thu Aug 28 14:54:29 2008,AppendNewElementsOrderingPolicy.java,Rick Barkhouse
+Thu Aug 28 14:54:29 2008,DocumentPreservationPolicy.java,Rick Barkhouse
+Thu Aug 28 14:54:29 2008,IgnoreNewElementsOrderingPolicy.java,Rick Barkhouse
+Thu Aug 28 14:54:29 2008,NodeOrderingPolicy.java,Rick Barkhouse
+Thu Aug 28 14:54:29 2008,RelativePositionOrderingPolicy.java,Rick Barkhouse
+Thu Aug 28 14:54:29 2008,XMLProjectReader.java,Rick Barkhouse
+Thu Aug 28 14:54:29 2008,XMLSessionConfigLoader.java,Rick Barkhouse
+Tue Sep  2 19:15:28 2008,XPathEngine.java,Rick Barkhouse
+Wed Sep  3 16:31:30 2008,XMLLoginTestSuite.java,Rick Barkhouse

@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Sun Mar  4 15:49:25 2018,MANIFEST.MF,Dawid Pakuła
+Sun Mar  4 15:49:25 2018,BitFlagsQuery.java,Dawid Pakuła
+Sun Mar  4 15:49:25 2018,DocumentFactory.java,Dawid Pakuła
+Sun Mar  4 15:49:25 2018,LuceneIndexer.java,Dawid Pakuła
+Sun Mar  4 15:49:25 2018,LuceneSearchEngine.java,Dawid Pakuła
+Sun Mar  4 15:49:25 2018,SearchMatch.java,Dawid Pakuła
+Sun Mar  4 15:49:25 2018,DLTK-Neon-4.6.target,Dawid Pakuła
+Sun Mar  4 15:49:25 2018,DLTK-Oxygen-4.7.target,Dawid Pakuła
+Mon Mar 19 22:14:16 2018,ScriptTemplateCompletionProcessor.java,Dawid Pakuła
+Mon Mar 19 22:14:16 2018,ScriptTemplateProposal.java,Dawid Pakuła
+Mon Mar 19 22:14:16 2018,AbstractScriptCompletionProposal.java,Dawid Pakuła
+Mon Mar 19 22:14:16 2018,CompletionProposalComputerRegistry.java,Dawid Pakuła
+Mon Mar 19 22:14:16 2018,ContentAssistProcessor.java,Dawid Pakuła
+Mon Mar 19 22:14:16 2018,ScriptCompletionProposal.java,Dawid Pakuła
+Mon Mar 19 22:14:16 2018,ScriptCompletionProposalCollector.java,Dawid Pakuła
+Mon Mar 19 22:14:16 2018,ScriptCompletionProposalComputer.java,Dawid Pakuła

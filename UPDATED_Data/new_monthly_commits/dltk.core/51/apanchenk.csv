@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Sat Apr 23  9:54:06 2011,RefactorActionGroup.java,apanchenk
+Sat Apr 23 10:36:47 2011,DelegatingFoldingStructureProvider.java,apanchenk
+Sat Apr 23 13:01:00 2011,DelegatingFoldingStructureProvider.java,apanchenk
+Sat Apr 23 13:31:08 2011,SelectionListenerWithASTManager.java,apanchenk
+Mon Apr 25 14:14:19 2011,UnresolvedElement.java,apanchenk
+Mon Apr 25 20:25:19 2011,UnresolvedElement.java,apanchenk
+Tue Apr 26  9:23:26 2011,SearchPattern.java,apanchenk
+Tue Apr 26 13:50:46 2011,SourceParserUtil.java,apanchenk
+Tue Apr 26 14:41:35 2011,SourceParserUtil.java,apanchenk
+Tue Apr 26 14:41:35 2011,AbstractSourceModule.java,apanchenk
+Tue Apr 26 14:41:35 2011,ModelManager.java,apanchenk
+Wed Apr 27  8:09:27 2011,Util.java,apanchenk
+Wed Apr 27  8:09:32 2011,ModifyingResourceTests.java,apanchenk
+Thu Apr 28 14:50:52 2011,SourceModuleDocumentProvider.java,apanchenk
+Thu Apr 28 15:06:43 2011,OccurrencesFinder.java,apanchenk
+Tue May  3  7:51:03 2011,CompoundIterator.java,apanchenk
+Thu May  5 15:29:12 2011,ModelElementHyperlinkDetector.java,apanchenk
+Tue May 17 14:59:02 2011,ScriptElementImageProvider.java,apanchenk
+Wed May 18 10:06:13 2011,IScriptProjectFilenames.java,apanchenk
+Wed May 18 19:38:38 2011,UIModelProviderManager.java,apanchenk
+Thu May 19 12:57:03 2011,AbstractProblemReporter.java,apanchenk
+Thu May 19 12:57:03 2011,IProblemReporter.java,apanchenk
+Thu May 19 12:57:03 2011,ProblemReporterProxy.java,apanchenk
+Thu May 19 12:57:03 2011,ITaskReporter.java,apanchenk
+Thu May 19 12:57:03 2011,ExternalModuleBuildContext.java,apanchenk
+Thu May 19 13:39:38 2011,ScriptBuilder.java,apanchenk

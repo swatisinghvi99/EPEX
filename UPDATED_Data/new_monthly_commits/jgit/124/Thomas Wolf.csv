@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Fri Jan  3 19:48:25 2020,MANIFEST.MF,Thomas Wolf
+Fri Jan  3 19:48:25 2020,HttpClientConnection.java,Thomas Wolf
+Fri Jan  3 19:48:25 2020,JGitText.properties,Thomas Wolf
+Fri Jan  3 19:48:25 2020,JGitText.java,Thomas Wolf
+Fri Jan  3 19:48:25 2020,JDKHttpConnection.java,Thomas Wolf
+Fri Jan  3 19:48:25 2020,DelegatingSSLSocketFactory.java,Thomas Wolf
+Fri Jan  3 19:48:25 2020,HttpSupport.java,Thomas Wolf
+Tue Jan 28  8:52:14 2020,FS.java,Thomas Wolf

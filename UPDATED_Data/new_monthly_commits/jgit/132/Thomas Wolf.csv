@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Sat Sep  5 19:03:38 2020,BouncyCastleGpgSigner.java,Thomas Wolf
+Sat Sep  5 19:24:20 2020,SshdSession.java,Thomas Wolf
+Sat Sep 19 19:17:00 2020,SshTestHarness.java,Thomas Wolf
+Sat Sep 19 19:17:00 2020,MANIFEST.MF,Thomas Wolf
+Sat Sep 19 19:17:00 2020,ApacheSshTest.java,Thomas Wolf
+Sat Sep 19 19:17:00 2020,MANIFEST.MF,Thomas Wolf
+Sat Sep 19 19:17:00 2020,SshdText.properties,Thomas Wolf
+Sat Sep 19 19:17:00 2020,JGitSshClient.java,Thomas Wolf
+Sat Sep 19 19:17:00 2020,SshdText.java,Thomas Wolf
+Sat Sep 19 19:17:00 2020,SshdSession.java,Thomas Wolf
+Sat Sep 19 19:17:00 2020,SshdSessionFactory.java,Thomas Wolf
+Sat Sep 19 19:17:00 2020,SshConstants.java,Thomas Wolf
+Mon Sep 21 20:52:43 2020,StatusCommandTest.java,Thomas Wolf
+Mon Sep 21 20:52:43 2020,IndexDiffFilter.java,Thomas Wolf
+Fri Sep 25 22:40:10 2020,.api_filters,Thomas Wolf
+Fri Sep 25 22:40:10 2020,Config.java,Thomas Wolf
+Fri Sep 25 22:40:10 2020,TypedConfigGetter.java,Thomas Wolf
+Fri Sep 25 22:40:10 2020,WorkingTreeIterator.java,Thomas Wolf
+Sat Sep 26 21:34:02 2020,SshdText.properties,Thomas Wolf
+Sat Sep 26 21:34:02 2020,AuthenticationCanceledException.java,Thomas Wolf
+Sat Sep 26 21:34:02 2020,JGitPasswordAuthentication.java,Thomas Wolf
+Sat Sep 26 21:34:02 2020,IdentityPasswordProvider.java,Thomas Wolf
+Sat Sep 26 21:34:02 2020,SshdSessionFactory.java,Thomas Wolf

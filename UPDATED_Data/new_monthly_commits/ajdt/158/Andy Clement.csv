@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Mon Oct 30 17:00:26 2017,MANIFEST.MF,Andy Clement
+Mon Oct 30 17:00:26 2017,Version.java,Andy Clement
+Mon Oct 30 17:00:26 2017,World.java,Andy Clement
+Mon Oct 30 17:00:26 2017,build.properties,Andy Clement
+Mon Oct 30 17:55:03 2017,messages.properties,Andy Clement
+Mon Oct 30 17:55:03 2017,messages.properties,Andy Clement
+Mon Oct 30 17:55:03 2017,Version.java,Andy Clement
+Mon Oct 30 17:55:03 2017,AnnotationFinder.java,Andy Clement
+Mon Oct 30 17:55:03 2017,Java15AnnotationFinder.java,Andy Clement
+Mon Oct 30 17:55:03 2017,ReflectionBasedResolvedMemberImpl.java,Andy Clement
+Mon Oct 30 17:55:03 2017,ReflectionWorld.java,Andy Clement
+Mon Oct 30 17:55:03 2017,PointcutParser.java,Andy Clement
+Mon Oct 30 17:55:03 2017,ITDAwareNameEnvironment.java,Andy Clement
+Mon Oct 30 17:55:03 2017,BinaryAspectElementInfo.java,Andy Clement
+Mon Oct 30 17:55:03 2017,ITDAwareSelectionRequestor.java,Andy Clement
+Mon Oct 30 17:55:03 2017,build.properties,Andy Clement
+Mon Oct 30 17:55:03 2017,AJClasspathModel.java,Andy Clement
+Mon Oct 30 17:55:03 2017,SourceTransformerTests.java,Andy Clement

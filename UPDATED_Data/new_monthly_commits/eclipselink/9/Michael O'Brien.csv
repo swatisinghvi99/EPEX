@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Fri Apr 18 17:40:54 2008,EntityManagerSetupException.java,Michael O'Brien
+Fri Apr 18 17:40:54 2008,EntityManagerSetupExceptionResource.java,Michael O'Brien
+Fri Apr 18 17:40:54 2008,LoggingLocalizationResource.java,Michael O'Brien
+Fri Apr 18 17:40:54 2008,SessionCustomizer.java,Michael O'Brien
+Fri Apr 18 17:40:54 2008,DatasourceLogin.java,Michael O'Brien
+Fri Apr 18 17:40:54 2008,EntityManagerSetupImpl.java,Michael O'Brien
+Fri Apr 18 17:40:54 2008,PersistenceUnitProcessor.java,Michael O'Brien
+Fri Apr 18 17:40:54 2008,MetadataProcessor.java,Michael O'Brien
+Fri Apr 18 17:40:54 2008,MetadataProject.java,Michael O'Brien
+Fri Apr 18 17:40:54 2008,ObjectAccessor.java,Michael O'Brien
+Fri Apr 18 17:40:54 2008,PersistenceProvider.java,Michael O'Brien
+Tue Apr 22 20:48:55 2008,EntityManagerSetupImpl.java,Michael O'Brien
+Sat May  3  2:51:44 2008,IndirectContainer.java,Michael O'Brien
+Sat May  3  2:51:44 2008,JPAClassLoaderHolder.java,Michael O'Brien
+Sat May  3  2:51:44 2008,LoggingLocalizationResource.java,Michael O'Brien
+Sat May  3  2:51:44 2008,ServerPlatform.java,Michael O'Brien
+Sat May  3  2:51:44 2008,ServerPlatformBase.java,Michael O'Brien
+Sat May  3  2:51:44 2008,JBossPlatform.java,Michael O'Brien
+Sat May  3  2:51:44 2008,EntityManagerSetupImpl.java,Michael O'Brien
+Sat May  3  2:51:44 2008,XMLEntityMappings.java,Michael O'Brien
+Wed May  7 19:18:39 2008,EclipseLinkException.java,Michael O'Brien
+Wed May  7 19:18:39 2008,StaticWeaveException.java,Michael O'Brien

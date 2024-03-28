@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Fri Jan 10 19:38:38 2014,AddCouples.java,ckrause
+Fri Jan 10 19:38:38 2014,HenshinUtil.java,ckrause
+Fri Jan 10 19:38:38 2014,movies.ecore,ckrause
+Fri Jan 10 19:38:38 2014,movies.ecorediag,ckrause
+Fri Jan 10 19:38:38 2014,movies.henshin,ckrause
+Fri Jan 10 19:38:38 2014,movies.henshin_diagram,ckrause
+Tue Jan 28 21:28:39 2014,MoviesBenchmark.java,ckrause
+Tue Jan 28 21:28:39 2014,movies.ecore,ckrause
+Tue Jan 28 21:28:39 2014,movies.ecorediag,ckrause
+Tue Jan 28 21:28:39 2014,EGraphImpl.java,ckrause
+Tue Jan 28 21:28:39 2014,VariableInfo.java,ckrause
+Tue Jan 28 21:28:39 2014,PathConstraint.java,ckrause
+Tue Jan 28 21:28:39 2014,PathFinder.java,ckrause
+Tue Jan 28 21:28:39 2014,ExampleTests.java,ckrause
+Tue Jan 28 21:58:25 2014,PathConstraint.java,ckrause
+Sun Feb  2 12:07:03 2014,MoviesBenchmark.java,ckrause
+Sun Feb  2 12:07:03 2014,MoviesBenchmark.sh,ckrause
+Sun Feb  2 12:07:03 2014,Engine.java,ckrause
+Sun Feb  2 12:07:03 2014,PartitionedEGraph.java,ckrause
+Sun Feb  2 12:07:03 2014,EGraphImpl.java,ckrause
+Sun Feb  2 12:07:03 2014,EngineImpl.java,ckrause
+Sun Feb  2 12:07:03 2014,PartitionedEGraphImpl.java,ckrause
+Sun Feb  2 12:07:03 2014,TypeConstraint.java,ckrause
+Sun Feb  2 12:07:03 2014,HenshinEGraph.java,ckrause
+Sun Feb  2 12:07:03 2014,ExampleTests.java,ckrause
+Wed Feb  5 17:46:24 2014,HenshinAGGExporter.java,ckrause

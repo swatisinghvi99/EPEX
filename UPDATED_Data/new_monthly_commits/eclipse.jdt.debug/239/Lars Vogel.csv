@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Thu Mar 25 17:32:09 2021,JavaConnectTab.java,Lars Vogel
+Thu Mar 25 17:32:09 2021,BreakpointHitCountAction.java,Lars Vogel
+Thu Mar 25 17:32:09 2021,OpenFromClipboardAction.java,Lars Vogel
+Thu Mar 25 17:32:09 2021,ASTInstructionCompiler.java,Lars Vogel
+Thu Mar 25 17:32:09 2021,BinaryBasedSourceGenerator.java,Lars Vogel
+Thu Mar 25 17:32:09 2021,SourceBasedSourceGenerator.java,Lars Vogel
+Thu Mar 25 17:32:09 2021,VirtualMachineManagerImpl.java,Lars Vogel
+Thu Mar 25 17:32:09 2021,JavaLogicalStructure.java,Lars Vogel
+Thu Mar 25 17:32:09 2021,JDIModificationVariable.java,Lars Vogel
+Thu Mar 25 17:32:09 2021,CompositeId.java,Lars Vogel
+Thu Mar 25 17:32:09 2021,DefaultProjectClasspathEntry.java,Lars Vogel
+Fri Mar 26 14:52:13 2021,JavaBreakpointListenerTests.java,Lars Vogel
+Fri Mar 26 14:52:13 2021,ClasspathContainerTests.java,Lars Vogel
+Fri Mar 26 14:52:13 2021,PerfContextualLaunchMenu.java,Lars Vogel
+Fri Mar 26 14:52:13 2021,DetailFormatterTests.java,Lars Vogel
+Fri Mar 26 14:52:13 2021,TestAnonymousInspect.java,Lars Vogel
+Fri Mar 26 14:52:13 2021,EditLogicalStructureDialog.java,Lars Vogel
+Fri Mar 26 14:52:13 2021,AddFolderAction.java,Lars Vogel
+Fri Mar 26 14:52:13 2021,ObjectReferenceImpl.java,Lars Vogel
+Fri Mar 26 14:52:13 2021,ThreadGroupReferenceImpl.java,Lars Vogel
+Fri Mar 26 14:52:13 2021,ConnectorImpl.java,Lars Vogel
+Fri Mar 26 14:52:13 2021,SocketTransportService.java,Lars Vogel
+Fri Mar 26 14:52:13 2021,EventRequestImpl.java,Lars Vogel
+Fri Mar 26 14:52:13 2021,JDIThread.java,Lars Vogel
+Fri Mar 26 14:52:13 2021,StandardVMRunner.java,Lars Vogel

@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Mon Dec 13 16:47:26 2021,CHANGELOG.md,Jean-Pierre Fortune
+Mon Dec 13 16:47:26 2021,build.gradle.kts,Jean-Pierre Fortune
+Mon Dec 13 16:47:26 2021,CalypsoCardAdapter.java,Jean-Pierre Fortune
+Mon Dec 13 16:47:26 2021,CalypsoCardSelectionAdapter.java,Jean-Pierre Fortune
+Mon Dec 13 16:47:26 2021,CalypsoCardUtilAdapter.java,Jean-Pierre Fortune
+Mon Dec 13 16:47:26 2021,CardTransactionManagerAdapter.java,Jean-Pierre Fortune
+Mon Dec 13 16:47:26 2021,CmdCardReadRecords.java,Jean-Pierre Fortune
+Mon Dec 13 16:47:26 2021,FileDataAdapter.java,Jean-Pierre Fortune
+Mon Dec 13 16:47:26 2021,FileDataAdapterTest.java,Jean-Pierre Fortune
+Fri Dec 17 14:03:13 2021,gradle.properties,Jean-Pierre Fortune
+Fri Dec 17 14:03:13 2021,CardTransactionManagerAdapter.java,Jean-Pierre Fortune
+Fri Dec 17 14:03:13 2021,SamCommandProcessor.java,Jean-Pierre Fortune
+Fri Dec 17 14:03:13 2021,ApduResponseAdapter.java,Jean-Pierre Fortune
+Fri Dec 17 14:03:13 2021,CardTransactionManagerAdapterTest.java,Jean-Pierre Fortune

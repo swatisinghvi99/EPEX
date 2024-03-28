@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Tue Dec 29  1:43:15 2020,.golangci.yaml,sergerad
+Tue Dec 29  1:43:15 2020,Makefile,sergerad
+Tue Dec 29  1:43:15 2020,azure-pipelines.yaml,sergerad
+Tue Dec 29  1:43:15 2020,main.go,sergerad
+Tue Dec 29  1:43:15 2020,manager.go,sergerad
+Tue Dec 29  1:43:15 2020,pkg.go,sergerad
+Tue Dec 29  1:43:15 2020,proxy.go,sergerad
+Tue Dec 29  1:43:15 2020,strings.go,sergerad
+Tue Dec 29  1:43:15 2020,bootstrap.sh,sergerad

@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Oct  6 22:49:29 2008,SCPluginResourceBundle.java,Les Davis
+Mon Oct  6 22:49:29 2008,ConnectionPoolAdapter.java,Les Davis
+Mon Oct  6 22:49:29 2008,DataSource.java,Les Davis
+Mon Oct  6 22:49:29 2008,LoginAdapter.java,Les Davis
+Mon Oct  6 22:49:29 2008,XMLLoginAdapter.java,Les Davis
+Mon Oct  6 22:49:29 2008,XmlSessionTabbedPropertiesPage.java,Les Davis
+Mon Oct  6 22:49:29 2008,RdbmsLoginTabbedPropertiesPage.java,Les Davis
+Mon Oct  6 22:49:29 2008,SequencingPropertiesPage.java,Les Davis
+Mon Oct  6 22:49:29 2008,XMLLoginTabbedPropertiesPage.java,Les Davis
+Mon Oct  6 22:49:29 2008,XMLOptionsPropertiesPage.java,Les Davis
+Wed Oct  8 21:40:16 2008,NodeTreeCellEditor.java,Les Davis
+Wed Oct  8 21:47:59 2008,NodeTreeCellEditor.java,Les Davis
+Wed Oct  8 22:22:36 2008,QueryGeneralPanel.java,Les Davis
+Thu Oct  9 22:26:38 2008,SwingComponentFactory.java,Les Davis
+Mon Oct 13 22:32:31 2008,ProblemConstants.java,Les Davis
+Mon Oct 13 22:32:31 2008,MWAbstractReferenceMapping.java,Les Davis
+Mon Oct 13 22:32:31 2008,MWClassAttribute.java,Les Davis
+Mon Oct 13 22:32:31 2008,MWTypeDeclaration.java,Les Davis
+Mon Oct 13 22:32:31 2008,ProblemsBundle.java,Les Davis
+Tue Oct 14 20:13:53 2008,AboutDialog.java,Les Davis
+Tue Oct 14 22:32:49 2008,DatabaseSessionAdapter.java,Les Davis

@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Mon Apr  4 22:22:38 2011,metadata.ecore,gkessler
+Mon Apr  4 22:22:38 2011,MetadataPackage.java,gkessler
+Mon Apr  4 22:22:38 2011,Model.java,gkessler
+Mon Apr  4 22:22:38 2011,MetaDataModelMergeAssistantImpl.java,gkessler
+Mon Apr  4 22:22:38 2011,MetadataPackageImpl.java,gkessler
+Mon Apr  4 22:22:38 2011,ModelImpl.java,gkessler
+Mon Apr  4 22:22:38 2011,MetadataSwitch.java,gkessler
+Mon Apr  4 22:22:42 2011,plugin.xml,gkessler
+Mon Apr  4 22:22:42 2011,ModelImplTests.java,gkessler
+Mon Apr  4 22:22:42 2011,MergeTests.java,gkessler
+Mon Apr  4 22:22:42 2011,FileIncludeExternalModel2.xml,gkessler

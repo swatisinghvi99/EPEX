@@ -1,0 +1,72 @@
+[
+    [
+        "OlivierHecart",
+        "rs",
+        10
+    ],
+    [
+        "Hakan Lundvall",
+        "rs",
+        3
+    ],
+    [
+        "Luca Cominardi",
+        "rs",
+        175
+    ],
+    [
+        "Luca Cominardi",
+        "lock",
+        4
+    ],
+    [
+        "Luca Cominardi",
+        "toml",
+        6
+    ],
+    [
+        "Davide Della Giustina",
+        "toml",
+        38
+    ],
+    [
+        "Davide Della Giustina",
+        "rs",
+        172
+    ],
+    [
+        "Davide Della Giustina",
+        "lock",
+        7
+    ],
+    [
+        "Pierre Avital",
+        "rs",
+        97
+    ],
+    [
+        "Pierre Avital",
+        "lock",
+        4
+    ],
+    [
+        "Pierre Avital",
+        "toml",
+        8
+    ],
+    [
+        "Michael Ilyin",
+        "rs",
+        2
+    ],
+    [
+        "Pascal Bach",
+        "rs",
+        2
+    ],
+    [
+        "Julien Enoch",
+        "rs",
+        56
+    ]
+]

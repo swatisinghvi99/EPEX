@@ -1,0 +1,157 @@
+[
+    [
+        "Axel Richard",
+        "java",
+        70
+    ],
+    [
+        "Axel Richard",
+        "MF",
+        8
+    ],
+    [
+        "Axel Richard",
+        "xml",
+        3
+    ],
+    [
+        "Axel Richard",
+        "exsd",
+        1
+    ],
+    [
+        "Axel Richard",
+        "project",
+        1
+    ],
+    [
+        "Axel Richard",
+        "target",
+        2
+    ],
+    [
+        "Axel Richard",
+        "targetplatform",
+        2
+    ],
+    [
+        "Axel Richard",
+        "nodes",
+        2
+    ],
+    [
+        "Axel Richard",
+        "unknown",
+        1
+    ],
+    [
+        "Axel Richard",
+        "ecore",
+        2
+    ],
+    [
+        "Arthur Daussy",
+        "java",
+        111
+    ],
+    [
+        "Arthur Daussy",
+        "xml",
+        7
+    ],
+    [
+        "Arthur Daussy",
+        "properties",
+        14
+    ],
+    [
+        "Arthur Daussy",
+        "exsd",
+        4
+    ],
+    [
+        "Arthur Daussy",
+        "MF",
+        1
+    ],
+    [
+        "Arthur Daussy",
+        "ecore",
+        3
+    ],
+    [
+        "Laurent Goubet",
+        "prefs",
+        93
+    ],
+    [
+        "Laurent Goubet",
+        "xml",
+        29
+    ],
+    [
+        "Laurent Goubet",
+        "target",
+        1
+    ],
+    [
+        "Laurent Goubet",
+        "project",
+        18
+    ],
+    [
+        "Laurent Goubet",
+        "properties",
+        37
+    ],
+    [
+        "Laurent Goubet",
+        "txt",
+        8
+    ],
+    [
+        "Laurent Goubet",
+        "java",
+        500
+    ],
+    [
+        "Laurent Goubet",
+        "ecore",
+        29
+    ],
+    [
+        "Laurent Goubet",
+        "uml",
+        78
+    ],
+    [
+        "Laurent Goubet",
+        "classpath",
+        1
+    ],
+    [
+        "Laurent Goubet",
+        "genmodel",
+        4
+    ],
+    [
+        "Laurent Goubet",
+        "exsd",
+        12
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "java",
+        3
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "xml",
+        1
+    ],
+    [
+        "Mika\u00ebl Barbero",
+        "properties",
+        1
+    ]
+]

@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Mon Nov  7  9:21:35 2016,JandexTypeNameIdResolver.java,Paolo Bazzi
+Mon Nov  7 12:06:11 2016,.classpath,Paolo Bazzi
+Mon Nov  7 12:06:11 2016,JandexTypeNameIdResolverTest.java,Paolo Bazzi
+Mon Nov  7 12:06:11 2016,scout.xml,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,JettyServer.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,StoreAndLoadXml3FormTest.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,UnsavedFormChangesForm.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,AbstractPageWithTable.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,DefaultWizardStatusHtmlProvider.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,JmsMomImplementor.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,ObjectUtilityTest.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,StringUtilityTest.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,DefaultExceptionTranslator.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,DefaultRuntimeExceptionTranslator.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,ExceptionHandler.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,PlatformExceptionTranslator.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,HtmlInputBuilder.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,NamedThreadFactory.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,ObjectUtility.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,StringUtility.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,DateFormatProvider.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,AbstractHttpSessionCacheService.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,GzipServletFilter.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,HtmlScoutClipboardService.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,JsonDesktop.java,Paolo Bazzi
+Fri Nov 18 12:02:30 2016,ScriptFileBuilder.java,Paolo Bazzi

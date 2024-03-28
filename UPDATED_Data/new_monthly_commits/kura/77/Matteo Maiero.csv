@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Wed Apr 22  7:08:31 2020,SupportedUsbModemsFactoryInfo.java,Matteo Maiero
+Wed Apr 22  7:08:31 2020,TelitLe910AtCommands.java,Matteo Maiero
+Wed Apr 22  7:08:31 2020,TelitLe910ConfigGenerator.java,Matteo Maiero
+Wed Apr 22  7:09:16 2020,HuaweiModem.java,Matteo Maiero
+Wed Apr 22  7:09:16 2020,QuectelEG25.java,Matteo Maiero
+Wed Apr 22  7:09:16 2020,TelitModem.java,Matteo Maiero
+Thu Apr 30 11:55:06 2020,ModemMonitorServiceImpl.java,Matteo Maiero
+Thu Apr 30 11:55:06 2020,ModemMonitorServiceImplTest.java,Matteo Maiero

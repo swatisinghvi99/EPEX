@@ -1,0 +1,6 @@
+date_time,file,committer_name
+Tue Oct  5  7:38:50 2010,AcceleoLibraryOperationVisitor.java,sbegaudeau
+Tue Oct 12 13:34:36 2010,AcceleoWhitespaceCharactersPainter.java,sbegaudeau
+Tue Oct 12 13:35:20 2010,AcceleoEvaluationVisitor.java,sbegaudeau
+Wed Oct 20 13:42:57 2010,AcceleoUIDocumentationUtils.java,sbegaudeau
+Mon Oct 25 13:41:05 2010,AcceleoTraceabilityVisitor.java,sbegaudeau

@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Fri Feb  9 16:20:10 2007,CompilerOptions.java,Philipe Mulet
+Fri Feb  9 16:32:05 2007,Main.java,Philipe Mulet
+Fri Feb  9 16:35:37 2007,Main.java,Philipe Mulet
+Mon Feb 12 16:38:41 2007,Main.java,Philipe Mulet
+Thu Feb 22 18:11:48 2007,GenericTypeTest.java,Philipe Mulet
+Thu Feb 22 18:11:48 2007,buildnotes_jdt-core.html,Philipe Mulet
+Thu Feb 22 18:11:48 2007,CastExpression.java,Philipe Mulet
+Sun Mar  4 22:26:23 2007,GenericTypeTest.java,Philipe Mulet
+Mon Mar  5 15:32:08 2007,ClasspathDirectory.java,Philipe Mulet
+Mon Mar  5 15:32:08 2007,TryStatement.java,Philipe Mulet
+Mon Mar  5 15:46:50 2007,ClassScope.java,Philipe Mulet
+Mon Mar  5 15:46:50 2007,ReferenceBinding.java,Philipe Mulet
+Mon Mar  5 15:46:50 2007,DefaultProblemFactory.java,Philipe Mulet
+Mon Mar  5 15:46:50 2007,Messages.java,Philipe Mulet
+Mon Mar  5 15:46:50 2007,DefaultBindingResolver.java,Philipe Mulet
+Mon Mar  5 15:46:50 2007,CodeSnippetClassFile.java,Philipe Mulet
+Mon Mar  5 15:46:50 2007,JavaCore.java,Philipe Mulet
+Mon Mar  5 15:46:50 2007,RenameElementsOperation.java,Philipe Mulet
+Mon Mar  5 15:49:08 2007,org.eclipse.jdt.core.prefs,Philipe Mulet
+Mon Mar  5 15:49:08 2007,org.eclipse.jdt.ui.prefs,Philipe Mulet
+Mon Mar  5 15:49:08 2007,JavaModelManager.java,Philipe Mulet

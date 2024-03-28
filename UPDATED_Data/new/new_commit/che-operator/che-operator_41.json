@@ -1,0 +1,82 @@
+[
+    [
+        "Lukas Krejci",
+        "go",
+        2
+    ],
+    [
+        "Angel Misevski",
+        "md",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "unknown",
+        3
+    ],
+    [
+        "Angel Misevski",
+        "yaml",
+        3
+    ],
+    [
+        "Angel Misevski",
+        "mod",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "sum",
+        1
+    ],
+    [
+        "Angel Misevski",
+        "go",
+        17
+    ],
+    [
+        "Angel Misevski",
+        "txt",
+        1
+    ],
+    [
+        "Nick Boldt",
+        "go",
+        1
+    ],
+    [
+        "Nick Boldt",
+        "yaml",
+        2
+    ],
+    [
+        "Oleksii Orel",
+        "go",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "go",
+        19
+    ],
+    [
+        "Anatolii Bazko",
+        "yaml",
+        3
+    ],
+    [
+        "che-bot",
+        "yaml",
+        5
+    ],
+    [
+        "che-bot",
+        "diff",
+        2
+    ],
+    [
+        "che-bot",
+        "go",
+        1
+    ]
+]

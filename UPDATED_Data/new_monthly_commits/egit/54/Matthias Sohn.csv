@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Mon Mar 24 13:13:58 2014,RepositorySelectionPage.java,Matthias Sohn
+Mon Mar 24 13:14:08 2014,FetchOperation.java,Matthias Sohn
+Mon Mar 24 13:14:08 2014,PullOperation.java,Matthias Sohn
+Mon Mar 24 13:14:08 2014,PushOperation.java,Matthias Sohn
+Mon Mar 24 13:14:08 2014,AbstractGitCloneWizard.java,Matthias Sohn
+Mon Mar 24 13:14:08 2014,FetchOperationUI.java,Matthias Sohn
+Mon Mar 24 13:14:08 2014,PullOperationUI.java,Matthias Sohn
+Mon Mar 24 13:14:08 2014,PushOperationUI.java,Matthias Sohn

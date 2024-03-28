@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Wed Sep  1  8:55:53 2021,.gitignore,teomaik
+Wed Sep  1  8:55:53 2021,maven-wrapper.properties,teomaik
+Wed Sep  1  8:55:53 2021,Dockerfile,teomaik
+Wed Sep  1  8:55:53 2021,mvnw,teomaik
+Wed Sep  1  8:55:53 2021,mvnw.cmd,teomaik
+Wed Sep  1  8:55:53 2021,pom.xml,teomaik
+Wed Sep  1  8:55:53 2021,application.properties,teomaik
+Wed Sep  1  8:55:53 2021,jenkins_pipeline_config_gitlab.xml,teomaik
+Wed Sep  1  8:55:53 2021,ServiceCreationApplication.java,teomaik
+Wed Sep  1  8:55:53 2021,EndpointController.java,teomaik
+Wed Sep  1  8:55:53 2021,GitLab.java,teomaik
+Wed Sep  1  8:55:53 2021,Jenkins.java,teomaik
+Wed Sep  1  8:55:53 2021,MainFlow.java,teomaik
+Wed Sep  1  8:55:53 2021,PipelineConfigXML.java,teomaik
+Wed Sep  1  8:55:53 2021,ResultObject.java,teomaik
+Wed Sep  1  9:05:17 2021,ServiceCreationApplicationTests.java,teomaik
+Wed Sep  8  8:47:57 2021,CorsConf.java,teomaik
+Wed Sep  8  8:47:57 2021,EndpointController.java,teomaik

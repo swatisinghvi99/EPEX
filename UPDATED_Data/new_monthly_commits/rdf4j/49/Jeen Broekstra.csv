@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Mon Jan 20  8:06:36 2020,HTTPRepositoryOptimisticIsolationTest.java,Jeen Broekstra
+Mon Jan 20  8:06:36 2020,RDF4JProtocolSession.java,Jeen Broekstra
+Mon Jan 20  8:06:36 2020,OptimisticIsolationTest.java,Jeen Broekstra
+Mon Jan 20  8:06:36 2020,DeleteInsertTest.java,Jeen Broekstra
+Mon Jan 20  8:06:36 2020,IsolationLevelTest.java,Jeen Broekstra
+Mon Jan 20  8:06:36 2020,LinearTest.java,Jeen Broekstra
+Mon Jan 20  8:06:36 2020,RemoveIsolationTest.java,Jeen Broekstra
+Mon Jan 20  8:06:36 2020,SerializableTest.java,Jeen Broekstra
+Mon Jan 20  8:06:36 2020,Transaction.java,Jeen Broekstra
+Thu Jan 23  6:03:09 2020,pom.xml,Jeen Broekstra
+Thu Jan 23  6:03:09 2020,LocalRepositoryManagerIntegrationTest.java,Jeen Broekstra
+Thu Jan 23  6:03:09 2020,RepositoryManagerIntegrationTest.java,Jeen Broekstra
+Thu Jan 23  6:03:09 2020,pom.xml,Jeen Broekstra
+Thu Jan 23  6:03:09 2020,LocalRepositoryManagerTest.java,Jeen Broekstra
+Thu Jan 23 22:37:53 2020,SPARQLConnection.java,Jeen Broekstra
+Thu Jan 23 22:37:53 2020,SPARQLConnectionTest.java,Jeen Broekstra

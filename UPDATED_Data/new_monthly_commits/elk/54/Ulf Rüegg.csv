@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Thu Apr  2 21:16:05 2020,NetworkSimplexPlacer.java,Ulf Rüegg
+Fri Apr  3 10:11:26 2020,InLayerConstraintProcessorTest.java,Ulf Rüegg
+Fri Apr  3 10:11:27 2020,ForsterConstraintResolver.java,Ulf Rüegg
+Fri Apr  3 10:11:27 2020,AllCrossingsCounterTest.java,Ulf Rüegg
+Fri Apr  3 10:51:00 2020,InLayerConstraintProcessorTest.java,Ulf Rüegg
+Fri Apr  3 10:51:00 2020,InvertedPortProcessorTest.java,Ulf Rüegg
+Fri Apr  3 10:51:00 2020,LabelDummyRemoverTest.java,Ulf Rüegg
+Fri Apr  3 10:51:00 2020,LabelSideSelectorTest.java,Ulf Rüegg
+Fri Apr  3 10:51:00 2020,LayerSizeAndGraphHeigthCalculatorTest.java,Ulf Rüegg
+Fri Apr  3 10:51:00 2020,LongEdgeJoinerTest.java,Ulf Rüegg
+Fri Apr  3 10:51:00 2020,LongEdgeSplitterTest.java,Ulf Rüegg
+Fri Apr  3 10:51:00 2020,NodeMarginCalculatorTest.java,Ulf Rüegg
+Fri Apr  3 10:51:00 2020,NodePromotionTest.java,Ulf Rüegg
+Fri Apr  3 10:51:00 2020,PortListSorterTest.java,Ulf Rüegg
+Fri Apr  3 10:51:00 2020,PortSideProcessorTest.java,Ulf Rüegg
+Fri Apr  3 10:51:00 2020,ReversedEdgeRestorerTest.java,Ulf Rüegg
+Fri Apr  3 10:51:00 2020,BasicCycleBreakerTest.java,Ulf Rüegg
+Fri Apr  3 10:51:00 2020,BasicLayerAssignmentTest.java,Ulf Rüegg
+Fri Apr  3 10:51:00 2020,BasicNodePlacementTest.java,Ulf Rüegg
+Fri Apr  3 10:51:00 2020,BasicEdgeRouterTest.java,Ulf Rüegg
+Fri Apr  3 10:56:16 2020,GraphFromFile.java,Ulf Rüegg
+Sun Apr 19 11:29:27 2020,MANIFEST.MF,Ulf Rüegg
+Sun Apr 19 11:29:27 2020,ElkGraphJson.java,Ulf Rüegg
+Sun Apr 19 11:29:27 2020,MANIFEST.MF,Ulf Rüegg
+Sun Apr 19 11:29:27 2020,GraphTest.xtend,Ulf Rüegg

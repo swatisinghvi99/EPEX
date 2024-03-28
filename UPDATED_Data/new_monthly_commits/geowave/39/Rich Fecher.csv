@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Mon Aug  7 15:02:38 2017,DATASTORE_LIB_TOKEN,Rich Fecher
+Mon Aug  7 15:02:38 2017,pom.xml,Rich Fecher
+Mon Aug  7 15:02:38 2017,AccumuloSplitsProvider.java,Rich Fecher
+Mon Aug  7 15:02:38 2017,PersistentDataFormatter.java,Rich Fecher
+Mon Aug  7 15:02:38 2017,AccumuloSplitsProviderTest.java,Rich Fecher
+Mon Aug  7 15:02:38 2017,GeoToolsVectorDataStoreIngestPlugin.java,Rich Fecher
+Mon Aug  7 15:02:38 2017,pom.xml,Rich Fecher
+Thu Aug 10 14:01:40 2017,AccumuloMiniCluster.java,Rich Fecher
+Thu Aug 10 14:01:40 2017,AccumuloDatastoreDefaultConfigProvider.java,Rich Fecher

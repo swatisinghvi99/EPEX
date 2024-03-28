@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Sat Apr  9 19:22:45 2005,ScanAction.java,david_williams
+Sat Apr  9 19:22:45 2005,UITestHelper.java,david_williams
+Sat Apr  9 19:22:45 2005,UITestHelper.java,david_williams
+Sat Apr  9 19:22:47 2005,IProjectPropertiesListener.java,david_williams
+Sat Apr  9 19:22:47 2005,ProjectProperties.java,david_williams
+Sat Apr  9 19:22:47 2005,ResourceManager.java,david_williams
+Sat Apr  9 19:22:47 2005,RuntimeTargetHandler.java,david_williams
+Sat Apr  9 19:22:47 2005,Server.java,david_williams
+Sat Apr  9 19:22:47 2005,ServerMonitorManager.java,david_williams
+Sat Apr  9 19:22:47 2005,ServerPlugin.java,david_williams
+Sat Apr  9 19:22:47 2005,ServerWorkingCopy.java,david_williams
+Sat Apr  9 19:22:47 2005,XMLMemento.java,david_williams
+Sat Apr  9 19:22:47 2005,ServerUIPlugin.java,david_williams
+Sat Apr  9 19:22:47 2005,ServerUIPreferences.java,david_williams
+Sat Apr  9 19:22:47 2005,TextAction.java,david_williams
+Sat Apr  9 19:22:47 2005,TasksWizardFragment.java,david_williams
+Sat Apr  9 19:22:47 2005,NewManualServerComposite.java,david_williams
+Sat Apr  9 19:24:10 2005,XMLMemento.java,david_williams
+Sat Apr  9 19:24:10 2005,HTTPThread.java,david_williams

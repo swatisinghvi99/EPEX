@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Mon Jul 27 18:11:31 2015,DelimitedTextConverter.scala,Andrew Hulbert
+Mon Jul 27 18:11:31 2015,NewLinesTest.scala,Andrew Hulbert
+Fri Aug 14 15:22:32 2015,AccumuloDataStore.scala,Andrew Hulbert
+Fri Aug 14 15:22:32 2015,package.scala,Andrew Hulbert
+Fri Aug 14 15:22:32 2015,AvailableTables.scala,Andrew Hulbert
+Fri Aug 14 15:22:32 2015,GeoMesaTable.scala,Andrew Hulbert
+Fri Aug 14 15:22:32 2015,SftBuilder.scala,Andrew Hulbert
+Fri Aug 14 15:22:32 2015,AccumuloDataStoreTest.scala,Andrew Hulbert
+Fri Aug 14 15:22:32 2015,ConfigurableIndexesTest.scala,Andrew Hulbert
+Fri Aug 14 15:22:32 2015,QueryFilterSplitterTest.scala,Andrew Hulbert
+Fri Aug 14 15:22:32 2015,GeoMesaStoreEditPanel.scala,Andrew Hulbert
+Fri Aug 14 15:22:32 2015,Conversions.scala,Andrew Hulbert
+Fri Aug 14 15:22:32 2015,SimpleFeatureTypes.scala,Andrew Hulbert
+Fri Aug 14 15:22:32 2015,SimpleFeatureTypesTest.scala,Andrew Hulbert
+Wed Aug 19 17:51:23 2015,SynchronizedQuadtreeTest.scala,Andrew Hulbert

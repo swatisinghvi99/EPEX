@@ -1,0 +1,372 @@
+[
+    [
+        "Sven Efftinge",
+        "java",
+        30
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        69
+    ],
+    [
+        "Sven Efftinge",
+        "classpath",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "project",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "prefs",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        7
+    ],
+    [
+        "Sven Efftinge",
+        "html",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "properties",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "xml",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "api_filters",
+        12
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        155
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        36
+    ],
+    [
+        "Sebastian Zarnekow",
+        "classpath",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        9
+    ],
+    [
+        "Sebastian Zarnekow",
+        "properties",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "prefs",
+        7
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        168
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "xtend",
+        221
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "js",
+        170
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "gitignore",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "gradle",
+        5
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "json",
+        2
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "css",
+        6
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "html",
+        14
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "java",
+        28
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "MF",
+        2
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "prefs",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "xml",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "xtext",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "classpath",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "xtend",
+        47
+    ],
+    [
+        "Jan Koehnlein",
+        "js",
+        17
+    ],
+    [
+        "Jan Koehnlein",
+        "classpath",
+        4
+    ],
+    [
+        "Jan Koehnlein",
+        "css",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        42
+    ],
+    [
+        "Jan Koehnlein",
+        "MF",
+        6
+    ],
+    [
+        "Jan Koehnlein",
+        "properties",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "prefs",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "html",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "xml",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "gradle",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        33
+    ],
+    [
+        "Dennis Huebner",
+        "txt",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "list",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "xtend",
+        64
+    ],
+    [
+        "Dennis Huebner",
+        "classpath",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "project",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "properties",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "mwe2",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "prefs",
+        6
+    ],
+    [
+        "Stefan Oehme",
+        "java",
+        85
+    ],
+    [
+        "Stefan Oehme",
+        "xtend",
+        64
+    ],
+    [
+        "Stefan Oehme",
+        "api_filters",
+        10
+    ],
+    [
+        "Stefan Oehme",
+        "MF",
+        8
+    ],
+    [
+        "Stefan Oehme",
+        "launch",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "classpath",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "properties",
+        1
+    ],
+    [
+        "Andreas Heiduk",
+        "java",
+        2
+    ],
+    [
+        "akosyakov",
+        "xtend",
+        7
+    ],
+    [
+        "akosyakov",
+        "xml",
+        3
+    ],
+    [
+        "akosyakov",
+        "java",
+        7
+    ],
+    [
+        "akosyakov",
+        "mwe2",
+        1
+    ],
+    [
+        "Lorenzo Bettini",
+        "MF",
+        2
+    ],
+    [
+        "Lorenzo Bettini",
+        "ecore",
+        2
+    ],
+    [
+        "Lorenzo Bettini",
+        "genmodel",
+        2
+    ],
+    [
+        "Lorenzo Bettini",
+        "xml",
+        4
+    ],
+    [
+        "Lorenzo Bettini",
+        "xml_gen",
+        4
+    ],
+    [
+        "Lorenzo Bettini",
+        "xtext",
+        2
+    ],
+    [
+        "Lorenzo Bettini",
+        "java",
+        6
+    ],
+    [
+        "Lorenzo Bettini",
+        "mwe2",
+        2
+    ],
+    [
+        "Lorenzo Bettini",
+        "xtend",
+        6
+    ]
+]

@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Wed Oct  9 20:48:17 2013,CreateTableParser.java,Barry LaFond
+Wed Oct  9 20:48:17 2013,AstNodeFactory.java,Barry LaFond
+Wed Oct  9 20:48:17 2013,DdlParserTestHelper.java,Barry LaFond
+Wed Oct  9 20:48:17 2013,TeiidDdlParserTest.java,Barry LaFond
+Wed Oct  9 20:48:17 2013,sap-flight.ddl,Barry LaFond
+Wed Oct  9 20:48:17 2013,sap_short_test.ddl,Barry LaFond
+Wed Oct  9 20:48:17 2013,stdcust.ddl,Barry LaFond
+Wed Oct  9 20:48:17 2013,teiid_fk_test.ddl,Barry LaFond

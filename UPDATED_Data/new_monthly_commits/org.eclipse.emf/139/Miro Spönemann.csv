@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Tue Jan 20 14:48:20 2015,.gitignore,Miro Spönemann
+Tue Jan 20 14:48:20 2015,plugin.xml_gen,Miro Spönemann
+Tue Jan 20 14:48:20 2015,AbstractXcoreUiModule.java,Miro Spönemann
+Tue Jan 20 14:48:20 2015,XcoreParser.java,Miro Spönemann
+Tue Jan 20 14:48:20 2015,InternalXcore.g,Miro Spönemann
+Tue Jan 20 14:48:20 2015,InternalXcoreLexer.java,Miro Spönemann
+Tue Jan 20 14:48:20 2015,InternalXcoreParser.java,Miro Spönemann
+Tue Jan 20 14:48:20 2015,XcoreUiModule.java,Miro Spönemann
+Tue Jan 20 14:48:20 2015,ImportingTypesProposalProvider.java,Miro Spönemann
+Tue Jan 20 14:48:20 2015,.gitignore,Miro Spönemann
+Tue Jan 20 14:48:20 2015,InternalXcore.g,Miro Spönemann
+Tue Jan 20 14:48:20 2015,InternalXcoreLexer.java,Miro Spönemann
+Tue Jan 20 14:48:20 2015,InternalXcoreParser.java,Miro Spönemann
+Tue Jan 20 14:48:20 2015,XcoreGrammarAccess.java,Miro Spönemann
+Tue Jan 20 14:48:20 2015,Xcore.xtext,Miro Spönemann
+Tue Jan 20 14:48:20 2015,XcoreImportedNamespaceAwareScopeProvider.java,Miro Spönemann
+Tue Jan 20 14:48:20 2015,XcoreJvmTypeScopeProvider.java,Miro Spönemann

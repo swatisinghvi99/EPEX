@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Thu Oct 31 12:28:46 2013,RepositoryTestCase.java,Matthias Sohn
+Tue Nov  5  8:29:13 2013,GitDateParserBadlyFormattedTest.java,Matthias Sohn
+Sat Nov  9  0:16:46 2013,RebaseCommand.java,Matthias Sohn
+Sat Nov  9  0:16:46 2013,RebaseResult.java,Matthias Sohn
+Sat Nov  9  0:16:46 2013,InvalidRebaseStepException.java,Matthias Sohn
+Sat Nov  9  0:16:46 2013,RebaseTodoFile.java,Matthias Sohn
+Sat Nov  9  0:16:46 2013,RebaseTodoLine.java,Matthias Sohn
+Sat Nov  9  0:16:46 2013,Repository.java,Matthias Sohn
+Sat Nov  9  0:16:46 2013,TransportHttp.java,Matthias Sohn
+Sun Nov 10 21:00:12 2013,CommitOnlyTest.java,Matthias Sohn
+Sun Nov 10 21:01:09 2013,RevFlagSetTest.java,Matthias Sohn
+Sun Nov 24  3:06:08 2013,GarbageCollectCommandTest.java,Matthias Sohn
+Sun Nov 24  3:06:08 2013,GitDateParserBadlyFormattedTest.java,Matthias Sohn
+Sun Nov 24  3:06:08 2013,GitDateParserTest.java,Matthias Sohn
+Sun Nov 24  3:06:08 2013,GC.java,Matthias Sohn
+Sun Nov 24  3:06:08 2013,GitDateParser.java,Matthias Sohn
+Sun Nov 24  3:06:08 2013,SystemReader.java,Matthias Sohn

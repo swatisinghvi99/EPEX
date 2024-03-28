@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Tue Jun 25 19:54:10 2019,build.gradle,Bruce Tiffany
+Tue Jun 25 19:54:10 2019,JAXRSUtilities.java,Bruce Tiffany
+Tue Jun 25 19:54:10 2019,JwtBuilder.java,Bruce Tiffany
+Tue Jun 25 19:54:10 2019,JwtConfig.java,Bruce Tiffany
+Tue Jun 25 19:54:10 2019,MicroProfileTestExtension.java,Bruce Tiffany
+Tue Jun 25 19:54:10 2019,Dockerfile,Bruce Tiffany
+Tue Jun 25 19:54:10 2019,build.gradle,Bruce Tiffany
+Tue Jun 25 19:54:10 2019,SecuredService.java,Bruce Tiffany
+Tue Jun 25 19:54:10 2019,SecuredServiceApp.java,Bruce Tiffany
+Tue Jun 25 19:54:10 2019,server.xml,Bruce Tiffany
+Tue Jun 25 19:54:10 2019,SecuredSvcTest.java,Bruce Tiffany
+Tue Jun 25 19:54:10 2019,log4j.properties,Bruce Tiffany
+Tue Jun 25 20:36:00 2019,JwtBuilder.java,Bruce Tiffany
+Tue Jun 25 21:15:25 2019,JwtBuilder.java,Bruce Tiffany
+Tue Jun 25 21:15:25 2019,JwtConfig.java,Bruce Tiffany
+Tue Jun 25 21:15:25 2019,server.xml,Bruce Tiffany
+Tue Jun 25 21:15:25 2019,SecuredSvcTest.java,Bruce Tiffany

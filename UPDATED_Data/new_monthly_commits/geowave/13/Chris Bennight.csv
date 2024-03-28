@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Tue Jun 16  1:37:35 2015,.travis.yml,Chris Bennight
+Tue Jun 16  1:37:35 2015,KMeansDistortionJobRunner.java,Chris Bennight
+Tue Jun 16  1:37:35 2015,HdfsFile.java,Chris Bennight
+Tue Jun 16  1:37:35 2015,GeoWaveDemoAppShell.java,Chris Bennight
+Tue Jun 16  1:37:35 2015,GeoWaveInputFormat.java,Chris Bennight
+Tue Jun 16  1:37:35 2015,pom.xml,Chris Bennight
+Tue Jun 16  2:17:34 2015,GeoWaveDemoAppShell.java,Chris Bennight
+Wed Jun 17  1:33:30 2015,.travis.yml,Chris Bennight
+Wed Jun 17  1:33:30 2015,BoundingBoxDataStatistics.java,Chris Bennight
+Wed Jun 17  1:33:30 2015,NumericRangeDataStatistics.java,Chris Bennight
+Wed Jun 17  1:33:30 2015,FeatureDataAdapter.java,Chris Bennight
+Wed Jun 17  1:33:30 2015,FeatureBoundingBoxStatistics.java,Chris Bennight
+Wed Jun 17  1:33:30 2015,FeatureFixedBinNumericStatistics.java,Chris Bennight
+Wed Jun 17  1:33:30 2015,FeatureNumericRangeStatistics.java,Chris Bennight
+Wed Jun 17  1:33:30 2015,SimpleFeatureUserDataConfigurationSet.java,Chris Bennight
+Wed Jun 17  1:33:30 2015,pom.xml,Chris Bennight
+Wed Jun 17  1:33:30 2015,GeoWaveDemoApp.java,Chris Bennight
+Wed Jun 17  1:33:30 2015,GeoWaveDemoAppShell.java,Chris Bennight
+Wed Jun 17  1:33:30 2015,GeoWaveInputFormat.java,Chris Bennight
+Wed Jun 17  1:33:30 2015,pom.xml,Chris Bennight

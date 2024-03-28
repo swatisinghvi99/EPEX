@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Nov  9 13:54:40 2015,DiagramContainerEditPartOperation.java,Laurent Redor
+Mon Nov  9 13:54:40 2015,WorkspaceImageEditPart.java,Laurent Redor
+Mon Nov  9 13:54:40 2015,image.svg,Laurent Redor
+Mon Nov  9 13:54:40 2015,tc2225.aird,Laurent Redor
+Mon Nov  9 13:54:40 2015,tc2225.ecore,Laurent Redor
+Mon Nov  9 13:54:40 2015,tc2225.odesign,Laurent Redor
+Mon Nov  9 13:54:40 2015,SetStyleToWorkspaceImageTests.java,Laurent Redor
+Mon Nov  9 14:12:00 2015,My.aird,Laurent Redor
+Mon Nov  9 14:12:00 2015,BorderMarginTest.java,Laurent Redor
+Thu Nov 12  8:00:57 2015,My.aird,Laurent Redor
+Thu Nov 12  8:00:57 2015,BorderMarginTest.java,Laurent Redor
+Thu Nov 12 14:03:08 2015,interaction.odesign,Laurent Redor
+Thu Nov 12 14:03:08 2015,InteractionUseCoverageTests.java,Laurent Redor
+Thu Nov 12 14:39:48 2015,StylePropertySection.java,Laurent Redor
+Thu Nov 12 14:39:48 2015,AbstractRefreshWithCustomizedStyleOnCompleteExampleTest.java,Laurent Redor
+Thu Nov 12 14:39:48 2015,RefreshWithCustomizedStyleTests.java,Laurent Redor
+Mon Nov 16 10:07:29 2015,RefreshWithCustomizedStyleTests.java,Laurent Redor
+Tue Nov 17  7:50:55 2015,SetConnectionBendpointsAccordingToExtremityMoveCommmand.java,Laurent Redor
+Tue Nov 17  7:50:55 2015,My.aird,Laurent Redor
+Tue Nov 17  7:50:55 2015,My.odesign,Laurent Redor
+Tue Nov 17  7:50:55 2015,BendpointsStabilityOnMovesSpecificCasesTest.java,Laurent Redor

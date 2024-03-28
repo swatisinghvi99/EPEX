@@ -1,0 +1,7 @@
+date_time,file,committer_name
+Fri Aug  5 18:02:10 2011,CloneCommand.java,Kevin Sawicki
+Tue Aug 16 20:22:42 2011,IndexDiff.java,Kevin Sawicki
+Wed Aug 17 15:56:16 2011,ReflogCommandTest.java,Kevin Sawicki
+Wed Aug 17 15:56:16 2011,ReflogCommand.java,Kevin Sawicki
+Mon Aug 22 20:10:31 2011,LsRemoteCommand.java,Kevin Sawicki
+Wed Aug 24 20:22:05 2011,DhtRefDatabase.java,Kevin Sawicki

@@ -1,0 +1,33 @@
+date_time,file,committer_name
+Wed Nov 23 12:57:46 2016,CommitController.java,Johannes Faltermeier
+Wed Nov 23 12:57:46 2016,VersionSubInterfaceImpl.java,Johannes Faltermeier
+Thu Nov 24 11:24:33 2016,EMFStore Server with ExampleModel.launch,Johannes Faltermeier
+Thu Nov 24 11:24:33 2016,accessControl.exsd,Johannes Faltermeier
+Thu Nov 24 11:24:33 2016,EMFStoreController.java,Johannes Faltermeier
+Thu Nov 24 11:24:33 2016,Messages.java,Johannes Faltermeier
+Thu Nov 24 11:24:33 2016,ServerConfiguration.java,Johannes Faltermeier
+Thu Nov 24 11:24:33 2016,AccessControl.java,Johannes Faltermeier
+Thu Nov 24 11:24:33 2016,DefaultESPasswordHashGenerator.java,Johannes Faltermeier
+Thu Nov 24 11:24:33 2016,EMFModelUserVerifier.java,Johannes Faltermeier
+Thu Nov 24 11:24:33 2016,PasswordVerifier.java,Johannes Faltermeier
+Thu Nov 24 11:24:33 2016,AdminEmfStoreImpl.java,Johannes Faltermeier
+Thu Nov 24 11:24:33 2016,messages.properties,Johannes Faltermeier
+Thu Nov 24 11:24:33 2016,ESHashAndSalt.java,Johannes Faltermeier
+Thu Nov 24 11:24:33 2016,ESPasswordHashGenerator.java,Johannes Faltermeier
+Thu Nov 24 11:24:33 2016,AllAccessControlTests.java,Johannes Faltermeier
+Thu Nov 24 11:24:33 2016,ChangePasswordTests.java,Johannes Faltermeier
+Thu Nov 24 11:24:33 2016,DefaultESPasswordHashGeneratorTests.java,Johannes Faltermeier
+Thu Nov 24 11:36:53 2016,EMFStoreImpl.java,Johannes Faltermeier
+Thu Nov 24 11:36:53 2016,CreateProjectTest.java,Johannes Faltermeier
+Fri Nov 25 14:46:51 2016,EMFStoreImpl.java,Johannes Faltermeier
+Fri Nov 25 14:46:51 2016,CreateProjectTest.java,Johannes Faltermeier
+Wed Nov 30 15:45:19 2016,EMFStoreController.java,Johannes Faltermeier
+Wed Dec  7  9:18:21 2016,Messages.java,Johannes Faltermeier
+Wed Dec  7  9:18:21 2016,XmlRpcClientManager.java,Johannes Faltermeier
+Wed Dec  7  9:18:21 2016,XmlRpcConnectionManager.java,Johannes Faltermeier
+Wed Dec  7  9:18:21 2016,messages.properties,Johannes Faltermeier
+Wed Dec  7  9:18:21 2016,EMFStore.java,Johannes Faltermeier
+Wed Dec  7  9:18:21 2016,XmlRpcEmfStoreImpl.java,Johannes Faltermeier
+Wed Dec  7  9:18:21 2016,VersionSubInterfaceImpl.java,Johannes Faltermeier
+Wed Dec  7  9:18:21 2016,ConnectionMock.java,Johannes Faltermeier
+Tue Dec 20 11:19:10 2016,CreateDeleteOperationImpl.java,Johannes Faltermeier

@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Wed Feb 17 10:30:23 2016,ApiEndpointAccessibilityChecker.java,Eugene Ivantsov
+Mon Feb 22  8:55:23 2016,DockerConnectorConfiguration.java,Eugene Ivantsov
+Mon Feb 22  9:22:23 2016,DockerConnectorConfigurationTest.java,Eugene Ivantsov
+Thu Mar  3  8:44:51 2016,ExtServerVolumeProvider.java,Eugene Ivantsov
+Thu Mar  3  8:44:51 2016,TerminalVolumeProvider.java,Eugene Ivantsov
+Thu Mar 10 10:47:28 2016,che.properties,Eugene Ivantsov
+Thu Mar 10 10:47:28 2016,ProjectTemplateDescriptionLoader.java,Eugene Ivantsov
+Thu Mar 10 10:47:28 2016,ProjectTemplateDescriptionLoaderTest.java,Eugene Ivantsov

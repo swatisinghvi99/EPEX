@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Sun Oct  6  9:26:50 2019,PopupMenuExtender.java,Andrey Loskutov
+Sun Oct  6  9:26:50 2019,MultiPageEditorSite.java,Andrey Loskutov
+Mon Oct  7  9:22:34 2019,ControlContribution.java,Andrey Loskutov
+Wed Oct  9  9:39:44 2019,ContentAssistProcessorRegistry.java,Andrey Loskutov
+Wed Oct  9  9:41:44 2019,ContextInfoTest.java,Andrey Loskutov
+Wed Oct 16 13:53:12 2019,QuickAccessContents.java,Andrey Loskutov
+Wed Oct 16 13:53:12 2019,QuickAccessDialog.java,Andrey Loskutov
+Wed Oct 16 13:53:12 2019,HelpSearchProvider.java,Andrey Loskutov
+Fri Oct 18 15:10:29 2019,BindingToModelProcessor.java,Andrey Loskutov
+Fri Oct 18 15:10:29 2019,Workbench.java,Andrey Loskutov
+Fri Oct 18 15:10:29 2019,BindingService.java,Andrey Loskutov
+Thu Oct 24 11:47:56 2019,Activator.java,Andrey Loskutov

@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Thu Feb 17 18:56:40 2011,SimpleProfileRegistry.java,DJ Houghton
+Thu Feb 17 18:56:40 2011,IProfileRegistry.java,DJ Houghton
+Thu Feb 17 18:56:40 2011,ProfileRegistryTest.java,DJ Houghton
+Thu Feb 17 20:24:13 2011,SimpleProfileRegistry.java,DJ Houghton
+Thu Feb 17 20:24:13 2011,IProfileRegistry.java,DJ Houghton
+Thu Feb 17 20:24:13 2011,ProfileRegistryTest.java,DJ Houghton
+Tue Feb 22 18:38:30 2011,plugin.xml,DJ Houghton
+Tue Feb 22 18:38:30 2011,ActionConstants.java,DJ Houghton
+Tue Feb 22 18:38:30 2011,SetJvmAction.java,DJ Houghton
+Tue Feb 22 21:34:19 2011,RmdirAction.java,DJ Houghton
+Wed Mar  2 14:41:33 2011,LocalMetadataRepository.java,DJ Houghton
+Tue Mar  8 21:45:32 2011,Bug301446.java,DJ Houghton

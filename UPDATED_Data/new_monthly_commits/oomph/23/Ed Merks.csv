@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Mon Apr  4  8:27:03 2016,LaunchTaskImpl.java,Ed Merks
+Thu Apr  7 12:22:00 2016,InstallerApplication.java,Ed Merks
+Thu Apr  7 12:22:00 2016,P2TaskImpl.java,Ed Merks
+Thu Apr  7 14:07:40 2016,TargletContainer.java,Ed Merks
+Wed Apr 13 12:05:25 2016,ProgressPage.java,Ed Merks
+Mon Apr 18  5:34:52 2016,plugin.properties,Ed Merks
+Mon Apr 18  5:34:52 2016,APIBaselineFromTargetTaskItemProvider.java,Ed Merks
+Mon Apr 18  5:34:52 2016,APIBaselineTaskItemProvider.java,Ed Merks
+Mon Apr 18  5:34:52 2016,AbstractAPIBaselineTaskItemProvider.java,Ed Merks
+Mon Apr 18  5:34:52 2016,TargetPlatformTaskItemProvider.java,Ed Merks
+Mon Apr 18  5:34:52 2016,PDE.ecore,Ed Merks
+Mon Apr 18  5:34:52 2016,PDE.genmodel,Ed Merks
+Mon Apr 18  5:34:52 2016,APIBaselineTask.java,Ed Merks
+Mon Apr 18  5:34:52 2016,AbstractAPIBaselineTask.java,Ed Merks
+Mon Apr 18  5:34:52 2016,PDEPackage.java,Ed Merks
+Mon Apr 18  5:34:52 2016,TargetPlatformTask.java,Ed Merks
+Mon Apr 18  5:34:52 2016,APIBaselineFromTargetTaskImpl.java,Ed Merks
+Mon Apr 18  5:34:52 2016,APIBaselineTaskImpl.java,Ed Merks
+Mon Apr 18  5:34:52 2016,AbstractAPIBaselineTaskImpl.java,Ed Merks
+Mon Apr 18  5:34:52 2016,PDEPackageImpl.java,Ed Merks
+Mon Apr 18  5:34:52 2016,TargetPlatformTaskImpl.java,Ed Merks
+Mon Apr 18  5:34:52 2016,TargletTaskItemProvider.java,Ed Merks
+Mon Apr 18  5:34:52 2016,TargletTaskImpl.java,Ed Merks
+Mon Apr 18  5:34:52 2016,SetupUtil.java,Ed Merks
+Mon Apr 18  5:34:52 2016,TargetPlatformUtil.java,Ed Merks
+Mon Apr 18  5:34:52 2016,PDE.ecore,Ed Merks

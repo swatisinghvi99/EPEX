@@ -1,0 +1,35 @@
+date_time,file,committer_name
+Thu Apr 16 14:17:08 2015,MANIFEST.MF,Dennis Nobel
+Thu Apr 16 14:17:08 2015,ItemConsoleCommandExtension.xml,Dennis Nobel
+Thu Apr 16 14:17:08 2015,SendConsoleCommandExtension.xml,Dennis Nobel
+Thu Apr 16 14:17:08 2015,StatusConsoleCommandExtension.xml,Dennis Nobel
+Thu Apr 16 14:17:08 2015,UpdateConsoleCommandExtension.xml,Dennis Nobel
+Thu Apr 16 14:17:08 2015,ConsoleActivator.java,Dennis Nobel
+Thu Apr 16 14:17:08 2015,ItemConsoleCommandExtension.java,Dennis Nobel
+Thu Apr 16 14:17:08 2015,SendConsoleCommandExtension.java,Dennis Nobel
+Thu Apr 16 14:17:08 2015,StatusConsoleCommandExtension.java,Dennis Nobel
+Thu Apr 16 14:17:08 2015,UpdateConsoleCommandExtension.java,Dennis Nobel
+Thu Apr 16 14:17:08 2015,SmartHome Runtime.launch,Dennis Nobel
+Tue Apr 21  6:47:43 2015,pom.xml,Dennis Nobel
+Tue Apr 21  6:47:43 2015,pom.xml,Dennis Nobel
+Tue Apr 21  6:47:43 2015,pom.xml,Dennis Nobel
+Fri Apr 24  5:57:28 2015,BaseThingHandler.java,Dennis Nobel
+Mon Apr 27  6:22:02 2015,DiscoveryResource.java,Dennis Nobel
+Mon Apr 27  6:22:02 2015,InboxResource.java,Dennis Nobel
+Mon Apr 27 20:57:17 2015,ThingSetupManagerOSGiTest.groovy,Dennis Nobel
+Tue Apr 28 17:55:00 2015,BaseThingHandlerFactory.java,Dennis Nobel
+Tue Apr 28 17:55:00 2015,ThingFactory.java,Dennis Nobel
+Tue Apr 28 17:55:00 2015,ThingSetupManager.java,Dennis Nobel
+Wed Apr 29 13:28:23 2015,BindingBaseClassesOSGiTest.groovy,Dennis Nobel
+Wed Apr 29 13:28:23 2015,BaseThingHandler.java,Dennis Nobel
+Wed Apr 29 13:28:23 2015,BaseThingHandlerFactory.java,Dennis Nobel
+Tue May  5 15:41:10 2015,MANIFEST.MF,Dennis Nobel
+Tue May  5 15:41:10 2015,DiscoveryServiceRegistryImpl.java,Dennis Nobel
+Tue May  5 15:41:10 2015,PersistentInbox.java,Dennis Nobel
+Thu May  7  6:02:51 2015,ThingConsoleCommandExtension.java,Dennis Nobel
+Thu May  7  6:02:51 2015,GenericThingProviderTest.groovy,Dennis Nobel
+Thu May  7  6:02:51 2015,Thing.xtext,Dennis Nobel
+Thu May  7  6:02:51 2015,GenericThingProvider.xtend,Dennis Nobel
+Thu May  7  6:02:51 2015,things.md,Dennis Nobel
+Fri May  8 11:37:11 2015,ThingStatusInfo.java,Dennis Nobel
+Fri May  8 11:37:11 2015,ThingStatusInfoBuilder.java,Dennis Nobel

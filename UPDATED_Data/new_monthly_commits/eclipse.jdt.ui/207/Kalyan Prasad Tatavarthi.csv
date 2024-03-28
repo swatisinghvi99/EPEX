@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Mon Jul 16  5:54:05 2018,plugin.xml,Kalyan Prasad Tatavarthi
+Mon Jul 16  5:54:05 2018,DefaultClasspathFixProcessor.java,Kalyan Prasad Tatavarthi
+Mon Jul 16  5:54:05 2018,DefaultModulepathFixProcessor.java,Kalyan Prasad Tatavarthi
+Mon Jul 16  5:54:05 2018,ModuleCorrectionsSubProcessor.java,Kalyan Prasad Tatavarthi
+Mon Jul 16  8:27:53 2018,DefaultClasspathFixProcessor.java,Kalyan Prasad Tatavarthi
+Tue Jul 24  6:00:11 2018,A_testVar1.java,Kalyan Prasad Tatavarthi
+Tue Jul 24  6:00:11 2018,A_testVar1.java,Kalyan Prasad Tatavarthi
+Tue Jul 24  6:00:11 2018,ExtractMethodTestSetup10.java,Kalyan Prasad Tatavarthi
+Tue Jul 24  6:00:11 2018,ExtractMethodTests10.java,Kalyan Prasad Tatavarthi
+Tue Jul 24  6:00:11 2018,Java10Setup.java,Kalyan Prasad Tatavarthi
+Tue Jul 24  6:00:11 2018,JavaProjectHelper.java,Kalyan Prasad Tatavarthi
+Tue Jul 24  6:00:11 2018,ASTNodeFactory.java,Kalyan Prasad Tatavarthi
+Tue Jul 24  6:00:11 2018,ExtractMethodAnalyzer.java,Kalyan Prasad Tatavarthi
+Tue Jul 24  6:00:11 2018,ExtractMethodRefactoring.java,Kalyan Prasad Tatavarthi
+Wed Jul 25  8:53:29 2018,AssistQuickFixTest18.java,Kalyan Prasad Tatavarthi
+Thu Jul 26  5:56:01 2018,QuickFixProcessor.java,Kalyan Prasad Tatavarthi

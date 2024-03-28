@@ -1,0 +1,37 @@
+date_time,file,committer_name
+Thu Feb  3 15:54:53 2022,AbstractSequentialExecutionEngine.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,SimpleExceptionHandler.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,plugin.properties,Erwan Bousse
+Thu Feb  3 15:54:53 2022,MSEModelItemProvider.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,.classpath,Erwan Bousse
+Thu Feb  3 15:54:53 2022,.project,Erwan Bousse
+Thu Feb  3 15:54:53 2022,MANIFEST.MF,Erwan Bousse
+Thu Feb  3 15:54:53 2022,build.properties,Erwan Bousse
+Thu Feb  3 15:54:53 2022,plugin.properties,Erwan Bousse
+Thu Feb  3 15:54:53 2022,plugin.xml,Erwan Bousse
+Thu Feb  3 15:54:53 2022,GenericTraceEditorPlugin.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,TraceActionBarContributor.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,TraceEditor.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,TraceModelWizard.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,GenericTrace.aird,Erwan Bousse
+Thu Feb  3 15:54:53 2022,GenericTrace.ecore,Erwan Bousse
+Thu Feb  3 15:54:53 2022,GenericTrace.genmodel,Erwan Bousse
+Thu Feb  3 15:54:53 2022,trace class diagram.svg,Erwan Bousse
+Thu Feb  3 15:54:53 2022,GenericMSE.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,MSEModel.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,TracePackage.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,TracedObject.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,BigStepImpl.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,DimensionImpl.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,GenericMSEImpl.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,MSEImpl.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,MSEModelImpl.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,MSEOccurrenceImpl.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,StateImpl.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,StepImpl.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,TraceFactoryImpl.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,TraceImpl.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,TracePackageImpl.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,TracedObjectImpl.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,ValueImpl.java,Erwan Bousse
+Thu Feb  3 15:54:53 2022,GenericTraceConstructor.java,Erwan Bousse

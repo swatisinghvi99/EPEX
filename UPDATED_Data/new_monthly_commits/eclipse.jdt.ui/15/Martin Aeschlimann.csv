@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Tue Jul 23 12:48:37 2002,ASTRewritingTest.java,Martin Aeschlimann
+Tue Jul 23 12:52:21 2002,JavaUIHelp.java,Martin Aeschlimann
+Tue Jul 23 12:53:25 2002,CodeFormatterUtil.java,Martin Aeschlimann
+Tue Jul 23 13:17:28 2002,ASTRewriteAnalyzer.java,Martin Aeschlimann
+Tue Jul 23 13:17:28 2002,ASTResolving.java,Martin Aeschlimann
+Tue Jul 23 13:17:28 2002,ASTRewriteCorrectionProposal.java,Martin Aeschlimann
+Tue Jul 23 13:17:28 2002,CUCorrectionProposal.java,Martin Aeschlimann
+Tue Jul 23 13:17:28 2002,JavaCorrectionProcessor.java,Martin Aeschlimann
+Tue Jul 23 13:17:28 2002,LocalCorrectionsSubProcessor.java,Martin Aeschlimann
+Tue Jul 23 14:57:13 2002,ASTRewritingTest.java,Martin Aeschlimann
+Tue Jul 23 14:57:13 2002,ASTRewriteAnalyzer.java,Martin Aeschlimann
+Wed Jul 24 17:14:51 2002,ASTRewritingTest.java,Martin Aeschlimann
+Wed Jul 24 17:14:51 2002,ASTResolving.java,Martin Aeschlimann
+Wed Jul 24 17:14:51 2002,ASTRewriteCorrectionProposal.java,Martin Aeschlimann
+Wed Jul 24 17:14:51 2002,LocalCorrectionsSubProcessor.java,Martin Aeschlimann
+Thu Jul 25 10:13:33 2002,LocalCorrectionsSubProcessor.java,Martin Aeschlimann
+Thu Jul 25 16:59:42 2002,NewVariableCompletionProposal.java,Martin Aeschlimann
+Thu Jul 25 17:00:07 2002,ASTRewriteAnalyzer.java,Martin Aeschlimann
+Thu Jul 25 17:00:07 2002,ASTResolving.java,Martin Aeschlimann
+Fri Jul 26 15:38:58 2002,ASTRewritingMethodDeclTest.java,Martin Aeschlimann
+Fri Jul 26 15:38:58 2002,ASTRewritingStatementsTest.java,Martin Aeschlimann
+Fri Jul 26 15:38:58 2002,ASTRewritingTest.java,Martin Aeschlimann
+Fri Jul 26 15:38:58 2002,ASTRewriteAnalyzer.java,Martin Aeschlimann
+Fri Jul 26 15:47:24 2002,ASTResolving.java,Martin Aeschlimann
+Fri Jul 26 17:20:14 2002,ASTResolving.java,Martin Aeschlimann

@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Wed Jul  9 14:44:50 2008,Variable.java,Alena Laskavaia
+Wed Jul  9 16:37:40 2008,EventBreakpoint.java,Alena Laskavaia
+Wed Jul  9 16:37:40 2008,plugin.properties,Alena Laskavaia
+Wed Jul  9 16:37:40 2008,plugin.xml,Alena Laskavaia
+Wed Jul  9 21:21:30 2008,CMemoryBlockRetrievalExtension.java,Alena Laskavaia
+Fri Jul 11 14:24:38 2008,ScannerInfoConsoleParserFactory.java,Alena Laskavaia
+Fri Jul 11 14:26:02 2008,ProjectTargets.java,Alena Laskavaia
+Fri Jul 11 14:26:02 2008,MakeTargetDialog.java,Alena Laskavaia
+Tue Jul 15 18:10:13 2008,CThread.java,Alena Laskavaia
+Tue Jul 15 18:13:09 2008,CThread.java,Alena Laskavaia
+Tue Jul 15 20:09:47 2008,EnvironmentTab.java,Alena Laskavaia
+Thu Jul 17 18:23:23 2008,CConfigBasedDescriptorManager.java,Alena Laskavaia

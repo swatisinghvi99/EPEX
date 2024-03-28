@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Wed Sep 19 21:54:00 2012,MANIFEST.MF,Kilian Matt
+Wed Sep 19 21:54:00 2012,GenericTaskChangesetMapper.java,Kilian Matt
+Wed Sep 19 21:54:00 2012,IChangeSetCollector.java,Kilian Matt
+Wed Sep 19 21:54:00 2012,ChangeSetIndexer.java,Kilian Matt
+Wed Sep 19 21:54:00 2012,ChangeSetProvider.java,Kilian Matt
+Wed Sep 19 21:54:00 2012,EclipseIndexLocationProvider.java,Kilian Matt
+Wed Sep 19 21:54:00 2012,EclipsePluginConfiguration.java,Kilian Matt
+Wed Sep 19 21:54:00 2012,EclipseWorkspaceRepositorySource.java,Kilian Matt
+Wed Sep 19 21:54:00 2012,FileRevision.java,Kilian Matt
+Wed Sep 19 21:54:00 2012,IIndexLocationProvider.java,Kilian Matt
+Wed Sep 19 21:54:00 2012,IndexedFields.java,Kilian Matt
+Wed Sep 19 21:54:00 2012,MappingChangeSetCollector.java,Kilian Matt
+Wed Sep 19 21:54:00 2012,RepositoryIndexer.java,Kilian Matt
+Wed Sep 19 21:54:00 2012,RepositoryIndexerPlugin.java,Kilian Matt
+Wed Sep 19 21:54:00 2012,MANIFEST.MF,Kilian Matt
+Wed Sep 19 21:54:00 2012,build.properties,Kilian Matt
+Wed Sep 19 21:54:00 2012,pom.xml,Kilian Matt
+Wed Sep 19 21:54:00 2012,GenericTaskChangesetMapperTest.java,Kilian Matt
+Wed Sep 19 21:54:00 2012,RepositoryIndexerPluginTest.java,Kilian Matt
+Wed Sep 19 21:56:55 2012,GenericTaskChangesetMapper.java,Kilian Matt
+Wed Sep 19 21:56:55 2012,EclipseWorkspaceRepositorySource.java,Kilian Matt
+Wed Sep 19 21:57:59 2012,ChangesetPart.java,Kilian Matt
+Wed Sep 19 21:57:59 2012,IChangesetModel.java,Kilian Matt
+Wed Sep 19 21:57:59 2012,IncludeSubTasksAction.java,Kilian Matt
+Wed Sep 19 21:57:59 2012,TaskChangesetLabelProvider.java,Kilian Matt

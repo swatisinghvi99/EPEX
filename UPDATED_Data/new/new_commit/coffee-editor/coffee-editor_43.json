@@ -1,0 +1,337 @@
+[
+    [
+        "Simon Graband",
+        "MF",
+        2
+    ],
+    [
+        "Simon Graband",
+        "java",
+        31
+    ],
+    [
+        "Simon Graband",
+        "target",
+        2
+    ],
+    [
+        "Simon Graband",
+        "tpd",
+        2
+    ],
+    [
+        "Simon Graband",
+        "ecore",
+        1
+    ],
+    [
+        "Simon Graband",
+        "genmodel",
+        1
+    ],
+    [
+        "Simon Graband",
+        "launch",
+        1
+    ],
+    [
+        "Simon Graband",
+        "ts",
+        4
+    ],
+    [
+        "Simon Graband",
+        "json",
+        1
+    ],
+    [
+        "Simon Graband",
+        "css",
+        1
+    ],
+    [
+        "Lucas Koehler",
+        "MF",
+        7
+    ],
+    [
+        "Lucas Koehler",
+        "java",
+        120
+    ],
+    [
+        "Lucas Koehler",
+        "classpath",
+        2
+    ],
+    [
+        "Lucas Koehler",
+        "xml",
+        4
+    ],
+    [
+        "Lucas Koehler",
+        "target",
+        2
+    ],
+    [
+        "Lucas Koehler",
+        "tpd",
+        2
+    ],
+    [
+        "Lucas Koehler",
+        "ts",
+        10
+    ],
+    [
+        "Lucas Koehler",
+        "json",
+        5
+    ],
+    [
+        "Lucas Koehler",
+        "tsx",
+        3
+    ],
+    [
+        "Lucas Koehler",
+        "project",
+        1
+    ],
+    [
+        "Lucas Koehler",
+        "prefs",
+        3
+    ],
+    [
+        "Lucas Koehler",
+        "properties",
+        1
+    ],
+    [
+        "Lucas Koehler",
+        "genmodel",
+        1
+    ],
+    [
+        "Lucas Koehler",
+        "product",
+        2
+    ],
+    [
+        "Lucas Koehler",
+        "launch",
+        2
+    ],
+    [
+        "Lucas Koehler",
+        "coffee",
+        1
+    ],
+    [
+        "Nina Doschek",
+        "MF",
+        14
+    ],
+    [
+        "Nina Doschek",
+        "properties",
+        7
+    ],
+    [
+        "Nina Doschek",
+        "java",
+        114
+    ],
+    [
+        "Nina Doschek",
+        "classpath",
+        4
+    ],
+    [
+        "Nina Doschek",
+        "project",
+        4
+    ],
+    [
+        "Nina Doschek",
+        "xml",
+        5
+    ],
+    [
+        "Nina Doschek",
+        "prefs",
+        3
+    ],
+    [
+        "Nina Doschek",
+        "product",
+        11
+    ],
+    [
+        "Nina Doschek",
+        "target",
+        5
+    ],
+    [
+        "Nina Doschek",
+        "tpd",
+        5
+    ],
+    [
+        "Nina Doschek",
+        "json",
+        26
+    ],
+    [
+        "Nina Doschek",
+        "ts",
+        33
+    ],
+    [
+        "Nina Doschek",
+        "tsx",
+        3
+    ],
+    [
+        "Nina Doschek",
+        "lock",
+        5
+    ],
+    [
+        "Nina Doschek",
+        "launch",
+        7
+    ],
+    [
+        "Nina Doschek",
+        "ecore",
+        1
+    ],
+    [
+        "Nina Doschek",
+        "genmodel",
+        1
+    ],
+    [
+        "Nina Doschek",
+        "coffee",
+        2
+    ],
+    [
+        "Nina Doschek",
+        "coffeenotation",
+        1
+    ],
+    [
+        "Nina Doschek",
+        "notation",
+        4
+    ],
+    [
+        "Nina Doschek",
+        "css",
+        2
+    ],
+    [
+        "Nina Doschek",
+        "gitignore",
+        2
+    ],
+    [
+        "Nina Doschek",
+        "vscodeignore",
+        1
+    ],
+    [
+        "Nina Doschek",
+        "sh",
+        1
+    ],
+    [
+        "Nina Doschek",
+        "yarnrc",
+        1
+    ],
+    [
+        "Tobias Ortmayr",
+        "classpath",
+        1
+    ],
+    [
+        "Tobias Ortmayr",
+        "target",
+        1
+    ],
+    [
+        "Tobias Ortmayr",
+        "tpd",
+        1
+    ],
+    [
+        "Tobias Ortmayr",
+        "js",
+        1
+    ],
+    [
+        "Tobias Ortmayr",
+        "gitignore",
+        1
+    ],
+    [
+        "Tobias Ortmayr",
+        "vscodeignore",
+        1
+    ],
+    [
+        "Tobias Ortmayr",
+        "json",
+        16
+    ],
+    [
+        "Tobias Ortmayr",
+        "ts",
+        15
+    ],
+    [
+        "Tobias Ortmayr",
+        "lock",
+        2
+    ],
+    [
+        "Tobias Ortmayr",
+        "sh",
+        1
+    ],
+    [
+        "Tobias Ortmayr",
+        "yarnrc",
+        1
+    ],
+    [
+        "Tobias Ortmayr",
+        "md",
+        3
+    ],
+    [
+        "Tobias Ortmayr",
+        "css",
+        1
+    ],
+    [
+        "Tobias Ortmayr",
+        "tsx",
+        1
+    ],
+    [
+        "Eugen Neufeld",
+        "json",
+        1
+    ],
+    [
+        "Eugen Neufeld",
+        "ts",
+        2
+    ]
+]

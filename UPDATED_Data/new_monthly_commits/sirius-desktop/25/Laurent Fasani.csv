@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Fri Sep 11 15:22:37 2015,org.eclipse.jdt.core.prefs,Laurent Fasani
+Fri Sep 11 15:22:37 2015,MANIFEST.MF,Laurent Fasani
+Fri Sep 11 15:22:37 2015,plugin.properties,Laurent Fasani
+Fri Sep 11 15:22:37 2015,Messages.java,Laurent Fasani
+Fri Sep 11 15:22:37 2015,LayoutHelperImpl.java,Laurent Fasani
+Fri Sep 11 15:22:37 2015,ConfigurationImpl.java,Laurent Fasani
+Fri Sep 11 15:22:37 2015,EdgeConfigurationImpl.java,Laurent Fasani
+Fri Sep 11 15:22:37 2015,NodeConfigurationImpl.java,Laurent Fasani
+Fri Sep 11 15:22:37 2015,Release_Notes.html,Laurent Fasani
+Fri Sep 11 15:22:37 2015,Release_Notes.textile,Laurent Fasani
+Fri Sep 11 15:23:53 2015,org.eclipse.jdt.core.prefs,Laurent Fasani
+Fri Sep 11 15:23:53 2015,MANIFEST.MF,Laurent Fasani
+Fri Sep 11 15:23:53 2015,plugin.properties,Laurent Fasani
+Fri Sep 11 15:23:53 2015,DslOclPlugin.java,Laurent Fasani
+Fri Sep 11 15:23:53 2015,OclInterpreter.java,Laurent Fasani
+Fri Sep 11 15:23:53 2015,Messages.java,Laurent Fasani
+Tue Sep 29  9:05:11 2015,DeletionCommandBuilder.java,Laurent Fasani
+Tue Sep 29  9:05:11 2015,Release_Notes.html,Laurent Fasani
+Tue Sep 29  9:05:11 2015,Release_Notes.textile,Laurent Fasani
+Tue Sep 29  9:05:11 2015,TableCommandFactory.java,Laurent Fasani
+Tue Sep 29  9:05:11 2015,TreeCommandFactory.java,Laurent Fasani

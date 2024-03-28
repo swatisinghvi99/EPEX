@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Wed Dec 13 12:06:19 2023,org.eclipse.jdt.ui.prefs,Lars Vogel
+Wed Dec 13 12:06:19 2023,DeleteResourceChange.java,Lars Vogel
+Wed Dec 13 12:06:19 2023,MoveRenameResourceChange.java,Lars Vogel
+Wed Dec 13 20:54:26 2023,CreateChangeOperation.java,Lars Vogel
+Thu Dec 14  9:28:37 2023,UriSchemeHandlerPreferencePage.java,Lars Vogel
+Thu Dec 14  9:28:37 2023,FilteredResourcesSelectionDialog.java,Lars Vogel
+Thu Dec 14  9:28:37 2023,OpenFilesystemQuickAccessComputer.java,Lars Vogel
+Thu Dec 14  9:28:37 2023,TypesConfigurationArea.java,Lars Vogel
+Thu Dec 14  9:28:37 2023,NotificationPopupTest.java,Lars Vogel
+Thu Dec 14  9:28:37 2023,E4UndoRedoTestPart.java,Lars Vogel
+Thu Dec 14  9:28:37 2023,E4PickList.java,Lars Vogel
+Thu Dec 14  9:28:37 2023,AbstractIconDialogWithHardcodedScope.java,Lars Vogel
+Thu Dec 14  9:28:37 2023,AbstractIconDialogWithScopeAndFilter.java,Lars Vogel
+Thu Dec 14 11:05:12 2023,Change.java,Lars Vogel
+Thu Dec 14 11:05:12 2023,CompositeChange.java,Lars Vogel
+Thu Dec 14 11:05:12 2023,DeleteResourceChange.java,Lars Vogel
+Thu Dec 14 11:05:12 2023,MoveRenameResourceChange.java,Lars Vogel
+Thu Dec 14 11:05:12 2023,MoveResourceChange.java,Lars Vogel
+Thu Dec 14 11:05:12 2023,ResourceChange.java,Lars Vogel
+Fri Dec 15 10:30:05 2023,ShellActivationListener.java,Lars Vogel

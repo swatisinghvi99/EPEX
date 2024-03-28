@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Tue Apr 12 21:23:18 2016,ValueSerializer.java,Moritz Eysholdt
+Tue Apr 19 12:29:57 2016,ITextRegionAccess.java,Moritz Eysholdt
+Tue Apr 19 12:29:57 2016,ITextRegionExtensions.java,Moritz Eysholdt
+Tue Apr 19 12:30:00 2016,IAstRegion.java,Moritz Eysholdt
+Tue Apr 19 12:30:00 2016,ISemanticRegion.java,Moritz Eysholdt
+Tue Apr 19 12:30:00 2016,NodeSemanticRegion.java,Moritz Eysholdt
+Tue Apr 19 12:30:00 2016,StringSemanticRegion.java,Moritz Eysholdt
+Tue Apr 19 12:30:00 2016,TextRegionAccessBuildingSequencer.java,Moritz Eysholdt
+Tue Apr 19 12:30:02 2016,FormatterPreferenceKeys.java,Moritz Eysholdt
+Tue Apr 19 12:30:02 2016,TextReplacerContext.java,Moritz Eysholdt

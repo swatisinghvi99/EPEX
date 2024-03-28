@@ -1,0 +1,72 @@
+[
+    [
+        "desmith",
+        "java",
+        23
+    ],
+    [
+        "desmith",
+        "json",
+        4
+    ],
+    [
+        "desmith",
+        "xml",
+        4
+    ],
+    [
+        "desmith",
+        "xsd",
+        1
+    ],
+    [
+        "David McCann",
+        "java",
+        4
+    ],
+    [
+        "David Minsky",
+        "xsd",
+        3
+    ],
+    [
+        "David Minsky",
+        "xml",
+        4
+    ],
+    [
+        "David Minsky",
+        "java",
+        20
+    ],
+    [
+        "Tomas Kraus",
+        "java",
+        3
+    ],
+    [
+        "Matt MacIvor",
+        "java",
+        7
+    ],
+    [
+        "Matt MacIvor",
+        "json",
+        1
+    ],
+    [
+        "Matt MacIvor",
+        "xml",
+        1
+    ],
+    [
+        "Rick Curtis",
+        "java",
+        7
+    ],
+    [
+        "Gordon Yorke",
+        "java",
+        3
+    ]
+]

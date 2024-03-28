@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Thu Apr 14 13:45:46 2022,CardReaderObserver.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,Main_SessionTrace_TN313_Pcsc.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,Main_ExplicitSelectionAid_Pcsc.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,Main_ExplicitSelectionAid_Stub.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,CardReaderObserver.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,Main_Rev1Selection_Pcsc.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,Main_CardAuthentication_Pcsc.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,Main_CardAuthentication_Stub.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,Main_MultipleSesssion_Pcsc.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,Main_VerifyPin_Pcsc.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,Main_StoredValue_SimpleReload_Pcsc.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,Main_StoredValue_DebitInSession_Pcsc.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,Main_ChangePin_Pcsc.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,StubSmartCardFactory.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,CalypsoTicketingServiceUtil.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,AppServer.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,AppClient.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,CalypsoTicketingServiceUtil.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,AppClient.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,CalypsoTicketingServiceUtil.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,CoreExamplesActivity.kt,Andrei Cristea
+Thu Apr 14 13:45:46 2022,CoreExamplesActivity.kt,Andrei Cristea
+Thu Apr 14 13:45:46 2022,Main_BasicSelection_Pcsc.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,Main_SequentialMultiSelection_Pcsc.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,Main_GroupedMultiSelection_Pcsc.java,Andrei Cristea
+Thu Apr 14 13:45:46 2022,Main_CardResourceService_Stub.java,Andrei Cristea

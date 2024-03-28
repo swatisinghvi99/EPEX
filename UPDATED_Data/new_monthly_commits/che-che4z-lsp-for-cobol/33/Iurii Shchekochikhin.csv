@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Wed Apr 13 10:08:50 2022,CopybookHierarchy.java,Iurii Shchekochikhin
+Wed Apr 13 10:08:50 2022,AbstractCopybookAnalysis.java,Iurii Shchekochikhin
+Wed Apr 13 10:08:50 2022,CopybookName.java,Iurii Shchekochikhin
+Wed Apr 13 10:08:50 2022,CopybookService.java,Iurii Shchekochikhin
+Wed Apr 13 10:08:50 2022,CopybookServiceImpl.java,Iurii Shchekochikhin
+Wed Apr 13 10:08:50 2022,CopybookServiceTest.java,Iurii Shchekochikhin
+Wed Apr 13 10:08:50 2022,AnnotatedDocumentCleaning.java,Iurii Shchekochikhin
+Wed Apr 13 10:08:50 2022,UseCaseUtils.java,Iurii Shchekochikhin
+Wed Apr 20  9:56:34 2022,CobolLexer.g4,Iurii Shchekochikhin
+Wed Apr 20  9:56:34 2022,CobolParser.g4,Iurii Shchekochikhin
+Wed Apr 20  9:56:34 2022,DaCoParser.g4,Iurii Shchekochikhin
+Wed Apr 20  9:56:34 2022,TextReplacement.java,Iurii Shchekochikhin
+Wed Apr 20  9:56:34 2022,DaCoDialect.java,Iurii Shchekochikhin
+Wed Apr 20  9:56:34 2022,DaCoVisitor.java,Iurii Shchekochikhin
+Wed Apr 20  9:56:34 2022,CobolVisitor.java,Iurii Shchekochikhin
+Wed Apr 20  9:56:34 2022,messages_en.properties,Iurii Shchekochikhin
+Thu Apr 28  8:39:37 2022,DaCoLexer.g4,Iurii Shchekochikhin
+Thu Apr 28  8:39:37 2022,DaCoParser.g4,Iurii Shchekochikhin
+Thu Apr 28  8:39:37 2022,DaCoDialect.java,Iurii Shchekochikhin
+Thu Apr 28  8:39:37 2022,DaCoVisitor.java,Iurii Shchekochikhin
+Thu Apr 28  8:39:37 2022,TestDaCoPrefixStatement.java,Iurii Shchekochikhin
+Tue May  3 10:15:02 2022,DaCoDialect.java,Iurii Shchekochikhin
+Wed May  4 15:14:17 2022,RangeUtils.java,Iurii Shchekochikhin

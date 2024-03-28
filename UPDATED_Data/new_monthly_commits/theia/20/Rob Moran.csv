@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Sat Sep 29 10:33:29 2018,variable-resolver-service.ts,Rob Moran
+Mon Oct  1  9:54:20 2018,keybinding.ts,Rob Moran
+Mon Oct  1  9:54:20 2018,command.ts,Rob Moran
+Mon Oct  1  9:54:20 2018,menu.ts,Rob Moran
+Tue Oct  2 10:35:54 2018,terminal-frontend-contribution.ts,Rob Moran
+Tue Oct  2 14:07:42 2018,debug-threads-widget.ts,Rob Moran
+Thu Oct  4  9:48:07 2018,keybinding.ts,Rob Moran
+Thu Oct  4  9:48:07 2018,command.ts,Rob Moran
+Thu Oct  4  9:48:07 2018,menu.ts,Rob Moran
+Sun Oct  7 10:06:44 2018,breakpoint-manager.ts,Rob Moran

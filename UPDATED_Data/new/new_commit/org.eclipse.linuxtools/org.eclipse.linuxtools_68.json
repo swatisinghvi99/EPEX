@@ -1,0 +1,302 @@
+[
+    [
+        "Genevi\u00e8ve Bastien",
+        "java",
+        32
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "mediawiki",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "classpath",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "MF",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "properties",
+        1
+    ],
+    [
+        "Patrick Tasse",
+        "java",
+        63
+    ],
+    [
+        "Patrick Tasse",
+        "mediawiki",
+        1
+    ],
+    [
+        "Patrick Tasse",
+        "properties",
+        5
+    ],
+    [
+        "Matthew Khouzam",
+        "java",
+        56
+    ],
+    [
+        "Matthew Khouzam",
+        "MF",
+        3
+    ],
+    [
+        "Matthew Khouzam",
+        "mediawiki",
+        1
+    ],
+    [
+        "Matthew Khouzam",
+        "classpath",
+        1
+    ],
+    [
+        "Matthew Khouzam",
+        "gitignore",
+        1
+    ],
+    [
+        "Matthew Khouzam",
+        "project",
+        1
+    ],
+    [
+        "Matthew Khouzam",
+        "prefs",
+        6
+    ],
+    [
+        "Matthew Khouzam",
+        "html",
+        1
+    ],
+    [
+        "Matthew Khouzam",
+        "properties",
+        2
+    ],
+    [
+        "Matthew Khouzam",
+        "xml",
+        2
+    ],
+    [
+        "Jonathan Rajotte Julien",
+        "java",
+        74
+    ],
+    [
+        "Jonathan Rajotte Julien",
+        "cfg",
+        6
+    ],
+    [
+        "Jonathan Rajotte Julien",
+        "properties",
+        5
+    ],
+    [
+        "Vincent Perot",
+        "classpath",
+        3
+    ],
+    [
+        "Vincent Perot",
+        "project",
+        3
+    ],
+    [
+        "Vincent Perot",
+        "prefs",
+        18
+    ],
+    [
+        "Vincent Perot",
+        "MF",
+        4
+    ],
+    [
+        "Vincent Perot",
+        "html",
+        3
+    ],
+    [
+        "Vincent Perot",
+        "properties",
+        11
+    ],
+    [
+        "Vincent Perot",
+        "xml",
+        6
+    ],
+    [
+        "Vincent Perot",
+        "java",
+        44
+    ],
+    [
+        "Jeff Johnston",
+        "xml",
+        4
+    ],
+    [
+        "Jeff Johnston",
+        "MF",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "java",
+        8
+    ],
+    [
+        "Andrew Ferrazzutti",
+        "java",
+        26
+    ],
+    [
+        "Andrew Ferrazzutti",
+        "properties",
+        3
+    ],
+    [
+        "Andrew Ferrazzutti",
+        "MF",
+        1
+    ],
+    [
+        "Andrew Ferrazzutti",
+        "xml",
+        4
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        24
+    ],
+    [
+        "Alexander Kurtakov",
+        "prefs",
+        4
+    ],
+    [
+        "Alexandre Montplaisir",
+        "java",
+        203
+    ],
+    [
+        "Alexandre Montplaisir",
+        "MF",
+        11
+    ],
+    [
+        "Alexandre Montplaisir",
+        "properties",
+        2
+    ],
+    [
+        "Alexandre Montplaisir",
+        "mediawiki",
+        1
+    ],
+    [
+        "Alexandre Montplaisir",
+        "xml",
+        7
+    ],
+    [
+        "Alexandre Montplaisir",
+        "exsd",
+        1
+    ],
+    [
+        "Bernd Hufmann",
+        "java",
+        9
+    ],
+    [
+        "Roland Grunberg",
+        "java",
+        2
+    ],
+    [
+        "Rodrigo Fraxino Araujo",
+        "java",
+        1
+    ],
+    [
+        "Leo Ufimtsev",
+        "properties",
+        3
+    ],
+    [
+        "Leo Ufimtsev",
+        "MF",
+        4
+    ],
+    [
+        "Leo Ufimtsev",
+        "java",
+        17
+    ],
+    [
+        "Leo Ufimtsev",
+        "target",
+        1
+    ],
+    [
+        "Leo Ufimtsev",
+        "xml",
+        5
+    ],
+    [
+        "Wainer S. Moschetta",
+        "java",
+        2
+    ],
+    [
+        "Francis Giraldeau",
+        "java",
+        10
+    ],
+    [
+        "Francis Giraldeau",
+        "MF",
+        1
+    ],
+    [
+        "Simon Marchi",
+        "java",
+        1
+    ],
+    [
+        "Rafael Peria de Sene",
+        "java",
+        2
+    ],
+    [
+        "Rafael Peria de Sene",
+        "properties",
+        1
+    ],
+    [
+        "Marc-Andre Laperle",
+        "java",
+        9
+    ],
+    [
+        "Generoso Pagano",
+        "java",
+        5
+    ]
+]

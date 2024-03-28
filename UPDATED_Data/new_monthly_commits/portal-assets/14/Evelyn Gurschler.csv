@@ -1,0 +1,209 @@
+date_time,file,committer_name
+Thu Jan 18 15:19:10 2024,.eslintignore,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,pull_request_template.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04. My Business Apps.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,05. FAQ.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. App Card.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. App Detail Page.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,App-Design_guidelines.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,App-Release_guidelines.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,index.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. App Approval Board.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. App Board.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Subscription Request (Customer).md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. Subscription Overview (App Provider).md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04. Subscription Activation (App Provider).md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,05. App Unsubscribe.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,05. FAQ.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Summary.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Change App Lead Image.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. Change App Description.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04. App Deactivation.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,05. Change App Tenant URL.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,06. Change App RolesL.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,07. Document Change.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,index.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Service Marketplace.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Service Details.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Service Card.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Service Detail Page.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03.Terms&Conditions.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04.Technical Integration.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,05.Verify & Submit.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,06. FAQ.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,index.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Service Approval Board.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Service Details.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. Approve Service Release.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04. Decline Service Release.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Service Subscription.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. Subscription Overview (Provider).md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04. Service Subscription Activation (Provider).md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04. Service Unsubscribe.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,05. FAQ.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Summary.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Service Deactivation.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,index.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. UseCase Participation.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Other Certificates.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. Credential Admin Board.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. FAQ.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,index.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Overview.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Login.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,12. Offer Authentication Flow.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,button load more.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,button.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,date picker.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,drop down.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,dropzone.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,input field.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,loading.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,scrollbar.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,searchbar.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,toast message.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,06. Verify Registration Data.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Company IdPs.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Configure Company IdP.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. User Migration.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04. Delete Identity Provider.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,05. Disable Identity Provider.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,05. Change Company Role.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Get UseCase Credential.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Other Certificates.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. Credential Admin Board.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,06. Delete User.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04. Reset Credentials.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. App Overview.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. App Details.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. App Favorites.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04. My Business Apps.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01.App Subscription Request Management.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. App Subscription Activation (Provider).md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. Unsubscribe.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Summary.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Change App Lead Image.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. App Instance Url.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. Change App Description.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,05. App Instance Url.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,06. App Role Change.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Service Marketplace.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Service Details.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Service Publish Approval.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Service Subscription.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01.Service Subscription Request Management.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Service Subscription Activation (Provider).md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. Unsubscribe.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Service Deactivation.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,Development Concept.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,Security-Assessment.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,operational-concept.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,Documents - DB - View.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,Run frontend on localhost.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,BPDM.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,CX-Membership.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,Clearinghouse.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,Dataspace-Discovery.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,Managed Wallets.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,"Images, Graphics and Diagrams.md",Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,10. ReportPortal.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,Tests.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,portal-upgrade-details.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,06. OpenAPI.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,08. Policy Management.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Company IdPs.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Configure Company IdP.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Open API.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Open API.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,06. Delete User.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Create Technical User.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04. My Business Apps.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,05. FAQ.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. App Card.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. App Detail Page.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03.Terms&Conditions.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04.Technical Integration.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,05.Verify & Submit.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,App-Design_guidelines.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,App-Release_guidelines.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,index.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. App Approval Board.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. App Details.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. Approve App Release.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04. Decline App Release.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. App Board.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Subscription Request (Customer).md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. Subscription Overview (App Provider).md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04. Subscription Activation (App Provider).md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,05. App Unsubscribe.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,05. FAQ.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Summary.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Change App Lead Image.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. Change App Description.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04. App Deactivation.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,05. Change App Tenant URL.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,06. Change App RolesL.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,07. Document Change.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Open API.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,index.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Service Marketplace.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Service Details.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Service Card.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Service Detail Page.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03.Terms&Conditions.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04.Technical Integration.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,05.Verify & Submit.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,06. FAQ.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,index.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Service Approval Board.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Service Details.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. Approve Service Release.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04. Decline Service Release.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Service Subscription.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. Subscription Overview (Provider).md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04. Service Subscription Activation (Provider).md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,04. Service Unsubscribe.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,05. FAQ.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Summary.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Service Deactivation.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,index.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. UseCase Participation.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,02. Other Certificates.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. Credential Admin Board.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,03. FAQ.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,index.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Overview.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,01. Login.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,12. Offer Authentication Flow.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,button load more.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,button.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,date picker.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,drop down.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,dropzone.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,input field.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,loading.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,scrollbar.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,searchbar.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,toast message.md,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,docs.json,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,docs.json,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,docs.json,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,docs.json,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,docs.json,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,developer.json,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,docs.json,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,developer.json,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,docs.json,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,developer.json,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,docs.json,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,developer.json,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,docs.json,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,developer.json,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,docs.json,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,developer.json,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,docs.json,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,user.json,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,Main.js,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,Settings.js,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,Release.js,Evelyn Gurschler
+Thu Jan 18 15:19:10 2024,https-proxy-get.js,Evelyn Gurschler

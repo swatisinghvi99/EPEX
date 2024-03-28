@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Thu Oct  4  9:56:04 2012,DecimalMax.java,Hardy Ferentschik
+Thu Oct  4  9:56:04 2012,DecimalMin.java,Hardy Ferentschik
+Thu Oct  4  9:56:04 2012,Digits.java,Hardy Ferentschik
+Thu Oct  4  9:56:04 2012,Pattern.java,Hardy Ferentschik
+Thu Oct  4  9:56:04 2012,Size.java,Hardy Ferentschik
+Thu Oct  4  9:56:15 2012,AssertFalse.java,Hardy Ferentschik
+Thu Oct  4  9:56:15 2012,AssertTrue.java,Hardy Ferentschik
+Thu Oct  4  9:56:15 2012,Future.java,Hardy Ferentschik
+Thu Oct  4  9:56:15 2012,Max.java,Hardy Ferentschik
+Thu Oct  4  9:56:15 2012,Min.java,Hardy Ferentschik
+Thu Oct  4  9:56:15 2012,NotNull.java,Hardy Ferentschik
+Thu Oct  4  9:56:15 2012,Null.java,Hardy Ferentschik
+Thu Oct  4  9:56:15 2012,Past.java,Hardy Ferentschik
+Tue Oct 16  9:09:34 2012,ReportAsSingleViolation.java,Hardy Ferentschik
+Fri Oct 19  9:18:36 2012,MethodValidated.java,Hardy Ferentschik

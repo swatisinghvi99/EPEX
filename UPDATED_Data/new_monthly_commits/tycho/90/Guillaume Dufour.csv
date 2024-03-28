@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Mon Mar 18 10:24:01 2019,pom.xml,Guillaume Dufour
+Mon Mar 18 10:24:01 2019,pom.xml,Guillaume Dufour
+Mon Mar 18 10:24:01 2019,MANIFEST.MF,Guillaume Dufour
+Mon Mar 18 10:24:01 2019,build.properties,Guillaume Dufour
+Mon Mar 18 10:24:01 2019,pom.xml,Guillaume Dufour
+Mon Mar 18 10:24:01 2019,HelloWorld.java,Guillaume Dufour
+Mon Mar 18 10:24:01 2019,MANIFEST.MF,Guillaume Dufour
+Mon Mar 18 10:24:01 2019,build.properties,Guillaume Dufour
+Mon Mar 18 10:24:01 2019,pom.xml,Guillaume Dufour
+Mon Mar 18 10:24:01 2019,HelloWorldTest.java,Guillaume Dufour
+Mon Mar 18 10:24:01 2019,RequireBundleTest.java,Guillaume Dufour
+Mon Mar 18 10:24:01 2019,ContextFinderWithoutTychoBundle.java,Guillaume Dufour
+Mon Mar 18 10:24:01 2019,OsgiSurefireBooter.java,Guillaume Dufour

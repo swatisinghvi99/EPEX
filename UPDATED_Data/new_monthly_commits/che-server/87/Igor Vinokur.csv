@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Wed Apr 19  6:37:29 2023,KubernetesPersonalAccessTokenManager.java,Igor Vinokur
+Wed Apr 19  6:37:29 2023,KubernetesGitCredentialManagerTest.java,Igor Vinokur
+Wed Apr 19  6:37:29 2023,KubernetesPersonalAccessTokenManagerTest.java,Igor Vinokur
+Wed Apr 19  6:37:29 2023,AzureDevOpsPersonalAccessTokenFetcher.java,Igor Vinokur
+Wed Apr 19  6:37:29 2023,AzureDevOpsPersonalAccessTokenFetcherTest.java,Igor Vinokur
+Wed Apr 19  6:37:29 2023,BitbucketPersonalAccessTokenFetcher.java,Igor Vinokur
+Wed Apr 19  6:37:29 2023,BitbucketPersonalAccessTokenFetcherTest.java,Igor Vinokur
+Wed Apr 19  6:37:29 2023,GithubPersonalAccessTokenFetcher.java,Igor Vinokur
+Wed Apr 19  6:37:29 2023,GithubPersonalAccessTokenFetcherTest.java,Igor Vinokur
+Wed Apr 19  6:37:29 2023,GitlabOAuthTokenFetcher.java,Igor Vinokur
+Wed Apr 19  6:37:29 2023,GitlabOAuthTokenFetcherTest.java,Igor Vinokur
+Wed Apr 19  6:37:29 2023,PersonalAccessToken.java,Igor Vinokur
+Tue May  9 13:14:38 2023,BitbucketServerUserDataFetcher.java,Igor Vinokur

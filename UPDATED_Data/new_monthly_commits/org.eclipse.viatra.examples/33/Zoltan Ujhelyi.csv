@@ -1,0 +1,507 @@
+date_time,file,committer_name
+Mon Nov 20 15:30:52 2017,.project,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,org.eclipse.core.resources.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,BpmnRuleProvider.java,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:30:52 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.project,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,build.properties,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,ChangeMonitorTransformationStep.java,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,InitializerComponent.java,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,M2TDistributedTransformationStep.java,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,ModelModifierStep.java,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,SerializerTransformationStep.java,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,BatchTransformation.mwe2,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,M2MBatchViatraTransformationStep.java,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,M2MScheduledEventDrivenViatraTransformationStep.java,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,ScheduledEventDrivenTransformation.mwe2,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,ChangeDeltaMessage.xtend,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,ChangeDeltaMessageFactory.xtend,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,ChangeDeltaMessageProcessor.xtend,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,M2TOutputMessage.xtend,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,M2TOutputMessageFactory.xtend,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,M2TOutputMessageProcessor.xtend,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,BehaviorsimplecpsappFirstAppClass0sm0.java,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,HostsimplecpshostFirstHostClass0inst0.java,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,HostsimplecpshostFirstHostClass0inst1.java,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,simplecpsappFirstAppClass0inst0Application.java,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.gitignore,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.project,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,CPSStats.xtend,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,SumProcessor.xtend,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,feature.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,feature.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,cps-application.product,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,feature.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.viatra.examples.cps.target.target,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,category.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,SignalUtil.xtend,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,build.properties,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 15:48:58 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,.project,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,build.properties,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,feature.xml,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,.gitignore,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,.project,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,build.properties,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,aggregators.cyberphysicalsystem,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,dangling.cyberphysicalsystem,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,demo.cyberphysicalsystem,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,dred.cyberphysicalsystem,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_avgCPU.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_changeAppInstanceAllocationLocation.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_changeAppInstanceIdentifier.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_changeAppInstanceType.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_changeAppTypeIdentifier.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_dangling.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_deleteAllHostInstance.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_deleteAllHostType.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_deleteAppInstance.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_deleteAppType.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_deleteHostInstanceWithTheMostHostedApplication.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_deleteHostType.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_dred_deps_a3a2_del.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_dred_deps_a3a5_del.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_dred_deps_all.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_dred_deps_components.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_dred_deps_init.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_literalUsage.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_max5_Priority.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_max6_Priority.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_max7_Priority.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_min0_Priority.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_min1_Priority.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_min2_Priority.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_newAppInstance.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_newComplexStructure.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_newHostInstance.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_newHostInstanceWithMoreHddThanRam.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_newHostInstanceWithMoreRamThanHdd.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_newTransition.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_recursion_chainRec.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_recursion_chainTC.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_recursion_communicationRemoved_chainRec.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_recursion_communicationRemoved_chainTC.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_sum0_Priority.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_sum21_Priority.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_sumCPU.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_tc_bug_520194.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_tc_filtered_w_match_bug_520194.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_tc_filtered_wo_match_bug_520194.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,test_trickyJoin.snapshot,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,plugin.xml,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,.gitignore,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,APICpsTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,AbstractQueryComparisonTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,AggregatorComparisonTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,AggregatorTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,AllBackendTypes.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,AllCpsTests.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,AnonymousVariablesCpsTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,BackendType.java,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,BaseIndexProxyResolutionTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,BaseIndexerIndexingLevelsTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,BaseIndexerTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,BaseIndexerUnsetTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,BasicCpsTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,CrossResourceContainmentTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,CrossResourceReferenceTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,DRedTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,DanglingTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,ErrorHandlingTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,FlattenedPatternCallCpsTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,FunctionalDependencyAnalysisTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,LiteralValuesTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,LocalSearchPlanCostOverflowTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,LongLiteralTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,ModelManipulationAggregatorTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,ModelManipulationAvgAggregatorTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,ModelManipulationCpsTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,ModelManipulationMinMaxAggregatorTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,ModelManipulationSumAggregatorTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,ModelManipulationTrickyJoinTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,RecursionCpsTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,TestingFrameworkTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,TransitiveClosureTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,VariableEqualityCpsTest.xtend,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,CrossResourceContainmentTestQuery.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,CrossResourceReferenceTestQuery.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,LiteralUsage.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,TransitiveClosureQueries.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,aggregators.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,cpsValidationRules.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,danglingTestQueries.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,dred.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,errorHandling.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,flattenedPatternCall.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,functionalDependencies.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,localsearchPlannerTests.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,otherTests.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,recursiveQueries.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,a_third.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,b_second.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,c_first.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,simpleCpsQueries.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,trickyJoin.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,unnamedVariables.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,variablesEquality.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,.gitignore,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,.project,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,.project,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,viatra_product.product,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,.project,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,build.properties,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,feature.xml,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,.project,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,org.eclipse.pde.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,build.properties,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,plugin.xml,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,AvailableGreaterThanTotalCpuConstraint0.java,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,AvailableGreaterThanTotalHddConstraint0.java,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,AvailableGreaterThanTotalRamConstraint0.java,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,IdIsNotUniqueConstraint0.java,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,InitialStateNotContainedByStateMachineConstraint0.java,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,MultipleApplicationInstanceInCommunicationGroupConstraint0.java,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,MultipleTransitionsWithSameActionConstraint0.java,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,NodeIpIsNotUniqueConstraint0.java,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,NotAllocatedButRunningConstraint0.java,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,TargetStateNotContainedBySameStateMachineConstraint0.java,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,TransitionWithoutTargetStateConstraint0.java,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,.classpath,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,.project,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,org.eclipse.jdt.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,org.eclipse.pde.core.prefs,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,MANIFEST.MF,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,build.properties,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,plugin.xml,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,.gitignore,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,validationRules.vql,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,.project,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,common.tpd,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,indigo.target,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,indigo.tpd,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,neon.target,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,neon.tpd,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,org.eclipse.viatra.gui.tests.target.target,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,.project,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Clear Query Explorer.ctx,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Create Pattern with Template.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Create Pattern.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Create Query Generator Model.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Create Query Project.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Initialize viewers.ctx,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Load instance model (demo.cyberphysicalsystem).ctx,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Load instance model (empty-classes_uml).ctx,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Load patterns (EmptyClass.vql).ctx,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Load patterns (simpleCpsQueries.vql).ctx,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Pattern Autocomplete.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Preferences - Query Explorer.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Preferences - VIATRA exists in preferences.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Preferences - VQL Compiler.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Preferences - VQL Refactoring.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Preferences - VQL Syntax Coloring.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Preferences - VQL Templates.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Query Explorer - Details_Filters - Filtering.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Query Explorer - Details_Filters - Popup window.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Query Explorer - LocalSearchBackend.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Query Explorer - Magic Green Button - Load ResourceSet.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Query Explorer - Magic Green Button - Load pattern(s).test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Query Explorer - Pattern Registry - Checkbox filtering.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Query Explorer - Pattern Registry - Plugins can not unloaded.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Query Explorer - Pattern Registry - Show location.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Query Explorer - Pattern Registry - Unregister pattern.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Query Explorer - Register patterns in Query Explorer (Right clicked in editor).test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Query Explorer - Register patterns in Query Explorer.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Query Explorer - Result Viewer - Data binding.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Query Explorer - Result Viewer - Query Results.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Query Explorer - Result Viewer - Show location (to .vql file).test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Query Explorer - Result Viewer - Show location (to instance model).test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Query Explorer - Result Viewer - Unload instance model.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Query Explorer - View menu - Change package representation.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Query Explorer - View menu - Reset UI.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Rete Visualizer - Clear graph.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Rete Visualizer - Create rete.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Rete Visualizer - Testing layouts.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Testing Framework - Snapshot - Create new snapshot.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Testing Framework - Snapshot - Save into an existing snapshot.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Testing Framework - Snapshot - Snapshot Editor - Add new child.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,VIATRA All GUI Tests.suite,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,VIATRA Basic Creations.suite,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,VIATRA CPS Workspace.ctx,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,VIATRA CPS with Metamodel Workspace.ctx,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,VIATRA CPS with Queries Workspace.ctx,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,VIATRA CPS with Snapshot Workspace.ctx,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,VIATRA Preferences.suite,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,VIATRA Query Explorer.suite,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,VIATRA Rete Visualizer.suite,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,VIATRA Testing Framework.suite,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,VIATRA UML Queries Workspace.ctx,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,VIATRA Validation Framework.suite,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,VIATRA Viewers.suite,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,VIATRA Workbench.ctx,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Validation framework - Generate validation project.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Validation framework - Validate CPS model.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Viewers - Sandbox - Create new component.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Viewers - Sandbox - Initialize.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Viewers - Sandbox - View synchronization.test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Viewers - Sandbox - Zest Graph (Clear graph).test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,Viewers - Sandbox - Zest Graph (Testing layouts).test,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,pom.xml,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,rcptt.properties,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,.project,Zoltan Ujhelyi
+Mon Nov 20 16:57:31 2017,pom.xml,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,pom.xml,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,.gitignore,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,.gitignore,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,AbsenceOfResourceInstancesMatch.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,AbsenceOfResourceInstancesMatcher.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,AllocateTaskToVariantMatch.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,AllocateTaskToVariantMatcher.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,CreateResourceMatch.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,CreateResourceMatcher.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,EnoughResourceInstancesMatch.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,EnoughResourceInstancesMatcher.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,EveryTaskHasVariantMatch.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,EveryTaskHasVariantMatcher.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,InstanceOfVariantMatch.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,InstanceOfVariantMatcher.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,MakeParallelMatch.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,MakeParallelMatcher.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,MakeSequentialMatch.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,MakeSequentialMatcher.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,Patterns.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,TaskOrderMatch.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,TaskOrderMatcher.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,UnassignedTaskMatch.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,UnassignedTaskMatcher.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,UnrequiredResourceInstanceMatch.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,UnrequiredResourceInstanceMatcher.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,VariantAllocatedToTaskMatch.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,VariantAllocatedToTaskMatcher.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,.gitignore,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,AbsenceOfResourceInstancesProcessor.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,AbsenceOfResourceInstancesQuerySpecification.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,AllocateTaskToVariantProcessor.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,AllocateTaskToVariantQuerySpecification.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,CreateResourceProcessor.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,CreateResourceQuerySpecification.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,EnoughResourceInstancesProcessor.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,EnoughResourceInstancesQuerySpecification.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,EveryTaskHasVariantProcessor.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,EveryTaskHasVariantQuerySpecification.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,InFlowQuerySpecification.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,InstanceOfVariantProcessor.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,InstanceOfVariantQuerySpecification.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,MakeParallelProcessor.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,MakeParallelQuerySpecification.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,MakeSequentialProcessor.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,MakeSequentialQuerySpecification.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,OutFlowQuerySpecification.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,ParallelGatewayOutFlowQuerySpecification.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,TaskNeedsVariantQuerySpecification.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,TaskOrderProcessor.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,TaskOrderQuerySpecification.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,UnassignedTaskProcessor.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,UnassignedTaskQuerySpecification.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,UnrequiredResourceInstanceProcessor.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,UnrequiredResourceInstanceQuerySpecification.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,VariantAllocatedToTaskProcessor.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,VariantAllocatedToTaskQuerySpecification.java,Zoltan Ujhelyi
+Thu Nov 23  9:21:29 2017,pom.xml,Zoltan Ujhelyi
+Thu Nov 23 12:21:27 2017,TransformationType.java,Zoltan Ujhelyi
+Sun Nov 26 16:14:11 2017,BpmnProblemSaver.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,AvailableGreaterThanTotalCpuConstraint0.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,AvailableGreaterThanTotalHddConstraint0.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,AvailableGreaterThanTotalRamConstraint0.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,IdContainsWhitespaceConstraint0.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,IdIsNotUniqueConstraint0.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,InitialStateNotContainedByStateMachineConstraint0.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,MultipleApplicationInstanceInCommunicationGroupConstraint0.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,MultipleTransitionsWithSameActionConstraint0.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,NodeIpIsNotUniqueConstraint0.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,NotAllocatedButRunningConstraint0.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,TargetStateNotContainedBySameStateMachineConstraint0.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,TransitionWithoutTargetStateConstraint0.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,AbstractCpsViewPart.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,CpsAllocationViewPart.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,CpsHardwareViewPart.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,CpsRequirementViewPart.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,CpsSoftwareViewPart.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,GeneratorTest.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,AbstractDeploymentChangeMonitor.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,DeploymentChangeMonitor.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,BpmnExamples.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,BpmnEvolutionaryExample.java,Zoltan Ujhelyi
+Fri Dec  8 14:24:30 2017,BpmnExamplesTest.java,Zoltan Ujhelyi

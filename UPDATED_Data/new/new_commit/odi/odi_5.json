@@ -1,0 +1,57 @@
+[
+    [
+        "graemerocher",
+        "properties",
+        1
+    ],
+    [
+        "graemerocher",
+        "java",
+        3
+    ],
+    [
+        "graemerocher",
+        "gradle",
+        1
+    ],
+    [
+        "graemerocher",
+        "xml",
+        1
+    ],
+    [
+        "Denis Stepanov",
+        "java",
+        85
+    ],
+    [
+        "Denis Stepanov",
+        "xml",
+        5
+    ],
+    [
+        "Denis Stepanov",
+        "gradle",
+        8
+    ],
+    [
+        "Denis Stepanov",
+        "groovy",
+        4
+    ],
+    [
+        "Denis Stepanov",
+        "BuildCompatibleExtension",
+        1
+    ],
+    [
+        "Denis Stepanov",
+        "properties",
+        3
+    ],
+    [
+        "Denis Stepanov",
+        "AnnotationMapper",
+        1
+    ]
+]

@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Thu Jun  9 15:58:31 2005,ProfileAssertionsReaderImpl.java,lauzond
+Fri Jun 10 18:12:31 2005,AnalyzerContext.java,lauzond
+Fri Jun 10 18:12:31 2005,BasicProfileAnalyzer.java,lauzond
+Fri Jun 10 18:12:31 2005,ProfileAssertionsReaderImpl.java,lauzond
+Fri Jun 10 18:12:31 2005,BaseValidatorImpl.java,lauzond
+Fri Jun 10 18:12:31 2005,BP4202.java,lauzond
+Fri Jun 10 18:12:31 2005,WSDLValidatorImpl.java,lauzond
+Fri Jun 10 18:12:31 2005,TypesRegistry.java,lauzond
+Fri Jun 10 18:12:31 2005,XMLDocumentCache.java,lauzond
+Fri Jun 10 18:12:31 2005,XMLDocumentCacheUser.java,lauzond
+Fri Jun 10 18:12:31 2005,TargetNamespaceProcessor.java,lauzond
+Fri Jun 10 18:12:31 2005,XMLSchemaProcessor.java,lauzond
+Fri Jun 10 18:12:31 2005,XMLSchemaValidator.java,lauzond
+Thu Jun 16  2:21:55 2005,MANIFEST.MF,lauzond
+Thu Jun 16  2:21:55 2005,plugin.xml,lauzond
+Thu Jun 16  2:21:55 2005,LogBuilder.java,lauzond
+Thu Jun 16  2:21:55 2005,WSIUIPlugin.java,lauzond
+Thu Jun 16  2:21:55 2005,WSIValidateAction.java,lauzond
+Thu Jun 16  2:21:55 2005,ValidateWSIProfileActionDelegate.java,lauzond
+Thu Jun 16  2:21:55 2005,SelectSingleFileDialog.java,lauzond
+Thu Jun 16  2:21:55 2005,ValidationWizardWSDLPage.java,lauzond

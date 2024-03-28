@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Tue Nov  8 13:20:21 2022,ConnectedProperty.java,Frank Schnicke
+Tue Nov  8 13:20:21 2022,TestConnectedProperty.java,Frank Schnicke
+Tue Nov  8 13:20:21 2022,JSONConnectorFactory.java,Frank Schnicke
+Thu Nov 10 13:13:48 2022,Entity.java,Frank Schnicke
+Thu Nov 10 13:22:06 2022,ValueType.java,Frank Schnicke
+Thu Nov 10 13:32:17 2022,Qualifier.java,Frank Schnicke
+Thu Nov 10 13:32:17 2022,DelegatedInvocationManager.java,Frank Schnicke
+Thu Nov 10 13:32:17 2022,TestQualifier.java,Frank Schnicke
+Fri Nov 18  7:47:22 2022,ElementContainerValuesHelper.java,Frank Schnicke
+Fri Nov 18  7:47:22 2022,Entity.java,Frank Schnicke
+Fri Nov 18  7:47:22 2022,TestElementContainerValuesHelper.java,Frank Schnicke

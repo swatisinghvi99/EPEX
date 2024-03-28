@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Wed Oct 31 16:14:36 2018,README.md,Hilbrand Bouwkamp
+Wed Oct 31 16:14:36 2018,AbstractTestAgent.java,Hilbrand Bouwkamp
+Wed Oct 31 16:14:36 2018,TestAgent.java,Hilbrand Bouwkamp
+Wed Oct 31 16:14:36 2018,ConsoleOAuthCommandExtension.java,Hilbrand Bouwkamp
+Wed Oct 31 16:14:36 2018,OAuthClientServiceImpl.java,Hilbrand Bouwkamp
+Wed Oct 31 16:14:36 2018,OAuthConnector.java,Hilbrand Bouwkamp
+Wed Oct 31 16:14:36 2018,OAuthFactoryImpl.java,Hilbrand Bouwkamp
+Wed Oct 31 16:14:36 2018,OAuthStoreHandler.java,Hilbrand Bouwkamp
+Wed Oct 31 16:14:36 2018,OAuthStoreHandlerImpl.java,Hilbrand Bouwkamp
+Wed Oct 31 16:14:36 2018,PersistedParams.java,Hilbrand Bouwkamp
+Wed Oct 31 16:14:36 2018,AccessTokenRefreshListener.java,Hilbrand Bouwkamp
+Wed Oct 31 16:14:36 2018,AccessTokenResponse.java,Hilbrand Bouwkamp
+Wed Oct 31 16:14:36 2018,OAuthClientService.java,Hilbrand Bouwkamp
+Wed Oct 31 16:14:36 2018,OAuthFactory.java,Hilbrand Bouwkamp
+Wed Oct 31 16:14:36 2018,OAuthResponseException.java,Hilbrand Bouwkamp
+Fri Nov  2 11:52:20 2018,RuleRegistryImpl.java,Hilbrand Bouwkamp
+Fri Nov  2 11:52:20 2018,RuleTemplateRegistry.java,Hilbrand Bouwkamp
+Fri Nov  2 11:52:20 2018,ModuleTypeRegistryImpl.java,Hilbrand Bouwkamp
+Fri Nov  2 11:52:20 2018,ThingRegistryImpl.java,Hilbrand Bouwkamp
+Fri Nov  2 11:52:20 2018,ItemChannelLinkRegistry.java,Hilbrand Bouwkamp
+Fri Nov  2 11:52:20 2018,AbstractRegistry.java,Hilbrand Bouwkamp
+Fri Nov  2 11:52:20 2018,ItemRegistryImpl.java,Hilbrand Bouwkamp
+Fri Nov  2 11:52:20 2018,MetadataRegistryImpl.java,Hilbrand Bouwkamp
+Fri Nov  2 13:37:51 2018,ThingRegistryImpl.java,Hilbrand Bouwkamp

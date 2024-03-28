@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Tue Oct  1  7:56:47 2019,kura.build.properties,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,MANIFEST.MF,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,CellularModem.java,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,ModemConfig.java,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,MANIFEST.MF,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,NetworkConfiguration.java,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,MANIFEST.MF,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,MANIFEST.MF,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,HspaModem.java,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,SierraMc87xx.java,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,SierraUsb598.java,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,TelitDe910.java,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,TelitHe910.java,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,TelitLe910.java,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,TelitLe910v2.java,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,TelitLe910v2AtCommands.java,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,ModemMonitorServiceImpl.java,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,PppConfigReader.java,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,PppConfigWriter.java,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,NetworkTabsUi.java,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,TabModemAntennaUi.java,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,TabModemAntennaUi.ui.xml,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,GwtNetworkServiceImpl.java,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,GwtModemInterfaceConfig.java,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,Messages.properties,Pierre Pitiot
+Tue Oct  1  7:56:47 2019,NetworkConfigurationTest.java,Pierre Pitiot

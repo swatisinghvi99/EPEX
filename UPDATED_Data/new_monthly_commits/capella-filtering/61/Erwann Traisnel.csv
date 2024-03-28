@@ -1,0 +1,140 @@
+date_time,file,committer_name
+Mon Nov 27 12:07:16 2023,MANIFEST.MF,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,filtering.ecore,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,filtering.genmodel,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,plugin.xml,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,FilteringCriterionPkgImpl.java,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,FilteringResultPkgImpl.java,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,MANIFEST.MF,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,plugin.xml,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,FilteringCriterionPkgItemProvider.java,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,FilteringItemProviderAdapterFactory.java,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,FilteringResultPkgItemProvider.java,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,filtering.ecore,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,filtering.genmodel,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,plugin.xml,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,AssociatedFilteringCriterionSet.java,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,CreationDefaultFilteringCriterionSet.java,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,FilteringModel.java,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,FilteringPackage.java,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,FilteringResults.java,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,FilteringCriterionPkgImpl.java,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,FilteringPackageImpl.java,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,FilteringResultPkgImpl.java,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,plugin.xml,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,plugin.xml,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,FilteringServicesTestModel.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,FilteringServicesTestModel.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,FilteringServicesTestModel.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,MyLib.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,MyLib.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,MyLib.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,TestLib.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,TestLib.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,TestLib.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,DieselFilteringResult.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,DieselFilteringResult.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,DieselFilteringResult.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,HybridFilteringResult.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,HybridFilteringResult.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,HybridFilteringResult.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,PetrolFilteringResult.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,PetrolFilteringResult.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,PetrolFilteringResult.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,TestSPLProject.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,TestSPLProject.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,TestSPLProject.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,EmptyFilteringResult.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,EmptyFilteringResult.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,EmptyFilteringResult.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,FilteringResult.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,FilteringResult.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,FilteringResult.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,Transition.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,Transition.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,Transition.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,derivationProject.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,derivationProject.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,derivationProject.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,OA.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,OA.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,library-viewpoint-activated.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,library-viewpoint-activated.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,library-viewpoint-activated.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,OA.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,OA.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,library-viewpoint-deactivated.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,library-viewpoint-deactivated.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,library-viewpoint-deactivated.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,PA.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,PA.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,model-viewpoint-activated.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,model-viewpoint-activated.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,model-viewpoint-activated.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,PA.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,PA.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,model-viewpoint-deactivated.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,model-viewpoint-deactivated.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,model-viewpoint-deactivated.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,simple-library-child.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,simple-library-child.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,simple-library-child.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,simple-library.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,simple-library.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,simple-library.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,simple-project.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,simple-project.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,simple-project.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA-Logical Functions-RLF-OA2-SysOA2_1.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA-Logical Functions-RLF-OA2-SysOA2_1.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA-Logical System-LC2.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA-Logical System-LC2.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA-Capabilities-OC1.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA-Capabilities-OC1.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA-Data.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA-Data.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,sysmodel.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,sysmodel.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,sysmodel.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,S_Empty_FR.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,S_Empty_FR.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,S_Empty_FR.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA-Logical Functions-RLF-OA2-SysOA2_1.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA-Logical Functions-RLF-OA2-SysOA2_1.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA-Logical System-LC2.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA-Logical System-LC2.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA-Capabilities-OC1.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA-Capabilities-OC1.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA-Data.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA-Data.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,S_FR1.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,S_FR1.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,S_FR1.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA-Logical Functions-RLF-OA2-SysOA2_1.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA-Logical Functions-RLF-OA2-SysOA2_1.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA-Logical System-LC2.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA-Logical System-LC2.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA-Capabilities-OC1.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA-Capabilities-OC1.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA-Data.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA-Data.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,S_FR2.afm,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,S_FR2.aird,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,S_FR2.capella,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA-Logical Functions-RLF-OA2-SysOA2_1.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA-Logical Functions-RLF-OA2-SysOA2_1.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA-Logical System-LC2.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,LA-Logical System-LC2.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA-Capabilities-OC1.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA-Capabilities-OC1.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA-Data.airdfragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,SA-Data.capellafragment,Erwann Traisnel
+Mon Nov 27 12:07:16 2023,DerivationTest.java,Erwann Traisnel

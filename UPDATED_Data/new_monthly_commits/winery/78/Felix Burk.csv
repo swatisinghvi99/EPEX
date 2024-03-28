@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Fri Aug 28  5:17:27 2020,FileUtils.java,Felix Burk
+Fri Aug 28  5:17:27 2020,MultiRepository.java,Felix Burk
+Fri Aug 28  5:17:27 2020,MultiRepositoryManager.java,Felix Burk
+Fri Aug 28  5:17:27 2020,YAMLDefinitionsBasedCsarEntry.java,Felix Burk
+Mon Aug 31 13:04:28 2020,attributes.component.ts,Felix Burk
+Mon Aug 31 13:04:28 2020,propertiesDefinition.component.ts,Felix Burk
+Mon Aug 31 13:04:28 2020,dynamicText.component.ts,Felix Burk
+Mon Aug 31 13:04:28 2020,wineryDynamicTable.component.ts,Felix Burk
+Mon Sep  7 13:15:33 2020,repository.component.html,Felix Burk
+Mon Sep  7 13:15:33 2020,repository.component.ts,Felix Burk
+Mon Sep  7 13:15:33 2020,repository.service.ts,Felix Burk

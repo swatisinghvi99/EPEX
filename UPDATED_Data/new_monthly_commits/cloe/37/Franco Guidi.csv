@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Fri Feb  2  9:51:48 2024,config_minimator_smoketest.json,Franco Guidi
+Fri Feb  2  9:51:48 2024,test_gndtruth_smoketest_output.json,Franco Guidi
+Fri Feb  2  9:51:48 2024,CMakeLists.txt,Franco Guidi
+Fri Feb  2  9:51:48 2024,conanfile.py,Franco Guidi
+Fri Feb  2  9:51:48 2024,minimator.hpp,Franco Guidi
+Fri Feb  2  9:51:48 2024,minimator.cpp,Franco Guidi
+Fri Feb  2  9:51:48 2024,minimator_config_test.cpp,Franco Guidi
+Fri Feb  2  9:51:48 2024,config_minimator_infinite.json,Franco Guidi
+Fri Feb  2  9:51:48 2024,config_minimator_multi_agent_infinite.json,Franco Guidi
+Fri Feb  2  9:51:48 2024,config_minimator_smoketest.json,Franco Guidi

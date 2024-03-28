@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Thu Mar  8 11:44:49 2018,JETCompileTemplateOperation.java,Ed Merks
+Thu Mar  8 11:44:49 2018,JETCompiler.java,Ed Merks
+Thu Mar  8 11:44:49 2018,JETNature.java,Ed Merks
+Thu Mar  8 11:44:49 2018,CommonPlugin.java,Ed Merks
+Fri Mar  9 10:29:50 2018,CommonPlugin.java,Ed Merks
+Fri Mar  9 11:53:43 2018,JETNature.java,Ed Merks
+Wed Mar 14 17:42:49 2018,DateConversionDelegateTest.java,Ed Merks
+Wed Mar 14 17:43:20 2018,Diagnostician.java,Ed Merks
+Wed Mar 14 17:43:20 2018,AllSuites.java,Ed Merks
+Wed Mar 14 17:43:20 2018,DiagnosticianTest.java,Ed Merks
+Thu Mar 15 10:17:56 2018,DateConversionDelegateTest.java,Ed Merks
+Thu Mar 15 11:22:32 2018,EContentAdapter.java,Ed Merks
+Thu Mar 15 11:22:32 2018,ECrossReferenceAdapter.java,Ed Merks
+Thu Mar 15 11:22:32 2018,AllSuites.java,Ed Merks
+Thu Mar 15 11:22:32 2018,EContentAdapterTest.java,Ed Merks
+Thu Mar 15 11:22:32 2018,ECrossReferenceAdapterStressTest.java,Ed Merks
+Thu Mar 15 11:22:32 2018,ECrossReferenceAdapterTest.java,Ed Merks
+Thu Mar 15 11:22:32 2018,IterativeEContentAdapterTest.java,Ed Merks

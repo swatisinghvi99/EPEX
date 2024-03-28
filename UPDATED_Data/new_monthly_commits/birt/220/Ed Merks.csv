@@ -1,0 +1,138 @@
+date_time,file,committer_name
+Fri May 26 13:58:53 2023,ci.yml,Ed Merks
+Fri May 26 13:58:53 2023,ImageManagerTest.java,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,BIRT-headless.product,Ed Merks
+Fri May 26 13:58:53 2023,BIRT.product,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,BIRT.setup,Ed Merks
+Fri May 26 13:58:53 2023,org.eclipse.birt.target.target,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,MANIFEST.MF,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,MANIFEST.MF,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,BirtDateTimeTest.java,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,ResultSetTest.java,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,GroupOnRowTest.java,Ed Merks
+Fri May 26 13:58:53 2023,MANIFEST.MF,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,BuildChartISVDoc.xml,Ed Merks
+Fri May 26 13:58:53 2023,BuildISVDoc.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,testDataTypesLocalized.csv,Ed Merks
+Fri May 26 13:58:53 2023,testDefaultDateFormat.csv,Ed Merks
+Fri May 26 13:58:53 2023,testDefaults.csv,Ed Merks
+Fri May 26 13:58:53 2023,testLocalized.csv,Ed Merks
+Fri May 26 13:58:53 2023,testTimeZone.csv,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,html_report_gold.txt,Ed Merks
+Fri May 26 13:58:53 2023,HTMLReportEmitter.java,Ed Merks
+Fri May 26 13:58:53 2023,.classpath,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,DateSymbolTest.java,Ed Merks
+Fri May 26 13:58:53 2023,.classpath,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,ParameterConverterTest.java,Ed Merks
+Fri May 26 13:58:53 2023,ReportParameterConverterTest.java,Ed Merks
+Fri May 26 13:58:53 2023,TimeZoneTest.java,Ed Merks
+Fri May 26 13:58:53 2023,ReportEngineSDK.product,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,feature.properties,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,feature.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,OdaDataSetConvertReportParamTest_2.xml,Ed Merks
+Fri May 26 13:58:53 2023,BaseTestCase.java,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,BaseTestCase.java,Ed Merks
+Fri May 26 13:58:53 2023,.classpath,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,MANIFEST.MF,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,.log,Ed Merks
+Fri May 26 13:58:53 2023,pom.xml,Ed Merks
+Fri May 26 13:58:53 2023,AggregationCellParseTest.java,Ed Merks
+Fri May 26 13:58:53 2023,CrosstabCellParseTest.java,Ed Merks
+Fri May 26 13:58:53 2023,CrosstabParseTest.java,Ed Merks
+Fri May 26 13:58:53 2023,CrosstabViewParseTest.java,Ed Merks
+Fri May 26 13:58:53 2023,DimensionViewParseTest.java,Ed Merks
+Fri May 26 13:58:53 2023,LevelViewParseTest.java,Ed Merks
+Fri May 26 13:58:53 2023,MeasureViewParseTest.java,Ed Merks
+Fri May 26 13:58:53 2023,AggregationCellParseTest_golden.xml,Ed Merks
+Fri May 26 13:58:53 2023,CrosstabCellParseTest_golden.xml,Ed Merks
+Fri May 26 13:58:53 2023,CrosstabParseTest_golden.xml,Ed Merks
+Fri May 26 13:58:53 2023,CrosstabViewParseTest_golden.xml,Ed Merks
+Fri May 26 13:58:53 2023,DimensionViewParseTest_golden.xml,Ed Merks
+Fri May 26 13:58:53 2023,LevelViewParseTest_golden.xml,Ed Merks
+Fri May 26 13:58:53 2023,MeasureViewParseTest_golden.xml,Ed Merks
+Mon May 29 12:53:11 2023,.gitignore,Ed Merks
+Mon May 29 12:53:11 2023,BIRT.setup,Ed Merks
+Mon May 29 12:53:11 2023,BIRT  Report Item CrossTab Core Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT All Tests.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Chart Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Core Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Data ODA POJO Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Data Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Report Data ODA JDBC Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Report Designer Preview UI Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Report Engine Data Extraction CSV Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Report Engine Emiitter Prototype Excel Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Report Engine Emitter HTML Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Report Engine Emitter PPTX Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Report Engine Emitter PostScript Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Report Engine Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Report Model Adapter ODA Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Report Model Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Report Tests Chart Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Report Tests Engine Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Report Tests Model Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Report Viewer UI Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT SpudSoft Emmitters Excel Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT Tests Data Test.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT all-in-one-MAC.launch,Ed Merks
+Mon May 29 12:53:11 2023,BIRT all-in-one.launch,Ed Merks
+Mon May 29 12:53:11 2023,.gitignore,Ed Merks
+Mon May 29 12:53:11 2023,ExprManagerUtilTest.java,Ed Merks
+Mon May 29 12:53:11 2023,.gitignore,Ed Merks
+Mon May 29 12:53:11 2023,.gitignore,Ed Merks
+Mon May 29 12:53:11 2023,meta.log,Ed Merks
+Mon May 29 12:53:11 2023,performance.txt,Ed Merks
+Mon May 29 12:53:11 2023,MutipleThreadRenderTest.java,Ed Merks
+Mon May 29 12:53:11 2023,.gitignore,Ed Merks
+Mon May 29 12:53:11 2023,ParameterValidationUtilTest.java,Ed Merks
+Mon May 29 12:53:11 2023,.gitignore,Ed Merks
+Mon May 29 12:53:11 2023,custom4525ce9717cdd9830541,Ed Merks
+Mon May 29 12:53:11 2023,custom4c81b55a17cdd8f4c811,Ed Merks
+Mon May 29 12:53:11 2023,custom5e80258b17cdda62ca31,Ed Merks
+Mon May 29 12:53:11 2023,custom6cf7c87d17cdd9c09fe1,Ed Merks
+Mon May 29 12:53:11 2023,custom75e2410617cdd8d98f71,Ed Merks
+Mon May 29 12:53:11 2023,custom8d40704017cdd7f74401,Ed Merks
+Mon May 29 12:53:11 2023,customff74d58717cdda0eddb1,Ed Merks
+Mon May 29 12:53:11 2023,.gitignore,Ed Merks

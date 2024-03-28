@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Tue Sep  2 12:18:50 2014,RebaseInteractiveDropTargetListener.java,Vadim Dmitriev
+Wed Sep  3 22:22:18 2014,UIIcons.java,Vadim Dmitriev
+Wed Sep  3 22:22:18 2014,RebaseInteractiveView.java,Vadim Dmitriev
+Wed Sep  3 23:02:51 2014,RebaseInteractiveStepActionToolBarProvider.java,Vadim Dmitriev
+Wed Sep  3 23:02:51 2014,RebaseInteractiveView.java,Vadim Dmitriev
+Sat Sep  6 13:32:25 2014,GitLabelProvider.java,Vadim Dmitriev
+Sat Sep  6 13:32:25 2014,GitLabels.java,Vadim Dmitriev
+Sat Sep  6 13:32:25 2014,DecoratableResourceHelper.java,Vadim Dmitriev
+Sat Sep  6 13:32:25 2014,CommitGraphTable.java,Vadim Dmitriev
+Sat Sep  6 13:32:25 2014,RepositoriesViewLabelProvider.java,Vadim Dmitriev
+Sat Sep  6 14:19:29 2014,StagingView.java,Vadim Dmitriev

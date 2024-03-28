@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Wed Nov 10 16:45:54 2010,MANIFEST.MF,Chris Recoskie
+Wed Nov 10 16:45:54 2010,RemoteMakeBuilder.java,Chris Recoskie
+Fri Nov 19 17:29:00 2010,RemoteIndexManager.java,Chris Recoskie
+Fri Nov 19 18:27:19 2010,Messages.java,Chris Recoskie
+Fri Nov 19 18:27:19 2010,ResourceRefreshJob.java,Chris Recoskie
+Fri Nov 19 18:27:19 2010,messages.properties,Chris Recoskie
+Fri Nov 19 18:27:19 2010,RemoteMakeBuilder.java,Chris Recoskie
+Fri Nov 19 19:08:23 2010,RemoteMakeBuilder.java,Chris Recoskie
+Fri Nov 19 19:08:23 2010,ScannerInfoUtility.java,Chris Recoskie
+Fri Nov 19 19:40:08 2010,Messages.java,Chris Recoskie
+Fri Nov 19 19:40:08 2010,messages.properties,Chris Recoskie
+Tue Nov 30  2:31:09 2010,RemoteToolsConnection.java,Chris Recoskie
+Tue Nov 30  2:31:09 2010,RemoteToolsProcessBuilder.java,Chris Recoskie
+Tue Nov 30  2:31:09 2010,RSEConnection.java,Chris Recoskie
+Tue Nov 30  2:31:09 2010,RSEProcessBuilder.java,Chris Recoskie
+Tue Nov 30  2:38:25 2010,RemoteToolsConnection.java,Chris Recoskie
+Tue Nov 30  2:38:25 2010,RemoteToolsProcessBuilder.java,Chris Recoskie
+Tue Nov 30  2:38:25 2010,MANIFEST.MF,Chris Recoskie
+Tue Nov 30  2:38:48 2010,RemoteIndexerTask.java,Chris Recoskie

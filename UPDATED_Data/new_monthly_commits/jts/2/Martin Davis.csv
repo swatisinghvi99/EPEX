@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Fri Dec 23  0:41:16 2016,pom.xml,Martin Davis
+Fri Dec 23  0:41:16 2016,ConcaveHull.java,Martin Davis
+Fri Dec 23  0:41:16 2016,VariableWidthBuffer.java,Martin Davis
+Fri Dec 23  0:41:16 2016,RemoverFunctions.java,Martin Davis
+Fri Dec 23  0:41:16 2016,SnapRoundFunctions.java,Martin Davis
+Fri Dec 23  0:41:16 2016,SnapRoundOverlayFunctions.java,Martin Davis
+Fri Dec 23  0:41:16 2016,HoleRemover.java,Martin Davis
+Fri Dec 23  0:41:16 2016,InvalidHoleRemover.java,Martin Davis
+Fri Dec 23  0:41:16 2016,SmallHoleRemover.java,Martin Davis
+Fri Dec 23  0:41:16 2016,GeometryEditorEx.java,Martin Davis
+Fri Dec 23  0:41:16 2016,GeometryCoordinateReplacer.java,Martin Davis
+Fri Dec 23  0:41:16 2016,GeometrySnapRounder.java,Martin Davis
+Fri Dec 23  0:41:16 2016,PolygonCleaner.java,Martin Davis
+Fri Dec 23  0:41:16 2016,OctagonalEnvelopeTest.java,Martin Davis
+Fri Dec 23  0:41:16 2016,ConcaveHullTest.java,Martin Davis
+Fri Dec 23  0:41:16 2016,InvalidHoleRemoverTest.java,Martin Davis
+Fri Dec 23  0:41:16 2016,SmallHoleRemoverTest.java,Martin Davis

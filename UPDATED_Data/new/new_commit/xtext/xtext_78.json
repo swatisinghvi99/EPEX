@@ -1,0 +1,142 @@
+[
+    [
+        "Moritz Eysholdt",
+        "java",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        26
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        13
+    ],
+    [
+        "Dennis Huebner",
+        "xtend",
+        15
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        36
+    ],
+    [
+        "Dennis Huebner",
+        "classpath",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "prefs",
+        7
+    ],
+    [
+        "Dennis Huebner",
+        "MF",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "java",
+        39
+    ],
+    [
+        "Stefan Oehme",
+        "classpath",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "launch",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "project",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "prefs",
+        6
+    ],
+    [
+        "Stefan Oehme",
+        "MF",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "properties",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "ecore",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "genmodel",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "xml",
+        8
+    ],
+    [
+        "Stefan Oehme",
+        "xml_gen",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "xtext",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "mwe2",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "xtend",
+        12
+    ],
+    [
+        "akosyakov",
+        "java",
+        6
+    ],
+    [
+        "akosyakov",
+        "xtend",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        6
+    ],
+    [
+        "Jan Koehnlein",
+        "xtend",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "api_filters",
+        1
+    ]
+]

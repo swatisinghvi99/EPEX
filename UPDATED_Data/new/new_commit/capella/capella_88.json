@@ -1,0 +1,287 @@
+[
+    [
+        "Georgiana Ecobici",
+        "java",
+        4
+    ],
+    [
+        "Georgiana Ecobici",
+        "targetplatform",
+        1
+    ],
+    [
+        "Georgiana Ecobici",
+        "xml",
+        1
+    ],
+    [
+        "Georgiana Ecobici",
+        "exsd",
+        1
+    ],
+    [
+        "Arnaud Dieumegard",
+        "java",
+        665
+    ],
+    [
+        "Arnaud Dieumegard",
+        "targetplatform",
+        3
+    ],
+    [
+        "Arnaud Dieumegard",
+        "MF",
+        3
+    ],
+    [
+        "Arnaud Dieumegard",
+        "pt",
+        7
+    ],
+    [
+        "Arnaud Dieumegard",
+        "xml",
+        40
+    ],
+    [
+        "Arnaud Dieumegard",
+        "ecore",
+        36
+    ],
+    [
+        "Arnaud Dieumegard",
+        "genmodel",
+        6
+    ],
+    [
+        "Arnaud Dieumegard",
+        "prefs",
+        1
+    ],
+    [
+        "Arnaud Dieumegard",
+        "html",
+        5
+    ],
+    [
+        "Arnaud Dieumegard",
+        "mediawiki",
+        5
+    ],
+    [
+        "Arnaud Dieumegard",
+        "afm",
+        237
+    ],
+    [
+        "Arnaud Dieumegard",
+        "aird",
+        235
+    ],
+    [
+        "Arnaud Dieumegard",
+        "capella",
+        235
+    ],
+    [
+        "Arnaud Dieumegard",
+        "airdfragment",
+        43
+    ],
+    [
+        "Arnaud Dieumegard",
+        "capellafragment",
+        44
+    ],
+    [
+        "Arnaud Dieumegard",
+        "project",
+        4
+    ],
+    [
+        "Arnaud Dieumegard",
+        "patterns",
+        2
+    ],
+    [
+        "Arnaud Dieumegard",
+        "test",
+        2
+    ],
+    [
+        "Arnaud Dieumegard",
+        "suite",
+        1
+    ],
+    [
+        "Arnaud Dieumegard",
+        "vql",
+        157
+    ],
+    [
+        "Arnaud Dieumegard",
+        "odesign",
+        4
+    ],
+    [
+        "Arnaud Dieumegard",
+        "svg",
+        1
+    ],
+    [
+        "Arnaud Dieumegard",
+        "melodymodeller",
+        1
+    ],
+    [
+        "Maxime Porhel",
+        "java",
+        38
+    ],
+    [
+        "Maxime Porhel",
+        "targetplatform",
+        1
+    ],
+    [
+        "Maxime Porhel",
+        "ecore",
+        1
+    ],
+    [
+        "Maxime Porhel",
+        "genmodel",
+        1
+    ],
+    [
+        "Laurent Fasani",
+        "java",
+        15
+    ],
+    [
+        "Laurent Fasani",
+        "properties",
+        4
+    ],
+    [
+        "Laurent Fasani",
+        "MF",
+        2
+    ],
+    [
+        "Laurent Fasani",
+        "xml",
+        2
+    ],
+    [
+        "Laurent Fasani",
+        "afm",
+        1
+    ],
+    [
+        "Laurent Fasani",
+        "aird",
+        1
+    ],
+    [
+        "Laurent Fasani",
+        "capella",
+        2
+    ],
+    [
+        "Laurent Fasani",
+        "html",
+        1
+    ],
+    [
+        "Laurent Fasani",
+        "mediawiki",
+        1
+    ],
+    [
+        "Laurent Fasani",
+        "project",
+        1
+    ],
+    [
+        "Cazoni Iulius-Alexandru",
+        "java",
+        2
+    ],
+    [
+        "Philippe DUL",
+        "java",
+        3
+    ],
+    [
+        "Philippe DUL",
+        "odesign",
+        5
+    ],
+    [
+        "Philippe DUL",
+        "svg",
+        2
+    ],
+    [
+        "Glenn Plouhinec",
+        "java",
+        1
+    ],
+    [
+        "Nathalie Lepine",
+        "xml",
+        3
+    ],
+    [
+        "Nathalie Lepine",
+        "java",
+        15
+    ],
+    [
+        "Nathalie Lepine",
+        "odesign",
+        1
+    ],
+    [
+        "Nathalie Lepine",
+        "properties",
+        1
+    ],
+    [
+        "Nathalie Lepine",
+        "html",
+        1
+    ],
+    [
+        "Nathalie Lepine",
+        "mediawiki",
+        1
+    ],
+    [
+        "Nathalie Lepine",
+        "aird",
+        4
+    ],
+    [
+        "Nathalie Lepine",
+        "capella",
+        5
+    ],
+    [
+        "Nathalie Lepine",
+        "project",
+        3
+    ],
+    [
+        "Nathalie Lepine",
+        "afm",
+        3
+    ],
+    [
+        "Laurent Redor",
+        "java",
+        5
+    ]
+]

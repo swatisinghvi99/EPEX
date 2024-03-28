@@ -1,0 +1,167 @@
+[
+    [
+        "Emilio",
+        "md",
+        6
+    ],
+    [
+        "Emilio",
+        "scala",
+        730
+    ],
+    [
+        "Emilio",
+        "xml",
+        58
+    ],
+    [
+        "Emilio",
+        "PropertyAccessorFactory",
+        1
+    ],
+    [
+        "Emilio",
+        "java",
+        16
+    ],
+    [
+        "Emilio",
+        "tsv",
+        4
+    ],
+    [
+        "Emilio",
+        "txt",
+        1
+    ],
+    [
+        "Emilio",
+        "rst",
+        6
+    ],
+    [
+        "Emilio",
+        "DataStoreFactorySpi",
+        1
+    ],
+    [
+        "Emilio",
+        "sh",
+        5
+    ],
+    [
+        "Emilio",
+        "list",
+        5
+    ],
+    [
+        "Emilio",
+        "unknown",
+        4
+    ],
+    [
+        "Emilio",
+        "properties",
+        3
+    ],
+    [
+        "Andrew Hulbert",
+        "scala",
+        1
+    ],
+    [
+        "Matthew Zimmerman",
+        "py",
+        1
+    ],
+    [
+        "Matthew Zimmerman",
+        "rst",
+        2
+    ],
+    [
+        "Austin Heyne",
+        "sh",
+        1
+    ],
+    [
+        "Austin Heyne",
+        "scala",
+        48
+    ],
+    [
+        "Austin Heyne",
+        "xml",
+        6
+    ],
+    [
+        "Austin Heyne",
+        "rst",
+        11
+    ],
+    [
+        "Austin Heyne",
+        "md",
+        2
+    ],
+    [
+        "Austin Heyne",
+        "template",
+        1
+    ],
+    [
+        "Austin Heyne",
+        "properties",
+        1
+    ],
+    [
+        "Charles Kelly",
+        "conf",
+        3
+    ],
+    [
+        "Charles Kelly",
+        "mysql",
+        1
+    ],
+    [
+        "Charles Kelly",
+        "tsv",
+        1
+    ],
+    [
+        "Charles Kelly",
+        "scala",
+        2
+    ],
+    [
+        "Chris Eichelberger",
+        "scala",
+        3
+    ],
+    [
+        "Chris Eichelberger",
+        "md",
+        1
+    ],
+    [
+        "Andrew",
+        "scala",
+        7
+    ],
+    [
+        "Tom Kunicki",
+        "scala",
+        1
+    ],
+    [
+        "Eric S. Talbot",
+        "scala",
+        7
+    ],
+    [
+        "Eric S. Talbot",
+        "xml",
+        1
+    ]
+]

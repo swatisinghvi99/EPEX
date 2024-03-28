@@ -1,0 +1,72 @@
+[
+    [
+        "Jan Sievers",
+        "java",
+        2
+    ],
+    [
+        "Martin Schreiber",
+        "java",
+        4
+    ],
+    [
+        "Martin Schreiber",
+        "MF",
+        3
+    ],
+    [
+        "Martin Schreiber",
+        "xml",
+        22
+    ],
+    [
+        "Martin Schreiber",
+        "properties",
+        4
+    ],
+    [
+        "Martin Schreiber",
+        "index",
+        2
+    ],
+    [
+        "Martin Schreiber",
+        "target",
+        2
+    ],
+    [
+        "Gunnar Wagenknecht",
+        "java",
+        3
+    ],
+    [
+        "S\u00e9bastien Arod",
+        "java",
+        23
+    ],
+    [
+        "S\u00e9bastien Arod",
+        "mf",
+        5
+    ],
+    [
+        "S\u00e9bastien Arod",
+        "mf_expected",
+        4
+    ],
+    [
+        "S\u00e9bastien Arod",
+        "MF",
+        4
+    ],
+    [
+        "S\u00e9bastien Arod",
+        "MF_expected",
+        4
+    ],
+    [
+        "S\u00e9bastien Arod",
+        "xml",
+        5
+    ]
+]

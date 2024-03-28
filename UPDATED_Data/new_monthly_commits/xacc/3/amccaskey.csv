@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Fri Jan 13 14:53:29 2017,CMakeLists.txt,amccaskey
+Fri Jan 13 14:53:29 2017,LICENSE,amccaskey
+Fri Jan 13 14:53:29 2017,model.uml,amccaskey
+Fri Jan 13 14:53:29 2017,representations.aird,amccaskey
+Fri Jan 13 14:53:29 2017,CMakeLists.txt,amccaskey
+Fri Jan 13 14:53:29 2017,CMakeLists.txt,amccaskey
+Fri Jan 13 14:53:29 2017,CMakeLists.txt,amccaskey
+Fri Jan 13 14:53:29 2017,ScaffCCAPI.hpp,amccaskey
+Fri Jan 13 14:53:29 2017,ScaffoldCompiler.cpp,amccaskey
+Fri Jan 13 14:53:29 2017,ScaffoldCompiler.hpp,amccaskey
+Fri Jan 13 14:53:29 2017,ScaffoldCompilerTester.cpp,amccaskey
+Fri Jan 13 14:53:29 2017,CMakeLists.txt,amccaskey
+Fri Jan 13 14:53:29 2017,XACC.hpp,amccaskey
+Fri Jan 13 14:53:29 2017,Accelerator.hpp,amccaskey
+Fri Jan 13 14:53:29 2017,ExecutionQueue.hpp,amccaskey
+Fri Jan 13 14:53:29 2017,Compiler.hpp,amccaskey
+Fri Jan 13 14:53:29 2017,GraphIR.hpp,amccaskey
+Fri Jan 13 14:53:29 2017,IR.hpp,amccaskey
+Fri Jan 13 14:53:29 2017,IROptimization.hpp,amccaskey
+Fri Jan 13 14:53:29 2017,IRTranslation.hpp,amccaskey
+Fri Jan 13 14:53:29 2017,Kernel.hpp,amccaskey
+Fri Jan 13 14:53:29 2017,Program.hpp,amccaskey
+Fri Jan 13 14:53:29 2017,CompilerTester.cpp,amccaskey
+Fri Jan 13 14:53:29 2017,ProgramTester.cpp,amccaskey
+Fri Jan 13 14:53:29 2017,XaccUtils.hpp,amccaskey

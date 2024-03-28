@@ -1,0 +1,107 @@
+[
+    [
+        "Mathias Kraus",
+        "cpp",
+        432
+    ],
+    [
+        "Mathias Kraus",
+        "hpp",
+        235
+    ],
+    [
+        "Mathias Kraus",
+        "inl",
+        93
+    ],
+    [
+        "Mathias Kraus",
+        "bazel",
+        10
+    ],
+    [
+        "Mathias Kraus",
+        "txt",
+        13
+    ],
+    [
+        "Mathias Kraus",
+        "md",
+        31
+    ],
+    [
+        "Mathias Kraus",
+        "clang-tidy",
+        1
+    ],
+    [
+        "Mathias Kraus",
+        "cmake",
+        5
+    ],
+    [
+        "Mathias Kraus",
+        "in",
+        3
+    ],
+    [
+        "Graham Palmer",
+        "md",
+        1
+    ],
+    [
+        "Graham Palmer",
+        "inl",
+        2
+    ],
+    [
+        "Graham Palmer",
+        "cpp",
+        1
+    ],
+    [
+        "Peter Seiderer",
+        "md",
+        1
+    ],
+    [
+        "Peter Seiderer",
+        "hpp",
+        1
+    ],
+    [
+        "Dennis Liu",
+        "inl",
+        19
+    ],
+    [
+        "Dennis Liu",
+        "hpp",
+        18
+    ],
+    [
+        "Dennis Liu",
+        "cpp",
+        10
+    ],
+    [
+        "Luca Bartoli",
+        "md",
+        1
+    ],
+    [
+        "Luca Bartoli",
+        "hpp",
+        2
+    ],
+    [
+        "Luca Bartoli",
+        "cpp",
+        1
+    ],
+    [
+        "Luca Bartoli",
+        "inl",
+        1
+    ]
+]

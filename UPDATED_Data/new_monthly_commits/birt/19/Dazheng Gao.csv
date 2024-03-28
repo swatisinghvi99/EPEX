@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Fri Aug  4  2:59:23 2006,SimpleGroupElementHandle.java,Dazheng Gao
+Mon Aug  7  8:01:49 2006,ReportRequest.java,Dazheng Gao
+Mon Aug  7  8:01:49 2006,ReportCreationTool.java,Dazheng Gao
+Mon Aug  7  8:01:49 2006,ReportTemplateTransferDropTargetListener.java,Dazheng Gao
+Mon Aug  7  8:24:39 2006,ReportElementEditPart.java,Dazheng Gao
+Mon Aug  7  9:54:23 2006,ReportTemplateTransferDropTargetListener.java,Dazheng Gao
+Wed Aug  9  5:25:47 2006,ReportEditorWithPalette.java,Dazheng Gao
+Wed Aug  9  5:25:47 2006,ReportMasterPageEditor.java,Dazheng Gao
+Wed Aug  9  5:25:47 2006,ListEditPart.java,Dazheng Gao
+Wed Aug  9  6:28:07 2006,ReportFlowLayoutEditPolicy.java,Dazheng Gao
+Thu Aug 10  7:21:51 2006,ListEditPart.java,Dazheng Gao
+Mon Aug 14  9:05:39 2006,ReportElementEditPart.java,Dazheng Gao
+Mon Aug 14  9:32:07 2006,LibraryLayoutEditorFormPage.java,Dazheng Gao
+Tue Aug 15  2:34:25 2006,ReportPreviewFormPage.java,Dazheng Gao
+Fri Aug 18  2:33:52 2006,InsertInLayoutAction.java,Dazheng Gao
+Fri Aug 18  7:55:48 2006,ReportScriptFormPage.java,Dazheng Gao
+Mon Aug 21  8:44:06 2006,TableHandleAdapter.java,Dazheng Gao
+Tue Aug 29  3:17:06 2006,TableHandleAdapter.java,Dazheng Gao

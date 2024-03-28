@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Tue Sep 28 17:02:27 2021,debug-configuration-manager.ts,Alvaro Sanchez
+Tue Sep 28 17:02:27 2021,debug-prefix-configuration.ts,Alvaro Sanchez
+Tue Sep 28 17:02:27 2021,debug-configuration.ts,Alvaro Sanchez
+Tue Sep 28 17:02:27 2021,debug-service.ts,Alvaro Sanchez
+Tue Sep 28 17:02:27 2021,plugin-api-rpc.ts,Alvaro Sanchez
+Tue Sep 28 17:02:27 2021,hosted-plugin.ts,Alvaro Sanchez
+Tue Sep 28 17:02:27 2021,plugin-debug-adapter-contribution.ts,Alvaro Sanchez
+Tue Sep 28 17:02:27 2021,plugin-debug-service.ts,Alvaro Sanchez
+Tue Sep 28 17:02:27 2021,debug.ts,Alvaro Sanchez
+Tue Sep 28 17:02:27 2021,plugin-context.ts,Alvaro Sanchez
+Tue Sep 28 17:02:27 2021,plugin-manager.ts,Alvaro Sanchez
+Tue Sep 28 17:02:27 2021,theia.d.ts,Alvaro Sanchez
+Mon Oct 18 21:06:40 2021,debug-configuration-manager.ts,Alvaro Sanchez

@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Tue Jul 23 13:00:56 2019,ApiBaselinePreferencePage.java,Vikas Chandra
+Tue Jul 23 13:00:56 2019,ApiBaselinesConfigurationBlock.java,Vikas Chandra
+Tue Jul 23 13:00:56 2019,PreferenceMessages.java,Vikas Chandra
+Tue Jul 23 13:00:56 2019,preferencemessages.properties,Vikas Chandra
+Thu Jul 25  9:52:59 2019,ApiBaselinePreferencePage.java,Vikas Chandra
+Thu Jul 25  9:52:59 2019,ApiBaselinesConfigurationBlock.java,Vikas Chandra
+Mon Jul 29 11:26:22 2019,BaseApiAnalyzer.java,Vikas Chandra
+Fri Aug  2 17:46:17 2019,ApiUseScanPreferencePage.java,Vikas Chandra
+Tue Aug 13 10:48:23 2019,SinceTagAfterVersionUpdateResolution.java,Vikas Chandra
+Tue Aug 13 11:29:45 2019,ApiAnalysisBuilder.java,Vikas Chandra
+Wed Aug 14  4:12:29 2019,ManifestConsistencyChecker.java,Vikas Chandra
+Wed Aug 14 16:05:26 2019,InformationSection.java,Vikas Chandra
+Tue Aug 20  8:46:37 2019,ApiAnalysisApplication.java,Vikas Chandra

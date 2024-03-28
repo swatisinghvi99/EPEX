@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Tue Nov 25 18:47:09 2008,MANIFEST.MF,avera
+Tue Nov 25 18:47:09 2008,plugin.properties,avera
+Tue Nov 25 18:47:09 2008,plugin.xml,avera
+Tue Nov 25 18:47:09 2008,ServerActionProvider.java,avera
+Tue Nov 25 18:47:09 2008,ServerContentProvider.java,avera
+Tue Nov 25 18:47:09 2008,ServerDecorator.java,avera
+Tue Nov 25 18:47:09 2008,ServerLabelProvider.java,avera
+Tue Nov 25 18:47:09 2008,ServersView.java,avera
+Wed Dec 10 20:06:39 2008,plugin.properties,avera
+Wed Dec 10 20:06:39 2008,plugin.xml,avera
+Wed Dec 10 20:06:39 2008,Messages.java,avera
+Wed Dec 10 20:06:39 2008,Messages.properties,avera
+Wed Dec 10 20:06:39 2008,ConnectedUIDecorator.java,avera
+Wed Dec 10 20:06:39 2008,UIDecorator.java,avera
+Wed Dec 10 20:06:39 2008,UIDecoratorManager.java,avera
+Wed Dec 10 20:06:39 2008,PasteAction.java,avera
+Wed Dec 10 20:06:39 2008,CNFManagedUIDecorator.java,avera
+Wed Dec 10 20:06:39 2008,ServerActionProvider.java,avera
+Wed Dec 10 20:06:39 2008,ServerContentProvider.java,avera
+Wed Dec 10 20:06:39 2008,ServerDecorator.java,avera
+Wed Dec 10 20:06:39 2008,ServerLabelProvider.java,avera
+Wed Dec 10 20:06:39 2008,ServersView2.java,avera
+Wed Dec 10 21:24:59 2008,ServerContentProvider.java,avera
+Wed Dec 10 21:24:59 2008,ServerLabelProvider.java,avera
+Wed Dec 10 21:24:59 2008,ServersView2.java,avera

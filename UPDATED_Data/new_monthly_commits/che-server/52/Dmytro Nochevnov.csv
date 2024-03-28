@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Thu May 28 18:08:00 2020,cico_pr_test.sh,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,functional_tests_utils.sh,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,cico-devfiles-test.sh,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,cico-multiuser-all-tests.sh,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,cico-multiuser-hot-update-tests.sh,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,cico-multiuser-stable-selenium-tests.sh,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,nightly-happypath-test.sh,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,ocp-oauth-test.sh,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,rc_function_util.sh,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,cico-release-devfiles-test.sh,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,cico-release-multiuser-happy-path-test.sh,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,cico-release-multiuser-integration-tests.sh,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,cico-release-ocp-oauth-test.sh,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,cico-release-rolling-strategy-test.sh,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,release_function_util.sh,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,Jenkinsfile,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,README.md,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,OpenShiftKeycloakCliCommandExecutor.java,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,OpenShiftWebConsoleUrlProvider.java,Dmytro Nochevnov
+Thu May 28 18:08:00 2020,deployment.yaml,Dmytro Nochevnov

@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Thu Oct 30 16:00:39 2008,plugin.xml,sefftinge
+Thu Oct 30 16:00:39 2008,MWEGenProposalProvider.java,sefftinge
+Thu Oct 30 16:00:39 2008,MWEUiConfig.java,sefftinge
+Thu Oct 30 16:00:39 2008,MWEUIConfig.java,sefftinge
+Thu Oct 30 16:00:39 2008,Analyzer.java,sefftinge
+Thu Oct 30 16:00:39 2008,AbstractAnalyzer.java,sefftinge
+Thu Oct 30 16:00:39 2008,InternalAnalyzer.java,sefftinge
+Thu Oct 30 16:00:39 2008,AbstractMWERuntimeConfig.java,sefftinge
+Thu Oct 30 16:00:39 2008,Checks.chk,sefftinge
+Thu Oct 30 16:00:39 2008,IMWE.java,sefftinge
+Thu Oct 30 16:00:39 2008,MWERuntimeConfig.java,sefftinge
+Thu Oct 30 16:00:39 2008,MWEStandaloneSetup.java,sefftinge
+Thu Oct 30 16:00:39 2008,MWEParser.java,sefftinge
+Thu Oct 30 16:00:39 2008,InternalMWELexer.java,sefftinge
+Thu Oct 30 16:00:39 2008,InternalMWEParser.java,sefftinge
+Thu Oct 30 16:00:39 2008,MWEParseTreeConstructor.java,sefftinge
+Thu Oct 30 16:00:39 2008,MWEResourceFactory.java,sefftinge
+Thu Oct 30 16:00:39 2008,MWERuntimeConfig.java,sefftinge
+Thu Oct 30 16:00:39 2008,mwe.java,sefftinge
+Mon Nov  3  8:43:54 2008,MANIFEST.MF,sefftinge
+Mon Nov  3  8:43:54 2008,ResourceLoaderDefaultImpl.java,sefftinge
+Mon Nov  3  8:43:54 2008,ResourceLoaderFactory.java,sefftinge
+Mon Nov  3  8:43:54 2008,ResourceLoaderImpl.java,sefftinge
+Mon Nov  3 11:08:19 2008,ProjectIncludingResourceLoader.java,sefftinge
+Mon Nov  3 11:08:19 2008,ResourceLoaderFactoryTest.java,sefftinge

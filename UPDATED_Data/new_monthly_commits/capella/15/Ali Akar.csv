@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Mon Jan 18 11:11:49 2016,MANIFEST.MF,Ali Akar
+Mon Jan 18 11:11:49 2016,MDCHK_StateFragment_ES_OES_AllocatedFunction.java,Ali Akar
+Mon Jan 18 11:11:49 2016,MDCHK_StateFragment_ES_OES_ModeState.java,Ali Akar
+Mon Jan 18 11:11:49 2016,MDCHK_StateFragment_FS_OAS_StateModeAvailability.java,Ali Akar
+Fri Jan 29 16:28:57 2016,MakeTraceabilityActivity.java,Ali Akar
+Fri Jan 29 16:28:57 2016,DefaultLocationHandler.java,Ali Akar
+Fri Jan 29 16:28:57 2016,InitializeDiffMergeUpdateReActivity.java,Ali Akar
+Fri Jan 29 16:28:57 2016,StructureSynchronization.java,Ali Akar
+Wed Feb  3 15:28:51 2016,logical.odesign,Ali Akar
+Wed Feb  3 15:28:51 2016,oa.odesign,Ali Akar
+Wed Feb  3 15:28:51 2016,OAServices.java,Ali Akar
+Wed Feb 10 14:35:34 2016,SiriusDiffPolicy.java,Ali Akar

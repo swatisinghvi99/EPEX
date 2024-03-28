@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Tue Mar 16 14:41:10 2010,ResourceImpl.java,emerks
+Wed Mar 17 13:36:22 2010,XMLHandler.java,emerks
+Wed Mar 17 15:32:17 2010,XSDEcoreBuilder.java,emerks
+Fri Mar 19 16:45:38 2010,XSDSimpleTypeDefinitionImpl.java,emerks
+Fri Mar 19 16:47:14 2010,XSDValidateTest.java,emerks
+Fri Mar 19 17:16:43 2010,ExtendedComboBoxCellEditor.java,emerks
+Mon Apr  5 15:30:53 2010,EMFListProperty.java,emerks
+Mon Apr  5 15:31:44 2010,MANIFEST.MF,emerks
+Mon Apr  5 15:31:44 2010,Test EMF Databinding.launch,emerks
+Mon Apr  5 15:31:44 2010,plugin.properties,emerks
+Mon Apr  5 15:31:44 2010,Activator.java,emerks
+Mon Apr  5 15:31:44 2010,EMFPropertiesTest.java,emerks
+Mon Apr  5 15:31:46 2010,MANIFEST.MF,emerks
+Mon Apr  5 15:31:46 2010,Test EMF Databinding Edit.launch,emerks
+Mon Apr  5 15:31:46 2010,build.properties,emerks
+Mon Apr  5 15:31:46 2010,plugin.properties,emerks
+Mon Apr  5 15:31:46 2010,Activator.java,emerks
+Mon Apr  5 15:31:46 2010,EMFEditPropertiesTest.java,emerks
+Fri Apr  9 10:38:37 2010,ListDifferenceAnalyzer.java,emerks
+Wed Apr 14 16:48:22 2010,Bad.ecore,emerks
+Wed Apr 14 16:48:22 2010,BadEcoreDiagnosticTest.java,emerks
+Wed Apr 14 16:48:28 2010,Ecore.ecore,emerks
+Wed Apr 14 16:48:28 2010,plugin.properties,emerks
+Wed Apr 14 16:48:28 2010,EReference.java,emerks
+Wed Apr 14 16:48:28 2010,EcorePackageImpl.java,emerks
+Wed Apr 14 16:48:28 2010,EcoreValidator.java,emerks

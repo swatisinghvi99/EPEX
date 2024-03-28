@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Wed May 16  6:47:25 2012,SwingTextMetrics.java,heli
+Wed May 16  6:47:25 2012,SwingTextRenderer.java,heli
+Wed May 16  6:47:25 2012,ChartTextMetrics.java,heli
+Wed May 16  6:47:25 2012,ChartTextRenderer.java,heli
+Wed May 16  6:47:25 2012,SwtTextMetrics.java,heli
+Wed May 16  6:47:25 2012,SwtTextRenderer.java,heli
+Wed May 16  6:47:25 2012,ITextMetrics.java,heli
+Wed May 16  6:47:25 2012,TextAdapter.java,heli
+Fri May 18  7:20:23 2012,Area.java,heli
+Wed May 23  6:12:45 2012,ChoicePropertyDescriptor.java,heli
+Wed May 23  6:12:45 2012,ChartReportItemImpl.java,heli
+Fri May 11  3:50:49 2012,ChartReportItemPresentationBase.java,heli
+Mon May 14  3:28:03 2012,ReportDataServiceProvider.java,heli
+Thu May 24  6:00:52 2012,PlotWithAxes.java,heli

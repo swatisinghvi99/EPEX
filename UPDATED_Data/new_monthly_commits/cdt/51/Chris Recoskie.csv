@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Mon Aug 28 17:16:58 2006,NewClassCodeGenerator.java,Chris Recoskie
+Tue Aug 29 13:28:33 2006,NewClassWizardUtil.java,Chris Recoskie
+Tue Aug 29 13:28:33 2006,NewClassCreationWizardPage.java,Chris Recoskie
+Tue Aug 29 15:24:44 2006,NewClassWizardUtil.java,Chris Recoskie
+Thu Aug 31 12:42:23 2006,AddIncludesOperation.java,Chris Recoskie
+Thu Aug 31 12:42:23 2006,AddIncludeOnSelectionAction.java,Chris Recoskie
+Mon Sep 11 18:39:14 2006,PDOMSearchPatternQuery.java,Chris Recoskie
+Mon Sep 11 20:06:21 2006,plugin.xml,Chris Recoskie
+Mon Sep 11 20:06:21 2006,ManagedProject30MakefileTests.java,Chris Recoskie
+Mon Sep 11 20:06:21 2006,GnuMakefileGenerator.java,Chris Recoskie
+Wed Sep 13 15:45:42 2006,IInputOrder.java,Chris Recoskie
+Wed Sep 13 15:45:42 2006,IOutputType.java,Chris Recoskie
+Fri Sep 15  0:12:13 2006,MbsMacroSupplier.java,Chris Recoskie
+Fri Sep 15  0:12:13 2006,CProjectPlatformPage.java,Chris Recoskie
+Fri Sep 15  0:12:13 2006,Platform.java,Chris Recoskie
+Fri Sep 15  0:12:13 2006,DebugConfiguration.java,Chris Recoskie
+Fri Sep 15  0:12:13 2006,StandardGDBDebuggerPage.java,Chris Recoskie
+Mon Sep 25 14:28:29 2006,CHeaderRuleTest.java,Chris Recoskie
+Mon Sep 25 14:28:29 2006,TextTestSuite.java,Chris Recoskie
+Mon Sep 25 14:28:29 2006,CEditorPreferencePage.java,Chris Recoskie
+Mon Sep 25 14:28:29 2006,PreferencesMessages.properties,Chris Recoskie
+Mon Sep 25 14:28:29 2006,CCodeScanner.java,Chris Recoskie
+Mon Sep 25 14:28:29 2006,CHeaderRule.java,Chris Recoskie
+Mon Sep 25 14:28:29 2006,CppCodeScanner.java,Chris Recoskie
+Mon Sep 25 14:28:29 2006,ICColorConstants.java,Chris Recoskie
+Tue Sep 26 16:47:24 2006,CEditorPreferencePage.java,Chris Recoskie

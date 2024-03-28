@@ -1,0 +1,32 @@
+[
+    [
+        "cbrun",
+        "classpath",
+        1
+    ],
+    [
+        "cbrun",
+        "project",
+        1
+    ],
+    [
+        "cbrun",
+        "MF",
+        2
+    ],
+    [
+        "cbrun",
+        "properties",
+        1
+    ],
+    [
+        "cbrun",
+        "xml",
+        1
+    ],
+    [
+        "cbrun",
+        "java",
+        10
+    ]
+]

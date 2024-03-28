@@ -1,0 +1,58 @@
+date_time,file,committer_name
+Thu Jan  8 13:24:07 2015,AbstractDiagramListEditPart.java,Mickael LANOE
+Thu Jan  8 13:24:07 2015,DNodeListName2EditPart.java,Mickael LANOE
+Thu Jan  8 13:24:07 2015,DNodeListNameEditPart.java,Mickael LANOE
+Thu Jan  8 13:24:07 2015,DeleteFromModelActionTests.java,Mickael LANOE
+Thu Jan  8 13:24:07 2015,LabelSelectionTest.java,Mickael LANOE
+Thu Jan  8 13:24:07 2015,SelectAllAndDeselectionTest.java,Mickael LANOE
+Fri Jan  9 10:44:30 2015,DDiagramCommandStack.java,Mickael LANOE
+Fri Jan  9 10:44:30 2015,Release Notes.html,Mickael LANOE
+Fri Jan  9 10:44:30 2015,Release Notes.textile,Mickael LANOE
+Fri Jan  9 10:44:30 2015,SiriusTestCase.java,Mickael LANOE
+Fri Jan  9 10:44:30 2015,DAnalysisSessionTests.java,Mickael LANOE
+Fri Jan  9 10:44:30 2015,DocbookTestCase.java,Mickael LANOE
+Fri Jan  9 10:44:30 2015,AbstractMigrationFromTest.java,Mickael LANOE
+Fri Jan  9 10:44:30 2015,AbstractSiriusSwtBotGefTestCase.java,Mickael LANOE
+Fri Jan  9 14:42:24 2015,KeyboardDeletionFromLabelTests.java,Mickael LANOE
+Fri Jan  9 14:42:24 2015,GenericClipboardSupportTest.java,Mickael LANOE
+Fri Jan  9 14:42:24 2015,MultiSessionCopyPasteTest.java,Mickael LANOE
+Mon Jan 12  8:24:34 2015,CustomClipboardSupportTest.java,Mickael LANOE
+Mon Jan 12  8:56:19 2015,SmartDialogAnalysisSelector.java,Mickael LANOE
+Wed Jan 14  9:42:53 2015,plugin.xml,Mickael LANOE
+Wed Jan 14  9:42:53 2015,AbstractGeneratedDiagramNameEditPart.java,Mickael LANOE
+Wed Jan 14  9:42:53 2015,DNodeListElementEditPart.java,Mickael LANOE
+Wed Jan 14  9:42:53 2015,ViewPropertiesSynchronizer.java,Mickael LANOE
+Wed Jan 14  9:42:53 2015,DNodeListElementViewFactory.java,Mickael LANOE
+Wed Jan 14  9:42:53 2015,ResetStylePropertiesToDefaultValuesCommand.java,Mickael LANOE
+Wed Jan 14  9:42:53 2015,LabelColorAndFontPropertySection.java,Mickael LANOE
+Wed Jan 14  9:42:53 2015,DNodeListElementEditPartPropertySectionFilter.java,Mickael LANOE
+Wed Jan 14  9:42:53 2015,DDiagramElementQuery.java,Mickael LANOE
+Wed Jan 14  9:42:53 2015,Release Notes.html,Mickael LANOE
+Wed Jan 14  9:42:53 2015,Release Notes.textile,Mickael LANOE
+Wed Jan 14  9:42:53 2015,AbstractSiriusSwtBotGefTestCase.java,Mickael LANOE
+Wed Jan 14  9:42:53 2015,SWTBotSiriusHelper.java,Mickael LANOE
+Wed Jan 14  9:42:53 2015,tc2250.aird,Mickael LANOE
+Wed Jan 14  9:42:53 2015,tc2250.ecore,Mickael LANOE
+Wed Jan 14  9:42:53 2015,AbstractFontModificationTest.java,Mickael LANOE
+Wed Jan 14  9:42:53 2015,AbstractRefreshWithCustomizedStyleTest.java,Mickael LANOE
+Wed Jan 14  9:42:53 2015,BoldItalicFontSynchronizationTest.java,Mickael LANOE
+Wed Jan 14  9:42:53 2015,LabelFontModificationsTest.java,Mickael LANOE
+Wed Jan 14 13:04:16 2015,plugin.xml,Mickael LANOE
+Wed Jan 14 13:04:16 2015,FontStyleForDNodeListElementMigrationParticipant.java,Mickael LANOE
+Wed Jan 14 13:04:16 2015,ListElement.aird,Mickael LANOE
+Wed Jan 14 13:04:16 2015,ListElement.ecore,Mickael LANOE
+Wed Jan 14 13:04:16 2015,AllCommonPluginTests.java,Mickael LANOE
+Wed Jan 14 13:04:16 2015,FontStyleForDNodeListElementMigrationTest.java,Mickael LANOE
+Wed Jan 14 13:04:16 2015,tc2225.aird,Mickael LANOE
+Wed Jan 14 16:55:17 2015,AbstractRefreshWithCustomizedStyleTest.java,Mickael LANOE
+Wed Jan 14 16:55:17 2015,RefreshWithCustomizedStyleFromAppearanceTabTests.java,Mickael LANOE
+Wed Jan 14 16:55:17 2015,RefreshWithCustomizedStyleFromTabbarTests.java,Mickael LANOE
+Wed Jan 21  9:38:43 2015,SiriusValidationDecoratorProvider.java,Mickael LANOE
+Wed Jan 21  9:38:43 2015,plugin.xml,Mickael LANOE
+Wed Jan 21  9:38:43 2015,AbstractDDiagramConstraint.java,Mickael LANOE
+Wed Jan 21  9:38:43 2015,ticket1666.odesign,Mickael LANOE
+Wed Jan 21  9:38:43 2015,DiagramValidationTest.java,Mickael LANOE
+Wed Jan 21 10:20:59 2015,ReflectionHelper.java,Mickael LANOE
+Wed Jan 21 10:20:59 2015,Release Notes.html,Mickael LANOE
+Wed Jan 21 10:20:59 2015,Release Notes.textile,Mickael LANOE
+Wed Jan 21 14:27:44 2015,AllTestSuite.java,Mickael LANOE

@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Tue Jun 26 22:12:03 2018,VendorNameToPlatformMapping.properties,Will Dazey
+Tue Jun 26 22:12:03 2018,DatabaseSessionImpl.java,Will Dazey
+Tue Jun 26 22:12:03 2018,Oracle10Platform.java,Will Dazey
+Tue Jun 26 22:12:03 2018,Oracle11Platform.java,Will Dazey
+Tue Jun 26 22:12:03 2018,Oracle12Platform.java,Will Dazey
+Tue Jun 26 22:12:03 2018,Oracle8Platform.java,Will Dazey
+Tue Jun 26 22:12:03 2018,Oracle9Platform.java,Will Dazey
+Fri Jun 29 21:22:51 2018,ExceptionLocalizationResource.java,Will Dazey

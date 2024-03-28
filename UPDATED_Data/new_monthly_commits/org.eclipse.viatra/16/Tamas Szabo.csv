@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Fri Apr 25  8:52:28 2014,IncQueryDebugUtil.java,Tamas Szabo
+Fri Apr 25  8:52:28 2014,IncQueryDebugValue.java,Tamas Szabo
+Fri Apr 25  8:52:28 2014,IncQueryDebugVariable.java,Tamas Szabo
+Fri Apr 25  8:52:28 2014,StackFrameWrapper.java,Tamas Szabo
+Fri Apr 25  8:52:28 2014,VariablesFactory.java,Tamas Szabo
+Fri Apr 25  8:52:28 2014,IncQueryDebugContextProcessor.java,Tamas Szabo
+Fri Apr 25  8:52:28 2014,IncQueryDebugEventSetListener.java,Tamas Szabo
+Fri Apr 25  8:52:28 2014,IncQueryDebugEventSetProcessor.java,Tamas Szabo
+Fri Apr 25  8:52:28 2014,DebugVariablesFactory.java,Tamas Szabo
+Fri Apr 25  8:52:28 2014,IncQueryVariablesView.java,Tamas Szabo
+Fri Apr 25  8:52:28 2014,EngineValue.java,Tamas Szabo
+Fri Apr 25  8:52:28 2014,MatchParameterValue.java,Tamas Szabo
+Fri Apr 25  8:52:28 2014,MatchValue.java,Tamas Szabo
+Fri Apr 25  8:52:28 2014,MatcherValue.java,Tamas Szabo
+Thu May  1 12:22:30 2014,SCC.java,Tamas Szabo
+Thu May  1 16:31:59 2014,IncQueryDebugUtil.java,Tamas Szabo
+Thu May  1 16:31:59 2014,MatchValue.java,Tamas Szabo
+Thu May  1 16:31:59 2014,MatcherValue.java,Tamas Szabo
+Wed May  7 14:13:29 2014,IncQueryDebugValue.java,Tamas Szabo
+Wed May  7 14:13:29 2014,IncQueryDebugVariable.java,Tamas Szabo
+Wed May  7 14:13:29 2014,EngineValue.java,Tamas Szabo
+Wed May  7 14:13:29 2014,MatchParameterValue.java,Tamas Szabo
+Wed May  7 14:13:29 2014,MatchValue.java,Tamas Szabo
+Wed May  7 14:13:29 2014,MatcherValue.java,Tamas Szabo

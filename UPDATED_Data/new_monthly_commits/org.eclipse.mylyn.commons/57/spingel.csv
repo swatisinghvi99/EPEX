@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Sat Feb 20  0:11:36 2010,WorkbenchUtil.java,spingel
+Sat Feb 20 21:45:03 2010,ManagedTestSuite.java,spingel
+Sun Feb 21 23:39:13 2010,MANIFEST.MF,spingel
+Sun Feb 21 23:39:13 2010,ConnectorDiscovery.java,spingel
+Sun Feb 21 23:39:13 2010,RemoteBundleDiscoveryStrategy.java,spingel
+Sun Feb 21 23:39:13 2010,HttpClientTransportService.java,spingel
+Sun Feb 21 23:39:13 2010,ITransportService.java,spingel
+Sun Feb 21 23:39:13 2010,P2TransportService.java,spingel
+Sun Feb 21 23:39:13 2010,WebUtil.java,spingel
+Sun Feb 21 23:39:13 2010,ConnectorDiscoveryRemoteTest.java,spingel
+Mon Feb 22  6:31:20 2010,CheckActivityJobTest.java,spingel
+Thu Mar  4 21:47:42 2010,CommonsHttpSender.java,spingel
+Tue Mar 16  6:29:25 2010,PrepareInstallProfileJob.java,spingel

@@ -1,0 +1,97 @@
+[
+    [
+        "Oleksandr Andriienko",
+        "dockerignore",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "gitignore",
+        4
+    ],
+    [
+        "Oleksandr Andriienko",
+        "unknown",
+        33
+    ],
+    [
+        "Oleksandr Andriienko",
+        "md",
+        11
+    ],
+    [
+        "Oleksandr Andriienko",
+        "sh",
+        6
+    ],
+    [
+        "Oleksandr Andriienko",
+        "lock",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "toml",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "go",
+        252
+    ],
+    [
+        "Oleksandr Andriienko",
+        "default",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "init",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "upstart",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "udev",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "APACHE",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "BSD",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "yml",
+        5
+    ],
+    [
+        "Oleksandr Andriienko",
+        "txt",
+        5
+    ],
+    [
+        "Oleksandr Andriienko",
+        "ts",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "java",
+        3
+    ],
+    [
+        "Oleksandr Andriienko",
+        "s",
+        2
+    ]
+]

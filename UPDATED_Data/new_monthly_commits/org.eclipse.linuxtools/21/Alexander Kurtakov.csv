@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Fri Sep 10 11:21:30 2010,ChangeLog,Alexander Kurtakov
+Fri Sep 10 11:21:30 2010,DownloadJob.java,Alexander Kurtakov
+Fri Sep 10 11:21:30 2010,Messages.java,Alexander Kurtakov
+Fri Sep 10 11:21:30 2010,messages.properties,Alexander Kurtakov
+Fri Sep 10 11:55:00 2010,ChangeLog,Alexander Kurtakov
+Fri Sep 10 11:55:00 2010,FileDownloadJob.java,Alexander Kurtakov
+Fri Sep 10 11:59:58 2010,ChangeLog,Alexander Kurtakov
+Fri Sep 10 11:59:58 2010,SRPMImportOperation.java,Alexander Kurtakov
+Fri Sep 10 11:59:58 2010,SRPMImportPage.java,Alexander Kurtakov
+Fri Sep 10 11:59:58 2010,SRPMImportWizard.java,Alexander Kurtakov
+Tue Sep 14 10:13:30 2010,ChangeLog,Alexander Kurtakov
+Tue Sep 14 10:13:30 2010,RPMProject.java,Alexander Kurtakov
+Tue Sep 14 10:13:30 2010,Utils.java,Alexander Kurtakov
+Tue Sep 14 10:16:40 2010,ChangeLog,Alexander Kurtakov
+Tue Sep 14 10:16:40 2010,plugin.xml,Alexander Kurtakov
+Tue Sep 14 10:16:40 2010,MissingDependencyMatcher.java,Alexander Kurtakov
+Tue Sep 14 10:16:40 2010,RPMExportOperation.java,Alexander Kurtakov
+Tue Sep 14 10:16:40 2010,RPMExportWizard.java,Alexander Kurtakov
+Tue Sep 14 10:16:40 2010,RpmConsole.java,Alexander Kurtakov
+Tue Sep 14 11:22:42 2010,ChangeLog,Alexander Kurtakov
+Tue Sep 14 11:22:42 2010,MANIFEST.MF,Alexander Kurtakov
+Tue Sep 14 11:22:42 2010,plugin.xml,Alexander Kurtakov
+Tue Sep 14 11:22:42 2010,ErrorLineMatcher.java,Alexander Kurtakov
+Tue Sep 14 11:22:42 2010,RpmConsole.java,Alexander Kurtakov

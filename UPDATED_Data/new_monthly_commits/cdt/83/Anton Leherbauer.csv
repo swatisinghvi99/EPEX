@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Mon Apr 27  7:57:46 2009,CEditor.java,Anton Leherbauer
+Mon Apr 27  9:19:39 2009,org.eclipse.core.resources.prefs,Anton Leherbauer
+Mon Apr 27  9:19:39 2009,CodeFormatterTest.java,Anton Leherbauer
+Tue Apr 28 10:21:27 2009,BasicSearchTest.java,Anton Leherbauer
+Tue Apr 28 10:21:57 2009,ResourceHelper.java,Anton Leherbauer
+Tue Apr 28 12:07:18 2009,CModelBuilder2.java,Anton Leherbauer
+Tue Apr 28 12:07:18 2009,TranslationUnit.java,Anton Leherbauer
+Mon May  4  9:27:58 2009,ResourceHelper.java,Anton Leherbauer
+Mon May  4 10:44:24 2009,CModelBuilderBugsTest.java,Anton Leherbauer
+Mon May  4 10:44:24 2009,CModelBuilderTest.cpp,Anton Leherbauer
+Mon May  4 10:44:24 2009,ASTStringUtil.java,Anton Leherbauer
+Wed May  6 15:10:23 2009,DefaultVMContentProviderStrategy.java,Anton Leherbauer
+Wed May  6 15:10:23 2009,MultiLevelUpdateHandler.java,Anton Leherbauer
+Mon May 11 12:57:30 2009,DefaultVMContentProviderStrategy.java,Anton Leherbauer
+Wed May 13 11:30:53 2009,EditorUtility.java,Anton Leherbauer
+Wed May 13 13:38:42 2009,TemplateFormatterTest.java,Anton Leherbauer
+Fri May 15  7:58:43 2009,DisassemblyPart.java,Anton Leherbauer
+Fri May 15  8:04:23 2009,DisassemblyDocument.java,Anton Leherbauer
+Fri May 22  7:59:04 2009,CElementInfo.java,Anton Leherbauer

@@ -1,0 +1,6 @@
+date_time,file,committer_name
+Wed Oct  2 13:42:28 2019,AntiCsrfHelper.java,Michael Rudolf
+Wed Oct  2 13:42:28 2019,HttpMethodAntiCsrfFilterExclusion.java,Michael Rudolf
+Wed Oct  2 13:42:28 2019,IAntiCsrfFilterExclusion.java,Michael Rudolf
+Wed Oct  2 13:56:58 2019,AntiCsrfHelper.java,Michael Rudolf
+Thu Oct  3  8:39:42 2019,AntiCsrfHelper.java,Michael Rudolf

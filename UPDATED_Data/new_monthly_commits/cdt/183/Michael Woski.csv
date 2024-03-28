@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Sat Sep  2  6:35:10 2017,CPPSemantics.java,Michael Woski
+Sat Sep  2  6:35:10 2017,SemanticUtil.java,Michael Woski
+Sat Sep  2  6:35:10 2017,CPPSelectionTestsNoIndexer.java,Michael Woski
+Sat Sep  2  6:35:10 2017,CElementHyperlinkDetector.java,Michael Woski
+Sat Sep  2  6:35:10 2017,OpenDeclarationsJob.java,Michael Woski
+Sat Sep  2  6:35:10 2017,CSourceHover.java,Michael Woski
+Tue Sep 12 23:46:34 2017,CPPASTNamedTypeSpecifier.java,Michael Woski
+Tue Sep 12 23:46:34 2017,CompletionTests.java,Michael Woski
+Sat Sep 16  7:08:21 2017,CPPASTQualifiedName.java,Michael Woski
+Sat Sep 16  7:08:21 2017,AccessContext.java,Michael Woski
+Sat Sep 16  7:08:21 2017,CPPTemplates.java,Michael Woski
+Sat Sep 16  7:08:21 2017,HeuristicResolver.java,Michael Woski
+Sat Sep 16  7:08:21 2017,CompletionTests.java,Michael Woski
+Tue Sep 19 17:29:35 2017,CPPSemantics.java,Michael Woski
+Tue Sep 19 17:29:35 2017,CompletionTestBase.java,Michael Woski
+Tue Sep 19 17:29:35 2017,CompletionTests.java,Michael Woski

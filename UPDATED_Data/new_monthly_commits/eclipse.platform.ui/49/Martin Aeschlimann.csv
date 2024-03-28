@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Thu May 12 13:22:39 2005,FileSearchResult.java,Martin Aeschlimann
+Tue May 17 11:03:01 2005,TextSearchPage.java,Martin Aeschlimann
+Thu May 19 10:34:05 2005,SearchDialog.java,Martin Aeschlimann
+Thu May 19 10:47:33 2005,TextSearchVisitor.java,Martin Aeschlimann
+Thu May 19 12:56:36 2005,FileCharSequenceProvider.java,Martin Aeschlimann
+Thu May 19 12:56:36 2005,TextSearchVisitor.java,Martin Aeschlimann
+Thu May 19 15:10:48 2005,MatchLocator.java,Martin Aeschlimann
+Tue May 24 15:23:55 2005,SetLayoutAction.java,Martin Aeschlimann
+Wed May 25 16:08:28 2005,SearchPreferencePage.java,Martin Aeschlimann
+Wed May 25 17:06:39 2005,FileSearchQuery.java,Martin Aeschlimann

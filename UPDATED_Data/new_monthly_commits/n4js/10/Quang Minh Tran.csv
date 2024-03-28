@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Fri Jan 19  8:23:11 2018,PolyProcessor.xtend,Quang Minh Tran
+Fri Jan 19  8:23:11 2018,SubtypeComputer.xtend,Quang Minh Tran
+Fri Jan 19  8:23:11 2018,Reducer.java,Quang Minh Tran
+Fri Jan 19  8:23:11 2018,ArrayLiteral_withTypeExpectation_IterableN.n4js.xt,Quang Minh Tran
+Fri Jan 19  8:23:11 2018,DefinitionSiteVarianceHandlingConstraintSolver.n4js.xt,Quang Minh Tran
+Fri Jan 19  8:23:11 2018,AbstractInferenceContextTest.xtend,Quang Minh Tran
+Mon Jan 22  8:09:14 2018,JSXBackendHelper.java,Quang Minh Tran
+Mon Jan 22  8:09:14 2018,ReactHelper.xtend,Quang Minh Tran
+Mon Jan 22  8:09:14 2018,messages.properties,Quang Minh Tran
+Mon Jan 22  8:09:14 2018,N4JSXValidator.xtend,Quang Minh Tran
+Mon Jan 22  8:09:14 2018,ElementCanBeNamedReactInN4JS.n4js.xt,Quang Minh Tran
+Mon Jan 22  8:09:14 2018,ElementCannotBeNamedReactInN4JSX.n4jsx.xt,Quang Minh Tran
+Mon Jan 22 15:49:08 2018,DestructureHelper.xtend,Quang Minh Tran
+Mon Jan 22 15:49:08 2018,PolyProcessor.xtend,Quang Minh Tran
+Mon Jan 22 15:49:08 2018,Reducer.java,Quang Minh Tran
+Mon Jan 22 15:49:08 2018,GH_428_UndefinedDestructurePattern.n4js.xt,Quang Minh Tran

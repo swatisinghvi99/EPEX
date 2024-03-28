@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Wed Jan  8 17:01:12 2020,HealthCheckResponse.java,Antoine Sabot-Durand
+Wed Jan  8 17:01:12 2020,java-api.adoc,Antoine Sabot-Durand
+Thu Jan  9  9:30:11 2020,HealthCheckResponse.java,Antoine Sabot-Durand
+Thu Jan  9  9:30:11 2020,java-api.adoc,Antoine Sabot-Durand
+Fri Jan 10  9:33:28 2020,HealthGroup.java,Antoine Sabot-Durand
+Fri Jan 10  9:33:28 2020,HealthGroups.java,Antoine Sabot-Durand
+Fri Jan 10  9:33:28 2020,java-api.adoc,Antoine Sabot-Durand
+Fri Jan 10  9:33:28 2020,protocol-wireformat.adoc,Antoine Sabot-Durand
+Fri Jan 10  9:33:28 2020,MultipleCustomFailedTest.java,Antoine Sabot-Durand
+Fri Jan 10  9:33:28 2020,SingleCustomSuccessfulTest.java,Antoine Sabot-Durand
+Fri Jan 10  9:33:28 2020,TCKBase.java,Antoine Sabot-Durand
+Fri Jan 10  9:33:28 2020,FailedCustom.java,Antoine Sabot-Durand
+Fri Jan 10  9:33:28 2020,SuccessfulCustom.java,Antoine Sabot-Durand
+Fri Jan 10 12:51:28 2020,MultipleCustomFailedTest.java,Antoine Sabot-Durand
+Fri Jan 10 12:51:28 2020,SingleCustomSuccessfulTest.java,Antoine Sabot-Durand
+Tue Jan 14 14:15:23 2020,pom.xml,Antoine Sabot-Durand
+Tue Jan 14 14:15:23 2020,HealthGroup.java,Antoine Sabot-Durand
+Tue Jan 14 14:15:23 2020,Liveness.java,Antoine Sabot-Durand
+Tue Jan 14 14:15:23 2020,Readiness.java,Antoine Sabot-Durand

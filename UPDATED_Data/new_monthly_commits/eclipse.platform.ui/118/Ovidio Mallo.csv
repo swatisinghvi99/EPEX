@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Sun Feb 20 11:02:59 2011,MANIFEST.MF,Ovidio Mallo
+Sun Feb 20 11:02:59 2011,MasterDetailObservables.java,Ovidio Mallo
+Sun Feb 20 11:02:59 2011,ListDetailValueObservableList.java,Ovidio Mallo
+Sun Feb 20 11:02:59 2011,MapDetailValueObservableMap.java,Ovidio Mallo
+Sun Feb 20 11:02:59 2011,SetDetailValueObservableMap.java,Ovidio Mallo
+Sun Feb 20 11:02:59 2011,MANIFEST.MF,Ovidio Mallo
+Sun Feb 20 11:02:59 2011,ValueProperty.java,Ovidio Mallo
+Sun Feb 20 11:02:59 2011,ListDetailValueObservableListTest.java,Ovidio Mallo
+Sun Feb 20 11:02:59 2011,MapDetailValueObservableMapTest.java,Ovidio Mallo
+Sun Feb 20 11:02:59 2011,SetDetailValueObservableMapTest.java,Ovidio Mallo
+Sun Feb 20 11:02:59 2011,BindingTestSuite.java,Ovidio Mallo

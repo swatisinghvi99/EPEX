@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Wed Nov 30 10:26:38 2022,MANIFEST.MF,Philippe DUL
+Wed Nov 30 10:26:38 2022,CapellaDifferenceCategoryUtil.java,Philippe DUL
+Wed Nov 30 10:26:38 2022,plugin.properties,Philippe DUL
+Wed Nov 30 10:26:38 2022,plugin.xml,Philippe DUL
+Wed Nov 30 10:26:38 2022,ActorFilter.java,Philippe DUL
+Wed Nov 30 10:26:38 2022,ComponentFilter.java,Philippe DUL
+Wed Nov 30 10:26:38 2022,SemanticFiltersHelper.java,Philippe DUL
+Wed Nov 30 10:26:38 2022,TraceFilter.java,Philippe DUL

@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Thu Jan 16 13:39:16 2020,WebAppContextTest.java,Jan Bartel
+Thu Jan 16 13:39:16 2020,override-web-with-default-context-path.xml,Jan Bartel
+Thu Jan 16 13:39:16 2020,web-default-with-default-context-path.xml,Jan Bartel
+Thu Jan 16 13:39:16 2020,web-with-default-context-path.xml,Jan Bartel
+Thu Jan 16 13:39:16 2020,web-with-empty-default-context-path.xml,Jan Bartel
+Thu Jan 16 13:40:06 2020,QuickStartGeneratorConfiguration.java,Jan Bartel
+Thu Jan 16 13:40:06 2020,TestQuickStart.java,Jan Bartel
+Thu Jan 16 13:40:06 2020,web.xml,Jan Bartel
+Thu Jan 16 13:40:06 2020,Request.java,Jan Bartel
+Thu Jan 16 13:40:06 2020,Response.java,Jan Bartel
+Thu Jan 16 13:40:06 2020,ContextHandler.java,Jan Bartel
+Thu Jan 16 13:40:06 2020,CharEncodingContextHandler.java,Jan Bartel
+Thu Jan 16 13:40:06 2020,RequestTest.java,Jan Bartel
+Thu Jan 16 13:40:06 2020,ResponseTest.java,Jan Bartel
+Thu Jan 16 13:40:06 2020,ServletContextHandler.java,Jan Bartel
+Thu Jan 16 13:40:06 2020,StandardDescriptorProcessor.java,Jan Bartel
+Thu Jan 16 13:40:06 2020,AnnotationTest.java,Jan Bartel
+Thu Jan 16 13:40:06 2020,web.xml,Jan Bartel
+Thu Jan 16 13:40:06 2020,index.html,Jan Bartel

@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Mon Nov  5 16:19:55 2018,HeadlessCrossPhasesLauncher.java,Philippe DUL
+Mon Nov  5 16:19:55 2018,HeadlessInterPhasesLauncher.java,Philippe DUL
+Mon Nov  5 16:19:58 2018,AbstractHeadlessMultiphasesLauncher.java,Philippe DUL
+Wed Nov  7 12:20:35 2018,.classpath,Philippe DUL
+Wed Nov  7 12:20:35 2018,org.eclipse.jdt.core.prefs,Philippe DUL
+Wed Nov  7 12:20:35 2018,MANIFEST.MF,Philippe DUL
+Wed Nov  7 12:20:35 2018,build.properties,Philippe DUL
+Wed Nov  7 12:20:35 2018,PC1PC2.melodymodeller,Philippe DUL
+Wed Nov  7 12:20:35 2018,.project,Philippe DUL
+Wed Nov  7 12:20:35 2018,PC1PC2.melodymodeller,Philippe DUL
+Wed Nov  7 12:20:35 2018,plugin.xml,Philippe DUL
+Wed Nov  7 12:20:35 2018,PropertyValuesTest.java,Philippe DUL
+Wed Nov  7 12:20:35 2018,MultiphasesTransitionTest.java,Philippe DUL
+Wed Nov  7 12:20:35 2018,OrderedPhysicalComponents.java,Philippe DUL
+Wed Nov  7 12:20:35 2018,DiffHelper.java,Philippe DUL
+Wed Nov  7 12:20:35 2018,GitHelper.java,Philippe DUL
+Wed Nov  7 12:20:35 2018,IdSequencer.java,Philippe DUL
+Wed Nov  7 12:20:35 2018,ProjectCreationHelper.java,Philippe DUL
+Wed Nov  7 12:20:35 2018,QualifiedMatchPolicy.java,Philippe DUL
+Wed Nov  7 12:20:35 2018,SortCommand.java,Philippe DUL
+Wed Nov  7 12:20:35 2018,SortHandler.java,Philippe DUL
+Wed Nov  7 12:20:35 2018,capella.target-definition.targetplatform,Philippe DUL

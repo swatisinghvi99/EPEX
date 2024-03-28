@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Tue Apr 24  4:06:45 2012,UIBuildProgressMonitor.java,Andrew Eisenberg
+Tue Apr 24  4:06:45 2012,AJDTUtils.java,Andrew Eisenberg
+Tue Apr 24 18:40:38 2012,download.properties,Andrew Eisenberg
+Tue Apr 24 18:40:38 2012,AJCompletionProcessor.java,Andrew Eisenberg
+Tue Apr 24 18:40:38 2012,AspectsProcessor.java,Andrew Eisenberg
+Tue Apr 24 18:40:38 2012,JavaCorrectionProcessor.java,Andrew Eisenberg
+Tue Apr 24 18:40:38 2012,QuickFixProcessor.java,Andrew Eisenberg
+Tue Apr 24 18:40:38 2012,UnresolvedElementsSubProcessor.java,Andrew Eisenberg
+Tue Apr 24 22:33:52 2012,AspectsConvertingParserTest2.java,Andrew Eisenberg
+Wed Apr 25 21:31:51 2012,MANIFEST.MF,Andrew Eisenberg
+Wed Apr 25 21:31:51 2012,AllUITests.java,Andrew Eisenberg
+Wed Apr 25 21:31:51 2012,AllWeavingTests.java,Andrew Eisenberg
+Mon May  7 20:07:42 2012,Bug358024ProblemFinderTests.java,Andrew Eisenberg
+Mon May  7 20:07:42 2012,ITDAwareSourceTypeInfo.java,Andrew Eisenberg
+Mon May  7 20:07:42 2012,AJProjectModelFacade.java,Andrew Eisenberg

@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Mon Jun 28 21:52:51 2021,README.md,Paul Maréchal
+Mon Jun 28 21:52:51 2021,mini-browser-environment.ts,Paul Maréchal
+Mon Jun 28 21:52:51 2021,location-mapper-service.ts,Paul Maréchal
+Mon Jun 28 21:52:51 2021,mini-browser-frontend-module.ts,Paul Maréchal
+Mon Jun 28 21:52:51 2021,mini-browser-frontend-security-warnings.ts,Paul Maréchal
+Mon Jun 28 21:52:51 2021,electron-mini-browser-environment.ts,Paul Maréchal
+Mon Jun 28 21:52:51 2021,mini-browser-backend-module.ts,Paul Maréchal
+Mon Jun 28 21:52:51 2021,mini-browser-backend-security-warnings.ts,Paul Maréchal
+Mon Jun 28 21:52:51 2021,README.md,Paul Maréchal
+Mon Jun 28 21:52:51 2021,plugin-ext-frontend-module.ts,Paul Maréchal
+Mon Jun 28 21:52:51 2021,webview-environment.ts,Paul Maréchal
+Mon Jun 28 21:52:51 2021,webview-frontend-security-warnings.ts,Paul Maréchal
+Mon Jun 28 21:52:51 2021,webview-preferences.ts,Paul Maréchal
+Mon Jun 28 21:52:51 2021,plugin-ext-backend-module.ts,Paul Maréchal
+Mon Jun 28 21:52:51 2021,webview-backend-security-warnings.ts,Paul Maréchal

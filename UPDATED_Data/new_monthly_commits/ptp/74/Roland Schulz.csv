@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Fri Jan 14 13:37:58 2011,plugin.xml,Roland Schulz
+Fri Jan 14 13:37:58 2011,synchronizeProviders.exsd,Roland Schulz
+Fri Jan 14 13:37:58 2011,ISynchronizeProvider.java,Roland Schulz
+Fri Jan 14 13:37:58 2011,plugin.xml,Roland Schulz
+Fri Jan 14 13:37:58 2011,synchronizeParticipants.exsd,Roland Schulz
+Fri Jan 14 13:37:58 2011,SynchronizeParticipantDescriptor.java,Roland Schulz
+Fri Jan 14 13:37:58 2011,RemoteIncludeDialog.java,Roland Schulz
+Fri Jan 14 13:37:58 2011,ISynchronizeParticipant.java,Roland Schulz
+Fri Jan 14 13:37:58 2011,ISynchronizeParticipantDescriptor.java,Roland Schulz
+Fri Jan 14 13:37:58 2011,RDTSyncUIPlugin.java,Roland Schulz
+Fri Jan 14 13:37:58 2011,SynchronizeParticipantRegistry.java,Roland Schulz
+Fri Jan 14 13:37:58 2011,Messages.java,Roland Schulz
+Fri Jan 14 13:37:58 2011,messages.properties,Roland Schulz
+Fri Jan 14 13:37:58 2011,RemoteBuildServiceProvider.java,Roland Schulz
+Fri Jan 14 13:37:58 2011,NewRemoteProjectCreationPage.java,Roland Schulz
+Fri Jan 14 13:37:58 2011,NewRemoteSyncProjectWizard.java,Roland Schulz
+Fri Jan 14 13:37:58 2011,NewRemoteSyncProjectWizardPage.java,Roland Schulz
+Fri Jan 14 13:37:58 2011,RemoteCommonProjectWizard.java,Roland Schulz
+Fri Jan 14 13:37:58 2011,RemoteMainWizardPage.java,Roland Schulz
+Fri Jan 14 13:37:58 2011,RemoteProjectContentsLocationArea.java,Roland Schulz
+Fri Jan 14 13:37:58 2011,RemoteSyncWizardPageOperation.java,Roland Schulz

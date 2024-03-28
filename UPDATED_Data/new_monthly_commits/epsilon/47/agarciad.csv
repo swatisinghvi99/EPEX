@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Thu Aug  2 10:37:14 2012,AbstractModuleElement.java,agarciad
+Thu Aug  2 10:37:14 2012,IModule.java,agarciad
+Thu Aug  2 10:37:14 2012,ModuleElement.java,agarciad
+Thu Aug  2 10:37:14 2012,AbstractModule.java,agarciad
+Thu Aug  2 10:39:49 2012,IModule.java,agarciad
+Thu Aug  2 10:39:49 2012,EglTemplateFactoryModuleAdapter.java,agarciad
+Thu Aug  2 10:39:49 2012,EgxModule.java,agarciad
+Thu Aug  2 10:39:49 2012,EglModule.java,agarciad
+Thu Aug  2 10:39:49 2012,AbstractModule.java,agarciad
+Thu Aug  2 10:39:49 2012,EolImport.java,agarciad
+Thu Aug  2 10:39:49 2012,EolLibraryModule.java,agarciad
+Thu Aug  2 10:39:49 2012,IEolLibraryModule.java,agarciad
+Thu Aug  2 10:39:49 2012,CircularImportTests.java,agarciad
+Thu Aug  2 10:39:49 2012,immediate.eol,agarciad
+Thu Aug  2 10:39:49 2012,three-a.eol,agarciad
+Thu Aug  2 10:39:49 2012,three-b.eol,agarciad
+Thu Aug  2 10:39:49 2012,three-c.eol,agarciad
+Thu Aug  2 10:39:49 2012,two-a.eol,agarciad
+Thu Aug  2 10:39:49 2012,two-b.eol,agarciad
+Fri Aug  3  9:08:23 2012,EmfModel.java,agarciad
+Fri Aug  3  9:08:40 2012,LoadModelTask.java,agarciad
+Tue Aug  7 11:02:16 2012,JavaPropertyGetter.java,agarciad
+Tue Aug  7 11:02:16 2012,JavaPropertySetter.java,agarciad
+Tue Aug  7 11:02:16 2012,ReflectionUtil.java,agarciad
+Tue Aug  7 11:02:16 2012,ReflectionUtilTests.java,agarciad

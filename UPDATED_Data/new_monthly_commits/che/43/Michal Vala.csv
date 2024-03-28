@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Thu Aug 15 13:48:19 2019,BrokerService.java,Michal Vala
+Thu Aug 15 13:48:19 2019,ExtendedPluginFQN.java,Michal Vala
+Thu Aug 15 13:48:19 2019,PluginFQN.java,Michal Vala
+Thu Aug 15 13:48:19 2019,PluginFQNParserTest.java,Michal Vala
+Fri Aug 16 10:14:51 2019,KubernetesPersistentVolumeClaims.java,Michal Vala
+Thu Aug 22 11:04:55 2019,Metadata.java,Michal Vala
+Thu Aug 22 11:04:55 2019,Constants.java,Michal Vala
+Thu Aug 22 11:04:55 2019,MetadataDto.java,Michal Vala
+Thu Aug 22 11:04:55 2019,WorkspaceManager.java,Michal Vala
+Thu Aug 22 11:04:55 2019,MetadataImpl.java,Michal Vala
+Thu Aug 22 11:04:55 2019,devfile.json,Michal Vala
+Thu Aug 22 11:04:55 2019,WorkspaceManagerTest.java,Michal Vala
+Thu Aug 22 11:04:55 2019,DevfileSchemaValidatorTest.java,Michal Vala
+Thu Aug 22 11:04:55 2019,devfile.yaml,Michal Vala
+Thu Aug 22 11:04:55 2019,devfile_just_generatename.yaml,Michal Vala
+Thu Aug 22 11:04:55 2019,devfile_name_and_generatename.yaml,Michal Vala
+Fri Aug 23  7:53:56 2019,URLFactoryBuilder.java,Michal Vala
+Fri Aug 23  7:53:56 2019,URLFactoryBuilderTest.java,Michal Vala
+Fri Aug 23  7:53:56 2019,DtoConverter.java,Michal Vala

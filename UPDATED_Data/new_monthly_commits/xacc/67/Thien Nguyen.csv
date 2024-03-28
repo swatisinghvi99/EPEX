@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Fri May 13  1:40:03 2022,QppVisitor.cpp,Thien Nguyen
+Fri May 13  4:28:03 2022,QppVisitor.cpp,Thien Nguyen
+Mon May 16  3:23:24 2022,triq_placement.cpp,Thien Nguyen
+Tue May 17  3:14:06 2022,BackendMachine.cpp,Thien Nguyen
+Tue May 17  3:14:06 2022,BackendMachine.hpp,Thien Nguyen
+Tue May 17  3:14:06 2022,triq_placement.cpp,Thien Nguyen
+Tue May 17  3:14:06 2022,triq_placement.hpp,Thien Nguyen
+Wed May 18  5:13:38 2022,BackendMachine.cpp,Thien Nguyen
+Thu May 19  7:31:51 2022,aer_accelerator.cpp,Thien Nguyen
+Thu May 19  7:31:51 2022,aer_accelerator.hpp,Thien Nguyen
+Thu May 19  7:31:51 2022,AerAcceleratorTester.cpp,Thien Nguyen
+Thu May 19  7:31:51 2022,QsimAcceleratorTester.cpp,Thien Nguyen
+Thu May 19 23:29:01 2022,QppAccelerator.cpp,Thien Nguyen
+Thu May 19 23:29:01 2022,QppAccelerator.hpp,Thien Nguyen
+Thu May 19 23:29:01 2022,QppAcceleratorTester.cpp,Thien Nguyen
+Fri May 20  1:18:22 2022,QppAcceleratorTester.cpp,Thien Nguyen
+Sat May 21  4:49:56 2022,Stream.hpp,Thien Nguyen
+Sat May 21  4:49:56 2022,Utils.hpp,Thien Nguyen
+Sat May 21  4:49:56 2022,heterogeneous.hpp,Thien Nguyen
+Mon May 23  5:00:44 2022,PauliOperator.cpp,Thien Nguyen
+Mon May 23  5:00:44 2022,PauliOperator.hpp,Thien Nguyen
+Mon May 23  5:46:04 2022,PauliOperator.hpp,Thien Nguyen

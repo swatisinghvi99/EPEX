@@ -1,0 +1,137 @@
+[
+    [
+        "Peter Kriens",
+        "unknown",
+        35
+    ],
+    [
+        "Peter Kriens",
+        "bat",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "cmd",
+        4
+    ],
+    [
+        "Peter Kriens",
+        "pl",
+        3
+    ],
+    [
+        "Peter Kriens",
+        "py",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "properties",
+        67
+    ],
+    [
+        "Peter Kriens",
+        "xml",
+        77
+    ],
+    [
+        "Peter Kriens",
+        "classpath",
+        118
+    ],
+    [
+        "Peter Kriens",
+        "project",
+        69
+    ],
+    [
+        "Peter Kriens",
+        "java",
+        1366
+    ],
+    [
+        "Peter Kriens",
+        "txt",
+        7
+    ],
+    [
+        "Peter Kriens",
+        "cvsignore",
+        53
+    ],
+    [
+        "Peter Kriens",
+        "launch",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "mf",
+        173
+    ],
+    [
+        "Peter Kriens",
+        "html",
+        28
+    ],
+    [
+        "Peter Kriens",
+        "css",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "js",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "xsl",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "perm",
+        6
+    ],
+    [
+        "Peter Kriens",
+        "ref",
+        30
+    ],
+    [
+        "Peter Kriens",
+        "props",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "empty",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "gatespace",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "h",
+        1
+    ],
+    [
+        "Peter Kriens",
+        "c",
+        6
+    ],
+    [
+        "Peter Kriens",
+        "SAXParserFactory",
+        2
+    ],
+    [
+        "Peter Kriens",
+        "DocumentBuilderFactory",
+        2
+    ]
+]

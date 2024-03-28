@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Wed Feb 16 14:21:20 2022,CHANGELOG.md,andrei-cristea
+Wed Feb 16 14:21:20 2022,gradle.properties,andrei-cristea
+Wed Feb 16 14:21:20 2022,ApduUtil.java,andrei-cristea
+Wed Feb 16 14:21:20 2022,Assert.java,andrei-cristea
+Wed Feb 16 14:21:20 2022,BerTlvUtil.java,andrei-cristea
+Wed Feb 16 14:21:20 2022,ByteArrayUtil.java,andrei-cristea
+Wed Feb 16 14:21:20 2022,BodyError.java,andrei-cristea
+Wed Feb 16 14:21:20 2022,BodyErrorJsonDeserializer.java,andrei-cristea
+Wed Feb 16 14:21:20 2022,ByteArrayJsonAdapter.java,andrei-cristea
+Wed Feb 16 14:21:20 2022,ByteJsonAdapter.java,andrei-cristea
+Wed Feb 16 14:21:20 2022,IntegerJsonAdapter.java,andrei-cristea
+Wed Feb 16 14:21:20 2022,JsonUtil.java,andrei-cristea
+Wed Feb 16 14:21:20 2022,LongJsonAdapter.java,andrei-cristea
+Wed Feb 16 14:21:20 2022,ShortJsonAdapter.java,andrei-cristea
+Wed Feb 16 14:21:20 2022,ThrowableJsonSerializer.java,andrei-cristea
+Wed Feb 16 14:21:20 2022,api_class_diagram.puml,andrei-cristea
+Wed Feb 16 14:21:20 2022,api_class_diagram.svg,andrei-cristea
+Wed Feb 16 14:21:20 2022,ByteArrayUtilTest.java,andrei-cristea
+Wed Feb 16 14:21:20 2022,IntegerJsonAdapterTest.java,andrei-cristea
+Wed Feb 16 14:21:20 2022,LongJsonAdapterTest.java,andrei-cristea
+Wed Feb 16 14:21:20 2022,ShortJsonAdapterTest.java,andrei-cristea
+Thu Feb 17  9:48:49 2022,CHANGELOG.md,andrei-cristea
+Thu Feb 17  9:48:49 2022,BerTlvUtil.java,andrei-cristea
+Thu Feb 17  9:48:49 2022,api_class_diagram.puml,andrei-cristea
+Thu Feb 17  9:48:49 2022,api_class_diagram.svg,andrei-cristea
+Thu Feb 17  9:48:49 2022,BerTlvUtilTest.java,andrei-cristea

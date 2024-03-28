@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Sat Jan 13  5:17:46 2018,RecordTableItemDoubleclickTest.java,Aparna Argade
+Sat Jan 13  5:17:46 2018,RecordTableItemSelectionCheckTest.java,Aparna Argade
+Sat Jan 13  5:17:46 2018,RecordTreeItemCheckTest.java,Aparna Argade
+Sat Jan 13  5:17:46 2018,SWTBotGeneratorRules.java,Aparna Argade
+Sat Jan 13  5:17:46 2018,AbstractTableGenerationRule.java,Aparna Argade
+Sat Jan 13  5:17:46 2018,CheckTableItemRule.java,Aparna Argade
+Sat Jan 13  5:17:46 2018,CheckTreeItemRule.java,Aparna Argade
+Sat Jan 13  5:17:46 2018,DoubleClickTableItemRule.java,Aparna Argade
+Sat Jan 13  5:17:46 2018,SelectTableItemRule.java,Aparna Argade
+Sat Jan 13  5:17:46 2018,SelectTreeItemRule.java,Aparna Argade
+Sat Jan 13  5:17:46 2018,SWTBotTableItem.java,Aparna Argade
+Mon Jan 15 15:50:08 2018,RecordTreeItemDoubleclickTest.java,Aparna Argade
+Mon Jan 15 15:50:08 2018,DoubleClickTreeItemRule.java,Aparna Argade
+Mon Jan 15 15:50:08 2018,SWTBotTreeItem.java,Aparna Argade
+Tue Jan 16 17:27:33 2018,RecordCComboSelectionTest.java,Aparna Argade
+Tue Jan 16 17:27:33 2018,RecordCComboTextTest.java,Aparna Argade
+Tue Jan 16 17:27:33 2018,WidgetUtils.java,Aparna Argade
+Tue Jan 16 17:27:33 2018,SWTBotGeneratorRules.java,Aparna Argade
+Tue Jan 16 17:27:33 2018,ModifyCComboComplexRule.java,Aparna Argade
+Tue Jan 16 17:27:33 2018,CComboSelectionRule.java,Aparna Argade
+Tue Jan 16 17:27:33 2018,CComboTextModifyRule.java,Aparna Argade
+Tue Jan 16 17:27:33 2018,ModifyTextRule.java,Aparna Argade

@@ -1,0 +1,112 @@
+[
+    [
+        "Eugene Cheipesh",
+        "md",
+        10
+    ],
+    [
+        "Eugene Cheipesh",
+        "sbt",
+        2
+    ],
+    [
+        "Eugene Cheipesh",
+        "rst",
+        3
+    ],
+    [
+        "Eugene Cheipesh",
+        "conf",
+        4
+    ],
+    [
+        "Eugene Cheipesh",
+        "scala",
+        111
+    ],
+    [
+        "Eugene Cheipesh",
+        "unknown",
+        1
+    ],
+    [
+        "Eugene Cheipesh",
+        "xml",
+        2
+    ],
+    [
+        "Eugene Cheipesh",
+        "yml",
+        2
+    ],
+    [
+        "Eugene Cheipesh",
+        "GeoTrellisDataAdapterProvider",
+        1
+    ],
+    [
+        "Eugene Cheipesh",
+        "HandlersRegistryProvider",
+        1
+    ],
+    [
+        "Eugene Cheipesh",
+        "PersistableRegistrySpi",
+        1
+    ],
+    [
+        "Eugene Cheipesh",
+        "DimensionalityTypeProviderSpi",
+        1
+    ],
+    [
+        "Eugene Cheipesh",
+        "json",
+        4
+    ],
+    [
+        "Eugene Cheipesh",
+        "sh",
+        2
+    ],
+    [
+        "Grigory",
+        "md",
+        1
+    ],
+    [
+        "Grigory",
+        "scala",
+        14
+    ],
+    [
+        "Grigory",
+        "yml",
+        2
+    ],
+    [
+        "Grigory",
+        "sbt",
+        3
+    ],
+    [
+        "Grigory",
+        "properties",
+        1
+    ],
+    [
+        "Grigory",
+        "unknown",
+        1
+    ],
+    [
+        "Grigory Pomadchin",
+        "sbt",
+        1
+    ],
+    [
+        "Grigory Pomadchin",
+        "scala",
+        1
+    ]
+]

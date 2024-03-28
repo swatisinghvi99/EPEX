@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Wed Jun 29 19:03:18 2022,callhierarchy-tree-widget.tsx,vince-fugnitto
+Wed Jun 29 19:03:18 2022,monaco-frontend-module.ts,vince-fugnitto
+Wed Jun 29 19:03:18 2022,index.css,vince-fugnitto
+Wed Jun 29 19:03:18 2022,symbol-icons.css,vince-fugnitto
+Wed Jun 29 19:03:18 2022,symbol-sprite.svg,vince-fugnitto
+Wed Jun 29 19:03:18 2022,outline-breadcrumbs-contribution.tsx,vince-fugnitto
+Wed Jun 29 19:03:18 2022,outline-view-widget.tsx,vince-fugnitto
+Wed Jun 29 19:03:18 2022,typehierarchy-tree-widget.tsx,vince-fugnitto
+Thu Jun 30 19:29:02 2022,tab-bars.ts,vince-fugnitto
+Thu Jun 30 19:29:02 2022,ipc-channel.ts,vince-fugnitto
+Thu Jun 30 19:29:02 2022,messaging-contribution.ts,vince-fugnitto
+Thu Jun 30 19:29:02 2022,plugin-server-handler.ts,vince-fugnitto
+Thu Jul 14 12:07:45 2022,file-search-service-impl.spec.ts,vince-fugnitto
+Fri Jul 15 16:46:57 2022,textmate-tokenizer.ts,vince-fugnitto
+Fri Jul 15 23:09:28 2022,quick-pick-service.ts,vince-fugnitto
+Fri Jul 15 23:09:28 2022,quick-open.ts,vince-fugnitto
+Fri Jul 15 23:09:28 2022,theia.d.ts,vince-fugnitto
+Fri Jul 15 23:41:50 2022,view-container.ts,vince-fugnitto
+Sat Jul 16  1:27:53 2022,CHANGELOG.md,vince-fugnitto
+Sat Jul 16  1:27:53 2022,common-frontend-contribution.ts,vince-fugnitto
+Sat Jul 16  1:27:53 2022,navigator-contribution.ts,vince-fugnitto
+Sat Jul 16  1:27:53 2022,workspace-commands.ts,vince-fugnitto
+Wed Jul 20 17:31:21 2022,monaco-quick-input-service.ts,vince-fugnitto
+Wed Jul 20 17:31:21 2022,vsx-extensions-contribution.ts,vince-fugnitto

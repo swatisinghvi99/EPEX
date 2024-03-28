@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Fri Jul  8 22:54:08 2022,.pre-commit-config.yaml,C. Allwardt
+Fri Jul  8 22:54:08 2022,poetry.lock,C. Allwardt
+Fri Jul  8 22:54:08 2022,pyproject.toml,C. Allwardt
+Fri Jul  8 22:54:08 2022,__init__.py,C. Allwardt
+Fri Jul  8 22:54:08 2022,admin_endpoints.py,C. Allwardt
+Fri Jul  8 22:54:08 2022,authenticate_endpoint.py,C. Allwardt
+Fri Jul  8 22:54:08 2022,csr_endpoints.py,C. Allwardt
+Fri Jul  8 22:54:08 2022,discovery.py,C. Allwardt
+Fri Jul  8 22:54:08 2022,platform_web_service.py,C. Allwardt
+Fri Jul  8 22:54:08 2022,index.html,C. Allwardt
+Fri Jul  8 22:54:08 2022,jquery-3.5.0.min.js,C. Allwardt
+Fri Jul  8 22:54:08 2022,vui.specs.yml,C. Allwardt
+Fri Jul  8 22:54:08 2022,base.html,C. Allwardt
+Fri Jul  8 22:54:08 2022,create_csr.html,C. Allwardt
+Fri Jul  8 22:54:08 2022,first.html,C. Allwardt
+Fri Jul  8 22:54:08 2022,index.html,C. Allwardt
+Fri Jul  8 22:54:08 2022,list_certs.html,C. Allwardt
+Fri Jul  8 22:54:08 2022,login.html,C. Allwardt
+Fri Jul  8 22:54:08 2022,pending_auth_reqs.html,C. Allwardt
+Fri Jul  8 22:54:08 2022,pending_csrs.html,C. Allwardt
+Fri Jul  8 22:54:08 2022,webapp.py,C. Allwardt
+Fri Jul  8 22:54:08 2022,websocket.py,C. Allwardt

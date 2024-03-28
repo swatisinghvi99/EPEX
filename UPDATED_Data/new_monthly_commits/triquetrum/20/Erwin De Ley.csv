@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Wed Jul  5 18:06:23 2017,PortImpl.java,Erwin De Ley
+Thu Jul  6 13:41:41 2017,plugin.xml,Erwin De Ley
+Thu Jul  6 13:41:41 2017,Messages.java,Erwin De Ley
+Thu Jul  6 13:41:41 2017,TriqFeatureProvider.java,Erwin De Ley
+Thu Jul  6 13:41:41 2017,ActorDeleteFeature.java,Erwin De Ley
+Thu Jul  6 13:41:41 2017,ConnectionDeleteFeature.java,Erwin De Ley
+Thu Jul  6 13:41:41 2017,TriqDefaultDeleteFeature.java,Erwin De Ley
+Thu Jul  6 13:41:41 2017,WorkflowEditorPreferenceInitializer.java,Erwin De Ley
+Thu Jul  6 13:41:41 2017,WorkflowEditorPreferencePage.java,Erwin De Ley
+Thu Jul  6 13:41:41 2017,messages.properties,Erwin De Ley
+Thu Jul  6 13:41:41 2017,WorkflowRepositoryPreferencePage.java,Erwin De Ley
+Thu Jul  6 13:41:41 2017,WorkflowRepositoryUIPlugin.java,Erwin De Ley
+Fri Jul  7 13:35:46 2017,TriqEditorPlugin.java,Erwin De Ley
+Fri Jul  7 13:35:46 2017,LibraryManager.java,Erwin De Ley
+Fri Jul  7 13:35:46 2017,PaletteTreeViewer.java,Erwin De Ley
+Sun Jul 16 16:16:18 2017,LibraryManager.java,Erwin De Ley
+Sun Jul 16 16:16:18 2017,TriqPaletteBehavior.java,Erwin De Ley
+Sun Jul 16 16:16:18 2017,UserLibraryPaletteEntryProvider.java,Erwin De Ley
+Sun Jul 16 16:16:18 2017,PaletteTreeNodeEditPart.java,Erwin De Ley
+Sun Jul 16 16:16:18 2017,PaletteTreeProvider.java,Erwin De Ley
+Sun Jul 16 16:16:18 2017,PaletteTreeViewer.java,Erwin De Ley

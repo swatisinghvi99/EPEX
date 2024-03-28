@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Thu Sep 21  9:33:19 2023,deploy-maven.yaml,cezaralexandremorais
+Thu Sep 21  9:33:19 2023,pom.xml,cezaralexandremorais
+Thu Sep 21  9:33:19 2023,OrchestrationApiClient.kt,cezaralexandremorais
+Thu Sep 21  9:33:19 2023,OrchestrationApiClientImpl.kt,cezaralexandremorais
+Thu Sep 21  9:33:19 2023,pom.xml,cezaralexandremorais
+Tue Oct 17 11:13:02 2023,SharingStateDto.kt,cezaralexandremorais
+Tue Oct 17 11:13:02 2023,pom.xml,cezaralexandremorais
+Tue Oct 17 11:13:02 2023,BpnConfigProperties.kt,cezaralexandremorais
+Tue Oct 17 11:13:02 2023,OrchestratorClientConfig.kt,cezaralexandremorais
+Tue Oct 17 11:13:02 2023,OrchestratorConfigProperties.kt,cezaralexandremorais
+Tue Oct 17 11:13:02 2023,SharingState.kt,cezaralexandremorais
+Tue Oct 17 11:13:02 2023,BusinessPartnerMappings.kt,cezaralexandremorais
+Tue Oct 17 11:13:02 2023,BusinessPartnerService.kt,cezaralexandremorais
+Tue Oct 17 11:13:02 2023,OrchestratorMappings.kt,cezaralexandremorais
+Tue Oct 17 11:13:02 2023,SharingStateService.kt,cezaralexandremorais
+Tue Oct 17 11:13:02 2023,application.properties,cezaralexandremorais
+Tue Oct 17 11:13:02 2023,V4_0_0_17__add_cleaning_task_id_sharing_states.sql,cezaralexandremorais
+Tue Oct 17 11:13:02 2023,BusinessPartnerControllerIT.kt,cezaralexandremorais
+Thu Oct 19 13:15:05 2023,BusinessPartnerType.kt,cezaralexandremorais
+Thu Oct 19 13:15:05 2023,ChangelogEntry.kt,cezaralexandremorais
+Thu Oct 19 13:15:05 2023,BusinessPartnerService.kt,cezaralexandremorais
+Thu Oct 19 13:15:05 2023,SharingStateControllerIT.kt,cezaralexandremorais
+Fri Oct 20 12:36:50 2023,IBaseBusinessPartnerGateDto.kt,cezaralexandremorais
+Fri Oct 20 12:36:50 2023,BPDM Gate.postman_collection.json,cezaralexandremorais

@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Mon May  5 13:26:19 2014,MANIFEST.MF,Cristiano De Alti
+Mon May  5 13:26:19 2014,deploymentagent.xml,Cristiano De Alti
+Mon May  5 13:26:19 2014,DeploymentAgent.java,Cristiano De Alti
+Mon May  5 13:58:40 2014,MANIFEST.MF,Cristiano De Alti
+Mon May  5 13:58:40 2014,logger.xml,Cristiano De Alti
+Mon May  5 13:58:40 2014,LoggerCommandProvider.java,Cristiano De Alti
+Mon May  5 14:01:41 2014,MANIFEST.MF,Cristiano De Alti
+Mon May  5 14:01:41 2014,DeploymentAgent.java,Cristiano De Alti
+Mon May  5 14:05:22 2014,MANIFEST.MF,Cristiano De Alti
+Mon May  5 14:05:22 2014,HsqlDbServiceImpl.java,Cristiano De Alti
+Mon May  5 14:21:48 2014,DataServiceImpl.java,Cristiano De Alti
+Mon May  5 14:21:48 2014,MqttDataTransport.java,Cristiano De Alti
+Mon May  5 14:39:52 2014,MANIFEST.MF,Cristiano De Alti
+Mon May  5 14:39:52 2014,PositionServiceImpl.java,Cristiano De Alti
+Tue May  6  8:35:51 2014,JavaNtpClockSyncProvider.java,Cristiano De Alti
+Tue May  6  9:41:08 2014,DataServiceImpl.java,Cristiano De Alti
+Tue May  6  9:41:08 2014,DataServiceListeners.java,Cristiano De Alti
+Tue May  6  9:41:08 2014,DataTransportListeners.java,Cristiano De Alti
+Tue May  6  9:41:08 2014,MqttDataTransport.java,Cristiano De Alti
+Thu May  8  8:55:01 2014,Library.java,Cristiano De Alti

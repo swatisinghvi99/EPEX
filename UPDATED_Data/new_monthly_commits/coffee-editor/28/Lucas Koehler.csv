@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Thu Oct 15 10:30:12 2020,package.json,Lucas Koehler
+Thu Oct 15 10:30:12 2020,coffee-editor-frontend-module.ts,Lucas Koehler
+Thu Oct 15 10:30:12 2020,coffee-editor-tree-contribution.ts,Lucas Koehler
+Thu Oct 15 10:30:12 2020,coffee-model-service.ts,Lucas Koehler
+Thu Oct 15 10:30:12 2020,coffee-model.ts,Lucas Koehler
+Thu Oct 15 10:30:12 2020,coffee-node-factory.ts,Lucas Koehler
+Thu Oct 15 10:30:12 2020,coffee-tree-container.ts,Lucas Koehler
+Thu Oct 15 10:30:12 2020,coffee-tree-editor-widget.tsx,Lucas Koehler
+Thu Oct 15 10:30:12 2020,coffee-tree-label-provider-contribution.ts,Lucas Koehler
+Thu Oct 15 10:30:12 2020,yarn.lock,Lucas Koehler

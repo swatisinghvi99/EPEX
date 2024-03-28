@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Thu Aug 10 12:37:32 2017,BasicSteps.java,Andrej Nussdorfer
+Thu Aug 10 12:37:32 2017,ConnectionSteps.java,Andrej Nussdorfer
+Thu Aug 10 12:37:32 2017,CucConnection.java,Andrej Nussdorfer
+Thu Aug 10 12:37:32 2017,AclCreator.java,Andrej Nussdorfer
+Thu Aug 10 12:37:32 2017,DeviceServiceSteps.java,Andrej Nussdorfer
+Thu Aug 10 12:37:32 2017,TestUser.java,Andrej Nussdorfer
+Thu Aug 10 12:37:32 2017,UserServiceSteps.java,Andrej Nussdorfer
+Thu Aug 10 12:37:32 2017,DeviceConnectionServiceImpl.java,Andrej Nussdorfer
+Thu Aug 10 12:37:32 2017,RunConnectionI9nTest.java,Andrej Nussdorfer
+Thu Aug 10 12:37:32 2017,UserCouplingI9n.feature,Andrej Nussdorfer
+Thu Aug 10 12:37:32 2017,AclCreator.java,Andrej Nussdorfer

@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Fri Dec 12 16:51:44 2008,.classpath,Eike Stepper
+Fri Dec 12 16:51:44 2008,.cvsignore,Eike Stepper
+Fri Dec 12 16:51:44 2008,.project,Eike Stepper
+Fri Dec 12 16:51:44 2008,org.eclipse.jdt.core.prefs,Eike Stepper
+Fri Dec 12 16:51:44 2008,org.eclipse.jdt.ui.prefs,Eike Stepper
+Fri Dec 12 16:51:44 2008,MANIFEST.MF,Eike Stepper
+Fri Dec 12 16:51:44 2008,about.html,Eike Stepper
+Fri Dec 12 16:51:44 2008,build.properties,Eike Stepper
+Fri Dec 12 16:51:44 2008,copyright.txt,Eike Stepper
+Fri Dec 12 16:51:44 2008,epl-v10.html,Eike Stepper
+Fri Dec 12 16:51:44 2008,license.html,Eike Stepper
+Fri Dec 12 16:51:44 2008,plugin.xml,Eike Stepper
+Fri Dec 12 16:51:44 2008,Activator.java,Eike Stepper
+Fri Dec 12 16:51:44 2008,Application.java,Eike Stepper
+Fri Dec 12 16:51:44 2008,ApplicationActionBarAdvisor.java,Eike Stepper
+Fri Dec 12 16:51:44 2008,ApplicationWorkbenchAdvisor.java,Eike Stepper
+Fri Dec 12 16:51:44 2008,ApplicationWorkbenchWindowAdvisor.java,Eike Stepper
+Fri Dec 12 16:51:44 2008,Model.java,Eike Stepper
+Fri Dec 12 16:51:44 2008,ModelEditor.java,Eike Stepper
+Fri Dec 12 16:51:44 2008,ModelView.java,Eike Stepper
+Fri Dec 12 16:51:44 2008,Perspective.java,Eike Stepper

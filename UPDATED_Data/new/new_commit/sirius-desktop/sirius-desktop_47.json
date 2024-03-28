@@ -1,0 +1,202 @@
+[
+    [
+        "Pierre-Charles David",
+        "java",
+        7
+    ],
+    [
+        "Laurent Redor",
+        "java",
+        26
+    ],
+    [
+        "Laurent Redor",
+        "html",
+        4
+    ],
+    [
+        "Laurent Redor",
+        "textile",
+        4
+    ],
+    [
+        "Laurent Redor",
+        "MF",
+        1
+    ],
+    [
+        "Laurent Redor",
+        "properties",
+        1
+    ],
+    [
+        "Laurent Redor",
+        "xml",
+        1
+    ],
+    [
+        "Laurent Redor",
+        "aird",
+        1
+    ],
+    [
+        "Laurent Redor",
+        "ecore",
+        1
+    ],
+    [
+        "jmallet",
+        "java",
+        100
+    ],
+    [
+        "jmallet",
+        "html",
+        4
+    ],
+    [
+        "jmallet",
+        "textile",
+        4
+    ],
+    [
+        "jmallet",
+        "aird",
+        3
+    ],
+    [
+        "jmallet",
+        "migrationmodeler",
+        1
+    ],
+    [
+        "jmallet",
+        "odesign",
+        4
+    ],
+    [
+        "jmallet",
+        "ecore",
+        3
+    ],
+    [
+        "jmallet",
+        "xml",
+        2
+    ],
+    [
+        "jmallet",
+        "properties",
+        1
+    ],
+    [
+        "jmallet",
+        "MF",
+        1
+    ],
+    [
+        "Laurent Fasani",
+        "java",
+        1136
+    ],
+    [
+        "Laurent Fasani",
+        "xml",
+        3
+    ],
+    [
+        "Laurent Fasani",
+        "exsd",
+        2
+    ],
+    [
+        "Laurent Fasani",
+        "properties",
+        5
+    ],
+    [
+        "Laurent Fasani",
+        "genmodel",
+        6
+    ],
+    [
+        "Laurent Fasani",
+        "html",
+        1
+    ],
+    [
+        "Laurent Fasani",
+        "textile",
+        1
+    ],
+    [
+        "Laurent Fasani",
+        "aird",
+        1
+    ],
+    [
+        "Laurent Fasani",
+        "ecore",
+        2
+    ],
+    [
+        "Florian Barbin",
+        "java",
+        31
+    ],
+    [
+        "Florian Barbin",
+        "properties",
+        2
+    ],
+    [
+        "Florian Barbin",
+        "xml",
+        1
+    ],
+    [
+        "Florian Barbin",
+        "MF",
+        1
+    ],
+    [
+        "pguilet",
+        "prefs",
+        2
+    ],
+    [
+        "pguilet",
+        "MF",
+        3
+    ],
+    [
+        "pguilet",
+        "java",
+        51
+    ],
+    [
+        "pguilet",
+        "properties",
+        3
+    ],
+    [
+        "pguilet",
+        "xml",
+        2
+    ],
+    [
+        "pguilet",
+        "exsd",
+        1
+    ],
+    [
+        "Steve Monnier",
+        "java",
+        2
+    ],
+    [
+        "Maxime Porhel",
+        "java",
+        1
+    ]
+]

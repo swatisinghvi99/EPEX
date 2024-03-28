@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Thu Mar 17  7:01:07 2016,DockerConnector.java,Mykola Morhun
+Wed Mar 23 10:12:11 2016,MachineManager.java,Mykola Morhun
+Wed Mar 23 10:12:11 2016,DockerConnector.java,Mykola Morhun
+Wed Mar 23 10:12:11 2016,DockerConnectorTest.java,Mykola Morhun
+Wed Mar 23 10:12:11 2016,pom.xml,Mykola Morhun
+Wed Mar 23 10:12:11 2016,DockerInstance.java,Mykola Morhun
+Wed Mar 23 10:12:11 2016,DockerInstanceKey.java,Mykola Morhun
+Wed Mar 23 10:12:11 2016,DockerInstanceProvider.java,Mykola Morhun
+Wed Mar 23 10:12:11 2016,DockerInstanceProviderTest.java,Mykola Morhun
+Wed Apr  6  7:55:25 2016,Constants.java,Mykola Morhun
+Wed Apr  6  7:55:25 2016,WorkspaceService.java,Mykola Morhun
+Wed Apr  6  7:55:25 2016,WorkspaceServiceTest.java,Mykola Morhun
+Mon Apr 11 12:46:20 2016,che.properties,Mykola Morhun
+Mon Apr 11 12:46:20 2016,DockerInstanceProvider.java,Mykola Morhun
+Mon Apr 11 12:46:20 2016,DockerInstanceProviderTest.java,Mykola Morhun

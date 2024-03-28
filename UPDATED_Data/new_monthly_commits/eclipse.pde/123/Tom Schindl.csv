@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Thu Aug  4 18:11:36 2011,PluginContentPage.java,Tom Schindl
+Mon Aug 15 18:04:01 2011,ControlFactory.java,Tom Schindl
+Mon Aug 15 18:04:18 2011,AbstractCommandSelectionDialog.java,Tom Schindl
+Mon Aug 15 18:04:18 2011,BindingContextSelectionDialog.java,Tom Schindl
+Mon Aug 15 18:04:18 2011,CommandCategorySelectionDialog.java,Tom Schindl
+Mon Aug 15 18:04:18 2011,ExpressionIdDialog.java,Tom Schindl
+Mon Aug 15 18:04:18 2011,FeatureSelectionDialog.java,Tom Schindl
+Mon Aug 15 18:04:18 2011,SharedElementsDialog.java,Tom Schindl

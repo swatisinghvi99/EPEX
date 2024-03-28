@@ -1,0 +1,449 @@
+date_time,file,committer_name
+Mon Apr 15  0:16:21 2013,GlobalMercator.java,Jody Garnett
+Mon Apr 15  0:16:21 2013,JGTtmsRenderer.java,Jody Garnett
+Mon Apr 15 14:08:20 2013,.classpath,Jody Garnett
+Mon Apr 15 14:08:20 2013,.project,Jody Garnett
+Mon Apr 15 14:08:20 2013,org.codehaus.groovy.eclipse.preferences.prefs,Jody Garnett
+Mon Apr 15 14:08:20 2013,org.eclipse.jdt.core.prefs,Jody Garnett
+Mon Apr 15 14:08:20 2013,Copy of JavadocGen.groovy,Jody Garnett
+Mon Apr 15 14:08:20 2013,NewJavadocGenerator.groovy,Jody Garnett
+Mon Apr 15 14:08:20 2013,Copy of JavadocGen.groovy,Jody Garnett
+Mon Apr 15 14:08:20 2013,NewJavadocGenerator.groovy,Jody Garnett
+Mon Apr 15 14:22:31 2013,.gitignore,Jody Garnett
+Mon Apr 15 14:22:31 2013,.buildinfo,Jody Garnett
+Mon Apr 15 14:22:31 2013,Tips and Tricks.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,What is new 1.1.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,What is new 1.2.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,What is new 1.3.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,What is new.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,basic.css,Jody Garnett
+Mon Apr 15 14:22:31 2013,doctools.js,Jody Garnett
+Mon Apr 15 14:22:31 2013,jquery.js,Jody Garnett
+Mon Apr 15 14:22:31 2013,pygments.css,Jody Garnett
+Mon Apr 15 14:22:31 2013,searchtools.js,Jody Garnett
+Mon Apr 15 14:22:31 2013,sphinxdoc.css,Jody Garnett
+Mon Apr 15 14:22:31 2013,udig.css,Jody Garnett
+Mon Apr 15 14:22:31 2013,underscore.js,Jody Garnett
+Mon Apr 15 14:22:31 2013,websupport.js,Jody Garnett
+Mon Apr 15 14:22:31 2013,Active Part.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Application Concepts.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Area of Interest.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Constraint Query Language.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Coordinate Reference System.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Data Store.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Decorator.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Edit Blackboard.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Editor.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Fast views concept.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Fast views.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Feature Collection.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Feature Type.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Feature.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,File Formats.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Files.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,GML.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,GeoTIFF.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Georeference.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Geospatial.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Help system.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Layer.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Legend.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Map.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Perspective.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,PostGIS.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Project.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Projection.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Selection.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Service.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Shapefile.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Style Layer Descriptor.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Style.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Symbology.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Template.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Teradata.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Tileset.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Toolbar.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Toolbars.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Use of Views.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using an Editor.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,View.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Viewport.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Web Feature Server.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Web Map Server.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Welcome.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Workbench.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,World Plus Image.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,index.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,uDig.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,genindex.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,GeoScript Introduction.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Introduction to the Spatial Toolbox.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Quickstart.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Walkthrough 1.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Walkthrough 2.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,index.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,index.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,AddingLayersfromtheCatalogView.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,ConnectingtoaWebMapServer.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,ImportDirectlytoTheCatalog.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,InformationRequest.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,InstallPlugin.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,InstallingandRunningTheuDigApplication.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Introduction.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,OnlineDocumentationandTutorials.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Re-projection.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,TheWorkbench.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,ThemedData.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,WebView.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Welcome.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,WhattodoNext.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,WorkingwithFiles.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,index.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,postgis.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,ChangingSnappingBehavior.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,CopyingContent.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,CreateGeometry.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,CreatingFeatureType.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,DeleteFeatureTool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,EditingGeometrywithWFS.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,ExportingtoShapefile.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,FillTool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,HoleCutter.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Introduction.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Save.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,TakeaBreak.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,WMSandWFSIntegration.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,WhattoDoNext.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,WorkingwithAttributes.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,index.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,index.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,objects.inv,Jody Garnett
+Mon Apr 15 14:22:31 2013,AOI view.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Add Data wizard.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Advanced Tools.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Arc Tool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,ArcSDE page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Bookmarks View.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Buffer Operation.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,CSV Import page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Catalog Preferences.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Catalog view.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Cheat Sheet Selection dialog.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Cheat Sheet view.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Cheat sheets.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Clip Operation.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Color Selector dialog.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Community.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,DB2 page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Data Menu.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Data page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,DataStore page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Dissolve Operation.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Document view.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Edit Menu.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Edit Tool Performance Preferences.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Edit Tool Preferences.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Edit Tools.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Export Wizard.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Expression viewer.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Feature Style Pages.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,File Menu.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Files page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Fill Operation.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Filter viewer.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Filters and Expressions.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Font Selector dialog.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,GeoScript editor.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Georeferencing Tools.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Graticule Decoration.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Grid Decoration.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Help Menu.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Help Preferences.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Help contents.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Help view.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Hole Cut Operation.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Icons and buttons.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Import Wizard.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Import imagery folder as mosaic page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Information Tools.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Information view.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Interaction Properties page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Intersect Operation.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,JGrass Raster Legend.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,JGrass Vector Legend.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,JGrass page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Jody.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,KML to Shapefile import page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Label Box.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Layer Menu.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Layer Summary operation.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Layer to Shapefile Wizard.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Layers view.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Legend Decoration.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Legend View.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Location View.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Map Decoration page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Map Menu.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Map Perspective.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Map editor.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Map to Image Wizard.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Menus.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,MySQL page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,NASA WorldWind page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Navigation Menu.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Navigation Tools.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,New Project wizard.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,North Arrow Decoration.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,North Arrow.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Operations dialog.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Oracle Spatial page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Outline view.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Page editor.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Palette View.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Parallel Tool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Perspectives.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Polygon to Line Operation.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,PostGIS page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Preferences.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Project Preferences.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Projection page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Projects view.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Properties dialog.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Property Pages.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Raster Style Pages.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Rendering Preferences.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Resource Document page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Resource Information page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Resource Selection page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Resource page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Resource to Shapefile Wizard.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Scalebar Decoration.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Search view.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Selection Tools.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Send Log dialog.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Service page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Snapping.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Spatial Join Operation.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Spatial Operations.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Spatial Toolbox View.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Split Operation.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Split Tool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Style Editor dialog.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Style Pages.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Style Perspective.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Style View.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Summary page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Table view.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Tasks view.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Teradata page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,The Processing Region.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Tileset page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Tool Preferences.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Transform dialog.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Transform operation.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Trim Line Tool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using the WPS plugin.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Views and editors.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Web Feature Server page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Web Map Server Style Pages.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Web Map Server Tile Cache page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Web Map Server page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Web Map Tiles page.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Web view.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Window Menu.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Wizards and Dialogs.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,index.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,uDig User Guide.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,search.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,searchindex.js,Jody Garnett
+Mon Apr 15 14:22:31 2013,Accessing context sensitive help.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Add Vertex Tool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Add multiple Graticules with different CRS.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Add new Graticule.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Adding Features from DB2.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Adding a column to a shapefile.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Adding a folder.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Adding a layer.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Adding features from ArcSDE.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Adding features from Oracle.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Adding features from PostGIS.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Adding features from WFS.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Adding features from a Shapefile.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Adding layers from WMS.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Attaching a document.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Change a Layers Style.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Changing a layer's z-order.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Changing the projection of a shapefile.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Closing an editor.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Configure a AOI layer.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Configure documents.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Configure table view to list the contents of a polygon.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Configure table view to list the contents of the screen.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Create Layer from Query.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Creating a Project.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Creating a new Map.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Creating a new Project.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Creating fast views.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Delete Tool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Deleting a layer.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Drag and Drop.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Draw Geometry Tool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Drop cursors.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Edit Geometry Tool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Ellipse Tool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Enabling a Tileset from a WMS Server.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Exiting the workbench.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Feature count.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Fill Tool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Finding new plugins.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Grouping layers by folder.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Handling Shapefiles with different Character Sets.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Hole Cutter.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Importing data.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Installation and Configuration.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Keeping up to date.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Line Creation Tool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Linking a document.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Map Navigation.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Maximizing.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Merge Tool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Pan.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Point Creation Tool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Polygon Creation Tool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Printing the current Map.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Processing the Geometry in a Shapefile.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Rearranging tabbed views.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Rearranging the main toolbar.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Rearranging views and editors.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Rearranging views.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Rectangle Tool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Remove Vertex Tool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Running uDig.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Selection using Attributes.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Selection using CQL.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Set raster transparent color.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Setting a hotlink.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Show or Hide map graphics layers.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Show or hide background layers.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Show or hide grid layer on map.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Show the AOI on the map.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Smart Buffer Tool.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Submit Error Log.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Subscribe to the user list.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Support.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Tiling editors.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Tracing WMS Calls.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Use a Coordinate Reference System as the AOI.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Use a bookmark as the AOI.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Use a processing region as the AOI.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Use polygon as the AOI.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using Advanced Edit Mode.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using Feature Edit Tools.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using Feature operations.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using Geometry Creation Tools.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using Layer Operations.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using Resource Summary.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using Vertex Tools.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using new to add a Map to a Project.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using the Catalog view.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using the Catalog.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using the Context menu to add a Map to a Project.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using the File menu to add a new Map.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using the Issue Tracker.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using the Layers view.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using the Legend View.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using the Projects view.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using the Search view.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using the Table View.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using the Workbench.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Using the help system.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Validation.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,View Error Log and Configuration Details.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Working with AOI.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Working with Decorations.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Working with Documents.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Working with Features.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Working with Images.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Working with Layers.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Working with Maps.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Working with Projects.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Working with Selection.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Working with cheat sheets.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Working with composite cheat sheets.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Working with fast views.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Working with the Update Manager.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Zoom.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,Zooming to a layer.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,index.html,Jody Garnett
+Mon Apr 15 14:22:31 2013,uDig Overview.html,Jody Garnett
+Mon Apr 15 14:23:57 2013,README,Jody Garnett
+Mon Apr 15 14:23:57 2013,antScript.xml,Jody Garnett
+Mon Apr 15 14:23:57 2013,app.properties,Jody Garnett
+Mon Apr 15 14:23:57 2013,pom.xml,Jody Garnett
+Mon Apr 15 14:23:57 2013,sdk.properties,Jody Garnett
+Mon Apr 15 14:23:57 2013,shared.properties,Jody Garnett
+Mon Apr 15 14:23:57 2013,Ping.scala,Jody Garnett
+Mon Apr 15 14:23:57 2013,LinuxPrepare.scala,Jody Garnett
+Mon Apr 15 14:23:57 2013,MacPrepare.scala,Jody Garnett
+Mon Apr 15 14:23:57 2013,Package.scala,Jody Garnett
+Mon Apr 15 14:23:57 2013,Prepare.scala,Jody Garnett
+Mon Apr 15 14:23:57 2013,WindowsPrepare.scala,Jody Garnett
+Mon Apr 15 14:23:57 2013,Info.plist,Jody Garnett
+Mon Apr 15 14:23:57 2013,LICENSE.txt,Jody Garnett
+Mon Apr 15 14:23:57 2013,README.html,Jody Garnett
+Mon Apr 15 14:23:57 2013,udig.xpm,Jody Garnett
+Mon Apr 15 14:23:57 2013,linux_launch.sh,Jody Garnett
+Mon Apr 15 14:23:57 2013,uDigInstallScript.nsi,Jody Garnett
+Mon Apr 15 14:23:57 2013,udig.bat,Jody Garnett
+Mon Apr 15 14:23:57 2013,udig.sh,Jody Garnett
+Mon Apr 15 14:23:57 2013,main.scala,Jody Garnett
+Mon Apr 15 14:23:57 2013,config,Jody Garnett
+Mon Apr 15 14:37:15 2013,AcceptAll.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,And.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,BBoxFilter.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,BiSeq.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,Context.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,CswXmlUtil.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,ElementSetNames.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,GetCapabilities.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,GetDomain.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,GetRecords.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,Logging.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,OgcFilter.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,Or.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,OutputSchemas.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,PropertyIsEqualTo.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,PropertyIsLike.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,PropertyIsNotEqualTo.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,Request.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,ResultTypes.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,SortBy.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,Within.scala,Jody Garnett
+Mon Apr 15 14:37:15 2013,XmlRequest.scala,Jody Garnett
+Mon Apr 15 15:07:03 2013,GlobalMercator.java,Jody Garnett
+Sun Apr 21  5:18:32 2013,MANIFEST.MF,Jody Garnett
+Sun Apr 21  5:18:32 2013,MANIFEST.MF,Jody Garnett
+Sun Apr 21  5:18:32 2013,CSV.java,Jody Garnett
+Sun Apr 21  5:18:32 2013,CSVGeoResourceInfo.java,Jody Garnett
+Sun Apr 21  5:18:32 2013,CSVServiceTest.java,Jody Garnett
+Sun Apr 21  5:18:32 2013,CSVRenderer.java,Jody Garnett
+Sun Apr 21  5:18:32 2013,ColorCSVRenderer.java,Jody Garnett
+Sun Apr 21  5:18:32 2013,.classpath,Jody Garnett
+Sun Apr 21  5:18:32 2013,.gitignore,Jody Garnett
+Sun Apr 21  5:18:32 2013,.project,Jody Garnett
+Sun Apr 21  5:18:32 2013,MANIFEST.MF,Jody Garnett
+Sun Apr 21  5:18:32 2013,build.properties,Jody Garnett
+Sun Apr 21  5:18:32 2013,pom-libs.xml,Jody Garnett
+Sun Apr 21  5:18:32 2013,pom.xml,Jody Garnett
+Sun Apr 21  5:39:13 2013,.classpath,Jody Garnett
+Sun Apr 21  5:39:13 2013,MANIFEST.MF,Jody Garnett
+Sun Apr 21  5:39:13 2013,build.properties,Jody Garnett
+Sun Apr 21  5:39:13 2013,readme.txt,Jody Garnett
+Sun Apr 21  5:39:13 2013,CswCatalog.java,Jody Garnett
+Sun Apr 21  6:09:38 2013,GlobalMercator.java,Jody Garnett
+Thu Apr 25  6:56:08 2013,GlobalMercator.java,Jody Garnett
+Thu Apr 25  6:56:08 2013,JGTtmsRenderer.java,Jody Garnett
+Thu Apr 25  7:11:36 2013,GlobalMercator.java,Jody Garnett
+Thu Apr 25  7:11:36 2013,JGTtmsRenderMetricsFactory.java,Jody Garnett
+Thu Apr 25  7:11:36 2013,JGTtmsRenderer.java,Jody Garnett

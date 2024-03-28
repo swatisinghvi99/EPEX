@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Tue Jul 12  9:53:58 2016,RuntimeClasspathTest.groovy,Donat Csikos
+Tue Jul 12  9:53:58 2016,plugin.xml,Donat Csikos
+Tue Jul 12  9:53:58 2016,GradleClasspathContainerRuntimeClasspathEntryResolver.java,Donat Csikos
+Thu Jul 14  9:55:32 2016,build.properties,Donat Csikos
+Thu Jul 14  9:55:32 2016,fragment.xml,Donat Csikos
+Thu Jul 14  9:55:32 2016,ImportingProjectWithCustomNature.groovy,Donat Csikos
+Tue Jul 19  8:10:39 2016,GradleClasspathContainerRuntimeClasspathEntryResolver.java,Donat Csikos
+Tue Jul 19  8:10:55 2016,RuntimeClasspathTest.groovy,Donat Csikos
+Fri Jul 22 16:48:55 2016,ClasspathContainerUpdaterTest.groovy,Donat Csikos
+Fri Jul 22 16:48:55 2016,GradleClasspathContainerUpdaterTest.groovy,Donat Csikos
+Fri Jul 22 16:48:55 2016,SingleProjectSynchronizationSpecification.groovy,Donat Csikos
+Fri Jul 22 16:48:55 2016,SourceFolderUpdaterTest.groovy,Donat Csikos
+Fri Jul 22 16:48:55 2016,GradleClasspathContainer.java,Donat Csikos
+Fri Jul 22 16:48:55 2016,ClasspathContainerUpdater.java,Donat Csikos
+Fri Jul 22 16:48:55 2016,GradleClasspathContainerInitializer.java,Donat Csikos
+Fri Jul 22 16:48:55 2016,GradleClasspathContainerUpdater.java,Donat Csikos
+Fri Jul 22 16:48:55 2016,OutputLocationUpdater.java,Donat Csikos
+Fri Jul 22 16:48:55 2016,SourceFolderUpdater.java,Donat Csikos
+Fri Jul 22 16:48:55 2016,SynchronizeGradleBuildOperation.java,Donat Csikos
+Fri Jul 22 16:48:55 2016,WtpClasspathUpdater.java,Donat Csikos
+Fri Jul 22 16:49:03 2016,GradleClasspathContainerUpdaterTest.groovy,Donat Csikos
+Fri Jul 22 16:49:03 2016,SynchronizingExistingWorkspaceProject.groovy,Donat Csikos
+Fri Jul 22 16:49:03 2016,WtpClasspathAttributeSpecification.groovy,Donat Csikos
+Fri Jul 22 16:49:03 2016,GradleClasspathContainer.java,Donat Csikos
+Fri Jul 22 16:49:03 2016,WtpClasspathUpdater.java,Donat Csikos

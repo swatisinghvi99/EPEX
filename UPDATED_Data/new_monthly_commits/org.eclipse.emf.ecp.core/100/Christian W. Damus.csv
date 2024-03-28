@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Wed Oct 16 11:21:05 2019,ValidationServiceImpl.java,Christian W. Damus
+Wed Oct 16 11:21:05 2019,ValidationService.java,Christian W. Damus
+Wed Oct 16 11:21:05 2019,ValidationService_PTest.java,Christian W. Damus
+Fri Oct 25 21:14:38 2019,ConditionalDeleteService.java,Christian W. Damus
+Fri Oct 25 21:14:38 2019,DeleteService.java,Christian W. Damus
+Fri Oct 25 21:14:38 2019,DeleteServiceAdapter.java,Christian W. Damus
+Fri Oct 25 21:14:38 2019,EMFDeleteServiceImpl.java,Christian W. Damus
+Fri Oct 25 21:14:38 2019,ViewEditorActionBarContributor.java,Christian W. Damus
+Fri Oct 25 21:14:38 2019,MultiReferenceSWTRenderer.java,Christian W. Damus
+Fri Oct 25 21:14:38 2019,TableControlSWTRenderer.java,Christian W. Damus
+Fri Oct 25 21:14:38 2019,TreeMasterDetailSWTRenderer.java,Christian W. Damus
+Fri Oct 25 21:14:38 2019,DeleteServiceAdapter_PTest.java,Christian W. Damus
+Fri Oct 25 21:14:38 2019,EMFDeleteSerivceImpl_PTest.java,Christian W. Damus
+Fri Oct 25 21:14:38 2019,AllPluginTests for view.control.multireference.launch,Christian W. Damus
+Fri Oct 25 21:14:38 2019,MultiReferenceRenderer_PTest.java,Christian W. Damus

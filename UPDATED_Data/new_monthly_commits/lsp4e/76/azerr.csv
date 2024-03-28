@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Fri Mar  3 18:36:14 2023,CodeActionMarkerResolution.java,azerr
+Wed Mar 22 17:41:29 2023,plugin.properties,azerr
+Wed Mar 22 17:41:29 2023,plugin.xml,azerr
+Wed Mar 22 17:41:29 2023,LSPEclipseUtils.java,azerr
+Wed Mar 22 17:41:29 2023,LanguageServerWrapper.java,azerr
+Wed Mar 22 17:41:29 2023,SupportedFeatures.java,azerr
+Wed Mar 22 17:41:29 2023,LSPSelectionRangeAbstractHandler.java,azerr
+Wed Mar 22 17:41:29 2023,LSPSelectionRangeDownHandler.java,azerr
+Wed Mar 22 17:41:29 2023,LSPSelectionRangeUpHandler.java,azerr

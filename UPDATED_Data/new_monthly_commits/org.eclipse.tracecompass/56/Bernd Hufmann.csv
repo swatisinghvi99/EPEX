@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Tue Jan  6 20:25:08 2015,LTTngToolsFileShell.java,Bernd Hufmann
+Tue Jan  6 20:25:08 2015,TestCommandShell.java,Bernd Hufmann
+Tue Jan  6 20:25:08 2015,CreateSessionTest.cfg,Bernd Hufmann
+Tue Jan  6 20:25:08 2015,CreateSessionTest2.cfg,Bernd Hufmann
+Tue Jan  6 20:25:08 2015,CreateSessionTestMi.cfg,Bernd Hufmann
+Tue Jan  6 20:25:08 2015,CreateTreeTest.cfg,Bernd Hufmann
+Tue Jan  6 20:25:08 2015,CreateTreeTest2.cfg,Bernd Hufmann
+Tue Jan  6 20:25:08 2015,LTTngServiceMiTest.cfg,Bernd Hufmann
+Tue Jan  6 20:25:08 2015,LTTngServiceTest.cfg,Bernd Hufmann
+Tue Jan  6 20:25:08 2015,ListInfoTest.cfg,Bernd Hufmann
+Tue Jan  6 20:25:08 2015,EnableUstEventsComposite.java,Bernd Hufmann
+Tue Jan  6 20:25:08 2015,CommandShell.java,Bernd Hufmann
+Tue Jan  6 20:25:08 2015,ICommandShell.java,Bernd Hufmann
+Tue Jan  6 20:25:08 2015,LTTngControlService.java,Bernd Hufmann
+Tue Jan  6 20:25:08 2015,LTTngControlServiceConstants.java,Bernd Hufmann
+Tue Jan  6 20:25:08 2015,LTTngControlServiceFactory.java,Bernd Hufmann
+Tue Jan  6 20:25:08 2015,LTTngControlServiceMI.java,Bernd Hufmann
+Tue Jan  6 20:26:22 2015,CommandShell.java,Bernd Hufmann
+Thu Jan  8 11:43:35 2015,TmfEventProviderStub.java,Bernd Hufmann
+Thu Jan  8 11:43:35 2015,TmfCoalescedEventRequest.java,Bernd Hufmann
+Thu Jan  8 11:43:35 2015,ITmfEventProvider.java,Bernd Hufmann
+Thu Jan  8 11:43:35 2015,TmfEventProvider.java,Bernd Hufmann
+Thu Jan  8 11:43:35 2015,ITmfEventRequest.java,Bernd Hufmann
+Thu Jan  8 11:43:35 2015,TmfEventRequest.java,Bernd Hufmann

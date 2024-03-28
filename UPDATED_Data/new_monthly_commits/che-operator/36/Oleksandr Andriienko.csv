@@ -1,0 +1,4 @@
+date_time,file,committer_name
+Wed Dec  8 19:15:04 2021,backup_data_collector.go,Oleksandr Andriienko
+Wed Dec  8 19:15:04 2021,main.go,Oleksandr Andriienko
+Wed Dec  8 19:15:04 2021,namespace_provider.go,Oleksandr Andriienko

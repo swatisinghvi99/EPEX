@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Thu Jun 22 12:26:26 2017,ValidatingValueFactory.java,James Leigh
+Thu Jun 22 18:29:50 2017,QueryBindingSet.java,James Leigh
+Thu Jun 22 18:29:50 2017,StrictEvaluationStrategy.java,James Leigh
+Thu Jun 22 18:29:50 2017,ExtensionIterator.java,James Leigh
+Thu Jun 22 18:29:50 2017,PathIteration.java,James Leigh
+Thu Jun 22 18:29:50 2017,SPARQLQueryBindingSet.java,James Leigh
+Thu Jun 22 18:29:50 2017,ComplexSPARQLQueryTest.java,James Leigh
+Thu Jun 22 19:36:49 2017,SailUpdate.java,James Leigh
+Wed Jun 28 20:11:52 2017,NQuadsWriter.java,James Leigh
+Wed Jun 28 20:11:52 2017,NTriplesWriter.java,James Leigh
+Mon Jul 10 18:54:06 2017,Create.java,James Leigh
+Mon Jul 10 18:54:06 2017,AbstractCommandTest.java,James Leigh
+Mon Jul 10 18:54:06 2017,RepositoryListController.java,James Leigh
+Mon Jul 10 18:54:06 2017,CreateServlet.java,James Leigh
+Mon Jul 10 18:54:06 2017,RepositoryManagerFederator.java,James Leigh
+Fri Jul 14 23:57:26 2017,LocalRepositoryManager.java,James Leigh
+Fri Jul 14 23:57:26 2017,RemoteRepositoryManager.java,James Leigh
+Fri Jul 14 23:57:26 2017,RepositoryManager.java,James Leigh

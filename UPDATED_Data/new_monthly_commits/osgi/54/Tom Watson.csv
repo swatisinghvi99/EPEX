@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Wed Dec  3 15:01:34 2008,LinkBundle.java,Tom Watson
+Mon Dec  8 20:31:30 2008,CompositeBundle.java,Tom Watson
+Mon Dec  8 20:31:30 2008,CompositeBundleFactory.java,Tom Watson
+Mon Dec  8 20:31:51 2008,LinkBundle.java,Tom Watson
+Mon Dec  8 20:31:51 2008,LinkBundleFactory.java,Tom Watson
+Mon Dec  8 22:41:14 2008,CompositeBundleFactory.java,Tom Watson
+Wed Dec 10 19:40:23 2008,FrameworkUtil.java,Tom Watson
+Wed Dec 10 20:15:32 2008,FrameworkUtil.java,Tom Watson
+Wed Dec 10 20:44:49 2008,FrameworkUtil.java,Tom Watson
+Wed Dec 10 20:56:54 2008,BundleSignerCondition.java,Tom Watson
+Wed Dec 10 21:16:09 2008,BundleSignerCondition.java,Tom Watson
+Wed Dec 10 21:25:49 2008,BundleSignerCondition.java,Tom Watson
+Wed Dec 10 21:32:47 2008,BundleSignerCondition.java,Tom Watson
+Wed Dec 10 21:46:58 2008,AdminPermission.java,Tom Watson
+Fri Dec 12 22:14:47 2008,CompositeBundle.java,Tom Watson
+Fri Dec 12 22:14:47 2008,CompositeBundleFactory.java,Tom Watson
+Fri Dec 12 22:14:47 2008,SurrogateBundle.java,Tom Watson
+Tue Dec 16 14:44:46 2008,FrameworkUtil.java,Tom Watson

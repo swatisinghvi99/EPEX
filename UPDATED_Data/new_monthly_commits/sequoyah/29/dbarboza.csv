@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Thu May  6 18:47:08 2010,MANIFEST.MF,dbarboza
+Thu May  6 18:47:08 2010,plugin.properties,dbarboza
+Thu May  6 18:47:08 2010,DeviceBackwardPlugin.java,dbarboza
+Thu May  6 18:47:08 2010,Messages.java,dbarboza
+Thu May  6 18:47:08 2010,messages.properties,dbarboza
+Thu May  6 19:23:32 2010,AndroidLocaleAttribute.java,dbarboza
+Thu May  6 19:30:32 2010,AndroidLocalizationPlugin.java,dbarboza
+Thu May  6 20:24:42 2010,EditorSession.java,dbarboza
+Fri May  7 13:07:39 2010,MANIFEST.MF,dbarboza
+Fri May  7 13:07:39 2010,plugin.properties,dbarboza
+Fri May  7 13:07:39 2010,DeviceBackwardPlugin.java,dbarboza
+Fri May  7 13:07:39 2010,Messages.java,dbarboza
+Fri May  7 13:07:39 2010,messages.properties,dbarboza
+Fri May  7 15:28:31 2010,EditorSession.java,dbarboza
+Fri May  7 16:01:06 2010,ProtocolActionDelegate.java,dbarboza
+Fri May  7 16:01:06 2010,ClientModel.java,dbarboza
+Fri May  7 16:01:06 2010,OpenConnectionDialog.java,dbarboza
+Fri May  7 16:05:08 2010,AndroidLocaleAttribute.java,dbarboza
+Fri May  7 16:05:08 2010,AndroidLocalizationPlugin.java,dbarboza

@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Wed Sep 29  9:37:01 2021,runtime.json,felixlutz
+Wed Sep 29  9:37:01 2021,VehicleUnit.java,felixlutz
+Wed Sep 29  9:37:01 2021,VehicleOperatingSystem.java,felixlutz
+Wed Sep 29  9:37:01 2021,VehicleTypeSpawner.java,felixlutz
+Wed Sep 29  9:37:01 2021,CParameterDeviations.java,felixlutz
+Wed Sep 29  9:37:01 2021,CPrototype.java,felixlutz
+Wed Sep 29  9:37:01 2021,AbstractSumoAmbassador.java,felixlutz
+Wed Sep 29  9:37:01 2021,CSumo.java,felixlutz
+Wed Sep 29  9:37:01 2021,VehicleSensorActivation.java,felixlutz
+Wed Sep 29  9:37:01 2021,VehicleSignals.java,felixlutz
+Wed Sep 29  9:37:01 2021,VehicleType.java,felixlutz

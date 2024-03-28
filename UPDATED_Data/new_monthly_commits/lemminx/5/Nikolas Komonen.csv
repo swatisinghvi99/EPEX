@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Sun Oct 28 19:15:38 2018,XMLGenerator.java,Nikolas Komonen
+Sun Oct 28 19:15:38 2018,XMLFormatter.java,Nikolas Komonen
+Sun Oct 28 19:15:38 2018,XMLBuilder.java,Nikolas Komonen
+Sun Oct 28 19:15:38 2018,XMLFormatterTest.java,Nikolas Komonen
+Mon Nov  5 23:00:33 2018,XMLGenerator.java,Nikolas Komonen
+Mon Nov  5 23:00:33 2018,XMLSchemaCompletionExtensionsTest.java,Nikolas Komonen
+Mon Nov  5 23:00:33 2018,simpleAttribute.xsd,Nikolas Komonen
+Wed Nov 14 21:02:39 2018,XMLLanguageServer.java,Nikolas Komonen
+Wed Nov 14 21:02:39 2018,DocumentType.java,Nikolas Komonen
+Wed Nov 14 21:02:39 2018,XMLFormattingOptions.java,Nikolas Komonen
+Wed Nov 14 21:02:39 2018,XMLBuilder.java,Nikolas Komonen
+Wed Nov 14 21:02:39 2018,XMLFormatterTest.java,Nikolas Komonen
+Wed Nov 14 21:02:39 2018,SettingsTest.java,Nikolas Komonen
+Wed Nov 14 21:02:39 2018,XMLCapabilitiesTest.java,Nikolas Komonen
+Thu Nov 15 21:40:23 2018,DocumentType.java,Nikolas Komonen
+Thu Nov 15 21:40:23 2018,Node.java,Nikolas Komonen
+Thu Nov 15 21:40:23 2018,XMLParser.java,Nikolas Komonen
+Thu Nov 15 21:40:23 2018,Constants.java,Nikolas Komonen
+Thu Nov 15 21:40:23 2018,MultiLineStream.java,Nikolas Komonen
+Thu Nov 15 21:40:23 2018,ScannerState.java,Nikolas Komonen
+Thu Nov 15 21:40:23 2018,TokenType.java,Nikolas Komonen
+Thu Nov 15 21:40:23 2018,XMLScanner.java,Nikolas Komonen
+Thu Nov 15 21:40:23 2018,XMLParserTest.java,Nikolas Komonen
+Thu Nov 15 21:40:23 2018,XMLScannerTest.java,Nikolas Komonen
+Thu Nov 15 21:40:23 2018,XMLFormatterTest.java,Nikolas Komonen

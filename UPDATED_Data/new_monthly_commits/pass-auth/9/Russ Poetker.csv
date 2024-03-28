@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Sat May 20 19:00:12 2023,.eslintrc.json,Russ Poetker
+Sat May 20 19:00:12 2023,Dockerfile,Russ Poetker
+Sat May 20 19:00:12 2023,proxies.js,Russ Poetker
+Sat May 20 19:00:12 2023,jest.config.js,Russ Poetker
+Sat May 20 19:00:12 2023,package.json,Russ Poetker
+Sat May 20 19:00:12 2023,environment.d.ts,Russ Poetker
+Sat May 20 19:00:12 2023,index.d.ts,Russ Poetker
+Sat May 20 19:00:12 2023,app.ts,Russ Poetker
+Sat May 20 19:00:12 2023,config.ts,Russ Poetker
+Sat May 20 19:00:12 2023,passport.ts,Russ Poetker
+Sat May 20 19:00:12 2023,proxies.ts,Russ Poetker
+Sat May 20 19:00:12 2023,routes.ts,Russ Poetker
+Sat May 20 19:00:12 2023,multi-saml-strategy.ts,Russ Poetker
+Sat May 20 19:00:12 2023,setup-user.spec.ts,Russ Poetker
+Sat May 20 19:00:12 2023,setup-user.ts,Russ Poetker
+Sat May 20 19:00:12 2023,ensure-auth.ts,Russ Poetker
+Sat May 20 19:00:12 2023,tsconfig.json,Russ Poetker
+Sat May 20 19:00:12 2023,yarn.lock,Russ Poetker

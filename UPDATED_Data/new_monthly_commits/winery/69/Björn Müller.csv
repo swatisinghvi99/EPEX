@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Wed Dec  4  8:56:19 2019,canvas.component.ts,Björn Müller
+Wed Dec  4  8:56:19 2019,DragSource.ts,Björn Müller
+Wed Dec  4  8:56:19 2019,enums.ts,Björn Müller
+Wed Dec  4  8:56:19 2019,capabilities.component.html,Björn Müller
+Wed Dec  4  8:56:19 2019,capabilities.component.ts,Björn Müller
+Wed Dec  4  8:56:19 2019,deployment-artifacts.component.html,Björn Müller
+Wed Dec  4  8:56:19 2019,deployment-artifacts.component.ts,Björn Müller
+Wed Dec  4  8:56:19 2019,policies.component.html,Björn Müller
+Wed Dec  4  8:56:19 2019,policies.component.ts,Björn Müller
+Wed Dec  4  8:56:19 2019,requirements.component.html,Björn Müller
+Wed Dec  4  8:56:19 2019,requirements.component.ts,Björn Müller
+Wed Dec  4  8:56:19 2019,toscatype-table.component.css,Björn Müller
+Wed Dec  4  8:56:19 2019,toscatype-table.component.html,Björn Müller
+Wed Dec  4  8:56:19 2019,toscatype-table.component.ts,Björn Müller
+Wed Dec  4  8:56:19 2019,winery.actions.ts,Björn Müller
+Wed Dec  4  8:56:19 2019,winery.reducer.ts,Björn Müller
+Wed Dec  4  8:56:19 2019,req-cap-relationship.service.ts,Björn Müller
+Wed Dec  4  8:56:19 2019,sidebar.component.html,Björn Müller
+Wed Dec  4  8:56:19 2019,sidebar.component.ts,Björn Müller
+Wed Dec  4  8:56:19 2019,winery.component.ts,Björn Müller
+Wed Dec  4  8:56:19 2019,winery.module.ts,Björn Müller
+Thu Dec 12 12:22:09 2019,AbstractComponentsWithoutTypeReferenceResource.java,Björn Müller

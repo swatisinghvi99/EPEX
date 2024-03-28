@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Thu Sep  3 13:53:45 2015,LoggingLocalizationResource.java,Lukas Jungmann
+Thu Sep  3 13:53:45 2015,TraceLocalizationResource.java,Lukas Jungmann
+Thu Sep  3 13:53:45 2015,ServerPlatformUtils.java,Lukas Jungmann
+Thu Sep  3 13:53:45 2015,EntityManagerJUnitTestSuite.java,Lukas Jungmann
+Thu Sep  3 13:53:45 2015,EntityManagerSetupImpl.java,Lukas Jungmann
+Wed Sep  9  9:52:57 2015,EntityManagerJUnitTestSuite.java,Lukas Jungmann
+Wed Sep  9  9:52:57 2015,LogWrapper.java,Lukas Jungmann
+Wed Sep  9  9:52:57 2015,OptimisticLockForceIncrementTestSuite.java,Lukas Jungmann
+Wed Sep  9  9:52:57 2015,EntityManagerJUnitTestSuite.java,Lukas Jungmann
+Wed Sep  9  9:52:57 2015,EntityManagerJUnitTestSuite.java,Lukas Jungmann
+Wed Sep  9  9:52:57 2015,RelationshipModelJUnitTestSuite.java,Lukas Jungmann

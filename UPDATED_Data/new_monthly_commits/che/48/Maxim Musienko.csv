@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Wed Feb 12 12:35:08 2020,ImportProjectFromGitHubTest.java,Maxim Musienko
+Wed Feb 12 12:35:08 2020,AuthorizeOnGithubFromDashboardTest.java,Maxim Musienko
+Wed Feb 12 14:14:00 2020,cico_pr_test.sh,Maxim Musienko
+Wed Feb 12 14:14:00 2020,HotUpdateUtil.java,Maxim Musienko
+Wed Feb 12 14:14:00 2020,RollingUpdateStrategyWithEditorTest.java,Maxim Musienko
+Wed Feb 12 14:14:00 2020,RollingUpdateStrategyWithStartedWorkspaceTest.java,Maxim Musienko
+Wed Feb 12 14:14:00 2020,RollingUpdateStrategyWithWorkspacesStartStopTest.java,Maxim Musienko

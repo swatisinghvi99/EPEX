@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Thu Sep 21 12:32:52 2017,KuraGenerator.java,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,BuildPropertiesTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,DefaultAppTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,EclipseClasspathTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,EclipseProjectFileTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,IDataServiceTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,KuraCloudDataServiceTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,ManifestTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,PomTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,Utils.java,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,ConfigurationTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,DeviceBluetoothFinderTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,DeviceFilterTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,DeviceTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,DeviceToInformationModelTransformerTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,InformationModelConsumerTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,FunctionblockTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,InformationModelTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,BoschDataServiceTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,BoschHubClientTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,BoschHubDataService.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,ThingClientFactoryTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,ComponentXmlTemplate.xtend,Erle Czar Mantos
+Thu Sep 21 12:32:52 2017,MetatypeTemplate.xtend,Erle Czar Mantos

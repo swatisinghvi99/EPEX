@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Wed Jan 25 13:39:22 2012,plugin.xml,fgdrf
+Wed Jan 25 13:39:22 2012,ImageServiceExtension.java,fgdrf
+Wed Jan 25 13:39:22 2012,ImageServiceImpl.java,fgdrf
+Wed Jan 25 13:39:22 2012,GDALFormatProvider.java,fgdrf
+Wed Jan 25 19:21:27 2012,GDALFormatProvider.java,fgdrf
+Thu Jan 26 22:29:56 2012,DataStoreParameterPage.java,fgdrf
+Thu Jan 26 22:29:56 2012,ShpServiceExtension.java,fgdrf
+Fri Jan 27 10:50:24 2012,DataStoreParameterPage.java,fgdrf
+Fri Jan 27 13:54:34 2012,GDALFormatProvider.java,fgdrf
+Fri Jan 27 14:04:51 2012,plugin.xml,fgdrf
+Fri Jan 27 14:04:51 2012,GDALFormatProvider.java,fgdrf
+Mon Jan 30  1:15:54 2012,DataStoreParameterPage.java,fgdrf
+Mon Jan 30  1:15:54 2012,ShpServiceExtension.java,fgdrf
+Mon Jan 30  1:15:54 2012,DataStoreParameterPage.java,fgdrf
+Mon Jan 30  1:15:55 2012,GDALFormatProvider.java,fgdrf
+Mon Jan 30  1:15:55 2012,plugin.xml,fgdrf
+Mon Jan 30  1:15:55 2012,GDALFormatProvider.java,fgdrf

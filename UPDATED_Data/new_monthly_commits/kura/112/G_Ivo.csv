@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Tue Mar 28 10:28:30 2023,NMDbusConnector.java,G_Ivo
+Tue Mar 28 10:28:30 2023,NMDbusConnectorTest.java,G_Ivo
+Fri Apr  7 12:19:48 2023,GwtNetworkServiceImpl.java,G_Ivo
+Sat Apr  8  7:43:02 2023,GwtNetworkServiceImpl.java,G_Ivo
+Sat Apr  8  7:43:02 2023,GwtNetworkServiceImpl.java,G_Ivo
+Sat Apr  8  7:43:02 2023,NetworkConfigurationServiceAdapter.java,G_Ivo
+Sat Apr  8  7:43:02 2023,NetworkConfigurationServicePropertiesBuilder.java,G_Ivo
+Sat Apr  8  7:43:02 2023,GwtServerUtil.java,G_Ivo
+Sat Apr  8  7:43:02 2023,GwtWifiConfig.java,G_Ivo

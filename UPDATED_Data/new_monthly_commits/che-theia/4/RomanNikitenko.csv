@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Thu Mar 14 15:23:42 2019,.gitignore,RomanNikitenko
+Thu Mar 14 15:23:42 2019,README.md,RomanNikitenko
+Thu Mar 14 15:23:42 2019,package.json,RomanNikitenko
+Thu Mar 14 15:23:42 2019,preview-urls-view.css,RomanNikitenko
+Thu Mar 14 15:23:42 2019,preview-urls.js,RomanNikitenko
+Thu Mar 14 15:23:42 2019,che-task-backend-module.ts,RomanNikitenko
+Thu Mar 14 15:23:42 2019,che-workspace-client.ts,RomanNikitenko
+Thu Mar 14 15:23:42 2019,attach-client.ts,RomanNikitenko
+Thu Mar 14 15:23:42 2019,machine-exec-client.ts,RomanNikitenko
+Thu Mar 14 15:23:42 2019,machines-picker.ts,RomanNikitenko
+Thu Mar 14 15:23:42 2019,terminal-widget.ts,RomanNikitenko
+Thu Mar 14 15:23:42 2019,websocket.ts,RomanNikitenko
+Thu Mar 14 15:23:42 2019,preview-url-open-service.ts,RomanNikitenko
+Thu Mar 14 15:23:42 2019,previews-widget.ts,RomanNikitenko
+Thu Mar 14 15:23:42 2019,task-events-handler.ts,RomanNikitenko
+Thu Mar 14 15:23:42 2019,task-preview-mode.ts,RomanNikitenko
+Thu Mar 14 15:23:42 2019,tasks-preview-manager.ts,RomanNikitenko
+Thu Mar 14 15:23:42 2019,task-plugin-backend.ts,RomanNikitenko
+Thu Mar 14 15:23:42 2019,che-task-provider.ts,RomanNikitenko
+Thu Mar 14 15:23:42 2019,che-task-runner.ts,RomanNikitenko
+Thu Mar 14 15:23:42 2019,task-protocol.ts,RomanNikitenko
+Thu Mar 14 15:23:42 2019,project-path-variable-resolver.ts,RomanNikitenko
+Thu Mar 14 15:23:42 2019,server-variable-resolver.ts,RomanNikitenko
+Thu Mar 14 15:23:42 2019,tsconfig.json,RomanNikitenko
+Thu Mar 14 15:23:42 2019,tsfmt.json,RomanNikitenko
+Thu Mar 14 15:23:42 2019,yarn.lock,RomanNikitenko

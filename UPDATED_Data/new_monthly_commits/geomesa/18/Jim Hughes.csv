@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Thu Jul 23 16:15:05 2015,pom.xml,Jim Hughes
+Thu Jul 23 16:15:05 2015,AccumuloVersion.scala,Jim Hughes
+Thu Jul 23 16:15:05 2015,TimestampRangeIterator.scala,Jim Hughes
+Thu Jul 23 16:15:05 2015,GeoMesaInputFormat.scala,Jim Hughes
+Thu Jul 23 16:15:05 2015,InputFormatBaseAdapter.scala,Jim Hughes
+Thu Jul 23 16:15:05 2015,GeoMesaInputFormat.scala,Jim Hughes
+Thu Jul 23 16:15:05 2015,InputFormatBaseAdapter.scala,Jim Hughes
+Thu Jul 23 16:15:05 2015,AccumuloTap.scala,Jim Hughes
+Thu Jul 23 16:15:05 2015,GeoMesaDataStoresPage.scala,Jim Hughes
+Thu Jul 23 16:15:05 2015,pom.xml,Jim Hughes
+Thu Jul 23 16:15:05 2015,Utils.scala,Jim Hughes
+Thu Jul 23 16:15:05 2015,pom.xml,Jim Hughes
+Thu Aug  6 14:39:22 2015,KafkaDataStoreSchemaManager.scala,Jim Hughes
+Thu Aug  6 14:42:41 2015,README.md,Jim Hughes
+Thu Aug  6 14:42:41 2015,AccumuloQuickStart.java,Jim Hughes

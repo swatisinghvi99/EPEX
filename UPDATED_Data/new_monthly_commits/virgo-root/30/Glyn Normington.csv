@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Fri Sep 21  8:59:26 2012,WarDetectingTransformer.java,Glyn Normington
+Fri Sep 21  8:59:26 2012,WebBundleTransformer.java,Glyn Normington
+Fri Sep 21  8:59:26 2012,WebContainerUtils.java,Glyn Normington
+Fri Sep 21  8:59:26 2012,WebBundleTransformerTests.java,Glyn Normington
+Mon Sep 24 14:45:48 2012,.gitignore,Glyn Normington
+Mon Sep 24 14:45:48 2012,ServiceLoader.java,Glyn Normington
+Mon Sep 24 15:47:50 2012,CaseInsensitiveMap.java,Glyn Normington
+Mon Sep 24 15:47:50 2012,IteratorToEnumerationAdapter.java,Glyn Normington
+Mon Sep 24 15:47:50 2012,MapToDictionaryAdapter.java,Glyn Normington
+Mon Sep 24 15:47:50 2012,StandardBundleManifest.java,Glyn Normington
+Tue Sep 25  8:16:57 2012,BundleBridge.java,Glyn Normington
+Tue Sep 25 10:22:34 2012,CaseInsensitiveMap.java,Glyn Normington
+Tue Sep 25 10:22:34 2012,StandardBundleManifest.java,Glyn Normington
+Wed Sep 26 14:44:57 2012,.classpath,Glyn Normington
+Wed Sep 26 14:44:57 2012,IteratorToEnumerationAdapter.java,Glyn Normington
+Wed Sep 26 14:44:57 2012,CaseInsensitiveMapTests.java,Glyn Normington
+Wed Sep 26 14:44:57 2012,IteratorToEnumerationAdapterTests.java,Glyn Normington
+Wed Sep 26 14:44:57 2012,MapToDictionaryAdapterTests.java,Glyn Normington
+Wed Sep 26 14:54:01 2012,ivy.xml,Glyn Normington
+Wed Sep 26 14:54:01 2012,MapToDictionaryAdapterTests.java,Glyn Normington

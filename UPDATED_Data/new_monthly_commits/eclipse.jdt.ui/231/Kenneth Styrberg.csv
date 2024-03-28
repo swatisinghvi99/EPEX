@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Wed Jul  8 18:04:52 2020,NewDefiningMethodProposal.java,Kenneth Styrberg
+Wed Jul 15 21:08:04 2020,CorrectionMessages.java,Kenneth Styrberg
+Wed Jul 15 21:08:04 2020,CorrectionMessages.properties,Kenneth Styrberg
+Wed Jul 15 21:08:04 2020,AssistQuickFixTest1d8.java,Kenneth Styrberg
+Wed Jul 15 21:08:04 2020,QuickFixTest1d8.java,Kenneth Styrberg
+Wed Jul 15 21:08:04 2020,QuickAssistProcessor.java,Kenneth Styrberg
+Wed Jul 15 21:08:04 2020,QuickFixProcessor.java,Kenneth Styrberg
+Thu Jul 23 14:19:15 2020,A.java,Kenneth Styrberg
+Thu Jul 23 14:19:15 2020,A.java,Kenneth Styrberg
+Thu Jul 23 14:19:15 2020,PushDownTests.java,Kenneth Styrberg
+Thu Jul 23 14:19:15 2020,PushDownRefactoringProcessor.java,Kenneth Styrberg
+Thu Jul 30 14:48:42 2020,A_test116_in.java,Kenneth Styrberg
+Thu Jul 30 14:48:42 2020,A_test116_out.java,Kenneth Styrberg
+Thu Jul 30 14:48:42 2020,A_testFail39.java,Kenneth Styrberg
+Thu Jul 30 14:48:42 2020,A_testFail40.java,Kenneth Styrberg
+Thu Jul 30 14:48:42 2020,ExtractTempTests.java,Kenneth Styrberg
+Thu Jul 30 14:48:42 2020,ExtractTempRefactoring.java,Kenneth Styrberg
+Thu Jul 30 21:07:23 2020,AssistQuickFixTest1d8.java,Kenneth Styrberg
+Thu Jul 30 21:07:23 2020,QuickAssistProcessor.java,Kenneth Styrberg
+Fri Jul 31 20:04:05 2020,A_testParameterTypeWithOverrideMethod_in.java,Kenneth Styrberg
+Fri Jul 31 20:04:05 2020,A_testParameterTypeWithOverrideMethod_out.java,Kenneth Styrberg
+Fri Jul 31 20:04:05 2020,ChangeTypeRefactoringTests.java,Kenneth Styrberg
+Fri Jul 31 20:04:05 2020,ChangeTypeRefactoring.java,Kenneth Styrberg

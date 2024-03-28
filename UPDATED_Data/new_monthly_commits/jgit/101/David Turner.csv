@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Sun Feb  4 14:33:24 2018,AddCommandTest.java,David Turner
+Sun Feb  4 14:33:24 2018,ResolveMergerTest.java,David Turner
+Sun Feb  4 14:33:24 2018,DirCacheCheckout.java,David Turner
+Sun Feb  4 14:33:24 2018,ResolveMerger.java,David Turner
+Sun Feb  4 14:33:24 2018,SubmoduleConflict.java,David Turner
+Sun Feb  4 14:33:24 2018,NameConflictTreeWalk.java,David Turner
+Sun Feb  4 14:33:24 2018,WorkingTreeIterator.java,David Turner

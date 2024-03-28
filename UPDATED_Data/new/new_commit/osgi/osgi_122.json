@@ -1,0 +1,207 @@
+[
+    [
+        "antonin.chazalet@orange.com",
+        "java",
+        90
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "prefs",
+        10
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "gitignore",
+        1
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "bnd",
+        3
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "unknown",
+        5
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "xml",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        78
+    ],
+    [
+        "BJ Hargrave",
+        "prefs",
+        13
+    ],
+    [
+        "BJ Hargrave",
+        "bnd",
+        5
+    ],
+    [
+        "BJ Hargrave",
+        "unknown",
+        9
+    ],
+    [
+        "BJ Hargrave",
+        "classpath",
+        3
+    ],
+    [
+        "BJ Hargrave",
+        "project",
+        3
+    ],
+    [
+        "BJ Hargrave",
+        "xml",
+        5
+    ],
+    [
+        "BJ Hargrave",
+        "lib",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "svg",
+        3
+    ],
+    [
+        "Sam Bratton",
+        "bnd",
+        6
+    ],
+    [
+        "Sam Bratton",
+        "xml",
+        4
+    ],
+    [
+        "Sam Bratton",
+        "properties",
+        4
+    ],
+    [
+        "Sam Bratton",
+        "java",
+        12
+    ],
+    [
+        "Petia Sotirova",
+        "bnd",
+        7
+    ],
+    [
+        "Petia Sotirova",
+        "java",
+        18
+    ],
+    [
+        "Evgeni Grigorov",
+        "bnd",
+        4
+    ],
+    [
+        "Evgeni Grigorov",
+        "java",
+        79
+    ],
+    [
+        "Evgeni Grigorov",
+        "classpath",
+        1
+    ],
+    [
+        "Evgeni Grigorov",
+        "project",
+        1
+    ],
+    [
+        "Evgeni Grigorov",
+        "prefs",
+        5
+    ],
+    [
+        "Evgeni Grigorov",
+        "xml",
+        1
+    ],
+    [
+        "Tim Ward",
+        "java",
+        2
+    ],
+    [
+        "Yukio Koike",
+        "bnd",
+        5
+    ],
+    [
+        "Yukio Koike",
+        "java",
+        31
+    ],
+    [
+        "Yukio Koike",
+        "classpath",
+        3
+    ],
+    [
+        "Yukio Koike",
+        "project",
+        3
+    ],
+    [
+        "Yukio Koike",
+        "prefs",
+        3
+    ],
+    [
+        "Yukio Koike",
+        "unknown",
+        3
+    ],
+    [
+        "Jan S. Rellermeyer",
+        "bnd",
+        4
+    ],
+    [
+        "Jan S. Rellermeyer",
+        "java",
+        40
+    ],
+    [
+        "Jan S. Rellermeyer",
+        "classpath",
+        2
+    ],
+    [
+        "Jan S. Rellermeyer",
+        "gitignore",
+        2
+    ],
+    [
+        "Jan S. Rellermeyer",
+        "project",
+        2
+    ],
+    [
+        "Jan S. Rellermeyer",
+        "prefs",
+        2
+    ],
+    [
+        "Jan S. Rellermeyer",
+        "js",
+        1
+    ]
+]

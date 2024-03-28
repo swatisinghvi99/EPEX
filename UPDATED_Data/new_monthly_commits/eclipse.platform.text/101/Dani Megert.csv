@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Thu Sep  3  9:02:15 2009,ReplaceConfigurationPage.java,Dani Megert
+Thu Sep  3  9:02:15 2009,TextSearchPage.java,Dani Megert
+Thu Sep  3  9:02:15 2009,FindReplaceDialog.java,Dani Megert
+Mon Sep 14  9:23:57 2009,FindReplaceDialog.java,Dani Megert
+Mon Sep 14 10:43:34 2009,FindReplaceDialogTest.java,Dani Megert
+Wed Sep 16 14:18:16 2009,SpellingEngineRegistry.java,Dani Megert
+Tue Sep 22  6:55:58 2009,MANIFEST.MF,Dani Megert
+Tue Sep 22  6:55:58 2009,ProjectionAnnotation.java,Dani Megert
+Tue Sep 22  6:55:58 2009,RevisionPainter.java,Dani Megert
+Tue Sep 22  6:55:58 2009,TextViewer.java,Dani Megert
+Thu Sep 24 15:51:44 2009,ProjectionAnnotation.java,Dani Megert
+Fri Sep 25 10:16:37 2009,PopupCloser.java,Dani Megert
+Fri Sep 25 10:29:16 2009,AbstractHoverInformationControlManager.java,Dani Megert
+Fri Sep 25 10:55:58 2009,AnnotationBarHoverManager.java,Dani Megert
+Tue Sep 29 12:51:06 2009,TemplateReaderWriter.java,Dani Megert
+Wed Sep 30  7:29:40 2009,AdditionalInfoController.java,Dani Megert
+Fri Oct  2  8:31:45 2009,FileStoreTextFileBuffer.java,Dani Megert
+Fri Oct  2  8:31:45 2009,ResourceTextFileBuffer.java,Dani Megert
+Fri Oct  2  8:31:45 2009,AdditionalInfoController.java,Dani Megert
+Fri Oct  2  8:31:45 2009,LongQuery.java,Dani Megert
+Fri Oct  2  8:31:45 2009,SearchHistorySelectionDialog.java,Dani Megert
+Fri Oct  2  8:31:45 2009,FileBufferOperationAction.java,Dani Megert
+Fri Oct  2  8:31:45 2009,FileBufferOperationHandler.java,Dani Megert
+Fri Oct  2  8:31:45 2009,AbstractDocumentProvider.java,Dani Megert

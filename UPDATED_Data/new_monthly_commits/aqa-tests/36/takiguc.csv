@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Wed Apr  8 16:21:23 2020,CLDR11-ja-JP.properties,takiguc
+Wed Apr  8 16:21:23 2020,CLDR11-ko-KR.properties,takiguc
+Wed Apr  8 16:21:23 2020,CLDR11-zh-CN.properties,takiguc
+Wed Apr  8 16:21:23 2020,CLDR11-zh-TW.properties,takiguc
+Wed Apr  8 16:21:23 2020,JavaVersion.java,takiguc
+Wed Apr  8 16:21:23 2020,tap_compare.pl,takiguc
+Wed Apr  8 16:21:23 2020,test.bat,takiguc
+Wed Apr  8 16:21:23 2020,test.sh,takiguc
+Wed Apr  8 16:21:23 2020,read_cursor.html,takiguc
+Wed Apr  8 16:21:23 2020,read_event.html,takiguc
+Wed Apr  8 16:21:23 2020,write_cursor.xml,takiguc
+Wed Apr  8 16:21:23 2020,write_event.xml,takiguc
+Wed Apr  8 16:21:23 2020,read_cursor.html,takiguc
+Wed Apr  8 16:21:23 2020,read_event.html,takiguc
+Wed Apr  8 16:21:23 2020,write_cursor.xml,takiguc
+Wed Apr  8 16:21:23 2020,write_event.xml,takiguc
+Wed Apr  8 16:21:23 2020,build.xml,takiguc
+Wed Apr  8 16:21:23 2020,CNTagTest.java,takiguc
+Wed Apr  8 16:21:23 2020,JPTagTest.java,takiguc
+Wed Apr  8 16:21:23 2020,KRTagTest.java,takiguc
+Wed Apr  8 16:21:23 2020,TWTagTest.java,takiguc
+Wed Apr  8 16:21:23 2020,USTagTest.java,takiguc

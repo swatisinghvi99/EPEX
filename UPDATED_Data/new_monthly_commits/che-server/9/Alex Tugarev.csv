@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Wed Oct 26 20:08:05 2016,KeyBinding.java,Alex Tugarev
+Wed Oct 26 20:08:05 2016,KeyBindingAction.java,Alex Tugarev
+Wed Oct 26 20:08:05 2016,TextEditorInit.java,Alex Tugarev
+Wed Oct 26 20:08:05 2016,TextEditorPresenter.java,Alex Tugarev
+Wed Oct 26 20:08:05 2016,Action.java,Alex Tugarev
+Wed Oct 26 20:08:05 2016,ContentAssistWidget.java,Alex Tugarev
+Wed Oct 26 20:08:05 2016,OrionEditorWidget.java,Alex Tugarev
+Wed Oct 26 20:08:05 2016,OrionKeyStrokeOverlay.java,Alex Tugarev
+Wed Oct 26 20:08:05 2016,OrionTextViewOverlay.java,Alex Tugarev

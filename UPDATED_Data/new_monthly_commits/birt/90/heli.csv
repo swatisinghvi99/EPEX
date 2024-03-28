@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Mon Jul  9  8:27:24 2012,LegendBuilder.java,heli
+Wed Jul 11  3:55:00 2012,TextCombo.java,heli
+Wed Jul 11  7:38:34 2012,PieSeriesAttributeComposite.java,heli
+Wed Jul 11  7:38:34 2012,ChartSlider.java,heli
+Fri Jul 13  9:34:44 2012,ChartReportItemImpl.java,heli
+Thu Jul 19  5:37:38 2012,ValueFormatter.java,heli
+Thu Jul 19  5:37:38 2012,AutoScale.java,heli
+Thu Jul 19  6:37:04 2012,ChartValueUpdater.java,heli
+Thu Jul 19  6:37:04 2012,ChartTitleSheetImpl.java,heli
+Fri Jul 20  3:00:02 2012,ValueFormatter.java,heli
+Mon Jul 23  6:46:35 2012,ImageMapEmitter.java,heli
+Mon Jul 23  6:46:35 2012,MultiActionValuesScriptGenerator.java,heli
+Mon Jul 23  6:46:35 2012,ImageActionMenu.js,heli
+Mon Jul 23  6:46:35 2012,ScriptUtil.java,heli
+Mon Jul 23  6:46:35 2012,SVGActionMenu.js,heli
+Mon Jul 23  6:46:35 2012,SVGInteractiveRenderer.java,heli
+Mon Jul 23  6:46:35 2012,LegendItemHints.java,heli
+Mon Jul 23  6:46:35 2012,ScriptMenuHelper.java,heli
+Mon Jul 23  6:46:35 2012,IActionRenderer.java,heli
+Wed Jul 25  6:28:32 2012,AutoScale.java,heli
+Thu Jul 26  8:25:29 2012,ChartElementUtil.java,heli
+Thu Jul 26  8:25:29 2012,ChartExtensionValueUpdater.java,heli

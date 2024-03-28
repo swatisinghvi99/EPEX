@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Tue Mar 29 15:50:43 2016,SignedBundleTest.java,Thomas Watson
+Tue Mar 29 15:50:43 2016,SignatureBlockProcessor.java,Thomas Watson
+Wed Mar 30 19:44:24 2016,ClasspathManager.java,Thomas Watson
+Fri Apr  1 15:37:41 2016,SystemBundleTests.java,Thomas Watson
+Fri Apr  1 15:37:41 2016,SecureAction.java,Thomas Watson
+Fri Apr  1 15:37:41 2016,EquinoxConfiguration.java,Thomas Watson
+Thu Apr  7 20:59:19 2016,.classpath,Thomas Watson
+Thu Apr  7 20:59:19 2016,build.properties,Thomas Watson
+Thu Apr  7 20:59:19 2016,MANIFEST.MF,Thomas Watson
+Thu Apr  7 20:59:19 2016,A1.java,Thomas Watson
+Thu Apr  7 20:59:19 2016,TestLoadA1.java,Thomas Watson
+Thu Apr  7 20:59:19 2016,MANIFEST.MF,Thomas Watson
+Thu Apr  7 20:59:19 2016,B1.java,Thomas Watson
+Thu Apr  7 20:59:19 2016,ClassLoadingBundleTests.java,Thomas Watson
+Thu Apr  7 20:59:19 2016,ModuleClassLoader.java,Thomas Watson
+Fri Apr 22 18:29:42 2016,OldStylePluginTests.java,Thomas Watson

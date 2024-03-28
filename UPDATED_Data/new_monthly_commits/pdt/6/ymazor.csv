@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Mon Oct  9  8:58:16 2006,PHPContentOutlineConfiguration.java,ymazor
+Sun Oct 15 11:16:35 2006,PHPInterpreterPreferencePage.java,ymazor
+Sun Oct 15 14:04:33 2006,NewPHPManualSiteDialog.java,ymazor
+Tue Oct 17 11:50:34 2006,ModelSupport.java,ymazor
+Tue Oct 17 11:50:34 2006,ContentAssistSupport.java,ymazor
+Tue Oct 24  7:27:29 2006,DefaultParserClient.java,ymazor
+Tue Oct 24  7:31:24 2006,PHPStructuredEditor.java,ymazor
+Tue Oct 24  7:31:24 2006,PHPStructuredTextViewer.java,ymazor
+Tue Oct 31  8:54:12 2006,HTMLFormatterNoPHPFactory.java,ymazor

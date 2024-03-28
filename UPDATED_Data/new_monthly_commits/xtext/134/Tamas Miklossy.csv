@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Tue Jun 18 12:53:30 2019,AbstractFoldingTest.xtend,Tamas Miklossy
+Tue Jun 18 12:53:30 2019,AbstractFoldingTest.java,Tamas Miklossy
+Tue Jun 18 12:53:30 2019,FoldingTest.xtend,Tamas Miklossy
+Tue Jun 18 12:53:30 2019,FoldingTest.java,Tamas Miklossy
+Tue Jun 18 12:53:30 2019,FoldingTest.xtend,Tamas Miklossy
+Tue Jun 18 12:53:30 2019,FoldingTest.java,Tamas Miklossy
+Tue Jun 18 12:53:30 2019,StatemachineFoldingTest.xtend,Tamas Miklossy
+Tue Jun 18 12:53:30 2019,StatemachineFoldingTest.java,Tamas Miklossy
+Tue Jun 18 12:53:30 2019,RuleEngineFoldingTest.xtend,Tamas Miklossy
+Tue Jun 18 12:53:30 2019,RuleEngineFoldingTest.java,Tamas Miklossy
+Mon Jun 24 22:56:58 2019,StatemachineFoldingTest.xtend,Tamas Miklossy
+Mon Jun 24 22:56:58 2019,StatemachineFoldingTest.java,Tamas Miklossy
+Mon Jun 24 22:56:58 2019,StatemachineUiModule.xtend,Tamas Miklossy
+Mon Jun 24 22:56:58 2019,StatemachineFoldingRegionProvider.xtend,Tamas Miklossy
+Mon Jun 24 22:56:58 2019,StatemachineUiModule.java,Tamas Miklossy
+Mon Jun 24 22:56:58 2019,StatemachineFoldingRegionProvider.java,Tamas Miklossy
+Tue Jul  2  6:14:51 2019,StatusWidget.xtend,Tamas Miklossy
+Tue Jul  2  6:14:51 2019,StatusWidget.java,Tamas Miklossy
+Sun Jul  7  9:30:22 2019,EmbeddedEditorFactory.java,Tamas Miklossy

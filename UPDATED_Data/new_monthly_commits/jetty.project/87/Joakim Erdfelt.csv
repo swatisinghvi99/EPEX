@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Wed Jun  1 18:58:50 2016,DefaultSessionIdManager.java,Joakim Erdfelt
+Mon Jun  6 14:44:46 2016,MisbehavingClassTest.java,Joakim Erdfelt
+Mon Jun  6 14:44:46 2016,OnPartialTest.java,Joakim Erdfelt
+Mon Jun  6 14:44:46 2016,jetty-logging.properties,Joakim Erdfelt
+Mon Jun  6 14:44:46 2016,RemoteEndpoint.java,Joakim Erdfelt
+Mon Jun  6 14:44:46 2016,RemoteEndpointFactory.java,Joakim Erdfelt
+Mon Jun  6 14:44:46 2016,WebSocketRemoteEndpoint.java,Joakim Erdfelt
+Mon Jun  6 14:44:46 2016,WebSocketSession.java,Joakim Erdfelt
+Mon Jun  6 14:44:46 2016,EventDriverTest.java,Joakim Erdfelt
+Mon Jun  6 14:44:46 2016,CloseableLocalWebSocketSession.java,Joakim Erdfelt
+Mon Jun  6 14:44:46 2016,MessageOutputStreamTest.java,Joakim Erdfelt
+Mon Jun  6 14:44:46 2016,MessageWriterTest.java,Joakim Erdfelt
+Mon Jun  6 14:44:46 2016,WebSocketCloseTest.java,Joakim Erdfelt
+Mon Jun  6 14:44:46 2016,AnnotatedRuntimeOnConnectSocket.java,Joakim Erdfelt
+Mon Jun  6 14:44:46 2016,ListenerRuntimeOnConnectSocket.java,Joakim Erdfelt
+Mon Jun  6 14:44:46 2016,MisbehavingClassTest.java,Joakim Erdfelt
+Fri Jun 10 20:19:51 2016,OneHandler.java,Joakim Erdfelt

@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Fri Nov 26 18:52:13 2021,CodeActionHandler.java,Zijian Pei
+Fri Nov 26 18:52:13 2021,InsertAnnotationAttributesQuickFix.java,Zijian Pei
+Fri Nov 26 18:52:13 2021,RemoveMethodParametersQuickFix.java,Zijian Pei
+Fri Nov 26 18:52:13 2021,RemoveStaticModifierQuickFix.java,Zijian Pei
+Fri Nov 26 18:52:13 2021,AddResourceMissingNameQuickFix.java,Zijian Pei
+Fri Nov 26 18:52:13 2021,AddResourceMissingTypeQuickFix.java,Zijian Pei
+Fri Nov 26 18:52:13 2021,AnnotationDiagnosticsCollector.java,Zijian Pei
+Fri Nov 26 18:52:13 2021,RemovePostConstructAnnotationQuickFix.java,Zijian Pei
+Fri Nov 26 18:52:13 2021,RemovePreDestroyAnnotationQuickFix.java,Zijian Pei
+Fri Nov 26 18:52:13 2021,PreDestroyAnnotationTest.java,Zijian Pei
+Tue Dec 14 15:07:28 2021,PostConstructAnnotation.java,Zijian Pei
+Tue Dec 14 15:07:28 2021,PostConstructAnnotationTest.java,Zijian Pei
+Tue Dec 14 15:07:28 2021,PreDestroyAnnotationTest.java,Zijian Pei
+Tue Dec 14 15:07:28 2021,ResourceAnnotationTest.java,Zijian Pei

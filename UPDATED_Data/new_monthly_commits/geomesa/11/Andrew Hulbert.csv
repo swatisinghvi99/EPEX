@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Mon Dec 22 15:08:21 2014,UsefulFileSource.scala,Andrew Hulbert
+Mon Dec 22 15:08:21 2014,log4j.properties,Andrew Hulbert
+Mon Dec 22 15:08:21 2014,FeatureExporter.scala,Andrew Hulbert
+Mon Dec 22 15:08:21 2014,Utils.scala,Andrew Hulbert
+Mon Dec 22 15:08:21 2014,IngestCommand.scala,Andrew Hulbert
+Mon Dec 22 15:08:21 2014,DelimitedIngest.scala,Andrew Hulbert
+Mon Dec 22 15:08:21 2014,ScaldingDelimitedIngestJob.scala,Andrew Hulbert
+Mon Dec 22 15:08:21 2014,ShpIngest.scala,Andrew Hulbert
+Mon Dec 22 15:08:21 2014,test_list.csv,Andrew Hulbert
+Mon Dec 22 15:08:21 2014,test_list.tsv,Andrew Hulbert
+Mon Dec 22 15:08:21 2014,ScaldingDelimitedIngestJobTest.scala,Andrew Hulbert
+Mon Dec 22 15:08:21 2014,ShpIngestTest.scala,Andrew Hulbert
+Mon Dec 22 15:08:21 2014,Conversions.scala,Andrew Hulbert
+Mon Jan 19 15:54:40 2015,README.md,Andrew Hulbert
+Mon Jan 19 15:54:40 2015,IngestCommand.scala,Andrew Hulbert
+Mon Jan 19 15:54:40 2015,ScaldingDelimitedIngestJob.scala,Andrew Hulbert
+Mon Jan 19 15:54:40 2015,ScaldingDelimitedIngestJobTest.scala,Andrew Hulbert

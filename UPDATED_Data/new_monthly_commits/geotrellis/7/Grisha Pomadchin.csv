@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Mon May 29  8:05:05 2017,Etl.scala,Grisha Pomadchin
+Mon May 29  8:05:05 2017,Ingest.scala,Grisha Pomadchin
+Mon May 29  8:05:05 2017,MultibandIngest.scala,Grisha Pomadchin
+Mon May 29  8:05:05 2017,TileRDDReprojectMethods.scala,Grisha Pomadchin
+Mon May 29  8:05:05 2017,IngestSpec.scala,Grisha Pomadchin
+Wed May 31 22:52:31 2017,Dependencies.scala,Grisha Pomadchin
+Wed May 31 22:52:31 2017,build.sbt,Grisha Pomadchin
+Wed May 31 22:52:31 2017,input-schema.json,Grisha Pomadchin
+Wed May 31 22:52:31 2017,BaseEtlConf.scala,Grisha Pomadchin
+Wed May 31 22:52:31 2017,ConfigParse.scala,Grisha Pomadchin
+Sat Jun 10 10:20:52 2017,build.sbt,Grisha Pomadchin
+Sat Jun 10 10:20:52 2017,Dependencies.scala,Grisha Pomadchin
+Sat Jun 10 10:20:52 2017,Environment.scala,Grisha Pomadchin
+Sat Jun 10 10:20:52 2017,Version.scala,Grisha Pomadchin
+Sat Jun 10 10:20:52 2017,build.sbt,Grisha Pomadchin

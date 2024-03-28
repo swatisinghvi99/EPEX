@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Fri Jul 13  8:57:10 2018,DiagramEditPartService.java,Mathieu Cartaud
+Fri Jul 13  8:57:10 2018,Release_Notes.html,Mathieu Cartaud
+Fri Jul 13  8:57:10 2018,Release_Notes.textile,Mathieu Cartaud
+Fri Jul 13  8:57:10 2018,My.aird,Mathieu Cartaud
+Fri Jul 13  8:57:10 2018,ExportAsImageTest.java,Mathieu Cartaud
+Fri Jul 13  8:57:10 2018,ExportAction.java,Mathieu Cartaud
+Fri Jul 13  8:57:10 2018,AbstractExportRepresentationsAction.java,Mathieu Cartaud
+Wed Aug  1  9:36:50 2018,TimeProfiler2ViewLabelProvider.java,Mathieu Cartaud
+Wed Aug  1  9:36:50 2018,ConditionalContainerStyleDescriptionItemProvider.java,Mathieu Cartaud
+Wed Aug  1  9:36:50 2018,ConditionalEdgeStyleDescriptionItemProvider.java,Mathieu Cartaud
+Wed Aug  1  9:36:50 2018,ConditionalNodeStyleDescriptionItemProvider.java,Mathieu Cartaud
+Wed Aug  1  9:36:50 2018,ContainerMappingItemProvider.java,Mathieu Cartaud
+Wed Aug  1  9:36:50 2018,EdgeMappingImportItemProvider.java,Mathieu Cartaud
+Wed Aug  1  9:36:50 2018,EdgeMappingItemProvider.java,Mathieu Cartaud
+Wed Aug  1  9:36:50 2018,LayerItemProvider.java,Mathieu Cartaud
+Wed Aug  1  9:36:50 2018,NodeMappingItemProvider.java,Mathieu Cartaud
+Wed Aug  1  9:36:50 2018,EdgeStyleDescriptionItemProvider.java,Mathieu Cartaud

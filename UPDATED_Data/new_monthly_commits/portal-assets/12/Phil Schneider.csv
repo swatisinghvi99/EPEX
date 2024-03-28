@@ -1,0 +1,287 @@
+date_time,file,committer_name
+Thu Nov  2 12:32:07 2023,notice-assets.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,.eslintignore,Phil Schneider
+Thu Nov  2 12:32:07 2023,.eslintrc.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,.gitignore,Phil Schneider
+Thu Nov  2 12:32:07 2023,pre-commit,Phil Schneider
+Thu Nov  2 12:32:07 2023,.prettierrc,Phil Schneider
+Thu Nov  2 12:32:07 2023,CHANGELOG.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,CODE_OF_CONDUCT.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,CONTRIBUTING.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,DEPENDENCIES,Phil Schneider
+Thu Nov  2 12:32:07 2023,NOTICE.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,README.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Summary.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Overview Invited Companies.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Login.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Add Company Data.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. Add Additional Users.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. Company Role & Consent.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,05. Document Upload.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,06. Verify Registration Data.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,07. Error Scenarios.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. View Company Application(s).md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. Registration Approval Process.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. Decline Application.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,index.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Summary.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. View Connector.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. Create new Connector Registration.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,05. Self Description.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,06. Delete Connector.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,07. Error Handling.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. FAQ.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. View Preferred Use Cases.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. Add new Use Case.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. Delete Preferred Use Case.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,05. Change Company Role.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,00. Wallet Creation.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Get UseCase Credential.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Other Certificates.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. Credential Admin Board.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Summary.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. My User Account.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. User Account.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Summary.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Password Reset.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. User Permissions.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. Manage user assigned BPN.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,06. Delete User.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,index.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Summary.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. View Technical Users.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. Create Technical User.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. Delete Technical User.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. Reset Credentials.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,05. FAQ.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Summary.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Assign App Role Page Overview.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. Assign App Role.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. App Overview.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. App Details.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. App Favorites.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. My Business Apps.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. Delete App.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,App Release Process.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. App Approval Board Overview.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. App Details.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. Approve App Release.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. Decline App Release.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. App Board.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Subscription Flow.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01.App Subscription Request Management.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. App Subscription Activation (Provider).md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Summary.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Change App Lead Image.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. App Instance Url.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. Change App Description.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. App Deactivation.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,05. App Instance Url.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,06. App Role Change.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Service Change.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Service Marketplace.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Service Details.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Service Card.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Service Detail Page.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Service Publish Approval.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03.Terms&Conditions.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04.Technical Integration.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,05.Verify & Submit.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,index.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Service Approval Board Overview.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Service Details.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. Approve Service Release.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. Decline Service Release.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Service Subscription.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Service Subscription Activation (Provider).md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. App Board.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Summary.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Service Deactivation.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Architecture Constraints.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Building block view.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Context and scope.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Development Concept.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Requirements.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Solution strategy.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Whitebox Overall System.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,operational-concept.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,App - DB - View.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Data Management.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Documents - DB - View.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Dev-flow_deploy-dev-env.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Enumeration Handling.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Multi Language.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Run frontend on localhost.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Shared Components.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,00. External Identity Provider.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Introduction.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Generic Setup.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. Clients.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. User Management.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. Authentication Configuration.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,05. Roles & Rights Concept.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,06. Password Policy.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,07. Email Configuration.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,08. Event Logging.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,09. Generic Security.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,10. FAQ.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,11. Upgrade Details.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,BPDM (2).md,Phil Schneider
+Thu Nov  2 12:32:07 2023,BPDM.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,CX-Membership.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Clearinghouse.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Dataspace-Discovery.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Managed Wallets.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Offer-Autosetup.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Self Description.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Auditing.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Release-Process.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Tests.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Document Management.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Email Templates.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,"Images, Graphics and Diagrams.md",Phil Schneider
+Thu Nov  2 12:32:07 2023,Notifications.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Summary.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Access Token Retrieval.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. InterfacePartnerHealthCheck.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. PortalHealthCheck.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,05. RegistrationScenarios.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,06. NotificiationInitScenario.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,07. ServiceAccountCUDScenarios.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,08. TestDataFileSetup.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,09. CreateAppScenario.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,10. ReportPortal.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,portal-upgrade-details.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Summary.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. FAQ.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Login.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Add Company Data.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,07. FAQ.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,index.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. View Company Application(s).md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. Registration Approval Process.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. Decline Application.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,index.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,index.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,00. Summary.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Connector Overview.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Connector Registration.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,06. OpenAPI.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,07. FAQ.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,08. Policy Management.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Configure Company IdP.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Open API.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Open API.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Change Company Role.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Summary.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. Create new user account (single).md,Phil Schneider
+Thu Nov  2 12:32:07 2023,05. FAQ.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,index.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Summary.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Password Reset.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. Manage user assigned BPN.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,06. Delete User.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,index.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Technical User Overview.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Create Technical User.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. Delete Technical User.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. FAQ.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,index.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Assign User App Role(s).md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. FAQ.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,index.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,index.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. App Overview.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. App Details.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. App Favorites.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. My Business Apps.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,05. FAQ.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. App Card.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. App Detail Page.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04.Technical Integration.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,05.Verify & Submit.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,App-Design_guidelines.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,App-Release_guidelines.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,index.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. App Approval Board.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. App Board.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. Subscription Overview (App Provider).md,Phil Schneider
+Thu Nov  2 12:32:07 2023,05. FAQ.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Summary.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. App Deactivation.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,06. Change App RolesL.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Open API.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,index.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Service Marketplace.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Service Details.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Service Card.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Service Detail Page.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03.Terms&Conditions.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,05.Verify & Submit.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,06. FAQ.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,index.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Service Approval Board.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,04. Service Subscription Activation (Provider).md,Phil Schneider
+Thu Nov  2 12:32:07 2023,05. FAQ.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Summary.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Service Deactivation.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. UseCase Participation.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,02. Other Certificates.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,03. Credential Admin Board.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,index.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,01. Overview.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,Static_Page_Template.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,button load more.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,button.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,date picker.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,drop down.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,dropzone.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,input field.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,loading.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,scrollbar.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,searchbar.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,toast message.md,Phil Schneider
+Thu Nov  2 12:32:07 2023,package.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,companyRoleChange.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,dataspace.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,roledescription.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,usecase.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,companyRoleChange.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,dataspace.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,roledescription.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,usecase.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,traceability_datamodels(de).svg,Phil Schneider
+Thu Nov  2 12:32:07 2023,traceability_datamodels(en).svg,Phil Schneider
+Thu Nov  2 12:32:07 2023,traceability_datamodels1(de).svg,Phil Schneider
+Thu Nov  2 12:32:07 2023,traceability_datamodels1(de).svg.license,Phil Schneider
+Thu Nov  2 12:32:07 2023,traceability_datamodels1(en).svg,Phil Schneider
+Thu Nov  2 12:32:07 2023,traceability_datamodels1(en).svg.license,Phil Schneider
+Thu Nov  2 12:32:07 2023,traceability_quality(de).png.license,Phil Schneider
+Thu Nov  2 12:32:07 2023,traceability_quality(en).png.license,Phil Schneider
+Thu Nov  2 12:32:07 2023,Chapter.css,Phil Schneider
+Thu Nov  2 12:32:07 2023,Main.css,Phil Schneider
+Thu Nov  2 12:32:07 2023,docs.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,docs.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,docs.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,docs.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,docs.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,developer.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,docs.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,developer.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,docs.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,developer.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,docs.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,developer.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,docs.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,developer.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,docs.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,Releases.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,developer.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,docs.json,Phil Schneider
+Thu Nov  2 12:32:07 2023,Main.js,Phil Schneider
+Thu Nov  2 12:32:07 2023,Settings.js,Phil Schneider
+Thu Nov  2 12:32:07 2023,State.js,Phil Schneider
+Thu Nov  2 12:32:07 2023,Toolkit.js,Phil Schneider
+Thu Nov  2 12:32:07 2023,Release.js,Phil Schneider
+Thu Nov  2 12:32:07 2023,https-proxy-get.js,Phil Schneider
+Thu Nov  2 12:32:07 2023,yarn.lock,Phil Schneider

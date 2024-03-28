@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Wed Oct 31 23:36:47 2007,UiUsageMonitorPlugin.java,mkersten
+Wed Oct 31 23:36:47 2007,SharedTaskFolderTest.java,mkersten
+Wed Oct 31 23:36:47 2007,ActiveSearchViewTracker.java,mkersten
+Wed Oct 31 23:36:47 2007,SandboxUiPlugin.java,mkersten
+Sat Nov  3  0:58:18 2007,UsageEditorPart.java,mkersten
+Tue Nov  6 17:26:13 2007,WebContentProposalProvider.java,mkersten
+Wed Nov  7  0:52:12 2007,MANIFEST.MF,mkersten
+Wed Nov  7  0:52:12 2007,plugin.xml,mkersten
+Wed Nov  7  0:52:12 2007,InterestDecrementAction.java,mkersten
+Thu Nov  8  1:53:32 2007,MANIFEST.MF,mkersten
+Thu Nov  8  1:53:32 2007,plugin.xml,mkersten
+Thu Nov  8  1:53:32 2007,SpyPlugin.java,mkersten
+Thu Nov  8  1:53:32 2007,AbstractTaskCategoryPropertySource.java,mkersten
+Thu Nov  8  1:53:32 2007,AbstractTaskPropertiesSource.java,mkersten
+Thu Nov  8  1:53:32 2007,MylynPropertiesSourceAdapterFactory.java,mkersten
+Thu Nov  8  1:53:32 2007,RepositoryQueryPropertySource.java,mkersten
+Thu Nov  8  1:53:32 2007,TaskRepositoryPropertiesSource.java,mkersten
+Thu Nov  8  1:53:32 2007,RepositorySpyView.java,mkersten
+Thu Nov  8 23:22:05 2007,plugin.xml,mkersten
+Thu Nov  8 23:22:05 2007,MylynDevPlugin.java,mkersten
+Thu Nov  8 23:22:05 2007,AbstractTaskCategoryPropertySource.java,mkersten
+Thu Nov  8 23:22:05 2007,AbstractTaskPropertiesSource.java,mkersten
+Thu Nov  8 23:22:05 2007,MylynPropertiesSourceAdapterFactory.java,mkersten
+Thu Nov  8 23:22:05 2007,RepositoryQueryPropertySource.java,mkersten
+Thu Nov  8 23:22:05 2007,TaskRepositoryPropertiesSource.java,mkersten
+Thu Nov  8 23:22:05 2007,RepositorySpyView.java,mkersten

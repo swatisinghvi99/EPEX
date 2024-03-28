@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Thu Aug 17  9:43:37 2017,CookieGenerator.java,Simon Bernard
+Thu Aug 17  9:43:37 2017,DTLSConnector.java,Simon Bernard
+Thu Aug 17 15:52:25 2017,CookieGenerator.java,Simon Bernard
+Thu Aug 17 15:52:25 2017,DTLSConnector.java,Simon Bernard
+Tue Aug 22 15:21:53 2017,ExampleDTLSClient.java,Simon Bernard
+Tue Sep  5 12:55:01 2017,Record.java,Simon Bernard
+Tue Sep  5 12:55:02 2017,CoapEndpoint.java,Simon Bernard
+Thu Sep 14  9:24:33 2017,ObserveClientSideTest.java,Simon Bernard
+Thu Sep 14  9:50:42 2017,Block2BlockwiseStatus.java,Simon Bernard
+Thu Sep 14  9:50:42 2017,BlockwiseLayer.java,Simon Bernard
+Thu Sep 14  9:50:47 2017,BlockwiseServerSideTest.java,Simon Bernard
+Thu Sep 14  9:50:50 2017,BlockwiseLayer.java,Simon Bernard

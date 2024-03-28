@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Wed Mar  1  4:21:34 2017,MANIFEST.MF,Andreas Loth
+Wed Mar  1  4:21:34 2017,AutomatedSuite.java,Andreas Loth
+Wed Mar  1  4:21:34 2017,ConsoleManagerTests.java,Andreas Loth
+Wed Mar  1  4:21:34 2017,ConsoleTests.java,Andreas Loth
+Wed Mar  1  4:21:34 2017,TestHelper.java,Andreas Loth
+Wed Mar  1  4:21:34 2017,IOConsole.java,Andreas Loth
+Wed Mar  1  4:21:34 2017,IOConsoleOutputStream.java,Andreas Loth
+Wed Mar  1  4:21:34 2017,MessageConsole.java,Andreas Loth
+Wed Mar  1  4:21:34 2017,MessageConsoleStream.java,Andreas Loth
+Wed Mar  1  4:21:34 2017,StreamDecoder.java,Andreas Loth
+Thu Mar  2  4:53:48 2017,ConsoleTests.java,Andreas Loth
+Thu Mar  2  4:53:48 2017,IOConsoleOutputStream.java,Andreas Loth
+Mon Mar 13  5:50:04 2017,ConsoleTests.java,Andreas Loth
+Mon Mar 13  5:50:04 2017,IOConsoleOutputStream.java,Andreas Loth

@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Thu Oct 30 17:06:32 2014,DepthFirstNextTransition.java,András Szabolcs Nagy
+Mon Nov 17 18:11:36 2014,ExplorerThread.java,András Szabolcs Nagy
+Mon Nov 17 18:11:36 2014,Strategy.java,András Szabolcs Nagy
+Mon Nov 17 18:11:36 2014,BreadthFirstNextTransition.java,András Szabolcs Nagy
+Mon Nov 17 18:11:36 2014,DepthFirstNextTransition.java,András Szabolcs Nagy
+Mon Nov 17 18:11:36 2014,FixedPriorityNextTransition.java,András Szabolcs Nagy
+Mon Nov 17 18:11:36 2014,ParallelBFSNextTransition.java,András Szabolcs Nagy
+Mon Nov 17 18:11:36 2014,PetriGuidedNextTransition.java,András Szabolcs Nagy
+Mon Nov 17 18:11:36 2014,RandomSearchStrategy.java,András Szabolcs Nagy
+Mon Nov 17 18:11:36 2014,INextTransition.java,András Szabolcs Nagy
+Mon Nov 17 18:11:36 2014,InstanceGeneticStrategy.java,András Szabolcs Nagy
+Mon Nov 17 18:11:36 2014,MainGeneticStrategy.java,András Szabolcs Nagy
+Mon Nov 17 18:11:36 2014,BFSSelector.java,András Szabolcs Nagy
+Mon Nov 17 18:11:36 2014,FixedPrioritySelector.java,András Szabolcs Nagy

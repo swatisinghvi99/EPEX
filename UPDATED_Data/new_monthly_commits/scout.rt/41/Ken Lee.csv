@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Tue May  7 11:40:37 2013,JActivityMapHeader.java,Ken Lee
+Tue May  7 11:40:37 2013,JActivityMapHeaderValidator.java,Ken Lee
+Tue May 14 15:42:24 2013,JActivityMapHeaderValidatorTest.java,Ken Lee
+Tue May 14 15:42:24 2013,JActivityMapHeaderValidator.java,Ken Lee
+Tue May 21 10:03:43 2013,AbstractRowSummaryColumn.java,Ken Lee
+Tue May 21 11:36:38 2013,AbstractMobileStandaloneRwtEnvironment.java,Ken Lee
+Tue May 21 11:36:38 2013,TouchScrollingPatch.java,Ken Lee
+Tue May 21 11:36:38 2013,TouchScrollingPatch.js,Ken Lee
+Fri May 24 12:32:38 2013,StringFieldFactory.java,Ken Lee
+Fri May 24 14:22:47 2013,AbstractTable.java,Ken Lee
+Mon May 27 10:25:02 2013,ImapAdapter.java,Ken Lee
+Mon Jun  3  9:47:55 2013,SwingPopupWorker.java,Ken Lee
+Mon Jun  3  9:47:55 2013,SwingScoutTable.java,Ken Lee
+Mon Jun  3  9:47:55 2013,SwingScoutTree.java,Ken Lee
+Tue Jun  4 17:27:42 2013,AbstractSwtEnvironment.java,Ken Lee
+Wed Jun  5 11:30:18 2013,AbstractTable.java,Ken Lee
+Wed Jun  5 11:30:18 2013,AbstractColumn.java,Ken Lee
+Wed Jun  5 12:39:48 2013,AbstractSwtEnvironment.java,Ken Lee

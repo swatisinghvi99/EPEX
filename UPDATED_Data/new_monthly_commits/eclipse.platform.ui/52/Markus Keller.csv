@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Thu Aug 18 13:45:10 2005,ParticipantExtensionPoint.java,Markus Keller
+Thu Aug 18 13:45:10 2005,BufferValidationState.java,Markus Keller
+Thu Aug 18 13:45:10 2005,RefactoringCorePlugin.java,Markus Keller
+Thu Aug 18 13:45:10 2005,ErrorWizardPage.java,Markus Keller
+Thu Aug 18 13:45:10 2005,PreviewWizardPage.java,Markus Keller
+Thu Aug 18 13:45:10 2005,RefactoringStatusDialog.java,Markus Keller
+Thu Aug 18 13:45:10 2005,ValidationCheckResultQuery.java,Markus Keller
+Thu Aug 18 13:45:10 2005,RedoRefactoringAction.java,Markus Keller
+Thu Aug 18 13:45:10 2005,UndoRefactoringAction.java,Markus Keller
+Thu Aug 25 13:38:53 2005,GroupCategory.java,Markus Keller
+Thu Aug 25 15:47:49 2005,RefactoringProcessor.java,Markus Keller

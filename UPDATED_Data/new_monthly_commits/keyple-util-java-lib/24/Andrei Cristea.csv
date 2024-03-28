@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Fri Sep 30 12:48:00 2022,CHANGELOG.md,Andrei Cristea
+Fri Sep 30 12:48:00 2022,gradle.properties,Andrei Cristea
+Fri Sep 30 12:48:00 2022,CalendarJsonAdapter.java,Andrei Cristea
+Fri Sep 30 12:48:00 2022,DateJsonSerializer.java,Andrei Cristea
+Fri Sep 30 12:48:00 2022,JsonUtil.java,Andrei Cristea
+Fri Sep 30 12:48:00 2022,api_class_diagram.puml,Andrei Cristea
+Fri Sep 30 12:48:00 2022,api_class_diagram.svg,Andrei Cristea
+Fri Sep 30 12:48:00 2022,BodyErrorJsonDeserializerTest.java,Andrei Cristea
+Fri Sep 30 12:48:00 2022,ByteArrayJsonAdapterTest.java,Andrei Cristea
+Fri Sep 30 12:48:00 2022,ByteJsonAdapterTest.java,Andrei Cristea
+Fri Sep 30 12:48:00 2022,CalendarJsonAdapterTest.java,Andrei Cristea
+Fri Sep 30 12:48:00 2022,DateJsonSerializerTest.java,Andrei Cristea
+Fri Sep 30 12:48:00 2022,IntegerJsonAdapterTest.java,Andrei Cristea
+Fri Sep 30 12:48:00 2022,LongJsonAdapterTest.java,Andrei Cristea
+Fri Sep 30 12:48:00 2022,ShortJsonAdapterTest.java,Andrei Cristea

@@ -1,0 +1,44 @@
+date_time,file,committer_name
+Wed Sep 21 15:56:24 2016,feature.xml,Jens Reimann
+Wed Sep 21 15:56:24 2016,configuration.properties,Jens Reimann
+Wed Sep 21 15:56:24 2016,org.eclipse.scada.releng.p2.to.maven.app (prod).launch,Jens Reimann
+Wed Sep 21 15:56:24 2016,org.eclipse.scada.releng.p2.to.maven.app.launch,Jens Reimann
+Wed Sep 21 15:56:24 2016,.classpath,Jens Reimann
+Wed Sep 21 15:56:24 2016,org.eclipse.jdt.core.prefs,Jens Reimann
+Wed Sep 21 15:56:24 2016,MANIFEST.MF,Jens Reimann
+Wed Sep 21 15:56:24 2016,p2tom2.product,Jens Reimann
+Wed Sep 21 15:56:24 2016,Application.java,Jens Reimann
+Wed Sep 21 15:56:24 2016,DefaultMavenMapping.java,Jens Reimann
+Wed Sep 21 15:56:24 2016,MavenDependency.java,Jens Reimann
+Wed Sep 21 15:56:24 2016,MavenReference.java,Jens Reimann
+Wed Sep 21 15:56:24 2016,Processor.java,Jens Reimann
+Wed Sep 21 16:09:04 2016,org.eclipse.scada.releng.p2.to.maven.app (prod).launch,Jens Reimann
+Wed Sep 21 16:09:04 2016,Processor.java,Jens Reimann
+Wed Sep 21 16:23:15 2016,DefaultMavenMapping.java,Jens Reimann
+Thu Sep 22 14:54:02 2016,p2tom2.properties,Jens Reimann
+Thu Sep 22 14:54:02 2016,org.eclipse.scada.releng.p2.to.maven.app (prod).launch,Jens Reimann
+Thu Sep 22 14:54:02 2016,Application.java,Jens Reimann
+Thu Sep 22 14:54:02 2016,MavenReference.java,Jens Reimann
+Thu Sep 22 14:54:02 2016,Processor.java,Jens Reimann
+Thu Sep 22 15:17:56 2016,DefaultMavenMapping.java,Jens Reimann
+Fri Sep 23  8:56:00 2016,feature.xml,Jens Reimann
+Fri Sep 23  8:56:00 2016,MANIFEST.MF,Jens Reimann
+Fri Sep 23  8:56:00 2016,p2tom2.product,Jens Reimann
+Fri Sep 23  8:56:00 2016,Processor.java,Jens Reimann
+Fri Sep 23  8:56:00 2016,.gitignore,Jens Reimann
+Fri Sep 23  9:00:19 2016,feature.xml,Jens Reimann
+Fri Sep 23  9:00:19 2016,MANIFEST.MF,Jens Reimann
+Fri Sep 23  9:00:19 2016,p2tom2.product,Jens Reimann
+Fri Sep 23  9:00:19 2016,Processor.java,Jens Reimann
+Fri Sep 23  9:14:50 2016,p2.ant,Jens Reimann
+Fri Sep 23  9:14:50 2016,feature.xml,Jens Reimann
+Fri Sep 23  9:14:50 2016,MANIFEST.MF,Jens Reimann
+Fri Sep 23  9:14:50 2016,p2tom2.product,Jens Reimann
+Fri Sep 23  9:14:50 2016,Processor.java,Jens Reimann
+Fri Sep 23  9:14:50 2016,build.ant,Jens Reimann
+Tue Sep 27  8:40:32 2016,p2.ant,Jens Reimann
+Tue Sep 27  8:40:32 2016,feature.xml,Jens Reimann
+Tue Sep 27  8:40:32 2016,MANIFEST.MF,Jens Reimann
+Tue Sep 27  8:40:32 2016,p2tom2.product,Jens Reimann
+Tue Sep 27  8:40:32 2016,Processor.java,Jens Reimann
+Tue Sep 27  8:40:32 2016,build.ant,Jens Reimann

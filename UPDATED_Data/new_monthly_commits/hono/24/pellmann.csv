@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Wed Jan 24 10:53:14 2018,AbstractConsumer.java,pellmann
+Wed Jan 24 10:53:14 2018,AbstractHonoClient.java,pellmann
+Wed Jan 24 10:53:14 2018,EventConsumerImpl.java,pellmann
+Wed Jan 24 10:53:14 2018,TelemetryConsumerImpl.java,pellmann
+Wed Jan 24 11:12:23 2018,AbstractHonoClient.java,pellmann
+Thu Feb  8 13:47:25 2018,HonoClient.java,pellmann
+Thu Feb  8 13:47:25 2018,AbstractHonoClient.java,pellmann
+Thu Feb  8 13:47:25 2018,EventConsumerImpl.java,pellmann
+Thu Feb  8 13:47:25 2018,HonoClientImpl.java,pellmann
+Thu Feb  8 13:47:25 2018,TelemetryConsumerImpl.java,pellmann
+Thu Feb  8 13:47:25 2018,EventConsumerImplTest.java,pellmann
+Thu Feb  8 13:47:25 2018,HonoClientImplTest.java,pellmann
+Thu Feb  8 13:47:25 2018,ExampleReceiver.java,pellmann
+Thu Feb  8 13:47:25 2018,HonoConsumerBase.java,pellmann
+Thu Feb  8 13:47:25 2018,HonoReceiver.java,pellmann
+Thu Feb  8 13:47:25 2018,ForwardingDownstreamAdapter.java,pellmann
+Thu Feb  8 13:47:25 2018,SenderFactory.java,pellmann
+Thu Feb  8 13:47:25 2018,SenderFactoryImpl.java,pellmann
+Thu Feb  8 13:47:25 2018,TestSupport.java,pellmann
+Thu Feb  8 13:47:25 2018,ForwardingDownstreamAdapterTest.java,pellmann
+Thu Feb  8 13:47:25 2018,DeviceEventClientIT.java,pellmann
+Thu Feb  8 13:47:25 2018,DeviceTelemetryClientIT.java,pellmann
+Thu Feb  8 13:47:25 2018,EventClientIT.java,pellmann
+Thu Feb  8 13:47:25 2018,TelemetryClientIT.java,pellmann

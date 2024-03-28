@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Tue Dec 20 11:33:10 2022,.env.docker,Jan Paul Buchwald
+Tue Dec 20 11:33:10 2022,.env.example,Jan Paul Buchwald
+Tue Dec 20 11:33:10 2022,EnvironmentTestSetup.kt,Jan Paul Buchwald
+Wed Dec 21 20:26:35 2022,SelfManagedWallets.md,Jan Paul Buchwald
+Wed Dec 21 20:26:35 2022,Managed_Identity_Wallet.postman_collection.json,Jan Paul Buchwald
+Wed Dec 21 20:26:35 2022,Managed_Identity_Wallet_Local.postman_environment.json,Jan Paul Buchwald
+Wed Dec 21 20:26:35 2022,WalletsTest.kt,Jan Paul Buchwald

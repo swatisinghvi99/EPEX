@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Wed Aug 19 15:46:50 2020,.classpath,David Bosschaert
+Wed Aug 19 15:46:50 2020,.project,David Bosschaert
+Wed Aug 19 15:46:50 2020,org.eclipse.core.resources.prefs,David Bosschaert
+Wed Aug 19 15:46:50 2020,org.eclipse.core.runtime.prefs,David Bosschaert
+Wed Aug 19 15:46:50 2020,org.eclipse.jdt.core.prefs,David Bosschaert
+Wed Aug 19 15:46:50 2020,org.eclipse.jdt.ui.prefs,David Bosschaert
+Wed Aug 19 15:46:50 2020,bnd.bnd,David Bosschaert
+Wed Aug 19 15:46:50 2020,BuilderFactory.java,David Bosschaert
+Wed Aug 19 15:46:50 2020,ConflictResolver.java,David Bosschaert
+Wed Aug 19 15:46:50 2020,Feature.java,David Bosschaert
+Wed Aug 19 15:46:50 2020,FeatureArtifact.java,David Bosschaert
+Wed Aug 19 15:46:50 2020,FeatureBuilder.java,David Bosschaert
+Wed Aug 19 15:46:50 2020,FeatureBundle.java,David Bosschaert
+Wed Aug 19 15:46:50 2020,FeatureBundleBuilder.java,David Bosschaert
+Wed Aug 19 15:46:50 2020,FeatureConfiguration.java,David Bosschaert
+Wed Aug 19 15:46:50 2020,FeatureConfigurationBuilder.java,David Bosschaert
+Wed Aug 19 15:46:50 2020,FeatureExtension.java,David Bosschaert
+Wed Aug 19 15:46:50 2020,FeatureExtensionBuilder.java,David Bosschaert
+Wed Aug 19 15:46:50 2020,Features.java,David Bosschaert
+Wed Aug 19 15:46:50 2020,ID.java,David Bosschaert
+Wed Aug 19 15:46:50 2020,MergeContext.java,David Bosschaert
+Wed Aug 19 15:46:50 2020,MergeContextBuilder.java,David Bosschaert
+Wed Aug 19 15:46:50 2020,package-info.java,David Bosschaert
+Wed Aug 19 15:46:50 2020,util.features.xml,David Bosschaert
+Wed Aug 19 15:46:50 2020,book.xml,David Bosschaert

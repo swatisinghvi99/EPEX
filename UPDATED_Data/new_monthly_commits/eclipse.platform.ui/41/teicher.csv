@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Tue Sep 14 16:49:41 2004,CursorLinePainter.java,teicher
+Tue Sep 14 16:49:41 2004,InsertLineAction.java,teicher
+Wed Sep 15 15:27:23 2004,DocumentTemplateContext.java,teicher
+Thu Sep 16 17:29:13 2004,CompletionProposalPopup2.java,teicher
+Thu Sep 16 17:29:13 2004,IEditorHelper.java,teicher
+Thu Sep 16 17:29:13 2004,IEditorHelperRegistry.java,teicher
+Thu Sep 16 17:29:13 2004,TextViewer.java,teicher
+Thu Sep 16 17:29:13 2004,CompletionProposalPopup.java,teicher
+Thu Sep 16 17:29:13 2004,LinkedModeUI.java,teicher
+Thu Sep 16 17:29:13 2004,LinkedModeModel.java,teicher
+Thu Sep 16 17:29:13 2004,LinkedPositionGroup.java,teicher
+Fri Sep 17  9:27:17 2004,LinkedModeModelTest.java,teicher
+Fri Sep 17  9:27:17 2004,LinkedModeModel.java,teicher
+Fri Sep 17  9:32:59 2004,LinkedModeModelTest.java,teicher
+Tue Sep 21 16:49:01 2004,LinkedModeUI.java,teicher
+Wed Sep 22 16:12:01 2004,CompletionProposalPopup.java,teicher
+Wed Sep 22 16:12:01 2004,LinkedModeUI.java,teicher
+Thu Sep 23 13:24:41 2004,TemplateReaderWriter.java,teicher
+Thu Sep 23 13:25:25 2004,TemplateReaderWriter.java,teicher
+Thu Sep 23 14:23:45 2004,TemplateCompletionProcessor.java,teicher
+Fri Sep 24 15:03:47 2004,LinkedPositionGroup.java,teicher
+Mon Sep 27 13:07:46 2004,LinkedModeUI.java,teicher
+Mon Sep 27 13:07:46 2004,LinkedModeModel.java,teicher

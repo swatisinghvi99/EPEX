@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Wed Oct  1 19:31:15 2014,CtfCoreTestPlugin.java,Marc-Andre Laperle
+Wed Oct  1 19:31:15 2014,TmfTraceManager.java,Marc-Andre Laperle
+Thu Oct  9 14:10:22 2014,CallStackPresentationProvider.java,Marc-Andre Laperle
+Tue Oct 14 20:36:31 2014,SDView.java,Marc-Andre Laperle
+Tue Oct 14 20:36:31 2014,Zoom.java,Marc-Andre Laperle
+Tue Oct 14 20:37:13 2014,ResourcesPresentationProvider.java,Marc-Andre Laperle
+Tue Oct 14 20:37:13 2014,Utils.java,Marc-Andre Laperle
+Fri Oct 17 19:25:43 2014,TmfTraceElement.java,Marc-Andre Laperle
+Wed Oct 22 20:51:33 2014,TraceControlTestFacility.java,Marc-Andre Laperle
+Wed Oct 22 20:51:33 2014,OpenAction.java,Marc-Andre Laperle
+Wed Oct 22 20:51:33 2014,TmfEventsTable.java,Marc-Andre Laperle
+Wed Oct 22 20:51:33 2014,SDWidget.java,Marc-Andre Laperle
+Wed Oct 22 20:51:33 2014,KeyBindingsManager.java,Marc-Andre Laperle
+Thu Oct 23 21:50:16 2014,PcapTestTrace.java,Marc-Andre Laperle
+Thu Oct 23 23:02:52 2014,PcapPacketTest.java,Marc-Andre Laperle
+Mon Oct 27 20:53:47 2014,SessionInfo.java,Marc-Andre Laperle
+Mon Oct 27 20:53:47 2014,LttngRelaydConsumer.java,Marc-Andre Laperle
+Mon Oct 27 20:53:47 2014,CreateSessionDialog.java,Marc-Andre Laperle
+Mon Oct 27 20:53:47 2014,ImportHandler.java,Marc-Andre Laperle
+Mon Oct 27 20:53:47 2014,TraceSessionComponent.java,Marc-Andre Laperle
+Mon Oct 27 20:53:47 2014,LTTngControlService.java,Marc-Andre Laperle
+Mon Oct 27 20:53:47 2014,LTTngControlServiceConstants.java,Marc-Andre Laperle
+Mon Oct 27 22:10:05 2014,TmfStateSystemAnalysisModule.java,Marc-Andre Laperle
+Mon Oct 27 22:10:05 2014,TmfStatisticsViewer.java,Marc-Andre Laperle

@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Fri Jul 16 12:21:05 2021,pom.xml,lgoubet
+Fri Jul 16 12:21:05 2021,2021-06-sdk.target,lgoubet
+Fri Jul 16 12:21:05 2021,2021-06-sdk.tpd,lgoubet
+Fri Jul 16 12:21:05 2021,2021-06-extras-sdk.target,lgoubet
+Fri Jul 16 12:21:05 2021,2021-06-extras-sdk.tpd,lgoubet
+Fri Jul 16 12:21:05 2021,MANIFEST.MF,lgoubet
+Fri Jul 16 12:21:05 2021,ModelMergeToolActionHandler.java,lgoubet
+Fri Jul 16 12:21:05 2021,ModelGitMergeEditorInput.java,lgoubet
+Fri Jul 16 12:21:05 2021,DirCacheResourceVariantTreeProvider.java,lgoubet
+Fri Jul 16 12:21:05 2021,GitResourceVariantTreeProvider.java,lgoubet
+Fri Jul 16 12:21:05 2021,GitSyncInfoToDiffConverter.java,lgoubet
+Fri Jul 16 12:21:05 2021,TreeWalkResourceVariantTreeProvider.java,lgoubet
+Fri Jul 16 12:21:05 2021,IndexBlobStorage.java,lgoubet
+Fri Jul 16 12:21:05 2021,AbstractGitOperationStatement.java,lgoubet
+Fri Jul 16 12:21:05 2021,InternalGitTestSupport.java,lgoubet
+Fri Jul 16 12:21:05 2021,CompareGitTestCase.java,lgoubet
+Fri Jul 16 12:21:05 2021,GitTestRepository.java,lgoubet
+Fri Jul 16 12:21:05 2021,RemoteNewProjectTests.java,lgoubet
+Fri Jul 16 12:21:05 2021,GitTests.java,lgoubet
+Fri Jul 16 12:21:06 2021,EMFCompareStructureMergeViewer.java,lgoubet
+Fri Jul 16 12:21:06 2021,EMFModelProvider.java,lgoubet
+Mon Jul 19 14:29:54 2021,AbstractSiriusTest.java,lgoubet
+Mon Jul 19 14:29:54 2021,plugin.xml,lgoubet
+Tue Jul 20 12:25:23 2021,ThreadedModelResolver.java,lgoubet

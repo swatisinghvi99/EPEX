@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Wed May 26  7:45:31 2021,ClassParser.java,David Král
+Wed May 26  7:45:31 2021,PropertyMismatchTest.java,David Král
+Wed May 26  7:59:22 2021,DefaultSerializers.java,David Král
+Wed May 26  7:59:22 2021,MonthDayTypeDeserializer.java,David Král
+Wed May 26  7:59:22 2021,MonthDayTypeSerializer.java,David Král
+Wed May 26  7:59:22 2021,YearMonthTypeDeserializer.java,David Král
+Wed May 26  7:59:22 2021,YearMonthTypeSerializer.java,David Král
+Wed May 26  7:59:22 2021,DatesTest.java,David Král
+Wed May 26  7:59:22 2021,MonthDayPojo.java,David Král
+Wed May 26  7:59:22 2021,YearMonthPojo.java,David Král

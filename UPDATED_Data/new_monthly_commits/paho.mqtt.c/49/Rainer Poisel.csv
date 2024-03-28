@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Wed Mar 30 14:02:15 2016,.gitignore,Rainer Poisel
+Wed Mar 30 14:02:15 2016,CMakeLists.txt,Rainer Poisel
+Wed Mar 30 14:02:15 2016,Makefile,Rainer Poisel
+Wed Mar 30 14:02:15 2016,README.md,Rainer Poisel
+Wed Mar 30 14:02:15 2016,toolchain.linux-arm11.cmake,Rainer Poisel
+Wed Mar 30 14:02:15 2016,toolchain.win32.cmake,Rainer Poisel
+Wed Mar 30 14:02:15 2016,toolchain.win64.cmake,Rainer Poisel
+Wed Mar 30 14:02:15 2016,CMakeLists.txt,Rainer Poisel
+Wed Mar 30 14:02:15 2016,DoxyfileV3AsyncAPI.in,Rainer Poisel
+Wed Mar 30 14:02:15 2016,DoxyfileV3ClientAPI.in,Rainer Poisel
+Wed Mar 30 14:02:15 2016,DoxyfileV3ClientInternal.in,Rainer Poisel
+Wed Mar 30 14:02:15 2016,CMakeLists.txt,Rainer Poisel
+Wed Mar 30 14:02:15 2016,MQTTAsync.c,Rainer Poisel
+Wed Mar 30 14:02:15 2016,MQTTClient.c,Rainer Poisel
+Wed Mar 30 14:02:15 2016,VersionInfo.h.in,Rainer Poisel
+Wed Mar 30 14:02:15 2016,CMakeLists.txt,Rainer Poisel

@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Fri Sep 18 10:23:00 2020,cico_minishift_nightly.sh,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,cico_olm_minikube.sh,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,cico_olm_openshift.sh,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,cico_operator_prcheck.sh,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,cico_updates_minikube.sh,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,cico_updates_minishift.sh,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,cico_updates_openshift.sh,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,start-minikube.sh,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,che-cert-generation.sh,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,ci_common.sh,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,minishift_cert_gen.sh,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,che-nightly.yaml,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,che-operator-updates.yaml,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,checkNightlyOpmBundle.yaml,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,e2e.yaml,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,olm_checks_platforms.yaml,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,create.go,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,tests.go,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,olm.sh,Flavius Lacatusu
+Fri Sep 18 10:23:00 2020,testCatalogSource.sh,Flavius Lacatusu

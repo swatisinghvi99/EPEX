@@ -1,0 +1,332 @@
+[
+    [
+        "Mykola Morhun",
+        "yaml",
+        2
+    ],
+    [
+        "Mykola Morhun",
+        "go",
+        1
+    ],
+    [
+        "Sergii Leshchenko",
+        "go",
+        1
+    ],
+    [
+        "David Kwon",
+        "yaml",
+        6
+    ],
+    [
+        "David Kwon",
+        "go",
+        12
+    ],
+    [
+        "Michal Mal\u00e9\u0159",
+        "yaml",
+        6
+    ],
+    [
+        "Michal Mal\u00e9\u0159",
+        "go",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "go",
+        15
+    ],
+    [
+        "Anatolii Bazko",
+        "sh",
+        12
+    ],
+    [
+        "Anatolii Bazko",
+        "yaml",
+        24
+    ],
+    [
+        "Anatolii Bazko",
+        "md",
+        3
+    ],
+    [
+        "Anatolii Bazko",
+        "json",
+        2
+    ],
+    [
+        "Anatolii Bazko",
+        "yml",
+        3
+    ],
+    [
+        "Anatolii Bazko",
+        "gitignore",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "unknown",
+        1
+    ],
+    [
+        "Anatolii Bazko",
+        "Dockerfile",
+        2
+    ],
+    [
+        "che-bot",
+        "yaml",
+        27
+    ],
+    [
+        "che-bot",
+        "diff",
+        35
+    ],
+    [
+        "che-bot",
+        "go",
+        3
+    ],
+    [
+        "Oleksandr Andriienko",
+        "sh",
+        34
+    ],
+    [
+        "Oleksandr Andriienko",
+        "yaml",
+        93
+    ],
+    [
+        "Oleksandr Andriienko",
+        "yml",
+        17
+    ],
+    [
+        "Oleksandr Andriienko",
+        "gitignore",
+        10
+    ],
+    [
+        "Oleksandr Andriienko",
+        "json",
+        6
+    ],
+    [
+        "Oleksandr Andriienko",
+        "md",
+        58
+    ],
+    [
+        "Oleksandr Andriienko",
+        "unknown",
+        69
+    ],
+    [
+        "Oleksandr Andriienko",
+        "go",
+        1840
+    ],
+    [
+        "Oleksandr Andriienko",
+        "Dockerfile",
+        4
+    ],
+    [
+        "Oleksandr Andriienko",
+        "mod",
+        25
+    ],
+    [
+        "Oleksandr Andriienko",
+        "sum",
+        17
+    ],
+    [
+        "Oleksandr Andriienko",
+        "txt",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "lock",
+        4
+    ],
+    [
+        "Oleksandr Andriienko",
+        "toml",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "vim",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "editorconfig",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "proto",
+        60
+    ],
+    [
+        "Oleksandr Andriienko",
+        "common",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "ttar",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "tmpl",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "s",
+        37
+    ],
+    [
+        "Oleksandr Andriienko",
+        "c",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "conf",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "import-restrictions",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "bzl",
+        1
+    ],
+    [
+        "Michal Vala",
+        "gitignore",
+        1
+    ],
+    [
+        "Michal Vala",
+        "unknown",
+        1
+    ],
+    [
+        "Michal Vala",
+        "go",
+        4
+    ],
+    [
+        "Michal Vala",
+        "yaml",
+        7
+    ],
+    [
+        "Serhii Leshchenko",
+        "go",
+        3
+    ],
+    [
+        "Serhii Leshchenko",
+        "sh",
+        2
+    ],
+    [
+        "Sergii Kabashniuk",
+        "sh",
+        8
+    ],
+    [
+        "Sergii Kabashniuk",
+        "unknown",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "yaml",
+        3
+    ],
+    [
+        "Sergii Kabashniuk",
+        "go",
+        2
+    ],
+    [
+        "Max Shaposhnik",
+        "yaml",
+        6
+    ],
+    [
+        "Max Shaposhnik",
+        "go",
+        2
+    ],
+    [
+        "Max Shaposhnik",
+        "sh",
+        5
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "yaml",
+        8
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "diff",
+        8
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "go",
+        1
+    ],
+    [
+        "Flavius Lacatusu",
+        "gitignore",
+        2
+    ],
+    [
+        "Flavius Lacatusu",
+        "Dockerfile",
+        1
+    ],
+    [
+        "Flavius Lacatusu",
+        "yaml",
+        15
+    ],
+    [
+        "Flavius Lacatusu",
+        "sh",
+        9
+    ],
+    [
+        "Flavius Lacatusu",
+        "go",
+        5
+    ],
+    [
+        "Flavius Lacatusu",
+        "md",
+        3
+    ]
+]

@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Thu Apr 17 20:03:57 2014,Ajc180Tests.java,Andy Clement
+Thu Apr 17 20:03:57 2014,ajc180.xml,Andy Clement
+Wed Apr 30 22:17:14 2014,AnIterator.java,Andy Clement
+Wed Apr 30 22:17:14 2014,AllTests18.java,Andy Clement
+Wed Apr 30 22:17:14 2014,Ajc181Tests.java,Andy Clement
+Wed Apr 30 22:17:14 2014,AllTestsAspectJ181.java,Andy Clement
+Wed Apr 30 22:17:14 2014,ajc181.xml,Andy Clement
+Mon May 12 15:39:13 2014,XMLBasedAjcTestCase.java,Andy Clement
+Mon May 12 15:39:13 2014,Ajc164Tests.java,Andy Clement
+Mon May 12 19:18:46 2014,A.java,Andy Clement
+Mon May 12 19:18:46 2014,AllTestsAspectJ180.java,Andy Clement
+Mon May 12 19:18:46 2014,Ajc181Tests.java,Andy Clement
+Mon May 12 19:18:46 2014,ajc181.xml,Andy Clement
+Fri May 16 15:45:33 2014,aspectjrt.pom,Andy Clement
+Fri May 16 15:45:33 2014,aspectjtools.pom,Andy Clement
+Fri May 16 15:45:33 2014,aspectjweaver.pom,Andy Clement
+Fri May 16 15:45:33 2014,messages.properties,Andy Clement
+Fri May 16 15:45:33 2014,AjProblemReporter.java,Andy Clement
+Fri May 16 15:45:33 2014,RunTheseBeforeYouCommitTests_NODEBUG.launch,Andy Clement

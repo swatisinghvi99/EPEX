@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Thu Jul  4 12:56:01 2019,ResourceUtilPathTest.java,lgoubet
+Tue Jul 16  7:53:58 2019,EMFCompareChangeRecorder.java,lgoubet
+Tue Jul 16  7:53:58 2019,EMFCompareEditingDomain.java,lgoubet
+Tue Jul 16  7:55:38 2019,TextFallbackCompareInput.java,lgoubet
+Tue Jul 16  7:55:38 2019,ResourceStreamAccessorImpl.java,lgoubet
+Tue Jul 16  9:59:24 2019,UMLPostProcessor.java,lgoubet
+Tue Jul 16 12:19:46 2019,CompareToolBar.java,lgoubet
+Tue Jul 16 12:19:46 2019,EMFCompareStructureMergeViewer.java,lgoubet
+Tue Jul 16 14:58:46 2019,EMFCompareStructureMergeViewer.java,lgoubet
+Wed Jul 17  9:28:03 2019,FeatureMapMoveDiffTest.java,lgoubet
+Wed Jul 17  9:28:03 2019,SingleValuedAttributePseudoConflictTest.java,lgoubet
+Wed Jul 17  9:28:03 2019,FeatureMapMoveDiffInputData.java,lgoubet
+Wed Jul 17  9:28:03 2019,SingleValuedAttributePseudoConflictInputData.java,lgoubet
+Wed Jul 17  9:28:03 2019,left.nodes,lgoubet
+Wed Jul 17  9:28:03 2019,origin.nodes,lgoubet
+Wed Jul 17  9:28:03 2019,right.nodes,lgoubet
+Wed Jul 17  9:28:03 2019,UMLDifferencesOrderTest.java,lgoubet
+Wed Jul 17  9:28:03 2019,expectedResultWithUMLRefineElementFilter.nodes,lgoubet
+Wed Jul 17  9:28:03 2019,DefaultDiffEngine.java,lgoubet

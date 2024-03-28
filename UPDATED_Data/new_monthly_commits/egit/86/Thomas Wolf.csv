@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Tue Nov  1 23:37:39 2016,SelectionUtils.java,Thomas Wolf
+Wed Nov  2  9:02:32 2016,EgitUiEditorUtils.java,Thomas Wolf
+Wed Nov  2  9:02:32 2016,BlameOperation.java,Thomas Wolf
+Sun Nov 13 15:09:57 2016,SelectionUtils.java,Thomas Wolf
+Sun Nov 20 10:32:24 2016,GitHistoryPage.java,Thomas Wolf
+Thu Nov 24 23:51:18 2016,Activator.java,Thomas Wolf
+Thu Nov 24 23:51:18 2016,RepositoryCache.java,Thomas Wolf

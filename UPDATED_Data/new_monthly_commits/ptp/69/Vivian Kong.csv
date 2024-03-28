@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Wed Aug 11 16:41:38 2010,CCorePlugin.java,Vivian Kong
+Wed Aug 11 16:41:38 2010,NLS.java,Vivian Kong
+Wed Aug 11 16:43:30 2010,RemoteFastIndexer.java,Vivian Kong
+Fri Aug 13 15:32:26 2010,IndexBuildSequenceController.java,Vivian Kong
+Fri Aug 13 15:32:26 2010,RemoteCommandLauncher.java,Vivian Kong
+Fri Aug 13 15:32:26 2010,RemoteMakeBuilder.java,Vivian Kong
+Fri Aug 13 15:32:26 2010,RemoteRebuildIndexAction.java,Vivian Kong
+Thu Aug 19 16:27:22 2010,context_RDT.xml,Vivian Kong
+Thu Aug 19 16:27:22 2010,remote_services.html,Vivian Kong
+Thu Aug 19 16:27:22 2010,RDTHelpContextIds.java,Vivian Kong

@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Thu Jun 22 17:35:45 2023,AppClientHTTPAdapter.java,David Matějček
+Thu Jun 22 17:35:45 2023,LoaderConfigContent.java,David Matějček
+Thu Jun 22 17:35:45 2023,osgi.bundle,David Matějček
+Thu Jun 22 17:35:45 2023,pom.xml,David Matějček
+Thu Jun 22 17:35:45 2023,UberJarOSGiGlassFishRuntimeBuilder.java,David Matějček
+Thu Jun 22 17:35:45 2023,osgi.bundle,David Matějček
+Thu Jun 22 17:35:45 2023,osgi.bundle,David Matějček
+Thu Jun 22 17:35:45 2023,MainHelper.java,David Matějček
+Thu Jun 22 17:35:45 2023,pom.xml,David Matějček
+Thu Jun 22 17:35:45 2023,osgi.properties,David Matějček
+Thu Jun 22 17:35:45 2023,pom.xml,David Matějček
+Thu Jun 22 17:35:45 2023,osgi.properties,David Matějček
+Sun Jul 16 10:14:58 2023,test_jsp.java,David Matějček
+Sun Jul 16 10:14:58 2023,nullErrorPage_jsp.java,David Matějček
+Tue Jul 18  8:56:44 2023,ACLSingletonProvider.java,David Matějček
+Tue Jul 18  8:56:44 2023,WeldActivator.java,David Matějček
+Tue Jul 18  8:56:44 2023,WeldDeployer.java,David Matějček
+Tue Jul 18  8:56:44 2023,WeldApplication.java,David Matějček
+Tue Jul 18  8:56:44 2023,Util.java,David Matějček

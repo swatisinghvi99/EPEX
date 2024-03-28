@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Thu Sep 12 12:33:22 2013,DataModelerContext.java,Walter Medvedeo
+Thu Sep 12 12:33:22 2013,DataModelerScreenPresenter.java,Walter Medvedeo
+Thu Sep 12 12:33:22 2013,DataModelerUtils.java,Walter Medvedeo
+Thu Sep 12 12:33:22 2013,NewDataObjectPopup.java,Walter Medvedeo
+Thu Sep 12 12:33:22 2013,NewPackagePopup.java,Walter Medvedeo
+Thu Sep 12 12:33:22 2013,PackageSelector.java,Walter Medvedeo
+Thu Sep 12 12:33:22 2013,ExplorerServiceImpl.java,Walter Medvedeo
+Tue Sep 17 21:29:52 2013,Constants.java,Walter Medvedeo
+Tue Sep 17 21:29:52 2013,DataObjectEditor.java,Walter Medvedeo
+Tue Sep 17 21:29:52 2013,NewDataObjectPopup.java,Walter Medvedeo
+Tue Sep 17 21:29:52 2013,PackageSelector.java,Walter Medvedeo
+Tue Sep 17 21:29:52 2013,Constants.properties,Walter Medvedeo
+Tue Sep 17 21:29:52 2013,Constants_es.properties,Walter Medvedeo
+Fri Oct  4 12:35:09 2013,DataModelerServiceImpl.java,Walter Medvedeo
+Fri Oct  4 12:35:09 2013,DataModelResourceChangeObserver.java,Walter Medvedeo

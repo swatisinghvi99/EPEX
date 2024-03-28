@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Thu Jun 24 11:33:11 2021,SmartCardServiceAdapter.java,Jean-Pierre Fortune
+Thu Jun 24 11:33:11 2021,SmartCardServiceAdapterTest.java,Jean-Pierre Fortune
+Mon Jun 28  8:02:04 2021,.gitignore,Jean-Pierre Fortune
+Mon Jun 28  8:02:04 2021,build.gradle.kts,Jean-Pierre Fortune
+Mon Jun 28  8:02:04 2021,build.gradle.kts,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,AbstractPluginAdapter.java,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,AbstractReaderAdapter.java,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,LocalPluginAdapter.java,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,LocalPoolPluginAdapter.java,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,LocalReaderAdapter.java,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,RemotePluginAdapter.java,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,RemotePoolPluginAdapter.java,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,RemoteReaderAdapter.java,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,AbstractReaderAdapterTest.java,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,AutonomousObservableLocalPluginAdapterTest.java,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,LocalPluginAdapterTest.java,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,LocalPoolPluginAdapterTest.java,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,ObservableLocalPluginAdapterTest.java,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,AutonomousObservablePluginSpiMock.java,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,ObservableLocalPluginSpiMock.java,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,ObservableReaderAutonomousSpiMock.java,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,ObservableReaderBlockingSpiMock.java,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,ObservableReaderNonBlockingSpiMock.java,Jean-Pierre Fortune
+Wed Jun 30 12:14:42 2021,PluginAdapterTestUtils.java,Jean-Pierre Fortune

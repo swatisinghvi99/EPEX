@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Thu Dec  8 10:00:34 2016,pom.xml,Petr Široký
+Thu Dec  8 10:00:34 2016,AbstractAdapterGenerator.java,Petr Široký
+Thu Dec  8 10:00:34 2016,CardinalityRuleGenerator.java,Petr Široký
+Thu Dec  8 10:00:34 2016,ConnectionRuleGenerator.java,Petr Široký
+Thu Dec  8 10:00:34 2016,ContainmentRuleGenerator.java,Petr Široký
+Thu Dec  8 10:00:34 2016,DockingRuleGenerator.java,Petr Široký
+Thu Dec  8 10:00:34 2016,EdgeCardinalityRuleGenerator.java,Petr Široký
+Wed Jan  4 22:49:47 2017,persistence_2_0.xsd,Petr Široký
+Wed Jan  4 22:49:47 2017,PersistenceDescriptorXMLMarshallerTest.java,Petr Široký
+Wed Jan  4 22:49:47 2017,generated-persistence.xml,Petr Široký
+Wed Jan  4 22:49:47 2017,persistence.xml,Petr Široký
+Wed Jan  4 22:49:47 2017,pom.xml,Petr Široký
+Wed Jan  4 22:49:47 2017,PersistenceDescriptorServiceImpl.java,Petr Široký
+Wed Jan  4 22:49:47 2017,pom.xml,Petr Široký
+Wed Jan  4 22:49:47 2017,pom.xml,Petr Široký

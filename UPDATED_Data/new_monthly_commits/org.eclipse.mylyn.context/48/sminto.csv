@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Wed May 20 19:42:05 2009,AbstractContextStructureBridge.java,sminto
+Wed May 20 19:42:05 2009,InteractionContextManager.java,sminto
+Wed May 20 19:42:05 2009,InterestFilter.java,sminto
+Wed May 20 19:42:05 2009,InteractionContextManagerTest.java,sminto
+Wed May 20 19:42:05 2009,ResourceStructureBridge.java,sminto
+Thu May 21 16:45:19 2009,AllJavaTests.java,sminto
+Thu May 21 16:45:19 2009,JavaEditingMonitorTest.java,sminto
+Thu May 21 16:45:19 2009,JavaEditingMonitor.java,sminto
+Mon Jun  1 19:45:22 2009,FocusedViewerManager.java,sminto
+Tue Jun  2  3:33:22 2009,FocusedViewerManager.java,sminto
+Thu Jun 11  0:07:18 2009,InteractionContextManager.java,sminto
+Thu Jun 11  0:07:18 2009,ResourceStructureBridge.java,sminto

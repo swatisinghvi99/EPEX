@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Sat Aug 12 16:36:52 2017,EGraphImpl.java,Marco Konersmann
+Sat Aug 12 16:36:52 2017,MANIFEST.MF,Marco Konersmann
+Sat Aug 12 16:36:52 2017,EGraphTestmodel.ecore,Marco Konersmann
+Sat Aug 12 16:36:52 2017,EGraphTestmodel.genmodel,Marco Konersmann
+Sat Aug 12 16:36:52 2017,plugin.xml,Marco Konersmann
+Sat Aug 12 16:36:52 2017,EGraphTestmodelAdapterFactory.java,Marco Konersmann
+Sat Aug 12 16:36:52 2017,EGraphTestmodelFactory.java,Marco Konersmann
+Sat Aug 12 16:36:52 2017,EGraphTestmodelPackage.java,Marco Konersmann
+Sat Aug 12 16:36:52 2017,EGraphTestmodelSwitch.java,Marco Konersmann
+Sat Aug 12 16:36:52 2017,RecursiveNode.java,Marco Konersmann
+Sat Aug 12 16:36:52 2017,EGraphTest.java,Marco Konersmann

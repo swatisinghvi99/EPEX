@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Wed Jun 15 18:18:07 2022,ServiceAccountBusinessLogic.cs,Phil Schneider
+Wed Jun 15 18:18:07 2022,UserBusinessLogic.cs,Phil Schneider
+Wed Jun 15 18:18:07 2022,ConnectorsController.cs,Phil Schneider
+Wed Jun 15 18:18:07 2022,InvitationController.cs,Phil Schneider
+Wed Jun 15 18:18:07 2022,ServiceAccountController.cs,Phil Schneider
+Wed Jun 15 18:18:07 2022,UserController.cs,Phil Schneider
+Wed Jun 15 18:18:07 2022,CatenaX.NetworkServices.PortalBackend.DBAccess.csproj,Phil Schneider
+Wed Jun 15 18:18:07 2022,ConnectorsRepository.cs,Phil Schneider
+Wed Jun 15 18:27:07 2022,UserController.cs,Phil Schneider

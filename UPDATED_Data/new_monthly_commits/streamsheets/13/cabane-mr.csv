@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Wed Nov 11 16:37:37 2020,ChartInfoFeedbackView.js,cabane-mr
+Wed Nov 11 16:58:46 2020,ChartSelectionFeedbackView.js,cabane-mr
+Thu Nov 12 16:10:56 2020,SheetKnobView.js,cabane-mr
+Thu Nov 12 16:31:10 2020,SheetGraphItemEventActivator.js,cabane-mr
+Fri Nov 13  9:49:30 2020,WorksheetView.js,cabane-mr
+Fri Nov 13 13:24:59 2020,EditCellInteraction.js,cabane-mr
+Fri Nov 13 15:45:06 2020,DashBoardComponent.js,cabane-mr
+Mon Nov 16 12:25:54 2020,FieldComponents.js,cabane-mr
+Mon Nov 16 12:25:54 2020,StreamChartProperties.js,cabane-mr
+Mon Nov 16 16:08:59 2020,DataProvider.js,cabane-mr
+Mon Nov 16 16:34:30 2020,EditCellInteraction.js,cabane-mr
+Mon Nov 16 16:34:30 2020,CellEditor.js,cabane-mr
+Mon Nov 16 17:56:13 2020,TreeItemsNode.js,cabane-mr
+Tue Nov 17 13:12:01 2020,Graphics.js,cabane-mr
+Tue Nov 17 15:07:55 2020,GraphManager.js,cabane-mr
+Tue Nov 17 16:01:53 2020,CanvasToolBar.js,cabane-mr
+Tue Nov 17 17:25:21 2020,ChartInfoFeedbackView.js,cabane-mr
+Tue Nov 17 17:25:21 2020,StreamChartProperties.js,cabane-mr
+Tue Nov 17 17:25:21 2020,de.json,cabane-mr
+Tue Nov 17 17:25:21 2020,en.json,cabane-mr
+Wed Nov 18  9:46:06 2020,SheetGraphItemEventInteraction.js,cabane-mr
+Wed Nov 18  9:46:06 2020,WorksheetView.js,cabane-mr
+Wed Nov 18 10:32:36 2020,MarqueeInteraction.js,cabane-mr
+Wed Nov 18 11:54:18 2020,PointList.js,cabane-mr
+Wed Nov 18 11:54:18 2020,InsertShapeCoordinateAtCommand.js,cabane-mr

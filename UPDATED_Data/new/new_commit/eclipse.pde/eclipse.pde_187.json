@@ -1,0 +1,127 @@
+[
+    [
+        "Vikas Chandra",
+        "java",
+        24
+    ],
+    [
+        "Vikas Chandra",
+        "properties",
+        2
+    ],
+    [
+        "Gunnar Wagenknecht",
+        "java",
+        3
+    ],
+    [
+        "Martin Karpisek",
+        "java",
+        527
+    ],
+    [
+        "Martin Karpisek",
+        "MF",
+        1
+    ],
+    [
+        "Torbj\u00f6rn Svensson",
+        "java",
+        1
+    ],
+    [
+        "Olivier Prouvost",
+        "properties",
+        4
+    ],
+    [
+        "Olivier Prouvost",
+        "xml",
+        2
+    ],
+    [
+        "Olivier Prouvost",
+        "java",
+        32
+    ],
+    [
+        "Signed-off-by: Martin Karpisek",
+        "java",
+        19
+    ],
+    [
+        "Michael Keppler",
+        "java",
+        1
+    ],
+    [
+        "Michael Keppler",
+        "properties",
+        1
+    ],
+    [
+        "Lars Vogel",
+        "java",
+        25
+    ],
+    [
+        "Lars Vogel",
+        "prefs",
+        1
+    ],
+    [
+        "Lars Vogel",
+        "classpath",
+        1
+    ],
+    [
+        "Lars Vogel",
+        "MF",
+        1
+    ],
+    [
+        "Lars Vogel",
+        "xml",
+        2
+    ],
+    [
+        "Patrik Suzzi",
+        "java",
+        8
+    ],
+    [
+        "Patrik Suzzi",
+        "MF",
+        1
+    ],
+    [
+        "Patrik Suzzi",
+        "properties",
+        2
+    ],
+    [
+        "Marc-Andre Laperle",
+        "java",
+        1
+    ],
+    [
+        "Fabian Pfaff",
+        "properties",
+        2
+    ],
+    [
+        "Fabian Pfaff",
+        "xml",
+        1
+    ],
+    [
+        "Fabian Pfaff",
+        "java",
+        4
+    ],
+    [
+        "Fabian Pfaff",
+        "e4xmi",
+        1
+    ]
+]

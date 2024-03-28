@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Wed Dec  8  7:15:35 2021,shape.cpp,Abdelrauf
+Wed Dec  8  7:15:35 2021,shape.h,Abdelrauf
+Mon Dec 13 22:59:04 2021,shape.cpp,Abdelrauf
+Tue Dec 14  9:30:34 2021,shape.h,Abdelrauf
+Tue Dec 14 22:50:41 2021,FlatUtils.cpp,Abdelrauf
+Tue Dec 14 22:50:41 2021,common.h,Abdelrauf
+Fri Dec 17 10:47:43 2021,CMakeLists.txt,Abdelrauf
+Fri Dec 17 10:47:43 2021,CMakeLists.txt.vednn.in,Abdelrauf
+Fri Dec 17 10:47:43 2021,aurora.cmake,Abdelrauf
+Fri Dec 17 10:47:43 2021,build_info.cpp,Abdelrauf
+Fri Dec 17 10:47:43 2021,vednn.patch,Abdelrauf
+Wed Jan  5  8:56:15 2022,CMakeLists.txt,Abdelrauf
+Wed Jan  5  8:56:15 2022,CMakeLists.txt,Abdelrauf
+Wed Jan  5  8:56:15 2022,FindVEDNN.cmake,Abdelrauf
+Wed Jan  5  8:56:15 2022,LaunchContext.cpp,Abdelrauf
+Wed Jan  5  8:56:15 2022,MKLDNNStream.h,Abdelrauf
+Wed Jan  5  8:56:15 2022,pad.cpp,Abdelrauf
+Wed Jan  5  8:56:15 2022,conv2d.cpp,Abdelrauf
+Wed Jan  5  8:56:15 2022,vednnUtils.h,Abdelrauf
+Wed Jan  5  8:56:15 2022,ConvolutionTests1.cpp,Abdelrauf
+Wed Jan  5  8:56:15 2022,DeclarableOpsTests13.cpp,Abdelrauf
+Wed Jan  5  8:56:15 2022,MklDnnTests.cpp,Abdelrauf
+Wed Jan  5  8:56:15 2022,PlaygroundTests.cpp,Abdelrauf
+Wed Jan  5  8:56:15 2022,vednn.patch,Abdelrauf

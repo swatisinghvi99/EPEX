@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Tue Nov 23 12:48:11 2021,DesignerPluginTest.java,Lars Vogel
+Tue Nov 23 12:48:47 2021,MANIFEST.MF,Lars Vogel
+Tue Nov 23 12:48:47 2021,Activator.java,Lars Vogel
+Tue Nov 30  9:40:06 2021,pom.xml,Lars Vogel
+Tue Nov 30  9:40:06 2021,ContentDescriberTest.java,Lars Vogel
+Tue Nov 30  9:40:06 2021,JavaPropertiesToolBarContributorTest.java,Lars Vogel
+Tue Nov 30  9:40:06 2021,TopSelectionEditPolicyTest.java,Lars Vogel
+Tue Nov 30  9:40:06 2021,UndoManagerTest.java,Lars Vogel
+Tue Nov 30  9:40:06 2021,CopyActionTest.java,Lars Vogel
+Tue Nov 30  9:40:06 2021,CutActionTest.java,Lars Vogel
+Tue Nov 30  9:40:06 2021,SwitchActionTest.java,Lars Vogel
+Thu Dec  2  9:37:54 2021,ProjectUtils.java,Lars Vogel
+Thu Dec  2  9:37:54 2021,Headers.java,Lars Vogel
+Thu Dec  2  9:37:54 2021,EnvironmentUtils.java,Lars Vogel
+Thu Dec  2  9:37:54 2021,OSSupportLinux.java,Lars Vogel
+Thu Dec  2  9:37:54 2021,OSSupportMacOSX.java,Lars Vogel
+Thu Dec  2  9:37:54 2021,OSSupportMacOSXCarbon.java,Lars Vogel
+Thu Dec  2  9:37:54 2021,OSSupportMacOSXCocoa.java,Lars Vogel
+Thu Dec  2  9:37:54 2021,OSSupportWin32.java,Lars Vogel
+Thu Dec  2  9:37:54 2021,NewProjectWizard.java,Lars Vogel
+Thu Dec  2  9:37:54 2021,BTestUtils.java,Lars Vogel
+Thu Dec  2  9:37:54 2021,TableViewerInfo.java,Lars Vogel
+Thu Dec  2  9:37:54 2021,TableInfo.java,Lars Vogel

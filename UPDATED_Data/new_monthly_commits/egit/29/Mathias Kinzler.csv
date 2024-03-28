@@ -1,0 +1,7 @@
+date_time,file,committer_name
+Mon Jan 30 17:27:35 2012,CreateBranchPage.java,Mathias Kinzler
+Mon Jan 30 17:27:35 2012,uitext.properties,Mathias Kinzler
+Tue Feb 21  0:35:02 2012,GitRepositoriesViewFetchAndPushTest.java,Mathias Kinzler
+Tue Feb 21  0:35:02 2012,plugin.xml,Mathias Kinzler
+Tue Feb 21  0:35:02 2012,FetchConfiguredRemoteCommand.java,Mathias Kinzler
+Tue Feb 21  0:35:02 2012,PushConfiguredRemoteCommand.java,Mathias Kinzler

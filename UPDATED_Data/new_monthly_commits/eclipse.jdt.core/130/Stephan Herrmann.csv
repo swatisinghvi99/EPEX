@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Sun Mar 11 22:24:22 2012,AnnotationDependencyTests.java,Stephan Herrmann
+Sun Mar 11 22:24:22 2012,BatchCompilerTest.java,Stephan Herrmann
+Sun Mar 11 22:24:22 2012,CompilerInvocationTests.java,Stephan Herrmann
+Sun Mar 11 22:24:22 2012,NullAnnotationTest.java,Stephan Herrmann
+Sun Mar 11 22:24:22 2012,NullAnnotationModelTests.java,Stephan Herrmann
+Sun Mar 11 22:24:22 2012,buildnotes_jdt-core.html,Stephan Herrmann
+Sun Mar 11 22:24:22 2012,IProblem.java,Stephan Herrmann
+Sun Mar 11 22:24:22 2012,Assignment.java,Stephan Herrmann
+Sun Mar 11 22:24:22 2012,ForeachStatement.java,Stephan Herrmann
+Sun Mar 11 22:24:22 2012,LocalDeclaration.java,Stephan Herrmann
+Sun Mar 11 22:24:22 2012,ReturnStatement.java,Stephan Herrmann
+Sun Mar 11 22:24:22 2012,Statement.java,Stephan Herrmann
+Sun Mar 11 22:24:22 2012,FinallyFlowContext.java,Stephan Herrmann
+Sun Mar 11 22:24:22 2012,FlowContext.java,Stephan Herrmann
+Sun Mar 11 22:24:22 2012,LoopingFlowContext.java,Stephan Herrmann
+Sun Mar 11 22:24:22 2012,LocalVariableBinding.java,Stephan Herrmann
+Sun Mar 11 22:24:22 2012,ProblemReporter.java,Stephan Herrmann
+Sun Mar 11 22:24:22 2012,messages.properties,Stephan Herrmann
+Tue Mar 20  0:09:44 2012,ConcurrentBatchCompilerTest.java,Stephan Herrmann
+Tue Mar 20  0:09:44 2012,TestAll.java,Stephan Herrmann
+Tue Mar 20  0:09:44 2012,messages.properties,Stephan Herrmann
+Tue Mar 20  0:09:44 2012,buildnotes_jdt-core.html,Stephan Herrmann
+Tue Mar 20  0:09:44 2012,AllocationExpression.java,Stephan Herrmann
+Tue Mar 20  0:09:44 2012,FakedTrackingVariable.java,Stephan Herrmann
+Tue Mar 20  0:09:44 2012,LocalDeclaration.java,Stephan Herrmann
+Tue Mar 20  0:09:44 2012,QualifiedAllocationExpression.java,Stephan Herrmann

@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Sat Mar 26  2:31:54 2022,build.sbt,Grigory
+Sat Mar 26  2:31:54 2022,GDALRasterSummarySpec.scala,Grigory
+Sat Mar 26  2:31:54 2022,Dependencies.scala,Grigory
+Sat Mar 26  2:31:54 2022,Settings.scala,Grigory
+Sat Mar 26  2:31:54 2022,build.properties,Grigory
+Sat Mar 26  2:31:54 2022,plugins.sbt,Grigory
+Sat Mar 26  2:31:54 2022,sbt,Grigory
+Thu Mar 31 18:51:52 2022,CHANGELOG.md,Grigory
+Thu Mar 31 18:51:52 2022,CrsFormats.scala,Grigory
+Thu Mar 31 18:51:52 2022,FeatureFormats.scala,Grigory
+Thu Mar 31 18:51:52 2022,Style.scala,Grigory
+Thu Mar 31 19:55:42 2022,CHANGELOG.md,Grigory
+Thu Mar 31 19:55:42 2022,Extent.scala,Grigory
+Thu Mar 31 20:24:49 2022,CHANGELOG.md,Grigory
+Thu Mar 31 20:24:49 2022,JtsConfig.scala,Grigory

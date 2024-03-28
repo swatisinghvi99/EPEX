@@ -1,0 +1,85 @@
+date_time,file,committer_name
+Wed Oct 24 11:15:16 2018,CapellaDiagramViewer.java,cong-bang.do
+Wed Oct 24 11:15:16 2018,MANIFEST.MF,cong-bang.do
+Wed Oct 24 11:15:16 2018,MoveRepresentationAction.java,cong-bang.do
+Wed Oct 24 11:15:16 2018,MoveRepresentationMenuManager.java,cong-bang.do
+Wed Oct 24 11:15:16 2018,RepresentationActionProvider.java,cong-bang.do
+Wed Oct 24 11:15:16 2018,ActivityExplorerSuite.suite,cong-bang.do
+Wed Oct 24 11:15:16 2018,MoveRepresentationInActivityExplorer.test,cong-bang.do
+Wed Oct 24 11:15:16 2018,Menu.suite,cong-bang.do
+Wed Oct 24 11:15:16 2018,MoveRepresentation.test,cong-bang.do
+Wed Oct 24 11:15:16 2018,ImportBug2242.ctx,cong-bang.do
+Wed Oct 24 11:15:16 2018,.project,cong-bang.do
+Wed Oct 24 11:15:16 2018,Bug2242.afm,cong-bang.do
+Wed Oct 24 11:15:16 2018,Bug2242.aird,cong-bang.do
+Wed Oct 24 11:15:16 2018,Bug2242.melodymodeller,cong-bang.do
+Wed Oct 24 11:15:16 2018,LA.airdfragment,cong-bang.do
+Wed Oct 24 11:15:16 2018,LA.melodyfragment,cong-bang.do
+Wed Oct 24 11:15:16 2018,OA.airdfragment,cong-bang.do
+Wed Oct 24 11:15:16 2018,OA.melodyfragment,cong-bang.do
+Wed Oct 24 11:15:16 2018,SA.airdfragment,cong-bang.do
+Wed Oct 24 11:15:16 2018,SA.melodyfragment,cong-bang.do
+Fri Oct 26 14:05:35 2018,toc.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,TipsAndTricks.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,TipsAndTricks.mediawiki,cong-bang.do
+Fri Oct 26 14:05:35 2018,me.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,build.properties,cong-bang.do
+Fri Oct 26 14:05:35 2018,firststeps.properties,cong-bang.do
+Fri Oct 26 14:05:35 2018,firststeps-actions.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,firststeps-bug.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,firststeps-doc.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,firststeps-help.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,plugin.properties,cong-bang.do
+Fri Oct 26 14:05:35 2018,plugin.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,build.properties,cong-bang.do
+Fri Oct 26 14:05:35 2018,plugin.properties,cong-bang.do
+Fri Oct 26 14:05:35 2018,plugin.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,pom.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,reference.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,Activator.java,cong-bang.do
+Fri Oct 26 14:05:35 2018,toc.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,API_1.2.x_to_1.3.x.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,API_1.2.x_to_1.3.x.mediawiki,cong-bang.do
+Fri Oct 26 14:05:35 2018,toc.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,build.properties,cong-bang.do
+Fri Oct 26 14:05:35 2018,build.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,plugin.properties,cong-bang.do
+Fri Oct 26 14:05:35 2018,plugin.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,Activator.java,cong-bang.do
+Fri Oct 26 14:05:35 2018,toc.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,10.2 Users Guide.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,toc.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,toc.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,org.eclipse.core.resources.prefs,cong-bang.do
+Fri Oct 26 14:05:35 2018,build.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,10_Element Characteristics Management.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,11_Diagram editor view management.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,12_Diagram elements placement.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,13_Diagram Export and Printing.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,14_Other shortcut keys.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,15_Navigation Menu.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,15_Navigation Menu.mediawiki,cong-bang.do
+Fri Oct 26 14:05:35 2018,16_Mass Editing and Visualization.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,16_Mass Editing and Visualization.mediawiki,cong-bang.do
+Fri Oct 26 14:05:35 2018,1_Tab-Bar Actions Glossary.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,2_Element selection.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,2_Element selection.mediawiki,cong-bang.do
+Fri Oct 26 14:05:35 2018,3_Diagram accelerators.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,3_Diagram accelerators.mediawiki,cong-bang.do
+Fri Oct 26 14:05:35 2018,4_Unsynchronize your diagram.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,4_Unsynchronize your diagram.mediawiki,cong-bang.do
+Fri Oct 26 14:05:35 2018,5_Layout management.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,6_Diagram exploration.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,6_Diagram exploration.mediawiki,cong-bang.do
+Fri Oct 26 14:05:35 2018,7_Manage routing style.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,8_Other layout facilities.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,8_Other layout facilities.mediawiki,cong-bang.do
+Fri Oct 26 14:05:35 2018,9_Element size management.html,cong-bang.do
+Fri Oct 26 14:05:35 2018,license.txt,cong-bang.do
+Fri Oct 26 14:05:35 2018,toc.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,toc.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,build.properties,cong-bang.do
+Fri Oct 26 14:05:35 2018,styles.css,cong-bang.do
+Fri Oct 26 14:05:35 2018,plugin.properties,cong-bang.do
+Fri Oct 26 14:05:35 2018,plugin.xml,cong-bang.do
+Fri Oct 26 14:05:35 2018,pom.xml,cong-bang.do

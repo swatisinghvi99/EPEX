@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Mon Feb 14 10:03:47 2022,MANIFEST.MF,Mickael Istria
+Mon Feb 14 10:03:47 2022,plugin.xml,Mickael Istria
+Mon Feb 14 10:03:47 2022,pom.xml,Mickael Istria
+Mon Feb 14 10:03:47 2022,DebugValueCodeMining.java,Mickael Istria
+Mon Feb 14 10:03:47 2022,DebugValueCodeMiningProvider.java,Mickael Istria
+Mon Feb 14 10:03:47 2022,DebugPreferencePage.java,Mickael Istria
+Mon Feb 14 10:03:47 2022,DebugPreferencesMessages.java,Mickael Istria
+Mon Feb 14 10:03:47 2022,DebugPreferencesMessages.properties,Mickael Istria
+Mon Feb 14 10:03:47 2022,IDebugUIConstants.java,Mickael Istria
+Wed Feb 16 16:28:40 2022,DebugValueCodeMiningProvider.java,Mickael Istria

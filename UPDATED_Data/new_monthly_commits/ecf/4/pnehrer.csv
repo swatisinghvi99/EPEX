@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Fri Mar  4  1:59:23 2005,ChatWindow.java,pnehrer
+Fri Mar  4  3:46:43 2005,EditorPlugin.java,pnehrer
+Fri Mar  4  3:46:43 2005,.options,pnehrer
+Fri Mar  4  3:46:43 2005,MANIFEST.MF,pnehrer
+Fri Mar  4  3:46:43 2005,DataGraphSharing.java,pnehrer
+Fri Mar  4  3:46:43 2005,DataGraphSharingManager.java,pnehrer
+Fri Mar  4  3:46:43 2005,SharedDataGraph.java,pnehrer
+Fri Mar  4  3:46:43 2005,DataGraphSharingFactory.java,pnehrer
+Fri Mar  4  3:46:43 2005,SDOPlugin.java,pnehrer
+Fri Mar  4  3:46:43 2005,EMFUpdateProvider.java,pnehrer
+Wed Mar 30 20:28:36 2005,ChatComposite.java,pnehrer
+Wed Mar 30 20:28:36 2005,ShowViewsDialog.java,pnehrer

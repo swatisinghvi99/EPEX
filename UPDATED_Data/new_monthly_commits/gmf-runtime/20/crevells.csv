@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Tue Mar 13 17:17:39 2007,DiagramPopupBarEditPolicy.java,crevells
+Tue Mar 13 17:18:25 2007,DefaultPaletteProvider.java,crevells
+Tue Mar 13 17:18:25 2007,plugin.xml,crevells
+Tue Mar 13 17:18:25 2007,PaletteServiceTests.java,crevells
+Tue Mar 13 17:19:12 2007,OffscreenEditPartFactory.java,crevells
+Tue Mar 13 17:19:12 2007,LayoutService.java,crevells
+Tue Mar 13 17:19:12 2007,AbstractPresentationTestFixture.java,crevells
+Tue Mar 13 17:43:54 2007,PrintPreviewHelper.java,crevells
+Tue Mar 13 17:43:54 2007,DiagramPrinter.java,crevells
+Tue Mar 13 17:43:54 2007,PrintHelper.java,crevells
+Tue Mar 13 17:43:54 2007,DiagramRenderUtil.java,crevells
+Thu Mar 15 14:39:36 2007,ZOrderAction.java,crevells
+Thu Mar 15 14:39:36 2007,DiagramUIActionsPluginImages.java,crevells
+Thu Mar 15 14:39:36 2007,DiagramUIPluginImages.java,crevells
+Mon Mar 26 17:34:25 2007,DiagramEditorWithFlyOutPalette.java,crevells
+Thu Apr  5 19:33:17 2007,DiagramCoreMessages.java,crevells
+Thu Apr  5 19:33:17 2007,DiagramCoreMessages.properties,crevells
+Thu Apr  5 19:33:17 2007,DiagramUIActionsMessages.java,crevells
+Thu Apr  5 19:33:17 2007,DiagramUIActionsMessages.properties,crevells
+Thu Apr 12 20:13:20 2007,MslUIPlugin.java,crevells
+Thu Apr 12 20:13:20 2007,NewPathVariableDialog.java,crevells
+Thu Apr 12 20:13:20 2007,PathmapsPreferencePage.java,crevells

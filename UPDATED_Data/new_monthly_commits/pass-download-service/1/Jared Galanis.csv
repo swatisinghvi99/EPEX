@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Tue May  5 20:28:39 2020,.gitignore,Jared Galanis
+Tue May  5 20:28:39 2020,doi_info.go,Jared Galanis
+Tue May  5 20:28:39 2020,doi_info_cache.go,Jared Galanis
+Tue May  5 20:28:39 2020,doi_info_cache_test.go,Jared Galanis
+Tue May  5 20:28:39 2020,download_service.go,Jared Galanis
+Tue May  5 20:28:39 2020,download_service_http.go,Jared Galanis
+Tue May  5 20:28:39 2020,integration_test.go,Jared Galanis
+Tue May  5 20:28:39 2020,lookup_service_http.go,Jared Galanis
+Tue May  5 20:28:39 2020,lookup_service_http_test.go,Jared Galanis
+Tue May  5 20:28:39 2020,unpaywall.go,Jared Galanis
+Tue May  5 20:28:39 2020,unpaywall_test.go,Jared Galanis
+Mon May 11 13:47:15 2020,unpaywall.go,Jared Galanis
+Mon May 11 13:47:15 2020,unpaywall_test.go,Jared Galanis
+Tue May 12 18:39:15 2020,.env,Jared Galanis
+Tue May 12 18:39:15 2020,serve.go,Jared Galanis
+Tue May 12 21:55:33 2020,serve.go,Jared Galanis

@@ -1,0 +1,74 @@
+date_time,file,committer_name
+Wed Jul  1  9:48:41 2020,FileImageDescriptor.java,Ivan Furnadjiev
+Wed Jul  1  9:48:41 2020,ImageDescriptor.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,MANIFEST.MF,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,PatternFilter.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,MANIFEST.MF,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,MANIFEST.MF,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,MANIFEST.MF,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,CheatSheetMenu.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,CheatSheetCollectionSorter.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,CheatSheetRegistryReader.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,org.eclipse.jdt.ui.prefs,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,MANIFEST.MF,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,FormUtil.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,TextSegment.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,PerspectiveMenu.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,PatternFilter.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,PreferenceLinkArea.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,WorkingSetConfigurationBlock.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,ConfigurationInfo.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,ProductProperties.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,ShowViewMenu.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,Workbench.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,WorkbenchPlugin.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,WorkingSetComparator.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,EnablementDialog.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,DecoratorsPreferencePage.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,PerspectivesPreferencePage.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,WorkbenchEditorsDialog.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,WorkbenchKeyboard.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,DefaultTabItem.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,ErrorInfo.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,ProgressInfoItem.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,EditorRegistry.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,PreferenceTransferRegistryReader.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,ViewRegistry.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,WizardsRegistryReader.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,DefaultDetailsArea.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,LabelProviderWrapper.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,WorkbenchPart.java,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,MANIFEST.MF,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,RAP Controls Demo.launch,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,RAP Workbench Demo (Business).launch,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,RAP Workbench Demo (Fancy).launch,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,RAP Workbench Demo (OSGi).launch,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,RAP Workbench Demo.launch,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,RAP Examples Demo.launch,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,feature.xml,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,feature.xml,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,org.eclipse.rap.examples.controls.product,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,org.eclipse.rap.examples.rapdemo.product,Ivan Furnadjiev
+Wed Jul  1 11:45:10 2020,org.eclipse.rap.examples.workbench.product,Ivan Furnadjiev
+Fri Jul  3  8:40:23 2020,Grid.java,Ivan Furnadjiev
+Fri Jul  3  8:40:23 2020,IGridAdapter.java,Ivan Furnadjiev
+Fri Jul  3  8:40:23 2020,GridLCA.java,Ivan Furnadjiev
+Fri Jul  3  8:40:23 2020,GridHandler.js,Ivan Furnadjiev
+Fri Jul  3  8:40:23 2020,Grid.js,Ivan Furnadjiev
+Fri Jul  3  8:40:23 2020,NebulaGridTab.java,Ivan Furnadjiev
+Fri Jul  3  8:40:23 2020,GridLCA_Test.java,Ivan Furnadjiev
+Fri Jul  3  9:41:25 2020,Grid.java,Ivan Furnadjiev
+Fri Jul  3  9:41:25 2020,Grid_Test.java,Ivan Furnadjiev
+Fri Jul  3  9:52:53 2020,Grid.js,Ivan Furnadjiev
+Fri Jul  3  9:52:53 2020,GridRow.js,Ivan Furnadjiev
+Fri Jul  3 10:19:05 2020,Grid.js,Ivan Furnadjiev
+Mon Jul  6 10:11:45 2020,Clipboard.js,Ivan Furnadjiev
+Mon Jul  6 10:11:45 2020,ClipboardHandler.js,Ivan Furnadjiev
+Mon Jul  6 10:11:45 2020,client.files,Ivan Furnadjiev
+Mon Jul  6 10:11:45 2020,Clipboard.java,Ivan Furnadjiev
+Mon Jul  6 10:11:45 2020,DND.java,Ivan Furnadjiev
+Mon Jul  6 10:11:45 2020,ClipboardTab.java,Ivan Furnadjiev
+Mon Jul  6 10:11:45 2020,ControlsDemo.java,Ivan Furnadjiev
+Mon Jul  6 10:11:45 2020,Clipboard_Test.java,Ivan Furnadjiev
+Mon Jul  6 14:04:32 2020,GridViewerEditor.java,Ivan Furnadjiev
+Tue Jul  7  9:13:35 2020,EventHandlerUtil.js,Ivan Furnadjiev

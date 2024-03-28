@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Sun Dec  2  7:12:39 2018,StagingView.java,Michael Keppler
+Sun Dec  2  7:26:00 2018,StashDropHandler.java,Michael Keppler
+Sun Dec  2  7:26:00 2018,StashDropCommand.java,Michael Keppler
+Sun Dec  2  7:26:00 2018,uitext.properties,Michael Keppler
+Sun Dec  2  8:56:19 2018,EGitSecureStoreTest.java,Michael Keppler
+Sun Dec  2 17:42:32 2018,ReflogView.java,Michael Keppler
+Mon Dec 24 17:17:54 2018,coretext.properties,Michael Keppler
+Mon Dec 24 17:17:54 2018,PullOperation.java,Michael Keppler
+Mon Dec 24 17:17:54 2018,UIText.java,Michael Keppler
+Mon Dec 24 17:17:54 2018,CommitSelectionDialog.java,Michael Keppler
+Mon Dec 24 17:17:54 2018,GenerateHistoryJob.java,Michael Keppler
+Mon Dec 24 17:17:54 2018,RemoveCommand.java,Michael Keppler
+Mon Dec 24 17:17:54 2018,StagingView.java,Michael Keppler
+Mon Dec 24 17:17:54 2018,uitext.properties,Michael Keppler

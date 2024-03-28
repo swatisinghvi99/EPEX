@@ -1,0 +1,82 @@
+[
+    [
+        "Erik Jaegervall",
+        "flake8",
+        1
+    ],
+    [
+        "Erik Jaegervall",
+        "md",
+        14
+    ],
+    [
+        "Erik Jaegervall",
+        "yml",
+        16
+    ],
+    [
+        "Erik Jaegervall",
+        "sh",
+        24
+    ],
+    [
+        "Erik Jaegervall",
+        "yaml",
+        1
+    ],
+    [
+        "Erik Jaegervall",
+        "json",
+        8
+    ],
+    [
+        "Erik Jaegervall",
+        "unknown",
+        9
+    ],
+    [
+        "Erik Jaegervall",
+        "py",
+        18
+    ],
+    [
+        "Erik Jaegervall",
+        "pyi",
+        5
+    ],
+    [
+        "Erik Jaegervall",
+        "txt",
+        4
+    ],
+    [
+        "Erik Jaegervall",
+        "ini",
+        2
+    ],
+    [
+        "Erik Jaegervall",
+        "dbc",
+        1
+    ],
+    [
+        "Erik Jaegervall",
+        "log",
+        2
+    ],
+    [
+        "Erik Jaegervall",
+        "gitignore",
+        1
+    ],
+    [
+        "Erik Jaegervall",
+        "vspec",
+        1
+    ],
+    [
+        "Erik Jaegervall",
+        "proto",
+        6
+    ]
+]

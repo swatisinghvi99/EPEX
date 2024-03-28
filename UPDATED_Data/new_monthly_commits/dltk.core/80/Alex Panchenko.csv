@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Mon Sep 23  3:22:54 2013,CompletionProposalLabelProvider.java,Alex Panchenko
+Mon Sep 23  3:22:54 2013,ScriptTextMessages.java,Alex Panchenko
+Mon Sep 23  3:22:54 2013,ScriptTextMessages.properties,Alex Panchenko
+Tue Sep 24  7:47:29 2013,DLTKPerformanceViewPart.java,Alex Panchenko
+Tue Sep 24  7:47:29 2013,.options,Alex Panchenko
+Tue Sep 24  7:47:29 2013,RuntimePerformanceMonitor.java,Alex Panchenko
+Sat Oct 19  4:55:32 2013,AbstractContributedFoldingPreferenceBlock.java,Alex Panchenko
+Sat Oct 19  6:16:38 2013,H2ElementDao.java,Alex Panchenko
+Sat Oct 19  6:43:04 2013,basic.sql,Alex Panchenko
+Sat Oct 19  6:43:04 2013,Schema.java,Alex Panchenko
+Sat Oct 19  6:47:53 2013,H2ContainerDao.java,Alex Panchenko
+Sat Oct 19  6:47:53 2013,H2FileDao.java,Alex Panchenko

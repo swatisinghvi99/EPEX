@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Mon Sep 14  2:52:12 2009,RDAggrUtil.java,wtu
+Mon Sep 14  2:52:12 2009,RDLoad.java,wtu
+Mon Sep 14  2:52:12 2009,RowSaveUtil.java,wtu
+Mon Sep 14  2:52:12 2009,ExprResultSet.java,wtu
+Mon Sep 14  2:52:12 2009,ExprResultSet2.java,wtu
+Wed Sep 16  5:36:16 2009,QueryDefinitionUtil.java,wtu
+Wed Sep 16  5:36:16 2009,RDLoad.java,wtu
+Wed Sep 16  5:36:16 2009,ResultIterator.java,wtu
+Wed Sep 16  5:45:22 2009,RDAggrUtil.java,wtu
+Thu Sep 24  6:37:06 2009,PreparedQueryUtil.java,wtu
+Thu Sep 24  6:37:06 2009,QueryCompUtil.java,wtu
+Thu Sep 24  6:37:06 2009,GroupDefnUtil.java,wtu
+Thu Sep 24  6:37:06 2009,IQueryDefinitionUtil.java,wtu
+Thu Sep 24  6:37:06 2009,QueryDefinitionUtil.java,wtu
+Fri Sep 25  2:33:56 2009,CallStatement.java,wtu
+Fri Sep 25  2:33:56 2009,Statement.java,wtu

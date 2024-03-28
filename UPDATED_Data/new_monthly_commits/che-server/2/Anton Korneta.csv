@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Tue Mar 15 12:08:59 2016,FactoryServiceClient.java,Anton Korneta
+Tue Mar 15 12:08:59 2016,FactoryServiceClientImpl.java,Anton Korneta
+Tue Mar 15 12:08:59 2016,GitServiceClient.java,Anton Korneta
+Tue Mar 15 12:08:59 2016,GitServiceClientImpl.java,Anton Korneta
+Tue Mar 15 12:08:59 2016,GitHubClientService.java,Anton Korneta
+Tue Mar 15 12:08:59 2016,GitHubClientServiceImpl.java,Anton Korneta
+Tue Mar 15 12:08:59 2016,GitHubDTOFactory.java,Anton Korneta
+Tue Mar 15 12:08:59 2016,GitHubService.java,Anton Korneta
+Tue Mar 15 12:08:59 2016,GitHubPullRequest.java,Anton Korneta
+Thu Mar 17 14:35:59 2016,DefaultHttpJsonRequest.java,Anton Korneta
+Thu Mar 17 14:35:59 2016,HttpJsonHelper.java,Anton Korneta
+Thu Mar 17 14:35:59 2016,DefaultHttpJsonRequestTest.java,Anton Korneta
+Thu Mar 17 14:35:59 2016,TestService.java,Anton Korneta

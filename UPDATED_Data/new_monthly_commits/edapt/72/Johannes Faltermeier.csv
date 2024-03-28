@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Fri Jan 13  9:30:44 2017,HandlerUtils.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,MultiValueSelectionDialog.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,SelectionUtils.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,ValueSelectionComposite.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,OperationSash.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,CreateMigrationHandler.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,EditMigrationHandler.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,FlattenCompositeHandler.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,FlattenMigrationHandler.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,SetMigrationHandler.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,SubsequentChangesHandler.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,SubsequentChangesPropertyTester.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,CheckIntegrityHandler.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,CompareHandler.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,ReconstructHandler.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,ReconstructionView.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,ShowReconstructionHandler.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,AddResourceHandler.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,ChoiceDialog.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,LaunchUtils.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,MigrationLaunchConfigurationMainTab.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,MigratorHandlerBase.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,RegisterMetamodelHandler.java,Johannes Faltermeier
+Fri Jan 13  9:30:44 2017,ReleaseDialog.java,Johannes Faltermeier

@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Fri Aug 31 16:59:09 2007,MANIFEST.MF,kchong
+Fri Aug 31 16:59:09 2007,AbstractSearchQuery.java,kchong
+Fri Aug 31 16:59:09 2007,SearchMessages.java,kchong
+Fri Aug 31 16:59:09 2007,SearchMessages.properties,kchong
+Fri Aug 31 16:59:09 2007,SearchResult.java,kchong
+Fri Aug 31 16:59:09 2007,SearchResultPage.java,kchong
+Fri Aug 31 16:59:09 2007,SearchResultTableContentProvider.java,kchong
+Fri Aug 31 16:59:09 2007,SearchResultTreeContentProvider.java,kchong
+Fri Aug 31 16:59:09 2007,FileLabelProvider.java,kchong
+Fri Aug 31 16:59:09 2007,IFileSearchContentProvider.java,kchong
+Fri Aug 31 16:59:09 2007,Messages.java,kchong
+Fri Aug 31 16:59:09 2007,ResourceTransferDragAdapter.java,kchong
+Fri Aug 31 16:59:09 2007,SortAction.java,kchong

@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Mon Apr  6 13:20:48 2020,OverviewStrategy.scala,CloudNiner
+Mon Apr  6 13:20:48 2020,GeoTrellisRasterSourceSpec.scala,CloudNiner
+Mon Apr  6 13:20:48 2020,GeoTrellisRasterSource.scala,CloudNiner
+Mon Apr  6 13:20:48 2020,GeoTrellisReprojectRasterSource.scala,CloudNiner
+Mon Apr  6 13:20:48 2020,GeoTrellisResampleRasterSource.scala,CloudNiner
+Mon Apr  6 13:20:48 2020,Implicits.scala,CloudNiner
+Mon Apr  6 13:20:48 2020,RasterSource.scala,CloudNiner
+Mon Apr  6 13:20:48 2020,RasterSourceRDD.scala,CloudNiner
+Mon Apr  6 13:20:48 2020,RasterSourceRDDSpec.scala,CloudNiner
+Mon Apr  6 13:20:48 2020,GDALRasterSourceRDDSpec.scala,CloudNiner
+Mon Apr  6 13:20:48 2020,GDALRasterSourceRDDSpec.scala,CloudNiner
+Mon Apr  6 13:20:48 2020,RasterSourceRDDSpec.scala,CloudNiner
+Mon Apr  6 13:20:48 2020,RasterSource.scala,CloudNiner
+Mon Apr  6 13:20:48 2020,GDALRasterSourceRDDSpec.scala,CloudNiner
+Mon Apr  6 13:20:48 2020,RasterSourceRDDSpec.scala,CloudNiner
+Mon Apr  6 13:20:48 2020,OverviewStrategy.scala,CloudNiner
+Mon Apr  6 13:20:48 2020,OverviewStrategy.scala,CloudNiner
+Mon Apr  6 13:20:48 2020,OverviewStrategySpec.scala,CloudNiner

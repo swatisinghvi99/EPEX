@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Fri Jan 20  5:39:34 2023,product-traceability-foss-backend.json,Laszlo Graf
+Fri Jan 20  5:39:34 2023,ApplicationConfig.java,Laszlo Graf
+Fri Jan 20  5:39:34 2023,DocumentationPlugin.java,Laszlo Graf
+Fri Jan 20  7:01:05 2023,Asset.java,Laszlo Graf
+Fri Jan 20  7:01:05 2023,AssetsConverter.java,Laszlo Graf
+Fri Jan 20  7:01:05 2023,SerialPartTypization.java,Laszlo Graf
+Fri Jan 20  7:01:05 2023,AssetEntity.java,Laszlo Graf
+Fri Jan 20  7:01:05 2023,PersistentAssetsRepository.java,Laszlo Graf
+Fri Jan 20  7:01:05 2023,AssetFacadeSpec.groovy,Laszlo Graf
+Fri Jan 20  7:01:05 2023,AssetsControllerIT.groovy,Laszlo Graf
+Fri Jan 20  7:01:05 2023,irs_assets_v2.json,Laszlo Graf
+Fri Jan 20  7:01:05 2023,AssetsControllerIT.groovy,Laszlo Graf
+Fri Jan 20  7:01:05 2023,AssetsConverter.java,Laszlo Graf
+Fri Jan 20  7:01:05 2023,SerialPartTypization.java,Laszlo Graf
+Fri Jan 20  7:01:05 2023,irs_assets_v2.json,Laszlo Graf
+Thu Jan 26  9:58:00 2023,AssetEntity.java,Laszlo Graf
+Thu Jan 26  9:58:00 2023,irs_assets_v2.json,Laszlo Graf
+Thu Jan 26  9:58:00 2023,V2__asset_tables.sql,Laszlo Graf

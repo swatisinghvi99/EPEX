@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Wed Jun 15 11:46:07 2016,Data.java,Dennis Huebner
+Wed Jun 15 11:46:07 2016,DataProcessor.java,Dennis Huebner
+Wed Jun 15 11:46:07 2016,Property.java,Dennis Huebner
+Wed Jun 15 11:46:07 2016,PropertyProcessor.java,Dennis Huebner
+Wed Jun 15 11:46:07 2016,AccessorType.java,Dennis Huebner
+Wed Jun 15 11:46:07 2016,Accessors.java,Dennis Huebner
+Wed Jun 15 11:46:07 2016,AccessorsProcessor.java,Dennis Huebner
+Wed Jun 15 11:46:07 2016,Data.java,Dennis Huebner
+Wed Jun 15 11:46:07 2016,DataProcessor.java,Dennis Huebner
+Wed Jun 15 11:46:07 2016,Delegate.java,Dennis Huebner
+Wed Jun 15 11:46:07 2016,DelegateProcessor.java,Dennis Huebner
+Wed Jun 15 11:46:07 2016,EqualsHashCode.java,Dennis Huebner
+Wed Jun 15 11:46:07 2016,EqualsHashCodeProcessor.java,Dennis Huebner
+Wed Jun 15 11:46:07 2016,FinalFieldsConstructor.java,Dennis Huebner
+Wed Jun 15 11:46:07 2016,FinalFieldsConstructorProcessor.java,Dennis Huebner
+Wed Jun 15 11:46:07 2016,ToString.java,Dennis Huebner
+Wed Jun 15 11:46:07 2016,ToStringConfiguration.java,Dennis Huebner
+Wed Jun 15 11:46:07 2016,ToStringProcessor.java,Dennis Huebner

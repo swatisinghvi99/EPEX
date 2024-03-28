@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Fri May  8 16:18:54 2015,ClientState.java,Ian Craggs
+Fri May  8 16:18:54 2015,logcat.properties,Ian Craggs
+Thu May 14 16:12:06 2015,PerSubscriptionMessageHandlerTest.java,Ian Craggs
+Thu May 14 16:12:06 2015,ClientComms.java,Ian Craggs
+Thu May 14 16:12:06 2015,IMqttAsyncClient.java,Ian Craggs
+Thu May 14 16:12:06 2015,IMqttMessageListener.java,Ian Craggs
+Thu May 14 16:12:06 2015,MqttAsyncClient.java,Ian Craggs
+Thu May 14 16:12:06 2015,CommsCallback.java,Ian Craggs
+Mon May 18 10:45:56 2015,PerSubscriptionMessageHandlerTest.java,Ian Craggs
+Mon May 18 11:23:45 2015,MqttAndroidClient.java,Ian Craggs
+Mon May 18 11:37:08 2015,MqttAndroidClient.java,Ian Craggs
+Tue May 19 15:27:48 2015,PerSubscriptionMessageHandlerTest.java,Ian Craggs
+Tue May 19 15:27:48 2015,ClientComms.java,Ian Craggs
+Tue May 19 15:27:48 2015,IMqttAsyncClient.java,Ian Craggs
+Tue May 19 15:27:48 2015,IMqttClient.java,Ian Craggs
+Tue May 19 15:27:48 2015,IMqttMessageListener.java,Ian Craggs
+Tue May 19 15:27:48 2015,MqttAsyncClient.java,Ian Craggs
+Tue May 19 15:27:48 2015,MqttClient.java,Ian Craggs
+Tue May 19 15:27:48 2015,CommsCallback.java,Ian Craggs
+Tue May 19 15:38:04 2015,MqttAndroidClient.java,Ian Craggs

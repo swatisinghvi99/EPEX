@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Tue Oct  9  6:41:37 2007,org.eclipse.birt.chart.model.ecore,yulin
+Tue Oct  9  6:41:37 2007,ChartWithAxesImpl.java,yulin
+Tue Oct  9  6:41:37 2007,ModelPackageImpl.java,yulin
+Tue Oct  9  6:41:37 2007,model.xsd,yulin
+Wed Oct 10  6:44:06 2007,ReportDataServiceProvider.java,yulin
+Wed Oct 10  6:44:06 2007,ExtendedItemFilterDialog.java,yulin
+Wed Oct 10  6:44:06 2007,FormPage.java,yulin
+Wed Oct 17  9:30:13 2007,SwingTextMetrics.java,yulin
+Wed Oct 17  9:30:13 2007,SwingTextRenderer.java,yulin
+Wed Oct 17  9:30:13 2007,SVGTextRenderer.java,yulin
+Wed Oct 17  9:30:13 2007,LegendBuilder.java,yulin
+Wed Oct 17  9:30:13 2007,Methods.java,yulin
+Wed Oct 17  9:30:13 2007,DataProcessor.java,yulin
+Wed Oct 17  9:30:13 2007,AxesRenderHelper.java,yulin
+Wed Oct 17  9:30:13 2007,BaseRenderer.java,yulin
+Tue Oct 23  8:32:05 2007,AxesRenderer.java,yulin
+Tue Oct 23  8:32:05 2007,DeferredCacheManager.java,yulin
+Fri Oct 26  7:23:42 2007,model.genmodel,yulin
+Fri Oct 26  7:23:42 2007,model.xsd2ecore,yulin
+Fri Oct 26  7:23:42 2007,org.eclipse.birt.chart.model.layout.ecore,yulin
+Fri Oct 26  7:23:42 2007,ClientArea.java,yulin
+Fri Oct 26  7:23:42 2007,LayoutPackage.java,yulin
+Fri Oct 26  7:23:42 2007,ClientAreaImpl.java,yulin
+Fri Oct 26  7:23:42 2007,LayoutPackageImpl.java,yulin
+Fri Oct 26  7:23:42 2007,AxesRenderer.java,yulin
+Fri Oct 26  7:23:42 2007,layout.xsd,yulin

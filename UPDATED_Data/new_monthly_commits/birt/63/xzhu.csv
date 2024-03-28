@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Tue Apr  6  6:59:44 2010,StandardChartDataSheet.java,xzhu
+Wed Apr  7  2:58:45 2010,ChartCubeFilterConditionBuilder.java,xzhu
+Wed Apr  7  2:58:45 2010,ChartReportItemFactoryBase.java,xzhu
+Wed Apr  7  2:58:45 2010,IChartReportItemFactory.java,xzhu
+Tue Apr 13  4:18:54 2010,TaskSelectData.java,xzhu
+Tue Apr 13  6:51:32 2010,AutoScale.java,xzhu
+Tue Apr 13  6:51:32 2010,DateTimeDataElementImpl.java,xzhu
+Tue Apr 13  6:51:32 2010,NumberDataElementImpl.java,xzhu
+Tue Apr 13  6:52:45 2010,BaseDataDefinitionComponent.java,xzhu
+Mon Apr 19  5:50:01 2010,TaskSelectData.java,xzhu
+Mon Apr 19  5:50:01 2010,TaskSelectType.java,xzhu
+Wed Apr 21  8:40:08 2010,ChartUtil.java,xzhu
+Wed Apr 21  8:40:37 2010,GroupSortingDialog.java,xzhu
+Thu Apr 22  6:36:24 2010,MarkerIconDialog.java,xzhu

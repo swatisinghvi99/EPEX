@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Mon Nov  7 17:06:36 2005,JavaEditor.java,Dani Megert
+Thu Nov 10 11:38:45 2005,AbstractInformationControl.java,Dani Megert
+Fri Nov 18 15:46:41 2005,ASTProvider.java,Dani Megert
+Mon Nov 21 14:11:55 2005,MethodExitsFinder.java,Dani Megert
+Mon Nov 21 19:00:51 2005,JavaContentAssistInvocationContext.java,Dani Megert
+Wed Nov 23 17:45:53 2005,JavaSourceViewerConfiguration.java,Dani Megert
+Wed Nov 23 18:03:18 2005,CompletionProposalCollector.java,Dani Megert
+Wed Nov 23 18:03:18 2005,JavaContentAssistInvocationContext.java,Dani Megert
+Thu Nov 24  9:56:40 2005,AbstractInformationControl.java,Dani Megert
+Mon Nov 28  9:07:17 2005,AbstractInformationControl.java,Dani Megert
+Mon Nov 28 14:58:26 2005,JavaReconciler.java,Dani Megert
+Mon Nov 28 16:06:17 2005,PropertyKeyHyperlinkDetector.java,Dani Megert
+Mon Nov 28 16:06:59 2005,NLSSearchPage.java,Dani Megert
+Mon Nov 28 16:06:59 2005,PropertyKeyHyperlink.java,Dani Megert
+Tue Nov 29  9:03:06 2005,NLSSearchPage.java,Dani Megert
+Tue Nov 29  9:03:06 2005,PropertyKeyHyperlink.java,Dani Megert
+Wed Nov 30 11:34:10 2005,JDTQuickMenuAction.java,Dani Megert
+Wed Nov 30 11:34:10 2005,QuickMenuAction.java,Dani Megert
+Wed Nov 30 11:34:10 2005,JavaPreview.java,Dani Megert
+Wed Nov 30 13:29:23 2005,EditorUtility.java,Dani Megert
+Wed Nov 30 17:03:55 2005,JavaUI.java,Dani Megert
+Wed Nov 30 17:03:55 2005,JavaTextTools.java,Dani Megert
+Fri Dec  2  8:36:05 2005,JavadocContentAccess.java,Dani Megert
+Fri Dec  2 15:43:00 2005,HTMLTextPresenter.java,Dani Megert

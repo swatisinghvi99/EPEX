@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Wed Jul 18  7:13:17 2012,JvmTypeChangeDispatcher.java,Jan Koehnlein
+Wed Jul 18  7:15:09 2012,JavaRefactoringIntegrationTest.java,Jan Koehnlein
+Wed Jul 18 13:51:44 2012,AbstractReferenceUpdater.java,Jan Koehnlein
+Wed Jul 18 13:54:54 2012,JavaRefactoringIntegrationTest.java,Jan Koehnlein
+Thu Jul 19 13:31:34 2012,JvmMemberRenameStrategy.java,Jan Koehnlein
+Thu Jul 19 13:31:34 2012,DefaultReferenceUpdater.java,Jan Koehnlein
+Thu Jul 19 13:31:34 2012,StatusWrapper.java,Jan Koehnlein
+Thu Jul 19 13:38:05 2012,XtendImportImplCustom.java,Jan Koehnlein
+Thu Jul 19 13:38:05 2012,XtendReferenceUpdater.java,Jan Koehnlein
+Thu Jul 19 13:38:05 2012,JavaRefactoringIntegrationTest.java,Jan Koehnlein
+Mon Jul 30 22:24:05 2012,AbstractReferenceUpdater.java,Jan Koehnlein
+Mon Jul 30 22:24:05 2012,JvmMemberRenameStrategy.java,Jan Koehnlein
+Mon Jul 30 22:24:05 2012,DefaultReferenceUpdater.java,Jan Koehnlein
+Mon Jul 30 22:24:05 2012,StatusWrapper.java,Jan Koehnlein

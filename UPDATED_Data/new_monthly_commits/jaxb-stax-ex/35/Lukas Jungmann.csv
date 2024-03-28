@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Mon Jul 19 22:54:12 2021,maven.yml,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,.travis.yml,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,CONTRIBUTING.md,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,NOTICE.md,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,README.md,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,pom.xml,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,module-info.java,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,Base64Data.java,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,Base64Encoder.java,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,Base64EncoderStream.java,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,BinaryText.java,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,ByteArrayOutputStreamEx.java,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,MtomEnabled.java,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,NamespaceContextEx.java,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,StAxSOAPBody.java,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,StreamingDataHandler.java,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,XMLStreamReaderEx.java,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,XMLStreamWriterEx.java,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,DOMStreamReader.java,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,DummyLocation.java,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,FinalArrayList.java,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,MtomStreamWriter.java,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,XMLStreamReaderToXMLStreamWriter.java,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,ByteCodeVersionTest.java,Lukas Jungmann
+Mon Jul 19 22:54:12 2021,XMLStreamReaderToXMLStreamWriterTest.java,Lukas Jungmann

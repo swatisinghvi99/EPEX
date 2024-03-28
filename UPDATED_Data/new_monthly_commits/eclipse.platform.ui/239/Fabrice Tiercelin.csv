@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Sat Mar 20 11:32:20 2021,RefactoringDescriptor.java,Fabrice Tiercelin
+Sat Mar 20 11:32:20 2021,RefactoringHistoryManager.java,Fabrice Tiercelin
+Sat Mar 20 11:32:20 2021,RefactoringHistoryService.java,Fabrice Tiercelin
+Sat Mar 20 11:32:20 2021,BrowseRefactoringHistoryContentProvider.java,Fabrice Tiercelin
+Sat Mar 20 11:32:20 2021,RefactoringWizard.java,Fabrice Tiercelin
+Sat Mar 20 11:32:20 2021,AbstractResourceMappingMerger.java,Fabrice Tiercelin
+Sat Mar 20 11:32:20 2021,AbstractSynchronizationContentProvider.java,Fabrice Tiercelin

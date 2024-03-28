@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Thu Dec  8 17:02:34 2016,StraightenToCommand.java,Laurent Redor
+Thu Dec  8 17:02:34 2016,straightenTo.aird,Laurent Redor
+Thu Dec  8 17:02:34 2016,straightenTo.migrationmodeler,Laurent Redor
+Thu Dec  8 17:02:34 2016,StraightenToTest.java,Laurent Redor
+Fri Dec 16 14:21:17 2016,plugin.xml,Laurent Redor
+Fri Dec 16 14:21:17 2016,LabelColorAndFontPropertySection.java,Laurent Redor
+Fri Dec 16 14:21:17 2016,DEdgeNamePropertyFilter.java,Laurent Redor
+Fri Dec 16 14:21:17 2016,AbstractRefreshWithCustomizedStyleTest.java,Laurent Redor
+Fri Dec 16 14:21:17 2016,LabelFontModificationsTest.java,Laurent Redor
+Fri Dec 16 14:21:20 2016,plugin.xml,Laurent Redor
+Fri Dec 16 14:21:20 2016,AbstractDEdgeNameEditPart.java,Laurent Redor
+Fri Dec 16 14:21:20 2016,DiagramEditorContextMenuProvider.java,Laurent Redor
+Fri Dec 16 14:21:20 2016,LabelFontModificationsTest.java,Laurent Redor
+Thu Jan  5 16:57:53 2017,Release_Notes.html,Laurent Redor
+Thu Jan  5 16:57:53 2017,Release_Notes.textile,Laurent Redor
+Thu Jan  5 16:57:53 2017,MANIFEST.MF,Laurent Redor
+Thu Jan  5 16:57:53 2017,TestsUtil.java,Laurent Redor
+Thu Jan  5 16:57:53 2017,CompletionProposalInVSMTest.java,Laurent Redor
+Thu Jan  5 16:57:53 2017,MigrationOnVsmEditorReloadTest.java,Laurent Redor
+Thu Jan  5 16:57:56 2017,ExecutionLinkedMessageReconnectionTests.java,Laurent Redor
+Thu Jan  5 16:57:56 2017,ExecutionReconnectionTests.java,Laurent Redor

@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Tue Mar 25  4:44:29 2014,plugin.properties,Pascal Rapicault
+Tue Mar 25  4:44:29 2014,CompoundSetupTaskItemProvider.java,Pascal Rapicault
+Tue Mar 25  4:44:29 2014,ProjectsImportTaskItemProvider.java,Pascal Rapicault
+Tue Mar 25  4:44:29 2014,SetupItemProviderAdapterFactory.java,Pascal Rapicault
+Tue Mar 25  4:44:29 2014,SetupTaskContainerItemProvider.java,Pascal Rapicault
+Tue Mar 25  4:44:29 2014,setup.ecore,Pascal Rapicault
+Tue Mar 25  4:44:29 2014,BasicProjectAnalyzer.java,Pascal Rapicault
+Tue Mar 25  4:44:29 2014,WorkspaceUtil.java,Pascal Rapicault
+Tue Mar 25  4:44:29 2014,ProjectsImportTask.java,Pascal Rapicault
+Tue Mar 25  4:44:29 2014,SetupFactory.java,Pascal Rapicault
+Tue Mar 25  4:44:29 2014,SetupPackage.java,Pascal Rapicault
+Tue Mar 25  4:44:29 2014,ProjectsImportTaskImpl.java,Pascal Rapicault
+Tue Mar 25  4:44:29 2014,SetupFactoryImpl.java,Pascal Rapicault
+Tue Mar 25  4:44:29 2014,SetupPackageImpl.java,Pascal Rapicault
+Tue Mar 25  4:44:29 2014,SetupAdapterFactory.java,Pascal Rapicault
+Tue Mar 25  4:44:29 2014,SetupSwitch.java,Pascal Rapicault
+Tue Mar 25  4:46:23 2014,GitCloneTaskImpl.java,Pascal Rapicault
+Wed Mar 26  2:55:55 2014,WorkspaceUtil.java,Pascal Rapicault
+Wed Mar 26  2:55:55 2014,ProjectsImportTaskImpl.java,Pascal Rapicault

@@ -1,0 +1,197 @@
+[
+    [
+        "Chris Eichelberger",
+        "scala",
+        10
+    ],
+    [
+        "Jim Hughes",
+        "scala",
+        41
+    ],
+    [
+        "Jim Hughes",
+        "xml",
+        1
+    ],
+    [
+        "Anthony Fox",
+        "scala",
+        243
+    ],
+    [
+        "Anthony Fox",
+        "java",
+        9
+    ],
+    [
+        "Anthony Fox",
+        "xml",
+        28
+    ],
+    [
+        "Anthony Fox",
+        "md",
+        3
+    ],
+    [
+        "Anthony Fox",
+        "DataStoreFactorySpi",
+        2
+    ],
+    [
+        "Anthony Fox",
+        "Function",
+        1
+    ],
+    [
+        "Anthony Fox",
+        "GridFormatFactorySpi",
+        1
+    ],
+    [
+        "Anthony Fox",
+        "ProcessFactory",
+        1
+    ],
+    [
+        "Anthony Fox",
+        "ConverterFactory",
+        1
+    ],
+    [
+        "Emilio Lahr-Vivaz",
+        "scala",
+        52
+    ],
+    [
+        "Emilio Lahr-Vivaz",
+        "md",
+        1
+    ],
+    [
+        "Emilio Lahr-Vivaz",
+        "xml",
+        7
+    ],
+    [
+        "Emilio Lahr-Vivaz",
+        "properties",
+        3
+    ],
+    [
+        "Emilio Lahr-Vivaz",
+        "html",
+        8
+    ],
+    [
+        "Emilio Lahr-Vivaz",
+        "js",
+        2
+    ],
+    [
+        "David McWhorter",
+        "scala",
+        19
+    ],
+    [
+        "David McWhorter",
+        "java",
+        1
+    ],
+    [
+        "David McWhorter",
+        "xml",
+        2
+    ],
+    [
+        "Jake Kenneally",
+        "scala",
+        43
+    ],
+    [
+        "Jake Kenneally",
+        "md",
+        3
+    ],
+    [
+        "Jake Kenneally",
+        "unknown",
+        1
+    ],
+    [
+        "Jake Kenneally",
+        "sh",
+        1
+    ],
+    [
+        "Jake Kenneally",
+        "properties",
+        1
+    ],
+    [
+        "Andrew Annex",
+        "scala",
+        28
+    ],
+    [
+        "Andrew Annex",
+        "xml",
+        6
+    ],
+    [
+        "Andrew Annex",
+        "gitignore",
+        1
+    ],
+    [
+        "Andrew Annex",
+        "txt",
+        1
+    ],
+    [
+        "Andrew Annex",
+        "md",
+        2
+    ],
+    [
+        "Andrew Annex",
+        "properties",
+        2
+    ],
+    [
+        "Andrew Annex",
+        "csv",
+        2
+    ],
+    [
+        "Andrew Annex",
+        "tsv",
+        2
+    ],
+    [
+        "Andrew Annex",
+        "unknown",
+        1
+    ],
+    [
+        "Andrew Hulbert",
+        "scala",
+        12
+    ],
+    [
+        "Andrew Hulbert",
+        "xml",
+        2
+    ],
+    [
+        "Hunter Provyn",
+        "scala",
+        29
+    ],
+    [
+        "bproth",
+        "scala",
+        2
+    ]
+]

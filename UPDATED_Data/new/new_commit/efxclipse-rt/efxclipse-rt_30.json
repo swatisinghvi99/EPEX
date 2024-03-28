@@ -1,0 +1,117 @@
+[
+    [
+        "Thorsten Hake",
+        "java",
+        6
+    ],
+    [
+        "Thorsten Hake",
+        "classpath",
+        1
+    ],
+    [
+        "Thorsten Hake",
+        "MF",
+        1
+    ],
+    [
+        "Christoph Keimel",
+        "java",
+        4
+    ],
+    [
+        "Christoph Keimel",
+        "MF",
+        1
+    ],
+    [
+        "Christoph Keimel",
+        "xml",
+        1
+    ],
+    [
+        "Tom Schindl",
+        "java",
+        232
+    ],
+    [
+        "Tom Schindl",
+        "xml",
+        33
+    ],
+    [
+        "Tom Schindl",
+        "properties",
+        5
+    ],
+    [
+        "Tom Schindl",
+        "MF",
+        49
+    ],
+    [
+        "Tom Schindl",
+        "prefs",
+        10
+    ],
+    [
+        "Tom Schindl",
+        "g",
+        8
+    ],
+    [
+        "Tom Schindl",
+        "tokens",
+        8
+    ],
+    [
+        "Tom Schindl",
+        "ecore",
+        3
+    ],
+    [
+        "Tom Schindl",
+        "genmodel",
+        3
+    ],
+    [
+        "Tom Schindl",
+        "xtext",
+        4
+    ],
+    [
+        "Tom Schindl",
+        "xtend",
+        3
+    ],
+    [
+        "Tom Schindl",
+        "css",
+        3
+    ],
+    [
+        "Tom Schindl",
+        "classpath",
+        3
+    ],
+    [
+        "Tom Schindl",
+        "gitignore",
+        4
+    ],
+    [
+        "Tom Schindl",
+        "project",
+        3
+    ],
+    [
+        "Tom Schindl",
+        "IconFontProvider",
+        1
+    ],
+    [
+        "Tom Schindl",
+        "ValueSerializer",
+        1
+    ]
+]

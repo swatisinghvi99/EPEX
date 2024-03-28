@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Fri Nov 28 15:10:18 2014,CertificateRequest.java,Simon Bernard
+Mon Dec  1 13:08:35 2014,DTLSConnector.java,Simon Bernard
+Mon Dec  1 17:35:45 2014,ClientHandshaker.java,Simon Bernard
+Mon Dec  1 17:35:45 2014,DTLSSession.java,Simon Bernard
+Mon Dec  1 17:35:45 2014,ServerHandshaker.java,Simon Bernard
+Tue Dec  2 13:22:59 2014,DTLSConnectorConfig.java,Simon Bernard
+Tue Dec  2 13:22:59 2014,CertificateMessage.java,Simon Bernard
+Tue Dec  2 13:22:59 2014,ClientHandshaker.java,Simon Bernard
+Tue Dec  2 13:22:59 2014,Handshaker.java,Simon Bernard
+Tue Dec  2 13:22:59 2014,ServerHandshaker.java,Simon Bernard
+Tue Dec  2 14:20:23 2014,DTLSConnector.java,Simon Bernard
+Tue Dec  2 14:20:23 2014,Handshaker.java,Simon Bernard
+Wed Dec  3 10:38:19 2014,CertificateMessage.java,Simon Bernard
+Wed Dec  3 10:38:19 2014,ClientHandshaker.java,Simon Bernard
+Wed Dec  3 10:38:19 2014,ServerHandshaker.java,Simon Bernard
+Wed Dec  3 11:02:38 2014,DTLSConnectorConfig.java,Simon Bernard

@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Tue Aug 16 12:17:47 2022,verify.yaml,bcronin90
+Tue Aug 16 12:17:47 2022,CoreServicesExtension.java,bcronin90
+Tue Aug 16 12:17:47 2022,DefaultCertificateResolver.java,bcronin90
+Tue Aug 16 12:17:47 2022,DefaultCertificateResolverTest.java,bcronin90
+Tue Aug 16 12:17:47 2022,testCert.pem,bcronin90
+Tue Aug 16 12:17:47 2022,modules.md,bcronin90
+Tue Aug 16 12:17:47 2022,AzureVaultExtension.java,bcronin90
+Tue Aug 16 12:17:47 2022,AzureCertificateResolverTest.java,bcronin90
+Tue Aug 16 12:17:47 2022,README.md,bcronin90
+Tue Aug 16 12:17:47 2022,build.gradle.kts,bcronin90
+Tue Aug 16 12:17:47 2022,CreateEntryRequestPayload.java,bcronin90
+Tue Aug 16 12:17:47 2022,CreateEntryRequestPayloadOptions.java,bcronin90
+Tue Aug 16 12:17:47 2022,CreateEntryResponsePayload.java,bcronin90
+Tue Aug 16 12:17:47 2022,EntryMetadata.java,bcronin90
+Tue Aug 16 12:17:47 2022,GetEntryResponsePayload.java,bcronin90
+Tue Aug 16 12:17:47 2022,GetEntryResponsePayloadGetVaultEntryData.java,bcronin90
+Tue Aug 16 12:17:47 2022,HashicorpVault.java,bcronin90
+Tue Aug 16 12:17:47 2022,HashicorpVaultClient.java,bcronin90
+Tue Aug 16 12:17:47 2022,HashicorpVaultConfig.java,bcronin90
+Tue Aug 16 12:17:47 2022,HashicorpVaultExtension.java,bcronin90
+Tue Aug 16 12:17:47 2022,org.eclipse.dataspaceconnector.spi.system.ServiceExtension,bcronin90
+Tue Aug 16 12:17:47 2022,HashicorpVaultIntegrationTest.java,bcronin90
+Tue Aug 16 12:17:47 2022,HashicorpVaultTest.java,bcronin90
+Tue Aug 16 12:17:47 2022,settings.gradle.kts,bcronin90

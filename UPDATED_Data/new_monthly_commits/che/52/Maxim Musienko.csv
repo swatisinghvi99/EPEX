@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Thu May 21  8:18:37 2020,GitPlugin.ts,Maxim Musienko
+Mon Jun  1  9:14:56 2020,TestConstants.ts,Maxim Musienko
+Mon Jun  1  9:14:56 2020,index.ts,Maxim Musienko
+Mon Jun  1  9:14:56 2020,inversify.config.ts,Maxim Musienko
+Mon Jun  1  9:14:56 2020,inversify.types.ts,Maxim Musienko
+Mon Jun  1  9:14:56 2020,mocha-connector.opts,Maxim Musienko
+Mon Jun  1  9:14:56 2020,package.json,Maxim Musienko
+Mon Jun  1  9:14:56 2020,Dashboard.ts,Maxim Musienko
+Mon Jun  1  9:14:56 2020,DialogWindow.ts,Maxim Musienko
+Mon Jun  1  9:14:56 2020,Ide.ts,Maxim Musienko
+Mon Jun  1  9:14:56 2020,LeftToolBar.ts,Maxim Musienko
+Mon Jun  1  9:14:56 2020,OpenDialogWidget.ts,Maxim Musienko
+Mon Jun  1  9:14:56 2020,OpenWorkspaceWidget.ts,Maxim Musienko
+Mon Jun  1  9:14:56 2020,OpenshiftPlugin.ts,Maxim Musienko
+Mon Jun  1  9:14:56 2020,ProjectTree.ts,Maxim Musienko
+Mon Jun  1  9:14:56 2020,QuickOpenContainer.ts,Maxim Musienko
+Mon Jun  1  9:14:56 2020,OpenshiftConnector.spec.ts,Maxim Musienko
+Mon Jun  1  9:14:56 2020,HappyPath.spec.ts,Maxim Musienko

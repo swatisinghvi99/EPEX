@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Tue Nov 29 11:56:25 2011,plugin.xml,Mathias Kinzler
+Tue Nov 29 11:56:25 2011,UIText.java,Mathias Kinzler
+Tue Nov 29 11:56:25 2011,CommitGraphTable.java,Mathias Kinzler
+Tue Nov 29 11:56:25 2011,DeleteBranchOnCommitHandler.java,Mathias Kinzler
+Tue Nov 29 11:56:25 2011,HistoryViewCommands.java,Mathias Kinzler
+Tue Nov 29 11:56:25 2011,uitext.properties,Mathias Kinzler
+Wed Nov 30  9:42:06 2011,GitRepositoriesViewBranchHandlingTest.java,Mathias Kinzler
+Wed Nov 30  9:42:06 2011,UIText.java,Mathias Kinzler
+Wed Nov 30  9:42:06 2011,BranchSelectionDialog.java,Mathias Kinzler
+Wed Nov 30  9:42:06 2011,DeleteBranchDialog.java,Mathias Kinzler
+Wed Nov 30  9:42:06 2011,UnmergedBranchDialog.java,Mathias Kinzler
+Wed Nov 30  9:42:06 2011,CheckoutCommitHandler.java,Mathias Kinzler
+Wed Nov 30  9:42:06 2011,DeleteBranchOnCommitHandler.java,Mathias Kinzler
+Wed Nov 30  9:42:06 2011,MergeHandler.java,Mathias Kinzler
+Wed Nov 30  9:42:06 2011,DeleteBranchCommand.java,Mathias Kinzler
+Wed Nov 30  9:42:06 2011,uitext.properties,Mathias Kinzler

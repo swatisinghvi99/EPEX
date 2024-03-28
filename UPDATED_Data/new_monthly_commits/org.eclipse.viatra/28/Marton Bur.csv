@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Sun Apr 19 23:03:50 2015,CreateBreakPointHandler.java,Marton Bur
+Mon Apr 27 13:57:24 2015,MatchingFrame.java,Marton Bur
+Mon Apr 27 13:57:24 2015,LocalSearchResultProvider.java,Marton Bur
+Mon Apr 27 13:57:24 2015,NACOperation.java,Marton Bur
+Mon Apr 27 13:57:24 2015,CountOperation.java,Marton Bur
+Mon Apr 27 13:57:24 2015,LocalSearchPlanner.java,Marton Bur
+Mon Apr 27 13:57:24 2015,CompilerHelper.java,Marton Bur
+Mon Apr 27 13:57:24 2015,LocalSearchDebugger.java,Marton Bur
+Mon Apr 27 13:57:24 2015,RunLocalSearchHandler.java,Marton Bur
+Mon Apr 27 13:57:24 2015,StartLocalSearchHandler.java,Marton Bur
+Mon Apr 27 13:57:24 2015,FrameViewerContentProvider.java,Marton Bur
+Mon Apr 27 13:57:24 2015,FrameViewerLabelProvider.java,Marton Bur
+Mon Apr 27 13:57:24 2015,LocalSearchDebugView.java,Marton Bur
+Tue Apr 28 14:41:24 2015,LocalSearchResultProvider.java,Marton Bur
+Tue Apr 28 14:41:24 2015,DefaultFlattenCallPredicate.java,Marton Bur
+Tue Apr 28 14:41:24 2015,IFlattenCallPredicate.java,Marton Bur
+Tue Apr 28 14:41:24 2015,PQueryFlattener.java,Marton Bur

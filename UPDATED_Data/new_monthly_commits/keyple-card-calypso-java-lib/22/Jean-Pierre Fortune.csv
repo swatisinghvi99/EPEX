@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Mon Jul 26 16:26:17 2021,Main_VerifyPin_Pcsc.java,Jean-Pierre Fortune
+Mon Jul 26 16:26:17 2021,Main_ChangePin_Pcsc.java,Jean-Pierre Fortune
+Mon Jul 26 16:26:17 2021,CalypsoConstants.java,Jean-Pierre Fortune
+Mon Jul 26 16:26:17 2021,CalypsoCardCommand.java,Jean-Pierre Fortune
+Mon Jul 26 16:26:17 2021,CalypsoCardUtilAdapter.java,Jean-Pierre Fortune
+Mon Jul 26 16:26:17 2021,CardChangePinBuilder.java,Jean-Pierre Fortune
+Mon Jul 26 16:26:17 2021,CardChangePinParser.java,Jean-Pierre Fortune
+Mon Jul 26 16:26:17 2021,CardGetDataFciParser.java,Jean-Pierre Fortune
+Mon Jul 26 16:26:17 2021,CardGetDataFcpParser.java,Jean-Pierre Fortune
+Mon Jul 26 16:26:17 2021,CardSecuritySettingAdapter.java,Jean-Pierre Fortune
+Mon Jul 26 16:26:17 2021,CardSelectFileParser.java,Jean-Pierre Fortune
+Mon Jul 26 16:26:17 2021,CardTransactionManagerAdapter.java,Jean-Pierre Fortune
+Mon Jul 26 16:26:17 2021,SamCommandProcessor.java,Jean-Pierre Fortune
+Mon Jul 26 16:26:17 2021,CalypsoCardAdapterTest.java,Jean-Pierre Fortune
+Mon Jul 26 16:26:17 2021,CalypsoExtensionServiceTest.java,Jean-Pierre Fortune
+Mon Jul 26 16:26:17 2021,CardTransactionManagerAdapterTest.java,Jean-Pierre Fortune
+Mon Jul 26 16:26:17 2021,org.mockito.plugins.MockMaker,Jean-Pierre Fortune
+Wed Aug 18 14:14:57 2021,CardCloseSessionBuilder.java,Jean-Pierre Fortune
+Wed Aug 18 14:14:57 2021,CardCloseSessionParser.java,Jean-Pierre Fortune
+Wed Aug 18 14:14:57 2021,CardSvGetBuilder.java,Jean-Pierre Fortune
+Wed Aug 18 14:14:57 2021,CardTransactionManagerAdapter.java,Jean-Pierre Fortune
+Wed Aug 18 15:11:54 2021,CalypsoConstants.java,Jean-Pierre Fortune

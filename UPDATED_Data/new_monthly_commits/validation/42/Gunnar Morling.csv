@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Thu Mar  7 11:37:31 2013,Configuration.java,Gunnar Morling
+Thu Mar  7 11:37:31 2013,ConstraintValidatorContext.java,Gunnar Morling
+Thu Mar  7 11:37:31 2013,ConstraintViolation.java,Gunnar Morling
+Thu Mar  7 11:37:31 2013,ParameterNameProvider.java,Gunnar Morling
+Thu Mar  7 11:37:31 2013,TraversableResolver.java,Gunnar Morling
+Thu Mar  7 11:37:31 2013,ValidatorContext.java,Gunnar Morling
+Thu Mar  7 11:37:31 2013,ExecutableValidator.java,Gunnar Morling
+Thu Mar  7 11:37:31 2013,ConstraintDescriptor.java,Gunnar Morling
+Thu Mar  7 11:37:31 2013,ConfigurationState.java,Gunnar Morling

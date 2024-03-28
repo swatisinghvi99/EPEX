@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Mon Dec 26 18:56:34 2016,InitializeViewersHandler.java,Abel Hegedus
+Tue Jan 10  9:38:16 2017,RuleSpecification.java,Abel Hegedus
+Tue Jan 10 13:29:52 2017,BuildNotifierCompilationParticipant.xtend,Abel Hegedus
+Tue Jan 10 13:29:52 2017,JDTActivationLifeCycle.xtend,Abel Hegedus
+Tue Jan 10 13:29:52 2017,JDTActivationState.java,Abel Hegedus
+Tue Jan 10 13:29:52 2017,JDTEventAtom.xtend,Abel Hegedus
+Tue Jan 10 13:29:52 2017,JDTEventHandler.xtend,Abel Hegedus
+Tue Jan 10 13:29:52 2017,JDTEventSource.xtend,Abel Hegedus
+Tue Jan 10 13:29:52 2017,JDTEventType.java,Abel Hegedus
+Tue Jan 10 13:29:52 2017,JDTRealm.xtend,Abel Hegedus
+Tue Jan 10 13:29:52 2017,JDTTransactionalEventSource.xtend,Abel Hegedus
+Tue Jan 10 13:29:52 2017,JDTTransactionalLifecycle.xtend,Abel Hegedus
+Tue Jan 10 13:29:52 2017,ElementChangedEventType.java,Abel Hegedus
+Tue Jan 10 13:29:52 2017,JDTChangeFlagDecoder.xtend,Abel Hegedus
+Tue Jan 10 13:29:52 2017,JDTElementChangedEventTypeDecoder.xtend,Abel Hegedus
+Tue Jan 10 13:29:52 2017,JDTEventTypeDecoder.xtend,Abel Hegedus

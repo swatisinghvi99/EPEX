@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Tue Jan  2 12:53:41 2018,ImplementationClass.java,Roman Grigoriadi
+Tue Jan  2 12:53:41 2018,AnnotationIntrospector.java,Roman Grigoriadi
+Tue Jan  2 12:53:41 2018,JsonbConfigProperties.java,Roman Grigoriadi
+Tue Jan  2 12:53:41 2018,PropertyModel.java,Roman Grigoriadi
+Tue Jan  2 12:53:41 2018,PropertyCustomization.java,Roman Grigoriadi
+Tue Jan  2 12:53:41 2018,PropertyCustomizationBuilder.java,Roman Grigoriadi
+Tue Jan  2 12:53:41 2018,MessageKeys.java,Roman Grigoriadi
+Tue Jan  2 12:53:41 2018,DeserializerBuilder.java,Roman Grigoriadi
+Tue Jan  2 12:53:41 2018,yasson-messages.properties,Roman Grigoriadi
+Tue Jan  2 12:53:41 2018,ImplementationClassTest.java,Roman Grigoriadi
+Tue Jan  2 12:53:41 2018,Animal.java,Roman Grigoriadi
+Tue Jan  2 12:53:41 2018,Dog.java,Roman Grigoriadi
+Tue Jan  2 12:53:41 2018,ImplementationClassPojo.java,Roman Grigoriadi

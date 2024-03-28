@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Wed Dec  8  9:43:00 2021,MANIFEST.MF,Andre Bossert
+Wed Dec  8  9:43:00 2021,DiffToolTest.java,Andre Bossert
+Wed Dec  8  9:43:00 2021,DiffTool.java,Andre Bossert
+Wed Dec  8  9:43:00 2021,ExternalDiffToolTest.java,Andre Bossert
+Wed Dec  8  9:43:00 2021,MANIFEST.MF,Andre Bossert
+Wed Dec  8  9:43:00 2021,CommandLineDiffTool.java,Andre Bossert
+Wed Dec  8  9:43:00 2021,DiffToolConfig.java,Andre Bossert
+Wed Dec  8  9:43:00 2021,DiffTools.java,Andre Bossert
+Wed Dec  8  9:43:00 2021,PreDefinedDiffTool.java,Andre Bossert
+Wed Dec  8  9:43:00 2021,UserDefinedDiffTool.java,Andre Bossert
+Wed Dec  8  9:43:00 2021,ConfigConstants.java,Andre Bossert

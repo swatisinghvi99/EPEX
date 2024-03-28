@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Thu Sep 26 17:47:48 2019,plugin.xml,Benedikt Kuntz
+Thu Sep 26 17:47:48 2019,ExpandableCompositeElement.java,Benedikt Kuntz
+Thu Sep 26 17:47:48 2019,ExpandableCompositeElementProvider.java,Benedikt Kuntz
+Thu Sep 26 17:47:48 2019,FormsElementProvider.java,Benedikt Kuntz
+Thu Sep 26 17:47:48 2019,SectionElement.java,Benedikt Kuntz
+Thu Sep 26 17:47:48 2019,CSSPropertyExpandableCompositeHandler.java,Benedikt Kuntz
+Thu Sep 26 17:47:48 2019,CSSPropertyTitleFormsHandler.java,Benedikt Kuntz
+Thu Sep 26 17:47:48 2019,CssSwtTestSuite.java,Benedikt Kuntz
+Thu Sep 26 17:47:48 2019,ExpandableCompositeTest.java,Benedikt Kuntz
+Thu Sep 26 17:47:48 2019,SectionTest.java,Benedikt Kuntz
+Tue Oct  1  9:38:35 2019,MANIFEST.MF,Benedikt Kuntz
+Tue Oct  1  9:38:35 2019,pom.xml,Benedikt Kuntz
+Tue Oct  1  9:38:35 2019,BaseApplicationModelWizard.java,Benedikt Kuntz
+Wed Oct  2 11:02:25 2019,CSSPropertyTextSWTHandler.java,Benedikt Kuntz
+Wed Oct  2 11:02:25 2019,CSSBackgroundModePropertyHandler.java,Benedikt Kuntz
+Wed Oct  2 11:02:25 2019,CSSPropertySelectionBackgroundHandler.java,Benedikt Kuntz
+Wed Oct  2 11:02:25 2019,CSSPropertyTabPositionSWTHandler.java,Benedikt Kuntz
+Wed Oct  2 11:02:25 2019,CSSPropertyTreeArrowsSWTHandler.java,Benedikt Kuntz
+Wed Oct  2 11:02:25 2019,CSSPropertyUnselectHotTabsColorBackgroundHandler.java,Benedikt Kuntz
+Wed Oct  2 11:02:25 2019,CSSPropertyFormHandler.java,Benedikt Kuntz
+Wed Oct  2 11:02:25 2019,TabbedPropertyListCssPropertyHandler.java,Benedikt Kuntz
+Wed Oct  2 11:02:25 2019,TabbedPropertyTitleCssPropertyHandler.java,Benedikt Kuntz

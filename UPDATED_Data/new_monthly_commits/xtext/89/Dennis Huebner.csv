@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Fri Sep 18  9:31:16 2015,IGeneratorConfigProvider.java,Dennis Huebner
+Fri Sep 18 15:07:29 2015,GradleBuildFileUtilTest.xtend,Dennis Huebner
+Fri Sep 18 15:07:29 2015,XtendLibraryManagerTest.xtend,Dennis Huebner
+Fri Sep 18 15:07:29 2015,plugin.xml,Dennis Huebner
+Fri Sep 18 15:07:29 2015,GradleBuildFileUtility.xtend,Dennis Huebner
+Fri Sep 18 15:07:29 2015,XtendLibraryConfigurator.xtend,Dennis Huebner
+Fri Sep 18 15:07:29 2015,XtendProjectConfigurator.xtend,Dennis Huebner
+Fri Sep 18 15:07:29 2015,XtendFrameworkDetector.java,Dennis Huebner
+Fri Sep 18 15:07:29 2015,XtendFrameworkSupportProvider.xtend,Dennis Huebner
+Fri Sep 18 15:07:29 2015,XtendFrameworkType.xtend,Dennis Huebner
+Fri Sep 18 15:07:29 2015,XtendGradleFrameworkSupportProvider.xtend,Dennis Huebner
+Fri Sep 18 15:07:29 2015,XtendLibraryDescription.xtend,Dennis Huebner
+Fri Sep 18 15:07:29 2015,XtendLibraryPresentationProvider.xtend,Dennis Huebner
+Fri Sep 18 15:07:29 2015,XtendLibraryProperties.xtend,Dennis Huebner
+Fri Sep 18 15:07:29 2015,XtendSupportConfigurable.xtend,Dennis Huebner
+Fri Sep 18 15:07:29 2015,XtendIntentionsProvider.xtend,Dennis Huebner
+Fri Sep 18 15:07:34 2015,XtendProjectConfigurator.xtend,Dennis Huebner
+Fri Sep 18 15:07:34 2015,XtendFrameworkDetector.java,Dennis Huebner
+Wed Sep 23  7:09:44 2015,BuildSystem.java,Dennis Huebner
+Wed Sep 23  7:09:44 2015,SourceLayout.java,Dennis Huebner
+Thu Sep 24 14:15:45 2015,Outlet.java,Dennis Huebner
+Thu Sep 24 14:15:45 2015,ProjectDescriptor.xtend,Dennis Huebner
+Thu Sep 24 14:15:45 2015,RuntimeProjectDescriptor.xtend,Dennis Huebner
+Fri Sep 25 12:24:02 2015,GeneratorDelegate.java,Dennis Huebner

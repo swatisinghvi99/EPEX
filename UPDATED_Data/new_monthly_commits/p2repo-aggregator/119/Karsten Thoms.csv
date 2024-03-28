@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Fri Sep 27 12:36:18 2019,Maven2RepositoryLoader.java,Karsten Thoms
+Fri Sep 27 14:00:15 2019,Builder.java,Karsten Thoms
+Fri Sep 27 14:00:15 2019,Engine.java,Karsten Thoms
+Fri Sep 27 14:00:15 2019,InternalMetadataRepository.java,Karsten Thoms
+Fri Sep 27 14:00:15 2019,InternalMetadataRepositoryFactory.java,Karsten Thoms
+Fri Sep 27 14:00:15 2019,InternalMetadataRepositoryIO.java,Karsten Thoms
+Mon Sep 30  6:36:27 2019,BackgroundProvisioningAgent.java,Karsten Thoms
+Mon Sep 30  6:36:27 2019,pom.xml,Karsten Thoms
+Mon Sep 30  6:36:27 2019,org.eclipse.cbi.p2repo.aggregator.prereqs.target,Karsten Thoms
+Mon Sep 30  6:36:27 2019,pom.xml,Karsten Thoms
+Fri Oct 25 12:45:21 2019,FindNextIUAction.java,Karsten Thoms
+Fri Oct 25 12:45:21 2019,FindPreviousIUAction.java,Karsten Thoms
+Fri Oct 25 12:45:21 2019,OpenFindIUDialogAction.java,Karsten Thoms

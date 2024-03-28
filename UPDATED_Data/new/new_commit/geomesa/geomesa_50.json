@@ -1,0 +1,132 @@
+[
+    [
+        "Anthony Fox",
+        "scala",
+        9
+    ],
+    [
+        "Emilio",
+        "rst",
+        15
+    ],
+    [
+        "Emilio",
+        "scala",
+        189
+    ],
+    [
+        "Emilio",
+        "TransformerFunctionFactory",
+        1
+    ],
+    [
+        "Emilio",
+        "tsv",
+        3
+    ],
+    [
+        "Emilio",
+        "list",
+        1
+    ],
+    [
+        "Emilio",
+        "xml",
+        10
+    ],
+    [
+        "Emilio",
+        "sh",
+        1
+    ],
+    [
+        "Emilio",
+        "SpatialRDDProvider",
+        1
+    ],
+    [
+        "Emilio",
+        "java",
+        11
+    ],
+    [
+        "Emilio",
+        "PartitionSchemeFactory",
+        1
+    ],
+    [
+        "Emilio",
+        "FileSystemStorageFactory",
+        1
+    ],
+    [
+        "James Hughes",
+        "scala",
+        8
+    ],
+    [
+        "James Hughes",
+        "rst",
+        2
+    ],
+    [
+        "James Hughes",
+        "xml",
+        2
+    ],
+    [
+        "jmglenn",
+        "scala",
+        1
+    ],
+    [
+        "Atallah Hezbor",
+        "scala",
+        14
+    ],
+    [
+        "Atallah Hezbor",
+        "tsv",
+        1
+    ],
+    [
+        "Atallah Hezbor",
+        "rst",
+        2
+    ],
+    [
+        "Atallah Hezbor",
+        "xml",
+        2
+    ],
+    [
+        "Austin Heyne",
+        "rst",
+        9
+    ],
+    [
+        "Austin Heyne",
+        "unknown",
+        7
+    ],
+    [
+        "Austin Heyne",
+        "sh",
+        1
+    ],
+    [
+        "Austin Heyne",
+        "html",
+        1
+    ],
+    [
+        "Austin Heyne",
+        "scala",
+        7
+    ],
+    [
+        "Andrew",
+        "scala",
+        1
+    ]
+]

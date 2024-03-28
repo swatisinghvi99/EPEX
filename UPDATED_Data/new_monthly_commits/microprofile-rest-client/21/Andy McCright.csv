@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Wed Mar 20 21:28:57 2019,clientexamples.asciidoc,Andy McCright
+Wed Mar 20 21:28:57 2019,providers.asciidoc,Andy McCright
+Wed Mar 20 21:28:57 2019,DefaultMIMETypeTest.java,Andy McCright
+Wed Mar 20 21:28:57 2019,InvokeWithJsonBProviderTest.java,Andy McCright
+Wed Mar 20 21:28:57 2019,StringClient.java,Andy McCright
+Wed Mar 20 21:28:57 2019,ReturnWithSpecifiedHeaderFilter.java,Andy McCright
+Wed Apr  3  1:24:53 2019,RegisterRestClient.java,Andy McCright
+Wed Apr  3  1:24:53 2019,cdi.asciidoc,Andy McCright
+Wed Apr  3  1:24:53 2019,release_notes.asciidoc,Andy McCright
+Wed Apr  3  1:24:53 2019,CDIInvokeWithRegisteredProvidersTest.java,Andy McCright
+Wed Apr  3  1:24:53 2019,ConfigKeyForMultipleInterfacesTest.java,Andy McCright
+Wed Apr  3  1:24:53 2019,ConfigKeyTest.java,Andy McCright
+Wed Apr  3  1:24:53 2019,HasAppScopeTest.java,Andy McCright
+Wed Apr  3  1:24:53 2019,HasConversationScopeTest.java,Andy McCright
+Wed Apr  3  1:24:53 2019,HasRequestScopeTest.java,Andy McCright
+Wed Apr  3  1:24:53 2019,HasSessionScopeTest.java,Andy McCright
+Wed Apr  3  1:24:53 2019,HasSingletonScopeTest.java,Andy McCright
+Wed Apr  3  1:24:53 2019,ConfigKeyClient.java,Andy McCright
+Wed Apr  3  1:24:53 2019,ConfigKeyClient2.java,Andy McCright
+Wed Apr  3  1:24:53 2019,InterfaceWithoutProvidersDefinedWithConfigKey.java,Andy McCright
+Wed Apr  3  1:24:53 2019,SimpleGetApiWithConfigKey.java,Andy McCright
+Wed Apr  3  1:24:53 2019,TimeoutViaMPConfigWithConfigKeyTest.java,Andy McCright
+Thu Apr  4 21:38:49 2019,lifecycle.asciidoc,Andy McCright
+Thu Apr  4 21:38:49 2019,microprofile-rest-client.asciidoc,Andy McCright
+Thu Apr  4 21:38:49 2019,release_notes.asciidoc,Andy McCright
+Thu Apr  4 21:38:49 2019,CloseTest.java,Andy McCright

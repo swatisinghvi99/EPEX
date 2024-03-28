@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Mon Apr 25  6:11:41 2016,CachingSessionStore.java,Jan Bartel
+Thu Apr 28  6:18:29 2016,CachingSessionStore.java,Jan Bartel
+Thu Apr 28  6:18:29 2016,DefaultSessionCache.java,Jan Bartel
+Thu Apr 28  6:18:29 2016,FileSessionStore.java,Jan Bartel
+Thu Apr 28  6:18:29 2016,FileSessionStoreFactory.java,Jan Bartel
+Thu Apr 28  6:18:29 2016,JDBCSessionStore.java,Jan Bartel
+Thu Apr 28  6:18:29 2016,JDBCSessionStoreFactory.java,Jan Bartel
+Thu Apr 28  6:18:29 2016,FileSessionManagerTest.java,Jan Bartel
+Thu Apr 28  6:18:29 2016,FileTestServer.java,Jan Bartel
+Thu Apr 28  6:18:29 2016,JdbcTestServer.java,Jan Bartel
+Thu Apr 28  6:18:29 2016,AbstractLastAccessTimeTest.java,Jan Bartel
+Thu Apr 28  6:18:29 2016,AbstractRemoveSessionTest.java,Jan Bartel
+Thu Apr 28  6:18:29 2016,TestServer.java,Jan Bartel
+Thu Apr 28  6:26:30 2016,jetty-jdbc-session-store.xml,Jan Bartel
+Thu Apr 28  6:26:30 2016,jdbc-session-store.mod,Jan Bartel
+Thu Apr 28  6:26:30 2016,JDBCSessionStoreFactory.java,Jan Bartel
+Fri Apr 29  4:38:34 2016,MongoSessionManager.java,Jan Bartel
+Fri Apr 29  5:10:52 2016,CachingSessionStoreFactory.java,Jan Bartel

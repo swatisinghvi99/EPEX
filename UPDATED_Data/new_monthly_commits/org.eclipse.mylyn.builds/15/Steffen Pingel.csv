@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Fri Jul 15 23:11:56 2011,ChangesLabelProvider.java,Steffen Pingel
+Sun Jul 24  0:32:26 2011,MANIFEST.MF,Steffen Pingel
+Sun Jul 24  0:32:26 2011,AllHudsonTests.java,Steffen Pingel
+Sun Jul 24  0:32:26 2011,pom.xml,Steffen Pingel
+Fri Aug 12 17:15:18 2011,JUnitResultGenerator.java,Steffen Pingel
+Fri Aug 12 17:15:18 2011,BuildsUiPlugin.java,Steffen Pingel
+Fri Aug 12 17:15:18 2011,TestResultManager.java,Steffen Pingel
+Fri Aug 12 17:15:18 2011,HudsonServerBehaviour.java,Steffen Pingel
+Fri Aug 12 17:15:18 2011,JUnit4IgnoreTest.java,Steffen Pingel

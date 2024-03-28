@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Fri Jan 10 14:16:21 2014,StrategyForwardConverter.java,Christophe Bouhier
+Fri Jan 10 14:16:21 2014,CDOMigrator.java,Christophe Bouhier
+Fri Jan 10 14:16:21 2014,CDOPersistency.java,Christophe Bouhier
+Fri Jan 10 14:16:21 2014,EdaptCDOViewProvider.java,Christophe Bouhier
+Fri Jan 10 14:16:21 2014,MigrationReconstructor.java,Christophe Bouhier
+Fri Jan 10 14:16:21 2014,Migrator.java,Christophe Bouhier
+Fri Jan 10 14:16:21 2014,repo_source.lock.db,Christophe Bouhier
+Fri Jan 10 14:16:21 2014,repo_target.lock.db,Christophe Bouhier
+Fri Jan 10 14:16:21 2014,MANIFEST.MF,Christophe Bouhier
+Fri Jan 10 14:16:21 2014,CDOMigrationTestBase.java,Christophe Bouhier
+Fri Jan 10 14:16:21 2014,CDOMigrationTestCase.java,Christophe Bouhier
+Fri Jan 10 14:16:21 2014,EdaptCDOViewProvider.java,Christophe Bouhier

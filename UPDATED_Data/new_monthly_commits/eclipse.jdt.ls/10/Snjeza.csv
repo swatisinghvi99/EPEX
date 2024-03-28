@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Fri Nov 10 19:08:23 2017,DocumentSymbolHandler.java,Snjeza
+Fri Nov 10 19:08:23 2017,DocumentSymbolHandlerTest.java,Snjeza
+Wed Nov 29  0:38:37 2017,JavaLanguageServerPlugin.java,Snjeza
+Wed Nov 29  0:38:37 2017,ProjectUtils.java,Snjeza
+Wed Nov 29  0:38:37 2017,JDTLanguageServer.java,Snjeza
+Wed Nov 29  0:38:37 2017,GradleBuildSupport.java,Snjeza
+Wed Nov 29  0:38:37 2017,GradleProjectImporter.java,Snjeza
+Wed Nov 29  0:38:37 2017,ProjectsManager.java,Snjeza
+Wed Nov 29  0:38:37 2017,GradleProjectImporterTest.java,Snjeza
+Thu Nov 30 18:26:33 2017,JavaLanguageServerPlugin.java,Snjeza
+Thu Nov 30 18:26:33 2017,JobHelpers.java,Snjeza
+Thu Nov 30 18:26:33 2017,InitHandler.java,Snjeza
+Thu Nov 30 18:26:33 2017,JDTLanguageServer.java,Snjeza
+Thu Nov 30 18:26:33 2017,ProjectsManager.java,Snjeza
+Thu Nov 30 18:26:33 2017,ClientPreferences.java,Snjeza
+Thu Nov 30 18:26:33 2017,Preferences.java,Snjeza
+Thu Nov 30 18:26:33 2017,InitHandlerTest.java,Snjeza
+Thu Nov 30 18:26:33 2017,JDTLanguageServerTest.java,Snjeza
+Thu Dec  7 15:06:44 2017,InitHandler.java,Snjeza
+Thu Dec  7 15:06:44 2017,JDTLanguageServer.java,Snjeza
+Thu Dec  7 15:06:44 2017,WorkspaceDiagnosticsHandler.java,Snjeza
+Thu Dec  7 15:06:44 2017,WorkspaceDiagnosticsHandlerTest.java,Snjeza

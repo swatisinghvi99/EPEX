@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Thu Oct  1 14:10:04 2020,TestResult.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,AasxCsharpLibrary.Tests.csproj,Marko Ristin
+Thu Oct  1 14:10:04 2020,AAS.xsd,Marko Ristin
+Thu Oct  1 14:10:04 2020,IEC61360.xsd,Marko Ristin
+Thu Oct  1 14:10:04 2020,TestLoadSaveChain.cs,Marko Ristin
+Thu Oct  1 14:10:04 2020,01_Festo.aasx.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,02_Bosch.aasx.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,03_Bosch.aasx.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,04_Bosch.aasx.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,05_Bosch.aasx.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,06_Bosch.aasx.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,07_PhoenixContact.aasx.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,08_SchneiderElectric.aasx.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,09_SchneiderElectric.aasx.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,10_SchneiderElectric.aasx.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,11_SchneiderElectric.aasx.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,12_Pepperl+Fuchs.aasx.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,13_DKE.aasx.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,14_Siemens.aasx.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,15_Siemens.aasx.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,16_Lenze.aasx.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,17_ABB.aasx.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,18_Hitachi_HX_DigTyp40.aasx.xml,Marko Ristin
+Thu Oct  1 14:10:04 2020,TestValidateXml.cs,Marko Ristin
+Thu Oct  1 14:10:04 2020,AdminShell.cs,Marko Ristin
+Thu Oct  1 14:10:04 2020,AdminShellValidate.cs,Marko Ristin

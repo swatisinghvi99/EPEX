@@ -1,0 +1,6 @@
+date_time,file,committer_name
+Tue Oct  1 17:37:03 2013,KeyBindingDispatcher.java,Paul Elder
+Tue Oct  1 17:59:08 2013,CommandServiceAddon.java,Paul Elder
+Tue Oct  1 17:59:08 2013,HandlerServiceHandler.java,Paul Elder
+Tue Oct  1 17:59:08 2013,HandlerServiceImpl.java,Paul Elder
+Tue Oct  1 17:59:08 2013,Bug417762Test.java,Paul Elder

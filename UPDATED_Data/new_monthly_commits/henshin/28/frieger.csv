@@ -1,0 +1,39 @@
+date_time,file,committer_name
+Tue Feb  7 10:23:12 2012,MANIFEST.MF,frieger
+Tue Feb  7 10:23:12 2012,plugin.xml,frieger
+Tue Feb  7 10:23:12 2012,DiagramTransformation.java,frieger
+Tue Feb  7 10:23:12 2012,Transformation.java,frieger
+Tue Feb  7 10:23:12 2012,MigrateHenshinAction.java,frieger
+Tue Feb  7 10:23:12 2012,MigrationWizard.java,frieger
+Tue Feb  7 10:23:12 2012,MigrationWizardHandler.java,frieger
+Tue Feb  7 10:23:12 2012,MigrationWizardPage.java,frieger
+Wed Feb 15 10:51:15 2012,.classpath,frieger
+Wed Feb 15 10:51:15 2012,.project,frieger
+Wed Feb 15 10:51:15 2012,org.eclipse.jdt.core.prefs,frieger
+Wed Feb 15 10:51:15 2012,MANIFEST.MF,frieger
+Wed Feb 15 10:51:15 2012,build.properties,frieger
+Wed Feb 15 10:51:15 2012,Copy of amut.henshin,frieger
+Wed Feb 15 10:51:15 2012,Copy of tut.henshin,frieger
+Wed Feb 15 10:51:15 2012,amut.henshin,frieger
+Wed Feb 15 10:51:15 2012,cuTest.henshin,frieger
+Wed Feb 15 10:51:15 2012,newHenshin.henshin,frieger
+Wed Feb 15 10:51:15 2012,petriM.henshin,frieger
+Wed Feb 15 10:51:15 2012,philNew.henshin,frieger
+Wed Feb 15 10:51:15 2012,philosophers.henshin,frieger
+Wed Feb 15 10:51:15 2012,pnt2.henshin,frieger
+Wed Feb 15 10:51:15 2012,pnt2copy.henshin,frieger
+Wed Feb 15 10:51:15 2012,pnt2cp2.henshin,frieger
+Wed Feb 15 10:51:15 2012,r1.henshin,frieger
+Wed Feb 15 10:51:15 2012,tut.henshin,frieger
+Wed Feb 15 10:51:15 2012,henshin-080.ecore,frieger
+Wed Feb 15 10:51:15 2012,plugin.xml,frieger
+Wed Feb 15 10:51:15 2012,DiagramTransformation.java,frieger
+Wed Feb 15 10:51:15 2012,Transformation.java,frieger
+Wed Feb 15 10:51:15 2012,MigrateHenshinAction.java,frieger
+Wed Feb 15 10:51:15 2012,MigrationWizard.java,frieger
+Wed Feb 15 10:51:15 2012,MigrationWizardHandler.java,frieger
+Wed Feb 15 10:51:15 2012,MigrationWizardPage.java,frieger
+Sun Mar  4 10:58:51 2012,DiagramTransformation.java,frieger
+Sun Mar  4 10:58:51 2012,Transformation.java,frieger
+Sun Mar  4 11:30:49 2012,DiagramTransformation.java,frieger
+Sun Mar  4 11:30:49 2012,Transformation.java,frieger

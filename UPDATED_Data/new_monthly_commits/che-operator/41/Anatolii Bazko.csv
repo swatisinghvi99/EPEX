@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Tue May 10  8:32:53 2022,devfileregistry_configmap.go,Anatolii Bazko
+Tue May 10  8:32:53 2022,devfileregistry_deployment.go,Anatolii Bazko
+Tue May 10  8:32:53 2022,pluginregistry_configmap.go,Anatolii Bazko
+Tue May 10 11:56:20 2022,route.go,Anatolii Bazko
+Tue May 10 11:56:20 2022,route_test.go,Anatolii Bazko
+Wed May 11  6:12:53 2022,route.go,Anatolii Bazko
+Wed May 11 15:05:18 2022,che-operator.clusterserviceversion.yaml,Anatolii Bazko
+Wed May 11 15:05:18 2022,manager.yaml,Anatolii Bazko
+Wed May 11 15:05:18 2022,controller.go,Anatolii Bazko
+Wed May 11 15:05:18 2022,manager.yaml,Anatolii Bazko
+Mon May 23 14:08:32 2022,defaults.go,Anatolii Bazko
+Mon May 23 14:08:32 2022,defaults_test.go,Anatolii Bazko
+Mon May 23 14:08:32 2022,dev_workspace_syncer.go,Anatolii Bazko
+Fri May 27  8:53:57 2022,che_routing.go,Anatolii Bazko
+Fri May 27  8:53:57 2022,che_routing_test.go,Anatolii Bazko
+Sat May 28 10:59:05 2022,checluster_controller.go,Anatolii Bazko
+Sat May 28 10:59:05 2022,main.go,Anatolii Bazko
+Sat May 28 10:59:05 2022,gateway_test.go,Anatolii Bazko
+Sat May 28 10:59:05 2022,oauth_proxy.go,Anatolii Bazko
+Sat May 28 10:59:05 2022,identity_provider_reconciler.go,Anatolii Bazko
+Sat May 28 10:59:05 2022,identity_provider_util.go,Anatolii Bazko
+Sat May 28 10:59:05 2022,on-reconcile-one-time-migration.go,Anatolii Bazko

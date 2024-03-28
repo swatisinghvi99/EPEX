@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Fri Jan  4  0:57:52 2013,DialRenderer.java,raphael.feng
+Mon Jan 21 23:33:29 2013,MANIFEST.MF,raphael.feng
+Mon Jan 21 23:33:29 2013,RadarCategoryLabelSheet.java,raphael.feng
+Mon Jan 21 23:33:29 2013,RadarSeriesAttributeComposite.java,raphael.feng
+Mon Jan 21 23:33:29 2013,RadarWebLabelSheet.java,raphael.feng
+Mon Jan 21 23:33:29 2013,GanttLineAttributesComposite.java,raphael.feng
+Mon Jan 21 23:33:29 2013,GridAttributesComposite.java,raphael.feng
+Mon Jan 21 23:33:29 2013,DifferenceSeriesAttributeComposite.java,raphael.feng
+Mon Jan 21 23:33:29 2013,GanttSeriesAttributeComposite.java,raphael.feng
+Mon Jan 21 23:33:29 2013,StockSeriesAttributeComposite.java,raphael.feng
+Mon Jan 21 23:33:29 2013,AxisGridLinesSheet.java,raphael.feng
+Mon Jan 21 23:33:29 2013,DialScaleSheet.java,raphael.feng
+Mon Jan 21 23:33:29 2013,DialTickSheet.java,raphael.feng
+Mon Jan 21 23:33:29 2013,SeriesRegionSheet.java,raphael.feng
+Mon Jan 21 23:33:29 2013,SeriesYSheetImpl.java,raphael.feng

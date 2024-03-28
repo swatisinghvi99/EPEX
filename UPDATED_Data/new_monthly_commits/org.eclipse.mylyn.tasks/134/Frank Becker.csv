@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Mon Jul 18 17:42:36 2016,MANIFEST.MF,Frank Becker
+Mon Jul 18 17:42:36 2016,pom.xml,Frank Becker
+Mon Jul 18 17:42:36 2016,AllBugzillaRestCoreTests.java,Frank Becker
+Mon Jul 18 17:42:36 2016,BugzillaRestClientTest.java,Frank Becker
+Mon Jul 18 17:42:36 2016,BugzillaRestConfigurationTest.java,Frank Becker
+Mon Jul 18 17:42:36 2016,BugzillaRestConnectorTest.java,Frank Becker
+Mon Jul 18 17:42:36 2016,BugzillaRestHarness.java,Frank Becker
+Mon Jul 18 17:42:36 2016,BugzillaRestTestFixture.java,Frank Becker
+Mon Jul 25 18:47:28 2016,AllBugzillaRestCoreTests.java,Frank Becker
+Mon Jul 25 18:47:28 2016,BugzillaRestConfigurationTest.java,Frank Becker
+Mon Jul 25 18:47:28 2016,RepositoryKeyTest.java,Frank Becker
+Mon Jul 25 18:47:28 2016,BugzillaRestTestFixture.java,Frank Becker
+Mon Jul 25 20:42:16 2016,AttributeEditorToolkitTest.java,Frank Becker
+Mon Jul 25 20:42:16 2016,AttributeEditorToolkit.java,Frank Becker
+Mon Aug  8  9:41:37 2016,TaskListView.java,Frank Becker

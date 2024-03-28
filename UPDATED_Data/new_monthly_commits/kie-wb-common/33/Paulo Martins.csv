@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Fri Feb 12 15:15:06 2016,DependencyListWidget.java,Paulo Martins
+Fri Feb 12 15:15:06 2016,DependencySelectorPopupViewImpl.java,Paulo Martins
+Tue Feb 16 17:29:29 2016,ActiveContextManager.java,Paulo Martins
+Tue Feb 16 17:29:29 2016,ActiveContextManagerTest.java,Paulo Martins
+Thu Feb 18 10:57:41 2016,DependencyGridViewImpl.ui.xml,Paulo Martins
+Thu Feb 18 10:57:41 2016,WhiteListCell.java,Paulo Martins
+Thu Feb 18 10:57:41 2016,WhiteListCell.ui.xml,Paulo Martins
+Wed Feb 24 14:47:50 2016,FolderItem.java,Paulo Martins
+Wed Feb 24 14:47:50 2016,FolderItemOperation.java,Paulo Martins
+Wed Feb 24 14:47:50 2016,ExplorerServiceHelper.java,Paulo Martins
+Wed Feb 24 14:47:50 2016,ExplorerServiceImpl.java,Paulo Martins
+Wed Feb 24 14:47:50 2016,FolderListingResolver.java,Paulo Martins
+Wed Feb 24 14:47:50 2016,ProjectExplorerContentResolver.java,Paulo Martins
+Wed Feb 24 14:47:50 2016,ProjectRequiredPathsRestrictor.java,Paulo Martins
+Wed Feb 24 14:47:50 2016,ExplorerServiceHelperTest.java,Paulo Martins
+Wed Feb 24 14:47:50 2016,ProjectExplorerContentResolverDefaultSelectionsTest.java,Paulo Martins
+Wed Feb 24 14:47:50 2016,ProjectExplorerContentResolverTest.java,Paulo Martins
+Wed Feb 24 14:47:50 2016,ProjectRequiredPathsRestrictorTest.java,Paulo Martins
+Wed Feb 24 14:47:50 2016,BreadcrumbNavigator.java,Paulo Martins
+Wed Feb 24 14:47:50 2016,KieResourceResolver.java,Paulo Martins
+Wed Feb 24 14:47:50 2016,ProjectServiceImplResolveProjectValidTest.java,Paulo Martins
+Tue Mar  1 21:00:11 2016,ProjectRequiredPathsRestrictor.java,Paulo Martins
+Tue Mar  1 21:00:11 2016,ProjectRequiredPathsRestrictorTest.java,Paulo Martins
+Thu Mar  3 19:18:07 2016,ProjectExplorerContentResolver.java,Paulo Martins
+Thu Mar  3 19:18:07 2016,ProjectExplorerContentResolverTest.java,Paulo Martins

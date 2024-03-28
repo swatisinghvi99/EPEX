@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Wed Jun 30 16:15:27 2021,webviews-main.ts,Kenneth Marut
+Wed Jun 30 16:15:27 2021,webviews-main.ts,Kenneth Marut
+Wed Jul  7 17:02:32 2021,task-terminal-widget-manager.ts,Kenneth Marut
+Wed Jul  7 17:02:32 2021,terminal-widget.ts,Kenneth Marut
+Wed Jul  7 17:02:32 2021,terminal-widget-impl.ts,Kenneth Marut
+Wed Jul 21 14:41:44 2021,application-shell.ts,Kenneth Marut
+Wed Jul 21 14:41:44 2021,compile.tsconfig.json,Kenneth Marut
+Wed Jul 21 14:41:44 2021,package.json,Kenneth Marut
+Wed Jul 21 14:41:44 2021,editor-preview-frontend-module.ts,Kenneth Marut
+Wed Jul 21 14:41:44 2021,editor-preview-tree-decorator.ts,Kenneth Marut
+Wed Jul 21 14:41:44 2021,problem-decorator.ts,Kenneth Marut
+Wed Jul 21 14:41:44 2021,problem-frontend-module.ts,Kenneth Marut
+Wed Jul 21 14:41:44 2021,navigator-container.ts,Kenneth Marut
+Wed Jul 21 14:41:44 2021,navigator-contribution.ts,Kenneth Marut
+Wed Jul 21 14:41:44 2021,navigator-frontend-module.ts,Kenneth Marut
+Wed Jul 21 14:41:44 2021,navigator-widget-factory.ts,Kenneth Marut
+Wed Jul 21 14:41:44 2021,navigator-open-editors-commands.ts,Kenneth Marut
+Wed Jul 21 14:41:44 2021,navigator-open-editors-decorator-service.ts,Kenneth Marut
+Wed Jul 21 14:41:44 2021,navigator-open-editors-menus.ts,Kenneth Marut
+Wed Jul 21 14:41:44 2021,navigator-open-editors-tree-model.ts,Kenneth Marut
+Wed Jul 21 14:41:44 2021,navigator-open-editors-widget.tsx,Kenneth Marut
+Wed Jul 21 14:41:44 2021,open-editors.css,Kenneth Marut
+Wed Jul 21 14:41:44 2021,plugin-vscode-commands-contribution.ts,Kenneth Marut
+Wed Jul 21 14:41:44 2021,scm-frontend-module.ts,Kenneth Marut
+Wed Jul 21 14:41:44 2021,terminal-frontend-contribution.ts,Kenneth Marut

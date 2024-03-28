@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Sat Nov  5  6:26:25 2016,CDONet4jViewProvider.java,Eike Stepper
+Sat Nov  5  6:26:25 2016,CDOUtil.java,Eike Stepper
+Fri Nov 11  5:52:21 2016,MANIFEST.MF,Eike Stepper
+Fri Nov 11  5:52:21 2016,ClassFilterItemProvider.java,Eike Stepper
+Fri Nov 11  5:52:21 2016,ClassPermissionItemProvider.java,Eike Stepper
+Fri Nov 11  5:52:21 2016,PackageFilterItemProvider.java,Eike Stepper
+Fri Nov 11  5:52:21 2016,PackagePermissionItemProvider.java,Eike Stepper
+Fri Nov 11  5:52:21 2016,SecurityEditPlugin.java,Eike Stepper

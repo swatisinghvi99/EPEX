@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Tue Mar  7  7:21:30 2023,BidirectionalJSONConverter.java,jannisjung
+Tue Mar  7  7:21:30 2023,ConnectedAssetAdministrationShellManager.java,jannisjung
+Tue Mar  7  7:21:30 2023,AASDescriptor.java,jannisjung
+Tue Mar  7  7:21:30 2023,BaSyxStorageAPI.java,jannisjung
+Tue Mar  7  7:21:30 2023,IBaSyxStorageAPI.java,jannisjung
+Tue Mar  7  7:21:30 2023,SubmodelAggregator.java,jannisjung
+Tue Mar  7  7:21:30 2023,GSONTools.java,jannisjung
+Tue Mar  7  7:21:30 2023,BaSyxStorageAPISuite.java,jannisjung
+Tue Mar  7  7:21:30 2023,VABTestType.java,jannisjung

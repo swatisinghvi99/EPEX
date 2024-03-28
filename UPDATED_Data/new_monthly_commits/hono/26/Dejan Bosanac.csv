@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Wed Mar 21 14:15:27 2018,AbstractVertxBasedMqttProtocolAdapter.java,Dejan Bosanac
+Wed Mar 21 14:15:27 2018,AbstractVertxBasedMqttProtocolAdapterTest.java,Dejan Bosanac
+Wed Mar 21 14:15:27 2018,VertxBasedMqttProtocolAdapter.java,Dejan Bosanac
+Wed Mar 21 14:15:27 2018,VertxBasedMqttProtocolAdapterTest.java,Dejan Bosanac
+Wed Mar 21 14:15:27 2018,EndpointType.java,Dejan Bosanac
+Wed Mar 21 14:15:27 2018,EventConstants.java,Dejan Bosanac
+Wed Mar 21 14:15:27 2018,TelemetryConstants.java,Dejan Bosanac
+Wed Mar 21 14:15:27 2018,EventMqttIT.java,Dejan Bosanac
+Wed Mar 21 14:15:27 2018,MqttTestBase.java,Dejan Bosanac
+Wed Mar 21 14:15:27 2018,TelemetryMqttIT.java,Dejan Bosanac

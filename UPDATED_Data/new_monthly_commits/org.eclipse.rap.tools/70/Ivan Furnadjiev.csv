@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Thu Nov 22  9:00:35 2012,LaunchMessages.java,Ivan Furnadjiev
+Thu Nov 22  9:00:35 2012,RAPLaunchConfig.java,Ivan Furnadjiev
+Thu Nov 22  9:00:35 2012,RAPLaunchDelegate.java,Ivan Furnadjiev
+Thu Nov 22  9:00:35 2012,messages.properties,Ivan Furnadjiev
+Thu Nov 22  9:00:35 2012,MainTab.java,Ivan Furnadjiev
+Thu Nov 22  9:00:35 2012,RAPLaunchConfig_Test.java,Ivan Furnadjiev
+Thu Nov 22  9:00:35 2012,RAPLaunchDelegate_Test.java,Ivan Furnadjiev
+Thu Dec  6  8:31:09 2012,MANIFEST.MF,Ivan Furnadjiev
+Thu Dec  6  8:31:09 2012,TargetSwitcher_Test.java,Ivan Furnadjiev
+Thu Dec  6  8:31:09 2012,Fixture.java,Ivan Furnadjiev
+Mon Dec 10  8:41:27 2012,Activator.java,Ivan Furnadjiev
+Mon Dec 10  8:41:27 2012,Activator.java,Ivan Furnadjiev
+Mon Dec 10  8:41:27 2012,TemplateUtil.java,Ivan Furnadjiev
+Mon Dec 10  8:41:27 2012,XmlNames.java,Ivan Furnadjiev
+Mon Dec 10  8:41:27 2012,HelloRAPTemplate.java,Ivan Furnadjiev
+Mon Dec 10  8:41:27 2012,MailRAPTemplate.java,Ivan Furnadjiev
+Mon Dec 10  8:41:27 2012,ViewRAPTemplate.java,Ivan Furnadjiev

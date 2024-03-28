@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Fri Jun 26  8:29:39 2015,ChangeLog.txt,Tomas Novotny
+Fri Jun 26  8:29:39 2015,compiling.txt,Tomas Novotny
+Fri Jun 26  8:29:39 2015,config.mk,Tomas Novotny
+Fri Jun 26  8:29:39 2015,README,Tomas Novotny
+Fri Jun 26  8:29:39 2015,mosquitto.service.notify,Tomas Novotny
+Fri Jun 26  8:29:39 2015,mosquitto.service.simple,Tomas Novotny
+Fri Jun 26  8:29:39 2015,CMakeLists.txt,Tomas Novotny
+Fri Jun 26  8:29:39 2015,mosquitto.c,Tomas Novotny

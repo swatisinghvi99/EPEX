@@ -1,0 +1,22 @@
+[
+    [
+        "cbrun",
+        "java",
+        17
+    ],
+    [
+        "cbrun",
+        "tycho",
+        1
+    ],
+    [
+        "cbrun",
+        "eefgen",
+        1
+    ],
+    [
+        "cbrun",
+        "MF",
+        2
+    ]
+]

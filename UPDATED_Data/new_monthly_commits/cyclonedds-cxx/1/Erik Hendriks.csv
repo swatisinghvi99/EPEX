@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Thu Aug 13 15:16:46 2020,TCondition.hpp,Erik Hendriks
+Thu Aug 13 15:16:46 2020,TGuardCondition.hpp,Erik Hendriks
+Thu Aug 13 15:16:46 2020,TStatusCondition.hpp,Erik Hendriks
+Thu Aug 13 15:16:46 2020,TConditionImpl.hpp,Erik Hendriks
+Thu Aug 13 15:16:46 2020,TGuardConditionImpl.hpp,Erik Hendriks
+Thu Aug 13 15:16:46 2020,TStatusConditionImpl.hpp,Erik Hendriks
+Thu Aug 13 15:16:46 2020,TQueryCondition.hpp,Erik Hendriks
+Thu Aug 13 15:16:46 2020,TReadCondition.hpp,Erik Hendriks
+Thu Aug 13 15:16:46 2020,TQueryConditionImpl.hpp,Erik Hendriks
+Thu Aug 13 15:16:46 2020,TReadConditionImpl.hpp,Erik Hendriks
+Thu Aug 13 15:16:46 2020,ConditionDelegate.hpp,Erik Hendriks
+Thu Aug 13 15:16:46 2020,FunctorHolder.hpp,Erik Hendriks
+Thu Aug 13 15:16:46 2020,GuardConditionDelegate.hpp,Erik Hendriks
+Thu Aug 13 15:16:46 2020,QueryConditionDelegate.hpp,Erik Hendriks
+Thu Aug 13 15:16:46 2020,ReadConditionDelegate.hpp,Erik Hendriks
+Thu Aug 13 15:21:53 2020,TDataReaderImpl.hpp,Erik Hendriks
+Thu Aug 13 15:21:53 2020,ContentFilteredTopic.hpp,Erik Hendriks
+Thu Aug 13 15:21:53 2020,TopicDescriptionDelegate.hpp,Erik Hendriks

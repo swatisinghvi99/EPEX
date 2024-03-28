@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Sat Dec 13 15:51:39 2014,Q7ExternalLaunchDelegate.java,Evgeny Storozhenko
+Sat Dec 13 15:51:39 2014,Q7LaunchDelegateUtils.java,Evgeny Storozhenko
+Thu Dec 18  9:00:47 2014,NewAUTPage.java,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,NetworkRecorder.java,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,ProtocolFactory.java,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,ProtocolPackage.java,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,UpdateControlCommand.java,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,ProtocolFactoryImpl.java,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,ProtocolPackageImpl.java,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,UpdateControlCommandImpl.java,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,ProtocolAdapterFactory.java,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,ProtocolSwitch.java,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,info.ecore,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,protocol.ecore,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,rawProtocol.ecore,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,UISelector.java,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,BaseTeslaRecorder.java,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,WBConsole.ctx,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,WSWithTestThatUpdateProgress.ctx,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,HumanReadableECL.test,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,RefreshControlStateInAssertionMode.test,Evgeny Storozhenko
+Mon Dec 29  7:03:21 2014,SWTWidgetLocator.java,Evgeny Storozhenko

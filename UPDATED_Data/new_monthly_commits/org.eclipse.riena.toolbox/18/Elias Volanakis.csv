@@ -1,0 +1,58 @@
+date_time,file,committer_name
+Fri Dec 11  1:08:00 2009,feature.xml,Elias Volanakis
+Fri Dec 11  1:08:00 2009,MANIFEST.MF,Elias Volanakis
+Fri Dec 11  1:08:00 2009,Riena Template Tooling.launch,Elias Volanakis
+Fri Dec 11  1:08:00 2009,alt_launcher.xpm,Elias Volanakis
+Fri Dec 11  1:08:00 2009,$applicationClass$.java,Elias Volanakis
+Fri Dec 11  1:08:00 2009,HelloWorldSubModuleController.java,Elias Volanakis
+Fri Dec 11  1:08:00 2009,HelloWorldSubModuleView.java,Elias Volanakis
+Fri Dec 11  1:33:32 2009,RienaTemplateSection.java,Elias Volanakis
+Fri Dec 11  1:33:32 2009,HelloRienaTemplate.java,Elias Volanakis
+Fri Dec 11  4:34:31 2009,MailTemplate.java,Elias Volanakis
+Fri Dec 11  4:34:31 2009,$applicationClass$.java,Elias Volanakis
+Fri Dec 11  4:34:31 2009,$applicationClass$.java,Elias Volanakis
+Fri Dec 11  4:34:31 2009,Activator.java,Elias Volanakis
+Fri Dec 11  4:34:31 2009,NodeFactory.java,Elias Volanakis
+Fri Dec 11  4:34:31 2009,OpenViewHandler.java,Elias Volanakis
+Fri Dec 11  6:04:48 2009,plugin.properties,Elias Volanakis
+Fri Dec 11  6:04:48 2009,HelloRienaTemplate.java,Elias Volanakis
+Fri Dec 11  6:04:48 2009,MailTemplate.java,Elias Volanakis
+Fri Dec 11 18:53:52 2009,Riena Template Tooling.launch,Elias Volanakis
+Fri Dec 11 18:53:52 2009,plugin.properties,Elias Volanakis
+Fri Dec 11 18:53:52 2009,plugin.xml,Elias Volanakis
+Fri Dec 11 18:53:52 2009,ClientServerNewWizard.java,Elias Volanakis
+Fri Dec 11 18:53:52 2009,ClientServerTemplate.java,Elias Volanakis
+Fri Dec 11 18:53:52 2009,HelloRienaNewWizard.java,Elias Volanakis
+Fri Dec 11 18:53:52 2009,HelloRienaTemplate.java,Elias Volanakis
+Fri Dec 11 18:53:52 2009,MailNewWizard.java,Elias Volanakis
+Fri Dec 11 18:53:52 2009,MailTemplate.java,Elias Volanakis
+Fri Dec 11 18:53:52 2009,Client Example.launch,Elias Volanakis
+Fri Dec 11 18:53:52 2009,Server Example.launch,Elias Volanakis
+Fri Dec 11 18:53:52 2009,Activator.java,Elias Volanakis
+Fri Dec 11 18:53:52 2009,ClientExample.java,Elias Volanakis
+Fri Dec 11 18:53:52 2009,Address.java,Elias Volanakis
+Fri Dec 11 18:53:52 2009,BankData.java,Elias Volanakis
+Fri Dec 11 18:53:52 2009,Birth.java,Elias Volanakis
+Fri Dec 11 18:53:52 2009,Customer.java,Elias Volanakis
+Fri Dec 11 18:53:52 2009,ICustomerService.java,Elias Volanakis
+Fri Dec 11 18:53:52 2009,CustomerService.java,Elias Volanakis
+Fri Dec 11 18:53:52 2009,ServerExample.java,Elias Volanakis
+Fri Dec 11 22:09:57 2009,ClientServerTemplate.java,Elias Volanakis
+Fri Dec 11 22:12:49 2009,plugin.xml,Elias Volanakis
+Fri Dec 11 22:12:49 2009,RienaClientTemplate.java,Elias Volanakis
+Fri Dec 11 22:12:49 2009,RienaClientWizard.java,Elias Volanakis
+Fri Dec 11 22:12:49 2009,RienaCommonTemplate.java,Elias Volanakis
+Fri Dec 11 22:12:49 2009,RienaCommonWizard.java,Elias Volanakis
+Fri Dec 11 22:12:49 2009,RienaServiceTemplate.java,Elias Volanakis
+Fri Dec 11 22:12:49 2009,RienaServiceWizard.java,Elias Volanakis
+Fri Dec 11 22:12:49 2009,$pluginName$ Client.launch,Elias Volanakis
+Fri Dec 11 22:12:49 2009,Activator.java,Elias Volanakis
+Fri Dec 11 22:12:49 2009,Activator.java,Elias Volanakis
+Fri Dec 11 22:12:49 2009,Address.java,Elias Volanakis
+Fri Dec 11 22:12:49 2009,BankData.java,Elias Volanakis
+Fri Dec 11 22:12:49 2009,Birth.java,Elias Volanakis
+Fri Dec 11 22:12:49 2009,Customer.java,Elias Volanakis
+Fri Dec 11 22:12:49 2009,ICustomerService.java,Elias Volanakis
+Fri Dec 11 22:12:49 2009,$pluginName$ Service.launch,Elias Volanakis
+Fri Dec 11 22:12:49 2009,Activator.java,Elias Volanakis
+Fri Dec 11 22:12:49 2009,CustomerService.java,Elias Volanakis

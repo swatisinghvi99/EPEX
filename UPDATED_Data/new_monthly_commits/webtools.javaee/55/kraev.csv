@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Fri May  9  8:33:19 2008,NewSessionBeanClassDataModelProvider.java,kraev
+Tue May 13 10:43:57 2008,NewEnterpriseBeanWizard.java,kraev
+Tue May 13 10:44:01 2008,INewJavaClassDataModelProperties.java,kraev
+Tue May 13 10:44:01 2008,NewJavaClassDataModelProvider.java,kraev
+Tue May 13 10:44:01 2008,NewWebArtifactWizard.java,kraev
+Tue May 13 16:15:45 2008,AddFilterWizardPage.java,kraev
+Tue May 13 16:15:45 2008,AddServletWizardPage.java,kraev
+Wed May 14  8:31:36 2008,EjbAnnotationFactory.java,kraev
+Thu May 22  7:17:13 2008,NewJavaClassDataModelProvider.java,kraev
+Thu May 22  7:17:13 2008,j2ee_common.properties,kraev
+Thu May 22 15:06:55 2008,EJBUIMessages.java,kraev
+Thu May 22 15:06:55 2008,AddMessageDrivenBeanWizardPage.java,kraev
+Thu May 22 15:06:55 2008,IEjbWizardConstants.java,kraev
+Thu May 22 15:06:55 2008,NewMessageDrivenBeanClassWizardPage.java,kraev
+Thu May 22 15:06:55 2008,ejb_ui.properties,kraev
+Thu May 22 15:06:55 2008,CreateMessageDrivenBeanTemplateModel.java,kraev
+Thu May 22 15:06:55 2008,INewMessageDrivenBeanClassDataModelProperties.java,kraev
+Thu May 22 15:06:55 2008,NewMessageDrivenBeanClassDataModelProvider.java,kraev
+Thu May 22 15:06:55 2008,EJBCreationResourceHandler.java,kraev
+Thu May 22 15:06:55 2008,ejbcreation.properties,kraev

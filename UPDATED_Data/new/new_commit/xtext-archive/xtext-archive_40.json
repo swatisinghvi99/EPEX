@@ -1,0 +1,292 @@
+[
+    [
+        "Sven Efftinge",
+        "java",
+        476
+    ],
+    [
+        "Sven Efftinge",
+        "classpath",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "project",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        11
+    ],
+    [
+        "Sven Efftinge",
+        "properties",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        23
+    ],
+    [
+        "Sven Efftinge",
+        "xml",
+        6
+    ],
+    [
+        "Sven Efftinge",
+        "ecore",
+        9
+    ],
+    [
+        "Sven Efftinge",
+        "genmodel",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "xmi",
+        28
+    ],
+    [
+        "Sven Efftinge",
+        "g",
+        68
+    ],
+    [
+        "Sven Efftinge",
+        "tokens",
+        29
+    ],
+    [
+        "Sven Efftinge",
+        "xtext",
+        10
+    ],
+    [
+        "Sven Efftinge",
+        "ext",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "launch",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        1076
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ecore",
+        138
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        21
+    ],
+    [
+        "Sebastian Zarnekow",
+        "mwe2",
+        11
+    ],
+    [
+        "Sebastian Zarnekow",
+        "genmodel",
+        132
+    ],
+    [
+        "Sebastian Zarnekow",
+        "tokens",
+        224
+    ],
+    [
+        "Sebastian Zarnekow",
+        "g",
+        45
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml_gen",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xmi",
+        17
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "properties",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "api_filters",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF_gen",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        58
+    ],
+    [
+        "Moritz Eysholdt",
+        "ecore",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "genmodel",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "xmi",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "g",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtext",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "tokens",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        382
+    ],
+    [
+        "Jan Koehnlein",
+        "xml",
+        13
+    ],
+    [
+        "Jan Koehnlein",
+        "MF",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "xml_gen",
+        9
+    ],
+    [
+        "Jan Koehnlein",
+        "mwe2",
+        4
+    ],
+    [
+        "Jan Koehnlein",
+        "xpt",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "classpath",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "MF_gen",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "properties",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "launch",
+        4
+    ],
+    [
+        "Jan Koehnlein",
+        "ecore",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "genmodel",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "xmi",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "g",
+        7
+    ],
+    [
+        "Jan Koehnlein",
+        "tokens",
+        10
+    ],
+    [
+        "Jan Koehnlein",
+        "xtext",
+        3
+    ],
+    [
+        "Michael Clay",
+        "properties",
+        3
+    ],
+    [
+        "Michael Clay",
+        "xml",
+        2
+    ],
+    [
+        "Michael Clay",
+        "java",
+        36
+    ],
+    [
+        "Michael Clay",
+        "MF",
+        1
+    ],
+    [
+        "Knut Wannheden",
+        "java",
+        3
+    ]
+]

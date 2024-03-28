@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Thu Aug  8 17:12:13 2019,PDELaunchingPlugin.java,Lars Vogel
+Thu Aug  8 17:12:13 2019,LauncherUtils.java,Lars Vogel
+Thu Aug  8 17:12:13 2019,PDESourceLookupDirector.java,Lars Vogel
+Thu Aug  8 17:12:13 2019,PDESourcePathProvider.java,Lars Vogel
+Thu Aug  8 19:58:08 2019,LauncherUtils.java,Lars Vogel
+Fri Aug  9  5:40:48 2019,TargetPlatformHelper.java,Lars Vogel
+Tue Aug 13 13:35:57 2019,PluginsView.java,Lars Vogel
+Tue Aug 13 16:00:04 2019,PDELaunchingPlugin.java,Lars Vogel
+Tue Aug 13 17:56:05 2019,TracingComponentTreeViewer.java,Lars Vogel
+Wed Aug 14 11:02:17 2019,RequiredPluginsClasspathContainer.java,Lars Vogel
+Wed Aug 14 11:02:17 2019,SchemaErrorReporter.java,Lars Vogel
+Wed Aug 14 11:02:17 2019,LauncherUtils.java,Lars Vogel
+Wed Aug 14 11:02:17 2019,XMLCompletionProposal.java,Lars Vogel
+Wed Aug 14 11:02:17 2019,ExtensionsSection.java,Lars Vogel
+Wed Aug 14 11:02:17 2019,XMLUtil.java,Lars Vogel
+Wed Aug 14 11:02:17 2019,AddNewDependenciesOperation.java,Lars Vogel
+Wed Aug 14 11:02:17 2019,GatherUnusedDependenciesOperation.java,Lars Vogel
+Wed Aug 14 11:02:17 2019,PackageFinder.java,Lars Vogel
+Wed Aug 14 11:02:17 2019,NewLibraryPluginCreationOperation.java,Lars Vogel
+Thu Aug 15 15:51:46 2019,MessagePopupAction.java,Lars Vogel
+Thu Aug 15 15:51:46 2019,OpenViewAction.java,Lars Vogel
+Thu Aug 15 15:51:46 2019,PluginClassCodeGenerator.java,Lars Vogel

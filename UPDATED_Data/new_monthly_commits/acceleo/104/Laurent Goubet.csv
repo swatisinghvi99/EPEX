@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Tue Sep 27  7:14:31 2016,MANIFEST.MF,Laurent Goubet
+Tue Sep 27  7:14:31 2016,libraries.exsd,Laurent Goubet
+Tue Sep 27  7:14:31 2016,library.connectors.exsd,Laurent Goubet
+Tue Sep 27  7:14:31 2016,AcceleoCommonPlugin.java,Laurent Goubet
+Tue Sep 27  7:14:31 2016,AcceleoLibrariesRegistry.java,Laurent Goubet
+Tue Sep 27  7:14:31 2016,AcceleoLibraryConnectorsRegistry.java,Laurent Goubet
+Tue Sep 27  7:14:31 2016,AcceleoLibrariesEclipseUtil.java,Laurent Goubet
+Tue Sep 27  7:14:31 2016,AbstractLibrary.java,Laurent Goubet
+Tue Sep 27  7:14:31 2016,ILibrary.java,Laurent Goubet
+Tue Sep 27  7:14:31 2016,IQuery.java,Laurent Goubet
+Tue Sep 27 14:30:54 2016,AcceleoEvaluationVisitor.java,Laurent Goubet

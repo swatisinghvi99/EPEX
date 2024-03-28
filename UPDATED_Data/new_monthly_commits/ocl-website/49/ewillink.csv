@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Thu Oct 21 18:23:23 2010,PersonEditPart.java,ewillink
+Thu Oct 21 18:23:23 2010,PersonNameEditPart.java,ewillink
+Thu Oct 21 18:23:23 2010,PeopleBaseItemSemanticEditPolicy.java,ewillink
+Thu Oct 21 18:23:23 2010,PeopleNavigatorContentProvider.java,ewillink
+Thu Oct 21 18:23:23 2010,PeopleNavigatorLabelProvider.java,ewillink
+Thu Oct 21 18:23:23 2010,PeopleParserProvider.java,ewillink
+Thu Oct 21 18:23:23 2010,People.gmfgen,ewillink
+Thu Oct 21 18:23:23 2010,People.gmfgraph,ewillink
+Thu Oct 21 18:23:23 2010,People.gmfmap,ewillink
+Thu Oct 21 18:23:23 2010,default.people,ewillink
+Thu Oct 21 18:23:23 2010,default.people_diagram,ewillink
+Fri Oct 29 11:58:04 2010,plugin.xml,ewillink
+Fri Oct 29 11:58:04 2010,PeopleNavigatorContentProvider.java,ewillink
+Fri Oct 29 11:58:04 2010,PeopleNavigatorLabelProvider.java,ewillink
+Fri Oct 29 11:58:04 2010,People.ecore,ewillink
+Fri Oct 29 11:58:04 2010,default.people_diagram,ewillink
+Fri Oct 29 11:58:04 2010,PeoplePackage.java,ewillink
+Fri Oct 29 11:58:04 2010,Person.java,ewillink
+Fri Oct 29 11:58:04 2010,PeopleFactoryImpl.java,ewillink
+Fri Oct 29 11:58:04 2010,PeoplePackageImpl.java,ewillink
+Fri Oct 29 11:58:04 2010,PersonImpl.java,ewillink
+Fri Oct 29 11:58:04 2010,PeopleValidator.java,ewillink

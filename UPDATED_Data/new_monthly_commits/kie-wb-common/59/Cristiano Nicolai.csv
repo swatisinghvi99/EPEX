@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Thu Apr 12 15:18:02 2018,SpecManagementServiceCDI.java,Cristiano Nicolai
+Thu Apr 12 15:18:02 2018,SpecManagementServiceCDITest.java,Cristiano Nicolai
+Fri Apr 20  9:22:38 2018,ContainerSpecData.java,Cristiano Nicolai
+Fri Apr 20  9:22:38 2018,RuntimeManagementServiceCDI.java,Cristiano Nicolai
+Fri Apr 20  9:22:38 2018,RuntimeManagementServiceCDITest.java,Cristiano Nicolai
+Tue Apr 24  5:40:00 2018,EmbeddedNotificationService.java,Cristiano Nicolai
+Tue Apr 24  5:40:00 2018,AbstractControllerIT.java,Cristiano Nicolai
+Tue Apr 24  5:40:00 2018,EmbeddedControllerIT.java,Cristiano Nicolai
+Tue Apr 24  5:40:00 2018,StandaloneControllerIT.java,Cristiano Nicolai
+Thu Apr 26  1:28:21 2018,DefaultWorkbenchFeaturesMenusHelper.java,Cristiano Nicolai
+Thu Apr 26  1:28:21 2018,DefaultWorkbenchFeaturesMenusHelperTest.java,Cristiano Nicolai
+Fri Apr 27 11:47:49 2018,DefaultWorkbenchFeaturesMenusHelper.java,Cristiano Nicolai
+Fri Apr 27 11:47:49 2018,DefaultWorkbenchFeaturesMenusHelperTest.java,Cristiano Nicolai
+Mon Apr 30 23:47:44 2018,AddProjectPopUpPresenter.java,Cristiano Nicolai
+Mon Apr 30 23:47:44 2018,AddProjectButtonPresenter.java,Cristiano Nicolai
+Mon Apr 30 23:47:44 2018,AddProjectPopUpPresenterTest.java,Cristiano Nicolai
+Mon Apr 30 23:47:44 2018,AddProjectButtonPresenterTest.java,Cristiano Nicolai
+Mon Apr 30 23:47:44 2018,AssetsActionsWidgetTest.java,Cristiano Nicolai
+Mon Apr 30 23:47:44 2018,NewWorkspaceProjectHandler.java,Cristiano Nicolai
+Mon Apr 30 23:47:44 2018,NewWorkspaceProjectHandlerTest.java,Cristiano Nicolai

@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Fri Mar 11 20:35:09 2016,demo.things,Thomas Höfer
+Fri Mar 11 20:35:09 2016,thing-types.xml,Thomas Höfer
+Fri Mar 11 20:35:09 2016,YahooWeatherHandler.java,Thomas Höfer
+Tue Mar 22 13:01:14 2016,ConfigStatusServiceOSGiTest.groovy,Thomas Höfer
+Tue Mar 22 13:06:29 2016,ConfigDescriptionValidatorTest.groovy,Thomas Höfer
+Tue Mar 22 13:06:29 2016,ConfigValidationExceptionTest.groovy,Thomas Höfer
+Tue Mar 22 13:06:29 2016,configdescriptionvalidation.properties,Thomas Höfer
+Tue Mar 22 13:06:29 2016,validation.properties,Thomas Höfer
+Tue Mar 22 13:06:29 2016,validation_de.properties,Thomas Höfer
+Tue Mar 22 13:06:29 2016,ConfigDescriptionValidator.java,Thomas Höfer
+Tue Mar 22 13:06:29 2016,ConfigValidationException.java,Thomas Höfer
+Tue Mar 22 13:06:29 2016,ConfigDescriptionParameterValidator.java,Thomas Höfer
+Tue Mar 22 13:06:29 2016,ConfigDescriptionParameterValidatorFactory.java,Thomas Höfer
+Tue Mar 22 13:06:29 2016,MessageKey.java,Thomas Höfer
+Tue Mar 22 13:06:29 2016,MinMaxValidator.java,Thomas Höfer
+Tue Mar 22 13:06:29 2016,PatternValidator.java,Thomas Höfer
+Tue Mar 22 13:06:29 2016,RequiredValidator.java,Thomas Höfer
+Tue Mar 22 13:06:29 2016,TypeIntrospections.java,Thomas Höfer
+Tue Mar 22 13:06:29 2016,TypeValidator.java,Thomas Höfer
+Tue Mar 22 13:06:29 2016,ThingResource.java,Thomas Höfer
+Tue Mar 22 13:54:54 2016,BindingBaseClassesOSGiTest.groovy,Thomas Höfer

@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Wed Aug  5 13:57:27 2009,MANIFEST.MF,emerks
+Wed Aug  5 13:57:27 2009,XSDLengthFacetImpl.java,emerks
+Wed Aug  5 13:57:27 2009,XSDMaxLengthFacetImpl.java,emerks
+Wed Aug  5 13:57:27 2009,XSDMinLengthFacetImpl.java,emerks
+Wed Aug  5 15:03:28 2009,MANIFEST.MF,emerks
+Wed Aug  5 15:03:28 2009,XSD2EcoreEditor.java,emerks
+Wed Aug  5 15:12:41 2009,XSDParser.java,emerks
+Wed Aug  5 15:28:40 2009,XSDSimpleTypeDefinitionImpl.java,emerks
+Wed Aug  5 17:19:17 2009,EFactoryImpl.java,emerks
+Fri Aug  7 14:30:00 2009,EStructuralFeatureImpl.java,emerks
+Fri Aug  7 14:51:44 2009,EcoreSchemaBuilder.java,emerks
+Fri Aug  7 15:46:10 2009,MANIFEST.MF,emerks
+Fri Aug  7 15:46:10 2009,JavaEcoreBuilder.java,emerks
+Sun Aug  9  9:49:54 2009,EcoreValidator.java,emerks

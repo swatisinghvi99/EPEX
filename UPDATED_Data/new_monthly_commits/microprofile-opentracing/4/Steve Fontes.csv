@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Fri Oct  6 17:26:10 2017,NoTrace.java,Steve Fontes
+Fri Oct  6 17:26:10 2017,Traced.java,Steve Fontes
+Fri Oct  6 17:26:10 2017,architecture.asciidoc,Steve Fontes
+Fri Oct  6 17:26:10 2017,jaxrs.asciidoc,Steve Fontes
+Fri Oct  6 17:26:10 2017,microprofile-opentracing-spec.asciidoc,Steve Fontes
+Fri Oct  6 17:26:10 2017,notrace.asciidoc,Steve Fontes
+Fri Oct  6 17:26:10 2017,trace.asciidoc,Steve Fontes
+Fri Oct  6 17:26:10 2017,tracer.asciidoc,Steve Fontes

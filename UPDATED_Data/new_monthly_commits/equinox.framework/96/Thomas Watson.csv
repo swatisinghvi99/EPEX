@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Wed Oct 26  3:35:38 2011,AutomatedTests.java,Thomas Watson
+Fri Oct 28 18:40:04 2011,SurrogateImpl.java,Thomas Watson
+Mon Oct 31 20:05:21 2011,ConsoleManager.java,Thomas Watson
+Tue Nov  1 20:29:56 2011,BundleEntry.java,Thomas Watson
+Tue Nov  1 20:29:56 2011,AdaptorUtil.java,Thomas Watson
+Tue Nov  1 20:29:56 2011,WeavingHookConfigurator.java,Thomas Watson
+Tue Nov  1 20:29:56 2011,WovenClassImpl.java,Thomas Watson
+Fri Nov  4 18:45:53 2011,Main.java,Thomas Watson
+Fri Nov  4 18:45:53 2011,LocationHelper.java,Thomas Watson
+Fri Nov  4 19:51:58 2011,DefaultClassLoader.java,Thomas Watson
+Fri Nov 11 14:16:07 2011,SignedBundleTest.java,Thomas Watson
+Fri Nov 11 14:16:07 2011,ClasspathManager.java,Thomas Watson
+Fri Nov 11 15:30:19 2011,CompositeShareTests.java,Thomas Watson
+Fri Nov 11 15:30:19 2011,CompositeImpl.java,Thomas Watson
+Mon Nov 21 19:35:15 2011,CompositeShareTests.java,Thomas Watson

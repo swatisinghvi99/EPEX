@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Thu Feb 15  0:09:03 2018,JUnitCriteriaSimpleTestSuiteBase.java,Lukas Jungmann
+Tue Feb 20 13:36:08 2018,MetadataMirrorFactory.java,Lukas Jungmann
+Tue Feb 20 13:38:58 2018,.classpath,Lukas Jungmann
+Tue Feb 20 13:38:58 2018,org.eclipse.jdt.core.prefs,Lukas Jungmann
+Tue Feb 20 13:38:58 2018,antbuild.properties,Lukas Jungmann
+Tue Feb 20 13:38:58 2018,antbuild.xml,Lukas Jungmann
+Tue Feb 20 13:38:58 2018,TestProcessor.java,Lukas Jungmann
+Tue Feb 20 16:17:19 2018,QueryOperation.java,Lukas Jungmann
+Tue Feb 20 16:17:19 2018,antbuild.xml,Lukas Jungmann
+Tue Feb 20 16:17:19 2018,SimpleSPTestSuite.java,Lukas Jungmann
+Wed Feb 21  8:03:37 2018,AggregateCollectionMapping.java,Lukas Jungmann
+Wed Feb 21  8:03:37 2018,CacheableRelationshipsEntity.java,Lukas Jungmann
+Wed Feb 21  8:03:37 2018,CacheableTableCreator.java,Lukas Jungmann
+Wed Feb 21  8:03:37 2018,SharedEmbeddable.java,Lukas Jungmann
+Wed Feb 21  8:03:37 2018,CacheableModelJunitTest.java,Lukas Jungmann
+Wed Feb 28 23:20:51 2018,WithInner.java,Lukas Jungmann
+Wed Feb 28 23:20:51 2018,MetamodelMetamodelTest.java,Lukas Jungmann
+Wed Feb 28 23:20:51 2018,MetamodelTableCreator.java,Lukas Jungmann
+Wed Feb 28 23:20:51 2018,MappedSuperclassAccessor.java,Lukas Jungmann

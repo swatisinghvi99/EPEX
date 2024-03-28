@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Tue Dec 21  3:40:13 2010,PropertyHandle.java,xli
+Tue Dec 21  3:40:13 2010,AbstractPropertyCommand.java,xli
+Tue Dec 21  3:40:13 2010,ComplexPropertyCommand.java,xli
+Tue Dec 21  3:40:13 2010,SimplePropertyListState.java,xli
+Tue Dec 21  4:06:32 2010,MANIFEST.MF,xli
+Tue Dec 21  4:06:32 2010,DesignWriterUtil.java,xli
+Tue Dec 21  4:06:32 2010,IInternalReportDesignModel.java,xli
+Tue Dec 21  4:06:32 2010,rom.def,xli
+Tue Dec 21  4:06:32 2010,Messages.properties,xli
+Tue Dec 21  4:06:32 2010,ParseStateFactoryImpl.java,xli
+Tue Dec 21  4:06:32 2010,PropertyState.java,xli
+Tue Dec 21  4:06:32 2010,DesignWriterImpl.java,xli
+Tue Dec 21  4:06:32 2010,DocumentWriter.java,xli
+Wed Dec 22  3:08:55 2010,LayoutModule.java,xli
+Fri Dec 31  2:41:49 2010,CellHandleTest.java,xli
+Fri Dec 31  2:41:49 2010,ElementExporterTestLibrary_golden_16.xml,xli
+Fri Dec 31  2:41:49 2010,CellHandleTest_1.xml,xli
+Fri Dec 31  2:41:49 2010,TestDropLibrary_golden1.xml,xli
+Fri Dec 31  2:41:49 2010,Cell.java,xli
+Fri Dec 31  2:41:49 2010,TableRow.java,xli
+Fri Dec 31  2:41:49 2010,TableRowPropSearchStrategy.java,xli

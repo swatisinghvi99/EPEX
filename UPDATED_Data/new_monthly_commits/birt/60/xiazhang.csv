@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Fri Jan 22  3:35:51 2010,SubCubeQueryResults.java,xiazhang
+Tue Jan 26  9:29:21 2010,RADocumentManager.java,xiazhang
+Wed Feb  3  8:19:22 2010,CubeQueryExecutorHelper.java,xiazhang
+Wed Feb  3  8:19:22 2010,CubeMaterializer.java,xiazhang
+Wed Feb  3  8:19:22 2010,TimeDimensionUtil.java,xiazhang
+Wed Feb  3  8:19:22 2010,DataSetFromOriginalCube.java,xiazhang
+Wed Feb  3  8:19:22 2010,AggregationRowAccessor.java,xiazhang
+Wed Feb  3  8:19:22 2010,DimensionRowAccessor.java,xiazhang
+Wed Feb  3  8:19:22 2010,LevelFilterHelper.java,xiazhang
+Wed Feb  3  8:19:22 2010,DimensionResultIterator.java,xiazhang
+Wed Feb  3  8:19:22 2010,CubeQueryValidator.java,xiazhang
+Wed Feb  3  8:19:22 2010,IJSObjectPopulator.java,xiazhang
+Wed Feb  3  8:19:22 2010,IResultRow.java,xiazhang
+Wed Feb  3  9:27:17 2010,DimensionTest2.java,xiazhang
+Wed Feb  3  9:27:17 2010,TestTimeDimension.java,xiazhang
+Wed Feb  3  9:27:17 2010,DimensionFilterProcessorTest.java,xiazhang
+Wed Feb  3 10:00:02 2010,DimensionRow.java,xiazhang

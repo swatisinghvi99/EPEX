@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Fri Aug  2 19:36:42 2019,TmfMouseSelectionProvider.java,David Piché
+Fri Aug  2 19:36:42 2019,Histogram.java,David Piché
+Tue Aug  6 20:22:36 2019,HTVarIntTest.java,David Piché
+Mon Aug 19 18:03:40 2019,LttngProfileManager.java,David Piché
+Mon Aug 19 18:03:40 2019,LTTngProfileViewer.java,David Piché
+Mon Aug 19 18:03:40 2019,HtTestUtils.java,David Piché
+Mon Aug 19 18:03:40 2019,MarkerConfigXmlParser.java,David Piché
+Mon Aug 19 18:03:40 2019,CustomEventAspects.java,David Piché
+Mon Aug 19 18:03:40 2019,TmfRemotePreferences.java,David Piché
+Mon Aug 19 18:03:40 2019,RemoteImportProfilesReader.java,David Piché
+Mon Aug 19 18:03:40 2019,RemoteImportProfilesWriter.java,David Piché
+Mon Aug 19 18:03:40 2019,TmfUiTracer.java,David Piché
+Mon Aug 19 18:03:40 2019,TmfHandlerUtil.java,David Piché
+Mon Aug 19 18:03:40 2019,MarkerUtils.java,David Piché
+Mon Aug 19 18:03:40 2019,CustomParserUtils.java,David Piché
+Mon Aug 19 18:03:40 2019,TmfImportHelper.java,David Piché
+Mon Aug 19 18:03:40 2019,TmfProjectModelHelper.java,David Piché
+Mon Aug 19 18:03:40 2019,ArchiveUtil.java,David Piché
+Mon Aug 19 18:03:40 2019,DownloadTraceHttpHelper.java,David Piché
+Mon Aug 19 18:03:40 2019,ManifestReader.java,David Piché
+Mon Aug 19 18:03:40 2019,TmfStatisticsTreeManager.java,David Piché
+Mon Aug 19 18:03:40 2019,FilterEditUtils.java,David Piché

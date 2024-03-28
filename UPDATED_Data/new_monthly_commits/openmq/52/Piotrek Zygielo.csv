@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Wed Apr 27 21:00:26 2022,BridgeMgrException.java,Piotrek Zygielo
+Wed Apr 27 21:00:26 2022,UniqueID.java,Piotrek Zygielo
+Wed Apr 27 21:00:26 2022,SelectionEvent.java,Piotrek Zygielo
+Wed Apr 27 21:00:26 2022,JMSPacketProperties.java,Piotrek Zygielo
+Fri Apr 29 21:09:48 2022,StompFrameParseException.java,Piotrek Zygielo
+Sat Apr 30 10:18:31 2022,StompProtocolHandler.java,Piotrek Zygielo
+Sat Apr 30 10:18:31 2022,XidImpl.java,Piotrek Zygielo
+Sat Apr 30 10:18:31 2022,ToTxnLogConverter.java,Piotrek Zygielo
+Sat Apr 30 10:18:31 2022,RaptorProtocol.java,Piotrek Zygielo
+Sat Apr 30 10:18:31 2022,ShareConfigRecordDAOImpl.java,Piotrek Zygielo
+Sat Apr 30 10:18:31 2022,DirectSession.java,Piotrek Zygielo
+Sat Apr 30 10:18:31 2022,DirectTransactionManagedSession.java,Piotrek Zygielo

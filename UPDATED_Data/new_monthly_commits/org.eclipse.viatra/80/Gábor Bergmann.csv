@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Fri Aug 23  8:00:15 2019,EMFModelComprehension.java,Gábor Bergmann
+Fri Aug 23  8:00:15 2019,AbstractBaseIndexStore.java,Gábor Bergmann
+Fri Aug 23  8:00:15 2019,EMFBaseIndexInstanceStore.java,Gábor Bergmann
+Fri Aug 23  8:00:15 2019,EMFBaseIndexMetaStore.java,Gábor Bergmann
+Fri Aug 23  8:00:15 2019,EMFBaseIndexStatisticsStore.java,Gábor Bergmann
+Fri Aug 23  8:00:15 2019,NavigationHelperContentAdapter.java,Gábor Bergmann
+Fri Aug 23  8:00:15 2019,NavigationHelperImpl.java,Gábor Bergmann
+Fri Aug 23  8:00:15 2019,NavigationHelperVisitor.java,Gábor Bergmann

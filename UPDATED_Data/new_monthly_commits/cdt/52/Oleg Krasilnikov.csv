@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Fri Oct 13 11:30:26 2006,BuildProcessManager.java,Oleg Krasilnikov
+Fri Oct 13 11:30:26 2006,ParallelBuilder.java,Oleg Krasilnikov
+Fri Oct 13 11:30:26 2006,ProcessLauncher.java,Oleg Krasilnikov
+Fri Oct 13 11:30:26 2006,Configuration.java,Oleg Krasilnikov
+Fri Oct 13 11:30:26 2006,GeneratedMakefileBuilder.java,Oleg Krasilnikov
+Fri Oct 13 11:30:26 2006,BuildSettingsBlock.java,Oleg Krasilnikov
+Fri Oct 13 11:30:26 2006,PluginResources.properties,Oleg Krasilnikov
+Mon Oct 16  7:09:32 2006,ProcessClosure.java,Oleg Krasilnikov
+Tue Oct 24 10:34:25 2006,BuildProcessManager.java,Oleg Krasilnikov

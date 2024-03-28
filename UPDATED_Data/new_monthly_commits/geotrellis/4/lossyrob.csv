@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Mar  6 22:28:06 2017,Version.scala,lossyrob
+Fri Mar 10  1:12:02 2017,SurfacePointCalculation.scala,lossyrob
+Mon Mar 13  3:13:50 2017,ColorRamps.scala,lossyrob
+Mon Mar 13 22:30:57 2017,GeoTiffReaderSpec.scala,lossyrob
+Mon Mar 13 22:30:57 2017,TiffTags.scala,lossyrob
+Mon Mar 13 23:26:03 2017,S3GeoTiffRDDSpec.scala,lossyrob
+Mon Mar 13 23:26:03 2017,MockS3Client.scala,lossyrob
+Mon Mar 13 23:26:03 2017,S3GeoTiffRDD.scala,lossyrob
+Mon Mar 13 23:26:03 2017,S3InputFormat.scala,lossyrob
+Tue Mar 14  0:38:50 2017,GeoTiffReaderSpec.scala,lossyrob
+Tue Mar 14  0:38:50 2017,LazySegmentBytes.scala,lossyrob
+Fri Mar 24  0:27:17 2017,CroppedWindowedGeoTiffSpec.scala,lossyrob
+Fri Mar 24  0:27:55 2017,GeoTiffSegmentLayout.scala,lossyrob
+Fri Mar 24  0:27:55 2017,GeoTiffTile.scala,lossyrob
+Fri Mar 24  0:27:55 2017,SegmentTransform.scala,lossyrob
+Fri Mar 24 19:54:30 2017,CroppedWindowedGeoTiffSpec.scala,lossyrob
+Fri Mar 24 19:54:30 2017,GeoTiffMultibandTile.scala,lossyrob
+Fri Mar 24 19:54:30 2017,GeoTiffSegmentLayout.scala,lossyrob
+Fri Mar 24 19:54:30 2017,GeoTiffTile.scala,lossyrob
+Fri Mar 24 19:54:30 2017,SegmentTransform.scala,lossyrob
+Fri Mar 24 20:05:03 2017,GeoTiffSegmentLayout.scala,lossyrob

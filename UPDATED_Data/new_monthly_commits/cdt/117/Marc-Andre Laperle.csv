@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Mon Mar  5  6:31:48 2012,NonVirtualDestructor.java,Marc-Andre Laperle
+Mon Mar  5  6:31:48 2012,NonVirtualDestructorCheckerTest.java,Marc-Andre Laperle
+Mon Mar  5  6:31:48 2012,CheckerTestCase.java,Marc-Andre Laperle
+Wed Mar  7  6:33:16 2012,ClassMembersInitializationChecker.java,Marc-Andre Laperle
+Wed Mar  7  6:33:16 2012,ClassMembersInitializationCheckerTest.java,Marc-Andre Laperle
+Thu Mar  8  1:36:34 2012,ClassMembersInitializationChecker.java,Marc-Andre Laperle
+Thu Mar  8  1:36:34 2012,ClassMembersInitializationCheckerTest.java,Marc-Andre Laperle
+Wed Mar 14  0:21:27 2012,QuickFixCreateParameter.java,Marc-Andre Laperle
+Wed Mar 14  0:21:27 2012,CxxAstUtils.java,Marc-Andre Laperle
+Fri Mar 16  1:36:11 2012,GnuMakefileGenerator.java,Marc-Andre Laperle
+Fri Mar 16  1:36:11 2012,Util.java,Marc-Andre Laperle

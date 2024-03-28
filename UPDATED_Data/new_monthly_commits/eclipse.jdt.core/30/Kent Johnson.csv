@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Nov 10 23:10:17 2003,IncrementalImageBuilder.java,Kent Johnson
+Mon Nov 10 23:10:17 2003,ReferenceCollection.java,Kent Johnson
+Mon Nov 10 23:10:17 2003,StringSet.java,Kent Johnson
+Wed Nov 12 15:56:36 2003,StringSet.java,Kent Johnson
+Wed Nov 12 15:57:18 2003,JavaBuilder.java,Kent Johnson
+Wed Nov 12 19:28:19 2003,IncrementalImageBuilder.java,Kent Johnson
+Wed Nov 12 19:28:19 2003,State.java,Kent Johnson
+Tue Nov 18 17:22:44 2003,JavadocAllocationExpression.java,Kent Johnson
+Tue Nov 18 17:22:44 2003,JavadocFieldReference.java,Kent Johnson
+Tue Nov 18 17:22:44 2003,JavadocMessageSend.java,Kent Johnson
+Tue Nov 18 17:22:44 2003,BlockScope.java,Kent Johnson
+Tue Nov 18 17:22:44 2003,ClassScope.java,Kent Johnson
+Tue Nov 18 17:22:44 2003,Scope.java,Kent Johnson
+Tue Nov 18 18:45:41 2003,PatternLocator.java,Kent Johnson
+Thu Nov 20 15:52:02 2003,SearchPattern.java,Kent Johnson
+Tue Nov 25 18:26:48 2003,buildnotes_jdt-core.html,Kent Johnson
+Tue Nov 25 18:26:48 2003,BatchImageBuilder.java,Kent Johnson
+Tue Nov 25 20:15:59 2003,MatchLocator.java,Kent Johnson
+Wed Nov 26 19:36:46 2003,JobManager.java,Kent Johnson
+Fri Dec  5 18:09:33 2003,ProblemReporter.java,Kent Johnson
+Fri Dec  5 20:44:24 2003,PatternLocator.java,Kent Johnson

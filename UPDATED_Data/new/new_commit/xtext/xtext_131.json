@@ -1,0 +1,342 @@
+[
+    [
+        "Akos Kitta",
+        "xtend",
+        6
+    ],
+    [
+        "Akos Kitta",
+        "java",
+        6
+    ],
+    [
+        "Jan Koehnlein",
+        "xtend",
+        37
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        77
+    ],
+    [
+        "Jan Koehnlein",
+        "ecore",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "genmodel",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "ISetup",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "g",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "tokens",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "mwe2",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "xtext",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "target",
+        25
+    ],
+    [
+        "Christian Dietrich",
+        "xtend",
+        15
+    ],
+    [
+        "Christian Dietrich",
+        "java",
+        31
+    ],
+    [
+        "Christian Dietrich",
+        "unknown",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "xml",
+        14
+    ],
+    [
+        "Christian Dietrich",
+        "tpd",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "setup",
+        1
+    ],
+    [
+        "Tamas Miklossy",
+        "xtend",
+        4
+    ],
+    [
+        "Tamas Miklossy",
+        "java",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        198
+    ],
+    [
+        "Sebastian Zarnekow",
+        "gradle",
+        7
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml_gen",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "mwe2",
+        1
+    ],
+    [
+        "Holger Schill",
+        "java",
+        30
+    ],
+    [
+        "Holger Schill",
+        "classpath",
+        1
+    ],
+    [
+        "Holger Schill",
+        "project",
+        1
+    ],
+    [
+        "Holger Schill",
+        "prefs",
+        4
+    ],
+    [
+        "Holger Schill",
+        "MF",
+        2
+    ],
+    [
+        "Holger Schill",
+        "html",
+        1
+    ],
+    [
+        "Holger Schill",
+        "properties",
+        1
+    ],
+    [
+        "Holger Schill",
+        "xml",
+        1
+    ],
+    [
+        "Holger Schill",
+        "xtend",
+        23
+    ],
+    [
+        "Holger Schill",
+        "md",
+        1
+    ],
+    [
+        "Holger Schill",
+        "launch",
+        2
+    ],
+    [
+        "Holger Schill",
+        "mwe2",
+        8
+    ],
+    [
+        "Holger Schill",
+        "gradle",
+        1
+    ],
+    [
+        "Eva Poell",
+        "java",
+        2
+    ],
+    [
+        "Lorenzo Bettini",
+        "xml",
+        1
+    ],
+    [
+        "Lorenzo Bettini",
+        "xtend",
+        2
+    ],
+    [
+        "Lorenzo Bettini",
+        "java",
+        2
+    ],
+    [
+        "Arne Deutsch",
+        "java",
+        6
+    ],
+    [
+        "RhiobeT",
+        "java",
+        2
+    ],
+    [
+        "Lorenzo Addazi",
+        "xtend",
+        2
+    ],
+    [
+        "Lorenzo Addazi",
+        "java",
+        5
+    ],
+    [
+        "Karsten Thoms",
+        "xml",
+        7
+    ],
+    [
+        "Karsten Thoms",
+        "xtend",
+        3
+    ],
+    [
+        "Karsten Thoms",
+        "java",
+        14
+    ],
+    [
+        "Karsten Thoms",
+        "sh",
+        6
+    ],
+    [
+        "Karsten Thoms",
+        "Jenkinsfile",
+        2
+    ],
+    [
+        "Mark Christiaens",
+        "xtend",
+        1
+    ],
+    [
+        "Mark Christiaens",
+        "java",
+        35
+    ],
+    [
+        "Mark Christiaens",
+        "MF",
+        2
+    ],
+    [
+        "Mark Christiaens",
+        "ISetup",
+        1
+    ],
+    [
+        "Mark Christiaens",
+        "g",
+        2
+    ],
+    [
+        "Mark Christiaens",
+        "tokens",
+        2
+    ],
+    [
+        "Mark Christiaens",
+        "ecore",
+        1
+    ],
+    [
+        "Mark Christiaens",
+        "genmodel",
+        1
+    ],
+    [
+        "Mark Christiaens",
+        "xml",
+        1
+    ],
+    [
+        "Mark Christiaens",
+        "mwe2",
+        2
+    ],
+    [
+        "Mark Christiaens",
+        "xtext",
+        1
+    ],
+    [
+        "Titouan Vervack",
+        "java",
+        30
+    ],
+    [
+        "Titouan Vervack",
+        "xtend",
+        2
+    ],
+    [
+        "Christian Schneider",
+        "xtend",
+        1
+    ],
+    [
+        "Christian Schneider",
+        "java",
+        1
+    ]
+]

@@ -1,0 +1,447 @@
+[
+    [
+        "Florian Rusch (ZF Friedrichshafen AG)",
+        "md",
+        9
+    ],
+    [
+        "Florian Rusch (ZF Friedrichshafen AG)",
+        "unknown",
+        1
+    ],
+    [
+        "Florian Rusch (ZF Friedrichshafen AG)",
+        "properties",
+        7
+    ],
+    [
+        "Florian Rusch (ZF Friedrichshafen AG)",
+        "yaml",
+        6
+    ],
+    [
+        "Florian Rusch (ZF Friedrichshafen AG)",
+        "kts",
+        23
+    ],
+    [
+        "Florian Rusch (ZF Friedrichshafen AG)",
+        "sh",
+        1
+    ],
+    [
+        "Florian Rusch (ZF Friedrichshafen AG)",
+        "java",
+        5
+    ],
+    [
+        "Florian Rusch (ZF Friedrichshafen AG)",
+        "ServiceExtension",
+        1
+    ],
+    [
+        "Oph\u00e9lie Le Mentec",
+        "md",
+        6
+    ],
+    [
+        "Oph\u00e9lie Le Mentec",
+        "java",
+        36
+    ],
+    [
+        "Oph\u00e9lie Le Mentec",
+        "yaml",
+        4
+    ],
+    [
+        "Oph\u00e9lie Le Mentec",
+        "kts",
+        6
+    ],
+    [
+        "Oph\u00e9lie Le Mentec",
+        "properties",
+        1
+    ],
+    [
+        "Oph\u00e9lie Le Mentec",
+        "xml",
+        1
+    ],
+    [
+        "Peeyush Chandel",
+        "yaml",
+        3
+    ],
+    [
+        "Peeyush Chandel",
+        "kts",
+        6
+    ],
+    [
+        "Peeyush Chandel",
+        "java",
+        39
+    ],
+    [
+        "Peeyush Chandel",
+        "md",
+        4
+    ],
+    [
+        "Peeyush Chandel",
+        "sh",
+        1
+    ],
+    [
+        "Peeyush Chandel",
+        "xml",
+        1
+    ],
+    [
+        "Jim Marino",
+        "md",
+        5
+    ],
+    [
+        "Jim Marino",
+        "kts",
+        19
+    ],
+    [
+        "Jim Marino",
+        "java",
+        285
+    ],
+    [
+        "Jim Marino",
+        "ServiceExtension",
+        1
+    ],
+    [
+        "ndr_brt",
+        "yaml",
+        19
+    ],
+    [
+        "ndr_brt",
+        "md",
+        30
+    ],
+    [
+        "ndr_brt",
+        "java",
+        549
+    ],
+    [
+        "ndr_brt",
+        "puml",
+        1
+    ],
+    [
+        "ndr_brt",
+        "properties",
+        9
+    ],
+    [
+        "ndr_brt",
+        "kts",
+        33
+    ],
+    [
+        "ndr_brt",
+        "ServiceExtension",
+        6
+    ],
+    [
+        "ndr_brt",
+        "yml",
+        1
+    ],
+    [
+        "ndr_brt",
+        "unknown",
+        5
+    ],
+    [
+        "ndr_brt",
+        "bat",
+        1
+    ],
+    [
+        "ndr_brt",
+        "json",
+        3
+    ],
+    [
+        "ndr_brt",
+        "sh",
+        1
+    ],
+    [
+        "bcronin90",
+        "md",
+        4
+    ],
+    [
+        "bcronin90",
+        "puml",
+        2
+    ],
+    [
+        "bcronin90",
+        "sql",
+        4
+    ],
+    [
+        "bcronin90",
+        "kts",
+        4
+    ],
+    [
+        "bcronin90",
+        "java",
+        17
+    ],
+    [
+        "bcronin90",
+        "ServiceExtension",
+        2
+    ],
+    [
+        "Ronja Quensel",
+        "md",
+        8
+    ],
+    [
+        "Ronja Quensel",
+        "kts",
+        7
+    ],
+    [
+        "Ronja Quensel",
+        "java",
+        50
+    ],
+    [
+        "Ronja Quensel",
+        "ServiceExtension",
+        1
+    ],
+    [
+        "Ronja Quensel",
+        "properties",
+        6
+    ],
+    [
+        "Ronja Quensel",
+        "yaml",
+        7
+    ],
+    [
+        "Ronja Quensel",
+        "sh",
+        1
+    ],
+    [
+        "Benjamin Scholtes",
+        "java",
+        118
+    ],
+    [
+        "Benjamin Scholtes",
+        "kts",
+        13
+    ],
+    [
+        "Benjamin Scholtes",
+        "md",
+        6
+    ],
+    [
+        "Benjamin Scholtes",
+        "ServiceExtension",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "java",
+        307
+    ],
+    [
+        "Paul Latzelsperger",
+        "md",
+        22
+    ],
+    [
+        "Paul Latzelsperger",
+        "kts",
+        25
+    ],
+    [
+        "Paul Latzelsperger",
+        "ServiceExtension",
+        9
+    ],
+    [
+        "Paul Latzelsperger",
+        "properties",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "yaml",
+        23
+    ],
+    [
+        "Paul Latzelsperger",
+        "sql",
+        14
+    ],
+    [
+        "Alexandre Gattiker",
+        "md",
+        11
+    ],
+    [
+        "Alexandre Gattiker",
+        "java",
+        801
+    ],
+    [
+        "Alexandre Gattiker",
+        "kts",
+        12
+    ],
+    [
+        "Alexandre Gattiker",
+        "yaml",
+        5
+    ],
+    [
+        "Alexandre Gattiker",
+        "properties",
+        1
+    ],
+    [
+        "Alexandre Gattiker",
+        "ServiceExtension",
+        2
+    ],
+    [
+        "Alexandre Gattiker",
+        "xml",
+        2
+    ],
+    [
+        "Izabela Kulakowska",
+        "md",
+        3
+    ],
+    [
+        "Izabela Kulakowska",
+        "java",
+        33
+    ],
+    [
+        "Izabela Kulakowska",
+        "kts",
+        10
+    ],
+    [
+        "Izabela Kulakowska",
+        "ServiceExtension",
+        1
+    ],
+    [
+        "Dominik-Pinsel",
+        "java",
+        11
+    ],
+    [
+        "Lukas Holthof",
+        "kts",
+        1
+    ],
+    [
+        "Julia Pampus",
+        "java",
+        21
+    ],
+    [
+        "Julia Pampus",
+        "kts",
+        1
+    ],
+    [
+        "Tuncay Tunc (ZF Friedrichshafen AG)",
+        "md",
+        3
+    ],
+    [
+        "Tuncay Tunc (ZF Friedrichshafen AG)",
+        "sql",
+        2
+    ],
+    [
+        "Tuncay Tunc (ZF Friedrichshafen AG)",
+        "kts",
+        2
+    ],
+    [
+        "Tuncay Tunc (ZF Friedrichshafen AG)",
+        "java",
+        5
+    ],
+    [
+        "Tuncay Tunc (ZF Friedrichshafen AG)",
+        "ServiceExtension",
+        1
+    ],
+    [
+        "Marc Gomez",
+        "yaml",
+        1
+    ],
+    [
+        "Marc Gomez",
+        "md",
+        2
+    ],
+    [
+        "Marc Gomez",
+        "kts",
+        4
+    ],
+    [
+        "Marc Gomez",
+        "java",
+        3
+    ],
+    [
+        "MoritzKeppler",
+        "md",
+        1
+    ],
+    [
+        "MoritzKeppler",
+        "java",
+        6
+    ],
+    [
+        "Diego Alejandro G\u00f3mez Pardo (ZF Friedrichshafen AG)",
+        "md",
+        1
+    ],
+    [
+        "Diego Alejandro G\u00f3mez Pardo (ZF Friedrichshafen AG)",
+        "kts",
+        13
+    ],
+    [
+        "Diego Alejandro G\u00f3mez Pardo (ZF Friedrichshafen AG)",
+        "java",
+        12
+    ]
+]

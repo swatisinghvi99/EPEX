@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Fri Oct 17 19:33:43 2008,CopyOfActivator.java,Andrew Niefer
+Thu Oct 30 21:36:55 2008,MANIFEST.MF,Andrew Niefer
+Thu Oct 30 21:36:55 2008,AutomatedTests.java,Andrew Niefer
+Thu Oct 30 21:36:55 2008,AllTests.java,Andrew Niefer
+Thu Oct 30 21:36:55 2008,JarProcessorTests.java,Andrew Niefer
+Mon Nov  3 20:57:36 2008,FileUtils.java,Andrew Niefer
+Fri Nov  7 22:48:07 2008,SimpleArtifactRepository.java,Andrew Niefer
+Fri Nov  7 22:48:07 2008,ArtifactDescriptor.java,Andrew Niefer
+Fri Nov  7 22:48:07 2008,MD5Tests.java,Andrew Niefer
+Tue Nov 11 23:00:09 2008,FeaturesAction.java,Andrew Niefer

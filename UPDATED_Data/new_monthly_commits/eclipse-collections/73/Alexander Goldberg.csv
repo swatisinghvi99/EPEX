@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Mon Dec  6 17:59:56 2021,Function0Test.java,Alexander Goldberg
+Mon Dec  6 17:59:56 2021,Predicate2Test.java,Alexander Goldberg
+Mon Dec  6 17:59:56 2021,PredicateTest.java,Alexander Goldberg
+Mon Dec  6 17:59:56 2021,Procedure2Test.java,Alexander Goldberg
+Mon Dec  6 17:59:56 2021,ChainedProcedureTest.java,Alexander Goldberg
+Mon Dec  6 17:59:56 2021,CollectionRemoveProcedureTest.java,Alexander Goldberg
+Mon Dec  6 17:59:56 2021,FastListCollectIfProcedureTest.java,Alexander Goldberg
+Mon Dec  6 17:59:56 2021,FastListCollectProcedureTest.java,Alexander Goldberg
+Mon Dec  6 17:59:56 2021,FastListRejectProcedureTest.java,Alexander Goldberg
+Mon Dec  6 17:59:56 2021,FastListSelectProcedureTest.java,Alexander Goldberg
+Mon Dec  6 17:59:56 2021,FlatCollectProcedureTest.java,Alexander Goldberg
+Mon Dec  6 17:59:56 2021,MaxComparatorProcedureTest.java,Alexander Goldberg
+Mon Dec  6 17:59:56 2021,FastListTest.java,Alexander Goldberg

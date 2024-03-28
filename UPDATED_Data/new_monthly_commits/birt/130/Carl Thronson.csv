@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Thu Nov  5  0:52:40 2015,IMeasureDialogHelper.java,Carl Thronson
+Thu Nov  5  0:52:40 2015,MeasureDialog.java,Carl Thronson
+Thu Nov  5 22:38:32 2015,TabularMeasureGroupNodeProvider.java,Carl Thronson
+Wed Nov 11 22:35:09 2015,BaseDataDefinitionComponent.java,Carl Thronson
+Thu Nov 12  0:58:33 2015,ChartExpressionProvider.java,Carl Thronson
+Wed Nov 18  0:50:42 2015,ExpressionUtility.java,Carl Thronson
+Wed Nov 18  1:44:01 2015,ChartExpressionButton.java,Carl Thronson
+Wed Nov 18  1:44:01 2015,ReportDataServiceProvider.java,Carl Thronson
+Thu Nov 19  2:01:39 2015,ChartExpressionButton.java,Carl Thronson
+Tue Nov 24  0:27:48 2015,messages.properties,Carl Thronson
+Tue Nov 24  0:27:48 2015,ExpressionProvider.java,Carl Thronson
+Tue Dec  1  0:10:18 2015,ReportEditorProxy.java,Carl Thronson

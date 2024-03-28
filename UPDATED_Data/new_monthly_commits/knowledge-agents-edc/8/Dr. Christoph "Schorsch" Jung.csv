@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Wed Mar 13 11:38:48 2024,SkillStore.java,"Dr. Christoph ""Schorsch"" Jung"
+Wed Mar 13 11:38:48 2024,AgentController.java,"Dr. Christoph ""Schorsch"" Jung"
+Wed Mar 13 11:38:48 2024,DataspaceSynchronizer.java,"Dr. Christoph ""Schorsch"" Jung"
+Wed Mar 13 11:38:48 2024,EdcSkillStore.java,"Dr. Christoph ""Schorsch"" Jung"
+Wed Mar 13 11:38:48 2024,InMemorySkillStore.java,"Dr. Christoph ""Schorsch"" Jung"
+Wed Mar 13 11:38:48 2024,TestAgentController.java,"Dr. Christoph ""Schorsch"" Jung"
+Wed Mar 13 11:38:48 2024,TestSparqlProcessor.java,"Dr. Christoph ""Schorsch"" Jung"

@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Wed Jan 10 10:21:54 2024,can_auxiliary.rst,IliyanKordev
+Wed Jan 10 10:21:54 2024,index.rst,IliyanKordev
+Wed Jan 10 10:21:54 2024,integration_test.rst,IliyanKordev
+Wed Jan 10 10:21:54 2024,can.yaml,IliyanKordev
+Wed Jan 10 10:21:54 2024,dummy.yaml,IliyanKordev
+Wed Jan 10 10:21:54 2024,simple.dbc,IliyanKordev
+Wed Jan 10 10:21:54 2024,test_can.py,IliyanKordev
+Wed Jan 10 10:21:54 2024,poetry.lock,IliyanKordev
+Wed Jan 10 10:21:54 2024,pyproject.toml,IliyanKordev
+Wed Jan 10 10:21:54 2024,can_message.py,IliyanKordev
+Wed Jan 10 10:21:54 2024,can_parser.py,IliyanKordev
+Wed Jan 10 10:21:54 2024,can_auxiliary.py,IliyanKordev
+Wed Jan 10 10:21:54 2024,test_can_aux.py,IliyanKordev

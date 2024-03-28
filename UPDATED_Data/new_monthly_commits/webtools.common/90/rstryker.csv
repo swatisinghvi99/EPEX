@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Wed Apr 18 22:06:45 2012,ExampleFlattenParticipantProvider.java,rstryker
+Wed Apr 18 22:06:45 2012,ExampleFlattenParticipantProvider2.java,rstryker
+Wed Apr 18 22:06:45 2012,ExampleFlattenParticipantProvider3.java,rstryker
+Wed Apr 18 22:06:45 2012,FlattenParticipantProviderTest.java,rstryker
+Wed Apr 18 22:06:45 2012,plugin.xml,rstryker
+Wed Apr 18 22:06:48 2012,FlattenParticipantModel.java,rstryker
+Wed Apr 18 22:06:48 2012,IFlattenParticipantProvider.java,rstryker
+Wed Apr 18 22:06:48 2012,plugin.xml,rstryker
+Wed Apr 18 22:06:48 2012,flattenParticipantProvider.exsd,rstryker

@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Mon Sep  4 19:24:54 2017,Densifier.java,Björn Harrtell
+Mon Sep  4 19:24:54 2017,OctagonalEnvelope.java,Björn Harrtell
+Mon Sep  4 19:24:54 2017,MCIndexNoder.java,Björn Harrtell
+Mon Sep  4 19:24:54 2017,MCIndexSegmentSetMutualIntersector.java,Björn Harrtell
+Mon Sep  4 19:24:54 2017,MCIndexPointSnapper.java,Björn Harrtell
+Mon Sep  4 19:24:54 2017,Polygonizer.java,Björn Harrtell
+Mon Sep  4 19:24:54 2017,CommonBitsRemover.java,Björn Harrtell
+Mon Sep  4 19:24:54 2017,SimpleMinimumClearance.java,Björn Harrtell
+Mon Sep  4 19:24:54 2017,DouglasPeuckerSimplifier.java,Björn Harrtell
+Mon Sep  4 19:24:54 2017,TopologyPreservingSimplifier.java,Björn Harrtell
+Mon Sep  4 19:24:54 2017,VWSimplifier.java,Björn Harrtell
+Mon Sep  4 19:24:54 2017,GeometricShapeFactory.java,Björn Harrtell
+Mon Sep  4 21:13:21 2017,ScaledNoder.java,Björn Harrtell
+Mon Sep  4 21:13:21 2017,ScaledNoder.java,Björn Harrtell

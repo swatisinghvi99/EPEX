@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Fri Oct 15 10:18:35 2021,TreeViewer.java,Joerg Kubitz
+Wed Oct 20 15:14:03 2021,ExtendedMarkersView.java,Joerg Kubitz
+Fri Oct 22 13:09:52 2021,plugin.xml,Joerg Kubitz
+Fri Oct 22 13:09:52 2021,ExtendedMarkersView.java,Joerg Kubitz
+Fri Oct 22 13:09:52 2021,WorkbenchPage.java,Joerg Kubitz
+Fri Oct 22 13:09:52 2021,.api_filters,Joerg Kubitz
+Fri Oct 22 13:09:52 2021,MANIFEST.MF,Joerg Kubitz
+Fri Oct 22 13:09:52 2021,perspectives.exsd,Joerg Kubitz
+Wed Oct 27 16:42:44 2021,ScopePart.java,Joerg Kubitz
+Mon Nov  1 14:01:55 2021,build.properties,Joerg Kubitz
+Mon Nov  1 14:01:55 2021,DeferredImageDescriptor.java,Joerg Kubitz
+Mon Nov  1 14:01:55 2021,DerivedImageDescriptor.java,Joerg Kubitz
+Mon Nov  1 14:01:55 2021,DeviceResourceDescriptor.java,Joerg Kubitz
+Mon Nov  1 14:01:55 2021,FileImageDescriptor.java,Joerg Kubitz
+Mon Nov  1 14:01:55 2021,ImageDescriptor.java,Joerg Kubitz
+Mon Nov  1 14:01:55 2021,JFaceResources.java,Joerg Kubitz
+Mon Nov  1 14:01:55 2021,LazyResourceManager.java,Joerg Kubitz
+Mon Nov  1 14:01:55 2021,URLImageDescriptor.java,Joerg Kubitz
+Mon Nov  1 14:01:55 2021,LazyResourceManagerTest.java,Joerg Kubitz
+Tue Nov  2  4:51:45 2021,MANIFEST.MF,Joerg Kubitz
+Tue Nov  2  4:51:45 2021,DnDAddon.java,Joerg Kubitz
+Tue Nov  2  4:53:03 2021,MinMaxAddon.java,Joerg Kubitz
+Tue Nov  2  9:39:54 2021,MANIFEST.MF,Joerg Kubitz
+Tue Nov  2  9:39:54 2021,PartRenderingEngine.java,Joerg Kubitz
+Tue Nov  2 17:16:39 2021,AreaRenderer.java,Joerg Kubitz

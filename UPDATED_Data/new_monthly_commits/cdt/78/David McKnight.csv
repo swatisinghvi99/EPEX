@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Thu Nov 27 14:43:59 2008,FileClassifier.java,David McKnight
+Thu Dec  4 17:57:33 2008,CommandMinerThread.java,David McKnight
+Thu Dec  4 17:57:33 2008,OutputHandler.java,David McKnight
+Thu Dec  4 18:00:14 2008,DStoreSearchService.java,David McKnight
+Thu Dec  4 21:28:19 2008,DataElementRemover.java,David McKnight
+Thu Dec  4 21:31:11 2008,UniversalSearchHandler.java,David McKnight
+Fri Dec  5 17:03:45 2008,DefaultFileServiceCodePageConverter.java,David McKnight
+Tue Dec  9 16:24:36 2008,ServerReceiver.java,David McKnight

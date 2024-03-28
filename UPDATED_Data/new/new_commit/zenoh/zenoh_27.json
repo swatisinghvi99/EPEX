@@ -1,0 +1,62 @@
+[
+    [
+        "Pierre Avital",
+        "rs",
+        222
+    ],
+    [
+        "Pierre Avital",
+        "lock",
+        1
+    ],
+    [
+        "Pierre Avital",
+        "json5",
+        2
+    ],
+    [
+        "Pierre Avital",
+        "md",
+        1
+    ],
+    [
+        "Pierre Avital",
+        "toml",
+        1
+    ],
+    [
+        "Julien Enoch",
+        "rs",
+        7
+    ],
+    [
+        "OlivierHecart",
+        "lock",
+        1
+    ],
+    [
+        "OlivierHecart",
+        "toml",
+        1
+    ],
+    [
+        "OlivierHecart",
+        "rs",
+        137
+    ],
+    [
+        "Luca Cominardi",
+        "rs",
+        13
+    ],
+    [
+        "Luca Cominardi",
+        "json5",
+        1
+    ],
+    [
+        "Carlos Guimar\u00e3es",
+        "rs",
+        1
+    ]
+]

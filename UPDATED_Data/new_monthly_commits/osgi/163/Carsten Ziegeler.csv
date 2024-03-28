@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Mon Jan  8 14:56:37 2018,ComponentConfigurationDTO.java,Carsten Ziegeler
+Wed Jan 24 15:12:51 2018,ConfiguratorConstants.java,Carsten Ziegeler
+Thu Jan 25 15:28:02 2018,HttpWhiteboardListener.java,Carsten Ziegeler
+Fri Jan 26  7:05:10 2018,DTOConstants.java,Carsten Ziegeler
+Sat Jan 27 16:47:11 2018,ServletContextHelper.java,Carsten Ziegeler
+Sat Jan 27 16:47:11 2018,HttpWhiteboardConstants.java,Carsten Ziegeler
+Sat Jan 27 16:47:11 2018,tb1.perm,Carsten Ziegeler
+Sat Jan 27 16:47:11 2018,service.http.whiteboard.xml,Carsten Ziegeler
+Sat Jan 27 16:47:11 2018,service.configurator.xml,Carsten Ziegeler
+Tue Jan 30  6:54:28 2018,ConfigurationNamespace.java,Carsten Ziegeler
+Tue Jan 30  6:54:28 2018,package-info.java,Carsten Ziegeler
+Tue Jan 30  6:54:28 2018,service.configurator.xml,Carsten Ziegeler

@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Thu Jan  7 12:55:33 2021,pom.xml,Alexander Kurtakov
+Thu Jan  7 12:55:33 2021,ApacheHttpClientTest.java,Alexander Kurtakov
+Thu Jan  7 12:55:33 2021,NullJettyLogger.java,Alexander Kurtakov
+Thu Jan  7 12:55:33 2021,EmbeddedErrorHandler.java,Alexander Kurtakov
+Thu Jan  7 12:55:33 2021,EmbeddedServer.java,Alexander Kurtakov
+Thu Jan  7 12:55:33 2021,RequestFacade.java,Alexander Kurtakov
+Thu Jan  7 12:55:33 2021,ResponseFacade.java,Alexander Kurtakov
+Thu Jan  7 12:55:33 2021,RequestFacadeTest.java,Alexander Kurtakov
+Thu Jan  7 12:55:33 2021,ResponseFacadeTest.java,Alexander Kurtakov
+Thu Jan  7 12:55:33 2021,DMGPackagerServlet.java,Alexander Kurtakov
+Thu Jan  7 12:55:33 2021,DMGPackagerServletRequestParser.java,Alexander Kurtakov
+Thu Jan  7 12:55:33 2021,FlatpakagerServlet.java,Alexander Kurtakov
+Thu Jan  7 12:55:33 2021,SigningServlet.java,Alexander Kurtakov
+Thu Jan  7 12:55:33 2021,SigningServlet.java,Alexander Kurtakov
+Thu Jan  7 12:55:33 2021,CodesignerTest.java,Alexander Kurtakov
+Thu Jan  7 12:55:33 2021,SigningServlet.java,Alexander Kurtakov

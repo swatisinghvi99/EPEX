@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Wed Sep 26 17:11:43 2012,DebugUIMessages.java,Mike Rennie
+Wed Sep 26 17:11:43 2012,DebugUIMessages.properties,Mike Rennie
+Wed Sep 26 17:11:43 2012,JavaDebugPreferencePage.java,Mike Rennie
+Wed Sep 26 17:11:43 2012,ClasspathMessages.java,Mike Rennie
+Wed Sep 26 17:11:43 2012,ClasspathMessages.properties,Mike Rennie
+Wed Sep 26 17:11:43 2012,DefaultClasspathEntryDialog.java,Mike Rennie
+Wed Sep 26 17:11:43 2012,RuntimeClasspathViewer.java,Mike Rennie
+Wed Sep 26 17:11:43 2012,MANIFEST.MF,Mike Rennie
+Wed Sep 26 17:11:43 2012,DefaultProjectClasspathEntry.java,Mike Rennie
+Wed Sep 26 17:11:43 2012,LaunchingPreferenceInitializer.java,Mike Rennie
+Wed Sep 26 17:11:43 2012,JavaRuntime.java,Mike Rennie
+Mon Oct  1 16:44:53 2012,MethodImpl.java,Mike Rennie
+Wed Oct 10 20:56:44 2012,PListParser.java,Mike Rennie
+Thu Oct 11 16:01:51 2012,PListParser.java,Mike Rennie
+Wed Oct 17 16:46:14 2012,LauncherMessages.java,Mike Rennie
+Wed Oct 17 16:46:14 2012,LauncherMessages.properties,Mike Rennie
+Wed Oct 17 16:46:14 2012,VMArgumentsBlock.java,Mike Rennie
+Wed Oct 17 16:46:14 2012,MANIFEST.MF,Mike Rennie
+Wed Oct 17 16:46:14 2012,MacOSXDebugVMRunner.java,Mike Rennie
+Wed Oct 17 16:46:14 2012,MacOSXLaunchingPlugin.java,Mike Rennie
+Wed Oct 17 16:46:14 2012,MacOSXVMRunner.java,Mike Rennie
+Wed Oct 17 16:46:14 2012,IJavaLaunchConfigurationConstants.java,Mike Rennie
+Wed Oct 17 18:05:56 2012,VMArgumentsBlock.java,Mike Rennie

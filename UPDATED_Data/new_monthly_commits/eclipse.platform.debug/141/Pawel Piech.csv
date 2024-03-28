@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Sat Jan 19  0:54:09 2013,ExpressionElementCompareRequest.java,Pawel Piech
+Sat Jan 19  0:54:09 2013,ExpressionElementMementoRequest.java,Pawel Piech
+Sat Jan 19  0:54:09 2013,ExpressionMementoService.java,Pawel Piech
+Sat Jan 19  0:54:09 2013,ExpressionView.java,Pawel Piech
+Sat Jan 19  0:54:09 2013,IElementCompareRequestor.java,Pawel Piech
+Tue Jan 22 16:47:16 2013,LaunchingResourceManager.java,Pawel Piech
+Tue Jan 22 22:12:23 2013,TreeModelContentProvider.java,Pawel Piech
+Wed Jan 30 17:11:48 2013,InternalTreeModelViewer.java,Pawel Piech
+Wed Feb  6 21:33:15 2013,UpdateTests.java,Pawel Piech
+Wed Feb  6 21:33:15 2013,TreeModelContentProvider.java,Pawel Piech

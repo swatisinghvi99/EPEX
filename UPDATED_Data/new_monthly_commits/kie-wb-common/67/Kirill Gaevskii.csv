@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Mon Dec 17 20:13:58 2018,ParentsTypeMatchPredicate.java,Kirill Gaevskii
+Mon Dec 17 20:13:58 2018,FilteredParentsTypeMatcherTest.java,Kirill Gaevskii
+Mon Dec 17 20:13:58 2018,ParentsTypeMatcherTest.java,Kirill Gaevskii
+Mon Dec 17 20:13:58 2018,ConnectorParentsMatchConnectionHandlerTest.java,Kirill Gaevskii
+Mon Dec 17 20:13:58 2018,ConnectorParentsMatchContainmentHandlerTest.java,Kirill Gaevskii
+Mon Dec 17 20:13:58 2018,SequenceFlow.java,Kirill Gaevskii
+Mon Dec 17 20:15:07 2018,DiagramServiceImpl.java,Kirill Gaevskii
+Mon Dec 17 20:15:07 2018,LienzoMultipleSelectionControl.java,Kirill Gaevskii
+Mon Dec 17 20:15:07 2018,DelegateNativeContext2D.java,Kirill Gaevskii
+Mon Dec 17 20:15:07 2018,StunnerLienzo.gwt.xml,Kirill Gaevskii
+Mon Dec 17 20:15:07 2018,BaseArtifact.java,Kirill Gaevskii
+Mon Dec 17 20:15:07 2018,CaseManagementSet.java,Kirill Gaevskii
+Mon Dec 17 20:15:07 2018,AssociationPropertyWriter.java,Kirill Gaevskii
+Mon Dec 17 20:15:07 2018,BPMNDiagramServiceImpl.java,Kirill Gaevskii
+Mon Dec 17 20:15:07 2018,CaseManagementContainmentAcceptorControlImpl.java,Kirill Gaevskii
+Mon Dec 17 20:15:07 2018,CaseManagementSvgSubprocessShapeDef.java,Kirill Gaevskii
+Mon Dec 17 20:15:07 2018,CaseManagementSvgUserTaskShapeDef.java,Kirill Gaevskii
+Mon Dec 17 20:15:07 2018,CaseManagementContainmentControl.java,Kirill Gaevskii

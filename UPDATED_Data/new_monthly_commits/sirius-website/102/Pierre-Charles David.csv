@@ -1,0 +1,72 @@
+date_time,file,committer_name
+Fri Dec 10  9:45:33 2021,Glossary.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Release_Notes.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Release_Notes_Previous.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Architecture.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Architecture_Overview.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Meta-models.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Sirius Developer Manual.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,copy_paste_format_new_semantic.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,deprecated_extensions-provide_custom_bundled_image_shape.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,export_svg_traceability.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-properties_provide_custom_widget.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-properties_provide_custom_widget_advanced.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-properties_provide_custom_widget_basic.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-provide_celleditor.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-provide_custom-arrange-all.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-provide_custom_aird_editor_pages.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-provide_custom_bundled_image_shape.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-provide_custom_model_operation.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-provide_custom_permission_authority.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-provide_custom_style.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-provide_migrate_contribution.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-provide_repair_contribution.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-provide_resource_strategy.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-provide_save_dialog.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-provide_tabbar_extensions.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-provide_toolfilter.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Sirius_High-Level_Architecture_Overview.svg,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Sirius_Representation_Refresh-Sync.svg,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,integration-modeler_description_file_deployment.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,integration-plm.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-provide_custom_extender.txt,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-provide_custom_representation.txt,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-provide_custom_representations_export.txt,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,extensions-provide_custom_specific_editor.txt,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,integration-model_access.txt,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,representations_lazy_loading.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,siriusCrossReferenceAdapter.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,trigger-refresh-graphical-changes.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,i18n_changes.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,release_notes_vp.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,bootstrap.css,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,bootstrap.js,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,custom.css,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Sirius Specifier Manual.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,CreatingViewpointSpecification.xml,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Diagrams.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Colors.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Model_Operations.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Specifying_Viewpoints.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,ToolsSpecification.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Writing_Queries.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,.directory,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Properties_View_Description.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Sequence Diagrams.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Tables.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Trees.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Workflows.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Sirius User Manual.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Diagrams.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Aird_Editor.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Aird_Preferences.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Modeling Project.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,SiriusSessionDetailedInformation.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Properties View.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Sequence Diagrams.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Tables.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Trees.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Release_Notes.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,i18n_changes.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,index.html,Pierre-Charles David
+Fri Dec 10  9:45:33 2021,Diagrams.html,Pierre-Charles David

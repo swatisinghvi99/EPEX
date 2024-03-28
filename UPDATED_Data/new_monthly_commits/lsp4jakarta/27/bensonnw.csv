@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Thu Nov 17 16:18:50 2022,JDTUtils.java,bensonnw
+Wed Nov 23 14:49:49 2022,SnippetRegistry.java,bensonnw
+Thu Dec  1 16:17:05 2022,JakartaTextDocumentService.java,bensonnw
+Thu Dec  1 16:17:05 2022,SnippetRegistry.java,bensonnw
+Mon Dec  5 15:04:41 2022,SnippetRegistry.java,bensonnw
+Mon Dec  5 15:04:49 2022,SnippetRegistry.java,bensonnw
+Wed Dec  7 15:04:23 2022,MANIFEST.MF,bensonnw
+Wed Dec  7 15:04:23 2022,plugin.xml,bensonnw
+Wed Dec  7 15:04:23 2022,Activator.java,bensonnw
+Wed Dec  7 15:04:23 2022,JakartaLSConnection.java,bensonnw
+Wed Dec  7 15:04:23 2022,JakartaLanguageClient.java,bensonnw
+Wed Dec  7 15:04:23 2022,JakartaJavaCompletionProposalComputer.java,bensonnw
+Wed Dec  7 15:04:23 2022,ActivatorTest.java,bensonnw

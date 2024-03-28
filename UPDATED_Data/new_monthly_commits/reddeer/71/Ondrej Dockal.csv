@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Mon May 28  7:07:00 2018,GroupWait.java,Ondrej Dockal
+Mon May 28  7:07:00 2018,CustomWaitCondition.java,Ondrej Dockal
+Mon May 28  7:07:00 2018,GroupWaitTest.java,Ondrej Dockal
+Mon May 28  7:07:00 2018,WaitProviderTest.java,Ondrej Dockal
+Mon May 28  7:07:00 2018,WaitUntilTest.java,Ondrej Dockal
+Mon May 28  7:07:00 2018,WaitWhileTest.java,Ondrej Dockal
+Thu Jun  7  6:49:50 2018,JUnitLaunchConfigurationTab.java,Ondrej Dockal
+Thu Jun  7  6:49:50 2018,LaunchConfigurationsDialog.java,Ondrej Dockal
+Thu Jun  7  6:49:50 2018,MANIFEST.MF,Ondrej Dockal
+Thu Jun  7  6:49:50 2018,RedDeerTestClassRunMenuOptionsTest.java,Ondrej Dockal
+Thu Jun  7  6:49:50 2018,RedDeerLaunchConfiguration.java,Ondrej Dockal
+Thu Jun  7  6:49:50 2018,RedDeerLaunchConfigurationTab.java,Ondrej Dockal
+Thu Jun  7  6:49:50 2018,RedDeerRunConfigurationDialogTest.java,Ondrej Dockal
+Thu Jun  7  6:49:50 2018,RedDeerTestCaseWizardTest.java,Ondrej Dockal
+Thu Jun  7  6:49:50 2018,RedDeerTestPluginWizardTest.java,Ondrej Dockal
+Thu Jun  7  6:49:50 2018,RedDeerWizardTestCase.java,Ondrej Dockal

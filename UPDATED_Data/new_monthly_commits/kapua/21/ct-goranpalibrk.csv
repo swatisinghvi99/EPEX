@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Mon Jun 18  7:12:27 2018,GwtAccountServiceImpl.java,ct-goranpalibrk
+Mon Jun 18  7:12:27 2018,ValidationMessages.properties,ct-goranpalibrk
+Mon Jun 18  7:12:27 2018,GwtUserServiceImpl.java,ct-goranpalibrk
+Wed Jun 20  7:28:27 2018,JobTabTargetsGrid.java,ct-goranpalibrk
+Wed Jun 20  7:28:27 2018,GwtJobTargetServiceImpl.java,ct-goranpalibrk
+Wed Jun 20  7:28:27 2018,GwtJobTarget.java,ct-goranpalibrk
+Wed Jun 20  7:28:27 2018,ConsoleJobMessages.properties,ct-goranpalibrk
+Wed Jun 20  7:28:27 2018,JobTargetPredicates.java,ct-goranpalibrk
+Fri Jun 22  7:50:51 2018,EndpointFilterPanel.java,ct-goranpalibrk
+Fri Jun 22  7:50:51 2018,GwtKapuaEndpointModelConverter.java,ct-goranpalibrk

@@ -1,0 +1,357 @@
+[
+    [
+        "Wouter Born",
+        "java",
+        1
+    ],
+    [
+        "lolodomo",
+        "java",
+        54
+    ],
+    [
+        "lolodomo",
+        "md",
+        3
+    ],
+    [
+        "lolodomo",
+        "xml",
+        4
+    ],
+    [
+        "lolodomo",
+        "MF",
+        2
+    ],
+    [
+        "lolodomo",
+        "properties",
+        5
+    ],
+    [
+        "Simon Kaufmann",
+        "java",
+        128
+    ],
+    [
+        "Simon Kaufmann",
+        "classpath",
+        8
+    ],
+    [
+        "Simon Kaufmann",
+        "project",
+        8
+    ],
+    [
+        "Simon Kaufmann",
+        "prefs",
+        10
+    ],
+    [
+        "Simon Kaufmann",
+        "MF",
+        19
+    ],
+    [
+        "Simon Kaufmann",
+        "unknown",
+        8
+    ],
+    [
+        "Simon Kaufmann",
+        "properties",
+        8
+    ],
+    [
+        "Simon Kaufmann",
+        "xml",
+        26
+    ],
+    [
+        "Simon Kaufmann",
+        "ini",
+        1
+    ],
+    [
+        "Simon Kaufmann",
+        "gitignore",
+        18
+    ],
+    [
+        "Simon Kaufmann",
+        "xtend",
+        38
+    ],
+    [
+        "Simon Kaufmann",
+        "xml_gen",
+        6
+    ],
+    [
+        "Simon Kaufmann",
+        "mwe2",
+        6
+    ],
+    [
+        "Simon Kaufmann",
+        "launch",
+        3
+    ],
+    [
+        "Simon Kaufmann",
+        "target",
+        1
+    ],
+    [
+        "Simon Kaufmann",
+        "groovy",
+        3
+    ],
+    [
+        "Simon Kaufmann",
+        "cfg",
+        4
+    ],
+    [
+        "Andre Fuechsel",
+        "java",
+        14
+    ],
+    [
+        "Henning Treu",
+        "launch",
+        3
+    ],
+    [
+        "Henning Treu",
+        "java",
+        12
+    ],
+    [
+        "Henning Treu",
+        "groovy",
+        3
+    ],
+    [
+        "Henning Treu",
+        "MF",
+        4
+    ],
+    [
+        "Henning Treu",
+        "js",
+        14
+    ],
+    [
+        "Henning Treu",
+        "html",
+        9
+    ],
+    [
+        "Henning Treu",
+        "json",
+        2
+    ],
+    [
+        "Henning Treu",
+        "xml",
+        1
+    ],
+    [
+        "Henning Treu",
+        "css",
+        3
+    ],
+    [
+        "Henning Treu",
+        "svg",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "java",
+        5
+    ],
+    [
+        "Stefan Triller",
+        "java",
+        1747
+    ],
+    [
+        "Stefan Triller",
+        "MF",
+        1
+    ],
+    [
+        "Stefan Triller",
+        "cfg",
+        9
+    ],
+    [
+        "Stefan Triller",
+        "xml",
+        187
+    ],
+    [
+        "Stefan Triller",
+        "groovy",
+        99
+    ],
+    [
+        "Stefan Triller",
+        "xtend",
+        63
+    ],
+    [
+        "Stefan Triller",
+        "mwe2",
+        6
+    ],
+    [
+        "Kai Kreuzer",
+        "java",
+        63
+    ],
+    [
+        "Kai Kreuzer",
+        "MF",
+        2
+    ],
+    [
+        "Kai Kreuzer",
+        "xml",
+        2
+    ],
+    [
+        "Kai Kreuzer",
+        "md",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "groovy",
+        1
+    ],
+    [
+        "Pavion",
+        "js",
+        1
+    ],
+    [
+        "Svilen",
+        "java",
+        1
+    ],
+    [
+        "Michael Ochel",
+        "xml",
+        14
+    ],
+    [
+        "Michael Ochel",
+        "properties",
+        2
+    ],
+    [
+        "Michael Ochel",
+        "MF",
+        1
+    ],
+    [
+        "Michael Ochel",
+        "md",
+        1
+    ],
+    [
+        "Michael Ochel",
+        "java",
+        129
+    ],
+    [
+        "Christoph Weitkamp",
+        "xml",
+        1
+    ],
+    [
+        "Christoph Weitkamp",
+        "md",
+        1
+    ],
+    [
+        "Christoph Weitkamp",
+        "java",
+        1
+    ],
+    [
+        "Dimitar Ivanov",
+        "groovy",
+        1
+    ],
+    [
+        "Dimitar Ivanov",
+        "java",
+        2
+    ],
+    [
+        "Gerhard R",
+        "xml",
+        1
+    ],
+    [
+        "Gerhard R",
+        "md",
+        1
+    ],
+    [
+        "Gerhard R",
+        "java",
+        3
+    ],
+    [
+        "Simon Merschjohann",
+        "java",
+        1
+    ],
+    [
+        "\u0645\u062d\u0645\u0648\u062f \u0627\u0644\u0634\u064a\u062e \u062e\u0644\u064a\u0644",
+        "java",
+        1
+    ],
+    [
+        "Kristina Simova",
+        "java",
+        14
+    ],
+    [
+        "Kristina Simova",
+        "xml",
+        1
+    ],
+    [
+        "adimova",
+        "java",
+        5
+    ],
+    [
+        "Hilbrand Bouwkamp",
+        "java",
+        4
+    ],
+    [
+        "Hilbrand Bouwkamp",
+        "xml",
+        1
+    ],
+    [
+        "Mark Herwege",
+        "java",
+        4
+    ],
+    [
+        "Mark Herwege",
+        "xml",
+        1
+    ]
+]

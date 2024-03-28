@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Wed Oct  5 21:45:58 2016,MenuManagerHideProcessor.java,Dirk Fauth
+Wed Oct  5 21:45:58 2016,MenuManagerShowProcessor.java,Dirk Fauth
+Sun Oct  9 19:50:24 2016,MANIFEST.MF,Dirk Fauth
+Sun Oct  9 19:50:24 2016,org.eclipse.e4.ui.services.events.EventBrokerFactory.xml,Dirk Fauth
+Sun Oct  9 19:50:24 2016,Activator.java,Dirk Fauth
+Sun Oct  9 19:50:24 2016,ServiceMessages.java,Dirk Fauth
+Sun Oct  9 19:50:24 2016,serviceMessages.properties,Dirk Fauth
+Sun Oct  9 19:50:24 2016,EventBrokerFactory.java,Dirk Fauth
+Sun Oct  9 19:50:24 2016,EventBroker.java,Dirk Fauth

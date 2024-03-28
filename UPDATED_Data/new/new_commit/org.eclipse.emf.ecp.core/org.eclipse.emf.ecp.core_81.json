@@ -1,0 +1,367 @@
+[
+    [
+        "Eugen Neufeld",
+        "java",
+        98
+    ],
+    [
+        "Eugen Neufeld",
+        "test",
+        1
+    ],
+    [
+        "Eugen Neufeld",
+        "xml",
+        8
+    ],
+    [
+        "Eugen Neufeld",
+        "launch",
+        1
+    ],
+    [
+        "Eugen Neufeld",
+        "project",
+        6
+    ],
+    [
+        "Eugen Neufeld",
+        "checkstyle",
+        4
+    ],
+    [
+        "Eugen Neufeld",
+        "genmodel",
+        3
+    ],
+    [
+        "Eugen Neufeld",
+        "classpath",
+        3
+    ],
+    [
+        "Eugen Neufeld",
+        "prefs",
+        8
+    ],
+    [
+        "Eugen Neufeld",
+        "MF",
+        4
+    ],
+    [
+        "Eugen Neufeld",
+        "properties",
+        2
+    ],
+    [
+        "Eugen Neufeld",
+        "ecore",
+        1
+    ],
+    [
+        "Jonas Helming",
+        "xml",
+        2
+    ],
+    [
+        "Jonas Helming",
+        "java",
+        19
+    ],
+    [
+        "Jonas Helming",
+        "MF",
+        1
+    ],
+    [
+        "Lucas Koehler",
+        "java",
+        155
+    ],
+    [
+        "Lucas Koehler",
+        "xml",
+        25
+    ],
+    [
+        "Lucas Koehler",
+        "classpath",
+        9
+    ],
+    [
+        "Lucas Koehler",
+        "project",
+        7
+    ],
+    [
+        "Lucas Koehler",
+        "prefs",
+        55
+    ],
+    [
+        "Lucas Koehler",
+        "MF",
+        22
+    ],
+    [
+        "Lucas Koehler",
+        "properties",
+        15
+    ],
+    [
+        "Lucas Koehler",
+        "checkstyle",
+        5
+    ],
+    [
+        "Lucas Koehler",
+        "api_filters",
+        4
+    ],
+    [
+        "Lucas Koehler",
+        "exsd",
+        1
+    ],
+    [
+        "Lucas Koehler",
+        "ecore",
+        5
+    ],
+    [
+        "Lucas Koehler",
+        "genmodel",
+        3
+    ],
+    [
+        "Lucas Koehler",
+        "launch",
+        5
+    ],
+    [
+        "Lucas Koehler",
+        "xmi",
+        1
+    ],
+    [
+        "Lucas Koehler",
+        "view",
+        2
+    ],
+    [
+        "Johannes Faltermeier",
+        "java",
+        2
+    ],
+    [
+        "Johannes Faltermeier",
+        "xml",
+        2
+    ],
+    [
+        "Johannes Faltermeier",
+        "checkstyle",
+        1
+    ],
+    [
+        "Johannes Faltermeier",
+        "classpath",
+        1
+    ],
+    [
+        "Johannes Faltermeier",
+        "project",
+        1
+    ],
+    [
+        "Johannes Faltermeier",
+        "prefs",
+        9
+    ],
+    [
+        "Johannes Faltermeier",
+        "MF",
+        1
+    ],
+    [
+        "Johannes Faltermeier",
+        "launch",
+        1
+    ],
+    [
+        "Johannes Faltermeier",
+        "properties",
+        1
+    ],
+    [
+        "Remi Schnekenburger",
+        "java",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "java",
+        2
+    ],
+    [
+        "Alexandra Buzila",
+        "xml",
+        2
+    ],
+    [
+        "Alexandra Buzila",
+        "checkstyle",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "classpath",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "project",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "prefs",
+        9
+    ],
+    [
+        "Alexandra Buzila",
+        "MF",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "properties",
+        1
+    ],
+    [
+        "Mat Hansen",
+        "java",
+        84
+    ],
+    [
+        "Mat Hansen",
+        "xml",
+        36
+    ],
+    [
+        "Mat Hansen",
+        "xtend",
+        1
+    ],
+    [
+        "Mat Hansen",
+        "view",
+        53
+    ],
+    [
+        "Mat Hansen",
+        "viewmodel",
+        1
+    ],
+    [
+        "Mat Hansen",
+        "api_filters",
+        3
+    ],
+    [
+        "Mat Hansen",
+        "MF",
+        4
+    ],
+    [
+        "Mat Hansen",
+        "properties",
+        6
+    ],
+    [
+        "Mat Hansen",
+        "sh",
+        1
+    ],
+    [
+        "Mat Hansen",
+        "ecore",
+        1
+    ],
+    [
+        "Mat Hansen",
+        "genmodel",
+        2
+    ],
+    [
+        "Mat Hansen",
+        "history",
+        1
+    ],
+    [
+        "Mat Hansen",
+        "launch",
+        1
+    ],
+    [
+        "Mat Hansen",
+        "prefs",
+        19
+    ],
+    [
+        "Mat Hansen",
+        "checkstyle",
+        2
+    ],
+    [
+        "Mat Hansen",
+        "classpath",
+        2
+    ],
+    [
+        "Mat Hansen",
+        "project",
+        3
+    ],
+    [
+        "Mat Hansen",
+        "html",
+        1
+    ],
+    [
+        "Christian W. Damus",
+        "java",
+        26
+    ],
+    [
+        "Christian W. Damus",
+        "xml",
+        3
+    ],
+    [
+        "Christian W. Damus",
+        "launch",
+        2
+    ],
+    [
+        "Christian W. Damus",
+        "ecore",
+        1
+    ],
+    [
+        "Christian W. Damus",
+        "genmodel",
+        1
+    ],
+    [
+        "Christian W. Damus",
+        "MF",
+        2
+    ],
+    [
+        "abialas",
+        "java",
+        1
+    ]
+]

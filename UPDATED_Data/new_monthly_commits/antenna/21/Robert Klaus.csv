@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Thu Mar 26  8:00:45 2020,cyclonedx-generator-step.md,Robert Klaus
+Thu Mar 26  8:00:45 2020,pom.xml,Robert Klaus
+Thu Mar 26  8:00:45 2020,workflow.xml,Robert Klaus
+Thu Mar 26  8:00:45 2020,pom.xml,Robert Klaus
+Thu Mar 26  8:00:45 2020,LicenseKnowledgeBaseResolver.java,Robert Klaus
+Thu Mar 26  8:00:45 2020,AbstractTestProjectWithExpectations.java,Robert Klaus
+Thu Mar 26  8:00:45 2020,pom.xml,Robert Klaus
+Thu Mar 26  8:00:45 2020,pom.xml,Robert Klaus
+Thu Mar 26  8:00:45 2020,workflow.xml,Robert Klaus
+Thu Mar 26  8:00:45 2020,pom.xml,Robert Klaus
+Thu Mar 26  8:00:45 2020,ArtifactToComponentConverter.java,Robert Klaus
+Thu Mar 26  8:00:45 2020,CycloneDXGenerator.java,Robert Klaus
+Thu Mar 26  8:00:45 2020,ArtifactTestHarness.java,Robert Klaus
+Thu Mar 26  8:00:45 2020,ArtifactToComponentConverterTest.java,Robert Klaus
+Thu Mar 26  8:00:45 2020,CycloneDXGeneratorTest.java,Robert Klaus
+Thu Mar 26  8:00:45 2020,ReportWithMavenAndFiles.json,Robert Klaus
+Thu Mar 26  8:00:45 2020,ReportWithTwoComponents.json,Robert Klaus
+Thu Mar 26  8:00:45 2020,logback.xml,Robert Klaus
+Thu Mar 26  8:00:45 2020,pom.xml,Robert Klaus
+Thu Mar 26  8:00:45 2020,pom.xml,Robert Klaus
+Thu Mar 26  8:00:45 2020,CycloneDXGenerator.java,Robert Klaus
+Thu Mar 26  8:00:45 2020,logback.xml,Robert Klaus

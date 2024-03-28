@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Mon Oct 13 14:15:19 2014,Release Notes.html,Esteban Dugueperoux
+Mon Oct 13 14:15:19 2014,Release Notes.textile,Esteban Dugueperoux
+Mon Oct 13 14:15:19 2014,DTreeRefresh.java,Esteban Dugueperoux
+Mon Oct 13 14:15:19 2014,AbstractColorUpdater.java,Esteban Dugueperoux
+Tue Oct 14  9:38:44 2014,AirDResourceImpl.java,Esteban Dugueperoux
+Tue Oct 14 12:46:10 2014,DiagramMappingsManagerImpl.java,Esteban Dugueperoux
+Tue Oct 14 12:46:10 2014,MappingsUpdater.java,Esteban Dugueperoux
+Tue Oct 14 12:46:10 2014,MappingsIterationTests.java,Esteban Dugueperoux
+Tue Oct 14 12:46:10 2014,DSemanticDecoratorQuery.java,Esteban Dugueperoux
+Thu Oct 16  7:16:24 2014,SiriusEnhancedPrintActionHelper.java,Esteban Dugueperoux
+Thu Oct 16  7:16:24 2014,SiriusRenderedDiagramPrinter.java,Esteban Dugueperoux
+Thu Oct 16  8:39:45 2014,Release Notes.html,Esteban Dugueperoux
+Thu Oct 16  8:39:45 2014,Release Notes.textile,Esteban Dugueperoux
+Thu Oct 16  8:39:45 2014,CompositeMetamodelExtender.java,Esteban Dugueperoux
+Thu Oct 16  8:39:45 2014,IMetamodelExtender.java,Esteban Dugueperoux
+Thu Oct 16  8:39:45 2014,ModelAccessor.java,Esteban Dugueperoux
+Thu Oct 16  8:39:45 2014,EcoreIntrinsicExtender.java,Esteban Dugueperoux
+Thu Oct 16  8:39:45 2014,ExtendedPropertySourceTestCase.java,Esteban Dugueperoux
+Thu Oct 16 15:05:15 2014,SiriusEnhancedPrintActionHelper.java,Esteban Dugueperoux
+Thu Oct 16 15:05:15 2014,SiriusJPSRenderedDiagramPrinter.java,Esteban Dugueperoux
+Thu Oct 16 15:05:15 2014,SiriusSWTRenderedDiagramPrinter.java,Esteban Dugueperoux
+Thu Oct 16 15:06:10 2014,DiagramPrintTest.java,Esteban Dugueperoux
+Thu Oct 16 15:06:10 2014,AllTestSuite.java,Esteban Dugueperoux
+Fri Oct 17  9:45:59 2014,SessionWrapperContentProvider.java,Esteban Dugueperoux

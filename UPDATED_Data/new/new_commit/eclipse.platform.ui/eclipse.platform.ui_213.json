@@ -1,0 +1,237 @@
+[
+    [
+        "Andrey Loskutov",
+        "MF",
+        2
+    ],
+    [
+        "Andrey Loskutov",
+        "xml",
+        2
+    ],
+    [
+        "Andrey Loskutov",
+        "java",
+        6
+    ],
+    [
+        "Rolf Theunissen",
+        "java",
+        9
+    ],
+    [
+        "Mykola Zakharchuk",
+        "java",
+        3
+    ],
+    [
+        "Mykola Zakharchuk",
+        "properties",
+        1
+    ],
+    [
+        "Mykola Zakharchuk",
+        "MF",
+        1
+    ],
+    [
+        "Mykola Zakharchuk",
+        "xml",
+        1
+    ],
+    [
+        "Lars Vogel",
+        "java",
+        7
+    ],
+    [
+        "Michael Keppler",
+        "java",
+        1
+    ],
+    [
+        "Julian Honnen",
+        "java",
+        5
+    ],
+    [
+        "Wim Jongman",
+        "classpath",
+        1
+    ],
+    [
+        "Wim Jongman",
+        "project",
+        1
+    ],
+    [
+        "Wim Jongman",
+        "prefs",
+        6
+    ],
+    [
+        "Wim Jongman",
+        "MF",
+        1
+    ],
+    [
+        "Wim Jongman",
+        "html",
+        1
+    ],
+    [
+        "Wim Jongman",
+        "properties",
+        3
+    ],
+    [
+        "Wim Jongman",
+        "txt",
+        1
+    ],
+    [
+        "Wim Jongman",
+        "xml",
+        3
+    ],
+    [
+        "Wim Jongman",
+        "java",
+        22
+    ],
+    [
+        "Andrzej Witecki",
+        "java",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        16
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "xml",
+        2
+    ],
+    [
+        "Brian de Alwis",
+        "java",
+        1
+    ],
+    [
+        "Mickael Istria",
+        "java",
+        9
+    ],
+    [
+        "Mickael Istria",
+        "properties",
+        3
+    ],
+    [
+        "Mickael Istria",
+        "xml",
+        1
+    ],
+    [
+        "Ralph Gerbig",
+        "java",
+        1
+    ],
+    [
+        "Tim Neumann",
+        "gitignore",
+        1
+    ],
+    [
+        "Tim Neumann",
+        "java",
+        9
+    ],
+    [
+        "Tim Neumann",
+        "exsd",
+        1
+    ],
+    [
+        "Tim Neumann",
+        "xml",
+        1
+    ],
+    [
+        "kitlo",
+        "java",
+        1
+    ],
+    [
+        "Sebastian Ratz",
+        "java",
+        2
+    ],
+    [
+        "Roland Grunberg",
+        "MF",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "xml",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "java",
+        1
+    ],
+    [
+        "Matthias Becker",
+        "java",
+        1
+    ],
+    [
+        "Vladimir Piskarev",
+        "java",
+        5
+    ],
+    [
+        "Vladimir Piskarev",
+        "xml",
+        1
+    ],
+    [
+        "Elliott Baron",
+        "java",
+        4
+    ],
+    [
+        "Lakshmi Priya Shanmugam",
+        "xml",
+        1
+    ],
+    [
+        "Lakshmi Priya Shanmugam",
+        "java",
+        1
+    ],
+    [
+        "Karsten Thoms",
+        "MF",
+        1
+    ],
+    [
+        "Karsten Thoms",
+        "xml",
+        1
+    ],
+    [
+        "Karsten Thoms",
+        "java",
+        2
+    ]
+]

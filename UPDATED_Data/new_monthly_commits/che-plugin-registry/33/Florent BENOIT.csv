@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Fri Apr 30 13:53:40 2021,.pnp.js,Florent BENOIT
+Fri Apr 30 13:53:40 2021,CONTRIBUTE.md,Florent BENOIT
+Fri Apr 30 13:53:40 2021,che-theia-plugins.yaml,Florent BENOIT
+Fri Apr 30 13:53:40 2021,package.json,Florent BENOIT
+Fri Apr 30 13:53:40 2021,build.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,che-theia-plugin-analyzer-meta-info.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,che-theia-plugin-yaml-info.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,che-theia-plugins-meta-yaml-generator.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,che-theia-plugins-yaml-generator.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,che-theia-plugins-yaml-writer.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,che-theia-plugins-yaml.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,vsix-info.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,index-writer.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,meta-yaml-plugin-info.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,meta-yaml-writer.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,build.spec.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,che-theia-plugin-analyzer.spec.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,che-theia-plugins-meta-yaml-generator.spec.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,che-theia-plugins-yaml-generator.spec.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,che-theia-plugins-yaml-writer.spec.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,vsix-info-mock.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,meta-yaml-writer.spec.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,che-theia-plugins-generator.ts,Florent BENOIT
+Fri Apr 30 13:53:40 2021,yarn.lock,Florent BENOIT

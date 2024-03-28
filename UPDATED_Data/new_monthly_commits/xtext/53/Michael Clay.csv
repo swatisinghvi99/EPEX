@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Tue Sep 11 19:26:14 2012,BuilderParticipant.java,Michael Clay
+Tue Sep 11 19:26:14 2012,EclipseResourceFileSystemAccess2.java,Michael Clay
+Tue Sep 11 19:26:14 2012,ResourceUtil.java,Michael Clay
+Tue Sep 11 19:26:14 2012,BuilderParticipantTest.java,Michael Clay
+Tue Sep 11 20:13:57 2012,EclipseResourceFileSystemAccess2.java,Michael Clay
+Tue Sep 11 20:13:57 2012,JDTAwareEclipseResourceFileSystemAccess2.java,Michael Clay
+Tue Sep 11 20:20:46 2012,SourceRelativeFileSystemAccess.java,Michael Clay
+Tue Sep 18 19:46:08 2012,AddMarkersOperation.java,Michael Clay
+Thu Sep 20 19:53:13 2012,XtextReconciler.java,Michael Clay
+Tue Sep 25 19:21:53 2012,XtextNature.java,Michael Clay
+Tue Sep 25 19:21:53 2012,BuilderParticipantTest.java,Michael Clay
+Mon Oct  1 20:14:21 2012,ImportManager.java,Michael Clay
+Mon Oct  1 20:14:21 2012,JvmModelGeneratorTest.xtend,Michael Clay
+Mon Oct  1 21:34:44 2012,OverrideIndicatorModelListener.java,Michael Clay
+Wed Oct  3 21:35:08 2012,RenameStrategyTest.java,Michael Clay
+Sun Oct  7 10:00:10 2012,XbaseHoverDocumentationProvider.java,Michael Clay
+Sun Oct  7 10:21:10 2012,XbaseHoverDocumentationProvider.java,Michael Clay
+Sun Oct  7 10:22:13 2012,XtendHoverDocumentationProvider.java,Michael Clay
+Sun Oct  7 10:22:13 2012,XtendHoverDocumentationProviderTest.xtend,Michael Clay

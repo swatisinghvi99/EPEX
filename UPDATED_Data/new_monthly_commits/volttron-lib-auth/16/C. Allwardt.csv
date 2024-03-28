@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Fri Jan 19 22:30:07 2024,.pre-commit-config.yaml,C. Allwardt
+Fri Jan 19 22:30:07 2024,mypy.ini,C. Allwardt
+Fri Jan 19 22:30:07 2024,pyproject.toml,C. Allwardt
+Fri Jan 19 22:30:07 2024,upgrade-dependencies-latest.py,C. Allwardt
+Fri Jan 19 23:30:35 2024,__init__.py,C. Allwardt
+Fri Jan 19 23:30:35 2024,credential_manager.py,C. Allwardt
+Fri Jan 19 23:30:35 2024,conftest.py,C. Allwardt
+Fri Jan 19 23:30:35 2024,test_file_based_credential_store.py,C. Allwardt
+Sat Jan 20  0:22:40 2024,auth_service.py,C. Allwardt
+Sat Jan 20  0:22:40 2024,__init__.py,C. Allwardt
+Thu Feb  8 22:26:04 2024,auth_model.py,C. Allwardt
+Thu Feb  8 22:26:04 2024,credential_manager.py,C. Allwardt
+Thu Feb  8 22:26:04 2024,auth_service.py,C. Allwardt
+Thu Feb  8 22:26:04 2024,conftest.py,C. Allwardt
+Thu Feb  8 22:26:04 2024,test_file_based_credential_store.py,C. Allwardt
+Fri Feb  9  0:18:39 2024,test_file_based_credential_store.py,C. Allwardt

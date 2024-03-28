@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Tue Oct 13  0:42:57 2009,PhpWorkingSetPage.java,qiwang
+Tue Oct 13  0:42:57 2009,PhpWorkingSetPageContentProvider.java,qiwang
+Tue Oct 13  0:42:57 2009,WorkingSetMessages.java,qiwang
+Tue Oct 13  0:42:57 2009,WorkingSetMessages.properties,qiwang
+Tue Oct 13  0:46:02 2009,plugin.xml,qiwang
+Tue Oct 13  0:46:02 2009,WorkingSetMessages.java,qiwang
+Fri Oct 16  1:28:50 2009,PHPExplorerPart.java,qiwang
+Fri Oct 16  1:28:50 2009,PHPSelectionTransferDropAdapter.java,qiwang
+Fri Oct 16  1:28:50 2009,ArrayTypeConverter.java,qiwang
+Fri Oct 16  1:28:50 2009,OverwriteHelper.java,qiwang
+Fri Oct 16  1:28:50 2009,ReadOnlyResourceFinder.java,qiwang
+Fri Oct 16  1:28:50 2009,ReorgPolicyFactory.java,qiwang
+Fri Oct 16  6:14:10 2009,PHPSelectionTransferDropAdapter.java,qiwang
+Tue Oct 20  0:31:49 2009,AbstractMoveDelegator.java,qiwang
+Tue Oct 20  0:31:49 2009,ReorgMoveAction.java,qiwang
+Tue Oct 20  0:31:49 2009,PHPSelectionTransferDropAdapter.java,qiwang
+Tue Oct 20  0:58:47 2009,ReorgPolicyFactory.java,qiwang
+Tue Oct 20  5:49:52 2009,PHPStructuredEditor.java,qiwang
+Tue Oct 20  5:49:52 2009,ClassNameOccurrencesFinder.java,qiwang
+Tue Oct 20  5:49:52 2009,ConstantsOccurrencesFinder.java,qiwang
+Tue Oct 20  5:50:00 2009,PhpElementConciliator.java,qiwang
+Tue Oct 20  5:50:00 2009,DefaultBindingResolver.java,qiwang
+Tue Oct 20 23:43:48 2009,ReorgMoveAction.java,qiwang
+Wed Oct 21  0:06:42 2009,PHPStructuredTextViewer.java,qiwang

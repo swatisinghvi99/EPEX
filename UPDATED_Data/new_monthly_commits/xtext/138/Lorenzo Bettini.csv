@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Fri Oct 11  9:44:19 2019,CompilerTest.xtend,Lorenzo Bettini
+Fri Oct 11  9:44:19 2019,ValidationTests.xtend,Lorenzo Bettini
+Fri Oct 11  9:44:19 2019,CompilerTest.java,Lorenzo Bettini
+Fri Oct 11  9:44:19 2019,ValidationTests.java,Lorenzo Bettini
+Fri Oct 11  9:44:19 2019,DomainmodelValidator.xtend,Lorenzo Bettini
+Fri Oct 11  9:44:19 2019,IssueCodes.java,Lorenzo Bettini
+Fri Oct 11  9:44:19 2019,DomainmodelValidator.java,Lorenzo Bettini
+Wed Oct 23  8:12:19 2019,DomainmodelJvmModelHelper.xtend,Lorenzo Bettini
+Wed Oct 23  8:12:19 2019,DomainmodelValidator.xtend,Lorenzo Bettini
+Wed Oct 23  8:12:19 2019,DomainmodelJvmModelHelper.java,Lorenzo Bettini
+Wed Oct 23  8:12:19 2019,DomainmodelValidator.java,Lorenzo Bettini
+Wed Oct 23  8:12:19 2019,CompilerTest.xtend,Lorenzo Bettini
+Wed Oct 23  8:12:19 2019,CompilerTest.java,Lorenzo Bettini
+Wed Oct 23  8:12:19 2019,DomainmodelJvmModelInferrer.xtend,Lorenzo Bettini
+Wed Oct 23  8:12:19 2019,DomainmodelJvmModelInferrer.java,Lorenzo Bettini
+Wed Oct 23  8:12:20 2019,ValidationTests.xtend,Lorenzo Bettini
+Wed Oct 23  8:12:20 2019,ValidationTests.java,Lorenzo Bettini

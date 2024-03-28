@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Wed Jan 23 14:39:37 2013,AttributeDefinitionImpl.java,John Ross
+Wed Jan 23 14:39:37 2013,DataParser.java,John Ross
+Wed Jan 23 14:39:37 2013,ExternalMessages.properties,John Ross
+Wed Jan 23 14:39:37 2013,MetaTypeMsg.java,John Ross
+Wed Jan 23 14:39:37 2013,MetaTypeProviderImpl.java,John Ross
+Wed Jan 23 14:39:37 2013,MetaTypeServiceImpl.java,John Ross
+Wed Jan 23 14:39:37 2013,ValueTokenizer.java,John Ross
+Wed Jan 23 14:39:37 2013,testfile.xml,John Ross
+Wed Jan 23 14:39:37 2013,AllTests.java,John Ross
+Wed Jan 23 14:39:37 2013,Bug395196Test.java,John Ross

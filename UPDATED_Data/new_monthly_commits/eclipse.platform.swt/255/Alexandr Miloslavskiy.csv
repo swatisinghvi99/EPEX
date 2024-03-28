@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Tue Jul 12 15:22:45 2022,Test_org_eclipse_swt_SWT.java,Alexandr Miloslavskiy
+Mon Jul 18  5:49:40 2022,Image.java,Alexandr Miloslavskiy
+Mon Jul 18  5:49:40 2022,ImageData.java,Alexandr Miloslavskiy
+Mon Jul 18  5:49:40 2022,ImageDataTestHelper.java,Alexandr Miloslavskiy
+Mon Jul 18  5:49:40 2022,SwtTestUtil.java,Alexandr Miloslavskiy
+Mon Jul 18  5:49:40 2022,Test_org_eclipse_swt_graphics_ImageData.java,Alexandr Miloslavskiy
+Mon Jul 18  5:49:40 2022,Image.java,Alexandr Miloslavskiy
+Mon Jul 18  5:49:40 2022,ImageData.java,Alexandr Miloslavskiy
+Mon Jul 18  5:49:40 2022,Image.java,Alexandr Miloslavskiy
+Mon Jul 18  5:49:40 2022,Test_org_eclipse_swt_graphics_ImageData.java,Alexandr Miloslavskiy
+Mon Jul 18  5:49:40 2022,Issue0232_16bppIndexedImageData.java,Alexandr Miloslavskiy
+Tue Aug  9  4:38:09 2022,Display.java,Alexandr Miloslavskiy
+Tue Aug  9  4:38:09 2022,Shell.java,Alexandr Miloslavskiy
+Tue Aug  9 16:31:01 2022,Control.java,Alexandr Miloslavskiy
+Tue Aug  9 16:31:01 2022,Issue0247_WaylandDragDropGetsStuck.java,Alexandr Miloslavskiy

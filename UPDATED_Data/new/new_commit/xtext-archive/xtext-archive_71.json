@@ -1,0 +1,342 @@
+[
+    [
+        "Dennis Huebner",
+        "xtend",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        13
+    ],
+    [
+        "Dennis Huebner",
+        "setup",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "cquery",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "classpath",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "project",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "prefs",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "MF",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        200
+    ],
+    [
+        "Sebastian Zarnekow",
+        "api_filters",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        9
+    ],
+    [
+        "Sebastian Zarnekow",
+        "launch",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xmi",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ext",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xpt",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "g",
+        8
+    ],
+    [
+        "Sebastian Zarnekow",
+        "tokens",
+        19
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ecore",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        2
+    ],
+    [
+        "akosyakov",
+        "xtend",
+        15
+    ],
+    [
+        "akosyakov",
+        "java",
+        114
+    ],
+    [
+        "akosyakov",
+        "g",
+        16
+    ],
+    [
+        "akosyakov",
+        "ecore",
+        1
+    ],
+    [
+        "akosyakov",
+        "xtext",
+        1
+    ],
+    [
+        "akosyakov",
+        "MF",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        315
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        18
+    ],
+    [
+        "Sven Efftinge",
+        "html",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "xml",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "project",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "classpath",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "prefs",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "properties",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "xml_gen",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "g",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "tokens",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "launch",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "ecore",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "genmodel",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "mwe2",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "xtext",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "java",
+        151
+    ],
+    [
+        "Stefan Oehme",
+        "xtend",
+        37
+    ],
+    [
+        "Stefan Oehme",
+        "xtext",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "MF",
+        9
+    ],
+    [
+        "Stefan Oehme",
+        "properties",
+        3
+    ],
+    [
+        "Stefan Oehme",
+        "xbase",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "xml",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "classpath",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "buildertestlanguage",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "rej",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "exsd",
+        1
+    ],
+    [
+        "Ed Merks",
+        "java",
+        1
+    ],
+    [
+        "Lorenzo Bettini",
+        "java",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        12
+    ],
+    [
+        "Moritz Eysholdt",
+        "properties",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        48
+    ],
+    [
+        "Moritz Eysholdt",
+        "xml",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "xml_gen",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "ecore",
+        94
+    ],
+    [
+        "Moritz Eysholdt",
+        "genmodel",
+        90
+    ],
+    [
+        "Moritz Eysholdt",
+        "g",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "tokens",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtext",
+        1
+    ],
+    [
+        "Holger Schill",
+        "java",
+        13
+    ],
+    [
+        "Holger Schill",
+        "api_filters",
+        2
+    ]
+]

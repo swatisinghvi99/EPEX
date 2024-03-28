@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Mon Jan 10 16:17:28 2022,CHANGELOG.md,Jean-Pierre Fortune
+Mon Jan 10 16:17:28 2022,CalypsoCardSelectionAdapter.java,Jean-Pierre Fortune
+Mon Jan 10 16:17:28 2022,CardTransactionManagerAdapter.java,Jean-Pierre Fortune
+Mon Jan 10 16:17:28 2022,CmdCardSelectFile.java,Jean-Pierre Fortune
+Mon Jan 10 16:17:28 2022,CardTransactionManagerAdapterTest.java,Jean-Pierre Fortune
+Wed Jan 12  9:49:15 2022,CalypsoCardAdapter.java,Jean-Pierre Fortune
+Wed Jan 12  9:49:15 2022,CalypsoCardCommand.java,Jean-Pierre Fortune
+Wed Jan 12  9:49:15 2022,CalypsoCardUtilAdapter.java,Jean-Pierre Fortune
+Wed Jan 12  9:49:15 2022,CardTransactionManagerAdapter.java,Jean-Pierre Fortune
+Wed Jan 12  9:49:15 2022,CmdCardGetDataEfList.java,Jean-Pierre Fortune
+Wed Jan 12  9:49:15 2022,CmdCardGetDataFci.java,Jean-Pierre Fortune
+Wed Jan 12  9:49:15 2022,CmdCardGetDataFcp.java,Jean-Pierre Fortune
+Wed Jan 12  9:49:15 2022,CmdCardGetDataTraceabilityInformation.java,Jean-Pierre Fortune
+Wed Jan 12  9:49:15 2022,CardTransactionManagerAdapterTest.java,Jean-Pierre Fortune
+Tue Jan 18 10:42:23 2022,CHANGELOG.md,Jean-Pierre Fortune
+Tue Jan 18 10:42:23 2022,CalypsoCardUtilAdapter.java,Jean-Pierre Fortune
+Tue Jan 18 10:42:23 2022,CardTransactionManagerAdapter.java,Jean-Pierre Fortune
+Tue Jan 18 10:42:23 2022,CmdCardChangeKey.java,Jean-Pierre Fortune
+Tue Jan 18 10:42:23 2022,SamCommandProcessor.java,Jean-Pierre Fortune
+Tue Jan 18 10:42:23 2022,CardTransactionManagerAdapterTest.java,Jean-Pierre Fortune

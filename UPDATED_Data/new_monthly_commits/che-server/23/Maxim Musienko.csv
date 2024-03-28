@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Wed Dec 13 18:35:24 2017,CheckFileWatcherExcludeFeatureTest.java,Maxim Musienko
+Wed Dec 13 18:35:24 2017,UpdateFilesWithoutIDE.java,Maxim Musienko
+Thu Dec 14  5:58:18 2017,pom.xml,Maxim Musienko
+Thu Dec 14  5:58:18 2017,TestGitHubServiceClient.java,Maxim Musienko
+Thu Dec 14  5:58:18 2017,pom.xml,Maxim Musienko
+Thu Dec 14  5:58:18 2017,GitPullTest.java,Maxim Musienko
+Thu Dec 14  5:58:18 2017,app.js,Maxim Musienko
+Thu Dec 14  5:58:18 2017,file.html,Maxim Musienko
+Thu Dec 14  5:58:18 2017,README.md,Maxim Musienko
+Thu Dec 14  5:58:18 2017,readme-txt,Maxim Musienko
+Fri Dec 15 12:35:17 2017,ServerRuntimeInfoTest.java,Maxim Musienko
+Tue Dec 19  8:51:09 2017,NodeJsDebugTest.java,Maxim Musienko
+Tue Dec 19  8:51:09 2017,DirectUrlFactoryWithRootFolder.java,Maxim Musienko
+Tue Dec 19  8:51:09 2017,DirectUrlFactoryWithSpecificBranch.java,Maxim Musienko
+Tue Dec 19  8:51:09 2017,JavaTestPluginTestNgTest.java,Maxim Musienko
+Wed Dec 20 13:52:17 2017,CheckMainFeatureForCSharpLanguageTest.java,Maxim Musienko
+Wed Dec 20 15:42:06 2017,JavaTestPluginTestNgTest.java,Maxim Musienko
+Fri Dec 22 15:14:18 2017,SeleniumTestHandler.java,Maxim Musienko
+Fri Dec 22 15:50:32 2017,PullRequestPanel.java,Maxim Musienko
+Mon Jan  8 20:50:13 2018,JavaTestRunnerPluginConsole.java,Maxim Musienko
+Mon Jan  8 20:50:13 2018,StepIntoStepOverStepReturnWithChangeVariableTest.java,Maxim Musienko
+Thu Jan 11  8:07:34 2018,JavaTestPluginJunit4CheckRunSuitesAndScopesTest.java,Maxim Musienko

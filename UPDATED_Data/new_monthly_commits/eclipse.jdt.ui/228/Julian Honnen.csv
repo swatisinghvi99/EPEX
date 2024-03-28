@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Fri Apr  3 12:43:23 2020,SmartSemicolonAutoEditStrategyTest.java,Julian Honnen
+Fri Apr  3 12:43:23 2020,SmartSemicolonAutoEditStrategy.java,Julian Honnen
+Thu Apr 16 16:38:32 2020,AbstractCompletionTest.java,Julian Honnen
+Thu Apr 16 16:38:32 2020,MethodParamsCompletionTest.java,Julian Honnen
+Thu Apr 16 16:38:32 2020,ParameterGuessingProposal.java,Julian Honnen
+Tue Apr 28 17:37:11 2020,JavaManipulationPlugin.java,Julian Honnen
+Tue Apr 28 17:37:11 2020,JavaContextCore.java,Julian Honnen
+Tue Apr 28 17:37:11 2020,MethodInsertCompletionTest.java,Julian Honnen
+Tue Apr 28 17:37:11 2020,JavaDocContext.java,Julian Honnen
+Tue Apr 28 17:37:11 2020,CodeAssistConfigurationBlock.java,Julian Honnen
+Tue Apr 28 17:37:11 2020,PreferencesMessages.java,Julian Honnen
+Tue Apr 28 17:37:11 2020,PreferencesMessages.properties,Julian Honnen
+Tue Apr 28 17:37:11 2020,AbstractJavaCompletionProposal.java,Julian Honnen
+Tue Apr 28 17:37:11 2020,TemplateProposal.java,Julian Honnen

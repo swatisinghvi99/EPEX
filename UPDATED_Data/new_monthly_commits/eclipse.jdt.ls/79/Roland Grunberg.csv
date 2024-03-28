@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Thu Aug 24 14:50:14 2023,InitHandler.java,Roland Grunberg
+Thu Aug 24 14:50:14 2023,ClientPreferences.java,Roland Grunberg
+Fri Aug 25 23:13:20 2023,SnippetCompletionProposal.java,Roland Grunberg
+Fri Aug 25 23:13:20 2023,CodeTemplatePreferences.java,Roland Grunberg
+Fri Aug 25 23:13:20 2023,PreferenceManager.java,Roland Grunberg
+Thu Aug 31 15:44:21 2023,CallHierarchyHandler.java,Roland Grunberg
+Wed Sep  6 20:50:57 2023,JavaLsConfigurator.java,Roland Grunberg

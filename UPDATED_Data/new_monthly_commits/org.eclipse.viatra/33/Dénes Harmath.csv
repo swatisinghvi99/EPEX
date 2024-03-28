@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Thu Oct  1 12:53:23 2015,ProjectGenerationHelper.java,Dénes Harmath
+Fri Oct  2 11:16:03 2015,BodyCodeGenerator.xtend,Dénes Harmath
+Fri Oct  2 11:16:03 2015,PatternQuerySpecificationClassInferrer.xtend,Dénes Harmath
+Fri Oct  2 11:16:03 2015,GenericEMFPatternPQuery.java,Dénes Harmath
+Fri Oct  2 11:16:03 2015,SpecificationBuilder.java,Dénes Harmath
+Fri Oct  2 11:16:03 2015,EPMToPBody.java,Dénes Harmath
+Fri Oct  2 11:16:03 2015,PatternBodyTransformer.java,Dénes Harmath
+Fri Oct  2 11:16:03 2015,PatternModelAcceptor.java,Dénes Harmath
+Fri Oct  2 11:16:03 2015,EMFPatternLanguageJvmModelInferrerUtil.xtend,Dénes Harmath
+Fri Oct  2 11:16:03 2015,CorePatternLanguageHelper.java,Dénes Harmath
+Fri Oct  2 14:01:19 2015,SpecificationBuilder.java,Dénes Harmath
+Fri Oct  2 14:01:19 2015,PatternModelAcceptor.java,Dénes Harmath
+Tue Oct  6 16:02:30 2015,MatcherValue.java,Dénes Harmath
+Thu Oct 15 11:50:04 2015,CheckStateListener.java,Dénes Harmath

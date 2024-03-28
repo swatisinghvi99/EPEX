@@ -1,0 +1,6 @@
+date_time,file,committer_name
+Wed Apr 13 12:20:57 2022,BeanWithMissingChannel.java,Matej Novotny
+Wed Apr 13 12:20:57 2022,BeanWithBadOutgoingSignature.java,Matej Novotny
+Wed Apr 13 12:20:57 2022,BeanWithEmptyIncoming.java,Matej Novotny
+Wed Apr 13 12:20:57 2022,BeanWithEmptyOutgoing.java,Matej Novotny
+Wed Apr 13 12:20:57 2022,BeanWithIncompleteChain.java,Matej Novotny

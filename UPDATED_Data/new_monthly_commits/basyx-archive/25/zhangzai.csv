@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Thu Jan 16 14:11:06 2020,SimpleTransportProcess.bpmn20.xml,zhangzai
+Thu Jan 16 14:11:06 2020,DeviceServiceDelegate.java,zhangzai
+Thu Jan 16 14:11:06 2020,DeviceServiceExecutor.java,zhangzai
+Thu Jan 16 14:11:06 2020,IDeviceServiceExecutor.java,zhangzai
+Thu Jan 16 14:11:06 2020,TestAASServicecall.java,zhangzai
+Thu Jan 16 14:11:06 2020,TestDeviceAdministrationShell.java,zhangzai
+Thu Jan 16 14:11:06 2020,TestJavaDelegate.java,zhangzai
+Thu Jan 16 14:11:06 2020,TestTransportProcess_ConfigureEngineProgrammatically.java,zhangzai
+Thu Jan 16 14:11:06 2020,SetupAAS.java,zhangzai
+Thu Jan 16 14:11:06 2020,CoilcarServiceExecutor.java,zhangzai
+Thu Jan 16 14:11:06 2020,BPMNEngineStub.java,zhangzai
+Thu Jan 16 14:11:06 2020,BPMNModelFactory.java,zhangzai
+Thu Jan 16 14:11:06 2020,DeviceServiceExecutorStub.java,zhangzai

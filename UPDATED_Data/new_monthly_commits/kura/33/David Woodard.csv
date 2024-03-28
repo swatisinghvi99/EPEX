@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Mon Aug 22 21:25:51 2016,NetworkInterfacesTableUi.java,David Woodard
+Thu Aug 25 13:28:24 2016,kura.build.properties,David Woodard
+Thu Aug 25 13:28:24 2016,pom.xml,David Woodard
+Thu Aug 25 13:28:24 2016,kura.build.properties,David Woodard
+Thu Aug 25 13:28:24 2016,MANIFEST.MF,David Woodard
+Thu Aug 25 13:28:24 2016,pom.xml,David Woodard
+Thu Aug 25 13:28:24 2016,BluetoothAdapter.java,David Woodard
+Thu Aug 25 13:28:24 2016,AdvertisingReportRecord.java,David Woodard
+Thu Aug 25 13:28:24 2016,BluetoothAdvertisementData.java,David Woodard
+Thu Aug 25 13:28:24 2016,BluetoothAdvertisementScanListener.java,David Woodard
+Thu Aug 25 13:28:24 2016,package-info.java,David Woodard
+Thu Aug 25 13:28:24 2016,MANIFEST.MF,David Woodard
+Thu Aug 25 13:28:24 2016,BluetoothAdapterImpl.java,David Woodard
+Thu Aug 25 13:28:24 2016,BluetoothGattImpl.java,David Woodard
+Thu Aug 25 13:28:24 2016,BluetoothLeScanner.java,David Woodard
+Thu Aug 25 13:28:24 2016,BluetoothUtil.java,David Woodard

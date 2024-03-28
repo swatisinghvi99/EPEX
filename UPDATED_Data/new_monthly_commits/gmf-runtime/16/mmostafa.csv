@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Thu Nov 23 21:11:22 2006,DiagramPrinter.java,mmostafa
+Thu Nov 23 21:11:22 2006,DiagramPrinterUtil.java,mmostafa
+Thu Nov 23 21:11:33 2006,BorderItemsAwareFreeFormLayer.java,mmostafa
+Thu Nov 23 21:11:33 2006,BorderItemsUtil.java,mmostafa
+Thu Nov 23 21:11:33 2006,BorderedNodeFigure.java,mmostafa
+Thu Nov 23 21:11:33 2006,ShapeCompartmentFigure.java,mmostafa
+Thu Nov 23 21:11:33 2006,BorderItemContainerFigure.java,mmostafa
+Thu Nov 23 21:11:48 2006,DiagramEventBroker.java,mmostafa
+Thu Nov 23 21:11:54 2006,ColorsAndFontsPropertySection.java,mmostafa
+Thu Nov 23 21:20:43 2006,CrossReferenceAdapter.java,mmostafa
+Wed Dec  6 22:01:19 2006,ConnectionEditPart.java,mmostafa
+Wed Dec  6 22:01:19 2006,GraphicalEditPart.java,mmostafa
+Fri Dec  8 22:10:26 2006,MANIFEST.MF,mmostafa
+Fri Dec  8 22:10:26 2006,DuplicateActionDelegate.java,mmostafa

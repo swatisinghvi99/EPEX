@@ -1,0 +1,157 @@
+date_time,file,committer_name
+Thu Jun  2 12:48:54 2016,.project,Tamás Borbás
+Thu Jun  2 12:48:54 2016,MANIFEST.MF,Tamás Borbás
+Thu Jun  2 12:48:54 2016,build.properties,Tamás Borbás
+Thu Jun  2 12:48:54 2016,demo.cyberphysicalsystem,Tamás Borbás
+Thu Jun  2 12:48:54 2016,pom.xml,Tamás Borbás
+Thu Jun  2 12:48:54 2016,.classpath,Tamás Borbás
+Thu Jun  2 12:48:54 2016,.project,Tamás Borbás
+Thu Jun  2 12:48:54 2016,org.eclipse.jdt.core.prefs,Tamás Borbás
+Thu Jun  2 12:48:54 2016,org.eclipse.pde.core.prefs,Tamás Borbás
+Thu Jun  2 12:48:54 2016,MANIFEST.MF,Tamás Borbás
+Thu Jun  2 12:48:54 2016,build.properties,Tamás Borbás
+Thu Jun  2 12:48:54 2016,plugin.xml,Tamás Borbás
+Thu Jun  2 12:48:54 2016,pom.xml,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_changeAppInstanceAllocationLocation.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_changeAppInstanceIdentifier.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_changeAppInstanceType.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_changeAppTypeIdentifier.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_deleteAllHostInstance.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_deleteAllHostType.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_deleteAppInstance.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_deleteAppType.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_deleteHostInstanceWithTheMostHostedApplication.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_deleteHostType.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_newAppInstance.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_newComplexStructure.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_newHostInstance.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_newHostInstanceWithMoreHddThanRam.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_newHostInstanceWithMoreRamThanHdd.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_newTransition.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_recursion_chainRec.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_recursion_chainTC.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_recursion_communicationRemoved_chainRec.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,test_recursion_communicationRemoved_chainTC.snapshot,Tamás Borbás
+Thu Jun  2 12:48:54 2016,.gitignore,Tamás Borbás
+Thu Jun  2 12:48:54 2016,cpsValidationRules.vql,Tamás Borbás
+Thu Jun  2 12:48:54 2016,flattenedPatternCall.vql,Tamás Borbás
+Thu Jun  2 12:48:54 2016,recursiveQueries.vql,Tamás Borbás
+Thu Jun  2 12:48:54 2016,simpleCpsQueries.vql,Tamás Borbás
+Thu Jun  2 12:48:54 2016,unnamedVariables.vql,Tamás Borbás
+Thu Jun  2 12:48:54 2016,variablesEquality.vql,Tamás Borbás
+Thu Jun  2 12:48:54 2016,.classpath,Tamás Borbás
+Thu Jun  2 12:48:54 2016,.gitignore,Tamás Borbás
+Thu Jun  2 12:48:54 2016,.project,Tamás Borbás
+Thu Jun  2 12:48:54 2016,MANIFEST.MF,Tamás Borbás
+Thu Jun  2 12:48:54 2016,build.properties,Tamás Borbás
+Thu Jun  2 12:48:54 2016,pom.xml,Tamás Borbás
+Thu Jun  2 12:48:54 2016,APICpsTest.xtend,Tamás Borbás
+Thu Jun  2 12:48:54 2016,AllCpsTests.xtend,Tamás Borbás
+Thu Jun  2 12:48:54 2016,AnonymousVariablesCpsTest.xtend,Tamás Borbás
+Thu Jun  2 12:48:54 2016,BackendType.java,Tamás Borbás
+Thu Jun  2 12:48:54 2016,BasicCpsTest.xtend,Tamás Borbás
+Thu Jun  2 12:48:54 2016,FlattenedPatternCallCpsTest.xtend,Tamás Borbás
+Thu Jun  2 12:48:54 2016,ModelManipulationCpsTest.xtend,Tamás Borbás
+Thu Jun  2 12:48:54 2016,RecursionCpsTest.xtend,Tamás Borbás
+Thu Jun  2 12:48:54 2016,TestingFrameworkTest.xtend,Tamás Borbás
+Thu Jun  2 12:48:54 2016,VariableEqualityCpsTest.xtend,Tamás Borbás
+Thu Jun  2 12:48:54 2016,.gitignore,Tamás Borbás
+Thu Jun  2 12:48:54 2016,.project,Tamás Borbás
+Thu Jun  2 12:48:54 2016,pom.xml,Tamás Borbás
+Thu Jun  2 12:48:54 2016,viatra_product.product,Tamás Borbás
+Thu Jun  2 12:48:54 2016,.classpath,Tamás Borbás
+Thu Jun  2 12:48:54 2016,.project,Tamás Borbás
+Thu Jun  2 12:48:54 2016,org.eclipse.jdt.core.prefs,Tamás Borbás
+Thu Jun  2 12:48:54 2016,org.eclipse.pde.core.prefs,Tamás Borbás
+Thu Jun  2 12:48:54 2016,MANIFEST.MF,Tamás Borbás
+Thu Jun  2 12:48:54 2016,build.properties,Tamás Borbás
+Thu Jun  2 12:48:54 2016,plugin.xml,Tamás Borbás
+Thu Jun  2 12:48:54 2016,pom.xml,Tamás Borbás
+Thu Jun  2 12:48:54 2016,AvailableGreaterThanTotalCpuConstraint0.java,Tamás Borbás
+Thu Jun  2 12:48:54 2016,AvailableGreaterThanTotalHddConstraint0.java,Tamás Borbás
+Thu Jun  2 12:48:54 2016,AvailableGreaterThanTotalRamConstraint0.java,Tamás Borbás
+Thu Jun  2 12:48:54 2016,IdIsNotUniqueConstraint0.java,Tamás Borbás
+Thu Jun  2 12:48:54 2016,InitialStateNotContainedByStateMachineConstraint0.java,Tamás Borbás
+Thu Jun  2 12:48:54 2016,MultipleApplicationInstanceInCommunicationGroupConstraint0.java,Tamás Borbás
+Thu Jun  2 12:48:54 2016,MultipleTransitionsWithSameActionConstraint0.java,Tamás Borbás
+Thu Jun  2 12:48:54 2016,NodeIpIsNotUniqueConstraint0.java,Tamás Borbás
+Thu Jun  2 12:48:54 2016,NotAllocatedButRunningConstraint0.java,Tamás Borbás
+Thu Jun  2 12:48:54 2016,TargetStateNotContainedBySameStateMachineConstraint0.java,Tamás Borbás
+Thu Jun  2 12:48:54 2016,TransitionWithoutTargetStateConstraint0.java,Tamás Borbás
+Thu Jun  2 12:48:54 2016,.classpath,Tamás Borbás
+Thu Jun  2 12:48:54 2016,.project,Tamás Borbás
+Thu Jun  2 12:48:54 2016,org.eclipse.jdt.core.prefs,Tamás Borbás
+Thu Jun  2 12:48:54 2016,org.eclipse.pde.core.prefs,Tamás Borbás
+Thu Jun  2 12:48:54 2016,MANIFEST.MF,Tamás Borbás
+Thu Jun  2 12:48:54 2016,build.properties,Tamás Borbás
+Thu Jun  2 12:48:54 2016,plugin.xml,Tamás Borbás
+Thu Jun  2 12:48:54 2016,pom.xml,Tamás Borbás
+Thu Jun  2 12:48:54 2016,.gitignore,Tamás Borbás
+Thu Jun  2 12:48:54 2016,validationRules.vql,Tamás Borbás
+Thu Jun  2 12:48:54 2016,.project,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Clear Query Explorer.ctx,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Create Pattern.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Create Query Generator Model.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Create Query Project.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Initialize viewers.ctx,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Load instance model (demo.cyberphysicalsystem).ctx,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Load instance model (empty-classes_uml).ctx,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Load patterns (EmptyClass.vql).ctx,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Load patterns (simpleCpsQueries.vql).ctx,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Pattern Autocomplete.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Preferences - Query Explorer.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Preferences - VIATRA exists in preferences.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Preferences - VQL Compiler.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Preferences - VQL Refactoring.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Preferences - VQL Syntax Coloring.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Preferences - VQL Templates.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Query Explorer - Details_Filters - Filtering.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Query Explorer - Details_Filters - Popup window.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Query Explorer - LocalSearchBackend.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Query Explorer - Magic Green Button - Load ResourceSet.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Query Explorer - Magic Green Button - Load pattern(s).test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Query Explorer - Pattern Registry - Checkbox filtering.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Query Explorer - Pattern Registry - Plugins can not unloaded.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Query Explorer - Pattern Registry - Show location.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Query Explorer - Pattern Registry - Unregister pattern.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Query Explorer - Register patterns in Query Explorer (Right clicked in editor).test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Query Explorer - Register patterns in Query Explorer.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Query Explorer - Result Viewer - Data binding.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Query Explorer - Result Viewer - Query Results.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Query Explorer - Result Viewer - Show location (to .vql file).test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Query Explorer - Result Viewer - Show location (to instance model).test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Query Explorer - Result Viewer - Unload instance model.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Query Explorer - View menu - Change package representation.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Query Explorer - View menu - Reset UI.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Rete Visualizer - Clear graph.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Rete Visualizer - Create rete.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Rete Visualizer - Testing layouts.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Testing Framework - Snapshot - Create new snapshot.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Testing Framework - Snapshot - Save into an existing snapshot.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Testing Framework - Snapshot - Snapshot Editor - Add new child.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,VIATRA All GUI Tests.suite,Tamás Borbás
+Thu Jun  2 12:48:54 2016,VIATRA Basic Creations.suite,Tamás Borbás
+Thu Jun  2 12:48:54 2016,VIATRA CPS Workspace.ctx,Tamás Borbás
+Thu Jun  2 12:48:54 2016,VIATRA CPS with Metamodel Workspace.ctx,Tamás Borbás
+Thu Jun  2 12:48:54 2016,VIATRA CPS with Queries Workspace.ctx,Tamás Borbás
+Thu Jun  2 12:48:54 2016,VIATRA CPS with Snapshot Workspace.ctx,Tamás Borbás
+Thu Jun  2 12:48:54 2016,VIATRA Preferences.suite,Tamás Borbás
+Thu Jun  2 12:48:54 2016,VIATRA Query Explorer.suite,Tamás Borbás
+Thu Jun  2 12:48:54 2016,VIATRA Rete Visualizer.suite,Tamás Borbás
+Thu Jun  2 12:48:54 2016,VIATRA Testing Framework.suite,Tamás Borbás
+Thu Jun  2 12:48:54 2016,VIATRA UML Queries Workspace.ctx,Tamás Borbás
+Thu Jun  2 12:48:54 2016,VIATRA Validation Framework.suite,Tamás Borbás
+Thu Jun  2 12:48:54 2016,VIATRA Viewers.suite,Tamás Borbás
+Thu Jun  2 12:48:54 2016,VIATRA Workbench.ctx,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Validation framework - Generate validation project.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Validation framework - Validate CPS model.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Viewers - Sandbox - Create new component.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Viewers - Sandbox - Initialize.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Viewers - Sandbox - View synchronization.test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Viewers - Sandbox - Zest Graph (Clear graph).test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,Viewers - Sandbox - Zest Graph (Testing layouts).test,Tamás Borbás
+Thu Jun  2 12:48:54 2016,pom.xml,Tamás Borbás
+Thu Jun  2 12:48:54 2016,rcptt.properties,Tamás Borbás
+Thu Jun  2 12:48:54 2016,.project,Tamás Borbás
+Thu Jun  2 12:48:54 2016,pom.xml,Tamás Borbás

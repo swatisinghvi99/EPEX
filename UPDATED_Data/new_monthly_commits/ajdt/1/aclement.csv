@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Fri Sep 24  9:31:55 2004,AJCompilationUnit.java,aclement
+Mon Oct  4 15:09:25 2004,PropertyPageManager.java,aclement
+Tue Oct 19 16:28:40 2004,AspectJProjectPropertiesPage.java,aclement
+Wed Oct 20 16:46:40 2004,AJCompilationUnitStructureRequestor.java,aclement
+Fri Oct 22 13:30:34 2004,build.ajproperties,aclement
+Fri Oct 22 13:30:34 2004,enforcement.ajproperties,aclement
+Fri Oct 22 13:30:34 2004,AspectJProjectPropertiesPage.java,aclement
+Fri Oct 22 13:30:34 2004,CompilerPropertyPage.java,aclement
+Fri Oct 22 13:30:34 2004,AspectPathPropertyPage.java,aclement
+Fri Oct 22 13:30:34 2004,InPathPropertyPage.java,aclement
+Fri Oct 22 13:30:34 2004,AspectPathBlock.java,aclement
+Fri Oct 22 13:30:34 2004,InPathBlock.java,aclement
+Fri Oct 22 13:30:34 2004,Enforcement.aj,aclement

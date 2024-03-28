@@ -1,0 +1,28 @@
+date_time,file,committer_name
+Fri Oct  4 10:06:19 2013,.classpath,Markus Alexander Kuppe
+Fri Oct  4 10:06:19 2013,.gitignore,Markus Alexander Kuppe
+Fri Oct  4 10:06:19 2013,.project,Markus Alexander Kuppe
+Fri Oct  4 10:06:19 2013,org.eclipse.jdt.core.prefs,Markus Alexander Kuppe
+Fri Oct  4 10:06:19 2013,org.eclipse.pde.core.prefs,Markus Alexander Kuppe
+Fri Oct  4 10:06:19 2013,MANIFEST.MF,Markus Alexander Kuppe
+Fri Oct  4 10:06:19 2013,build.properties,Markus Alexander Kuppe
+Fri Oct  4 10:06:19 2013,TimeServiceROSGiConsumer DS.launch,Markus Alexander Kuppe
+Fri Oct  4 10:06:19 2013,timeservicerestendpointdescription.xml,Markus Alexander Kuppe
+Fri Oct  4 10:06:19 2013,TimeServiceROSGiHost.launch,Markus Alexander Kuppe
+Fri Oct  4 10:06:19 2013,Activator.java,Markus Alexander Kuppe
+Fri Oct  4 14:16:17 2013,GenericServerContainerGroupFactory.java,Markus Alexander Kuppe
+Sat Oct  5 20:03:30 2013,ChannelEndpointImpl.java,Markus Alexander Kuppe
+Sat Oct  5 20:03:30 2013,RemoteOSGiServiceImpl.java,Markus Alexander Kuppe
+Fri Oct 11  7:01:33 2013,ChannelEndpointImpl.java,Markus Alexander Kuppe
+Sat Oct 12  7:27:37 2013,EndpointDescription.java,Markus Alexander Kuppe
+Tue Oct 15 16:26:32 2013,KeepAliveManager.java,Markus Alexander Kuppe
+Sat Oct 19  7:41:08 2013,ChannelEndpointImpl.java,Markus Alexander Kuppe
+Sat Oct 19  7:45:00 2013,RemoteOSGiServiceImpl.java,Markus Alexander Kuppe
+Sat Oct 19  7:45:00 2013,StringUtils.java,Markus Alexander Kuppe
+Sat Oct 19  7:50:44 2013,RemoteOSGiServiceImpl.java,Markus Alexander Kuppe
+Mon Oct 21 14:28:14 2013,RemoteOSGiServiceImpl.java,Markus Alexander Kuppe
+Tue Oct 22 15:31:18 2013,ChannelEndpointImpl.java,Markus Alexander Kuppe
+Tue Oct 22 15:37:14 2013,ChannelEndpointImpl.java,Markus Alexander Kuppe
+Wed Oct 23  5:59:28 2013,ProxyGenerator.java,Markus Alexander Kuppe
+Sat Oct 26 11:06:52 2013,ChannelEndpointImpl.java,Markus Alexander Kuppe
+Fri Nov  1 17:41:52 2013,ChannelEndpointImpl.java,Markus Alexander Kuppe

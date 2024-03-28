@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Tue May  2 11:53:28 2023,QueryJoinOptimizer.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,CONFIG.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,Configurations.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,AbstractDelegatingRepositoryImplConfig.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,AbstractRepositoryImplConfig.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,RepositoryConfig.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,ContextAwareConfig.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,HTTPRepositoryConfig.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,ProxyRepositoryConfig.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,SailRepositoryConfig.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,SPARQLRepositoryConfig.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,AbstractDelegatingSailImplConfig.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,AbstractSailImplConfig.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,BaseSailConfig.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,ElasticsearchStoreConfig.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,ElasticsearchStoreConfigTest.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,CustomGraphQueryInferencerConfig.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,AbstractLuceneSailConfig.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,MemoryStoreConfig.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,NativeStoreConfig.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,ShaclSailConfig.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,ShaclSailConfigTest.java,Håvard Ottestad
+Sat May 13 11:53:02 2023,checkCopyrightPresent.sh,Håvard Ottestad

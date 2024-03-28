@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Mon Sep 15  8:22:27 2014,TestMojo.java,Martin Schreiber
+Mon Sep 15  8:22:27 2014,TestMojoTest.java,Martin Schreiber
+Wed Sep 17 12:20:09 2014,AbstractOsgiCompilerMojo.java,Martin Schreiber
+Wed Sep 17 12:20:09 2014,OsgiCompilerTest.java,Martin Schreiber
+Wed Sep 17 12:20:09 2014,pom.xml,Martin Schreiber
+Wed Sep 17 12:20:09 2014,MANIFEST.MF,Martin Schreiber
+Wed Sep 17 12:20:09 2014,build.properties,Martin Schreiber
+Wed Sep 17 12:20:09 2014,pom.xml,Martin Schreiber
+Wed Sep 17 12:20:09 2014,Test.java,Martin Schreiber
+Fri Sep 19  7:25:29 2014,AbstractOsgiCompilerMojo.java,Martin Schreiber
+Fri Sep 19  7:25:29 2014,OsgiCompilerTest.java,Martin Schreiber
+Fri Sep 19  7:25:29 2014,org.eclipse.jdt.core.prefs,Martin Schreiber
+Fri Sep 19  7:25:29 2014,MANIFEST.MF,Martin Schreiber
+Fri Sep 19  7:25:29 2014,build.properties,Martin Schreiber
+Fri Sep 19  7:25:29 2014,pom.xml,Martin Schreiber
+Fri Sep 19  7:25:29 2014,Test.java,Martin Schreiber
+Fri Sep 19  7:25:29 2014,MANIFEST.MF,Martin Schreiber
+Fri Sep 19  7:25:29 2014,build.properties,Martin Schreiber
+Fri Sep 19  7:25:29 2014,pom.xml,Martin Schreiber
+Fri Sep 19  7:25:29 2014,Test.java,Martin Schreiber

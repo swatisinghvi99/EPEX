@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Wed Jun 13 13:44:47 2018,EMFFormsLocalizationServiceImpl.java,Stefan Dirix
+Wed Jun 13 13:44:47 2018,bundle_bar_BAR.properties,Stefan Dirix
+Wed Jun 13 13:44:47 2018,bundle_foo.properties,Stefan Dirix
+Wed Jun 13 13:44:47 2018,bundle_test.properties,Stefan Dirix
+Wed Jun 13 13:44:47 2018,bundle_test_COUNTRY.properties,Stefan Dirix
+Wed Jun 13 13:44:47 2018,bundle_test_COUNTRY_variant.properties,Stefan Dirix
+Wed Jun 13 13:44:47 2018,LocalizationServiceHelper_PTest.java,Stefan Dirix

@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Tue Jul  3  8:34:50 2012,AcceleoOCLReflection.java,lgoubet
+Tue Jul  3  8:35:00 2012,AcceleoEngine.java,lgoubet
+Tue Jul  3  8:35:06 2012,AcceleoEnvironment.java,lgoubet
+Tue Jul  3  8:35:12 2012,AcceleoEnvironment.java,lgoubet
+Tue Jul  3  8:35:19 2012,AcceleoParser.java,lgoubet
+Wed Jul  4 14:29:38 2012,SWTUtil.java,lgoubet
+Wed Jul  4 14:29:38 2012,InterpreterView.java,lgoubet
+Mon Jul  9  9:41:09 2012,InterpreterView.java,lgoubet
+Mon Jul  9  9:41:12 2012,AcceleoCompletionProcessor.java,lgoubet
+Mon Jul  9  9:41:12 2012,AcceleoCompletionProposal.java,lgoubet
+Mon Jul  9  9:41:15 2012,AcceleoCompletionProposal.java,lgoubet
+Wed Jul 18  9:12:19 2012,InterpreterView.java,lgoubet
+Wed Jul 18  9:12:32 2012,AcceleoUMLReflection.java,lgoubet
+Wed Jul 18  9:12:41 2012,AcceleoEnvironment.java,lgoubet
+Wed Jul 18  9:12:47 2012,AcceleoUIDocumentationUtils.java,lgoubet
+Wed Jul 18  9:12:54 2012,AcceleoSourceContent.java,lgoubet
+Wed Jul 18  9:12:58 2012,AcceleoNonStandardLibrary.java,lgoubet
+Wed Jul 18  9:12:58 2012,AcceleoStandardLibrary.java,lgoubet
+Wed Jul 18 12:49:17 2012,AcceleoNonStandardLibrary.java,lgoubet
+Wed Jul 18 12:49:17 2012,AcceleoStandardLibrary.java,lgoubet

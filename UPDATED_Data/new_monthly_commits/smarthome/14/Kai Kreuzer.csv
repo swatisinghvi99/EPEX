@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Fri Feb 20 14:25:30 2015,AbstractWatchService.java,Kai Kreuzer
+Fri Feb 20 14:25:30 2015,folderobserver.xml,Kai Kreuzer
+Tue Mar  3  9:40:33 2015,ThingLinkManager.java,Kai Kreuzer
+Tue Mar  3  9:40:33 2015,ItemRegistryImpl.java,Kai Kreuzer
+Tue Mar  3  9:40:33 2015,GenericItem.java,Kai Kreuzer
+Tue Mar  3  9:40:33 2015,AutoUpdateGenericBindingConfigProvider.java,Kai Kreuzer
+Tue Mar  3  9:40:33 2015,BindingConfigReader.java,Kai Kreuzer
+Tue Mar  3  9:40:33 2015,GenericItemProvider.java,Kai Kreuzer
+Tue Mar  3  9:40:33 2015,GenericItemChannelLinkProvider.java,Kai Kreuzer

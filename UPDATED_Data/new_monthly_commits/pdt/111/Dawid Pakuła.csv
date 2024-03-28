@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Tue Jul  7 11:41:21 2015,PHPCodeFormatter.java,Dawid Pakuła
+Tue Jul  7 11:41:21 2015,PHPCodeFormatterProxy.java,Dawid Pakuła
+Tue Jul  7 11:41:21 2015,PHPFileCodeFormatterProcessor.java,Dawid Pakuła
+Tue Jul  7 12:12:53 2015,MANIFEST.MF,Dawid Pakuła
+Tue Jul  7 12:12:53 2015,plugin.xml,Dawid Pakuła
+Tue Jul  7 12:12:53 2015,RenameLinkedMode.java,Dawid Pakuła
+Tue Jul  7 12:12:53 2015,MANIFEST.MF,Dawid Pakuła
+Tue Jul  7 12:12:53 2015,OptionsConfigurationBlock.java,Dawid Pakuła
+Fri Jul 24 13:06:28 2015,CompletionStrategyFactory.java,Dawid Pakuła
+Fri Jul 24 13:06:28 2015,GlobalTypesStrategy.java,Dawid Pakuła
+Fri Jul 24 13:06:28 2015,NamespacesStrategy.java,Dawid Pakuła
+Fri Jul 24 13:06:28 2015,TypeInStringStrategy.java,Dawid Pakuła
+Fri Jul 24 13:06:28 2015,testTypeInString1.pdtt,Dawid Pakuła
+Fri Jul 24 13:06:28 2015,testTypeInString2.pdtt,Dawid Pakuła
+Sat Jul 25  7:39:34 2015,DeprecatedHighlighting.java,Dawid Pakuła
+Mon Jul 27  9:02:17 2015,PHPExeUtil.java,Dawid Pakuła
+Wed Jul 29 19:07:12 2015,feature.xml,Dawid Pakuła
+Wed Jul 29 19:07:12 2015,MANIFEST.MF,Dawid Pakuła
+Wed Jul 29 19:07:12 2015,PHPSearchActionGroup.java,Dawid Pakuła
+Wed Jul 29 19:07:12 2015,WTPToDLTKSelectionProvider.java,Dawid Pakuła

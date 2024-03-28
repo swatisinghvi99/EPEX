@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Mon Sep 21 14:28:03 2009,HotCodeReplaceErrorDialog.java,Michael Rennie
+Thu Sep 24 17:37:06 2009,Tests.java,Michael Rennie
+Fri Sep 25 15:14:01 2009,BreakpointLocationVerificationTests.java,Michael Rennie
+Fri Sep 25 15:14:01 2009,BreakpointMarkerUpdater.java,Michael Rennie
+Fri Sep 25 15:14:01 2009,BreakpointLocationVerifierJob.java,Michael Rennie
+Fri Sep 25 15:14:01 2009,ToggleBreakpointAdapter.java,Michael Rennie
+Fri Sep 25 15:14:01 2009,JavaBreakpointImportParticipant.java,Michael Rennie
+Fri Sep 25 15:14:01 2009,ValidBreakpointLocationLocator.java,Michael Rennie
+Fri Sep 25 17:11:05 2009,BreakpointMarkerUpdater.java,Michael Rennie
+Fri Sep 25 17:11:05 2009,JavaBreakpointImportParticipant.java,Michael Rennie
+Mon Sep 28 13:58:39 2009,AbstractDebugTest.java,Michael Rennie
+Mon Sep 28 13:58:39 2009,BreakpointLocationVerificationTests.java,Michael Rennie
+Mon Sep 28 15:55:10 2009,AbstractDebugTest.java,Michael Rennie
+Mon Sep 28 15:55:10 2009,AutomatedSuite.java,Michael Rennie
+Mon Sep 28 15:55:10 2009,LaunchManagerTests.java,Michael Rennie
+Thu Oct  1 16:08:49 2009,ValidBreakpointLocationLocator.java,Michael Rennie

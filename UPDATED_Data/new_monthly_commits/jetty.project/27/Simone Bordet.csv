@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Thu May 19 21:27:57 2011,ChannelEndPoint.java,Simone Bordet
+Thu May 19 21:28:41 2011,SslSelectChannelEndPoint.java,Simone Bordet
+Fri May 20 12:46:57 2011,SelectConnector.java,Simone Bordet
+Fri May 20 12:46:57 2011,SslContentExchangeTest.java,Simone Bordet
+Fri May 20 12:46:57 2011,SslContextFactory.java,Simone Bordet
+Fri May 20 12:46:57 2011,SslSelectChannelConnector.java,Simone Bordet
+Fri May 20 12:52:13 2011,SslSelectChannelEndPoint.java,Simone Bordet
+Fri May 20 12:52:13 2011,SslTruncationAttackTest.java,Simone Bordet
+Mon May 23 16:02:56 2011,SslSelectChannelEndPoint.java,Simone Bordet
+Mon May 23 18:04:44 2011,SslSelectChannelEndPoint.java,Simone Bordet
+Wed May 25  9:56:04 2011,SslSelectChannelEndPoint.java,Simone Bordet
+Wed May 25  9:56:04 2011,SslTruncationAttackTest.java,Simone Bordet
+Wed May 25 11:47:26 2011,VERSION.txt,Simone Bordet
+Wed May 25 11:47:26 2011,SelectConnector.java,Simone Bordet
+Wed May 25 14:15:35 2011,SslTruncationAttackTest.java,Simone Bordet

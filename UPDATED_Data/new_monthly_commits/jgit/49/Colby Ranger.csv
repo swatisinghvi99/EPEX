@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Mon Oct  7 18:32:54 2013,InfoRefsServlet.java,Colby Ranger
+Mon Oct  7 18:32:54 2013,Branch.java,Colby Ranger
+Mon Oct  7 18:32:54 2013,RevParse.java,Colby Ranger
+Mon Oct  7 18:32:54 2013,RevWalkTextBuiltin.java,Colby Ranger
+Mon Oct  7 18:32:54 2013,ShowRef.java,Colby Ranger
+Mon Oct  7 18:32:54 2013,RebuildCommitGraph.java,Colby Ranger
+Mon Oct  7 18:32:54 2013,DescribeCommand.java,Colby Ranger
+Mon Oct  7 18:32:54 2013,LogCommand.java,Colby Ranger
+Mon Oct  7 18:32:54 2013,DfsGarbageCollector.java,Colby Ranger
+Mon Oct  7 18:32:54 2013,FileRepository.java,Colby Ranger
+Mon Oct  7 18:32:54 2013,GC.java,Colby Ranger
+Mon Oct  7 18:32:54 2013,BasePackFetchConnection.java,Colby Ranger
+Mon Oct  7 18:32:54 2013,BundleFetchConnection.java,Colby Ranger
+Mon Oct  7 18:32:54 2013,Transport.java,Colby Ranger
+Mon Oct  7 18:32:54 2013,UploadPack.java,Colby Ranger
+Mon Oct  7 18:32:54 2013,WalkFetchConnection.java,Colby Ranger
+Mon Oct  7 21:31:06 2013,ServiceMayNotContinueException.java,Colby Ranger
+Tue Oct  8 17:16:45 2013,ServiceMayNotContinueException.java,Colby Ranger

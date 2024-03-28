@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Wed Jun 15 19:58:45 2022,MutableBag.java,Donald Raab
+Wed Jun 15 19:58:45 2022,MutableCollection.java,Donald Raab
+Wed Jun 15 19:58:45 2022,MutableList.java,Donald Raab
+Wed Jun 15 19:58:45 2022,MutableSet.java,Donald Raab
+Wed Jun 15 19:58:45 2022,AbstractMutableBag.java,Donald Raab
+Wed Jun 15 19:58:45 2022,AbstractCollectionAdapter.java,Donald Raab
+Wed Jun 15 19:58:45 2022,AbstractListAdapter.java,Donald Raab
+Wed Jun 15 19:58:45 2022,AbstractMutableList.java,Donald Raab
+Wed Jun 15 19:58:45 2022,ArrayListAdapter.java,Donald Raab
+Wed Jun 15 19:58:45 2022,FastList.java,Donald Raab
+Wed Jun 15 19:58:45 2022,RandomAccessListAdapter.java,Donald Raab
+Wed Jun 15 19:58:45 2022,AbstractUnifiedSet.java,Donald Raab
+Wed Jun 15 19:58:45 2022,AbstractMutableSet.java,Donald Raab
+Wed Jun 15 19:58:45 2022,SetAdapter.java,Donald Raab

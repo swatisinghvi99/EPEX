@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Thu Sep  3  7:13:17 2020,KapuaIdFactoryImplTest.java,VesnaGrumic
+Thu Sep  3  7:13:17 2020,AbstractKapuaQueryTest.java,VesnaGrumic
+Thu Sep  3  7:13:17 2020,FieldSortCriteriaImplTest.java,VesnaGrumic
+Thu Sep  3  7:13:17 2020,KapuaListResultImplTest.java,VesnaGrumic
+Thu Sep  3  7:13:17 2020,AndPredicateImplTest.java,VesnaGrumic
+Thu Sep  3  7:13:17 2020,AttributePredicateImplTest.java,VesnaGrumic
+Thu Sep  3  7:13:17 2020,OrPredicateImplTest.java,VesnaGrumic
+Thu Sep  3  7:14:46 2020,AbstractKapuaEntityCreatorTest.java,VesnaGrumic
+Thu Sep  3  7:14:46 2020,AbstractKapuaEntityTest.java,VesnaGrumic
+Thu Sep  3  7:14:46 2020,AbstractKapuaNamedEntityCreatorTest.java,VesnaGrumic
+Thu Sep  3  7:14:46 2020,AbstractKapuaNamedEntityTest.java,VesnaGrumic
+Thu Sep  3  7:14:46 2020,AbstractKapuaUpdatableEntityCreatorTest.java,VesnaGrumic
+Thu Sep  3  7:14:46 2020,AbstractKapuaUpdatableEntityTest.java,VesnaGrumic
+Thu Sep  3  7:14:46 2020,IdGeneratorTest.java,VesnaGrumic
+Thu Sep  3  7:14:46 2020,KapuaEidConverterTest.java,VesnaGrumic
+Thu Sep  3  7:14:46 2020,KapuaEidTest.java,VesnaGrumic
+Thu Sep  3  7:14:46 2020,pom.xml,VesnaGrumic

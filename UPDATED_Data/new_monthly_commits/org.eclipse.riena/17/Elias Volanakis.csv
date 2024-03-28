@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Fri May 22  7:13:02 2009,MultipleChoiceRidget.java,Elias Volanakis
+Fri May 22  7:13:02 2009,SingleChoiceRidget.java,Elias Volanakis
+Fri May 22 17:46:13 2009,TreeRidgetTest.java,Elias Volanakis
+Fri May 22 17:46:13 2009,TreeRidget.java,Elias Volanakis
+Fri May 22 17:46:13 2009,ITreeRidget.java,Elias Volanakis
+Sat May 23  1:32:20 2009,ActionRidgetTest.java,Elias Volanakis
+Sat May 23  1:32:20 2009,MenuItemRidgetTest.java,Elias Volanakis
+Wed May 27 17:53:26 2009,CustomerContractView.java,Elias Volanakis
+Wed May 27 17:53:26 2009,MasterDetailsSubModuleView.java,Elias Volanakis
+Wed May 27 17:53:26 2009,MasterDetailsSubModuleView2.java,Elias Volanakis
+Wed May 27 17:53:26 2009,MasterDetailsComposite.java,Elias Volanakis
+Mon Jun  8  4:21:50 2009,plugin.xml,Elias Volanakis
+Mon Jun  8  4:21:50 2009,SwitchToNavigation.java,Elias Volanakis
+Mon Jun  8  4:21:50 2009,SwitchToWorkarea.java,Elias Volanakis
+Mon Jun  8  4:21:50 2009,NavigationViewPart.java,Elias Volanakis
+Tue Jun  9 21:28:03 2009,MinLength.java,Elias Volanakis

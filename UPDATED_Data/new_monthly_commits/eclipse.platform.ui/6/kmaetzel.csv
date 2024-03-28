@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Thu Oct 25 15:45:33 2001,AbstractInformationControlManager.java,kmaetzel
+Thu Oct 25 15:45:33 2001,AdditionalInfoController.java,kmaetzel
+Thu Oct 25 15:45:33 2001,InformationPresenter.java,kmaetzel
+Thu Oct 25 15:45:33 2001,AnnotationBarHoverManager.java,kmaetzel
+Thu Oct 25 15:45:33 2001,EditorMessages.properties,kmaetzel
+Thu Oct 25 15:45:33 2001,buildnotes_text.html,kmaetzel
+Thu Nov  1 17:04:09 2001,AbstractDocument.java,kmaetzel
+Thu Nov  1 17:04:09 2001,ChildDocument.java,kmaetzel
+Thu Nov  1 17:04:09 2001,IDocument.java,kmaetzel
+Thu Nov  1 17:04:09 2001,IDocumentExtension.java,kmaetzel
+Thu Nov  1 17:04:09 2001,TextAttribute.java,kmaetzel
+Thu Nov  1 17:04:09 2001,FileDocumentProvider.java,kmaetzel
+Thu Nov  1 17:04:09 2001,StorageDocumentProvider.java,kmaetzel
+Thu Nov  1 17:04:09 2001,AbstractTextEditor.java,kmaetzel
+Thu Nov  1 17:04:09 2001,SelectMarkerRulerAction.java,kmaetzel
+Thu Nov  1 17:04:09 2001,buildnotes_text.html,kmaetzel

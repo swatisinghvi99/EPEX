@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Wed May  8 17:08:53 2019,MANIFEST.MF,Andrey Loskutov
+Wed May  8 17:08:53 2019,pom.xml,Andrey Loskutov
+Wed May  8 17:08:53 2019,ViewerDropAdapter.java,Andrey Loskutov
+Wed May  8 17:09:51 2019,ViewerDropAdapter.java,Andrey Loskutov
+Wed May  8 17:45:35 2019,FilteredItemsSelectionDialog.java,Andrey Loskutov
+Wed May  8 17:45:35 2019,IStyledStringHighlighter.java,Andrey Loskutov
+Wed May  8 17:45:35 2019,StyledStringHighlighter.java,Andrey Loskutov
+Wed May  8 17:45:35 2019,QuickAccessExtensionManager.java,Andrey Loskutov
+Wed May  8 17:45:35 2019,QuickAccessMatcher.java,Andrey Loskutov
+Wed May  8 17:45:35 2019,QuickAccessProvider.java,Andrey Loskutov
+Wed May  8 17:45:35 2019,MultiPageEditorPart.java,Andrey Loskutov
+Wed May  8 17:45:35 2019,MultiPageEditorSite.java,Andrey Loskutov
+Wed May  8 17:45:50 2019,MANIFEST.MF,Andrey Loskutov
+Wed May  8 17:45:50 2019,UIEvents.java,Andrey Loskutov
+Fri May 10 12:41:02 2019,WorkbenchPage.java,Andrey Loskutov
+Sat May 11  9:31:38 2019,SubContributionItem.java,Andrey Loskutov
+Sat May 11 18:56:57 2019,ToolBarManagerRenderer.java,Andrey Loskutov
+Sat May 11 18:56:57 2019,MToolItemTest.java,Andrey Loskutov
+Mon May 20 12:04:59 2019,ImageDescriptor.java,Andrey Loskutov

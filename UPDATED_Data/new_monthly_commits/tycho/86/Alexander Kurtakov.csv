@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Tue Nov 13  8:02:34 2018,LocalMetadataRepositoryTest.java,Alexander Kurtakov
+Tue Nov 13  8:02:34 2018,Tycho109ProductExportTest.java,Alexander Kurtakov
+Tue Nov 13  8:02:34 2018,TYCHO285EclipseSourceBundlesTest.java,Alexander Kurtakov
+Tue Nov 13  8:02:34 2018,Tycho122GeneratePomFileTest.java,Alexander Kurtakov
+Tue Nov 13  8:02:34 2018,PackageUpdateSiteMojoTest.java,Alexander Kurtakov
+Tue Nov 13  8:02:34 2018,IncludeValidationHelperTest.java,Alexander Kurtakov
+Tue Nov 13 10:45:09 2018,org.eclipse.jdt.core.prefs,Alexander Kurtakov
+Tue Nov 13 10:45:09 2018,SimpleArtifactRepositoryIO.java,Alexander Kurtakov
+Tue Nov 13 10:45:09 2018,ModuleArtifactRepositoryDelegate.java,Alexander Kurtakov
+Tue Nov 13 10:45:09 2018,ImmutableInMemoryMetadataRepository.java,Alexander Kurtakov
+Tue Nov 13 10:45:09 2018,CopyMapping.java,Alexander Kurtakov
+Tue Nov 13 10:45:09 2018,org.eclipse.jdt.core.prefs,Alexander Kurtakov
+Tue Nov 13 10:45:09 2018,IconExe.java,Alexander Kurtakov
+Tue Nov 13 10:45:09 2018,org.eclipse.jdt.core.prefs,Alexander Kurtakov
+Tue Nov 13 10:45:09 2018,GeneratePomsMojoTest.java,Alexander Kurtakov
+Tue Nov 13 10:45:09 2018,org.eclipse.jdt.core.prefs,Alexander Kurtakov
+Tue Nov 13 10:45:09 2018,Activator.java,Alexander Kurtakov
+Tue Nov 13 10:45:09 2018,OsgiSurefireBooter.java,Alexander Kurtakov
+Tue Nov 13 12:09:57 2018,JdkLibraryInfoProviderTest.java,Alexander Kurtakov
+Tue Nov 13 12:09:57 2018,ManifestAttributeTest.java,Alexander Kurtakov
+Fri Nov 16 11:42:48 2018,InstallableUnitUtil.java,Alexander Kurtakov

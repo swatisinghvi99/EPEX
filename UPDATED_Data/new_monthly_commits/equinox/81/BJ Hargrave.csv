@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Fri Aug  6 23:22:40 2010,FilterImpl.java,BJ Hargrave
+Mon Aug 16 14:12:15 2010,MANIFEST.MF,BJ Hargrave
+Mon Aug 16 14:12:15 2010,Framework.java,BJ Hargrave
+Mon Aug 16 14:12:15 2010,FilteredServiceListener.java,BJ Hargrave
+Mon Aug 16 14:12:15 2010,HookContext.java,BJ Hargrave
+Mon Aug 16 14:12:15 2010,ModifiedServiceEvent.java,BJ Hargrave
+Mon Aug 16 14:12:15 2010,ServiceRegistry.java,BJ Hargrave
+Mon Aug 16 14:12:15 2010,ShrinkableCollection.java,BJ Hargrave
+Mon Aug 16 14:12:15 2010,EventHook.java,BJ Hargrave
+Mon Aug 16 14:12:15 2010,FindHook.java,BJ Hargrave
+Mon Aug 16 14:12:15 2010,Debug.java,BJ Hargrave
+Mon Aug 16 15:36:36 2010,ShrinkableCollection.java,BJ Hargrave
+Thu Aug 19 15:48:06 2010,CopyOnWriteIdentityMap.java,BJ Hargrave
+Thu Aug 19 15:48:06 2010,CopyOnWriteIdentityMap.java,BJ Hargrave

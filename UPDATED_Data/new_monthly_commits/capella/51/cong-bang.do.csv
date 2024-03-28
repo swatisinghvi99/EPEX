@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Mon Jan 21 12:04:18 2019,CapellaTabDescriptorProvider.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,CreateRecUiHandler.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,CreateReplicaUiHandler.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,UpdateCurUiHandler.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,UpdateDefUiHandler.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,UpdateReplicaUiHandler.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,InitializeTransitionActivity.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,CommandHandler.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,ProjectRecHandler.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,CreateRecUiHandler.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,CreateReplicaUiHandler.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,DeleteReplicaAndRelatedElementsUiHandler.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,DeleteReplicaPreserveRelatedElementsUiHandler.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,UpdateCurUiHandler.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,UpdateDefUiHandler.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,UpdateReplicaUiHandler.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,DeleteReplicaAndRelatedElementsCommand.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,DeleteReplicaPreserveRelatedElementsCommand.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,UpdateReplicaLauncher.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,InitializeTransitionActivity.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,InitializeTransitionActivity.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,InitializeTransitionActivity.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,InitializeTransitionActivity.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,SemanticHelper.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,CapellaAdapterHelperTestCase.java,cong-bang.do
+Mon Feb  4  8:44:12 2019,ModelTestSuite.java,cong-bang.do

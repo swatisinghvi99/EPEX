@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Tue Feb  4 15:42:14 2020,EObjectServices.java,Yvan Lussaud
+Tue Feb  4 15:42:14 2020,CompletionTest.java,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,com.github.jknack.antlr4ide.Antlr4.prefs,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,MANIFEST.MF,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,.gitignore,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,QueryBaseListener.java,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,QueryLexer.java,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,QueryListener.java,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,QueryParser.java,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,AstBuilderListener.java,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,acceleo-2019-09.target,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,orbit.tpd,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,acceleo-helios.target,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,acceleo-indigo.target,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,acceleo-juno.target,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,acceleo-kepler.target,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,acceleo-luna.target,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,acceleo-mars.target,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,acceleo-neon.target,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,acceleo-oxygen.target,Yvan Lussaud
+Wed Feb 19 10:03:30 2020,acceleo-photon.target,Yvan Lussaud

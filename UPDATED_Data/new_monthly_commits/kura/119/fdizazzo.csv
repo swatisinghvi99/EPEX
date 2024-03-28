@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Thu Oct 26 12:05:03 2023,NetworkConfigurationPropertyNames.java,fdizazzo
+Thu Oct 26 12:05:03 2023,NetworkConfigurationServiceCommon.java,fdizazzo
+Thu Oct 26 12:05:03 2023,NetworkConfigurationMessagesBundle.properties,fdizazzo
+Thu Oct 26 12:05:03 2023,NMDbusConnector.java,fdizazzo
+Thu Oct 26 12:05:03 2023,NetworkManagerDbusWrapper.java,fdizazzo
+Thu Oct 26 12:05:03 2023,SemanticVersion.java,fdizazzo
+Thu Oct 26 12:05:03 2023,NMSettingsConverter.java,fdizazzo
+Thu Oct 26 12:05:03 2023,TabIp4Ui.java,fdizazzo
+Thu Oct 26 12:05:03 2023,TabIp4Ui.ui.xml,fdizazzo
+Thu Oct 26 12:05:03 2023,TabIp6Ui.java,fdizazzo
+Thu Oct 26 12:05:03 2023,TabIp6Ui.ui.xml,fdizazzo
+Thu Oct 26 12:05:03 2023,GwtNetInterfaceConfigBuilder.java,fdizazzo
+Thu Oct 26 12:05:03 2023,NetworkConfigurationServiceProperties.java,fdizazzo
+Thu Oct 26 12:05:03 2023,NetworkConfigurationServicePropertiesBuilder.java,fdizazzo
+Thu Oct 26 12:05:03 2023,GwtNetInterfaceConfig.java,fdizazzo
+Thu Oct 26 12:05:03 2023,Messages.properties,fdizazzo
+Thu Oct 26 12:05:03 2023,NetworkConfigurationServiceImplTest.java,fdizazzo
+Thu Oct 26 12:05:03 2023,NetworkConfigurationServiceCommonTest.java,fdizazzo
+Thu Oct 26 12:05:03 2023,NMDbusConnectorTest.java,fdizazzo
+Thu Oct 26 12:05:03 2023,SemanticVersionTest.java,fdizazzo
+Thu Oct 26 12:05:03 2023,NMConfigurationServiceImplTest.java,fdizazzo
+Thu Oct 26 12:05:03 2023,NMSettingsConverterTest.java,fdizazzo

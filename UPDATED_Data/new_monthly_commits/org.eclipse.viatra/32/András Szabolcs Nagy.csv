@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Tue Aug 25 12:53:46 2015,MainGeneticStrategy.java,András Szabolcs Nagy
+Tue Aug 25 12:53:48 2015,PermutationEncodingCrossover.java,András Szabolcs Nagy
+Tue Aug 25 12:53:50 2015,HillClimbingSelector.java,András Szabolcs Nagy
+Tue Aug 25 12:53:50 2015,RandomSearchSelector.java,András Szabolcs Nagy
+Tue Aug 25 12:53:51 2015,ParetoSelector.java,András Szabolcs Nagy
+Tue Aug 25 12:53:53 2015,GeneticTestRunner.java,András Szabolcs Nagy
+Tue Aug 25 12:53:54 2015,GeneticSharedObject.java,András Szabolcs Nagy
+Tue Aug 25 13:21:41 2015,RandomParentSelector.java,András Szabolcs Nagy
+Wed Aug 26 15:41:54 2015,DSETransformationRule.java,András Szabolcs Nagy
+Wed Aug 26 15:41:54 2015,RuleMetaData.java,András Szabolcs Nagy
+Wed Aug 26 15:41:54 2015,FixedPriorityStrategy.java,András Szabolcs Nagy
+Wed Aug 26 15:41:54 2015,HillClimbingStrategy.java,András Szabolcs Nagy
+Wed Aug 26 15:41:54 2015,ParallelBFSStrategy.java,András Szabolcs Nagy
+Wed Aug 26 15:41:54 2015,DesignSpaceManager.java,András Szabolcs Nagy
+Wed Aug 26 15:41:54 2015,BaseObjective.java,András Szabolcs Nagy
+Wed Aug 26 15:41:54 2015,TrajectoryCostSoftObjective.java,András Szabolcs Nagy
+Wed Aug 26 15:41:54 2015,DependencyGraphResolver.java,András Szabolcs Nagy
+Wed Aug 26 15:41:54 2015,GeneticConstraintObjective.java,András Szabolcs Nagy
+Wed Aug 26 15:41:54 2015,InstanceData.java,András Szabolcs Nagy
+Wed Aug 26 15:41:54 2015,GeneticTestRunner.java,András Szabolcs Nagy
+Wed Aug 26 15:41:54 2015,NonDominatedAndCrowdingDistanceSelector.java,András Szabolcs Nagy
+Fri Sep  4 11:24:07 2015,State.java,András Szabolcs Nagy
+Fri Sep  4 11:24:07 2015,ObjectiveComparatorHelper.java,András Szabolcs Nagy
+Fri Sep  4 11:24:07 2015,GeneticConstraintObjective.java,András Szabolcs Nagy
+Fri Sep 11 11:36:25 2015,EMFHelper.java,András Szabolcs Nagy

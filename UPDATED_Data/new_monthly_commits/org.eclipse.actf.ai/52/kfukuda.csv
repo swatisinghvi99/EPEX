@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Thu Mar 29 14:59:35 2012,.classpath,kfukuda
+Thu Mar 29 14:59:35 2012,.cvsignore,kfukuda
+Thu Mar 29 14:59:35 2012,.project,kfukuda
+Thu Mar 29 14:59:35 2012,MANIFEST.MF,kfukuda
+Thu Mar 29 14:59:35 2012,about.html,kfukuda
+Thu Mar 29 14:59:35 2012,build.properties,kfukuda
+Thu Mar 29 14:59:35 2012,plugin.properties,kfukuda
+Thu Mar 29 14:59:35 2012,plugin.xml,kfukuda
+Thu Mar 29 14:59:35 2012,plugin_ja.properties,kfukuda
+Thu Mar 29 14:59:35 2012,plugin_zh.properties,kfukuda
+Thu Mar 29 14:59:35 2012,messages.properties,kfukuda
+Thu Mar 29 14:59:35 2012,messages_ja.properties,kfukuda
+Thu Mar 29 14:59:35 2012,messages_zh.properties,kfukuda
+Thu Mar 29 14:59:35 2012,Messages.java,kfukuda
+Thu Mar 29 14:59:35 2012,MspPlugin.java,kfukuda
+Thu Mar 29 14:59:35 2012,ISpNotifySource.java,kfukuda
+Thu Mar 29 14:59:35 2012,ISpVoice.java,kfukuda
+Thu Mar 29 14:59:35 2012,MspVoice.java,kfukuda
+Thu Mar 29 14:59:35 2012,SpEvent.java,kfukuda
+Thu Mar 29 14:59:35 2012,SpObjectToken.java,kfukuda
+Thu Mar 29 14:59:35 2012,SpeechObjectTokens.java,kfukuda
+Thu Mar 29 14:59:35 2012,MspAudioOutputFieldEditor.java,kfukuda
+Thu Mar 29 14:59:35 2012,MspPreferenceInitializer.java,kfukuda
+Thu Mar 29 14:59:35 2012,MspPreferencePage.java,kfukuda
+Thu Mar 29 14:59:35 2012,MspTestManager.java,kfukuda
+Thu Mar 29 14:59:35 2012,MspVoiceFieldEditor.java,kfukuda

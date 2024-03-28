@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Thu Sep 21 15:22:56 2006,FileSearchPage.java,Martin Aeschlimann
+Wed Sep 27 12:29:38 2006,AbstractTextSearchResult.java,Martin Aeschlimann
+Wed Sep 27 12:29:38 2006,AbstractTextSearchViewPage.java,Martin Aeschlimann
+Wed Sep 27 12:29:38 2006,FilterUpdateEvent.java,Martin Aeschlimann
+Wed Sep 27 12:29:38 2006,MatchFilter.java,Martin Aeschlimann
+Wed Sep 27 12:29:38 2006,MatchFilterSelectionDialog.java,Martin Aeschlimann
+Wed Sep 27 12:29:38 2006,EditorAnnotationManager.java,Martin Aeschlimann
+Wed Sep 27 12:34:00 2006,MatchFilterSelectionDialog.java,Martin Aeschlimann
+Wed Sep 27 12:34:00 2006,SearchMessages.java,Martin Aeschlimann
+Wed Sep 27 12:34:00 2006,SearchMessages.properties,Martin Aeschlimann
+Wed Sep 27 16:26:02 2006,apichanges_search.html,Martin Aeschlimann
+Wed Sep 27 16:26:02 2006,component.xml,Martin Aeschlimann
+Wed Sep 27 16:26:02 2006,IContextMenuConstants.java,Martin Aeschlimann
+Wed Sep 27 16:26:02 2006,AbstractTextSearchResult.java,Martin Aeschlimann
+Wed Sep 27 16:26:02 2006,AbstractTextSearchViewPage.java,Martin Aeschlimann
+Wed Sep 27 16:26:02 2006,MatchFilter.java,Martin Aeschlimann
+Wed Sep 27 16:26:02 2006,MatchFilterAction.java,Martin Aeschlimann
+Wed Sep 27 16:26:02 2006,MatchFilterSelectionAction.java,Martin Aeschlimann
+Wed Sep 27 16:26:02 2006,MatchFilterSelectionDialog.java,Martin Aeschlimann
+Wed Sep 27 16:26:02 2006,SearchMessages.java,Martin Aeschlimann
+Wed Sep 27 16:26:02 2006,SearchMessages.properties,Martin Aeschlimann
+Wed Sep 27 16:26:02 2006,SearchView.java,Martin Aeschlimann
+Thu Sep 28  8:34:33 2006,FilterUpdateEvent.java,Martin Aeschlimann

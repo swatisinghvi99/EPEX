@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Feb 22 14:51:20 2021,XMLLanguageServer.java,Mickael Istria
+Mon Feb 22 14:51:20 2021,XMLPreferenceConstants.java,Mickael Istria
+Mon Feb 22 14:51:20 2021,XMLPreferenceInitializer.java,Mickael Istria
+Mon Feb 22 14:51:20 2021,XMLValidationPreferencePage.java,Mickael Istria
+Mon Feb 22 20:42:27 2021,XMLLanguageServer.java,Mickael Istria
+Mon Feb 22 20:42:27 2021,messages.properties,Mickael Istria
+Mon Feb 22 20:42:27 2021,XMLValidationPreferencePage.java,Mickael Istria
+Wed Feb 24 22:44:36 2021,XMLCatalogPreferencePage.java,Mickael Istria
+Wed Feb 24 22:44:36 2021,XMLCatalogs.java,Mickael Istria
+Wed Feb 24 22:44:36 2021,XMLPreferenceConstants.java,Mickael Istria
+Wed Feb 24 22:44:36 2021,XMLPreferenceInitializer.java,Mickael Istria
+Thu Feb 25  8:43:44 2021,plugin.properties,Mickael Istria
+Thu Feb 25  8:43:44 2021,Messages.java,Mickael Istria
+Thu Feb 25  8:43:44 2021,messages.properties,Mickael Istria
+Thu Feb 25  8:43:44 2021,XMLCatalogPreferencePage.java,Mickael Istria
+Thu Feb 25  8:43:44 2021,XMLValidationPreferencePage.java,Mickael Istria
+Mon Mar  8 14:10:14 2021,feature.xml,Mickael Istria
+Mon Mar  8 14:10:14 2021,pom.xml,Mickael Istria
+Mon Mar  8 14:10:14 2021,MANIFEST.MF,Mickael Istria
+Mon Mar  8 14:10:14 2021,pom.xml,Mickael Istria
+Mon Mar  8 14:10:14 2021,NodeJSManager.java,Mickael Istria

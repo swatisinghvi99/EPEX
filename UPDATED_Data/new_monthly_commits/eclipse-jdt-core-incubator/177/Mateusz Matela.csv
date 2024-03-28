@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Sun Feb  7 21:20:20 2016,FormatterRegressionTests.java,Mateusz Matela
+Sun Feb  7 21:20:20 2016,CommentsPreparator.java,Mateusz Matela
+Sun Feb  7 21:20:20 2016,Token.java,Mateusz Matela
+Sun Feb  7 21:20:20 2016,WrapPreparator.java,Mateusz Matela
+Wed Feb 17 21:26:14 2016,FormatterBugsTests.java,Mateusz Matela
+Wed Feb 17 21:26:14 2016,WrapPreparator.java,Mateusz Matela
+Sat Feb 20 13:32:12 2016,DefaultCodeFormatterOptions.java,Mateusz Matela
+Mon Feb 29 19:25:45 2016,DefaultCodeFormatterConstants.java,Mateusz Matela
+Mon Feb 29 19:36:39 2016,FormatterRegressionTests.java,Mateusz Matela
+Mon Feb 29 19:36:39 2016,DefaultCodeFormatterConstants.java,Mateusz Matela
+Mon Feb 29 19:36:39 2016,DefaultCodeFormatterOptions.java,Mateusz Matela
+Mon Feb 29 19:36:39 2016,LineBreaksPreparator.java,Mateusz Matela
+Tue Mar  1 22:24:19 2016,FormatterRegressionTests.java,Mateusz Matela
+Tue Mar  1 22:24:19 2016,DefaultCodeFormatterConstants.java,Mateusz Matela
+Tue Mar  1 22:24:19 2016,DefaultCodeFormatterOptions.java,Mateusz Matela
+Tue Mar  1 22:24:19 2016,WrapPreparator.java,Mateusz Matela

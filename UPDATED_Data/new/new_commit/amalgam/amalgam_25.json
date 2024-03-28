@@ -1,0 +1,22 @@
+[
+    [
+        "cbrun",
+        "java",
+        37
+    ],
+    [
+        "cbrun",
+        "ecore",
+        3
+    ],
+    [
+        "cbrun",
+        "genmodel",
+        3
+    ],
+    [
+        "cbrun",
+        "xmi",
+        1
+    ]
+]

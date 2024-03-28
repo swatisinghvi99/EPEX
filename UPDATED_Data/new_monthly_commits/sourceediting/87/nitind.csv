@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Fri Dec 31  8:27:32 2010,plugin.properties,nitind
+Fri Dec 31  8:27:32 2010,plugin.xml,nitind
+Fri Dec 31  8:27:32 2010,DTDEditor.java,nitind
+Fri Dec 31  8:27:32 2010,DTDUIMessages.java,nitind
+Fri Dec 31  8:27:32 2010,DTDUIPluginResources.properties,nitind
+Fri Dec 31  8:27:32 2010,DTDEditorPreferencePage.java,nitind
+Fri Dec 31  8:27:32 2010,DTDFilesPreferencePage.java,nitind
+Fri Dec 31  8:27:32 2010,DTDUIPreferenceInitializer.java,nitind
+Fri Dec 31  8:27:32 2010,DTDUIPreferenceNames.java,nitind
+Fri Dec 31 10:04:24 2010,XMLPerspectiveFactory.java,nitind
+Thu Jan  6 21:53:39 2011,BreakpointRulerAction.java,nitind
+Wed Jan 12  1:50:42 2011,DTDImpl.java,nitind
+Thu Jan 13  4:53:07 2011,AbstractIndexManager.java,nitind
+Thu Jan 13  5:24:39 2011,DeploymentDescriptorPropertyCache.java,nitind
+Thu Jan 13  5:28:23 2011,ProjectDescription.java,nitind
+Thu Jan 13  5:29:07 2011,TLDCMDocumentManager.java,nitind
+Thu Jan 13  5:29:22 2011,TaglibIndex.java,nitind
+Fri Jan 14 19:46:11 2011,ISemanticHighlightingExtension.java,nitind
+Sun Jan 23  5:23:31 2011,JsTranslator.java,nitind
+Sun Jan 23  5:44:09 2011,JSPJavaValidator.java,nitind
+Sun Jan 23  5:46:58 2011,ReconcileStepForValidator.java,nitind
+Sun Jan 23  5:48:53 2011,StructuredTextEditor.java,nitind
+Wed Jan 26 22:24:56 2011,StructuredTextEditor.java,nitind

@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Tue Aug  9 22:59:41 2022,launch.json,Tobias Ortmayr
+Tue Aug  9 22:59:41 2022,ipc-bootstrap.ts,Tobias Ortmayr
+Tue Aug  9 22:59:41 2022,ipc-channel.ts,Tobias Ortmayr
+Tue Aug  9 22:59:41 2022,ipc-connection-provider.ts,Tobias Ortmayr
+Tue Aug  9 22:59:41 2022,ipc-server.ts,Tobias Ortmayr
+Tue Aug 16 12:19:59 2022,package.json,Tobias Ortmayr
+Tue Aug 16 12:19:59 2022,channel.ts,Tobias Ortmayr
+Tue Aug 16 12:19:59 2022,index.ts,Tobias Ortmayr
+Tue Aug 16 12:19:59 2022,rpc-message-encoder.spec.ts,Tobias Ortmayr
+Tue Aug 16 12:19:59 2022,rpc-message-encoder.ts,Tobias Ortmayr
+Tue Aug 16 12:19:59 2022,rpc-protocol.ts,Tobias Ortmayr
+Tue Aug 16 12:19:59 2022,web-socket-channel.ts,Tobias Ortmayr
+Tue Aug 16 12:19:59 2022,electron-ipc-connection-provider.ts,Tobias Ortmayr
+Tue Aug 16 12:19:59 2022,electron-messaging-contribution.ts,Tobias Ortmayr
+Tue Aug 16 12:19:59 2022,ipc-channel.ts,Tobias Ortmayr
+Tue Aug 16 12:19:59 2022,yarn.lock,Tobias Ortmayr

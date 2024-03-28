@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Thu Jul 27  4:33:42 2017,CPPVisitor.java,Nathan Ridge
+Thu Jul 27  4:35:22 2017,AST2TemplateTests.java,Nathan Ridge
+Thu Jul 27  4:35:22 2017,CPPSemantics.java,Nathan Ridge
+Tue Aug  8  4:52:06 2017,AST2Tests.java,Nathan Ridge
+Tue Aug  8  4:52:06 2017,SemanticTestBase.java,Nathan Ridge
+Tue Aug  8  4:52:06 2017,CASTBinaryExpression.java,Nathan Ridge
+Tue Aug  8  4:52:06 2017,CASTConditionalExpression.java,Nathan Ridge
+Tue Aug  8  4:52:06 2017,Conversions.java,Nathan Ridge
+Tue Aug 22  6:31:15 2017,AbstractCPPClassSpecializationScope.java,Nathan Ridge
+Thu Aug 24  4:57:23 2017,IndexCPPBindingResolutionTest.java,Nathan Ridge
+Thu Aug 24  4:57:23 2017,CPPSemantics.java,Nathan Ridge

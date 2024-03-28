@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Wed Jan 17 16:58:01 2024,DeviceAssetsPanel.java,Alberto Codutti
+Wed Jan 17 16:58:01 2024,DeviceAssetsValues.java,Alberto Codutti
+Wed Jan 17 16:58:01 2024,GwtDeviceAssetServiceImpl.java,Alberto Codutti
+Wed Jan 17 16:58:01 2024,GwtDeviceAssetChannel.java,Alberto Codutti
+Thu Feb  1 11:18:43 2024,AbstractTranslatorAppInventoryKuraKapua.java,Alberto Codutti
+Thu Feb  8 15:59:13 2024,ChangePasswordDialog.java,Alberto Codutti
+Thu Feb  8 15:59:13 2024,KapuaCloudConsole.java,Alberto Codutti
+Thu Feb  8 15:59:13 2024,KapuaViewport.java,Alberto Codutti
+Thu Feb  8 15:59:13 2024,LoginDialog.java,Alberto Codutti
+Thu Feb  8 15:59:13 2024,MfaLoginDialog.java,Alberto Codutti
+Thu Feb  8 15:59:13 2024,MfaManagementDialog.java,Alberto Codutti
+Thu Feb  8 15:59:13 2024,NorthView.java,Alberto Codutti
+Thu Feb  8 15:59:13 2024,WestNavigationView.java,Alberto Codutti
+Sun Feb 11 11:56:38 2024,PasswordPropertyAdapter.java,Alberto Codutti
+Sun Feb 11 11:56:38 2024,ClassBasedXmlPropertyAdapterBase.java,Alberto Codutti
+Sun Feb 11 11:56:38 2024,XmlPropertyAdapter.java,Alberto Codutti
+Sun Feb 11 11:56:38 2024,KuraPasswordPropertyAdapter.java,Alberto Codutti
+Sun Feb 11 11:56:38 2024,KuraXmlConfigPropertiesAdapter.java,Alberto Codutti
+Mon Feb 12 10:44:40 2024,SecurityPlugin.java,Alberto Codutti
+Mon Feb 12 10:44:40 2024,AuthenticationLogic.java,Alberto Codutti
+Mon Feb 12 17:36:47 2024,MessageListener.java,Alberto Codutti
+Mon Feb 12 17:37:19 2024,MessageListener.java,Alberto Codutti

@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Fri Nov 22 15:29:11 2019,rasterfunctions.py,Jason T. Brown
+Fri Nov 22 15:29:11 2019,RasterFunctionsTests.py,Jason T. Brown
+Fri Nov 22 18:06:43 2019,Mask.scala,Jason T. Brown
+Fri Nov 22 18:06:43 2019,MaskingFunctionsSpec.scala,Jason T. Brown
+Fri Nov 22 18:06:43 2019,RasterFunctionsSpec.scala,Jason T. Brown
+Fri Nov 22 18:06:43 2019,release-notes.md,Jason T. Brown
+Fri Nov 22 18:06:43 2019,masking.pymd,Jason T. Brown
+Fri Nov 22 18:13:39 2019,MaskingFunctionsSpec.scala,Jason T. Brown
+Tue Nov 26 20:26:19 2019,Mask.scala,Jason T. Brown
+Tue Nov 26 20:26:19 2019,MaskingFunctionsSpec.scala,Jason T. Brown
+Tue Nov 26 20:26:19 2019,release-notes.md,Jason T. Brown
+Tue Dec 17 20:07:17 2019,DataFrameMethods.scala,Jason T. Brown
+Tue Dec 17 20:07:17 2019,RasterFrameStatFunctions.scala,Jason T. Brown
+Tue Dec 17 20:07:17 2019,package.scala,Jason T. Brown
+Tue Dec 17 20:07:17 2019,RasterFramesStatsSpec.scala,Jason T. Brown
+Tue Dec 17 20:09:39 2019,CellHistogram.scala,Jason T. Brown
+Tue Dec 17 20:09:39 2019,RasterFramesStatsSpec.scala,Jason T. Brown

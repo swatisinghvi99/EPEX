@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Wed Nov 25  9:15:02 2009,EMFEditProperties.java,tschindl
+Wed Nov 25  9:15:02 2009,IEMFEditSetProperty.java,tschindl
+Wed Nov 25  9:15:02 2009,IEMFEditValueProperty.java,tschindl
+Wed Nov 25  9:15:02 2009,EMFEditObservableSetDecorator.java,tschindl
+Wed Nov 25  9:15:02 2009,EMFEditSetProperty.java,tschindl
+Wed Nov 25  9:15:02 2009,EMFEditSetPropertyDecorator.java,tschindl
+Wed Nov 25  9:15:02 2009,EMFEditValuePropertyDecorator.java,tschindl
+Wed Nov 25  9:15:04 2009,EMFEditPropertiesTest.java,tschindl
+Wed Nov 25  9:15:05 2009,EMFProperties.java,tschindl
+Wed Nov 25  9:15:05 2009,IEMFSetProperty.java,tschindl
+Wed Nov 25  9:15:05 2009,IEMFValueProperty.java,tschindl
+Wed Nov 25  9:15:05 2009,DelegatingSet.java,tschindl
+Wed Nov 25  9:15:05 2009,EMFObservableSetDecorator.java,tschindl
+Wed Nov 25  9:15:05 2009,EMFPropertyListener.java,tschindl
+Wed Nov 25  9:15:05 2009,EMFSetProperty.java,tschindl
+Wed Nov 25  9:15:05 2009,EMFSetPropertyDecorator.java,tschindl
+Wed Nov 25  9:15:05 2009,EMFValuePropertyDecorator.java,tschindl
+Wed Nov 25  9:15:06 2009,MANIFEST.MF,tschindl
+Wed Nov 25  9:15:06 2009,EMFPropertiesTest.java,tschindl
+Wed Nov 25 16:12:30 2009,EMFEditSetProperty.java,tschindl

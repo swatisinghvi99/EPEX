@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Fri Sep 30 18:22:28 2011,JpaEntity.java,pfilion
+Fri Sep 30 18:22:28 2011,JpaJpqlQueryHelper.java,pfilion
+Fri Sep 30 18:22:28 2011,JpaManagedTypeProvider.java,pfilion
+Fri Sep 30 18:22:28 2011,JpaMappingFile.java,pfilion
+Fri Sep 30 18:22:28 2011,JpaOrmEntity.java,pfilion
+Fri Sep 30 18:22:28 2011,JpaPersistenceUnit.java,pfilion
+Fri Sep 30 18:22:28 2011,JpaPersistenceUnitEntity.java,pfilion
+Fri Sep 30 18:22:28 2011,JpaQuery.java,pfilion
+Wed Oct  5 20:22:25 2011,JpaJpqlJavaCompletionProposalComputer.java,pfilion
+Fri Oct  7 16:28:08 2011,JpaJpqlJavaCompletionProposalComputer.java,pfilion
+Tue Oct 11 14:11:49 2011,AbstractOrmQuery.java,pfilion
+Tue Oct 11 14:11:49 2011,JpaJpqlSseCompletionProposalComputer.java,pfilion
+Wed Oct 19 16:24:10 2011,JpaJpqlContentProposalProvider.java,pfilion

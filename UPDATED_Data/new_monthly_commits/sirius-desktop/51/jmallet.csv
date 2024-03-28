@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Thu Nov 30 16:12:33 2017,plugin.properties,jmallet
+Thu Nov 30 16:12:33 2017,DiagramDialectUIServices.java,jmallet
+Thu Nov 30 16:12:33 2017,DiagramGeneralPreferencePage.java,jmallet
+Thu Nov 30 16:12:33 2017,DiagramEditPartService.java,jmallet
+Thu Nov 30 16:12:33 2017,SiriusDiagramUiPreferencesKeys.java,jmallet
+Thu Nov 30 16:12:33 2017,DiagramUIPlugin.java,jmallet
+Thu Nov 30 16:12:33 2017,Messages.java,jmallet
+Thu Nov 30 16:12:33 2017,Release_Notes.html,jmallet
+Thu Nov 30 16:12:33 2017,Release_Notes.textile,jmallet
+Thu Nov 30 16:12:33 2017,Diagrams.html,jmallet
+Thu Nov 30 16:12:33 2017,Diagrams.textile,jmallet
+Thu Nov 30 16:12:33 2017,plugin.properties,jmallet
+Thu Nov 30 16:12:33 2017,ExportFormat.java,jmallet
+Thu Nov 30 16:12:33 2017,SiriusUIPreferencesKeys.java,jmallet
+Thu Nov 30 16:12:33 2017,GenericPreferencesInitializer.java,jmallet
+Thu Nov 30 16:12:33 2017,ExportAction.java,jmallet
+Thu Nov 30 16:12:33 2017,AbstractExportRepresentationsAsImagesDialog.java,jmallet
+Thu Nov 30 16:12:33 2017,ExportOneRepresentationAsImageDialog.java,jmallet
+Thu Nov 30 16:12:33 2017,ExportSeveralRepresentationsAsImagesDialog.java,jmallet
+Thu Nov 30 16:12:33 2017,AbstractExportRepresentationsAction.java,jmallet
+Thu Nov 30 16:12:33 2017,ExportRepresentationsFromFileAction.java,jmallet
+Thu Nov 30 16:12:33 2017,ScaleWithLegendFieldEditor.java,jmallet
+Thu Nov 30 16:12:33 2017,ScaleWithLegendFieldEditorWithHelp.java,jmallet
+Thu Nov 30 16:12:33 2017,Messages.java,jmallet

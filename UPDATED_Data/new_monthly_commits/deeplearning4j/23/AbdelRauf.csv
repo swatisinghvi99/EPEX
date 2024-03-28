@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Fri Apr  9 14:21:58 2021,TensorMmul.java,AbdelRauf
+Fri Apr  9 14:21:58 2021,TensorMmulBp.java,AbdelRauf
+Mon Apr 26 12:02:08 2021,unsorted_segment_max.cpp,AbdelRauf
+Mon Apr 26 12:02:08 2021,unsorted_segment_mean.cpp,AbdelRauf
+Mon Apr 26 12:02:08 2021,unsorted_segment_min.cpp,AbdelRauf
+Mon Apr 26 12:02:08 2021,unsorted_segment_prod.cpp,AbdelRauf
+Mon Apr 26 12:02:08 2021,unsorted_segment_sqrt_n.cpp,AbdelRauf
+Mon Apr 26 12:02:08 2021,unsorted_segment_sum.cpp,AbdelRauf

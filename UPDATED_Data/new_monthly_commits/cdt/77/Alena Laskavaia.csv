@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Mon Nov  3 16:17:20 2008,Configuration.java,Alena Laskavaia
+Mon Nov  3 16:18:50 2008,Configuration.java,Alena Laskavaia
+Tue Nov  4 17:33:11 2008,ErrorParserManagerTest.java,Alena Laskavaia
+Tue Nov  4 17:33:11 2008,ErrorParserTests.java,Alena Laskavaia
+Tue Nov  4 17:34:34 2008,CommonBuilder.java,Alena Laskavaia
+Tue Nov  4 17:34:34 2008,CommandLineUtilTest.java,Alena Laskavaia
+Tue Nov  4 17:34:34 2008,AutomatedIntegrationSuite.java,Alena Laskavaia
+Tue Nov  4 17:34:34 2008,CommandLineUtil.java,Alena Laskavaia
+Tue Nov  4 17:40:57 2008,CommandLineUtil.java,Alena Laskavaia
+Tue Nov  4 17:48:27 2008,MakeBuilder.java,Alena Laskavaia
+Tue Nov  4 18:44:21 2008,LaunchUtils.java,Alena Laskavaia
+Tue Nov  4 18:57:00 2008,CommandLineUtilTest.java,Alena Laskavaia
+Tue Nov  4 18:57:00 2008,CommandLineUtil.java,Alena Laskavaia
+Wed Nov  5 19:10:15 2008,TemplateEngine.java,Alena Laskavaia
+Wed Nov 12 15:13:34 2008,DefaultFortranDependencyCalculator.java,Alena Laskavaia
+Wed Nov 12 17:34:48 2008,AbstractDebugTest.java,Alena Laskavaia
+Wed Nov 12 17:34:48 2008,BreakpointTests.java,Alena Laskavaia
+Wed Nov 12 17:34:48 2008,EventBreakpointTests.java,Alena Laskavaia
+Wed Nov 12 17:39:19 2008,CBreakpointManager.java,Alena Laskavaia
+Wed Nov 12 17:39:19 2008,CSourceLookupDirector.java,Alena Laskavaia
+Fri Nov 21 17:25:16 2008,AbsolutePathSourceContainer.java,Alena Laskavaia
+Fri Nov 21 17:25:16 2008,CSourceLookupParticipant.java,Alena Laskavaia
+Fri Nov 21 18:04:55 2008,RxThread.java,Alena Laskavaia
+Mon Nov 24 20:50:16 2008,SolibSearchPathBlock.java,Alena Laskavaia
+Mon Nov 24 20:53:27 2008,SolibSearchPathBlock.java,Alena Laskavaia

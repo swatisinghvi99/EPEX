@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Wed Jan 18 22:07:37 2017,UIText.java,Wim Jongman
+Wed Jan 18 22:07:37 2017,CreateBranchPage.java,Wim Jongman
+Wed Jan 18 22:07:37 2017,uitext.properties,Wim Jongman
+Thu Jan 19 22:54:23 2017,ActiveTaskBranchNameProvider.java,Wim Jongman
+Sat Jan 28 20:41:38 2017,plugin.xml,Wim Jongman
+Sat Jan 28 20:41:38 2017,UIText.java,Wim Jongman
+Sat Jan 28 20:41:38 2017,GitCreateProjectViaWizardWizard.java,Wim Jongman
+Sat Jan 28 20:41:38 2017,GitProjectsImportPage.java,Wim Jongman
+Sat Jan 28 20:41:38 2017,GitSelectWizardPage.java,Wim Jongman
+Sat Jan 28 20:41:38 2017,ImportProjectsCommand.java,Wim Jongman
+Sat Jan 28 20:41:38 2017,uitext.properties,Wim Jongman

@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Wed Mar  1 13:11:53 2017,ValidationServiceImpl.java,Johannes Faltermeier
+Fri Mar  3  7:53:20 2017,PreSetValidationListeners.java,Johannes Faltermeier
+Thu Mar  9  8:49:17 2017,MANIFEST.MF,Johannes Faltermeier
+Thu Mar  9  8:49:17 2017,TableWidthConfigurationDMRRendererService.xml,Johannes Faltermeier
+Thu Mar  9  8:49:17 2017,TableColumnsDMRTableControl.java,Johannes Faltermeier
+Thu Mar  9  8:49:17 2017,TableWidthConfigurationDMRRenderer.java,Johannes Faltermeier
+Thu Mar  9  8:49:17 2017,TableWidthConfigurationDMRRendererService.java,Johannes Faltermeier
+Thu Mar  9  8:49:17 2017,LinkControlSWTRenderer.java,Johannes Faltermeier
+Thu Mar  9  8:49:17 2017,plugin.properties,Johannes Faltermeier
+Thu Mar  9  8:49:17 2017,WidthConfigurationItemProvider.java,Johannes Faltermeier
+Thu Mar  9  8:49:17 2017,table.genmodel,Johannes Faltermeier
+Thu Mar  9 10:55:00 2017,CollapsableGroupSWTRenderer.java,Johannes Faltermeier
+Wed Mar 15 16:15:14 2017,ViewValidator.java,Johannes Faltermeier

@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Tue Mar  8  8:43:27 2005,TextSearchVisitor.java,Martin Aeschlimann
+Tue Mar  8  8:43:27 2005,SearchMessages.properties,Martin Aeschlimann
+Wed Mar  9  9:34:25 2005,SearchDialog.java,Martin Aeschlimann
+Wed Mar  9  9:34:25 2005,TextSearchPage.java,Martin Aeschlimann
+Wed Mar  9  9:46:52 2005,RowLayouter.java,Martin Aeschlimann
+Wed Mar  9 15:18:43 2005,ScopePart.java,Martin Aeschlimann
+Wed Mar  9 15:18:43 2005,Search.java,Martin Aeschlimann
+Wed Mar  9 15:18:43 2005,SearchDialog.java,Martin Aeschlimann
+Wed Mar  9 15:18:43 2005,SearchManager.java,Martin Aeschlimann
+Wed Mar  9 15:18:43 2005,SearchPlugin.java,Martin Aeschlimann
+Wed Mar  9 15:18:43 2005,ReplaceDialog2.java,Martin Aeschlimann
+Wed Mar  9 15:18:43 2005,TextSearchPage.java,Martin Aeschlimann
+Wed Mar  9 15:18:43 2005,ExtendedDialogWindow.java,Martin Aeschlimann
+Thu Mar 17 10:06:04 2005,ScopePart.java,Martin Aeschlimann
+Fri Mar 18 15:08:10 2005,AbstractTextSearchViewPage.java,Martin Aeschlimann
+Fri Mar 18 15:08:10 2005,CopyToClipboardAction.java,Martin Aeschlimann
+Thu Mar 24 14:38:45 2005,SearchDialog.java,Martin Aeschlimann
+Thu Mar 24 15:00:55 2005,SearchMessages.properties,Martin Aeschlimann
+Thu Mar 24 15:00:55 2005,SearchesDialog.java,Martin Aeschlimann
+Thu Mar 24 15:32:51 2005,FileSearchQuery.java,Martin Aeschlimann
+Thu Mar 24 15:44:44 2005,TextSearchScope.java,Martin Aeschlimann

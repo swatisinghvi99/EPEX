@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Thu Nov 30 16:19:04 2017,MongoPolicyEventAdapter.java,Juergen Fickel
+Thu Nov 30 16:19:04 2017,MongoPolicySnapshotAdapter.java,Juergen Fickel
+Thu Nov 30 16:19:04 2017,PolicyPersistenceActorSnapshottingTest.java,Juergen Fickel
+Thu Nov 30 16:19:04 2017,MongoThingEventAdapter.java,Juergen Fickel
+Thu Nov 30 16:19:04 2017,MongoThingSnapshotAdapter.java,Juergen Fickel
+Thu Nov 30 16:19:04 2017,ThingPersistenceActorSnapshottingTest.java,Juergen Fickel
+Thu Nov 30 16:19:04 2017,MongoThingEventAdapterTest.java,Juergen Fickel
+Thu Nov 30 16:19:04 2017,TaggedThingJsonSnapshotAdapterTest.java,Juergen Fickel
+Thu Nov 30 16:19:04 2017,DittoBsonJSON.java,Juergen Fickel
+Thu Nov 30 16:19:04 2017,BasicDBObjectToJsonObjectMapper.java,Juergen Fickel
+Thu Nov 30 16:19:04 2017,DittoBsonJson.java,Juergen Fickel
+Thu Nov 30 16:19:04 2017,JsonValueToDbEntityMapper.java,Juergen Fickel
+Thu Nov 30 16:19:04 2017,KeyNameReviser.java,Juergen Fickel
+Thu Nov 30 16:19:04 2017,DittoBsonJsonTest.java,Juergen Fickel
+Thu Nov 30 16:19:04 2017,JsonValueToDbEntityMapperTest.java,Juergen Fickel
+Thu Nov 30 16:19:04 2017,KeyNameReviserTest.java,Juergen Fickel

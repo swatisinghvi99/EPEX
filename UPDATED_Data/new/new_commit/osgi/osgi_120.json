@@ -1,0 +1,132 @@
+[
+    [
+        "BJ Hargrave",
+        "bnd",
+        1
+    ],
+    [
+        "BJ Hargrave",
+        "java",
+        10
+    ],
+    [
+        "BJ Hargrave",
+        "xml",
+        1
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "bnd",
+        4
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "java",
+        99
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "classpath",
+        1
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "project",
+        1
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "prefs",
+        10
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "xml",
+        1
+    ],
+    [
+        "antonin.chazalet@orange.com",
+        "unknown",
+        11
+    ],
+    [
+        "Thomas Watson",
+        "prefs",
+        2
+    ],
+    [
+        "Thomas Watson",
+        "java",
+        38
+    ],
+    [
+        "Thomas Watson",
+        "bnd",
+        7
+    ],
+    [
+        "Thomas Watson",
+        "classpath",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "project",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "xml",
+        1
+    ],
+    [
+        "Thomas Watson",
+        "perm",
+        2
+    ],
+    [
+        "David Bosschaert",
+        "bnd",
+        3
+    ],
+    [
+        "David Bosschaert",
+        "java",
+        3
+    ],
+    [
+        "David Bosschaert",
+        "classpath",
+        1
+    ],
+    [
+        "David Bosschaert",
+        "project",
+        1
+    ],
+    [
+        "David Bosschaert",
+        "prefs",
+        1
+    ],
+    [
+        "David Bosschaert",
+        "xml",
+        1
+    ],
+    [
+        "Tim Ward",
+        "java",
+        13
+    ],
+    [
+        "Tim Ward",
+        "bnd",
+        2
+    ],
+    [
+        "Evgeni Grigorov",
+        "java",
+        3
+    ]
+]

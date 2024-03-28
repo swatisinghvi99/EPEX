@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Thu Jan 12 18:57:00 2006,AllTestCases.java,kchong
+Mon Jan 16 17:06:08 2006,XSDSchemaLocatorImpl.java,kchong
+Mon Jan 23 19:24:57 2006,BindingGenerator.java,kchong
+Mon Jan 23 19:27:16 2006,WSDLEditor.java,kchong
+Mon Jan 23 19:27:16 2006,WSDLHyperlinkDetector.java,kchong
+Mon Jan 23 19:27:16 2006,ExtensibleOutlineProvider.java,kchong
+Mon Jan 23 19:27:16 2006,WSDLContentOutlineConfiguration.java,kchong
+Mon Jan 23 19:27:16 2006,WSDLModelAdapter.java,kchong
+Mon Jan 23 19:27:16 2006,WSDLModelQueryExtension.java,kchong
+Mon Jan 23 19:27:16 2006,WSDLModelReconcileAdapter.java,kchong
+Mon Jan 23 19:28:17 2006,WSDLEditorUtil.java,kchong

@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Thu May 10 15:37:58 2007,WorkbenchCommandStackTest.java,cdamus
+Thu May 10 15:37:58 2007,WorkspaceCommandStackImpl.java,cdamus
+Thu May 10 16:13:28 2007,EXTLibraryEditor.java,cdamus
+Thu May 24 23:23:56 2007,build.xml,cdamus
+Thu May 24 23:23:56 2007,ResourceSetListener.java,cdamus
+Thu May 24 23:23:56 2007,Transaction.java,cdamus
+Thu May 24 23:23:56 2007,AbstractTransactionalCommandStack.java,cdamus
+Thu May 24 23:23:56 2007,InternalTransactionalEditingDomain.java,cdamus
+Thu May 24 23:23:56 2007,CommandChangeDescription.java,cdamus
+Thu May 24 23:23:56 2007,Lock.java,cdamus
+Thu May 24 23:23:56 2007,antJavadoc.sh,cdamus
+Thu May 24 23:23:56 2007,AbstractEMFOperation.java,cdamus
+Thu May 24 23:23:56 2007,EMFCommandOperation.java,cdamus
+Thu May 24 23:23:56 2007,WorkspaceEditingDomainFactory.java,cdamus
+Thu May 24 23:23:56 2007,package.html,cdamus
+Thu May 24 23:31:24 2007,Lock.java,cdamus

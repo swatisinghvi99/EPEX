@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Thu Sep 12 18:56:33 2019,MANIFEST.MF,mwienand
+Thu Sep 12 18:56:33 2019,AbstractGesture.java,mwienand
+Thu Sep 12 18:56:33 2019,ClickDragGesture.java,mwienand
+Thu Sep 12 18:56:33 2019,DragDropGesture.java,mwienand
+Thu Sep 12 18:56:33 2019,HoverGesture.java,mwienand
+Thu Sep 12 18:56:33 2019,PinchSpreadGesture.java,mwienand
+Thu Sep 12 18:56:33 2019,RotateGesture.java,mwienand
+Thu Sep 12 18:56:33 2019,ScrollGesture.java,mwienand
+Thu Sep 12 18:56:33 2019,TypeStrokeGesture.java,mwienand
+Fri Sep 13 11:16:01 2019,TypeStrokeGesture.java,mwienand
+Fri Sep 13 11:45:06 2019,ContentBehavior.java,mwienand
+Fri Sep 13 11:45:06 2019,ContentSynchronizationTests.java,mwienand
+Fri Sep 13 15:34:11 2019,ContentSynchronizationTests.java,mwienand

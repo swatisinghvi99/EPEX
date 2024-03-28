@@ -1,0 +1,67 @@
+[
+    [
+        "Stefan Behl",
+        "java",
+        60
+    ],
+    [
+        "Stefan Behl",
+        "yml",
+        2
+    ],
+    [
+        "Stefan Behl",
+        "md",
+        3
+    ],
+    [
+        "Stefan Behl",
+        "xml",
+        4
+    ],
+    [
+        "Stefan Behl",
+        "sql",
+        8
+    ],
+    [
+        "Stefan Behl",
+        "properties",
+        2
+    ],
+    [
+        "Michael Herdt",
+        "java",
+        71
+    ],
+    [
+        "Michael Herdt",
+        "properties",
+        1
+    ],
+    [
+        "Michael Herdt",
+        "txt",
+        1
+    ],
+    [
+        "Michael Herdt",
+        "xml",
+        1
+    ],
+    [
+        "Stanislav Trailov",
+        "java",
+        10
+    ],
+    [
+        "Bondar Bogdan",
+        "java",
+        3
+    ],
+    [
+        "Bondar Bogdan",
+        "properties",
+        1
+    ]
+]

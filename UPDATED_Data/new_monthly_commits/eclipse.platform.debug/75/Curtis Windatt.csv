@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Jul 23 20:15:59 2007,DefaultWatchExpressionModelProxy.java,Curtis Windatt
+Tue Jul 31 15:40:49 2007,DebugPlugin.java,Curtis Windatt
+Tue Jul 31 15:40:49 2007,AbstractSourceLookupDirector.java,Curtis Windatt
+Tue Jul 31 15:40:49 2007,AbstractSourceLookupParticipant.java,Curtis Windatt
+Tue Jul 31 15:40:49 2007,AbstractSourceContainer.java,Curtis Windatt
+Tue Jul 31 15:40:49 2007,AbstractSourceContainerTypeDelegate.java,Curtis Windatt
+Tue Jul 31 15:40:49 2007,CompositeSourceContainer.java,Curtis Windatt
+Tue Jul 31 15:40:49 2007,LocalFileStorage.java,Curtis Windatt
+Tue Jul 31 15:40:49 2007,ZipEntryStorage.java,Curtis Windatt
+Tue Jul 31 15:40:49 2007,BreakpointManager.java,Curtis Windatt
+Tue Jul 31 15:40:49 2007,DebugCoreMessages.java,Curtis Windatt
+Tue Jul 31 15:40:49 2007,DebugCoreMessages.properties,Curtis Windatt
+Tue Jul 31 15:40:49 2007,LaunchConfiguration.java,Curtis Windatt
+Tue Jul 31 15:40:49 2007,LaunchDelegate.java,Curtis Windatt
+Tue Jul 31 15:40:49 2007,LaunchMode.java,Curtis Windatt
+Tue Jul 31 15:40:49 2007,LogicalStructureProvider.java,Curtis Windatt
+Tue Jul 31 15:40:49 2007,LogicalStructureType.java,Curtis Windatt
+Tue Jul 31 15:40:49 2007,SourceContainerType.java,Curtis Windatt
+Wed Aug  1 20:06:13 2007,BreakpointsView.java,Curtis Windatt
+Mon Aug 13 14:08:41 2007,SaveScopeResourcesHandler.java,Curtis Windatt
+Thu Aug 16 13:48:22 2007,SourceLookupFacility.java,Curtis Windatt

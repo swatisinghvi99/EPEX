@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Mon Mar 14  7:56:26 2022,ElkServicePlugin.java,Sören Domrös
+Mon Mar 14  7:56:26 2022,build.properties,Sören Domrös
+Mon Mar 14  7:56:26 2022,plugin.xml,Sören Domrös
+Mon Mar 14  7:56:26 2022,layoutProviders.exsd,Sören Domrös
+Mon Mar 14  7:56:26 2022,AbstractLayoutProvider.java,Sören Domrös
+Mon Mar 14  7:56:26 2022,LayoutAlgorithmData.java,Sören Domrös
+Mon Mar 14  7:56:26 2022,LayoutMetaDataService.java,Sören Domrös
+Mon Mar 14 12:05:17 2022,LayoutMetaDataService.java,Sören Domrös
+Mon Mar 14 13:05:22 2022,ElkLayered.java,Sören Domrös
+Thu Mar 17 13:14:18 2022,CompoundGraphPreprocessor.java,Sören Domrös
+Thu Mar 17 13:14:18 2022,LGraphUtil.java,Sören Domrös
+Thu Mar 17 13:37:39 2022,RadialUtil.java,Sören Domrös
+Thu Mar 17 13:37:39 2022,CalculateGraphSize.java,Sören Domrös
+Thu Mar 17 13:37:39 2022,AbstractRadiusExtensionCompaction.java,Sören Domrös
+Thu Mar 17 13:37:39 2022,GeneralCompactor.java,Sören Domrös
+Thu Mar 17 13:37:39 2022,IOverlapRemoval.java,Sören Domrös
+Thu Mar 17 13:37:39 2022,RadiusExtensionOverlapRemoval.java,Sören Domrös
+Thu Mar 17 13:37:39 2022,EadesRadial.java,Sören Domrös
+Thu Mar 17 13:37:39 2022,StraightLineEdgeRouter.java,Sören Domrös
+Thu Mar 17 14:06:42 2022,CompoundGraphPreprocessor.java,Sören Domrös
+Fri Mar 18  7:00:02 2022,SortByInputModelProcessor.java,Sören Domrös
+Fri Mar 18  7:00:02 2022,CrossingMinimizationStrategy.java,Sören Domrös
+Fri Mar 18  7:00:02 2022,NoCrossingMinimizer.java,Sören Domrös
+Fri Mar 18  7:01:11 2022,GraphvizLayoutProvider.java,Sören Domrös

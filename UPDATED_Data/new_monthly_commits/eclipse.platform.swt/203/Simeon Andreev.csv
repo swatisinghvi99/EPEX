@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Fri Apr  6 13:46:31 2018,GC.java,Simeon Andreev
+Fri Apr  6 13:46:31 2018,Group.java,Simeon Andreev
+Fri Apr  6 13:46:31 2018,Bug531667_CTabFolder_right_to_left_tabs_are_not_painted.java,Simeon Andreev
+Fri Apr  6 13:46:31 2018,Bug531667_CTabFolder_right_to_left_tabs_are_not_painted_nested.java,Simeon Andreev
+Fri Apr  6 13:46:31 2018,Bug531667_GC_transform_is_wrong.java,Simeon Andreev
+Fri Apr  6 13:46:31 2018,Bug531667_Group_drawing_with_paint_listener_is_wrong.java,Simeon Andreev
+Fri Apr  6 13:46:31 2018,Bug531667_PaintListener_paints_despite_empty_GC_clipping.java,Simeon Andreev
+Tue Apr 10 19:08:43 2018,Group.java,Simeon Andreev

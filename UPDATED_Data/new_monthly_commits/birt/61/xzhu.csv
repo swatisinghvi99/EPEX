@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Wed Feb 10  6:15:50 2010,BaseDataDefinitionComponent.java,xzhu
+Sun Feb 21  2:38:14 2010,StandardChartDataSheet.java,xzhu
+Sun Feb 21  2:38:14 2010,TaskSelectData.java,xzhu
+Sun Feb 21  2:38:14 2010,DataDefinitionSelector.java,xzhu
+Sun Feb 21  2:38:14 2010,DataDefinitionTextManager.java,xzhu
+Sun Feb 21  2:38:14 2010,DefaultChartDataSheet.java,xzhu
+Mon Feb 22  7:39:07 2010,ChartReportItemBuilderImpl.java,xzhu
+Mon Feb 22  7:39:07 2010,AreaSeriesUIProvider.java,xzhu
+Mon Feb 22  7:39:07 2010,BarSeriesUIProvider.java,xzhu
+Mon Feb 22  7:39:07 2010,BubbleSeriesUIProvider.java,xzhu
+Mon Feb 22  7:39:07 2010,DifferenceSeriesUIProvider.java,xzhu
+Mon Feb 22  7:39:07 2010,GanttSeriesUIProvider.java,xzhu
+Mon Feb 22  7:39:07 2010,LineSeriesUIProvider.java,xzhu
+Mon Feb 22  7:39:07 2010,MeterSeriesUIProvider.java,xzhu
+Mon Feb 22  7:39:07 2010,PieSeriesUIProvider.java,xzhu
+Mon Feb 22  7:39:07 2010,ScatterSeriesUIProvider.java,xzhu
+Mon Feb 22  7:39:07 2010,StockSeriesUIProvider.java,xzhu
+Wed Feb 24  8:27:47 2010,CustomPreviewTable.java,xzhu

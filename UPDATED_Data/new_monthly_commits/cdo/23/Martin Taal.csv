@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Thu Feb 28  6:03:02 2008,.classpath,Martin Taal
+Thu Feb 28  6:03:02 2008,MANIFEST.MF,Martin Taal
+Thu Feb 28  6:03:02 2008,build.properties,Martin Taal
+Thu Feb 28  6:03:02 2008,.cvsignore,Martin Taal
+Thu Feb 28  6:03:02 2008,changelog.txt,Martin Taal
+Thu Feb 28  6:03:02 2008,lgpl.txt,Martin Taal
+Thu Feb 28  6:03:02 2008,readme.txt,Martin Taal
+Thu Feb 28  6:03:02 2008,meta.hbm.xml,Martin Taal
+Thu Feb 28  6:03:02 2008,HibernateUtil.java,Martin Taal
+Thu Feb 28  6:03:02 2008,MANIFEST.MF,Martin Taal
+Thu Feb 28  6:03:02 2008,build.properties,Martin Taal
+Thu Feb 28  6:03:02 2008,HibernateTest.java,Martin Taal
+Thu Feb 28  6:23:39 2008,HibernateTest.java,Martin Taal
+Fri Feb 29  7:25:40 2008,CDOHibernateUtil.java,Martin Taal
+Fri Feb 29  7:25:40 2008,HibernatePackageHandler.java,Martin Taal
+Fri Feb 29  7:25:40 2008,HibernateStore.java,Martin Taal
+Fri Feb 29  7:25:40 2008,HibernateUtil.java,Martin Taal
+Fri Feb 29  7:25:40 2008,HibernateTest.java,Martin Taal

@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Wed Aug 31  8:53:31 2016,CompilerTests2.xtend,Lorenzo Bettini
+Wed Aug 31  8:53:31 2016,XbaseValidationTest.xtend,Lorenzo Bettini
+Wed Aug 31  8:53:31 2016,CompilerTests2.java,Lorenzo Bettini
+Wed Aug 31  8:53:31 2016,XbaseValidationTest.java,Lorenzo Bettini
+Wed Aug 31  8:53:31 2016,XbaseCompiler.java,Lorenzo Bettini
+Wed Aug 31  8:53:31 2016,XbaseTypeComputer.java,Lorenzo Bettini
+Wed Aug 31  8:53:31 2016,XbaseValidator.java,Lorenzo Bettini
+Wed Aug 31 15:04:55 2016,GeneratorConfigProvider.xtend,Lorenzo Bettini
+Wed Aug 31 15:04:55 2016,GeneratorConfigProvider.java,Lorenzo Bettini
+Wed Aug 31 15:05:32 2016,CompilationTestHelper.java,Lorenzo Bettini
+Wed Aug 31 15:05:32 2016,InMemoryJavaCompiler.xtend,Lorenzo Bettini
+Wed Aug 31 15:05:32 2016,OnTheFlyJavaCompiler2.xtend,Lorenzo Bettini
+Wed Aug 31 15:05:32 2016,InMemoryJavaCompiler.java,Lorenzo Bettini
+Wed Aug 31 15:05:32 2016,OnTheFlyJavaCompiler2.java,Lorenzo Bettini
+Wed Aug 31 15:05:46 2016,CompilationTestHelperTest.xtend,Lorenzo Bettini
+Wed Aug 31 15:05:46 2016,OnTheFlyJavaCompiler2Test.xtend,Lorenzo Bettini
+Wed Aug 31 15:05:46 2016,CompilationTestHelperTest.java,Lorenzo Bettini
+Wed Aug 31 15:05:46 2016,OnTheFlyJavaCompiler2Test.java,Lorenzo Bettini
+Wed Aug 31 15:51:46 2016,CompilerTest.xtend,Lorenzo Bettini
+Wed Aug 31 15:51:46 2016,CompilerTest.java,Lorenzo Bettini

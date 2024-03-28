@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Tue May 14 21:56:39 2013,AbstractEpsilonUIPlugin.java,dkolovos
+Sat Jun  1  6:58:56 2013,MigrationStrategyExecutor.java,dkolovos
+Sat Jun  1  6:59:42 2013,AbstractEpsilonUIPlugin.java,dkolovos
+Sat Jun  1  9:01:53 2013,org.eclipse.epsilon.evl.emf.validation.exsd,dkolovos
+Sat Jun  1  9:01:53 2013,EValidatorPopulator.java,dkolovos
+Tue Jun  4 18:57:36 2013,GeneratePatchesDelegate.java,dkolovos
+Tue Jun  4 18:58:12 2013,EugeniaWorkflowDelegate.java,dkolovos

@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Mon Sep  7  8:19:27 2020,keyple-java.Jenkinsfile,Brice Ruppen
+Mon Sep  7  8:19:27 2020,gradle.properties,Brice Ruppen
+Mon Sep  7  8:19:27 2020,KeypleVersioningTest.kt,Brice Ruppen
+Thu Sep 10 12:09:14 2020,keyple-java.Jenkinsfile,Brice Ruppen
+Thu Sep 10 12:09:14 2020,build.gradle.kts,Brice Ruppen
+Thu Sep 10 14:07:46 2020,Jenkinsfile,Brice Ruppen
+Thu Sep 10 14:07:46 2020,keyple-java.Jenkinsfile,Brice Ruppen
+Thu Sep 10 14:07:46 2020,build.gradle.kts,Brice Ruppen
+Thu Sep 10 14:07:46 2020,gradle.properties,Brice Ruppen
+Thu Sep 10 17:02:27 2020,.gitignore,Brice Ruppen
+Thu Sep 10 17:02:27 2020,Jenkinsfile,Brice Ruppen
+Thu Sep 10 17:02:27 2020,build.gradle.kts,Brice Ruppen
+Thu Sep 10 17:02:27 2020,KeypleMarshaller.kt,Brice Ruppen
+Thu Sep 10 17:02:27 2020,KeyplePlugin.kt,Brice Ruppen
+Thu Sep 10 17:02:27 2020,KeypleMarshallerTest.kt,Brice Ruppen
+Thu Sep 10 17:02:27 2020,KeyplePluginTest.kt,Brice Ruppen

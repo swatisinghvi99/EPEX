@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Fri Jan 16 14:20:15 2015,LazyDataset.java,Peter Chang
+Fri Jan 16 14:20:15 2015,LazyDatasetBase.java,Peter Chang
+Thu Jan 22 14:17:48 2015,IDataset.java,Peter Chang
+Thu Jan 22 14:17:48 2015,ILazyDataset.java,Peter Chang
+Thu Jan 22 14:17:48 2015,AbstractDataset.java,Peter Chang
+Thu Jan 22 14:17:48 2015,AggregateDataset.java,Peter Chang
+Thu Jan 22 14:17:48 2015,CompoundDataset.java,Peter Chang
+Thu Jan 22 14:17:48 2015,Dataset.java,Peter Chang
+Thu Jan 22 14:17:48 2015,LazyDataset.java,Peter Chang
+Thu Jan 22 14:17:48 2015,LazyDatasetBase.java,Peter Chang
+Thu Jan 22 14:30:16 2015,AbstractCompoundDataset.java,Peter Chang
+Tue Jan 27 16:49:30 2015,DetectorProperties.java,Peter Chang
+Wed Jan 28 15:17:09 2015,LazyMaths.java,Peter Chang
+Wed Jan 28 15:17:09 2015,RunningAverage.java,Peter Chang
+Wed Feb  4 14:21:55 2015,IntegersIterator.java,Peter Chang
+Thu Feb  5 14:19:33 2015,AbstractDataset.java,Peter Chang
+Thu Feb  5 14:19:33 2015,NullIterator.java,Peter Chang
+Thu Feb  5 14:24:14 2015,SliceND.java,Peter Chang

@@ -1,0 +1,999 @@
+date_time,file,committer_name
+Wed Nov  4 17:06:39 2015,feature.xml,cgatti
+Wed Nov  4 17:06:39 2015,.classpath,cgatti
+Wed Nov  4 17:06:39 2015,.project,cgatti
+Wed Nov  4 17:06:39 2015,org.eclipse.core.resources.prefs,cgatti
+Wed Nov  4 17:06:39 2015,MANIFEST.MF,cgatti
+Wed Nov  4 17:06:39 2015,about.html,cgatti
+Wed Nov  4 17:06:39 2015,build.properties,cgatti
+Wed Nov  4 17:06:39 2015,19.1. Core Mechanism and Applications-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,19.1. Core Mechanism and Applications.html,cgatti
+Wed Nov  4 17:06:39 2015,19.1. Core Mechanism and Applications.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,license.txt,cgatti
+Wed Nov  4 17:06:39 2015,plugin.properties,cgatti
+Wed Nov  4 17:06:39 2015,plugin.xml,cgatti
+Wed Nov  4 17:06:39 2015,Activator.java,cgatti
+Wed Nov  4 17:06:39 2015,toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,.classpath,cgatti
+Wed Nov  4 17:06:39 2015,.project,cgatti
+Wed Nov  4 17:06:39 2015,org.eclipse.core.resources.prefs,cgatti
+Wed Nov  4 17:06:39 2015,MANIFEST.MF,cgatti
+Wed Nov  4 17:06:39 2015,about.html,cgatti
+Wed Nov  4 17:06:39 2015,build.properties,cgatti
+Wed Nov  4 17:06:39 2015,21.1. Model DiffMerge-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,21.1. Model DiffMerge.html,cgatti
+Wed Nov  4 17:06:39 2015,21.1. Model DiffMerge.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,license.txt,cgatti
+Wed Nov  4 17:06:39 2015,plugin.properties,cgatti
+Wed Nov  4 17:06:39 2015,plugin.xml,cgatti
+Wed Nov  4 17:06:39 2015,Activator.java,cgatti
+Wed Nov  4 17:06:39 2015,toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,org.eclipse.core.resources.prefs,cgatti
+Wed Nov  4 17:06:39 2015,Intro-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,Intro.html,cgatti
+Wed Nov  4 17:06:39 2015,Intro.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,2.1. Definitions.html,cgatti
+Wed Nov  4 17:06:39 2015,2.2. Understanding the difference between Models Projects and Workspaces.html,cgatti
+Wed Nov  4 17:06:39 2015,3.1. Starting Capella.html,cgatti
+Wed Nov  4 17:06:39 2015,3.1. Starting Capella.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,3.2. How to create a new Capella Project.html,cgatti
+Wed Nov  4 17:06:39 2015,3.2. How to create a new Capella Project.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,3.3. How to import an existing Capella Project.html,cgatti
+Wed Nov  4 17:06:39 2015,3.3. How to import an existing Capella Project.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,3.4. How to copy or export a Capella Project.html,cgatti
+Wed Nov  4 17:06:39 2015,3.4. How to copy or export a Capella Project.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,3.5. How to rename a Capella project.html,cgatti
+Wed Nov  4 17:06:39 2015,3.5. How to rename a Capella project.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,3.6. How to detach viewpoints.html,cgatti
+Wed Nov  4 17:06:39 2015,styles.css,cgatti
+Wed Nov  4 17:06:39 2015,plugin.xml,cgatti
+Wed Nov  4 17:06:39 2015,toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,.classpath,cgatti
+Wed Nov  4 17:06:39 2015,.project,cgatti
+Wed Nov  4 17:06:39 2015,org.eclipse.core.resources.prefs,cgatti
+Wed Nov  4 17:06:39 2015,MANIFEST.MF,cgatti
+Wed Nov  4 17:06:39 2015,build.properties,cgatti
+Wed Nov  4 17:06:39 2015,10.1. Introduction to patterns-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,10.1. Introduction to patterns.html,cgatti
+Wed Nov  4 17:06:39 2015,10.1. Introduction to patterns.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,10.3. Collaborating with patterns-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,10.3. Collaborating with patterns.html,cgatti
+Wed Nov  4 17:06:39 2015,10.3. Collaborating with patterns.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,license.txt,cgatti
+Wed Nov  4 17:06:39 2015,plugin.properties,cgatti
+Wed Nov  4 17:06:39 2015,plugin.xml,cgatti
+Wed Nov  4 17:06:39 2015,Activator.java,cgatti
+Wed Nov  4 17:06:39 2015,toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,.classpath,cgatti
+Wed Nov  4 17:06:39 2015,.project,cgatti
+Wed Nov  4 17:06:39 2015,org.eclipse.core.resources.prefs,cgatti
+Wed Nov  4 17:06:39 2015,MANIFEST.MF,cgatti
+Wed Nov  4 17:06:39 2015,about.html,cgatti
+Wed Nov  4 17:06:39 2015,build.properties,cgatti
+Wed Nov  4 17:06:39 2015,6.1. Configurability and Validation Profile-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,6.1. Configurability and Validation Profile.html,cgatti
+Wed Nov  4 17:06:39 2015,6.1. Configurability and Validation Profile.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,6.2. Model preferences-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,6.2. Model preferences.html,cgatti
+Wed Nov  4 17:06:39 2015,6.2. Model preferences.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,6.3. Diagram preferences-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,6.3. Diagram preferences.html,cgatti
+Wed Nov  4 17:06:39 2015,6.3. Diagram preferences.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,6.4. Commands preferences-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,6.4. Commands preferences.html,cgatti
+Wed Nov  4 17:06:39 2015,6.4. Commands preferences.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,license.txt,cgatti
+Wed Nov  4 17:06:39 2015,plugin.properties,cgatti
+Wed Nov  4 17:06:39 2015,plugin.xml,cgatti
+Wed Nov  4 17:06:39 2015,Activator.java,cgatti
+Wed Nov  4 17:06:39 2015,toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,.classpath,cgatti
+Wed Nov  4 17:06:39 2015,.project,cgatti
+Wed Nov  4 17:06:39 2015,org.eclipse.core.resources.prefs,cgatti
+Wed Nov  4 17:06:39 2015,MANIFEST.MF,cgatti
+Wed Nov  4 17:06:39 2015,about.html,cgatti
+Wed Nov  4 17:06:39 2015,build.properties,cgatti
+Wed Nov  4 17:06:39 2015,18.01. Actor-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.01. Actor.html,cgatti
+Wed Nov  4 17:06:39 2015,18.01. Actor.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.02. Constraint-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.02. Constraint.html,cgatti
+Wed Nov  4 17:06:39 2015,18.02. Constraint.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.03. DecisionFunction-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.03. DecisionFunction.html,cgatti
+Wed Nov  4 17:06:39 2015,18.03. DecisionFunction.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.10. FunctionOutputPort-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.10. FunctionOutputPort.html,cgatti
+Wed Nov  4 17:06:39 2015,18.10. FunctionOutputPort.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.11. FunctionalChain-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.11. FunctionalChain.html,cgatti
+Wed Nov  4 17:06:39 2015,18.11. FunctionalChain.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.12. COTSCI-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.12. COTSCI.html,cgatti
+Wed Nov  4 17:06:39 2015,18.12. COTSCI.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.13. FunctionalExchange-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.13. FunctionalExchange.html,cgatti
+Wed Nov  4 17:06:39 2015,18.13. FunctionalExchange.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.14. HWCI-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.14. HWCI.html,cgatti
+Wed Nov  4 17:06:39 2015,18.14. HWCI.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.15. InteractionUse-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.15. InteractionUse.html,cgatti
+Wed Nov  4 17:06:39 2015,18.15. InteractionUse.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.16. InterfaceCI-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.16. InterfaceCI.html,cgatti
+Wed Nov  4 17:06:39 2015,18.16. InterfaceCI.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.17. JoinFunction-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.17. JoinFunction.html,cgatti
+Wed Nov  4 17:06:39 2015,18.17. JoinFunction.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.18. LogicalActor-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.18. LogicalActor.html,cgatti
+Wed Nov  4 17:06:39 2015,18.18. LogicalActor.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.19. LogicalArchitecture-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.19. LogicalArchitecture.html,cgatti
+Wed Nov  4 17:06:39 2015,18.19. LogicalArchitecture.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.20. LogicalComponent-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.20. LogicalComponent.html,cgatti
+Wed Nov  4 17:06:39 2015,18.20. LogicalComponent.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.21. LogicalFunction-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.21. LogicalFunction.html,cgatti
+Wed Nov  4 17:06:39 2015,18.21. LogicalFunction.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.22. MergeFunction-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.22. MergeFunction.html,cgatti
+Wed Nov  4 17:06:39 2015,18.22. MergeFunction.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.23. CSCI-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.23. CSCI.html,cgatti
+Wed Nov  4 17:06:39 2015,18.23. CSCI.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.24. Mission-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.24. Mission.html,cgatti
+Wed Nov  4 17:06:39 2015,18.24. Mission.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.25. Mode-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.25. Mode.html,cgatti
+Wed Nov  4 17:06:39 2015,18.25. Mode.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.26. NDICI-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.26. NDICI.html,cgatti
+Wed Nov  4 17:06:39 2015,18.26. NDICI.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.27. OperationalActivity-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.27. OperationalActivity.html,cgatti
+Wed Nov  4 17:06:39 2015,18.27. OperationalActivity.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.28. OperationalActor-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.28. OperationalActor.html,cgatti
+Wed Nov  4 17:06:39 2015,18.28. OperationalActor.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.29. OperationalAnalysis-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.29. OperationalAnalysis.html,cgatti
+Wed Nov  4 17:06:39 2015,18.29. OperationalAnalysis.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.30. OperationalCapability-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.30. OperationalCapability.html,cgatti
+Wed Nov  4 17:06:39 2015,18.30. OperationalCapability.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.31. OperationalProcess-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.31. OperationalProcess.html,cgatti
+Wed Nov  4 17:06:39 2015,18.31. OperationalProcess.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.32. Physical Link-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.32. Physical Link.html,cgatti
+Wed Nov  4 17:06:39 2015,18.32. Physical Link.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.33. PhysicalActor-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.33. PhysicalActor.html,cgatti
+Wed Nov  4 17:06:39 2015,18.33. PhysicalActor.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.34. Capability-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.34. Capability.html,cgatti
+Wed Nov  4 17:06:39 2015,18.34. Capability.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.35. PhysicalArchitecture-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.35. PhysicalArchitecture.html,cgatti
+Wed Nov  4 17:06:39 2015,18.35. PhysicalArchitecture.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.36. PhysicalComponent-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.36. PhysicalComponent.html,cgatti
+Wed Nov  4 17:06:39 2015,18.36. PhysicalComponent.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.37. PhysicalFunction-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.37. PhysicalFunction.html,cgatti
+Wed Nov  4 17:06:39 2015,18.37. PhysicalFunction.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.38. PhysicalPath-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.38. PhysicalPath.html,cgatti
+Wed Nov  4 17:06:39 2015,18.38. PhysicalPath.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,18.39. PhysicalPort-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,18.39. PhysicalPort.html,cgatti
+Wed Nov  4 17:06:39 2015,18.39. PhysicalPort.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,license.txt,cgatti
+Wed Nov  4 17:06:39 2015,plugin.properties,cgatti
+Wed Nov  4 17:06:39 2015,plugin.xml,cgatti
+Wed Nov  4 17:06:39 2015,Activator.java,cgatti
+Wed Nov  4 17:06:39 2015,toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,.classpath,cgatti
+Wed Nov  4 17:06:39 2015,.project,cgatti
+Wed Nov  4 17:06:39 2015,org.eclipse.core.resources.prefs,cgatti
+Wed Nov  4 17:06:39 2015,MANIFEST.MF,cgatti
+Wed Nov  4 17:06:39 2015,about.html,cgatti
+Wed Nov  4 17:06:39 2015,build.properties,cgatti
+Wed Nov  4 17:06:39 2015,8.1. Introduction-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,8.1. Introduction.html,cgatti
+Wed Nov  4 17:06:39 2015,8.1. Introduction.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,8.2. Basic Use Case-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,8.2. Basic Use Case.html,cgatti
+Wed Nov  4 17:06:39 2015,8.2. Basic Use Case.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,8.3. Update REC-RPL-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,8.3. Update REC-RPL.html,cgatti
+Wed Nov  4 17:06:39 2015,8.3. Update REC-RPL.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,8.4. RPL Deletion-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,8.4. RPL Deletion.html,cgatti
+Wed Nov  4 17:06:39 2015,8.4. RPL Deletion.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,8.5. RPL Validation-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,8.5. RPL Validation.html,cgatti
+Wed Nov  4 17:06:39 2015,8.5. RPL Validation.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,8.6. Advanced Features-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,8.6. Advanced Features.html,cgatti
+Wed Nov  4 17:06:39 2015,8.6. Advanced Features.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,9.1. Introduction-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,9.1. Introduction.html,cgatti
+Wed Nov  4 17:06:39 2015,9.1. Introduction.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,9.2. Basic Use Case-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,9.2. Basic Use Case.html,cgatti
+Wed Nov  4 17:06:39 2015,9.2. Basic Use Case.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,9.3. Usage With Replicable Elements-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,9.3. Usage With Replicable Elements.html,cgatti
+Wed Nov  4 17:06:39 2015,9.3. Usage With Replicable Elements.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,9.4. Usage Restrictions-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,9.4. Usage Restrictions.html,cgatti
+Wed Nov  4 17:06:39 2015,9.4. Usage Restrictions.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,license.txt,cgatti
+Wed Nov  4 17:06:39 2015,plugin.properties,cgatti
+Wed Nov  4 17:06:39 2015,plugin.xml,cgatti
+Wed Nov  4 17:06:39 2015,Activator.java,cgatti
+Wed Nov  4 17:06:39 2015,toc-LIBS.xml,cgatti
+Wed Nov  4 17:06:39 2015,toc-RE.xml,cgatti
+Wed Nov  4 17:06:39 2015,toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,.classpath,cgatti
+Wed Nov  4 17:06:39 2015,.project,cgatti
+Wed Nov  4 17:06:39 2015,org.eclipse.core.resources.prefs,cgatti
+Wed Nov  4 17:06:39 2015,MANIFEST.MF,cgatti
+Wed Nov  4 17:06:39 2015,about.html,cgatti
+Wed Nov  4 17:06:39 2015,build.properties,cgatti
+Wed Nov  4 17:06:39 2015,11.1. Concepts-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,11.1. Concepts.html,cgatti
+Wed Nov  4 17:06:39 2015,11.1. Concepts.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,11.2. Transitions Between Engineering Phases-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,11.2. Transitions Between Engineering Phases.html,cgatti
+Wed Nov  4 17:06:39 2015,11.2. Transitions Between Engineering Phases.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,11.3. Examples-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,11.3. Examples.html,cgatti
+Wed Nov  4 17:06:39 2015,11.3. Examples.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,license.txt,cgatti
+Wed Nov  4 17:06:39 2015,plugin.properties,cgatti
+Wed Nov  4 17:06:39 2015,plugin.xml,cgatti
+Wed Nov  4 17:06:39 2015,Activator.java,cgatti
+Wed Nov  4 17:06:39 2015,toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,.classpath,cgatti
+Wed Nov  4 17:06:39 2015,.project,cgatti
+Wed Nov  4 17:06:39 2015,org.eclipse.core.resources.prefs,cgatti
+Wed Nov  4 17:06:39 2015,MANIFEST.MF,cgatti
+Wed Nov  4 17:06:39 2015,about.html,cgatti
+Wed Nov  4 17:06:39 2015,build.properties,cgatti
+Wed Nov  4 17:06:39 2015,1.1. Introduction to Capella-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,1.1. Introduction to Capella.html,cgatti
+Wed Nov  4 17:06:39 2015,1.1. Introduction to Capella.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,1.2. Ecosystem-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,1.2. Ecosystem.html,cgatti
+Wed Nov  4 17:06:39 2015,1.2. Ecosystem.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,2.1. Definitions-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,2.1. Definitions.html,cgatti
+Wed Nov  4 17:06:39 2015,2.1. Definitions.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,2.2. Understanding the difference between Models Projects and Workspaces-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,2.2. Understanding the difference between Models Projects and Workspaces.html,cgatti
+Wed Nov  4 17:06:39 2015,2.2. Understanding the difference between Models Projects and Workspaces.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,3.1. Starting Capella-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,3.1. Starting Capella.html,cgatti
+Wed Nov  4 17:06:39 2015,3.1. Starting Capella.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,3.2. How to create a new Capella Project-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,3.2. How to create a new Capella Project.html,cgatti
+Wed Nov  4 17:06:39 2015,3.2. How to create a new Capella Project.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,3.3. How to import an existing Capella Project-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,3.3. How to import an existing Capella Project.html,cgatti
+Wed Nov  4 17:06:39 2015,3.3. How to import an existing Capella Project.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,3.4. How to copy or export a Capella Project-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,3.4. How to copy or export a Capella Project.html,cgatti
+Wed Nov  4 17:06:39 2015,3.4. How to copy or export a Capella Project.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,3.5. How to migrate Capella projects-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,3.5. How to migrate Capella projects.html,cgatti
+Wed Nov  4 17:06:39 2015,3.5. How to migrate Capella projects.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,3.6. How to detach viewpoints-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,3.6. How to detach viewpoints.html,cgatti
+Wed Nov  4 17:06:39 2015,3.6. How to detach viewpoints.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,3.7. How to rename a Capella Project-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,3.7. How to rename a Capella Project.html,cgatti
+Wed Nov  4 17:06:39 2015,3.7. How to rename a Capella Project.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,4.01. Capella Perspective-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,4.01. Capella Perspective.html,cgatti
+Wed Nov  4 17:06:39 2015,4.01. Capella Perspective.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,4.02. Tips and Tricks-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,4.02. Tips and Tricks.html,cgatti
+Wed Nov  4 17:06:39 2015,4.02. Tips and Tricks.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,4.03. Activity Browser-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,4.03. Activity Browser.html,cgatti
+Wed Nov  4 17:06:39 2015,4.03. Activity Browser.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,4.04. Project Explorer-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,4.04. Project Explorer.html,cgatti
+Wed Nov  4 17:06:39 2015,4.04. Project Explorer.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,4.05. Diagram Editor-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,4.05. Diagram Editor.html,cgatti
+Wed Nov  4 17:06:39 2015,4.05. Diagram Editor.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,4.06. Properties View-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,4.06. Properties View.html,cgatti
+Wed Nov  4 17:06:39 2015,4.06. Properties View.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,4.07. Semantic Browser-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,4.07. Semantic Browser.html,cgatti
+Wed Nov  4 17:06:39 2015,4.07. Semantic Browser.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,4.08. Information View-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,4.08. Information View.html,cgatti
+Wed Nov  4 17:06:39 2015,4.08. Information View.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,4.09. Outline-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,4.09. Outline.html,cgatti
+Wed Nov  4 17:06:39 2015,4.09. Outline.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,4.10. Change Recorder View-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,4.10. Change Recorder View.html,cgatti
+Wed Nov  4 17:06:39 2015,4.10. Change Recorder View.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,4.11. FastLinker-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,4.11. FastLinker.html,cgatti
+Wed Nov  4 17:06:39 2015,4.11. FastLinker.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,5.1. Diagram concepts-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,5.1. Diagram concepts.html,cgatti
+Wed Nov  4 17:06:39 2015,5.1. Diagram concepts.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,5.2. Advanced Management of Diagrams-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,5.2. Advanced Management of Diagrams.html,cgatti
+Wed Nov  4 17:06:39 2015,5.2. Advanced Management of Diagrams.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,5.3. Diagram Business Copy Paste-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,5.3. Diagram Business Copy Paste.html,cgatti
+Wed Nov  4 17:06:39 2015,5.3. Diagram Business Copy Paste.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,5.4. Typologie of Capella Diagrams-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,5.4. Typologie of Capella Diagrams.html,cgatti
+Wed Nov  4 17:06:39 2015,5.4. Typologie of Capella Diagrams.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,5.5. Creation of Functional Chains and Physical Paths-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,5.5. Creation of Functional Chains and Physical Paths.html,cgatti
+Wed Nov  4 17:06:39 2015,5.5. Creation of Functional Chains and Physical Paths.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,5.6. Diagrams Tips and Tricks-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,5.6. Diagrams Tips and Tricks.html,cgatti
+Wed Nov  4 17:06:39 2015,5.6. Diagrams Tips and Tricks.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,7.1. Modeling accelerators-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,7.1. Modeling accelerators.html,cgatti
+Wed Nov  4 17:06:39 2015,7.1. Modeling accelerators.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,7.2. Contextual Allocations-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,7.2. Contextual Allocations.html,cgatti
+Wed Nov  4 17:06:39 2015,7.2. Contextual Allocations.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,7.3. Modeling Wizards-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,7.3. Modeling Wizards.html,cgatti
+Wed Nov  4 17:06:39 2015,7.3. Modeling Wizards.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,7.4. Function Port and Exchange Item Allocation Wizard-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,7.4. Function Port and Exchange Item Allocation Wizard.html,cgatti
+Wed Nov  4 17:06:39 2015,7.4. Function Port and Exchange Item Allocation Wizard.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,7.5. Categories Management-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,7.5. Categories Management.html,cgatti
+Wed Nov  4 17:06:39 2015,7.5. Categories Management.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,12.1. Model Validation-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,12.1. Model Validation.html,cgatti
+Wed Nov  4 17:06:39 2015,12.1. Model Validation.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,12.2. Impact Analysis-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,12.2. Impact Analysis.html,cgatti
+Wed Nov  4 17:06:39 2015,12.2. Impact Analysis.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,12.3. Metrics Computation-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,12.3. Metrics Computation.html,cgatti
+Wed Nov  4 17:06:39 2015,12.3. Metrics Computation.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,12.4. Progress Monitoring-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,12.4. Progress Monitoring.html,cgatti
+Wed Nov  4 17:06:39 2015,12.4. Progress Monitoring.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,20.1. Basic Search and Replace-toc.xml,cgatti
+Wed Nov  4 17:06:39 2015,20.1. Basic Search and Replace.html,cgatti
+Wed Nov  4 17:06:39 2015,20.1. Basic Search and Replace.mediawiki,cgatti
+Wed Nov  4 17:06:39 2015,license.txt,cgatti
+Wed Nov  4 17:06:39 2015,plugin.properties,cgatti
+Wed Nov  4 17:06:39 2015,plugin.xml,cgatti
+Wed Nov  4 17:06:39 2015,Activator.java,cgatti
+Wed Nov  4 17:06:39 2015,toc-diagmt.xml,cgatti
+Wed Nov  4 17:06:39 2015,toc-fsteps.xml,cgatti
+Wed Nov  4 17:06:39 2015,toc-ma.xml,cgatti
+Wed Nov  4 17:06:39 2015,toc-overview.xml,cgatti
+Wed Nov  4 17:06:39 2015,toc-snr.xml,cgatti
+Wed Nov  4 17:06:39 2015,toc-ui.xml,cgatti
+Wed Nov  4 17:06:39 2015,toc-wbasics.xml,cgatti
+Wed Nov  4 17:06:39 2015,toc-wiz.xml,cgatti
+Wed Nov  4 17:06:39 2015,toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,Recorder-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,4.10. Change Recorder View.html,cgatti
+Thu Nov  5 16:27:37 2015,4.10. Change Recorder View.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,Model DiffMerge-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,21.1 Model DiffMerge.html,cgatti
+Thu Nov  5 16:27:37 2015,21.1 Model DiffMerge.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,Dashboard-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,4.01. Capella Perspective.html,cgatti
+Thu Nov  5 16:27:37 2015,4.01. Capella Perspective.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,4.02. Tips and Tricks.html,cgatti
+Thu Nov  5 16:27:37 2015,4.02. Tips and Tricks.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,4.03. Activity Browser.html,cgatti
+Thu Nov  5 16:27:37 2015,4.03. Activity Browser.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,4.04. Project Explorer.html,cgatti
+Thu Nov  5 16:27:37 2015,4.04. Project Explorer.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,4.05. Diagram Editor.html,cgatti
+Thu Nov  5 16:27:37 2015,4.05. Diagram Editor.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,4.08. Information View.html,cgatti
+Thu Nov  5 16:27:37 2015,4.08. Information View.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,4.09. Outline.html,cgatti
+Thu Nov  5 16:27:37 2015,4.09. Outline.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,org.eclipse.core.resources.prefs,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,Model Editors common-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,18.24. Mission.html,cgatti
+Thu Nov  5 16:27:37 2015,18.24. Mission.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.25. Mode.html,cgatti
+Thu Nov  5 16:27:37 2015,18.25. Mode.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,org.eclipse.core.resources.prefs,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,Model Editors core-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,18.02. Constraint.html,cgatti
+Thu Nov  5 16:27:37 2015,18.02. Constraint.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,org.eclipse.core.resources.prefs,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,Model Editors cs -toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,18.32. Physical Link.html,cgatti
+Thu Nov  5 16:27:37 2015,18.32. Physical Link.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.38. PhysicalPath.html,cgatti
+Thu Nov  5 16:27:37 2015,18.38. PhysicalPath.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.39. PhysicalPort.html,cgatti
+Thu Nov  5 16:27:37 2015,18.39. PhysicalPort.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,org.eclipse.core.resources.prefs,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,Model Editors ctx-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,18.01. Actor.html,cgatti
+Thu Nov  5 16:27:37 2015,18.01. Actor.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.34. Capability.html,cgatti
+Thu Nov  5 16:27:37 2015,18.34. Capability.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,org.eclipse.core.resources.prefs,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,Model Editors epbs -toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,18.12. COTSCI.html,cgatti
+Thu Nov  5 16:27:37 2015,18.12. COTSCI.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.14. HWCI.html,cgatti
+Thu Nov  5 16:27:37 2015,18.14. HWCI.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.16. InterfaceCI.html,cgatti
+Thu Nov  5 16:27:37 2015,18.16. InterfaceCI.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.23. CSCI.html,cgatti
+Thu Nov  5 16:27:37 2015,18.23. CSCI.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.26. NDICI.html,cgatti
+Thu Nov  5 16:27:37 2015,18.26. NDICI.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,org.eclipse.core.resources.prefs,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,Model Editors fa-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,18.03. DecisionFunction.html,cgatti
+Thu Nov  5 16:27:37 2015,18.03. DecisionFunction.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.10. FunctionOutputPort.html,cgatti
+Thu Nov  5 16:27:37 2015,18.10. FunctionOutputPort.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.11. FunctionalChain.html,cgatti
+Thu Nov  5 16:27:37 2015,18.11. FunctionalChain.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.13. FunctionalExchange.html,cgatti
+Thu Nov  5 16:27:37 2015,18.13. FunctionalExchange.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.17. JoinFunction.html,cgatti
+Thu Nov  5 16:27:37 2015,18.17. JoinFunction.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.22. MergeFunction.html,cgatti
+Thu Nov  5 16:27:37 2015,18.22. MergeFunction.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,org.eclipse.core.resources.prefs,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,Model Editors interaction-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,18.15. InteractionUse.html,cgatti
+Thu Nov  5 16:27:37 2015,18.15. InteractionUse.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,org.eclipse.core.resources.prefs,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,Model Editors la-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,18.18. LogicalActor.html,cgatti
+Thu Nov  5 16:27:37 2015,18.18. LogicalActor.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.19. LogicalArchitecture.html,cgatti
+Thu Nov  5 16:27:37 2015,18.19. LogicalArchitecture.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.20. LogicalComponent.html,cgatti
+Thu Nov  5 16:27:37 2015,18.20. LogicalComponent.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.21. LogicalFunction.html,cgatti
+Thu Nov  5 16:27:37 2015,18.21. LogicalFunction.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,org.eclipse.core.resources.prefs,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,Model Editors oa-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,18.27. OperationalActivity.html,cgatti
+Thu Nov  5 16:27:37 2015,18.27. OperationalActivity.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.28. OperationalActor.html,cgatti
+Thu Nov  5 16:27:37 2015,18.28. OperationalActor.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.29. OperationalAnalysis.html,cgatti
+Thu Nov  5 16:27:37 2015,18.29. OperationalAnalysis.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.30. OperationalCapability.html,cgatti
+Thu Nov  5 16:27:37 2015,18.30. OperationalCapability.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.31. OperationalProcess.html,cgatti
+Thu Nov  5 16:27:37 2015,18.31. OperationalProcess.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,org.eclipse.core.resources.prefs,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,Model Editors pa-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,18.33. PhysicalActor.html,cgatti
+Thu Nov  5 16:27:37 2015,18.33. PhysicalActor.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.35. PhysicalArchitecture.html,cgatti
+Thu Nov  5 16:27:37 2015,18.35. PhysicalArchitecture.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.36. PhysicalComponent.html,cgatti
+Thu Nov  5 16:27:37 2015,18.36. PhysicalComponent.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,18.37. PhysicalFunction.html,cgatti
+Thu Nov  5 16:27:37 2015,18.37. PhysicalFunction.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,org.eclipse.core.resources.prefs,cgatti
+Thu Nov  5 16:27:37 2015,Libraries-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,9.1. Introduction.html,cgatti
+Thu Nov  5 16:27:37 2015,9.1. Introduction.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,9.2. Basic Use Case.html,cgatti
+Thu Nov  5 16:27:37 2015,9.2. Basic Use Case.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,9.3. Usage With Replicable Elements.html,cgatti
+Thu Nov  5 16:27:37 2015,9.3. Usage With Replicable Elements.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,9.4. Usage Restrictions.html,cgatti
+Thu Nov  5 16:27:37 2015,9.4. Usage Restrictions.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,Impact Analysis-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,12.2. Impact Analysis.html,cgatti
+Thu Nov  5 16:27:37 2015,12.2. Impact Analysis.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,Preferences-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,6.1. Configurability and Validation Profile.html,cgatti
+Thu Nov  5 16:27:37 2015,6.1. Configurability and Validation Profile.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,6.2. Model preferences.html,cgatti
+Thu Nov  5 16:27:37 2015,6.2. Model preferences.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,6.3. Diagram preferences.html,cgatti
+Thu Nov  5 16:27:37 2015,6.3. Diagram preferences.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,6.4. Commands preferences.html,cgatti
+Thu Nov  5 16:27:37 2015,6.4. Commands preferences.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,Replicable Element (REC-RPL)-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,8.1. Introduction.html,cgatti
+Thu Nov  5 16:27:37 2015,8.1. Introduction.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,8.2. Basic Use Case.html,cgatti
+Thu Nov  5 16:27:37 2015,8.2. Basic Use Case.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,8.3. Update REC-RPL.html,cgatti
+Thu Nov  5 16:27:37 2015,8.3. Update REC-RPL.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,8.4. RPL Deletion.html,cgatti
+Thu Nov  5 16:27:37 2015,8.4. RPL Deletion.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,8.5. RPL Validation.html,cgatti
+Thu Nov  5 16:27:37 2015,8.5. RPL Validation.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,8.6. Advanced Features.html,cgatti
+Thu Nov  5 16:27:37 2015,8.6. Advanced Features.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,Diagram Management-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,5.1. Diagram concepts.html,cgatti
+Thu Nov  5 16:27:37 2015,5.1. Diagram concepts.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,5.2. Advanced Managenement of Diagrams.html,cgatti
+Thu Nov  5 16:27:37 2015,5.2. Advanced Managenement of Diagrams.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,5.3. Diagram Business Copy Paste.html,cgatti
+Thu Nov  5 16:27:37 2015,5.3. Diagram Business Copy Paste.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,5.4. Typologie of Capella Diagrams.html,cgatti
+Thu Nov  5 16:27:37 2015,5.4. Typologie of Capella Diagrams.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,5.5. Creation of Functional Chains and Physical Paths.html,cgatti
+Thu Nov  5 16:27:37 2015,5.5. Creation of Functional Chains and Physical Paths.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,5.6. Diagrams Tips and Tricks.html,cgatti
+Thu Nov  5 16:27:37 2015,5.6. Diagrams Tips and Tricks.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,Iterative Transitions-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,11.1. Concepts.html,cgatti
+Thu Nov  5 16:27:37 2015,11.1. Concepts.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,11.2. Transitions Between Engineering Phases.html,cgatti
+Thu Nov  5 16:27:37 2015,11.2. Transitions Between Engineering Phases.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,11.3. Examples.html,cgatti
+Thu Nov  5 16:27:37 2015,11.3. Examples.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,FastLinker-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,4.11. FastLinker.html,cgatti
+Thu Nov  5 16:27:37 2015,4.11. FastLinker.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,Metric-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,12.3. Metrics Computation.html,cgatti
+Thu Nov  5 16:27:37 2015,12.3. Metrics Computation.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,12.4. Progress Monitoring.html,cgatti
+Thu Nov  5 16:27:37 2015,12.4. Progress Monitoring.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,org.eclipse.core.resources.prefs,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,Properties-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,4.06. Properties View.html,cgatti
+Thu Nov  5 16:27:37 2015,4.06. Properties View.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,SemanticBrowser-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,4.07. Semantic Browser.html,cgatti
+Thu Nov  5 16:27:37 2015,4.07. Semantic Browser.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,org.eclipse.core.resources.prefs,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,Modelling Wizards and Accelerators-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,7.1. Modeling accelerators.html,cgatti
+Thu Nov  5 16:27:37 2015,7.1. Modeling accelerators.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,7.2. Contextual Allocations.html,cgatti
+Thu Nov  5 16:27:37 2015,7.2. Contextual Allocations.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,7.3. Modeling Wizards.html,cgatti
+Thu Nov  5 16:27:37 2015,7.3. Modeling Wizards.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,7.4 Function Port and Exchange Item Allocation Wizard.html,cgatti
+Thu Nov  5 16:27:37 2015,7.4 Function Port and Exchange Item Allocation Wizard.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,7.5. Categories Management.html,cgatti
+Thu Nov  5 16:27:37 2015,7.5. Categories Management.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,Model Validation-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,12.1. Model Validation.html,cgatti
+Thu Nov  5 16:27:37 2015,12.1. Model Validation.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Thu Nov  5 16:27:37 2015,.classpath,cgatti
+Thu Nov  5 16:27:37 2015,.project,cgatti
+Thu Nov  5 16:27:37 2015,org.eclipse.core.resources.prefs,cgatti
+Thu Nov  5 16:27:37 2015,MANIFEST.MF,cgatti
+Thu Nov  5 16:27:37 2015,System to Subsystem-Software Transition-toc.xml,cgatti
+Thu Nov  5 16:27:37 2015,about.html,cgatti
+Thu Nov  5 16:27:37 2015,build.properties,cgatti
+Thu Nov  5 16:27:37 2015,14.1. Two kinds of transitons.html,cgatti
+Thu Nov  5 16:27:37 2015,14.1. Two kinds of transitons.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,14.2. Usage instructions.html,cgatti
+Thu Nov  5 16:27:37 2015,14.2. Usage instructions.mediawiki,cgatti
+Thu Nov  5 16:27:37 2015,license.txt,cgatti
+Thu Nov  5 16:27:37 2015,plugin.properties,cgatti
+Thu Nov  5 16:27:37 2015,plugin.xml,cgatti
+Thu Nov  5 16:27:37 2015,Activator.java,cgatti
+Fri Nov  6 10:43:32 2015,feature.xml,cgatti
+Fri Nov  6 10:43:32 2015,plugin.xml,cgatti
+Fri Nov  6 10:43:32 2015,plugin.xml,cgatti
+Fri Nov  6 10:43:32 2015,plugin.xml,cgatti
+Fri Nov  6 10:43:32 2015,plugin.xml,cgatti
+Fri Nov  6 10:43:32 2015,plugin.xml,cgatti
+Fri Nov  6 10:43:32 2015,plugin.xml,cgatti
+Fri Nov  6 10:43:32 2015,plugin.xml,cgatti
+Fri Nov  6 10:43:32 2015,.classpath,cgatti
+Fri Nov  6 10:43:32 2015,.project,cgatti
+Fri Nov  6 10:43:32 2015,MANIFEST.MF,cgatti
+Fri Nov  6 10:43:32 2015,Search and Replace-toc.xml,cgatti
+Fri Nov  6 10:43:32 2015,about.html,cgatti
+Fri Nov  6 10:43:32 2015,build.properties,cgatti
+Fri Nov  6 10:43:32 2015,20.1. Basic Search & Replace.html,cgatti
+Fri Nov  6 10:43:32 2015,20.1. Basic Search & Replace.mediawiki,cgatti
+Fri Nov  6 10:43:32 2015,license.txt,cgatti
+Fri Nov  6 10:43:32 2015,plugin.properties,cgatti
+Fri Nov  6 10:43:32 2015,plugin.xml,cgatti
+Fri Nov  6 10:43:32 2015,Activator.java,cgatti
+Thu Nov 12 15:17:14 2015,.project,cgatti
+Thu Nov 12 15:17:14 2015,MANIFEST.MF,cgatti
+Thu Nov 12 15:17:14 2015,about.html,cgatti
+Thu Nov 12 15:17:14 2015,build.properties,cgatti
+Thu Nov 12 15:17:14 2015,book.css,cgatti
+Thu Nov 12 15:17:14 2015,guide.html,cgatti
+Thu Nov 12 15:17:14 2015,toc.html,cgatti
+Thu Nov 12 15:17:14 2015,plugin.properties,cgatti
+Thu Nov 12 15:17:14 2015,plugin.xml,cgatti
+Thu Nov 12 15:17:14 2015,toc.xml,cgatti
+Thu Nov 12 15:17:14 2015,tocreference.xml,cgatti
+Thu Nov 12 15:17:14 2015,.project,cgatti
+Thu Nov 12 15:17:14 2015,MANIFEST.MF,cgatti
+Thu Nov 12 15:17:14 2015,about.html,cgatti
+Thu Nov 12 15:17:14 2015,build.properties,cgatti
+Thu Nov 12 15:17:14 2015,customBuildCallbacks.xml,cgatti
+Thu Nov 12 15:17:14 2015,book.css,cgatti
+Thu Nov 12 15:17:14 2015,Actor.html,cgatti
+Thu Nov 12 15:17:14 2015,Capability.html,cgatti
+Thu Nov 12 15:17:14 2015,System.html,cgatti
+Thu Nov 12 15:17:14 2015,SystemAnalysis.html,cgatti
+Thu Nov 12 15:17:14 2015,SystemFunction.html,cgatti
+Thu Nov 12 15:17:14 2015,COTSCI.html,cgatti
+Thu Nov 12 15:17:14 2015,CSCI.html,cgatti
+Thu Nov 12 15:17:14 2015,EPBSArchitecture.html,cgatti
+Thu Nov 12 15:17:14 2015,HWCI.html,cgatti
+Thu Nov 12 15:17:14 2015,InterfaceCI.html,cgatti
+Thu Nov 12 15:17:14 2015,NDICI.html,cgatti
+Thu Nov 12 15:17:14 2015,PrimeItemCI.html,cgatti
+Thu Nov 12 15:17:14 2015,SystemCI.html,cgatti
+Thu Nov 12 15:17:14 2015,ExchangeCategory.html,cgatti
+Thu Nov 12 15:17:14 2015,FunctionInputPort.html,cgatti
+Thu Nov 12 15:17:14 2015,FunctionOutputPort.html,cgatti
+Thu Nov 12 15:17:14 2015,Class.html,cgatti
+Thu Nov 12 15:17:14 2015,LogicalActor.html,cgatti
+Thu Nov 12 15:17:14 2015,LogicalArchitecture.html,cgatti
+Thu Nov 12 15:17:14 2015,LogicalComponent.html,cgatti
+Thu Nov 12 15:17:14 2015,LogicalFunction.html,cgatti
+Thu Nov 12 15:17:14 2015,Entity.html,cgatti
+Thu Nov 12 15:17:14 2015,OperationalActivity.html,cgatti
+Thu Nov 12 15:17:14 2015,OperationalActor.html,cgatti
+Thu Nov 12 15:17:14 2015,OperationalAnalysis.html,cgatti
+Thu Nov 12 15:17:14 2015,PhysicalActor.html,cgatti
+Thu Nov 12 15:17:14 2015,PhysicalArchitecture.html,cgatti
+Thu Nov 12 15:17:14 2015,PhysicalComponent.html,cgatti
+Thu Nov 12 15:17:14 2015,PhysicalFunction.html,cgatti
+Thu Nov 12 15:17:14 2015,OverviewViewpointCapabilities.html,cgatti
+Thu Nov 12 15:17:14 2015,batch.css,cgatti
+Thu Nov 12 15:17:14 2015,batch_002.css,cgatti
+Thu Nov 12 15:17:14 2015,com.css,cgatti
+Thu Nov 12 15:17:14 2015,combined.css,cgatti
+Thu Nov 12 15:17:14 2015,confluence.css,cgatti
+Thu Nov 12 15:17:14 2015,confluence_002.css,cgatti
+Thu Nov 12 15:17:14 2015,license.txt,cgatti
+Thu Nov 12 15:17:14 2015,introduction.html,cgatti
+Thu Nov 12 15:17:14 2015,license.txt,cgatti
+Thu Nov 12 15:17:14 2015,main-action.css,cgatti
+Thu Nov 12 15:17:14 2015,toc.html,cgatti
+Thu Nov 12 15:17:14 2015,plugin.properties,cgatti
+Thu Nov 12 15:17:14 2015,plugin.xml,cgatti
+Thu Nov 12 15:17:14 2015,toc.xml,cgatti
+Thu Nov 12 15:17:14 2015,toceditors.xml,cgatti
+Thu Nov 12 15:17:14 2015,tocgettingstarted.xml,cgatti
+Thu Nov 12 15:17:14 2015,.classpath,cgatti
+Thu Nov 12 15:17:14 2015,.project,cgatti
+Thu Nov 12 15:17:14 2015,org.eclipse.jdt.core.prefs,cgatti
+Thu Nov 12 15:17:14 2015,MANIFEST.MF,cgatti
+Thu Nov 12 15:17:14 2015,about.html,cgatti
+Thu Nov 12 15:17:14 2015,build.properties,cgatti
+Thu Nov 12 15:17:14 2015,license.txt,cgatti
+Thu Nov 12 15:17:14 2015,firststeps-actions.css,cgatti
+Thu Nov 12 15:17:14 2015,firststeps-actions.properties,cgatti
+Thu Nov 12 15:17:14 2015,firststeps-doc.css,cgatti
+Thu Nov 12 15:17:14 2015,firststeps-doc.properties,cgatti
+Thu Nov 12 15:17:14 2015,firststepsExtensionContent-actions.xml,cgatti
+Thu Nov 12 15:17:14 2015,firststepsExtensionContent-doc.xml,cgatti
+Thu Nov 12 15:17:14 2015,whatsnewExtensionContent.xml,cgatti
+Thu Nov 12 15:17:14 2015,plugin.properties,cgatti
+Thu Nov 12 15:17:14 2015,plugin.xml,cgatti
+Thu Nov 12 15:17:14 2015,AbstractIntroAction.java,cgatti
+Thu Nov 12 15:17:14 2015,CreateCapellaProjectAction.java,cgatti
+Thu Nov 12 15:17:14 2015,ImportCapellaProjectAction.java,cgatti
+Thu Nov 12 15:17:14 2015,license.txt,cgatti
+Thu Nov 12 15:17:14 2015,license.txt,cgatti
+Thu Nov 12 15:17:14 2015,license.txt,cgatti
+Thu Nov 12 15:17:14 2015,license.txt,cgatti
+Thu Nov 12 15:17:14 2015,license.txt,cgatti
+Thu Nov 12 15:17:14 2015,license.txt,cgatti
+Thu Nov 12 15:17:14 2015,firststeps.css,cgatti
+Thu Nov 12 15:17:14 2015,migrate.css,cgatti
+Thu Nov 12 15:17:14 2015,overview.css,cgatti
+Thu Nov 12 15:17:14 2015,root.css,cgatti
+Thu Nov 12 15:17:14 2015,samples.css,cgatti
+Thu Nov 12 15:17:14 2015,shared.css,cgatti
+Thu Nov 12 15:17:14 2015,standby.css,cgatti
+Thu Nov 12 15:17:14 2015,tutorials.css,cgatti
+Thu Nov 12 15:17:14 2015,webresources.css,cgatti
+Thu Nov 12 15:17:14 2015,license.txt,cgatti
+Thu Nov 12 15:17:14 2015,firststeps.properties,cgatti
+Thu Nov 12 15:17:14 2015,migrate.properties,cgatti
+Thu Nov 12 15:17:14 2015,overview.properties,cgatti
+Thu Nov 12 15:17:14 2015,root.properties,cgatti
+Thu Nov 12 15:17:14 2015,samples.properties,cgatti
+Thu Nov 12 15:17:14 2015,standby.properties,cgatti
+Thu Nov 12 15:17:14 2015,tutorials.properties,cgatti
+Thu Nov 12 15:17:14 2015,webresources.properties,cgatti
+Fri Nov 13 13:26:19 2015,feature.xml,cgatti
+Fri Nov 13 13:26:19 2015,.classpath,cgatti
+Fri Nov 13 13:26:19 2015,.project,cgatti
+Fri Nov 13 13:26:19 2015,org.eclipse.jdt.core.prefs,cgatti
+Fri Nov 13 13:26:19 2015,MANIFEST.MF,cgatti
+Fri Nov 13 13:26:19 2015,about.html,cgatti
+Fri Nov 13 13:26:19 2015,build.properties,cgatti
+Fri Nov 13 13:26:19 2015,license.txt,cgatti
+Fri Nov 13 13:26:19 2015,firststeps-actions.css,cgatti
+Fri Nov 13 13:26:19 2015,firststeps-actions.properties,cgatti
+Fri Nov 13 13:26:19 2015,firststeps-doc.css,cgatti
+Fri Nov 13 13:26:19 2015,firststeps-doc.properties,cgatti
+Fri Nov 13 13:26:19 2015,firststepsExtensionContent-actions.xml,cgatti
+Fri Nov 13 13:26:19 2015,firststepsExtensionContent-doc.xml,cgatti
+Fri Nov 13 13:26:19 2015,whatsnewExtensionContent.xml,cgatti
+Fri Nov 13 13:26:19 2015,plugin.properties,cgatti
+Fri Nov 13 13:26:19 2015,plugin.xml,cgatti
+Fri Nov 13 13:26:19 2015,AbstractIntroAction.java,cgatti
+Fri Nov 13 13:26:19 2015,CreateCapellaProjectAction.java,cgatti
+Fri Nov 13 13:26:19 2015,ImportCapellaProjectAction.java,cgatti
+Fri Nov 13 13:26:19 2015,license.txt,cgatti
+Fri Nov 13 13:26:19 2015,license.txt,cgatti
+Fri Nov 13 13:26:19 2015,license.txt,cgatti
+Fri Nov 13 13:26:19 2015,license.txt,cgatti
+Fri Nov 13 13:26:19 2015,license.txt,cgatti
+Fri Nov 13 13:26:19 2015,license.txt,cgatti
+Fri Nov 13 13:26:19 2015,firststeps.css,cgatti
+Fri Nov 13 13:26:19 2015,migrate.css,cgatti
+Fri Nov 13 13:26:19 2015,overview.css,cgatti
+Fri Nov 13 13:26:19 2015,root.css,cgatti
+Fri Nov 13 13:26:19 2015,samples.css,cgatti
+Fri Nov 13 13:26:19 2015,shared.css,cgatti
+Fri Nov 13 13:26:19 2015,standby.css,cgatti
+Fri Nov 13 13:26:19 2015,tutorials.css,cgatti
+Fri Nov 13 13:26:19 2015,webresources.css,cgatti
+Fri Nov 13 13:26:19 2015,license.txt,cgatti
+Fri Nov 13 13:26:19 2015,firststeps.properties,cgatti
+Fri Nov 13 13:26:19 2015,migrate.properties,cgatti
+Fri Nov 13 13:26:19 2015,overview.properties,cgatti
+Fri Nov 13 13:26:19 2015,root.properties,cgatti
+Fri Nov 13 13:26:19 2015,samples.properties,cgatti
+Fri Nov 13 13:26:19 2015,standby.properties,cgatti
+Fri Nov 13 13:26:19 2015,tutorials.properties,cgatti
+Fri Nov 13 13:26:19 2015,webresources.properties,cgatti
+Fri Nov 13 13:26:19 2015,6.1. Configurability and Validation Profile.html,cgatti
+Fri Nov 13 13:26:19 2015,6.1. Configurability and Validation Profile.mediawiki,cgatti

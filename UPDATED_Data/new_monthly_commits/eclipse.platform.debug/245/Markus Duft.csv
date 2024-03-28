@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Mon Sep 27 10:12:53 2021,DebugCoreLaunchObject.java,Markus Duft
+Fri Oct  1 14:17:01 2021,MANIFEST.MF,Markus Duft
+Fri Oct  1 14:17:01 2021,org.eclipse.debug.ui.launchview.internal.impl.DebugCoreProvider.xml,Markus Duft
+Fri Oct  1 14:17:01 2021,org.eclipse.debug.ui.launchview.internal.model.LaunchViewModel.xml,Markus Duft
+Fri Oct  1 14:17:01 2021,IBackgroundLaunchExecutor.java,Markus Duft
+Fri Oct  1 14:17:01 2021,LaunchConfigurationViewPlugin.java,Markus Duft
+Fri Oct  1 14:17:01 2021,DebugCoreLaunchObject.java,Markus Duft
+Fri Oct  1 14:17:01 2021,DebugCoreProvider.java,Markus Duft
+Fri Oct  1 14:17:01 2021,StandaloneLaunchConfigExecutor.java,Markus Duft
+Fri Oct  1 14:17:01 2021,ILaunchModel.java,Markus Duft
+Fri Oct  1 14:17:01 2021,LaunchObjectModel.java,Markus Duft
+Fri Oct  1 14:17:01 2021,LaunchViewModel.java,Markus Duft
+Fri Oct  1 14:17:01 2021,LaunchAction.java,Markus Duft
+Fri Oct  1 14:17:01 2021,LaunchViewImpl.java,Markus Duft
+Fri Oct  1 14:17:01 2021,AbstractLaunchObjectProvider.java,Markus Duft
+Fri Oct  1 14:17:01 2021,ILaunchObject.java,Markus Duft
+Fri Oct  1 14:17:01 2021,ILaunchObjectProvider.java,Markus Duft

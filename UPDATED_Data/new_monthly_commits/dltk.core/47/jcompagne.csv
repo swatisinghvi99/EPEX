@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Mon Dec 27 16:17:04 2010,plugin.properties,jcompagne
+Mon Dec 27 16:17:04 2010,plugin.xml,jcompagne
+Mon Dec 27 16:17:04 2010,CallHierarchyViewPart.java,jcompagne
+Mon Dec 27 16:17:04 2010,DLTKUIPlugin.java,jcompagne
+Mon Dec 27 16:17:04 2010,AbstractInfoView.java,jcompagne
+Mon Dec 27 16:18:10 2010,SearchResultGroup.java,jcompagne
+Wed Dec 29 15:18:45 2010,ScriptDisplayView.java,jcompagne
+Wed Dec 29 15:18:45 2010,ScriptDebugLogView.java,jcompagne
+Wed Dec 29 15:19:00 2010,TestRunnerViewPart.java,jcompagne
+Wed Dec 29 15:19:06 2010,plugin.xml,jcompagne
+Wed Dec 29 15:19:06 2010,ContributedRefactoringAction.java,jcompagne
+Wed Dec 29 15:19:06 2010,RefactorActionGroup.java,jcompagne
+Wed Dec 29 15:19:06 2010,ScriptOutlinePage.java,jcompagne
+Wed Dec 29 15:19:06 2010,ScriptExplorerPart.java,jcompagne
+Wed Dec 29 15:19:06 2010,TypeHierarchyViewPart.java,jcompagne
+Wed Dec 29 15:19:06 2010,ContextActivator.java,jcompagne
+Wed Dec 29 15:19:06 2010,DLTKUIPlugin.java,jcompagne
+Wed Dec 29 15:19:06 2010,ScriptBrowsingPart.java,jcompagne
+Wed Dec 29 15:19:06 2010,ExtendedClassesView.java,jcompagne
+Wed Dec 29 15:19:10 2010,DLTKPerformanceViewPart.java,jcompagne
+Tue Jan 11 11:23:32 2011,CompletionProposalComparator.java,jcompagne
+Wed Jan 19 13:53:18 2011,ScriptElementLabels.java,jcompagne

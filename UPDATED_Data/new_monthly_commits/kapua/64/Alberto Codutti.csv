@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Thu Jan 27  8:29:10 2022,ServiceDAO.java,Alberto Codutti
+Thu Jan 27  8:29:12 2022,GwtKapuaDeviceModelConverter.java,Alberto Codutti
+Thu Jan 27  8:29:12 2022,GwtJobTargetServiceImpl.java,Alberto Codutti
+Thu Jan 27  8:29:12 2022,DefaultTargetReader.java,Alberto Codutti
+Thu Jan 27  8:29:12 2022,JobEngineServiceJbatch.java,Alberto Codutti
+Thu Jan 27  8:29:12 2022,KapuaJobListener.java,Alberto Codutti
+Thu Jan 27  8:29:12 2022,JobExecutions.java,Alberto Codutti
+Thu Jan 27  8:29:12 2022,Roles.java,Alberto Codutti
+Thu Jan 27  8:29:12 2022,AuthenticationServiceShiroImpl.java,Alberto Codutti
+Thu Jan 27  8:29:13 2022,JobTargetSublist.java,Alberto Codutti
+Thu Jan 27  8:29:13 2022,DefaultTargetReader.java,Alberto Codutti
+Mon Jan 31 10:40:20 2022,JobDeviceManagementTriggerManagerServiceImpl.java,Alberto Codutti
+Wed Feb  9 13:42:59 2022,KapuaSecurityBrokerFilterTest.java,Alberto Codutti
+Mon Feb 14 13:50:20 2022,DeviceTabInventoryTabBundles.java,Alberto Codutti
+Mon Feb 14 13:50:20 2022,GwtDeviceInventoryManagementServiceImpl.java,Alberto Codutti
+Mon Feb 14 13:50:20 2022,GwtInventoryBundle.java,Alberto Codutti
+Mon Feb 14 13:50:20 2022,deviceInventory.yaml,Alberto Codutti
+Mon Feb 14 13:50:20 2022,KuraInventoryBundle.java,Alberto Codutti
+Mon Feb 14 13:50:20 2022,DeviceInventoryBundle.java,Alberto Codutti
+Mon Feb 14 13:50:20 2022,DeviceInventoryBundleImpl.java,Alberto Codutti
+Mon Feb 14 13:50:20 2022,TranslatorAppInventoryBundleExecKapuaKura.java,Alberto Codutti
+Mon Feb 14 13:50:20 2022,AbstractTranslatorAppInventoryKuraKapua.java,Alberto Codutti

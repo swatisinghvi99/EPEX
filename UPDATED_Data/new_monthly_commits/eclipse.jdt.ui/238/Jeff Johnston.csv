@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Fri Feb  5 21:38:41 2021,FlowAnalyzer.java,Jeff Johnston
+Fri Feb  5 21:38:41 2021,A_test327.java,Jeff Johnston
+Fri Feb  5 21:38:41 2021,A_test327.java,Jeff Johnston
+Fri Feb  5 21:38:41 2021,ExtractMethodTests1d8.java,Jeff Johnston
+Thu Feb 11 18:54:43 2021,CodeCompletionTest1d8.java,Jeff Johnston
+Thu Feb 11 18:54:43 2021,JavaMethodCompletionProposal.java,Jeff Johnston
+Sat Feb 13  0:17:14 2021,ASTNodes.java,Jeff Johnston
+Sat Feb 13  0:17:14 2021,TestWithThrows2.java,Jeff Johnston
+Sat Feb 13  0:17:14 2021,TestWithThrows2.java,Jeff Johnston
+Sat Feb 13  0:17:14 2021,SurroundWithResourcesTests1d8.java,Jeff Johnston
+Sat Feb 13  0:17:14 2021,AssistQuickFixTest1d8.java,Jeff Johnston
+Sat Feb 13  0:17:14 2021,SurroundWithTryWithResourcesAnalyzer.java,Jeff Johnston
+Sat Feb 13  0:17:14 2021,SurroundWithTryWithResourcesRefactoring.java,Jeff Johnston
+Sat Feb 13  0:17:14 2021,QuickAssistProcessor.java,Jeff Johnston
+Sat Feb 13  0:17:14 2021,AssignToVariableAssistProposal.java,Jeff Johnston
+Mon Feb 22 16:16:34 2021,TestWithThrows3.java,Jeff Johnston
+Mon Feb 22 16:16:34 2021,TestWithThrows3.java,Jeff Johnston
+Mon Feb 22 16:16:34 2021,SurroundWithResourcesTests1d8.java,Jeff Johnston
+Mon Feb 22 16:16:34 2021,AssistQuickFixTest1d8.java,Jeff Johnston
+Mon Feb 22 16:16:34 2021,SurroundWithTryWithResourcesAnalyzer.java,Jeff Johnston

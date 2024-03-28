@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Wed Nov  3 17:04:40 2004,BenchmarkTest.java,Jean Michel-Lemieux
+Wed Nov  3 17:04:40 2004,BenchmarkTestSetup.java,Jean Michel-Lemieux
+Wed Nov  3 17:04:40 2004,SyncTests.java,Jean Michel-Lemieux
+Wed Nov  3 17:04:40 2004,WorkflowTests.java,Jean Michel-Lemieux
+Fri Nov 19 20:53:44 2004,connectionmethods.exsd,Jean Michel-Lemieux
+Fri Nov 19 20:53:44 2004,LogListener.java,Jean Michel-Lemieux
+Fri Nov 19 20:53:44 2004,configurationWizards.exsd,Jean Michel-Lemieux
+Fri Nov 19 20:53:44 2004,synchronizeParticipants.exsd,Jean Michel-Lemieux
+Fri Nov 19 20:53:44 2004,synchronizeWizards.exsd,Jean Michel-Lemieux
+Wed Nov 24 18:21:52 2004,messages.properties,Jean Michel-Lemieux
+Wed Nov 24 18:21:52 2004,SharingWizardSyncPage.java,Jean Michel-Lemieux
+Wed Nov 24 18:21:52 2004,ParticipantPageSaveablePart.java,Jean Michel-Lemieux

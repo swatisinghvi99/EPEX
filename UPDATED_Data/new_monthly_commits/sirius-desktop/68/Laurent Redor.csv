@@ -1,0 +1,34 @@
+date_time,file,committer_name
+Tue Apr  9 13:48:11 2019,DiagramDialectUIServices.java,Laurent Redor
+Tue Apr  9 13:48:13 2019,DCompartmentConnectionRefreshMgr.java,Laurent Redor
+Tue Apr  9 13:48:16 2019,My.aird,Laurent Redor
+Tue Apr  9 13:48:16 2019,My.ecore,Laurent Redor
+Tue Apr  9 13:48:16 2019,compartments.odesign,Laurent Redor
+Tue Apr  9 13:48:16 2019,ICompartmentTests.java,Laurent Redor
+Tue Apr  9 13:48:16 2019,CheckEditPartResized.java,Laurent Redor
+Tue Apr  9 13:48:16 2019,CompartmentsCreationTest.java,Laurent Redor
+Tue Apr  9 13:48:18 2019,CompartmentsTest.java,Laurent Redor
+Tue Apr  9 13:48:18 2019,AllTestSuite.java,Laurent Redor
+Tue Apr  9 13:53:04 2019,DRepresentationLocationManagerTest.java,Laurent Redor
+Tue Apr  9 13:58:49 2019,RegionResizableEditPolicy.java,Laurent Redor
+Tue Apr  9 13:58:49 2019,EditPartQuery.java,Laurent Redor
+Tue Apr  9 13:58:49 2019,Release_Notes.html,Laurent Redor
+Tue Apr  9 13:58:49 2019,Release_Notes.textile,Laurent Redor
+Tue Apr  9 13:58:49 2019,Sirius Developer Manual.html,Laurent Redor
+Tue Apr  9 13:58:49 2019,Sirius Developer Manual.textile,Laurent Redor
+Tue Apr  9 13:58:49 2019,trigger-refresh-graphical-changes.html,Laurent Redor
+Tue Apr  9 13:58:49 2019,trigger-refresh-graphical-changes.textile,Laurent Redor
+Tue Apr  9 13:58:49 2019,toc.xml,Laurent Redor
+Tue Apr  9 13:58:49 2019,plugin.properties,Laurent Redor
+Tue Apr  9 13:58:49 2019,RefreshEditorsPrecommitListener.java,Laurent Redor
+Tue Apr  9 13:58:49 2019,RefreshHelper.java,Laurent Redor
+Tue Apr  9 13:58:49 2019,Messages.java,Laurent Redor
+Tue Apr  9 14:05:06 2019,RefreshHelper.java,Laurent Redor
+Tue Apr  9 14:11:04 2019,MANIFEST.MF,Laurent Redor
+Tue Apr  9 14:11:04 2019,component.odesign,Laurent Redor
+Tue Apr  9 14:11:04 2019,ComponentServices.java,Laurent Redor
+Tue Apr  9 14:11:04 2019,My.component,Laurent Redor
+Tue Apr  9 14:11:04 2019,representations.aird,Laurent Redor
+Tue Apr  9 14:11:04 2019,CompartmentsWithComponentTest.java,Laurent Redor
+Tue Apr  9 14:11:04 2019,AllTestSuite.java,Laurent Redor
+Mon Apr 29  6:33:09 2019,FilteredCommonTree.java,Laurent Redor

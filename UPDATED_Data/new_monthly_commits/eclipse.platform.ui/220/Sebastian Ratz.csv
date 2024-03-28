@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Mon Aug  5  5:56:49 2019,CompatibilityPart.java,Sebastian Ratz
+Mon Aug  5  6:55:48 2019,MultiPageEditorPart.java,Sebastian Ratz
+Mon Aug  5  6:55:48 2019,MultiPageEditorPartTest.java,Sebastian Ratz
+Mon Aug  5  6:55:48 2019,MultiPageEditorTestSuite.java,Sebastian Ratz
+Mon Aug  5  6:55:48 2019,TestMultiPageEditorThrowingPartInitException.java,Sebastian Ratz
+Mon Aug  5  6:55:48 2019,plugin.xml,Sebastian Ratz
+Mon Aug  5 12:08:38 2019,HandlerActivation.java,Sebastian Ratz
+Mon Aug  5 12:08:38 2019,HandlerActivationTest.java,Sebastian Ratz
+Mon Aug  5 15:50:39 2019,UiTestSuite.java,Sebastian Ratz
+Mon Aug  5 15:50:39 2019,CommandsTestSuite.java,Sebastian Ratz
+Tue Aug  6 10:48:01 2019,WorkbenchPlugin.java,Sebastian Ratz
+Tue Aug  6 10:48:01 2019,StatusUtil.java,Sebastian Ratz
+Tue Aug  6 10:48:01 2019,AdvancedValidationUserApprover.java,Sebastian Ratz
+Tue Aug  6 10:48:01 2019,OperationHistoryActionHandler.java,Sebastian Ratz
+Mon Aug 12 17:53:24 2019,Bug73756Test.java,Sebastian Ratz
+Mon Aug 12 17:53:24 2019,CommandsTestSuite.java,Sebastian Ratz
+Mon Aug 12 17:53:24 2019,StatusHandlingTestSuite.java,Sebastian Ratz
+Mon Aug 12 17:53:24 2019,TestStatusHandler.java,Sebastian Ratz
+Mon Aug 12 17:53:24 2019,WizardsStatusHandlingTestCase.java,Sebastian Ratz
+Mon Aug 12 17:53:24 2019,plugin.xml,Sebastian Ratz

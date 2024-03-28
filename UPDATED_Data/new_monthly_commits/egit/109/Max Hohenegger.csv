@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Mon Oct 15 18:19:31 2018,AbstractPublishHandler.java,Max Hohenegger
+Mon Oct 15 18:19:31 2018,FeatureTrackHandler.java,Max Hohenegger
+Wed Oct 17  8:29:54 2018,FeatureStartOperationDivergingTest.java,Max Hohenegger
+Wed Oct 17  8:29:54 2018,FeatureStartHandler.java,Max Hohenegger
+Wed Oct 17  8:29:54 2018,GitFlowConfig.java,Max Hohenegger
+Wed Oct 17  8:29:54 2018,FeatureStartOperation.java,Max Hohenegger
+Sun Oct 21  9:55:58 2018,FeatureStartOperation.java,Max Hohenegger
+Sun Oct 21  9:55:58 2018,FeatureTrackOperation.java,Max Hohenegger
+Sun Oct 21  9:55:58 2018,GitFlowOperation.java,Max Hohenegger
+Tue Oct 23 12:57:41 2018,FeatureStartOperationTest.java,Max Hohenegger

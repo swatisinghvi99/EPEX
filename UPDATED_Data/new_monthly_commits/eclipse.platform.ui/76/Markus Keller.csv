@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Mon Aug  6 18:58:57 2007,RefactoringCoreMessages.java,Markus Keller
+Mon Aug  6 18:58:57 2007,RefactoringCoreMessages.properties,Markus Keller
+Mon Aug  6 18:58:57 2007,RefactoringSessionReader.java,Markus Keller
+Mon Aug  6 18:58:57 2007,DefaultRefactoringDescriptor.java,Markus Keller
+Mon Aug  6 18:58:57 2007,RefactoringHistoryManager.java,Markus Keller
+Mon Aug  6 18:58:57 2007,RefactoringHistoryService.java,Markus Keller
+Mon Aug  6 18:58:57 2007,RefactoringHistoryMerger.java,Markus Keller
+Mon Aug  6 18:58:57 2007,CreateRefactoringScriptWizard.java,Markus Keller
+Mon Aug  6 18:58:57 2007,ScriptingMessages.java,Markus Keller
+Mon Aug  6 18:58:57 2007,ScriptingMessages.properties,Markus Keller
+Wed Aug  8 11:01:51 2007,RefactoringCoreMessages.java,Markus Keller
+Wed Aug  8 11:01:51 2007,RefactoringCoreMessages.properties,Markus Keller
+Wed Aug  8 11:01:51 2007,RefactoringSessionReader.java,Markus Keller
+Wed Aug  8 11:01:51 2007,RefactoringHistoryManager.java,Markus Keller
+Wed Aug  8 16:04:19 2007,RefactoringSessionReader.java,Markus Keller
+Thu Aug  9 10:09:53 2007,RefactoringHistoryManager.java,Markus Keller
+Fri Aug 10  9:23:36 2007,BrowseRefactoringHistoryContentProvider.java,Markus Keller
+Tue Aug 14 13:38:22 2007,RefactoringSessionReader.java,Markus Keller
+Tue Aug 14 13:38:22 2007,CreateRefactoringScriptWizard.java,Markus Keller
+Tue Aug 14 15:11:16 2007,RefactoringScriptLocationControl.java,Markus Keller
+Tue Aug 14 15:30:58 2007,CreateRefactoringScriptWizard.java,Markus Keller
+Mon Aug 20  9:41:13 2007,ExampleRefactoringConfigurationPage.java,Markus Keller
+Mon Aug 20 10:07:17 2007,AbstractChangeNode.java,Markus Keller

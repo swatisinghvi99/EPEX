@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Mon Aug  6 20:45:37 2007,AbstractPane.java,Ted Williams
+Mon Aug  6 20:45:37 2007,AddressPane.java,Ted Williams
+Mon Aug  6 20:45:37 2007,DataPane.java,Ted Williams
+Mon Aug  6 20:45:37 2007,Rendering.java,Ted Williams
+Mon Aug  6 20:45:37 2007,TextPane.java,Ted Williams
+Mon Aug  6 20:45:37 2007,TraditionalRendering.java,Ted Williams
+Mon Aug  6 20:45:37 2007,TraditionalRendering_messages.properties,Ted Williams
+Wed Aug  8  5:09:17 2007,DataPane.java,Ted Williams
+Wed Aug  8  5:09:17 2007,Rendering.java,Ted Williams
+Wed Aug  8  5:09:17 2007,TraditionalRendering.java,Ted Williams
+Tue Aug 14 23:29:33 2007,VMCacheRefreshAlways.java,Ted Williams
+Tue Aug 14 23:29:33 2007,VMCacheRefreshManual.java,Ted Williams
+Tue Aug 14 23:29:33 2007,VMCacheRefreshOnBreak.java,Ted Williams
+Tue Aug 14 23:29:33 2007,RefreshAlwaysActionDelegate.java,Ted Williams
+Tue Aug 14 23:29:33 2007,RefreshManualActionDelegate.java,Ted Williams
+Tue Aug 14 23:29:33 2007,RefreshOnBreakActionDelegate.java,Ted Williams
+Tue Aug 14 23:29:33 2007,VMCache.java,Ted Williams

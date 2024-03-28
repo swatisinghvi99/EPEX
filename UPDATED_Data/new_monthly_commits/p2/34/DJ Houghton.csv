@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Wed Oct 15 21:24:49 2008,MirrorApplication.java,DJ Houghton
+Wed Oct 15 21:24:49 2008,Mirroring.java,DJ Houghton
+Wed Oct 15 21:24:49 2008,Messages.java,DJ Houghton
+Wed Oct 15 21:24:49 2008,messages.properties,DJ Houghton
+Wed Oct 15 21:37:10 2008,ArtifactMirrorApplicationTest.java,DJ Houghton
+Thu Oct 16 21:02:03 2008,AbstractReconcilerTest.java,DJ Houghton
+Mon Oct 20 15:50:02 2008,AbstractReconcilerTest.java,DJ Houghton
+Tue Oct 21 15:53:12 2008,ConfigurationTests.java,DJ Houghton
+Wed Oct 22 20:08:41 2008,ProfileSynchronizer.java,DJ Houghton
+Fri Oct 31 14:29:50 2008,MetadataMirrorApplicationTest.java,DJ Houghton
+Wed Nov  5 20:37:02 2008,Activator.java,DJ Houghton
+Fri Nov  7 18:22:39 2008,AbstractReconcilerTest.java,DJ Houghton
+Fri Nov  7 18:38:35 2008,AbstractReconcilerTest.java,DJ Houghton

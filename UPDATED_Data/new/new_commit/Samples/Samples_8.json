@@ -1,0 +1,32 @@
+[
+    [
+        "ndr_brt",
+        "java",
+        4
+    ],
+    [
+        "ndr_brt",
+        "md",
+        5
+    ],
+    [
+        "ndr_brt",
+        "yml",
+        1
+    ],
+    [
+        "ndr_brt",
+        "toml",
+        1
+    ],
+    [
+        "ndr_brt",
+        "json",
+        1
+    ],
+    [
+        "dependabot[bot]",
+        "kts",
+        14
+    ]
+]

@@ -1,0 +1,5 @@
+date_time,file,committer_name
+Fri Oct 27 14:22:28 2023,UserRepository.java,angelo.andreussi
+Fri Oct 27 14:22:28 2023,UserCachedRepository.java,angelo.andreussi
+Fri Oct 27 14:22:28 2023,UserImplJpaRepository.java,angelo.andreussi
+Fri Oct 27 14:22:28 2023,UserServiceImpl.java,angelo.andreussi

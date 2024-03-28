@@ -1,0 +1,34 @@
+date_time,file,committer_name
+Mon Oct 27 20:47:51 2008,org.eclipse.jdt.core.prefs,Martin Lippert
+Mon Oct 27 20:47:51 2008,All OSGi Tests (AOSGi).launch,Martin Lippert
+Mon Oct 27 20:47:51 2008,MANIFEST.MF,Martin Lippert
+Mon Oct 27 20:47:51 2008,ISupplementerRegistry.java,Martin Lippert
+Mon Oct 27 20:47:51 2008,AspectJAdaptorFactory.java,Martin Lippert
+Mon Oct 27 20:47:51 2008,AbstractAJBundleFile.java,Martin Lippert
+Mon Oct 27 20:47:51 2008,AbstractAspectJHook.java,Martin Lippert
+Mon Oct 27 20:47:51 2008,AspectJBundleFile.java,Martin Lippert
+Mon Oct 27 20:47:51 2008,AspectJHook.java,Martin Lippert
+Mon Oct 27 20:47:51 2008,AspectJStorageHook.java,Martin Lippert
+Mon Oct 27 20:47:51 2008,BaseAjBundleFile.java,Martin Lippert
+Mon Oct 27 20:47:51 2008,BundleAdaptorProvider.java,Martin Lippert
+Mon Oct 27 20:47:51 2008,IAdaptorProvider.java,Martin Lippert
+Mon Oct 27 20:47:51 2008,SupplementBundleListener.java,Martin Lippert
+Mon Oct 27 20:47:51 2008,Supplementer.java,Martin Lippert
+Mon Oct 27 20:47:51 2008,SupplementerRegistry.java,Martin Lippert
+Mon Oct 27 20:47:51 2008,WeavingLoaderDelegateHook.java,Martin Lippert
+Mon Oct 27 21:22:02 2008,AspectJAdaptor.java,Martin Lippert
+Mon Oct 27 21:22:02 2008,IAspectJAdaptor.java,Martin Lippert
+Mon Oct 27 21:22:02 2008,AspectJHook.java,Martin Lippert
+Sat Nov  1 20:40:06 2008,AspectJAdaptorFactory.java,Martin Lippert
+Fri Nov 21 20:34:00 2008,org.eclipse.jdt.core.prefs,Martin Lippert
+Fri Nov 21 20:34:00 2008,MANIFEST.MF,Martin Lippert
+Fri Nov 21 20:34:00 2008,WeavingServicePlugin.java,Martin Lippert
+Fri Nov 21 20:34:00 2008,AspectDefinitionRegistry.java,Martin Lippert
+Fri Nov 21 20:34:00 2008,OSGiWeavingAdaptor.java,Martin Lippert
+Fri Nov 21 20:34:00 2008,OSGiWeavingContext.java,Martin Lippert
+Fri Nov 21 21:07:48 2008,AspectJBundleFile.java,Martin Lippert
+Tue Nov 25 20:11:09 2008,WeavingService.java,Martin Lippert
+Tue Nov 25 20:11:09 2008,WeavingServiceFactory.java,Martin Lippert
+Tue Nov 25 20:11:09 2008,AspectDefinitionRegistry.java,Martin Lippert
+Tue Nov 25 20:11:09 2008,OSGiWeavingAdaptor.java,Martin Lippert
+Tue Nov 25 20:11:09 2008,OSGiWeavingContext.java,Martin Lippert

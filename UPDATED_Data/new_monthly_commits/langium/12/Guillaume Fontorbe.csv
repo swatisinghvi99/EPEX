@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Thu Feb 17 12:17:41 2022,default-module.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,completion-provider.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,document-highlighter.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,document-symbol-provider.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,folding-range-provider.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,goto.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,hover-provider.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,reference-finder.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,rename-refactoring.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,value-converter.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,linker.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,naming.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,references.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,scope.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,json-serializer.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,document-validator.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,validation-registry.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,ast-descriptions.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,ast-node-locator.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,document-builder.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,documents.ts,Guillaume Fontorbe
+Thu Feb 17 12:17:41 2022,workspace-manager.ts,Guillaume Fontorbe

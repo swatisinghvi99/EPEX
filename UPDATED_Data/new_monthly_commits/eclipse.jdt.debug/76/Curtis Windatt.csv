@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Aug 20 15:10:09 2007,LibraryStandin.java,Curtis Windatt
+Fri Aug 24 17:52:38 2007,LaunchingMessages.java,Curtis Windatt
+Fri Aug 24 17:52:38 2007,LaunchingMessages.properties,Curtis Windatt
+Fri Aug 24 17:52:38 2007,SocketListenConnector.java,Curtis Windatt
+Fri Aug 24 17:52:38 2007,SocketListenConnectorProcess.java,Curtis Windatt
+Fri Aug 24 17:52:38 2007,IJavaLaunchConfigurationConstants.java,Curtis Windatt
+Fri Aug 24 17:52:38 2007,plugin.xml,Curtis Windatt
+Mon Aug 27 17:01:48 2007,JavaRemoteApplicationLaunchConfigurationDelegate.java,Curtis Windatt
+Mon Aug 27 17:01:48 2007,SocketListenConnectorProcess.java,Curtis Windatt
+Mon Aug 27 17:01:48 2007,IJavaLaunchConfigurationConstants.java,Curtis Windatt
+Mon Aug 27 17:03:33 2007,AbstractDebugTest.java,Curtis Windatt
+Mon Aug 27 17:03:33 2007,ManualSuite.java,Curtis Windatt
+Mon Aug 27 17:03:33 2007,RemoteJavaApplicationTests.java,Curtis Windatt
+Wed Aug 29 14:08:18 2007,LibraryStandin.java,Curtis Windatt
+Wed Aug 29 16:16:56 2007,SocketListenConnectorProcess.java,Curtis Windatt
+Wed Sep  5 21:00:32 2007,JDIModelPresentation.java,Curtis Windatt
+Wed Sep  5 21:00:32 2007,JavaSnippetEditor.java,Curtis Windatt
+Mon Sep 10 15:00:43 2007,plugin.properties,Curtis Windatt
+Mon Sep 10 15:00:43 2007,plugin.xml,Curtis Windatt
+Mon Sep 10 15:00:43 2007,DisplayView.java,Curtis Windatt
+Wed Sep 12 15:25:17 2007,SourceBasedSourceGenerator.java,Curtis Windatt

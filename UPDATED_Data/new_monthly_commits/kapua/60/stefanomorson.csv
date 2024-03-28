@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Thu Sep 23  8:27:05 2021,pom.xml,stefanomorson
+Thu Sep 23  8:27:05 2021,AbstractKapuaModule.java,stefanomorson
+Thu Sep 23  8:27:05 2021,GuiceLocatorImpl.java,stefanomorson
+Thu Sep 23  8:27:05 2021,KapuaModule.java,stefanomorson
+Thu Sep 23  8:27:05 2021,LocatorConfig.java,stefanomorson
+Thu Sep 23  8:27:05 2021,GuiceLocatorImplTest.java,stefanomorson
+Thu Sep 23  8:27:05 2021,FactoryAImpl.java,stefanomorson
+Thu Sep 23  8:27:05 2021,FactoryBImpl.java,stefanomorson
+Thu Sep 23  8:27:05 2021,FactoryD.java,stefanomorson
+Thu Sep 23  8:27:05 2021,GuiceLocatorModule.java,stefanomorson
+Thu Sep 23  8:27:05 2021,GuiceServiceModule.java,stefanomorson
+Thu Sep 23  8:27:05 2021,ServiceBImpl.java,stefanomorson
+Thu Sep 23  8:27:05 2021,ServiceD.java,stefanomorson
+Thu Sep 23  8:27:05 2021,ServiceE.java,stefanomorson
+Thu Sep 23  8:27:05 2021,ServiceEImpl.java,stefanomorson
+Thu Sep 23  8:27:05 2021,locator.xml,stefanomorson
+Thu Sep 23  8:27:05 2021,KapuaProvider.java,stefanomorson

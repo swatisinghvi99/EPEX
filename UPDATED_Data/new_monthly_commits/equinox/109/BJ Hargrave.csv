@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Thu Dec  6 15:13:00 2012,ModuleContainer.java,BJ Hargrave
+Thu Dec  6 15:13:00 2012,ModuleDatabase.java,BJ Hargrave
+Thu Dec  6 15:13:00 2012,ModuleWiring.java,BJ Hargrave
+Thu Dec  6 15:13:00 2012,Storage.java,BJ Hargrave
+Wed Dec 12 20:39:52 2012,EquinoxBundle.java,BJ Hargrave
+Wed Dec 12 20:39:52 2012,EquinoxBundle.java,BJ Hargrave
+Wed Dec 12 20:39:52 2012,MANIFEST.MF,BJ Hargrave
+Wed Dec 12 20:39:52 2012,DTO.java,BJ Hargrave
+Wed Dec 12 20:39:52 2012,BundleDTO.java,BJ Hargrave
+Wed Dec 12 20:39:52 2012,FrameworkDTO.java,BJ Hargrave
+Wed Dec 12 20:39:52 2012,ServiceReferenceDTO.java,BJ Hargrave
+Wed Dec 12 20:39:52 2012,BundleStartLevelDTO.java,BJ Hargrave
+Wed Dec 12 20:39:52 2012,FrameworkStartLevelDTO.java,BJ Hargrave
+Wed Dec 12 20:39:52 2012,BundleRevisionDTO.java,BJ Hargrave
+Wed Dec 12 20:39:52 2012,BundleRevisionsDTO.java,BJ Hargrave
+Wed Dec 12 20:39:52 2012,BundleWireDTO.java,BJ Hargrave
+Wed Dec 12 20:39:52 2012,BundleWiringDTO.java,BJ Hargrave
+Wed Dec 12 20:39:52 2012,BundleWiringsDTO.java,BJ Hargrave
+Wed Dec 12 20:39:52 2012,CapabilityDTO.java,BJ Hargrave
+Wed Dec 12 20:39:52 2012,RequirementDTO.java,BJ Hargrave
+Wed Dec 12 20:39:52 2012,ResourceDTO.java,BJ Hargrave
+Wed Dec 12 20:39:52 2012,WireDTO.java,BJ Hargrave
+Wed Dec 12 20:39:52 2012,WiringDTO.java,BJ Hargrave
+Wed Dec 12 20:41:13 2012,DTOBuilder.java,BJ Hargrave
+Wed Dec 12 20:41:13 2012,EquinoxBundle.java,BJ Hargrave
+Wed Dec 12 20:41:13 2012,EquinoxConfiguration.java,BJ Hargrave

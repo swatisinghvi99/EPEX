@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Thu Oct  3 16:56:26 2019,CPListElement.java,Stephan Herrmann
+Thu Oct  3 16:56:26 2019,ModuleDependenciesAdapter.java,Stephan Herrmann
+Thu Oct  3 16:56:26 2019,ModuleSelectionDialog.java,Stephan Herrmann
+Sun Oct  6 11:55:57 2019,MANIFEST.MF,Stephan Herrmann
+Sun Oct  6 11:55:57 2019,PreferencesMessages.java,Stephan Herrmann
+Sun Oct  6 11:55:57 2019,PreferencesMessages.properties,Stephan Herrmann
+Sun Oct  6 11:55:57 2019,ProblemSeveritiesConfigurationBlock.java,Stephan Herrmann
+Sun Oct  6 11:55:57 2019,ConfigureProblemSeveritySubProcessor.java,Stephan Herrmann
+Sun Oct  6 12:05:47 2019,BindingLabels18Test.java,Stephan Herrmann
+Tue Oct 15 19:36:34 2019,NewWizardMessages.java,Stephan Herrmann
+Tue Oct 15 19:36:34 2019,NewWizardMessages.properties,Stephan Herrmann
+Tue Oct 15 19:36:34 2019,ModuleDependenciesPage.java,Stephan Herrmann
+Thu Oct 17 13:32:07 2019,ModuleSelectionDialog.java,Stephan Herrmann
+Sun Oct 20 10:23:59 2019,ModulePatchSourceSelectionDialog.java,Stephan Herrmann

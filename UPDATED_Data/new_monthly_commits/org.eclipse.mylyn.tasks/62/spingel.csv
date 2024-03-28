@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Thu Jul 22 23:33:41 2010,BugzillaRepositoryConnectorTest.java,spingel
+Thu Jul 22 23:33:41 2010,AbstractTask.java,spingel
+Tue Jul 27 20:43:32 2010,TaskListView.java,spingel
+Thu Jul 29  0:19:35 2010,AbstractTableSorter.java,spingel
+Thu Jul 29  0:33:43 2010,AttachmentTableLabelProvider.java,spingel
+Thu Jul 29  0:33:43 2010,Messages.java,spingel
+Thu Jul 29  0:33:43 2010,TaskEditorAttachmentPart.java,spingel
+Thu Jul 29  0:33:43 2010,messages.properties,spingel
+Thu Jul 29  1:29:03 2010,TaskListSorterTest.java,spingel
+Thu Jul 29  1:29:03 2010,TaskComparator.java,spingel
+Thu Jul 29  2:03:52 2010,TaskEditorAttachmentPart.java,spingel
+Thu Jul 29  4:31:55 2010,BugzillaRepositoryConnector.java,spingel
+Thu Jul 29  4:31:55 2010,AllBugzillaTests.java,spingel
+Thu Jul 29  4:31:55 2010,BugzillaPriorityTest.java,spingel
+Thu Jul 29  4:31:55 2010,BugzillaRepositoryConnectorStandaloneTest.java,spingel
+Thu Jul 29 16:26:37 2010,TaskComparator.java,spingel
+Fri Jul 30 22:36:13 2010,Messages.java,spingel
+Fri Jul 30 22:36:13 2010,SortCriterion.java,spingel
+Fri Jul 30 22:36:13 2010,TaskComparator.java,spingel
+Fri Jul 30 22:36:13 2010,messages.properties,spingel
+Fri Jul 30 23:02:44 2010,GradientDrawer.java,spingel

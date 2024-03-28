@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Tue Nov 21  7:24:40 2023,BusinessPartnerBuildService.kt,rschneider
+Tue Nov 21  7:24:40 2023,MetadataService.kt,rschneider
+Tue Nov 21  7:24:40 2023,RequestValidationService.kt,rschneider
+Tue Nov 21  7:24:40 2023,TaskStepFetchAndReserveService.kt,rschneider
+Tue Nov 21  7:24:40 2023,RequestValidationServiceTest.kt,rschneider
+Wed Dec  6  6:47:29 2023,Project.xml,rschneider
+Wed Dec  6  6:47:29 2023,CollectionUtils.kt,rschneider
+Wed Dec  6  6:47:29 2023,CollectionUtilsKtTest.kt,rschneider
+Wed Dec  6  6:47:29 2023,BusinessPartnerBuildService.kt,rschneider
+Wed Dec  6  6:47:29 2023,RequestValidationService.kt,rschneider
+Wed Dec  6  6:47:29 2023,TaskStepFetchAndReserveService.kt,rschneider
+Wed Dec  6  6:47:29 2023,AddressControllerIT.kt,rschneider
+Wed Dec  6  6:47:29 2023,LegalEntityControllerIT.kt,rschneider
+Wed Dec  6  6:47:29 2023,RequestValidationServiceTest.kt,rschneider
+Wed Dec  6  6:47:29 2023,TaskStepFetchAndReserveServiceTest.kt,rschneider
+Wed Dec  6  6:47:29 2023,BusinessPartnerNonVerboseValues.kt,rschneider
+Wed Dec  6  6:47:29 2023,TestHelpers.kt,rschneider
+Thu Dec  7 12:10:12 2023,RequestValidationService.kt,rschneider
+Thu Dec  7 12:10:12 2023,TaskStepFetchAndReserveServiceTest.kt,rschneider

@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Wed Jan 24  9:14:56 2024,ComponentActivationAnnotation.java,Andrey Loskutov
+Sun Jan 28 13:46:12 2024,PreferenceInitializer.java,Andrey Loskutov
+Mon Jan 29 14:24:19 2024,ApiBaselineManager.java,Andrey Loskutov
+Mon Jan 29 14:24:19 2024,ApiAnalysisBuilder.java,Andrey Loskutov
+Tue Jan 30 21:13:21 2024,ApiBaselineManager.java,Andrey Loskutov
+Tue Jan 30 21:13:21 2024,ApiBaseline.java,Andrey Loskutov
+Tue Jan 30 21:13:21 2024,ApiComparator.java,Andrey Loskutov
+Tue Jan 30 21:13:21 2024,Util.java,Andrey Loskutov

@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Mon Feb 25 18:10:27 2008,AssembleConfigScriptGenerator.java,Andrew Niefer
+Mon Feb 25 19:55:01 2008,BundleHelper.java,Andrew Niefer
+Mon Feb 25 19:55:01 2008,PDEState.java,Andrew Niefer
+Mon Feb 25 19:55:01 2008,BuildScriptGeneratorTask.java,Andrew Niefer
+Wed Feb 27 22:55:02 2008,AssembleConfigScriptGenerator.java,Andrew Niefer
+Wed Feb 27 22:55:02 2008,BuildScriptGenerator.java,Andrew Niefer
+Wed Feb 27 22:55:02 2008,PackagerGenerator.java,Andrew Niefer
+Wed Feb 27 22:55:02 2008,PackagerTask.java,Andrew Niefer
+Mon Mar  3 19:44:28 2008,ScriptGenerationTests.java,Andrew Niefer
+Mon Mar  3 19:44:28 2008,QualifierReplacer.java,Andrew Niefer
+Wed Mar  5 22:24:32 2008,acme.product,Andrew Niefer
+Wed Mar  5 22:24:32 2008,config.ini,Andrew Niefer
+Wed Mar  5 22:24:32 2008,config.ini,Andrew Niefer
+Wed Mar  5 22:24:32 2008,ProductTests.java,Andrew Niefer
+Wed Mar  5 22:24:32 2008,Utils.java,Andrew Niefer
+Wed Mar  5 22:24:32 2008,ProductFile.java,Andrew Niefer
+Wed Mar  5 22:24:32 2008,ProductGenerator.java,Andrew Niefer
+Mon Mar 10 22:11:03 2008,ProductTests.java,Andrew Niefer
+Tue Mar 11 18:52:00 2008,AntScript.java,Andrew Niefer
+Wed Mar 12 18:51:37 2008,Utils.java,Andrew Niefer
+Wed Mar 12 18:51:37 2008,PluginPathFinder.java,Andrew Niefer
+Wed Mar 12 18:53:06 2008,IPDEBuildConstants.java,Andrew Niefer
+Wed Mar 12 18:53:06 2008,ClasspathComputer3_0.java,Andrew Niefer
+Wed Mar 12 18:53:06 2008,ModelBuildScriptGenerator.java,Andrew Niefer
+Wed Mar 19 21:00:06 2008,BuildTimeFeatureFactory.java,Andrew Niefer

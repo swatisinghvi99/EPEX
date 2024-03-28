@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Tue Jul 15 19:49:37 2014,VersionRange.java,Violeta Georgieva
+Tue Jul 15 19:49:53 2014,VersionRange.java,Violeta Georgieva
+Tue Jul 15 19:50:04 2014,StandardHeaderLexer.java,Violeta Georgieva
+Tue Jul 15 19:50:19 2014,StandardHeaderParser.java,Violeta Georgieva
+Tue Jul 15 19:50:33 2014,StandardHeaderParserTests.java,Violeta Georgieva
+Tue Jul 15 19:50:46 2014,RecoveringManifestParserTests.java,Violeta Georgieva
+Tue Jul 15 19:50:46 2014,broken004.mf,Violeta Georgieva
+Tue Jul 15 19:53:12 2014,FileSystemDumpInspector.java,Violeta Georgieva
+Tue Jul 15 19:55:34 2014,RepositoryTestData.java,Violeta Georgieva

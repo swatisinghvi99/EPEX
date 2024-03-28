@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Fri Mar 11 17:31:55 2011,Change.java,aleon
+Fri Mar 11 17:31:55 2011,ChangeSet.java,aleon
+Fri Mar 11 17:31:55 2011,ScmArtifact.java,aleon
+Fri Mar 11 17:31:55 2011,ScmUser.java,aleon
+Fri Mar 11 17:31:55 2011,ScmInfoAttributes.java,aleon
+Fri Mar 11 17:31:55 2011,ScmResourceArtifact.java,aleon
+Fri Mar 11 17:31:55 2011,ScmResourceUtils.java,aleon
+Fri Mar 11 18:19:08 2011,GitConnector.java,aleon
+Sat Mar 12 23:21:39 2011,MANIFEST.MF,aleon
+Sat Mar 12 23:21:39 2011,plugin.xml,aleon
+Sat Mar 12 23:21:39 2011,connectors.exsd,aleon
+Sat Mar 12 23:21:39 2011,ScmUi.java,aleon
+Sat Mar 12 23:21:39 2011,ScmUiConnector.java,aleon

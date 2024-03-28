@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Thu Sep 12  9:12:21 2019,Context.java,Alexander Edelmann
+Fri Sep 13  2:25:18 2019,LoggerPayloadHandler.java,Alexander Edelmann
+Fri Sep 13  4:00:49 2019,AMQPDittoHandler.java,Alexander Edelmann
+Fri Sep 13  4:00:49 2019,AMQPNativeHandler.java,Alexander Edelmann
+Fri Sep 13  6:02:36 2019,AMQPDittoHandler.java,Alexander Edelmann
+Fri Sep 13  6:02:36 2019,AMQPNativeHandler.java,Alexander Edelmann
+Fri Sep 13  7:45:34 2019,AMQPDittoHandler.java,Alexander Edelmann
+Fri Sep 13  7:45:34 2019,AMQPNativeHandler.java,Alexander Edelmann
+Fri Sep 13  8:09:26 2019,AMQPDittoHandler.java,Alexander Edelmann
+Fri Sep 13  8:09:26 2019,AMQPNativeHandler.java,Alexander Edelmann

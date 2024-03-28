@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Thu Nov 15 11:06:21 2012,TaskService.java,Malgorzata Janczarska
+Thu Nov 15 11:06:21 2012,TaskStore.java,Malgorzata Janczarska
+Thu Nov 15 11:06:21 2012,TaskInfo.java,Malgorzata Janczarska
+Thu Nov 15 11:06:21 2012,TaskOperationException.java,Malgorzata Janczarska
+Thu Nov 15 11:06:21 2012,TaskInfoTest.java,Malgorzata Janczarska
+Thu Nov 15 11:06:21 2012,TaskStoreTest.java,Malgorzata Janczarska
+Mon Nov 19 14:46:54 2012,CorruptedTaskException.java,Malgorzata Janczarska
+Thu Nov 22 13:32:10 2012,TaskService.java,Malgorzata Janczarska

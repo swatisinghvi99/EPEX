@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Thu Mar 16  7:34:56 2017,MANIFEST.MF,Mickael Istria
+Thu Mar 16  7:34:56 2017,AbstratGenericEditorTest.java,Mickael Istria
+Thu Mar 16  7:34:56 2017,CompletionTest.java,Mickael Istria
+Thu Mar 16  7:34:56 2017,EditorTest.java,Mickael Istria
+Thu Mar 16  7:34:56 2017,GenericEditorTestSuite.java,Mickael Istria
+Thu Mar 16  7:34:56 2017,HoverTest.java,Mickael Istria
+Thu Mar 16  7:34:56 2017,StylingTest.java,Mickael Istria
+Thu Mar 16  7:34:56 2017,plugin.xml,Mickael Istria
+Thu Mar 16  9:50:38 2017,ExtensionBasedTextViewerConfiguration.java,Mickael Istria
+Tue Mar 21 20:13:55 2017,MANIFEST.MF,Mickael Istria
+Tue Mar 21 20:13:55 2017,plugin.xml,Mickael Istria
+Tue Mar 21 20:13:55 2017,ProjectDocumentParticipant.java,Mickael Istria
+Tue Mar 21 20:13:55 2017,SpellCheckDocumentListener.java,Mickael Istria
+Tue Mar 21 20:13:55 2017,CompositeQuickAssistProcessor.java,Mickael Istria
+Tue Mar 21 20:13:55 2017,ExtensionBasedTextViewerConfiguration.java,Mickael Istria

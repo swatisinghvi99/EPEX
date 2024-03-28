@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Fri Jan  3 10:32:17 2020,CommonConstants.java,Mario Zsilak
+Fri Jan  3 10:32:17 2020,Defaults.java,Mario Zsilak
+Fri Jan  3 10:32:17 2020,CoreSystem.java,Mario Zsilak
+Fri Jan  3 10:32:17 2020,CoreSystemService.java,Mario Zsilak
+Fri Jan  3 10:32:17 2020,OrchestrationFlags.java,Mario Zsilak
+Fri Jan  3 10:32:17 2020,OrchestratorAccessControlFilter.java,Mario Zsilak
+Fri Jan  3 10:32:17 2020,OrchestratorAccessControlFilterTest.java,Mario Zsilak
+Fri Jan  3 10:32:17 2020,ServiceRegistryController.java,Mario Zsilak
+Thu Jan 16  8:32:35 2020,DeviceRequestDTO.java,Mario Zsilak
+Thu Jan 16  8:32:35 2020,SystemRegistryController.java,Mario Zsilak
+Thu Jan 16  8:32:35 2020,SystemRegistryDBService.java,Mario Zsilak

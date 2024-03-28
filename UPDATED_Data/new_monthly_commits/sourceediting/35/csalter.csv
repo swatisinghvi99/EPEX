@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Tue Aug 29 18:45:26 2006,XSDSchemaSection.java,csalter
+Tue Aug 29 18:59:00 2006,AbstractExtensionsSection.java,csalter
+Tue Aug 29 18:59:00 2006,AddExtensionsComponentDialog.java,csalter
+Tue Aug 29 19:28:08 2006,XSDSchemaDirectiveAdapter.java,csalter
+Tue Aug 29 22:40:56 2006,CatalogReader.java,csalter
+Tue Aug 29 22:40:56 2006,EditCatalogEntryDialog.java,csalter
+Fri Sep  8  2:24:49 2006,TopLevelFieldEditPart.java,csalter
+Fri Sep  8  2:26:44 2006,TopLevelFieldEditPart.java,csalter
+Fri Sep  8  2:38:11 2006,CenteredConnectionAnchor.java,csalter
+Fri Sep  8  2:38:11 2006,ComplexTypeEditPart.java,csalter
+Thu Sep 14 18:49:17 2006,UpdateComponentReferenceAndManageDirectivesCommand.java,csalter
+Wed Sep 20  4:58:29 2006,UpdateAttributeValueCommand.java,csalter
+Wed Sep 20  4:58:29 2006,UpdateTextValueCommand.java,csalter
+Wed Sep 20  4:58:29 2006,DOMExtensionItem.java,csalter
+Wed Sep 20  5:56:37 2006,XSDEditorPlugin.java,csalter

@@ -1,0 +1,50 @@
+date_time,file,committer_name
+Mon May 11 15:52:44 2015,ServiceInterpreter.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,CollapseSupportOnRegionMigrationParticipant.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,DNodeContainerQuery.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,AbstractDiagramContainerEditPart.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,AbstractDiagramElementContainerEditPart.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,AirXYLayoutEditPolicy.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,RegionContainerResizableEditPolicy.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,RegionResizableEditPolicy.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,AbstractDNodeContainerCompartmentEditPart.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,RegionContainerUpdateLayoutOperation.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,AbstractCanonicalSynchronizer.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,GMFHelper.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,DNodeContainerViewNodeContainerCompartment2ViewFactory.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,DNodeListViewNodeListCompartmentViewFactory.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,HideDDiagramElementAction.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,ArrangeAllWithAutoSize.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,AutoSizeAndRegionAwareGraphLayout.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,BorderItemAwareLayoutProvider.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,ContainerMappingQuery.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,DDiagramSynchronizer.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,ContainerMappingExperimentalQuery.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,DDiagramElementContainerExperimentalQuery.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,DNodeContainerExperimentalQuery.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,PinHelper.java,Pierre-Charles David
+Thu May 14  0:58:17 2015,Release Notes.html,Pierre-Charles David
+Thu May 14  0:58:17 2015,Release Notes.textile,Pierre-Charles David
+Thu May 14  0:58:17 2015,ContainerMappingChildrenPresentationPropertySectionSpec.java,Pierre-Charles David
+Tue May 19  8:45:41 2015,Release Notes.html,Pierre-Charles David
+Tue May 19  8:45:41 2015,Release Notes.textile,Pierre-Charles David
+Tue May 19  8:45:41 2015,AbstractSiriusSwtBotGefTestCase.java,Pierre-Charles David
+Fri May 22 11:23:05 2015,WorkspaceAndPluginsResourceDialog.java,Pierre-Charles David
+Fri May 22 11:36:32 2015,AbstractMenuBuilder.java,Pierre-Charles David
+Tue May 26 12:25:05 2015,TableUIUpdater.java,Pierre-Charles David
+Tue May 26 12:33:20 2015,DTableElementSynchronizerSpec.java,Pierre-Charles David
+Wed May 27  7:34:47 2015,LockedModelExplorerTest.java,Pierre-Charles David
+Wed May 27  9:34:02 2015,ServiceInterpreter.java,Pierre-Charles David
+Thu May 28 15:20:25 2015,plugin.properties,Pierre-Charles David
+Thu May 28 15:20:25 2015,AbstractMenuBuilder.java,Pierre-Charles David
+Thu May 28 15:20:25 2015,SubMenusPrioritiesTest.java,Pierre-Charles David
+Mon Jun  1 12:05:49 2015,Release_Notes.html,Pierre-Charles David
+Mon Jun  1 12:05:49 2015,Release_Notes.textile,Pierre-Charles David
+Mon Jun  1 12:05:49 2015,TreeItemLabelFontFormatQuery.java,Pierre-Charles David
+Mon Jun  1 12:05:49 2015,.project,Pierre-Charles David
+Mon Jun  1 12:05:49 2015,data.aird,Pierre-Charles David
+Mon Jun  1 12:05:49 2015,data.ecore,Pierre-Charles David
+Mon Jun  1 12:05:49 2015,fixture.odesign,Pierre-Charles David
+Mon Jun  1 12:05:49 2015,AllTablePluginTests.java,Pierre-Charles David
+Mon Jun  1 12:05:49 2015,TableStyleRefreshTest.java,Pierre-Charles David
+Mon Jun  1 12:05:49 2015,TreeUtils.java,Pierre-Charles David

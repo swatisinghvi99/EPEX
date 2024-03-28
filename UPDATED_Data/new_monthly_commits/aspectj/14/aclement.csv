@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Thu Jan 22 10:55:43 2004,AntBuilder.java,aclement
+Wed Jan 28 14:45:03 2004,Checklics.java,aclement
+Mon Feb  9 15:07:37 2004,AdviceDeclaration.java,aclement
+Mon Feb  9 15:07:37 2004,AspectDeclaration.java,aclement
+Mon Feb  9 15:07:37 2004,AroundAMain.java,aclement
+Mon Feb  9 15:07:37 2004,ajcTests.xml,aclement
+Mon Feb  9 15:07:37 2004,ajcTestsFailing.xml,aclement
+Mon Feb  9 15:07:37 2004,Main.java,aclement
+Mon Feb  9 15:07:37 2004,TraceV2.aj,aclement
+Mon Feb  9 15:07:37 2004,TraceWithInnerV1.aj,aclement
+Mon Feb  9 15:07:37 2004,TraceWithInnerV2.aj,aclement
+Mon Feb  9 15:07:37 2004,NameMangler.java,aclement
+Tue Feb 10 14:51:29 2004,RunWeaveTests.java,aclement
+Tue Feb 10 14:51:29 2004,WeaveTests.java,aclement
+Tue Feb 10 17:16:33 2004,RunWeaveTests.java,aclement
+Tue Feb 10 17:16:33 2004,WeaveTests.java,aclement

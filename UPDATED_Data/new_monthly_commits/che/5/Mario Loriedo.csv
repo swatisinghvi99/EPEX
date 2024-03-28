@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Thu Jun 23  7:09:40 2016,TcpConnection.java,Mario Loriedo
+Thu Jun 23  7:09:40 2016,UnixSocketConnection.java,Mario Loriedo
+Thu Jun 30 14:00:48 2016,DockerConnectorConfiguration.java,Mario Loriedo
+Thu Jun 30 14:00:48 2016,DockerConnection.java,Mario Loriedo
+Thu Jun 30 14:00:48 2016,TcpConnection.java,Mario Loriedo
+Thu Jun 30 14:00:48 2016,UnixSocketConnection.java,Mario Loriedo
+Thu Jun 30 14:00:48 2016,DockerConnectorConfigurationTest.java,Mario Loriedo
+Thu Jun 30 14:00:48 2016,DockerInstanceProvider.java,Mario Loriedo
+Thu Jun 30 14:00:48 2016,DockerMachineModule.java,Mario Loriedo
+Thu Jun 30 14:00:48 2016,ApiEndpointEnvVariableProvider.java,Mario Loriedo
+Thu Jun 30 14:00:48 2016,LocalDockerModule.java,Mario Loriedo

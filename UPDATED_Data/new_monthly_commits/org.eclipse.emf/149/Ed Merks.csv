@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Mon Nov 30 12:50:58 2015,feature.xml,Ed Merks
+Mon Nov 30 12:50:58 2015,feature.xml,Ed Merks
+Mon Nov 30 12:50:58 2015,MANIFEST.MF,Ed Merks
+Mon Nov 30 12:50:58 2015,XSDPatternFacetImpl.java,Ed Merks
+Mon Nov 30 13:36:17 2015,EditUIMarkerHelper.java,Ed Merks
+Tue Dec  8  9:19:59 2015,EContentAdapter.java,Ed Merks
+Tue Dec  8  9:19:59 2015,EContentAdapterTest.java,Ed Merks
+Thu Dec 10  9:30:00 2015,BasicExtendedMetaData.java,Ed Merks
+Thu Dec 10 12:10:44 2015,DiagnosticDecorator.java,Ed Merks
+Tue Dec 15  7:39:32 2015,BasicEMap.java,Ed Merks
+Tue Dec 15  7:39:32 2015,AllSuites.java,Ed Merks
+Tue Dec 15  7:39:32 2015,EMapTest.java,Ed Merks
+Tue Dec 15  7:47:40 2015,DiagnosticDecorator.java,Ed Merks
+Tue Dec 15  9:01:45 2015,BasicEMap.java,Ed Merks
+Tue Dec 15  9:01:45 2015,EMapTest.java,Ed Merks

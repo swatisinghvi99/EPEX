@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Wed Jan 30 20:37:54 2019,Sw360AuthenticationProvider.java,Henrik Engelbrink
+Wed Jan 30 20:37:54 2019,RestControllerHelper.java,Henrik Engelbrink
+Wed Jan 30 20:37:54 2019,Sw360UserService.java,Henrik Engelbrink
+Wed Jan 30 20:37:54 2019,ComponentTest.java,Henrik Engelbrink
+Wed Jan 30 20:37:54 2019,ProjectTest.java,Henrik Engelbrink
+Wed Jan 30 20:37:54 2019,ReleaseTest.java,Henrik Engelbrink
+Wed Jan 30 20:37:54 2019,AttachmentSpecTest.java,Henrik Engelbrink
+Wed Jan 30 20:37:54 2019,ComponentSpecTest.java,Henrik Engelbrink
+Wed Jan 30 20:37:54 2019,ProjectSpecTest.java,Henrik Engelbrink
+Wed Jan 30 20:37:54 2019,VulnerabilitySpecTest.java,Henrik Engelbrink

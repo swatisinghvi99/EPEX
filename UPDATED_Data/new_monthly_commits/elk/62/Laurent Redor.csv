@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Fri Dec  4 16:02:01 2020,NodeLabelAndSizeCalculator.java,Laurent Redor
+Fri Dec  4 16:02:01 2020,StripContainerCell.java,Laurent Redor
+Fri Dec  4 16:02:01 2020,InsidePortLabelCellCreator.java,Laurent Redor
+Fri Dec  4 16:02:01 2020,ElkUtil.java,Laurent Redor
+Fri Dec  4 16:02:01 2020,ElkGraphAdapters.java,Laurent Redor
+Fri Dec  4 16:02:01 2020,Issue701Test.java,Laurent Redor
+Fri Dec  4 16:02:01 2020,GraphTestUtils.java,Laurent Redor
+Fri Dec  4 16:02:01 2020,HorizontalPortPlacementSizeCalculator.java,Laurent Redor
+Fri Dec  4 16:02:01 2020,NodeLabelAndSizeUtilities.java,Laurent Redor
+Fri Dec  4 16:02:01 2020,VerticalPortPlacementSizeCalculator.java,Laurent Redor
+Fri Dec  4 16:02:01 2020,CompoundGraphPreprocessor.java,Laurent Redor
+Fri Dec  4 16:02:01 2020,ElkGraphImporter.java,Laurent Redor
+Fri Dec  4 16:02:01 2020,ElkUtil.java,Laurent Redor

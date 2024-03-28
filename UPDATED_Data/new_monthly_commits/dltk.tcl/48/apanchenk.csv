@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Wed Jan 26  9:48:07 2011,TclRequireMarkerResolutionGenerator.java,apanchenk
+Wed Jan 26  9:48:07 2011,TclSourcePackageCorrectionProcessor.java,apanchenk
+Wed Jan 26  9:48:15 2011,plugin.xml,apanchenk
+Wed Jan 26  9:48:15 2011,TclProblemFactory.java,apanchenk
+Wed Jan 26  9:48:15 2011,TclProblems.java,apanchenk
+Wed Jan 26  9:48:34 2011,ITclASTConstants.java,apanchenk
+Wed Jan 26  9:48:34 2011,TclASTLoader.java,apanchenk
+Wed Jan 26  9:48:34 2011,TclASTSaver.java,apanchenk
+Wed Jan 26 10:33:07 2011,AbstractTclCommandProcessor.java,apanchenk
+Wed Jan 26 10:33:07 2011,TclSourceElementParser2.java,apanchenk
+Wed Jan 26 10:33:07 2011,AbstractTclCommandModelBuilder.java,apanchenk
+Wed Jan 26 10:33:20 2011,TclASTLoader.java,apanchenk
+Wed Jan 26 10:33:20 2011,ITclErrorConstants.java,apanchenk
+Wed Jan 26 10:33:20 2011,ITclErrorReporter.java,apanchenk
+Wed Jan 26 10:33:20 2011,TclError.java,apanchenk
+Wed Jan 26 10:33:20 2011,TclErrorCollector.java,apanchenk
+Wed Jan 26 10:47:32 2011,TclCheckerDLTKErrorComparisonTests.java,apanchenk
+Wed Jan 26 10:47:32 2011,TestTclParserErrorReporter.java,apanchenk
+Wed Jan 26 10:47:32 2011,TestUtils.java,apanchenk
+Tue Feb  1  9:56:35 2011,DefaultTclSemanticHighlightingExtension.java,apanchenk
+Tue Feb  1  9:56:35 2011,TclSemanticPositionUpdater.java,apanchenk
+Tue Feb  1  9:56:35 2011,TclTextTools.java,apanchenk
+Tue Feb  1  9:56:51 2011,XOTclSemanticHighlightingExtension.java,apanchenk

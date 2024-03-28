@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Sun May 24 14:01:28 2020,pom.xml,Julien Viet
+Sun May 24 14:01:28 2020,SqlClientTest.java,Julien Viet
+Sun May 24 14:03:24 2020,SqlClientTest.java,Julien Viet
+Mon May 25  8:49:45 2020,OpenTracingExamples.java,Julien Viet
+Mon May 25  8:49:45 2020,OpenTracingTest.java,Julien Viet
+Mon May 25  8:49:45 2020,OpenTracingUtilTest.java,Julien Viet
+Mon May 25  8:49:45 2020,SqlClientTest.java,Julien Viet
+Mon May 25  8:49:45 2020,ZipkinTracingExamples.java,Julien Viet
+Mon May 25  8:49:45 2020,VertxSenderTest.java,Julien Viet
+Mon May 25  8:49:45 2020,ZipkinHttpClientITTest.java,Julien Viet
+Mon May 25  8:49:45 2020,ZipkinHttpServerITTest.java,Julien Viet
+Mon May 25  8:49:45 2020,ZipkinTest.java,Julien Viet
+Mon May 25 12:52:31 2020,index.adoc,Julien Viet
+Mon May 25 12:52:31 2020,ZipkinTracingExamples.java,Julien Viet
+Mon May 25 12:52:31 2020,HttpSenderOptions.java,Julien Viet
+Mon May 25 12:52:31 2020,ZipkinTracer.java,Julien Viet
+Mon May 25 12:52:31 2020,ZipkinTracingOptions.java,Julien Viet
+Mon May 25 12:52:31 2020,ZipkinTest.java,Julien Viet

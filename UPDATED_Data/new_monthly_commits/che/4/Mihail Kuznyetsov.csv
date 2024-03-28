@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Thu May 19 12:26:35 2016,AbstractLuceneSearcherProvider.java,Mihail Kuznyetsov
+Thu May 19 12:26:35 2016,ProjectServiceTest.java,Mihail Kuznyetsov
+Wed Jun  1 11:53:08 2016,FactoryEditValidatorImpl.java,Mihail Kuznyetsov
+Wed Jun  1 11:53:08 2016,FactoryEditValidatorImplTest.java,Mihail Kuznyetsov
+Fri Jun 10  9:22:01 2016,TokenValidator.java,Mihail Kuznyetsov
+Fri Jun 10  9:22:01 2016,UserNameValidator.java,Mihail Kuznyetsov
+Fri Jun 10  9:22:01 2016,UserService.java,Mihail Kuznyetsov
+Fri Jun 10  9:22:01 2016,UserNameValidatorTest.java,Mihail Kuznyetsov
+Fri Jun 10  9:22:01 2016,UserServiceTest.java,Mihail Kuznyetsov
+Fri Jun 10  9:22:01 2016,DummyTokenValidator.java,Mihail Kuznyetsov

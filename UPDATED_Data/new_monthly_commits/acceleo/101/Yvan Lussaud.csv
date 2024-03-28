@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Mon Jun  6 12:09:12 2016,TestValidationQModel.java,Yvan Lussaud
+Mon Jun  6 12:28:55 2016,AstBuilderListener.java,Yvan Lussaud
+Mon Jun  6 12:28:55 2016,QueryBuilderEngine.java,Yvan Lussaud
+Mon Jun  6 12:28:55 2016,BuildTest.java,Yvan Lussaud
+Mon Jun  6 12:38:53 2016,IQueryEnvironment.java,Yvan Lussaud
+Mon Jun  6 12:38:53 2016,EPackageProvider.java,Yvan Lussaud
+Mon Jun  6 12:38:53 2016,QueryEnvironment.java,Yvan Lussaud
+Mon Jun  6 12:38:53 2016,QueryEnvironmentTests.java,Yvan Lussaud
+Mon Jun  6 12:56:11 2016,QueryCompletionEngine.java,Yvan Lussaud
+Mon Jun  6 12:56:11 2016,CompletionTest.java,Yvan Lussaud
+Mon Jun  6 13:47:56 2016,AstCompletor.java,Yvan Lussaud
+Mon Jun  6 13:47:56 2016,QueryCompletionEngine.java,Yvan Lussaud
+Mon Jun  6 13:47:56 2016,CompletionTest.java,Yvan Lussaud
+Mon Jun  6 14:13:38 2016,AstCompletor.java,Yvan Lussaud
+Mon Jun  6 14:26:02 2016,EClassifierType.java,Yvan Lussaud
+Mon Jun  6 14:34:48 2016,JavaMethodService.java,Yvan Lussaud
+Mon Jun  6 15:01:23 2016,CompletionTest.java,Yvan Lussaud
+Tue Jun  7 14:33:23 2016,AstCompletor.java,Yvan Lussaud
+Tue Jun  7 14:33:23 2016,CompletionTest.java,Yvan Lussaud
+Wed Jun  8  9:04:21 2016,XPathServices.java,Yvan Lussaud
+Wed Jun  8  9:04:21 2016,XPathServicesTest.java,Yvan Lussaud
+Wed Jun  8  9:04:21 2016,XPathServicesValidationTest.java,Yvan Lussaud

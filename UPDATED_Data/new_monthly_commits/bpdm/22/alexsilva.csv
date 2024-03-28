@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Fri Sep 29 14:53:44 2023,GateQueryService.kt,alexsilva
+Fri Sep 29 14:53:44 2023,IBaseBusinessPartnerDto.kt,alexsilva
+Fri Sep 29 14:53:44 2023,BusinessPartnerInputRequest.kt,alexsilva
+Fri Sep 29 14:53:44 2023,BusinessPartnerOutputRequest.kt,alexsilva
+Fri Sep 29 14:53:44 2023,ChangelogGateDto.kt,alexsilva
+Fri Sep 29 14:53:44 2023,ChangelogEntry.kt,alexsilva
+Fri Sep 29 14:53:44 2023,BusinessPartner.kt,alexsilva
+Fri Sep 29 14:53:44 2023,BusinessPartnerMappings.kt,alexsilva
+Fri Sep 29 14:53:44 2023,BusinessPartnerService.kt,alexsilva
+Fri Sep 29 14:53:44 2023,V4_0_0_16__add_parent_type-generic.sql,alexsilva
+Fri Sep 29 14:53:44 2023,BusinessPartnerIT.kt,alexsilva
+Fri Sep 29 14:53:44 2023,BusinessPartnerGeneric.kt,alexsilva
+Thu Oct 19 12:39:23 2023,Application.kt,alexsilva
+Thu Oct 19 12:39:23 2023,SharingStateRepository.kt,alexsilva
+Thu Oct 19 12:39:23 2023,BusinessPartnerService.kt,alexsilva
+Thu Oct 19 12:39:23 2023,OrchestratorMappings.kt,alexsilva
+Thu Oct 19 12:39:23 2023,application.properties,alexsilva
+Thu Oct 19 12:39:23 2023,BusinessPartnerControllerIT.kt,alexsilva
+Thu Oct 19 12:39:23 2023,BusinessPartnerGenericValues.kt,alexsilva
+Thu Oct 19 12:39:23 2023,BusinessPartnerNonVerboseValues.kt,alexsilva
+Thu Oct 19 12:39:23 2023,BusinessPartnerVerboseValues.kt,alexsilva
+Thu Oct 19 12:39:23 2023,GoldenRecordTaskController.kt,alexsilva

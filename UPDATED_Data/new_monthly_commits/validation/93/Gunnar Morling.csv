@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Tue Jun  6 13:31:05 2017,OverridesAttribute.java,Gunnar Morling
+Thu Jun  8 12:02:49 2017,ValueExtractor.java,Gunnar Morling
+Fri Jun 16 13:15:25 2017,Negative.java,Gunnar Morling
+Fri Jun 16 13:15:25 2017,NegativeOrZero.java,Gunnar Morling
+Fri Jun 16 13:15:25 2017,Positive.java,Gunnar Morling
+Fri Jun 16 13:15:25 2017,PositiveOrZero.java,Gunnar Morling
+Fri Jun 16 13:46:16 2017,BeanDescriptor.java,Gunnar Morling
+Fri Jun 16 13:46:16 2017,ValueExtractor.java,Gunnar Morling
+Sat Jun 17 11:49:45 2017,BeanDescriptor.java,Gunnar Morling
+Tue Jun 20 17:16:42 2017,Path.java,Gunnar Morling
+Wed Jun 21 15:40:13 2017,ContainerDescriptor.java,Gunnar Morling
+Wed Jun 21 15:40:13 2017,ContainerElementTypeDescriptor.java,Gunnar Morling
+Wed Jun 21 15:40:13 2017,Email.java,Gunnar Morling
+Wed Jun 21 15:41:31 2017,ExtractedValue.java,Gunnar Morling
+Wed Jun 21 15:41:31 2017,NotBlank.java,Gunnar Morling
+Wed Jun 21 15:43:46 2017,ConstraintValidatorContext.java,Gunnar Morling
+Wed Jun 21 15:43:46 2017,Path.java,Gunnar Morling
+Wed Jun 21 15:43:46 2017,ExtractedValue.java,Gunnar Morling
+Wed Jun 21 15:46:20 2017,Validation.java,Gunnar Morling
+Wed Jun 21 17:18:14 2017,ConfigurationState.java,Gunnar Morling

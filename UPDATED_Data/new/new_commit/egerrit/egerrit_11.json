@@ -1,0 +1,57 @@
+[
+    [
+        "gperron",
+        "java",
+        7
+    ],
+    [
+        "gperron",
+        "target",
+        1
+    ],
+    [
+        "gperron",
+        "MF",
+        1
+    ],
+    [
+        "Jacques Bouthillier",
+        "ecore",
+        1
+    ],
+    [
+        "Jacques Bouthillier",
+        "java",
+        42
+    ],
+    [
+        "Jacques Bouthillier",
+        "xml",
+        2
+    ],
+    [
+        "Jacques Bouthillier",
+        "MF",
+        3
+    ],
+    [
+        "Pascal Rapicault",
+        "java",
+        111
+    ],
+    [
+        "Pascal Rapicault",
+        "MF",
+        1
+    ],
+    [
+        "Pascal Rapicault",
+        "ecore",
+        3
+    ],
+    [
+        "Pascal Rapicault",
+        "genmodel",
+        1
+    ]
+]

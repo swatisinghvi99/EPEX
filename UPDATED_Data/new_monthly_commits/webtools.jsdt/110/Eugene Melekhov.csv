@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Tue Mar 29  9:30:55 2016,JavaScriptUnit.java,Eugene Melekhov
+Tue Mar 29  9:30:55 2016,EsprimaParser.java,Eugene Melekhov
+Tue Mar 29 15:32:23 2016,StringLiteral.java,Eugene Melekhov
+Tue Mar 29 15:32:23 2016,JsStringScanner.java,Eugene Melekhov
+Tue Mar 29 15:32:23 2016,DOMASTConverter.java,Eugene Melekhov
+Tue Mar 29 15:32:23 2016,org.eclipse.core.resources.prefs,Eugene Melekhov
+Tue Mar 29 15:32:23 2016,StringLiteralTest.java,Eugene Melekhov
+Fri Apr  8 21:39:37 2016,MANIFEST.MF,Eugene Melekhov
+Fri Apr  8 21:39:37 2016,ASTNode.java,Eugene Melekhov
+Fri Apr  8 21:39:37 2016,NaiveASTFlattener.java,Eugene Melekhov
+Fri Apr  8 21:39:37 2016,IJsCodeElementFactory.java,Eugene Melekhov
+Fri Apr  8 21:39:37 2016,JsCodeElementFactory.java,Eugene Melekhov
+Fri Apr  8 21:39:37 2016,JsCodeIRGenerator.java,Eugene Melekhov
+Fri Apr  8 21:39:37 2016,JsCodeOutputStream.java,Eugene Melekhov
+Fri Apr  8 21:39:37 2016,JsCodeStringBuilderOutputStream.java,Eugene Melekhov
+Fri Apr  8 21:39:37 2016,TrivialJsCodeGenerator.java,Eugene Melekhov
+Fri Apr  8 21:39:37 2016,EsprimaParserTests.java,Eugene Melekhov
+Fri Apr  8 21:39:37 2016,.classpath,Eugene Melekhov
+Fri Apr  8 21:39:37 2016,org.eclipse.jdt.core.prefs,Eugene Melekhov
+Fri Apr  8 21:39:37 2016,MANIFEST.MF,Eugene Melekhov
+Fri Apr  8 21:39:37 2016,JsCodeGeneratorTest.java,Eugene Melekhov

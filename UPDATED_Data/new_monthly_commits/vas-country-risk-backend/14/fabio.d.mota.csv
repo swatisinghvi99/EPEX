@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Mon Jul 10 13:42:23 2023,CHANGELOG.md,fabio.d.mota
+Mon Jul 10 13:42:23 2023,pom.xml,fabio.d.mota
+Mon Jul 10 13:42:23 2023,ApplicationVariables.java,fabio.d.mota
+Mon Jul 10 13:42:23 2023,RestTemplateConfiguration.java,fabio.d.mota
+Mon Jul 10 13:42:23 2023,WebClientConfiguration.java,fabio.d.mota
+Mon Jul 10 13:42:23 2023,AuthPropertiesDTO.java,fabio.d.mota
+Mon Jul 10 13:42:23 2023,TokenAspect.java,fabio.d.mota
+Mon Jul 10 13:42:23 2023,BusinessPartnersLogicService.java,fabio.d.mota
+Mon Jul 10 13:42:23 2023,InvokeService.java,fabio.d.mota
+Mon Jul 10 13:42:23 2023,application-dev.yml,fabio.d.mota
+Mon Jul 10 13:42:23 2023,application-local.yml,fabio.d.mota
+Mon Jul 10 13:42:23 2023,application.yml,fabio.d.mota
+Mon Jul 10 13:42:23 2023,BPNIntegartionTest.java,fabio.d.mota
+Mon Jul 10 13:42:23 2023,InvokeServiceTest.java,fabio.d.mota
+Mon Jul 10 13:42:23 2023,application.yml,fabio.d.mota
+Wed Jul 12 13:58:21 2023,CHANGELOG.md,fabio.d.mota
+Wed Jul 12 13:58:21 2023,DEPENDENCIES,fabio.d.mota
+Wed Jul 12 13:58:21 2023,pom.xml,fabio.d.mota
+Wed Jul 12 13:58:21 2023,ObjectMapperConfig.java,fabio.d.mota
+Wed Jul 12 13:58:21 2023,WebClientConfiguration.java,fabio.d.mota
+Wed Jul 12 13:58:21 2023,application-dev.yml,fabio.d.mota
+Wed Jul 12 13:58:21 2023,application-int.yml,fabio.d.mota
+Wed Jul 12 13:58:21 2023,application.yml,fabio.d.mota
+Wed Jul 12 13:58:21 2023,CountryLogicServiceTest.java,fabio.d.mota
+Wed Jul 12 13:58:21 2023,DataBaseJsonConverterTest.java,fabio.d.mota

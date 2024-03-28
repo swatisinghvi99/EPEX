@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Thu Dec 10 18:01:38 2009,.classpath,Tom Watson
+Thu Dec 10 18:01:38 2009,.project,Tom Watson
+Thu Dec 10 18:01:38 2009,org.eclipse.core.resources.prefs,Tom Watson
+Thu Dec 10 18:01:38 2009,org.eclipse.jdt.core.prefs,Tom Watson
+Thu Dec 10 18:01:38 2009,org.eclipse.jdt.ui.prefs,Tom Watson
+Thu Dec 10 18:01:38 2009,bnd.bnd,Tom Watson
+Thu Dec 10 18:01:38 2009,launch.tb1.bnd,Tom Watson
+Thu Dec 10 18:01:38 2009,launch.tb2.bnd,Tom Watson
+Thu Dec 10 18:01:38 2009,build.xml,Tom Watson
+Thu Dec 10 18:01:38 2009,CompositePersistenceTests.java,Tom Watson
+Thu Dec 10 18:01:38 2009,Test.java,Tom Watson
+Thu Dec 17 17:00:38 2009,CompositeLifecycleTests.java,Tom Watson
+Fri Dec 18 21:18:46 2009,CompositePersistenceTests.java,Tom Watson
+Fri Dec 18 21:55:33 2009,.classpath,Tom Watson
+Fri Dec 18 21:55:33 2009,.project,Tom Watson
+Fri Dec 18 21:55:33 2009,org.eclipse.jdt.core.prefs,Tom Watson
+Fri Dec 18 21:55:33 2009,bnd.bnd,Tom Watson
+Fri Dec 18 21:55:33 2009,tb1.bnd,Tom Watson
+Fri Dec 18 21:55:33 2009,CompositeSecurityTests.java,Tom Watson
+Fri Dec 18 21:55:33 2009,Activator.java,Tom Watson

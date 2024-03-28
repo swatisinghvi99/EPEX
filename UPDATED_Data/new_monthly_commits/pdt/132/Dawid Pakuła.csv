@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Tue Apr 18 14:44:27 2017,PHPModuleDeclaration.java,Dawid Pakuła
+Tue Apr 18 14:44:27 2017,AbstractASTParser.java,Dawid Pakuła
+Tue Apr 18 14:44:27 2017,PhpLibraryPreferencePage.java,Dawid Pakuła
+Tue Apr 18 14:44:27 2017,PHPIncludePathSourcePage.java,Dawid Pakuła
+Tue Apr 18 14:44:27 2017,PHPLibrariesWorkbookPage.java,Dawid Pakuła
+Tue Apr 18 14:44:27 2017,PHPProjectsWorkbookPage.java,Dawid Pakuła
+Tue Apr 18 14:44:27 2017,PHPSourceContainerWorkbookPage.java,Dawid Pakuła
+Tue Apr 25 11:25:06 2017,UnusedUseStatementProcessor.java,Dawid Pakuła
+Tue Apr 25 11:25:06 2017,PHPCorrectionProcessor.java,Dawid Pakuła
+Tue Apr 25 11:25:06 2017,QuickFixProcessor.java,Dawid Pakuła
+Tue Apr 25 11:25:06 2017,IQuickFixProcessor.java,Dawid Pakuła
+Tue Apr 25 11:25:06 2017,IQuickFixProcessorExtension.java,Dawid Pakuła

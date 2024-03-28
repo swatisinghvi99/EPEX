@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Fri Dec  7 15:07:28 2018,BigDecimalValueDo.java,André Wegmüller
+Fri Dec  7 15:07:28 2018,BinaryResourceValueDo.java,André Wegmüller
+Fri Dec  7 15:07:28 2018,BooleanValueDo.java,André Wegmüller
+Fri Dec  7 15:07:28 2018,ByteArrayValueDo.java,André Wegmüller
+Fri Dec  7 15:07:28 2018,DateTimeValueDo.java,André Wegmüller
+Fri Dec  7 15:07:28 2018,DateTimeWithTimeZoneValueDo.java,André Wegmüller
+Fri Dec  7 15:07:28 2018,DateValueDo.java,André Wegmüller
+Fri Dec  7 15:07:28 2018,DoEntityListValueDo.java,André Wegmüller
+Fri Dec  7 15:07:28 2018,IntegerValueDo.java,André Wegmüller
+Fri Dec  7 15:07:28 2018,LocaleValueDo.java,André Wegmüller
+Fri Dec  7 15:07:28 2018,LongValueDo.java,André Wegmüller
+Fri Dec  7 15:07:28 2018,ObjectValueDo.java,André Wegmüller
+Fri Dec  7 15:07:28 2018,StringValueDo.java,André Wegmüller
+Fri Dec  7 15:07:28 2018,ErrorDo.java,André Wegmüller
+Fri Dec  7 15:07:28 2018,ErrorResponse.java,André Wegmüller
+Wed Dec 12  8:16:29 2018,stringsSpec.js,André Wegmüller
+Wed Dec 12  8:16:29 2018,strings.js,André Wegmüller
+Mon Dec 17 12:40:17 2018,HttpClientInfoTest.java,André Wegmüller
+Mon Dec 17 12:40:17 2018,HttpClientInfo.java,André Wegmüller
+Mon Dec 17 12:40:17 2018,UiEngineType.java,André Wegmüller
+Tue Dec 18 12:11:11 2018,TagFieldSpec.js,André Wegmüller
+Tue Dec 18 12:11:11 2018,ProposalChooser.js,André Wegmüller
+Tue Dec 18 12:11:11 2018,TableProposalChooser.js,André Wegmüller
+Tue Dec 18 12:11:11 2018,TreeProposalChooser.js,André Wegmüller
+Tue Dec 18 12:11:11 2018,TagChooserPopup.js,André Wegmüller
+Tue Dec 18 12:11:11 2018,TagField.js,André Wegmüller

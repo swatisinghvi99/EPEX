@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Mon Jul  3 12:54:19 2006,JavaEditor.java,Dani Megert
+Tue Jul  4  8:53:26 2006,JavaContext.java,Dani Megert
+Wed Jul  5 11:13:13 2006,ErrorWizardPage.java,Dani Megert
+Wed Jul  5 11:13:13 2006,RefactoringHistoryWizard.java,Dani Megert
+Wed Jul  5 14:10:01 2006,ActionMessages.java,Dani Megert
+Wed Jul  5 14:10:01 2006,ActionMessages.properties,Dani Megert
+Wed Jul  5 14:11:02 2006,OpenAction.java,Dani Megert
+Mon Jul 10  9:56:38 2006,AddImportOnSelectionAction.java,Dani Megert
+Mon Jul 10  9:56:38 2006,JavaEditor.java,Dani Megert
+Mon Jul 10  9:56:38 2006,OrganizeImportsAction.java,Dani Megert
+Wed Jul 19  9:14:08 2006,JavaEditor.java,Dani Megert
+Wed Jul 19  9:14:40 2006,JavaEditor.java,Dani Megert
+Fri Jul 21  8:15:52 2006,JavaEditor.java,Dani Megert
+Fri Jul 21  8:15:52 2006,SemanticHighlightingManager.java,Dani Megert
+Fri Jul 21 11:14:29 2006,ClassFileEditor.java,Dani Megert
+Fri Jul 21 12:07:40 2006,PropertiesFileDocumentProvider.java,Dani Megert
+Fri Jul 21 12:24:09 2006,JavaStringAutoIndentStrategy.java,Dani Megert
+Mon Jul 31  9:23:54 2006,PreferenceConstants.java,Dani Megert
+Mon Jul 31 15:32:58 2006,ClassFileEditor.java,Dani Megert
+Wed Aug  2 12:50:42 2006,JavaOutlinePage.java,Dani Megert
+Wed Aug  2 14:33:57 2006,NLSPropertyFileModifier.java,Dani Megert
+Wed Aug  2 14:34:23 2006,NLSUtil.java,Dani Megert
+Wed Aug  2 14:34:23 2006,CreateTextFileChange.java,Dani Megert

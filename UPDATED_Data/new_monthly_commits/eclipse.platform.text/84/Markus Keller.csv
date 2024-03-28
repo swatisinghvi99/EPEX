@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Wed Apr 23  7:59:26 2008,BrowserInformationControl.java,Markus Keller
+Wed Apr 23 11:20:22 2008,AbstractInformationControl.java,Markus Keller
+Wed Apr 23 11:20:22 2008,IInformationControl.java,Markus Keller
+Wed Apr 23 11:20:22 2008,IInformationControlExtension5.java,Markus Keller
+Wed Apr 23 16:30:16 2008,DefaultInformationControl.java,Markus Keller
+Wed Apr 23 17:29:44 2008,AccessorUtil.java,Markus Keller
+Wed Apr 23 17:29:44 2008,IInformationControlReplacer.java,Markus Keller
+Wed Apr 23 17:29:44 2008,StickyHoverManager.java,Markus Keller
+Wed Apr 23 17:29:44 2008,AbstractHoverInformationControlManager.java,Markus Keller
+Wed Apr 23 17:29:44 2008,AbstractInformationControlManager.java,Markus Keller
+Wed Apr 23 17:29:44 2008,TextViewer.java,Markus Keller
+Wed Apr 23 17:29:44 2008,AnnotationBarHoverManager.java,Markus Keller
+Wed Apr 23 17:29:44 2008,SourceViewer.java,Markus Keller
+Thu Apr 24 13:22:51 2008,AbstractHoverInformationControlManager.java,Markus Keller
+Thu Apr 24 19:00:46 2008,AbstractHoverInformationControlManager.java,Markus Keller
+Fri Apr 25 16:31:43 2008,OverviewRulerHoverManager.java,Markus Keller

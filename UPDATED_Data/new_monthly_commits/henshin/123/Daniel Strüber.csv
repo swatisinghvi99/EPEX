@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Thu Jan  9 16:31:54 2020,VBEngineParameterizedTest.java,Daniel Strüber
+Thu Jan  9 16:31:54 2020,VarRuleApplicationImpl.java,Daniel Strüber
+Thu Jan  9 16:31:54 2020,VariabilityAwareEngine.java,Daniel Strüber
+Thu Jan  9 20:35:54 2020,ConfigurationImpl.java,Daniel Strüber
+Thu Jan  9 20:35:54 2020,VarRuleApplicationImpl.java,Daniel Strüber
+Thu Jan  9 20:35:54 2020,RulePreparator.java,Daniel Strüber
+Thu Jan  9 20:35:54 2020,VariabilityAwareEngine.java,Daniel Strüber
+Thu Jan  9 20:35:54 2020,OclUtil.java,Daniel Strüber
+Thu Jan  9 20:35:54 2020,VariabilityAttribute.java,Daniel Strüber
+Thu Jan  9 20:35:54 2020,VariabilityEdge.java,Daniel Strüber
+Thu Jan  9 20:35:54 2020,VariabilityFactory.java,Daniel Strüber
+Thu Jan  9 20:35:54 2020,VariabilityHelper.java,Daniel Strüber
+Thu Jan  9 20:35:54 2020,VariabilityNestedCondition.java,Daniel Strüber
+Thu Jan  9 20:35:54 2020,VariabilityNode.java,Daniel Strüber
+Thu Jan  9 20:35:54 2020,VariabilityRule.java,Daniel Strüber
+Thu Jan  9 20:35:54 2020,VariabilityTransactionHelper.java,Daniel Strüber

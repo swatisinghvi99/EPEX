@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Tue Feb 23 17:10:43 2010,EStructuralFeatureImpl.java,emerks
+Mon Mar  1 11:09:52 2010,EMFEditListProperty.java,emerks
+Mon Mar  1 11:57:10 2010,EMFEditListProperty.java,emerks
+Mon Mar  1 16:35:48 2010,GenEnumLiteralImpl.java,emerks
+Mon Mar  1 17:47:24 2010,GenClassImpl.java,emerks
+Mon Mar  1 17:47:46 2010,ValidatorClass.java,emerks
+Mon Mar  1 17:47:46 2010,ValidatorClass.javajet,emerks
+Mon Mar  1 17:48:05 2010,EcoreValidator.java,emerks
+Mon Mar  1 17:48:37 2010,EObjectValidator.java,emerks
+Mon Mar  1 17:49:12 2010,Bad.ecore,emerks
+Mon Mar  1 17:49:12 2010,BadEcoreDiagnosticTest.java,emerks
+Fri Mar  5 15:50:31 2010,BasicNotifierImpl.java,emerks
+Fri Mar  5 15:50:32 2010,MinimalEObjectImpl.java,emerks
+Fri Mar  5 16:58:05 2010,EcoreSchemaBuilder.java,emerks
+Mon Mar  8 17:01:40 2010,XSDSchemaImpl.java,emerks
+Mon Mar  8 17:33:38 2010,XMLHandler.java,emerks
+Thu Mar 11 14:35:29 2010,EcoreUtil.java,emerks
+Fri Mar 12 16:12:45 2010,XSDSimpleTypeDefinitionImpl.java,emerks
+Sat Mar 13 13:47:38 2010,EcoreUtil.java,emerks
+Mon Mar 15 20:38:38 2010,GenOperationImpl.java,emerks
+Mon Mar 15 20:38:38 2010,GenParameterImpl.java,emerks
+Mon Mar 15 20:59:10 2010,XSDEcoreBuilder.java,emerks

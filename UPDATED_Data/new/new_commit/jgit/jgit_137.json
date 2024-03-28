@@ -1,0 +1,142 @@
+[
+    [
+        "Terry Parker",
+        "MF",
+        2
+    ],
+    [
+        "Terry Parker",
+        "java",
+        14
+    ],
+    [
+        "Terry Parker",
+        "api_filters",
+        1
+    ],
+    [
+        "Matthias Sohn",
+        "java",
+        30
+    ],
+    [
+        "Matthias Sohn",
+        "api_filters",
+        1
+    ],
+    [
+        "Matthias Sohn",
+        "properties",
+        3
+    ],
+    [
+        "Thomas Wolf",
+        "java",
+        52
+    ],
+    [
+        "Thomas Wolf",
+        "MF",
+        6
+    ],
+    [
+        "Thomas Wolf",
+        "GpgSignatureVerifierFactory",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "properties",
+        8
+    ],
+    [
+        "Thomas Wolf",
+        "unknown",
+        2
+    ],
+    [
+        "Thomas Wolf",
+        "classpath",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "gitignore",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "xml",
+        1
+    ],
+    [
+        "Thomas Wolf",
+        "html",
+        1
+    ],
+    [
+        "David Ostrovsky",
+        "unknown",
+        2
+    ],
+    [
+        "David Ostrovsky",
+        "MF",
+        3
+    ],
+    [
+        "David Ostrovsky",
+        "java",
+        11
+    ],
+    [
+        "David Ostrovsky",
+        "target",
+        14
+    ],
+    [
+        "David Ostrovsky",
+        "tpd",
+        15
+    ],
+    [
+        "David Ostrovsky",
+        "xml",
+        1
+    ],
+    [
+        "Alina Djamankulova",
+        "java",
+        1
+    ],
+    [
+        "Lars Vogel",
+        "java",
+        1
+    ],
+    [
+        "Adithya Chakilam",
+        "java",
+        4
+    ],
+    [
+        "Marija Savtchouk",
+        "java",
+        2
+    ],
+    [
+        "Nasser Grainawi",
+        "java",
+        37
+    ],
+    [
+        "Tim Neumann",
+        "java",
+        2
+    ],
+    [
+        "wh",
+        "java",
+        1
+    ]
+]

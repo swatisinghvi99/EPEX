@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Fri Sep 17 12:58:47 2021,SchemaRouter.java,Paulo Lopes
+Fri Sep 17 12:58:47 2021,SchemaRouterImpl.java,Paulo Lopes
+Fri Sep 17 12:58:47 2021,URIUtils.java,Paulo Lopes
+Fri Sep 17 12:58:47 2021,SchemaRouterLocalRefTest.java,Paulo Lopes
+Fri Sep 17 12:58:47 2021,Draft201909IntegrationTest.java,Paulo Lopes
+Fri Sep 17 12:58:47 2021,Draft7IntegrationTest.java,Paulo Lopes
+Fri Sep 17 12:58:47 2021,ReproducersDraft7Test.java,Paulo Lopes
+Fri Sep 17 12:58:47 2021,OAS3IntegrationTest.java,Paulo Lopes

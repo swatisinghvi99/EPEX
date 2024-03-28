@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Thu Sep  1 21:31:15 2005,ImageLoader.java,Carolyn MacLeod
+Thu Sep  1 21:31:15 2005,FileFormat.java,Carolyn MacLeod
+Thu Sep  1 21:31:15 2005,GIFFileFormat.java,Carolyn MacLeod
+Thu Sep  1 21:31:15 2005,JPEGFileFormat.java,Carolyn MacLeod
+Thu Sep  1 21:31:15 2005,OS2BMPFileFormat.java,Carolyn MacLeod
+Thu Sep  1 21:31:15 2005,PNGFileFormat.java,Carolyn MacLeod
+Thu Sep  1 21:31:15 2005,TIFFFileFormat.java,Carolyn MacLeod
+Thu Sep  1 21:31:15 2005,WinBMPFileFormat.java,Carolyn MacLeod
+Thu Sep  1 21:31:15 2005,WinICOFileFormat.java,Carolyn MacLeod
+Tue Sep  6 22:09:24 2005,GIFFileFormat.java,Carolyn MacLeod
+Wed Sep  7 21:19:41 2005,FormAttachment.java,Carolyn MacLeod
+Wed Sep  7 21:26:24 2005,GIFFileFormat.java,Carolyn MacLeod
+Wed Sep  7 21:26:24 2005,LEDataOutputStream.java,Carolyn MacLeod
+Wed Sep  7 21:26:24 2005,TIFFDirectory.java,Carolyn MacLeod
+Wed Sep  7 21:26:24 2005,WinICOFileFormat.java,Carolyn MacLeod
+Thu Sep  8 17:38:14 2005,Snippet194.java,Carolyn MacLeod
+Thu Sep  8 21:36:30 2005,Snippet194.java,Carolyn MacLeod

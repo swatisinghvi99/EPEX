@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Wed Feb  2 14:10:10 2011,DefaultReferenceFinder.java,Holger Schill
+Wed Feb  2 14:10:10 2011,IReferenceFinder.java,Holger Schill
+Wed Feb  2 14:10:10 2011,DefaultReferenceFinderTest.java,Holger Schill
+Wed Feb  9 14:51:56 2011,ElementRenameArguments.java,Holger Schill
+Wed Feb  9 14:51:56 2011,ILinkedModelCalculator.java,Holger Schill
+Wed Feb  9 14:51:56 2011,RefactoringType.java,Holger Schill
+Wed Feb  9 14:51:56 2011,AbstractReferenceUpdater.java,Holger Schill
+Wed Feb  9 14:51:56 2011,AbstractRenameProcessor.java,Holger Schill
+Wed Feb  9 14:51:56 2011,DefaultRenameStrategy.java,Holger Schill
+Wed Feb  9 14:51:56 2011,LinkedModelCalculator.java,Holger Schill
+Wed Feb  9 14:51:56 2011,Messages.java,Holger Schill
+Wed Feb  9 14:51:56 2011,RenameElementProcessor.java,Holger Schill
+Wed Feb  9 14:51:56 2011,RenameRefactoringExecuter.java,Holger Schill
+Wed Feb  9 14:51:56 2011,WorkbenchRunnableAdapter.java,Holger Schill
+Wed Feb  9 14:51:56 2011,IRenameElementContext.java,Holger Schill
+Wed Feb  9 14:51:56 2011,RenameElementHandler.java,Holger Schill
+Wed Feb  9 14:51:56 2011,RenameElementWizard.java,Holger Schill
+Wed Feb  9 14:51:56 2011,RenameLinkedMode.java,Holger Schill
+Wed Feb  9 14:51:56 2011,RenameRefactoringPopup.java,Holger Schill
+Wed Feb  9 14:51:56 2011,ViewFreezer.java,Holger Schill
+Wed Feb  9 14:51:56 2011,LinkedModelCalculatorIntegrationTest.java,Holger Schill
+Wed Feb  9 14:51:56 2011,LinkedModelCalculatorTest.java,Holger Schill
+Wed Feb  9 14:51:56 2011,LinkedModelUpdateAcceptorTest.java,Holger Schill
+Wed Feb  9 14:51:56 2011,MockDocument.java,Holger Schill
+Wed Feb  9 14:51:56 2011,RenameRefactoringIntegrationTest.java,Holger Schill

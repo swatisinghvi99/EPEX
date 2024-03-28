@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Fri Oct 14 11:41:03 2011,Deque.java,lgoubet
+Fri Oct 14 11:41:09 2011,CircularArrayDeque.java,lgoubet
+Fri Oct 14 11:41:15 2011,MANIFEST.MF,lgoubet
+Fri Oct 14 11:41:15 2011,AcceleoCollections.java,lgoubet
+Fri Oct 14 11:41:15 2011,DequeSupplier.java,lgoubet
+Fri Oct 14 11:41:22 2011,MANIFEST.MF,lgoubet
+Fri Oct 14 11:41:22 2011,acceleoenginemessages.properties,lgoubet
+Fri Oct 14 11:41:22 2011,AcceleoEvaluationContext.java,lgoubet
+Fri Oct 14 11:41:22 2011,AcceleoEvaluationVisitor.java,lgoubet
+Fri Oct 14 12:13:13 2011,AcceleoService.java,lgoubet
+Fri Oct 14 12:13:32 2011,AcceleoEvaluationEnvironment.java,lgoubet
+Mon Oct 17  8:08:19 2011,AcceleoEvaluationContext.java,lgoubet
+Mon Oct 17  8:08:25 2011,AcceleoCollections.java,lgoubet
+Mon Oct 17  8:08:25 2011,AcceleoEvaluationEnvironment.java,lgoubet
+Mon Oct 17  8:08:25 2011,AcceleoEvaluationVisitor.java,lgoubet
+Mon Oct 17  8:08:30 2011,CompactLinkedHashSupplier.java,lgoubet
+Mon Oct 17  8:08:36 2011,MANIFEST.MF,lgoubet
+Mon Oct 17  8:08:36 2011,AcceleoEvaluationVisitorTemplateInvocationTest.java,lgoubet
+Thu Oct 20  8:20:48 2011,AcceleoEvaluationEnvironment.java,lgoubet
+Thu Oct 20  8:20:48 2011,AcceleoLibraryOperationVisitor.java,lgoubet
+Thu Oct 20  8:20:48 2011,AcceleoEvaluationContext.java,lgoubet
+Thu Oct 20  8:20:48 2011,AcceleoEvaluationVisitor.java,lgoubet
+Thu Oct 20  8:20:48 2011,QueryCache.java,lgoubet
+Thu Oct 20  8:20:54 2011,AcceleoEvaluationVisitor.java,lgoubet
+Thu Oct 20  8:20:59 2011,AcceleoEvaluationEnvironment.java,lgoubet
+Thu Oct 20  8:21:05 2011,AcceleoEvaluationEnvironment.java,lgoubet

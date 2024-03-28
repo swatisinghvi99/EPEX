@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Mon Mar 12 14:46:23 2012,CopyOnWriteTextStoreTest.java,Dani Megert
+Mon Mar 12 14:46:23 2012,CopyOnWriteTextStore.java,Dani Megert
+Wed Mar 14 10:11:01 2012,CompletionProposalPopup.java,Dani Megert
+Wed Mar 14 10:11:01 2012,ContentAssistant.java,Dani Megert
+Wed Mar 14 10:11:01 2012,ICompletionProposalSorter.java,Dani Megert
+Mon Mar 19 13:33:25 2012,AbstractTextEditor.java,Dani Megert
+Wed Mar 21 16:33:28 2012,AnnotationsConfigurationBlock.java,Dani Megert
+Wed Mar 21 17:05:56 2012,DelegatingAnnotationPreference.java,Dani Megert
+Tue Mar 27  8:44:55 2012,PreviewWizardPage.java,Dani Megert
+Tue Mar 27 11:17:40 2012,ModelUtils.java,Dani Megert
+Tue Mar 27 11:18:18 2012,WorkbenchMessages.java,Dani Megert
+Tue Mar 27 11:18:18 2012,ContentTypesPreferencePage.java,Dani Megert
+Tue Mar 27 11:18:18 2012,messages.properties,Dani Megert
+Tue Mar 27 14:48:42 2012,NonExistingFileEditorInput.java,Dani Megert
+Tue Mar 27 15:00:32 2012,FileStoreEditorInput.java,Dani Megert
+Thu Mar 29 13:49:26 2012,WhitespaceCharacterPainter.java,Dani Megert
+Thu Mar 29 16:03:40 2012,TextEditorDefaultsPreferencePage.java,Dani Megert
+Thu Mar 29 16:03:40 2012,TextEditorMessages.java,Dani Megert
+Thu Mar 29 16:03:40 2012,TextEditorMessages.properties,Dani Megert
+Mon Apr  2  9:01:01 2012,OpenResourceDialog.java,Dani Megert

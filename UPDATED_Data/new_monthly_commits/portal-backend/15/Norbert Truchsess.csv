@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Thu Jun 15  7:08:37 2023,IUserRepository.cs,Norbert Truchsess
+Thu Jun 15  7:08:37 2023,UserRepository.cs,Norbert Truchsess
+Thu Jun 15  7:08:37 2023,IRegistrationBusinessLogic.cs,Norbert Truchsess
+Thu Jun 15  7:08:37 2023,RegistrationBusinessLogic.cs,Norbert Truchsess
+Thu Jun 15  7:08:37 2023,RegistrationController.cs,Norbert Truchsess
+Thu Jun 15  7:08:37 2023,RegistrationBusinessLogicTest.cs,Norbert Truchsess
+Thu Jun 15  7:08:37 2023,RegistrationControllerTest.cs,Norbert Truchsess
+Wed Jun 21  8:16:31 2023,OfferDocumentService.cs,Norbert Truchsess
+Wed Jun 21  8:16:31 2023,UploadDocumentConfig.cs,Norbert Truchsess
+Wed Jun 21  8:16:31 2023,RegistrationBusinessLogic.cs,Norbert Truchsess
+Wed Jun 21  8:16:31 2023,AppReleaseBusinessLogicTest.cs,Norbert Truchsess
+Wed Jun 21  8:16:31 2023,OfferDocumentServiceTests.cs,Norbert Truchsess
+Wed Jun 21  8:16:31 2023,ServiceReleaseBusinessLogicTest.cs,Norbert Truchsess
+Wed Jun 21 22:00:50 2023,INotificationService.cs,Norbert Truchsess
+Wed Jun 21 22:00:50 2023,NotificationService.cs,Norbert Truchsess
+Wed Jun 21 22:00:50 2023,OfferSetupServiceTests.cs,Norbert Truchsess
+Wed Jun 21 22:00:50 2023,NotificationServiceTests.cs,Norbert Truchsess
+Wed Jun 21 23:07:02 2023,Program.cs,Norbert Truchsess
+Wed Jun 21 23:07:02 2023,GeneralHttpErrorHandler.cs,Norbert Truchsess
+Wed Jun 21 23:07:02 2023,Framework.Web.csproj,Norbert Truchsess
+Wed Jun 21 23:07:02 2023,WebApplicationBuildRunner.cs,Norbert Truchsess
+Wed Jun 21 23:07:02 2023,Program.cs,Norbert Truchsess
+Wed Jun 21 23:07:02 2023,Program.cs,Norbert Truchsess
+Wed Jun 21 23:07:02 2023,Program.cs,Norbert Truchsess
+Wed Jun 21 23:07:02 2023,PortalRepositories.cs,Norbert Truchsess
+Wed Jun 21 23:07:02 2023,Program.cs,Norbert Truchsess

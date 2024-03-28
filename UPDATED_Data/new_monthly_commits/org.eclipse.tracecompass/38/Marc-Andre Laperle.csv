@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Tue Jul 23 11:25:05 2013,User-Guide.mediawiki,Marc-Andre Laperle
+Tue Jul 23 11:25:05 2013,AllTests.java,Marc-Andre Laperle
+Tue Jul 23 11:25:05 2013,TmfTimePreferencesTest.java,Marc-Andre Laperle
+Tue Jul 23 11:25:05 2013,TmfTimestampFormatTest.java,Marc-Andre Laperle
+Tue Jul 23 11:25:05 2013,plugin.xml,Marc-Andre Laperle
+Tue Jul 23 11:25:05 2013,TmfCorePreferenceInitializer.java,Marc-Andre Laperle
+Tue Jul 23 11:25:05 2013,ITmfTimePreferencesConstants.java,Marc-Andre Laperle
+Tue Jul 23 11:25:05 2013,TmfTimePreferences.java,Marc-Andre Laperle
+Tue Jul 23 11:25:05 2013,TmfTimestampFormat.java,Marc-Andre Laperle
+Tue Jul 23 11:25:05 2013,Activator.java,Marc-Andre Laperle
+Tue Jul 23 11:25:05 2013,TmfEventsEditor.java,Marc-Andre Laperle
+Tue Jul 23 11:25:05 2013,Messages.java,Marc-Andre Laperle
+Tue Jul 23 11:25:05 2013,TmfTimePreferences.java,Marc-Andre Laperle
+Tue Jul 23 11:25:05 2013,TmfTimestampFormatPage.java,Marc-Andre Laperle
+Tue Jul 23 11:25:05 2013,messages.properties,Marc-Andre Laperle
+Tue Jul 23 11:25:05 2013,TmfStateSystemExplorer.java,Marc-Andre Laperle
+Tue Jul 23 11:25:05 2013,AbstractTimeGraphView.java,Marc-Andre Laperle
+Tue Jul 23 11:25:05 2013,TimeGraphScale.java,Marc-Andre Laperle
+Tue Jul 23 11:25:05 2013,Utils.java,Marc-Andre Laperle

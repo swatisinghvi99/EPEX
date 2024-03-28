@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Tue Aug  2 14:19:09 2011,PullCommand.java,Tomasz Zarna
+Tue Aug 16  9:47:55 2011,DiffCommandTest.java,Tomasz Zarna
+Tue Aug 16  9:47:55 2011,DiffCommand.java,Tomasz Zarna
+Tue Aug 16  9:47:55 2011,Git.java,Tomasz Zarna
+Sun Aug 21 20:18:52 2011,TagCommandTest.java,Tomasz Zarna
+Sun Aug 21 20:18:52 2011,JGitText.properties,Tomasz Zarna
+Sun Aug 21 20:18:52 2011,JGitText.java,Tomasz Zarna
+Sun Aug 21 20:18:52 2011,DeleteTagCommand.java,Tomasz Zarna
+Sun Aug 21 20:18:52 2011,Git.java,Tomasz Zarna
+Wed Aug 24  8:17:32 2011,JGitText.properties,Tomasz Zarna
+Wed Aug 24  8:17:32 2011,JGitText.java,Tomasz Zarna
+Wed Aug 24  8:17:32 2011,CreateBranchCommand.java,Tomasz Zarna
+Wed Aug 24  8:17:32 2011,RenameBranchCommand.java,Tomasz Zarna
+Wed Aug 24  8:17:32 2011,ReceivePack.java,Tomasz Zarna
+Wed Aug 24 13:40:48 2011,PushProcessTest.java,Tomasz Zarna

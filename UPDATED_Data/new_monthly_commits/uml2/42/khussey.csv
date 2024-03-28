@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Tue Sep  4 15:28:32 2007,MANIFEST.MF,khussey
+Tue Sep  4 15:28:32 2007,plugin.xml,khussey
+Tue Sep  4 15:28:32 2007,UMLEditor.java,khussey
+Tue Sep  4 15:28:34 2007,MANIFEST.MF,khussey
+Tue Sep  4 15:28:34 2007,plugin.xml,khussey
+Tue Sep  4 15:28:34 2007,UMLImporter.java,khussey
+Tue Sep  4 15:28:48 2007,MANIFEST.MF,khussey
+Tue Sep  4 15:28:48 2007,CMOF.ecore,khussey
+Tue Sep  4 15:28:48 2007,CMOF_2_UML.ecore2ecore,khussey
+Tue Sep  4 15:28:48 2007,CMOF_2_UML.ecore2xml,khussey
+Tue Sep  4 15:28:48 2007,CMOF2UMLHandler.java,khussey
+Tue Sep  4 15:28:48 2007,CMOF2UMLHelperImpl.java,khussey
+Tue Sep  4 15:28:48 2007,CMOF2UMLLoadImpl.java,khussey
+Tue Sep  4 15:28:48 2007,CMOF2UMLResourceFactoryImpl.java,khussey
+Tue Sep  4 15:28:48 2007,CMOF2UMLResourceImpl.java,khussey
+Tue Sep  4 15:28:48 2007,CMOF2UMLSaveImpl.java,khussey
+Tue Sep  4 15:28:48 2007,XMI2UMLHandler.java,khussey
+Tue Sep  4 15:28:48 2007,CMOF2UMLExtendedMetaData.java,khussey
+Tue Sep  4 15:28:48 2007,CMOF2UMLResource.java,khussey
+Tue Sep  4 15:28:48 2007,CMOF2UMLResourceHandler.java,khussey
+Tue Sep  4 15:28:48 2007,UMLUtil.java,khussey

@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Thu Jan  4 15:29:18 2018,KernelThreadInformationProvider.java,Jean-Christian Kouame
+Thu Jan  4 15:29:18 2018,IKernelAnalysisEventLayout.java,Jean-Christian Kouame
+Thu Jan  4 15:29:18 2018,MANIFEST.MF,Jean-Christian Kouame
+Thu Jan  4 15:29:18 2018,EnumDeclaration.java,Jean-Christian Kouame
+Thu Jan  4 15:29:18 2018,tracecompass-baseline-3.2.0.target,Jean-Christian Kouame
+Thu Jan  4 15:29:18 2018,MANIFEST.MF,Jean-Christian Kouame
+Thu Jan  4 15:29:18 2018,TmfXmlStrings.java,Jean-Christian Kouame
+Thu Jan  4 15:29:18 2018,XmlDataProviderManager.java,Jean-Christian Kouame
+Thu Jan  4 15:29:18 2018,DataProviderManager.java,Jean-Christian Kouame
+Thu Jan  4 15:29:18 2018,SymbolProviderManager.java,Jean-Christian Kouame
+Thu Jan  4 15:29:18 2018,AbstractTmfTreeViewer.java,Jean-Christian Kouame
+Thu Jan  4 15:29:18 2018,Utils.java,Jean-Christian Kouame
+Wed Jan 10  0:30:07 2018,TracePropertyTester.java,Jean-Christian Kouame
+Fri Jan 19 20:41:05 2018,Activator.java,Jean-Christian Kouame
+Fri Jan 19 20:41:05 2018,XmlOutputElement.java,Jean-Christian Kouame
+Fri Jan 19 20:41:05 2018,XmlUtils.java,Jean-Christian Kouame
+Fri Jan 19 20:41:05 2018,XmlTimegraphViewTest.java,Jean-Christian Kouame
+Fri Jan 19 20:41:05 2018,ManageXMLAnalysisDialog.java,Jean-Christian Kouame
+Fri Jan 19 20:41:05 2018,TmfXmlAnalysisOutputSource.java,Jean-Christian Kouame
+Fri Jan 19 20:41:05 2018,TmfXmlViewOutput.java,Jean-Christian Kouame

@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Wed Dec  2 14:24:26 2015,ReceiveCommand.java,Matthias Sohn
+Mon Dec  7 15:05:19 2015,HttpAuthMethod.java,Matthias Sohn
+Tue Dec  8 13:12:26 2015,ChainingCredentialsProvider.java,Matthias Sohn
+Tue Dec  8 13:12:26 2015,ChainingCredentialsProvider.java,Matthias Sohn
+Tue Dec  8 13:12:26 2015,CredentialsProvider.java,Matthias Sohn
+Tue Dec  8 13:12:26 2015,NetRCCredentialsProvider.java,Matthias Sohn
+Tue Dec 15 11:49:08 2015,AwtCredentialsProvider.java,Matthias Sohn
+Tue Dec 15 11:49:08 2015,MANIFEST.MF,Matthias Sohn
+Tue Dec 15 11:49:08 2015,MANIFEST.MF,Matthias Sohn
+Tue Dec 15 11:49:08 2015,pom.xml,Matthias Sohn
+Tue Dec 15 11:49:08 2015,Main.java,Matthias Sohn
+Tue Dec 15 11:49:08 2015,TransportCommand.java,Matthias Sohn
+Wed Dec 16 13:08:29 2015,HttpClientConnection.java,Matthias Sohn
+Wed Dec 16 13:19:38 2015,BasePackConnection.java,Matthias Sohn

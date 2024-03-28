@@ -1,0 +1,5 @@
+date_time,file,committer_name
+Wed Nov 11 20:05:54 2020,.gitignore,Nathan Zimmerman
+Wed Nov 11 20:05:54 2020,CHANGELOG.md,Nathan Zimmerman
+Wed Nov 11 20:05:54 2020,LayoutTileSourceSpec.scala,Nathan Zimmerman
+Wed Nov 11 20:05:54 2020,GeoTiffResampleRasterSource.scala,Nathan Zimmerman

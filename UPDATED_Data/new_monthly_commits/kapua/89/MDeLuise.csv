@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Tue Feb 20  9:41:41 2024,ValidationMessages.properties,MDeLuise
+Tue Feb 20  9:41:41 2024,GwtDeviceServiceImpl.java,MDeLuise
+Tue Feb 20  9:41:41 2024,KapuaBirthPayload.java,MDeLuise
+Tue Feb 20  9:41:41 2024,KapuaBirthPayloadAttibutes.java,MDeLuise
+Tue Feb 20  9:41:41 2024,KapuaAppsPayloadImpl.java,MDeLuise
+Tue Feb 20  9:41:41 2024,KapuaBirthPayloadImpl.java,MDeLuise
+Tue Feb 20  9:41:41 2024,KapuaAppsMessageTest.java,MDeLuise
+Tue Feb 20  9:41:41 2024,KapuaBirthMessageTest.java,MDeLuise
+Tue Feb 20  9:41:41 2024,BasicSteps.java,MDeLuise
+Tue Feb 20  9:41:41 2024,device-scopeId-deviceId.yaml,MDeLuise
+Tue Feb 20  9:41:41 2024,device-scopeId.yaml,MDeLuise
+Tue Feb 20  9:41:41 2024,device.yaml,MDeLuise
+Tue Feb 20  9:41:41 2024,AbstractKuraAppsBirthPayload.java,MDeLuise
+Tue Feb 20  9:41:41 2024,Device.java,MDeLuise
+Tue Feb 20  9:41:41 2024,DeviceCreator.java,MDeLuise
+Tue Feb 20  9:41:41 2024,DeviceCreatorImpl.java,MDeLuise
+Tue Feb 20  9:41:41 2024,DeviceImpl.java,MDeLuise
+Tue Feb 20  9:41:41 2024,DeviceLifeCycleServiceImpl.java,MDeLuise
+Tue Feb 20  9:41:41 2024,changelog-device-2.0.0.xml,MDeLuise
+Tue Feb 20  9:41:41 2024,device_tamper-status.xml,MDeLuise
+Tue Feb 20  9:41:41 2024,TranslatorLifeAppsKuraKapua.java,MDeLuise
+Tue Feb 20  9:41:41 2024,TranslatorLifeBirthKuraKapua.java,MDeLuise
+Wed Mar  6 13:25:45 2024,JobExecutions.java,MDeLuise
+Wed Mar  6 13:53:38 2024,JobExecutionServiceI9n.feature,MDeLuise
+Wed Mar  6 13:53:38 2024,JobExecutionServiceSteps.java,MDeLuise

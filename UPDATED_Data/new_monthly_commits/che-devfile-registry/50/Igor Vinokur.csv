@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Mon Jul  3  6:57:14 2023,generate_devworkspace_templates.sh,Igor Vinokur
+Mon Jul  3  6:57:14 2023,update_devworkspace_templates.sh,Igor Vinokur
+Mon Jul  3  6:57:14 2023,bitbucket-server-module.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,bitbucket-server-resolver.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,bitbucket-server-url.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,bitbucket-module.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,bitbucket-resolver.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,bitbucket-url.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,github-module.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,github-resolver.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,github-url.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,inversify-binding.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,main.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,git-url-resolver.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,resolve-module.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,resolver.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,url.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,types.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,bitbucket-server-resolver.spec.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,bitbucket-resolver.spec.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,github-resolver.spec.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,inversify-binding.spec.ts,Igor Vinokur
+Mon Jul  3  6:57:14 2023,git-url-resolver.spec.ts,Igor Vinokur
+Mon Jul  3  7:38:54 2023,generate_devworkspace_templates.sh,Igor Vinokur
+Mon Jul  3  7:38:54 2023,main.ts,Igor Vinokur

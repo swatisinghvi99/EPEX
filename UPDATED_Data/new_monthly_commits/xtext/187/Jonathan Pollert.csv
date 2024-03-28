@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Fri Dec  8 16:18:34 2023,CommandServiceTest.java,Jonathan Pollert
+Fri Dec  8 16:18:34 2023,HierarchicalDocumentSymbolTest.java,Jonathan Pollert
+Fri Dec  8 16:18:34 2023,PrepareRenameTest.java,Jonathan Pollert
+Fri Dec  8 16:18:34 2023,Rename2Test.java,Jonathan Pollert
+Fri Dec  8 16:18:34 2023,Rename3Test.java,Jonathan Pollert
+Fri Dec  8 16:18:34 2023,RenamePositionTest.java,Jonathan Pollert
+Fri Dec  8 16:18:34 2023,WorkspaceFoldersTest.java,Jonathan Pollert
+Fri Dec  8 16:18:34 2023,LanguageServerImpl.java,Jonathan Pollert
+Fri Dec  8 16:18:34 2023,AbstractLanguageServerTest.xtend,Jonathan Pollert
+Fri Dec  8 16:18:34 2023,AbstractLanguageServerTest.java,Jonathan Pollert

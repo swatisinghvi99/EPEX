@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Tue Sep 17  5:53:32 2019,browser-clipboard-service.ts,Artem Zatsarynnyi
+Tue Sep 17  5:53:32 2019,clipboard-service.ts,Artem Zatsarynnyi
+Tue Sep 17  5:53:32 2019,browser-window-module.ts,Artem Zatsarynnyi
+Tue Sep 17  5:53:32 2019,electron-clipboard-service.ts,Artem Zatsarynnyi
+Tue Sep 17  5:53:32 2019,electron-window-module.ts,Artem Zatsarynnyi
+Tue Sep 17  5:53:32 2019,plugin-api-rpc.ts,Artem Zatsarynnyi
+Tue Sep 17  5:53:32 2019,worker-main.ts,Artem Zatsarynnyi
+Tue Sep 17  5:53:32 2019,plugin-host-rpc.ts,Artem Zatsarynnyi
+Tue Sep 17  5:53:32 2019,clipboard-main.ts,Artem Zatsarynnyi
+Tue Sep 17  5:53:32 2019,main-context.ts,Artem Zatsarynnyi
+Tue Sep 17  5:53:32 2019,clipboard-ext.ts,Artem Zatsarynnyi
+Tue Sep 17  5:53:32 2019,plugin-context.ts,Artem Zatsarynnyi
+Tue Sep 17  5:53:32 2019,theia.d.ts,Artem Zatsarynnyi

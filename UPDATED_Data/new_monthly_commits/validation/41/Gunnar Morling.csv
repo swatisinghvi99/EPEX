@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Fri Feb  1 12:02:50 2013,CascadableDescriptor.java,Gunnar Morling
+Fri Feb  1 12:02:50 2013,GroupConversionDescriptor.java,Gunnar Morling
+Fri Feb  1 12:02:50 2013,ParameterDescriptor.java,Gunnar Morling
+Fri Feb  1 12:02:50 2013,PropertyDescriptor.java,Gunnar Morling
+Fri Feb  1 12:02:50 2013,ReturnValueDescriptor.java,Gunnar Morling
+Fri Feb  1 12:02:50 2013,ExecutableValidator.java,Gunnar Morling
+Fri Feb  1 16:45:35 2013,CascadableDescriptor.java,Gunnar Morling
+Fri Feb  1 16:45:35 2013,GroupConversionDescriptor.java,Gunnar Morling
+Thu Feb  7 11:23:58 2013,BootstrapConfiguration.java,Gunnar Morling
+Mon Feb 11 16:27:26 2013,Path.java,Gunnar Morling
+Sat Feb 16 11:10:44 2013,ValidationProviderResolver.java,Gunnar Morling
+Sat Feb 16 11:10:44 2013,GenericBootstrap.java,Gunnar Morling
+Sat Feb 16 11:10:44 2013,ProviderSpecificBootstrap.java,Gunnar Morling
+Mon Feb 18 22:29:26 2013,ExecutableType.java,Gunnar Morling
+Mon Feb 18 22:29:26 2013,ValidateExecutable.java,Gunnar Morling
+Tue Feb 19 17:19:23 2013,ConstraintValidatorContext.java,Gunnar Morling
+Wed Feb 20 12:51:46 2013,ConstraintValidationNodeBuilderTest.java,Gunnar Morling
+Wed Feb 20 12:51:46 2013,NodeTraversalTest.java,Gunnar Morling
+Wed Feb 20 12:51:46 2013,ScriptAssertValidator.java,Gunnar Morling
+Wed Feb 20 13:45:30 2013,Author.java,Gunnar Morling
+Wed Feb 20 13:45:30 2013,Book.java,Gunnar Morling
+Wed Feb 20 13:45:30 2013,MetaDataApiTest.java,Gunnar Morling
+Wed Feb 20 13:45:30 2013,NotEmpty.java,Gunnar Morling
+Wed Feb 20 13:45:30 2013,ValidInterval.java,Gunnar Morling

@@ -1,0 +1,307 @@
+[
+    [
+        "Ha\u030avard Ottestad",
+        "java",
+        4
+    ],
+    [
+        "Jeen Broekstra",
+        "java",
+        6034
+    ],
+    [
+        "Jeen Broekstra",
+        "Function",
+        12
+    ],
+    [
+        "Jeen Broekstra",
+        "xml",
+        308
+    ],
+    [
+        "Jeen Broekstra",
+        "SailFactory",
+        38
+    ],
+    [
+        "Jeen Broekstra",
+        "apt",
+        4
+    ],
+    [
+        "Jeen Broekstra",
+        "css",
+        33
+    ],
+    [
+        "Jeen Broekstra",
+        "ttl",
+        4088
+    ],
+    [
+        "Jeen Broekstra",
+        "rq",
+        7204
+    ],
+    [
+        "Jeen Broekstra",
+        "TupleFunction",
+        8
+    ],
+    [
+        "Jeen Broekstra",
+        "txt",
+        27
+    ],
+    [
+        "Jeen Broekstra",
+        "md",
+        15
+    ],
+    [
+        "Jeen Broekstra",
+        "RepositoryFactory",
+        16
+    ],
+    [
+        "Jeen Broekstra",
+        "html",
+        44516
+    ],
+    [
+        "Jeen Broekstra",
+        "unknown",
+        35
+    ],
+    [
+        "Jeen Broekstra",
+        "qr",
+        16
+    ],
+    [
+        "Jeen Broekstra",
+        "srx",
+        2040
+    ],
+    [
+        "Jeen Broekstra",
+        "rdfs",
+        4
+    ],
+    [
+        "Jeen Broekstra",
+        "kml",
+        4
+    ],
+    [
+        "Jeen Broekstra",
+        "nt",
+        390
+    ],
+    [
+        "Jeen Broekstra",
+        "serql",
+        336
+    ],
+    [
+        "Jeen Broekstra",
+        "trig",
+        62
+    ],
+    [
+        "Jeen Broekstra",
+        "rdf",
+        94
+    ],
+    [
+        "Jeen Broekstra",
+        "ru",
+        602
+    ],
+    [
+        "Jeen Broekstra",
+        "csv",
+        12
+    ],
+    [
+        "Jeen Broekstra",
+        "tsv",
+        12
+    ],
+    [
+        "Jeen Broekstra",
+        "srj",
+        36
+    ],
+    [
+        "Jeen Broekstra",
+        "properties",
+        12
+    ],
+    [
+        "Jeen Broekstra",
+        "jspf",
+        16
+    ],
+    [
+        "Jeen Broekstra",
+        "tld",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "jsp",
+        12
+    ],
+    [
+        "Jeen Broekstra",
+        "sh",
+        5
+    ],
+    [
+        "Jeen Broekstra",
+        "xsl",
+        96
+    ],
+    [
+        "Jeen Broekstra",
+        "js",
+        40
+    ],
+    [
+        "Jeen Broekstra",
+        "map",
+        30
+    ],
+    [
+        "Jeen Broekstra",
+        "ts",
+        32
+    ],
+    [
+        "Jeen Broekstra",
+        "toml",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "svg",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "amd64",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "arm64v8",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "yml",
+        4
+    ],
+    [
+        "Jeen Broekstra",
+        "gitignore",
+        4
+    ],
+    [
+        "Jeen Broekstra",
+        "keepme",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "bak",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "QueryParserFactory",
+        4
+    ],
+    [
+        "Jeen Broekstra",
+        "patch",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "TupleQueryResultParserFactory",
+        8
+    ],
+    [
+        "Jeen Broekstra",
+        "TupleQueryResultWriterFactory",
+        8
+    ],
+    [
+        "Jeen Broekstra",
+        "BooleanQueryResultParserFactory",
+        6
+    ],
+    [
+        "Jeen Broekstra",
+        "BooleanQueryResultWriterFactory",
+        6
+    ],
+    [
+        "Jeen Broekstra",
+        "FileTypeDetector",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "RDFParserFactory",
+        20
+    ],
+    [
+        "Jeen Broekstra",
+        "RDFWriterFactory",
+        20
+    ],
+    [
+        "Jeen Broekstra",
+        "DatatypeHandler",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "json",
+        48
+    ],
+    [
+        "Jeen Broekstra",
+        "LanguageHandler",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "nq",
+        4
+    ],
+    [
+        "Jeen Broekstra",
+        "trix",
+        6
+    ],
+    [
+        "Jeen Broekstra",
+        "jfc",
+        1
+    ],
+    [
+        "Bart Hanssens",
+        "java",
+        107
+    ],
+    [
+        "Bart Hanssens",
+        "ttl",
+        2
+    ]
+]

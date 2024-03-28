@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Sat Nov 14 23:25:29 2015,.name,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,misc.xml,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,modules.xml,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,build.gradle,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,JsonBinding.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,JsonBindingBuilder.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,JsonBindingProvider.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,ClassParser.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,Context.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,Marshaller.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,ClassModel.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,FieldModel.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,Customer.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,AnonymousClassTest.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,OuterPojo.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,BasicTest.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,CollectionsTest.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,Language.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,DatesTest.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,GenericTestClass.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,GenericsTest.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,JsonpLong.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,JsonpString.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,JsonpTest.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,OptionalTest.java,Dmitry Kornilov
+Sat Nov 14 23:25:29 2015,SpecificTest.java,Dmitry Kornilov

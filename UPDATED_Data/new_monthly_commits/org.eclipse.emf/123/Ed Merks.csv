@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Tue Oct  8 12:41:39 2013,XcoreOutlineTreeProvider.java,Ed Merks
+Tue Oct  8 12:41:39 2013,XcoreExtensions.java,Ed Merks
+Tue Oct  8 12:41:39 2013,XcoreGenModelBuilder.java,Ed Merks
+Tue Oct  8 12:41:39 2013,ExtendedImageRegistry.java,Ed Merks
+Tue Oct  8 12:41:39 2013,XcoreMapperTest.java,Ed Merks
+Wed Oct  9  7:10:48 2013,GenPackageImpl.java,Ed Merks
+Wed Oct  9  7:10:48 2013,PersistenceTest.java,Ed Merks
+Wed Oct  9  8:08:29 2013,Pool.java,Ed Merks
+Wed Oct  9  9:03:09 2013,ECrossReferenceAdapter.java,Ed Merks
+Thu Oct 10  7:34:02 2013,GenClass.java,Ed Merks
+Thu Oct 10  7:34:02 2013,GenClassImpl.java,Ed Merks
+Thu Oct 10  7:34:02 2013,Class.java,Ed Merks
+Thu Oct 10  7:34:02 2013,Class.javajet,Ed Merks
+Thu Oct 10 11:55:54 2013,feature.xml,Ed Merks
+Thu Oct 10 11:55:54 2013,MANIFEST.MF,Ed Merks
+Thu Oct 10 11:55:54 2013,ImportManager.java,Ed Merks
+Thu Oct 10 11:55:54 2013,XcoreRuntimeModule.java,Ed Merks
+Thu Oct 10 11:55:54 2013,XcoreCompiler.java,Ed Merks
+Thu Oct 10 11:55:54 2013,XcoreGenerator.xtend,Ed Merks
+Thu Oct 10 11:55:54 2013,XcoreLogicalContainerAwareReentrantTypeResolver.java,Ed Merks
+Thu Oct 10 11:55:54 2013,XcoreScopeProvider.java,Ed Merks
+Thu Oct 10 11:55:54 2013,XcoreGenerator.java,Ed Merks
+Fri Oct 11 14:45:53 2013,EObjectValidator.java,Ed Merks

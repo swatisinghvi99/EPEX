@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Fri May 28 13:16:20 2021,gradle.properties,andrei-cristea
+Fri May 28 13:16:20 2021,ObservableRemotePluginApi.java,andrei-cristea
+Fri May 28 13:16:20 2021,RemotePluginApi.java,andrei-cristea
+Fri May 28 13:16:20 2021,AbstractRemotePluginSpi.java,andrei-cristea
+Fri May 28 13:16:20 2021,ObservableRemotePluginSpi.java,andrei-cristea
+Fri May 28 13:16:20 2021,ObservableRemoteReaderSpi.java,andrei-cristea
+Fri May 28 13:16:20 2021,RemotePluginFactorySpi.java,andrei-cristea
+Fri May 28 13:16:20 2021,RemotePluginSpi.java,andrei-cristea
+Fri May 28 13:16:20 2021,RemotePoolPluginSpi.java,andrei-cristea
+Fri May 28 13:16:20 2021,RemoteReaderSpi.java,andrei-cristea

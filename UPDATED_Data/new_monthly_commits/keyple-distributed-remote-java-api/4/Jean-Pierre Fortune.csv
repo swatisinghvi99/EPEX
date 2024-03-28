@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Tue Jun  8 10:59:02 2021,build.gradle.kts,Jean-Pierre Fortune
+Wed Jun  9  9:29:19 2021,Jenkinsfile,Jean-Pierre Fortune
+Wed Jun  9  9:29:19 2021,build.gradle.kts,Jean-Pierre Fortune
+Wed Jun  9  9:29:19 2021,DistributedRemoteApiProperties.java,Jean-Pierre Fortune
+Wed Jun  9  9:29:19 2021,ObservableRemotePluginApi.java,Jean-Pierre Fortune
+Wed Jun  9  9:29:19 2021,RemotePluginApi.java,Jean-Pierre Fortune
+Wed Jun  9  9:29:19 2021,AbstractRemotePluginSpi.java,Jean-Pierre Fortune
+Wed Jun  9  9:29:19 2021,ObservableRemotePluginSpi.java,Jean-Pierre Fortune
+Wed Jun  9  9:29:19 2021,ObservableRemoteReaderSpi.java,Jean-Pierre Fortune
+Wed Jun  9  9:29:19 2021,RemotePluginFactorySpi.java,Jean-Pierre Fortune
+Wed Jun  9  9:29:19 2021,RemotePluginSpi.java,Jean-Pierre Fortune
+Wed Jun  9  9:29:19 2021,RemotePoolPluginSpi.java,Jean-Pierre Fortune
+Wed Jun  9  9:29:19 2021,RemoteReaderSpi.java,Jean-Pierre Fortune
+Wed Jun  9  9:29:19 2021,DistributedRemoteApiPropertiesTest.java,Jean-Pierre Fortune

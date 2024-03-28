@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Tue Mar  8 13:15:56 2016,TiSensorTag.java,pierantoniomerlino
+Tue Mar  8 13:45:09 2016,org.eclipse.kura.example.ble.tisensortag.BluetoothLe.xml,pierantoniomerlino
+Tue Mar  8 13:45:09 2016,BluetoothLe.java,pierantoniomerlino
+Thu Mar 10  9:46:09 2016,BluetoothLe.java,pierantoniomerlino
+Thu Mar 10  9:46:09 2016,TiSensorTag.java,pierantoniomerlino
+Thu Mar 10  9:46:09 2016,BluetoothGatt.java,pierantoniomerlino
+Thu Mar 10  9:46:09 2016,BluetoothLeScanListener.java,pierantoniomerlino
+Thu Mar 10  9:46:09 2016,MANIFEST.MF,pierantoniomerlino
+Thu Mar 10  9:46:09 2016,BluetoothGattImpl.java,pierantoniomerlino
+Thu Mar 10  9:46:09 2016,BluetoothLeScanner.java,pierantoniomerlino
+Thu Mar 10 15:00:58 2016,org.eclipse.kura.example.beacon.BeaconExample.xml,pierantoniomerlino
+Thu Mar 10 15:00:58 2016,org.eclipse.kura.example.beacon_scanner.BeaconExample.xml,pierantoniomerlino
+Thu Mar 10 15:00:58 2016,BeaconExample.java,pierantoniomerlino
+Thu Mar 10 15:00:58 2016,BluetoothLeScanner.java,pierantoniomerlino

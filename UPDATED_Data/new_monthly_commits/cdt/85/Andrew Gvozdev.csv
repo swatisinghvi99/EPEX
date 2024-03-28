@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Wed Jul  8 15:33:10 2009,UISelectWidget.java,Andrew Gvozdev
+Wed Jul  8 19:35:06 2009,ErrorParserFileMatchingTest.java,Andrew Gvozdev
+Wed Jul  8 19:35:06 2009,ErrorParserManager.java,Andrew Gvozdev
+Thu Jul  9 16:15:25 2009,MakeView.java,Andrew Gvozdev
+Thu Jul  9 18:40:52 2009,CdtVariableResolverTest.java,Andrew Gvozdev
+Thu Jul  9 18:40:52 2009,CdtVariableResolver.java,Andrew Gvozdev
+Fri Jul 10 17:59:05 2009,CodanProblemReporter.java,Andrew Gvozdev
+Mon Jul 13 21:00:00 2009,AbstractLangsListTab.java,Andrew Gvozdev
+Thu Jul 16 20:45:58 2009,AbstractLangsListTab.java,Andrew Gvozdev
+Fri Jul 17  3:05:01 2009,GnuMakefileGenerator.java,Andrew Gvozdev
+Fri Jul 17 14:15:39 2009,DescriptionScannerInfoProvider.java,Andrew Gvozdev
+Mon Jul 20 19:59:15 2009,ErrorParserFileMatchingTest.java,Andrew Gvozdev

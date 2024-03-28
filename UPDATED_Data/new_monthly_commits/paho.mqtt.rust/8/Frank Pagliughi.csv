@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Thu Jun 28 17:38:34 2018,Cargo.toml,Frank Pagliughi
+Thu Jun 28 17:38:34 2018,README.md,Frank Pagliughi
+Thu Jun 28 17:38:34 2018,devenv.sh,Frank Pagliughi
+Thu Jun 28 17:38:34 2018,async_client.rs,Frank Pagliughi
+Thu Jun 28 17:38:34 2018,client.rs,Frank Pagliughi
+Thu Jun 28 17:38:34 2018,client_persistence.rs,Frank Pagliughi
+Thu Jun 28 17:38:34 2018,connect_options.rs,Frank Pagliughi
+Thu Jun 28 17:38:34 2018,disconnect_options.rs,Frank Pagliughi
+Thu Jun 28 17:38:34 2018,errors.rs,Frank Pagliughi
+Thu Jun 28 17:38:34 2018,lib.rs,Frank Pagliughi
+Thu Jun 28 17:38:34 2018,macros.rs,Frank Pagliughi
+Thu Jun 28 17:38:34 2018,message.rs,Frank Pagliughi
+Thu Jun 28 17:38:34 2018,ssl_options.rs,Frank Pagliughi
+Thu Jun 28 17:38:34 2018,string_collection.rs,Frank Pagliughi
+Thu Jun 28 17:38:34 2018,topic.rs,Frank Pagliughi
+Thu Jun 28 17:38:34 2018,will_options.rs,Frank Pagliughi
+Thu Jun 28 19:40:12 2018,async_client.rs,Frank Pagliughi
+Thu Jun 28 22:23:37 2018,async_client.rs,Frank Pagliughi

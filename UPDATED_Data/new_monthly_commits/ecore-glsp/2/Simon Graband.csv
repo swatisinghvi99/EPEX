@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Tue Jul  7  9:37:33 2020,Jenkinsfile,Simon Graband
+Tue Jul  7  9:37:33 2020,package.json,Simon Graband
+Tue Jul  7  9:37:33 2020,test.ts,Simon Graband
+Tue Jul  7  9:37:33 2020,UML.ecore,Simon Graband
+Tue Jul  7  9:37:33 2020,empty.ecore,Simon Graband
+Tue Jul  7  9:37:33 2020,test.ecore,Simon Graband
+Tue Jul  7  9:37:33 2020,test.enotation,Simon Graband
+Tue Jul  7  9:37:33 2020,testNodesOnly.ecore,Simon Graband
+Tue Jul  7  9:37:33 2020,testNodesOnly.enotation,Simon Graband
+Tue Jul  7  9:37:33 2020,testNodesWithAttributes.ecore,Simon Graband
+Tue Jul  7  9:37:33 2020,testNodesWithAttributes.enotation,Simon Graband
+Tue Jul 21 11:27:38 2020,package.json,Simon Graband
+Tue Jul 21 11:27:38 2020,test.ts,Simon Graband
+Tue Jul 21 11:45:09 2020,test.ts,Simon Graband
+Tue Jul 21 17:06:40 2020,test.ts,Simon Graband

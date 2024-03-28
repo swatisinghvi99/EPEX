@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Fri Aug 20 15:31:11 2021,README.md,André Silva
+Fri Aug 20 15:31:11 2021,main-classes.md,André Silva
+Fri Aug 20 15:31:11 2021,media.md,André Silva
+Fri Aug 20 15:31:11 2021,repair-tools.md,André Silva
+Fri Aug 20 15:31:11 2021,scripts.md,André Silva
+Fri Aug 20 15:31:11 2021,pipeline_launcher.sh,André Silva
+Fri Aug 20 15:31:11 2021,GitRepositoryLauncherUtils.java,André Silva
+Fri Aug 20 15:31:11 2021,TravisLauncherUtils.java,André Silva
+Fri Aug 20 15:31:11 2021,Utils.java,André Silva
+Fri Aug 20 15:31:11 2021,RepairnatorProcessBuilder.java,André Silva
+Fri Aug 20 15:31:11 2021,BranchLauncher.java,André Silva
+Fri Aug 20 15:31:11 2021,TestPipeline.java,André Silva
+Fri Aug 20 15:31:11 2021,TestPipelineBuildListener.java,André Silva
+Fri Aug 20 15:31:11 2021,TestPipelineSequencerRepair.java,André Silva
+Fri Aug 20 15:31:11 2021,TestPipelineSoraldBot.java,André Silva
+Fri Aug 20 15:31:11 2021,TestPipelineBuildListenerMainProcess.java,André Silva
+Fri Aug 20 15:31:11 2021,TestPipelinebGithubMode.java,André Silva
+Fri Aug 20 15:31:11 2021,Launcher.java,André Silva

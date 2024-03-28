@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Fri May 12  9:48:56 2017,controller.firmware.js,Henning Treu
+Fri May 12  9:48:56 2017,services.rest.js,Henning Treu
+Fri May 12  9:48:56 2017,configuration.firmware.html,Henning Treu
+Tue May 23 15:27:21 2017,CoreItemFactoryTest.java,Henning Treu
+Wed May 24 12:40:00 2017,ItemEventFactoryTest.groovy,Henning Treu
+Wed May 24 12:40:00 2017,ItemEventFactory.java,Henning Treu
+Wed May 24 12:40:00 2017,controllers.js,Henning Treu
+Wed Jun  7 13:36:53 2017,CoreTests.launch,Henning Treu
+Wed Jun  7 13:36:53 2017,MANIFEST.MF,Henning Treu
+Wed Jun  7 13:36:53 2017,HttpServiceUtilTest.java,Henning Treu
+Wed Jun  7 13:36:53 2017,HttpServiceUtil.java,Henning Treu
+Thu Jun  8 14:00:58 2017,gulpfile.js,Henning Treu
+Thu Jun  8 14:00:58 2017,configuration.test.js,Henning Treu
+Thu Jun  8 14:00:58 2017,app.js,Henning Treu
+Thu Jun  8 14:00:58 2017,controllers.configuration.js,Henning Treu
+Thu Jun  8 14:00:58 2017,controller.configurableService.dialog.js,Henning Treu
+Thu Jun  8 14:00:58 2017,controller.configurableService.dialog.spec.js,Henning Treu
+Thu Jun  8 14:00:58 2017,services.js,Henning Treu
+Thu Jun  8 14:00:58 2017,services.rest.js,Henning Treu
+Thu Jun  8 14:00:58 2017,include.config.html,Henning Treu

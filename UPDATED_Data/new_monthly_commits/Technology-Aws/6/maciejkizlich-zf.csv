@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Mon Sep  4 15:11:11 2023,verify.yaml,maciejkizlich-zf
+Mon Sep  4 15:11:11 2023,AwsClientProvider.java,maciejkizlich-zf
+Mon Sep  4 15:11:11 2023,AwsClientProviderConfiguration.java,maciejkizlich-zf
+Mon Sep  4 15:11:11 2023,AwsClientProviderImpl.java,maciejkizlich-zf
+Mon Sep  4 15:11:11 2023,S3BucketSchema.java,maciejkizlich-zf
+Mon Sep  4 15:11:11 2023,S3ClientRequest.java,maciejkizlich-zf
+Mon Sep  4 15:11:11 2023,README.md,maciejkizlich-zf
+Mon Sep  4 15:11:11 2023,AbstractS3Test.java,maciejkizlich-zf
+Mon Sep  4 15:11:11 2023,S3TestClient.java,maciejkizlich-zf
+Mon Sep  4 15:11:11 2023,S3StatusCheckerIntegrationTest.java,maciejkizlich-zf
+Mon Sep  4 15:11:11 2023,S3DataSinkFactory.java,maciejkizlich-zf
+Mon Sep  4 15:11:11 2023,S3DataSourceFactory.java,maciejkizlich-zf
+Mon Sep  4 15:11:11 2023,S3DataPlaneIntegrationTest.java,maciejkizlich-zf
+Mon Sep  4 15:11:11 2023,S3DataSinkFactoryTest.java,maciejkizlich-zf
+Mon Sep  4 15:11:11 2023,S3DataSourceFactoryTest.java,maciejkizlich-zf

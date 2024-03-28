@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Wed Aug  3 15:42:19 2022,AssistQuickFixTest1d8.java,Andrey Loskutov
+Wed Aug  3 15:42:19 2022,QuickAssistProcessor.java,Andrey Loskutov
+Sat Aug  6  5:51:59 2022,RefactoringScanner.java,Andrey Loskutov
+Sat Aug  6  5:51:59 2022,MoveCuUpdateCreator.java,Andrey Loskutov
+Sat Aug  6  5:51:59 2022,ParameterObjectFactory.java,Andrey Loskutov
+Sat Aug  6  5:51:59 2022,PasteAction.java,Andrey Loskutov
+Sat Aug  6  5:51:59 2022,GoToNextPreviousMemberAction.java,Andrey Loskutov
+Sat Aug  6  5:51:59 2022,TaskMarkerProposal.java,Andrey Loskutov
+Tue Aug  9 16:25:26 2022,OrganizeImportsOperation.java,Andrey Loskutov
+Tue Aug  9 16:25:26 2022,UnresolvedElementsSubProcessor.java,Andrey Loskutov
+Mon Aug 15  9:07:39 2022,NewTestCaseWizardPageOne.java,Andrey Loskutov
+Mon Aug 15  9:07:39 2022,JavaWordFinder.java,Andrey Loskutov

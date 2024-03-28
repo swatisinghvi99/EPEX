@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Sun May 15 18:20:55 2016,RuleEngine.java,Yordan Mihaylov
+Sun May 15 18:20:55 2016,RuleRegistryImpl.java,Yordan Mihaylov
+Sun May 15 18:20:55 2016,AutomationIntegrationTest.groovy,Yordan Mihaylov
+Sun May 15 18:20:55 2016,SmartHome Runtime Sample Rules.launch,Yordan Mihaylov
+Fri Jun  3  9:56:32 2016,Activator.java,Yordan Mihaylov
+Fri Jun  3  9:56:32 2016,RuleEngine.java,Yordan Mihaylov
+Fri Jun  3  9:56:32 2016,RuleRegistryImpl.java,Yordan Mihaylov
+Fri Jun  3  9:56:32 2016,RuleUtils.java,Yordan Mihaylov
+Fri Jun  3  9:56:32 2016,RuntimeRule.java,Yordan Mihaylov
+Fri Jun  3  9:56:32 2016,CompositeModuleHandlerFactory.java,Yordan Mihaylov
+Fri Jun  3  9:56:32 2016,TemplateManager.java,Yordan Mihaylov
+Fri Jun  3  9:56:32 2016,RuleResourceBundleImporter.java,Yordan Mihaylov
+Mon Jun  6  6:28:18 2016,Rule.java,Yordan Mihaylov
+Mon Jun  6  6:28:18 2016,RuleEngineTest.java,Yordan Mihaylov
+Mon Jun  6  6:28:18 2016,RuleRegistryImpl.java,Yordan Mihaylov
+Mon Jun  6  6:28:18 2016,RuntimeRule.java,Yordan Mihaylov
+Mon Jun  6  6:28:18 2016,RuleEventTest.groovy,Yordan Mihaylov
+Mon Jun  6  6:28:18 2016,org.eclipse.smarthome.automation.integration.test.launch,Yordan Mihaylov
+Mon Jun  6  6:28:18 2016,AutomationIntegrationTest.groovy,Yordan Mihaylov
+Mon Jun  6  6:28:18 2016,org.eclipse.smarthome.automation.module.core.test.launch,Yordan Mihaylov
+Mon Jun  6  6:28:18 2016,RuntimeRuleTest.groovy,Yordan Mihaylov
+Mon Jun  6  6:28:18 2016,RuntimeRuleTest.groovy,Yordan Mihaylov
+Mon Jun  6  6:28:18 2016,RuleResourceBundleImporter.java,Yordan Mihaylov
+Mon Jun  6  6:28:18 2016,WelcomeHomeRulesProvider.java,Yordan Mihaylov

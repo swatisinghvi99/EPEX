@@ -1,0 +1,42 @@
+date_time,file,committer_name
+Wed Oct 21 11:45:48 2020,MANIFEST.MF,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,plugin.properties,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,plugin.xml,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,DWF_DS_23_ScenarioReferencedResolver.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,plugin.xml,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,MDCHK_InteractionUse_ReferencedScenario.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,MANIFEST.MF,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,ESToISCommand.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,ScenarioInvolvementSynchronizer.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,plugin.xml,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,plugin.properties,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,plugin.xml,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,ITopDownConstants.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,PreferenceHelper.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,6.2. Model preferences.html,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,6.2. Model preferences.mediawiki,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,ValidationRules.html,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,ValidationRules.mediawiki,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,RulesOnDesignTest.aird,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,RulesOnDesignTest.capella,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,DWFDSRulesTestSuite.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,Rule_DWF_DS_23.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,GetAvailable_InteractionUse_ReferencedScenario.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,plugin.properties,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,plugin.xml,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,DWF_DS_23_DeleteReferenceResolver.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,MDCHK_InteractionUse_ReferencedScenario.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,AbstractTransitionCommand.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,MANIFEST.MF,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,ScenarioTransform.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,ESToISCommand.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,FS2FSTransform.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,TopDownTransform.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,ESToISCommand.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,ReferencedScenarios_01.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,ReferencedScenarios_02.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,FunctionCapabilityInvolvementRule.java,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,MANIFEST.MF,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,CreateRule_Scenario.aird,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,CreateRule_Scenario.capella,georgiana-ecobici
+Wed Oct 21 11:45:48 2020,ReferencedScenarios_02.java,georgiana-ecobici

@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Mar  6 15:15:02 2023,init-provider.sh,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,asset.json,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,contractdefinition.json,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,data.json,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,digitaltwin.json,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,policy.json,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,application.yml,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,configuration-beta.yml,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,env.yml,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,IMR18650V1_DEV.json,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,NCR186850B_DEV.json,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,X123456789012X12345678901234566_DEV.json,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,IMR18650V1_DEV.json,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,NCR186850B_DEV.json,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,X123456789012X12345678901234566_DEV.json,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,IMR18650V1_DEV.json,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,NCR186850B_DEV.json,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,X123456789012X12345678901234566_DEV.json,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,do_consumer_steps.sh,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,init_provider.sh,Muhammad Saud Khan
+Mon Mar  6 15:15:02 2023,service.const.js,Muhammad Saud Khan

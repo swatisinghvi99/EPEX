@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Fri Jul 13  6:33:34 2018,ImportWizardFormTest.java,Aleksandr Shmaraiev
+Sat Jul 21  5:51:31 2018,AbstractUploadDialogPage.java,Aleksandr Shmaraiev
+Sat Jul 21  5:51:31 2018,UploadDirectoryDialogPage.java,Aleksandr Shmaraiev
+Sat Jul 21  5:51:31 2018,UploadFileDialogPage.java,Aleksandr Shmaraiev
+Sat Jul 21  5:51:31 2018,UploadIntoProjectTest.java,Aleksandr Shmaraiev
+Wed Jul 25  7:54:53 2018,AmendCommitTest.java,Aleksandr Shmaraiev
+Fri Jul 27 14:49:20 2018,InformationDialog.java,Aleksandr Shmaraiev
+Fri Jul 27 14:49:20 2018,MavenPluginStatusBar.java,Aleksandr Shmaraiev
+Fri Jul 27 14:49:20 2018,ImportAndValidateEclipseCheProjectTest.java,Aleksandr Shmaraiev

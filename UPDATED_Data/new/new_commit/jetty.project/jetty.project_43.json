@@ -1,0 +1,152 @@
+[
+    [
+        "Jan Bartel",
+        "java",
+        55
+    ],
+    [
+        "Jan Bartel",
+        "xml",
+        3
+    ],
+    [
+        "Jan Bartel",
+        "html",
+        2
+    ],
+    [
+        "Jan Bartel",
+        "txt",
+        1
+    ],
+    [
+        "Greg Wilkins",
+        "java",
+        260
+    ],
+    [
+        "Greg Wilkins",
+        "xml",
+        61
+    ],
+    [
+        "Greg Wilkins",
+        "ini",
+        9
+    ],
+    [
+        "Greg Wilkins",
+        "txt",
+        37
+    ],
+    [
+        "Greg Wilkins",
+        "properties",
+        7
+    ],
+    [
+        "Greg Wilkins",
+        "html",
+        7
+    ],
+    [
+        "Greg Wilkins",
+        "css",
+        1
+    ],
+    [
+        "Greg Wilkins",
+        "TXT",
+        6
+    ],
+    [
+        "Greg Wilkins",
+        "log",
+        1
+    ],
+    [
+        "Greg Wilkins",
+        "MF",
+        6
+    ],
+    [
+        "Greg Wilkins",
+        "jsp",
+        2
+    ],
+    [
+        "Simone Bordet",
+        "java",
+        268
+    ],
+    [
+        "Simone Bordet",
+        "xml",
+        11
+    ],
+    [
+        "Simone Bordet",
+        "properties",
+        1
+    ],
+    [
+        "Joakim Erdfelt",
+        "java",
+        330
+    ],
+    [
+        "Joakim Erdfelt",
+        "launch",
+        1
+    ],
+    [
+        "Joakim Erdfelt",
+        "xml",
+        4
+    ],
+    [
+        "Joakim Erdfelt",
+        "html",
+        1
+    ],
+    [
+        "Joakim Erdfelt",
+        "css",
+        1
+    ],
+    [
+        "Joakim Erdfelt",
+        "js",
+        1
+    ],
+    [
+        "Joakim Erdfelt",
+        "properties",
+        3
+    ],
+    [
+        "Hugues Malphettes",
+        "xml",
+        43
+    ],
+    [
+        "Hugues Malphettes",
+        "java",
+        19
+    ],
+    [
+        "Hugues Malphettes",
+        "properties",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "java",
+        4
+    ],
+    [
+        "Thomas Becker",
+        "java",
+        1
+    ]
+]

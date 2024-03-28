@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Mon Sep  9 20:54:52 2013,CLIText.properties,Matthias Sohn
+Mon Sep  9 20:54:52 2013,Config.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,DiffTree.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,Gc.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,Glog.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,IndexPack.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,LsRemote.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,LsTree.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,Merge.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,MergeBase.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,RevList.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,RevParse.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,ShowRef.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,DiffAlgorithms.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,MakeCacheTree.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,ReadDirCache.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,RebuildCommitGraph.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,ShowCacheTree.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,ShowDirCache.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,ShowPackDelta.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,TextHashFunctions.java,Matthias Sohn
+Mon Sep  9 20:54:52 2013,WriteDirCache.java,Matthias Sohn

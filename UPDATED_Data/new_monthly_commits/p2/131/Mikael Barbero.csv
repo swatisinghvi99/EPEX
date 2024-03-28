@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Wed Nov 23 18:21:23 2016,build.properties,Mikael Barbero
+Wed Nov 23 18:21:23 2016,TestUpdateListener.java,Mikael Barbero
+Wed Nov 23 18:21:23 2016,AutomaticUpdateMessages.java,Mikael Barbero
+Wed Nov 23 18:21:23 2016,AutomaticUpdateScheduler.java,Mikael Barbero
+Wed Nov 23 18:21:23 2016,AutomaticUpdater.java,Mikael Barbero
+Wed Nov 23 18:21:23 2016,AutomaticUpdatesPreferencePage.java,Mikael Barbero
+Wed Nov 23 18:21:23 2016,LastAutoCheckForUpdateMemo.java,Mikael Barbero
+Wed Nov 23 18:21:23 2016,PreferenceConstants.java,Mikael Barbero
+Wed Nov 23 18:21:23 2016,PreferenceInitializer.java,Mikael Barbero
+Wed Nov 23 18:21:23 2016,messages.properties,Mikael Barbero
+Wed Nov 23 18:21:23 2016,UpdateChecker.java,Mikael Barbero
+Wed Nov 23 18:21:23 2016,IUpdateListener.java,Mikael Barbero

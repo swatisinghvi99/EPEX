@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Fri Sep  4 21:39:54 2009,GenerateEntitiesFromSchemaWizard.java,nhauge
+Fri Sep  4 21:39:54 2009,TablesSelectorWizardPage.java,nhauge
+Tue Sep  8 23:47:17 2009,jpt_ui_entity_wizard.properties,nhauge
+Tue Sep  8 23:47:17 2009,EntityFieldsWizardPage.java,nhauge
+Tue Sep  8 23:47:17 2009,EntityRowTableWizardSection.java,nhauge
+Tue Sep  8 23:47:17 2009,EntityWizardMsg.java,nhauge
+Tue Sep  8 23:47:17 2009,EntityDataModelProvider.java,nhauge
+Tue Sep  8 23:47:17 2009,EntityRow.java,nhauge
+Fri Sep 18 15:10:41 2009,JpaModelTests.java,nhauge
+Wed Sep 23 21:38:16 2009,SynchronizeClassesJob.java,nhauge
+Wed Sep 23 21:38:16 2009,GenerateEntitiesFromSchemaWizard.java,nhauge
+Thu Sep 24 16:25:13 2009,SynchronizeClassesJob.java,nhauge

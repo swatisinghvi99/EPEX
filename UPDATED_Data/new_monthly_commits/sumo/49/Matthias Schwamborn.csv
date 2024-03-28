@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Thu May  5 15:45:06 2022,NLHandler.cpp,Matthias Schwamborn
+Thu May  5 15:45:06 2022,NLTriggerBuilder.cpp,Matthias Schwamborn
+Thu May  5 15:45:06 2022,AdditionalHandler.cpp,Matthias Schwamborn
+Thu May  5 15:45:06 2022,CommonXMLStructure.cpp,Matthias Schwamborn
+Thu May  5 15:45:06 2022,CommonXMLStructure.h,Matthias Schwamborn
+Thu May  5 15:45:06 2022,SUMOSAXAttributes.cpp,Matthias Schwamborn
+Thu May  5 15:45:06 2022,SUMOSAXAttributes.h,Matthias Schwamborn
+Fri May  6 15:19:44 2022,Change_Vehicle_State.md,Matthias Schwamborn
+Fri May  6 15:19:44 2022,Vehicle.cpp,Matthias Schwamborn
+Fri May  6 15:19:44 2022,TraCIServerAPI_Vehicle.cpp,Matthias Schwamborn
+Fri May  6 15:19:44 2022,output.complex,Matthias Schwamborn
+Fri May  6 15:19:44 2022,runner.py,Matthias Schwamborn

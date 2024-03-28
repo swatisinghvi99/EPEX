@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Mon Aug 15 16:26:48 2016,DataModelerServiceImpl.java,Guilherme Carreiro
+Mon Aug 15 16:26:48 2016,BuildServiceImpl.java,Guilherme Carreiro
+Mon Aug 15 16:26:48 2016,Builder.java,Guilherme Carreiro
+Mon Aug 15 16:26:48 2016,DRLFileFilter.java,Guilherme Carreiro
+Mon Aug 15 16:26:48 2016,DSLRFileFilter.java,Guilherme Carreiro
+Mon Aug 15 16:26:48 2016,RDRLFileFilter.java,Guilherme Carreiro
+Mon Aug 15 16:26:48 2016,RDSLRFileFilter.java,Guilherme Carreiro
+Mon Aug 15 16:26:48 2016,AllKieProjectFilesFilter.java,Guilherme Carreiro
+Mon Aug 15 16:26:48 2016,DefaultGenericKieValidator.java,Guilherme Carreiro
+Mon Aug 15 16:26:48 2016,Validator.java,Guilherme Carreiro
+Mon Aug 15 16:26:48 2016,ValidatorBuildService.java,Guilherme Carreiro
+Mon Aug 15 16:26:48 2016,ValidatorFileSystemProvider.java,Guilherme Carreiro
+Mon Aug 15 16:26:48 2016,ValidatorResultBuilder.java,Guilherme Carreiro
+Mon Aug 15 16:26:48 2016,BuildServiceImplTest.java,Guilherme Carreiro
+Mon Aug 15 16:26:48 2016,BuilderTest.java,Guilherme Carreiro
+Mon Aug 15 16:26:48 2016,AllKieProjectFilesFilterTest.java,Guilherme Carreiro
+Mon Aug 15 16:26:48 2016,DefaultGenericKieValidatorTest.java,Guilherme Carreiro
+Mon Aug 15 16:26:48 2016,ValidatorTest.java,Guilherme Carreiro
+Tue Sep  6 18:59:56 2016,DefaultWorkbenchFeaturesMenusHelper.java,Guilherme Carreiro
+Tue Sep  6 18:59:56 2016,DefaultWorkbenchFeaturesMenusHelperTest.java,Guilherme Carreiro

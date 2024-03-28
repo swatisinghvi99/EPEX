@@ -1,0 +1,127 @@
+[
+    [
+        "akosyakov",
+        "java",
+        25
+    ],
+    [
+        "akosyakov",
+        "xtend",
+        7
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        23
+    ],
+    [
+        "Dennis Huebner",
+        "xtend",
+        17
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "xcore",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "xtend",
+        26
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "java",
+        100
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "xml_gen",
+        5
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "genmodel",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "mwe2",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "xml",
+        3
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "g",
+        6
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "project",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "gradle",
+        4
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "js",
+        1
+    ],
+    [
+        "Holger Schill",
+        "java",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "java",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        46
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        6
+    ],
+    [
+        "Sven Efftinge",
+        "g",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "genmodel",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "mwe2",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "xtend",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        1
+    ]
+]

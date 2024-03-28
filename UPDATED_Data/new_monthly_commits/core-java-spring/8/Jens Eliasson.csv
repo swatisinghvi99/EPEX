@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Fri Jan 17 14:45:33 2020,CommonConstants.java,Jens Eliasson
+Fri Jan 17 14:45:33 2020,CoreSystemService.java,Jens Eliasson
+Fri Jan 17 14:53:55 2020,DataManagerMain.java,Jens Eliasson
+Fri Jan 17 20:13:43 2020,SenML.java,Jens Eliasson
+Fri Jan 17 20:13:43 2020,pom.xml,Jens Eliasson
+Fri Jan 17 20:13:43 2020,DataManagerApplicationInitListener.java,Jens Eliasson
+Fri Jan 17 20:13:43 2020,DataManagerController.java,Jens Eliasson
+Fri Jan 17 20:13:43 2020,DatamanagerApplicationInitListener.java,Jens Eliasson
+Fri Jan 17 20:13:43 2020,DataManagerDBServiceTestContext.java,Jens Eliasson
+Fri Jan 17 20:13:43 2020,DataManagerDBServiceTest.java,Jens Eliasson
+Fri Jan 17 22:24:10 2020,Defaults.java,Jens Eliasson
+Fri Jan 17 22:24:10 2020,CoreSystem.java,Jens Eliasson
+Fri Jan 17 22:24:10 2020,pom.xml,Jens Eliasson
+Tue Jan 21 14:42:15 2020,DataManagerDBService.java,Jens Eliasson
+Tue Jan 21 16:37:37 2020,DataManagerController.java,Jens Eliasson
+Tue Jan 21 16:42:48 2020,DataManagerDriver.java,Jens Eliasson
+Tue Jan 21 16:42:48 2020,DataManagerService.java,Jens Eliasson
+Tue Jan 21 16:42:48 2020,HistorianService.java,Jens Eliasson
+Tue Jan 21 16:42:48 2020,ProxyElement.java,Jens Eliasson
+Tue Jan 21 16:42:48 2020,ProxyService.java,Jens Eliasson
+Tue Jan 21 16:43:46 2020,DataManagerDBService.java,Jens Eliasson

@@ -1,0 +1,157 @@
+[
+    [
+        "james",
+        "java",
+        135
+    ],
+    [
+        "james",
+        "properties",
+        9
+    ],
+    [
+        "james",
+        "off",
+        1
+    ],
+    [
+        "james",
+        "html",
+        10
+    ],
+    [
+        "james",
+        "htm",
+        2
+    ],
+    [
+        "james",
+        "xml",
+        7
+    ],
+    [
+        "james",
+        "unknown",
+        2
+    ],
+    [
+        "james",
+        "vcm_meta",
+        1
+    ],
+    [
+        "Andre Weinand",
+        "java",
+        74
+    ],
+    [
+        "Andre Weinand",
+        "html",
+        10
+    ],
+    [
+        "Andre Weinand",
+        "properties",
+        10
+    ],
+    [
+        "Andre Weinand",
+        "classpath",
+        2
+    ],
+    [
+        "Michael Valenta",
+        "java",
+        224
+    ],
+    [
+        "Michael Valenta",
+        "properties",
+        24
+    ],
+    [
+        "Michael Valenta",
+        "xml",
+        7
+    ],
+    [
+        "Michael Valenta",
+        "unknown",
+        1
+    ],
+    [
+        "Michael Valenta",
+        "html",
+        4
+    ],
+    [
+        "Michael Valenta",
+        "htm",
+        1
+    ],
+    [
+        "Jean Michel-Lemieux",
+        "java",
+        563
+    ],
+    [
+        "Jean Michel-Lemieux",
+        "properties",
+        19
+    ],
+    [
+        "Jean Michel-Lemieux",
+        "xml",
+        14
+    ],
+    [
+        "Jean Michel-Lemieux",
+        "launch",
+        3
+    ],
+    [
+        "Jean Michel-Lemieux",
+        "classpath",
+        4
+    ],
+    [
+        "Jean Michel-Lemieux",
+        "project",
+        3
+    ],
+    [
+        "Jean Michel-Lemieux",
+        "cvsignore",
+        1
+    ],
+    [
+        "Jean Michel-Lemieux",
+        "html",
+        2
+    ],
+    [
+        "Jean Michel-Lemieux",
+        "options",
+        1
+    ],
+    [
+        "Jean Michel-Lemieux",
+        "txt",
+        1
+    ],
+    [
+        "Kevin Macguire",
+        "java",
+        7
+    ],
+    [
+        "Dani Megert",
+        "java",
+        2
+    ],
+    [
+        "mhuebscher",
+        "java",
+        2
+    ]
+]

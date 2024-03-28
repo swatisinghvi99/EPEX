@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Thu Aug 16 12:31:08 2018,AbstractXtendCompilerMojo.java,Karsten Thoms
+Thu Aug 16 15:26:28 2018,TemplateFileWizardFragment.xtend,Karsten Thoms
+Thu Aug 16 15:26:28 2018,TemplateProjectWizardFragment.xtend,Karsten Thoms
+Thu Aug 16 15:26:28 2018,TemplateFileWizardFragment.java,Karsten Thoms
+Thu Aug 16 15:26:28 2018,TemplateProjectWizardFragment.java,Karsten Thoms
+Thu Aug 30 15:33:10 2018,versions.gradle,Karsten Thoms
+Thu Aug 30 15:33:10 2018,build.gradle,Karsten Thoms
+Thu Aug 30 15:33:10 2018,CliProjectsCreatorMainTest.xtend,Karsten Thoms
+Thu Aug 30 15:33:10 2018,CliWizardIntegrationTest.xtend,Karsten Thoms
+Thu Aug 30 15:33:10 2018,CliProjectsCreatorMainTest.java,Karsten Thoms
+Thu Aug 30 15:33:10 2018,CliWizardIntegrationTest.java,Karsten Thoms
+Thu Aug 30 15:33:10 2018,build.gradle,Karsten Thoms
+Thu Aug 30 15:33:10 2018,LineDelimiter.java,Karsten Thoms
+Thu Aug 30 15:33:10 2018,CliProjectsCreatorMain.java,Karsten Thoms
+Thu Aug 30 15:33:10 2018,OptionHandlers.java,Karsten Thoms
+Tue Sep  4 13:17:02 2018,JdtBasedProcessorProviderTest.xtend,Karsten Thoms
+Tue Sep  4 13:17:02 2018,MoreActiveAnnotationsTest.xtend,Karsten Thoms
+Tue Sep  4 13:17:02 2018,JdtBasedProcessorProviderTest.java,Karsten Thoms
+Tue Sep  4 13:17:02 2018,MoreActiveAnnotationsTest.java,Karsten Thoms
+Tue Sep  4 13:23:43 2018,JdtBasedProcessorProviderTest.xtend,Karsten Thoms
+Tue Sep  4 13:23:43 2018,MoreActiveAnnotationsTest.xtend,Karsten Thoms
+Tue Sep  4 13:23:43 2018,JdtBasedProcessorProviderTest.java,Karsten Thoms
+Tue Sep  4 13:23:43 2018,MoreActiveAnnotationsTest.java,Karsten Thoms

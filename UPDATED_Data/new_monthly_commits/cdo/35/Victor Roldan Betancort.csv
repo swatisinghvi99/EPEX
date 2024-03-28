@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Mon Feb 23  9:14:53 2009,AllTestsAllConfigs.java,Victor Roldan Betancort
+Mon Feb 23  9:14:53 2009,InitialTest.java,Victor Roldan Betancort
+Mon Feb 23  9:14:53 2009,Bugzilla_265114_Test.java,Victor Roldan Betancort
+Mon Feb 23  9:14:53 2009,CDOResourceFactory.java,Victor Roldan Betancort
+Mon Feb 23  9:14:53 2009,CDOResourceFactoryImpl.java,Victor Roldan Betancort
+Mon Feb 23  9:14:53 2009,CDOResourceImpl.java,Victor Roldan Betancort
+Mon Feb 23  9:14:53 2009,CDOViewAdapter.java,Victor Roldan Betancort
+Mon Feb 23  9:14:53 2009,CDOViewProvider.java,Victor Roldan Betancort
+Mon Feb 23  9:14:53 2009,CDOViewProviderRegistry.java,Victor Roldan Betancort
+Mon Feb 23  9:14:53 2009,CDOLegacyWrapper.java,Victor Roldan Betancort
+Mon Feb 23  9:14:53 2009,CDOMetaWrapper.java,Victor Roldan Betancort
+Mon Feb 23  9:14:53 2009,CDOObjectImpl.java,Victor Roldan Betancort
+Mon Feb 23  9:14:53 2009,CDOStateMachine.java,Victor Roldan Betancort
+Mon Feb 23  9:14:53 2009,FSMUtil.java,Victor Roldan Betancort
+Mon Feb 23  9:14:53 2009,CDOViewProviderRegistryImpl.java,Victor Roldan Betancort
+Mon Feb 23  9:14:53 2009,CDOViewSetImpl.java,Victor Roldan Betancort
+Mon Feb 23  9:14:53 2009,PluginContainerViewProvider.java,Victor Roldan Betancort
+Mon Feb 23  9:14:53 2009,InternalCDOLoadable.java,Victor Roldan Betancort
+Mon Feb 23  9:44:12 2009,CDOItemProviderAdapter.java,Victor Roldan Betancort

@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Tue Jun 13 15:35:29 2023,ExtendedLogServiceImpl.java,Jörg Kubitz
+Wed Jun 14  6:09:09 2023,Activator.java,Jörg Kubitz
+Wed Jun 14 14:49:55 2023,AppPersistence.java,Jörg Kubitz
+Wed Jun 14 14:49:55 2023,X509CertificateAttributeContentProvider.java,Jörg Kubitz
+Wed Jun 14 14:49:55 2023,Storage.java,Jörg Kubitz
+Tue Jun 20 23:28:49 2023,EclipseDebugTrace.java,Jörg Kubitz
+Thu Jun 22 20:56:32 2023,PlatformURLConnection.java,Jörg Kubitz
+Thu Jun 22 20:56:32 2023,Main.java,Jörg Kubitz
+Thu Jun 22 20:56:32 2023,TableWriter.java,Jörg Kubitz
+Thu Jun 22 20:56:32 2023,FrameworkLauncher.java,Jörg Kubitz
+Thu Jun 22 20:56:32 2023,CSVParser.java,Jörg Kubitz
+Thu Jun 22 20:56:32 2023,XSLTStreamTransformer.java,Jörg Kubitz
+Thu Jun 22 20:56:32 2023,EclipseDebugTrace.java,Jörg Kubitz
+Thu Jun 22 20:56:32 2023,EquinoxLocations.java,Jörg Kubitz
+Thu Jun 22 20:56:32 2023,EquinoxLogWriter.java,Jörg Kubitz
+Thu Jun 22 20:56:32 2023,Storage.java,Jörg Kubitz

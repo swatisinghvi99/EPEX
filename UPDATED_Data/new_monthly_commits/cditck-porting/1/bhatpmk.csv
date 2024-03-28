@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Thu Sep 20 18:03:13 2018,NOTICE,bhatpmk
+Thu Sep 20 18:03:13 2018,README.md,bhatpmk
+Thu Sep 20 18:03:13 2018,build.properties,bhatpmk
+Thu Sep 20 18:03:13 2018,build.xml,bhatpmk
+Thu Sep 20 18:03:13 2018,cdi-tck-impl-sigtest-jdk8.sig,bhatpmk
+Thu Sep 20 18:03:13 2018,common.xml,bhatpmk
+Thu Sep 20 18:03:13 2018,pom.template.xml,bhatpmk
+Thu Sep 20 18:03:13 2018,assembly.xml,bhatpmk
+Thu Sep 20 18:03:13 2018,arquillian.template.xml,bhatpmk
+Thu Sep 20 18:03:13 2018,GlassFishDeploymentExceptionTransformer.java,bhatpmk
+Thu Sep 20 18:03:13 2018,GlassFishExtension.java,bhatpmk
+Thu Sep 20 18:03:13 2018,GlassFishResourceManager.java,bhatpmk
+Thu Sep 20 18:03:13 2018,cdi-tck.properties,bhatpmk
+Thu Sep 20 18:03:13 2018,org.jboss.arquillian.core.spi.LoadableExtension,bhatpmk
+Thu Sep 20 18:03:13 2018,log4j.xml,bhatpmk
+Thu Sep 20 18:03:13 2018,tck-tests.xml,bhatpmk
+Thu Sep 20 18:03:13 2018,tck-tests1.2.5.xml,bhatpmk
+Thu Sep 20 18:03:13 2018,tck-tests_.orig.xml,bhatpmk
+Thu Sep 20 18:03:13 2018,tck-tests_1.xml,bhatpmk
+Thu Sep 20 18:03:13 2018,arquillian.xml,bhatpmk
+Thu Sep 20 18:03:13 2018,glassfish.xml,bhatpmk
+Thu Sep 20 18:03:13 2018,password.template,bhatpmk
+Thu Sep 20 18:03:13 2018,password.txt,bhatpmk
+Thu Sep 20 18:03:13 2018,settings.xml,bhatpmk

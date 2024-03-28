@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Tue Mar  5 17:32:51 2024,devcontainer.json,Erik Jaegervall
+Tue Mar  5 17:32:51 2024,.flake8,Erik Jaegervall
+Tue Mar  5 17:32:51 2024,check_license.yml,Erik Jaegervall
+Tue Mar  5 17:32:51 2024,dash.yml,Erik Jaegervall
+Tue Mar  5 17:32:51 2024,mock-provider.yml,Erik Jaegervall
+Tue Mar  5 17:32:51 2024,pre-commit.yml,Erik Jaegervall
+Tue Mar  5 17:32:51 2024,.pylintrc,Erik Jaegervall
+Tue Mar  5 17:32:51 2024,Dockerfile,Erik Jaegervall
+Tue Mar  5 17:32:51 2024,README.md,Erik Jaegervall
+Tue Mar  5 17:32:51 2024,concept.md,Erik Jaegervall
+Tue Mar  5 17:32:51 2024,baseservice.py,Erik Jaegervall
+Tue Mar  5 17:32:51 2024,mockservice.py,Erik Jaegervall
+Tue Mar  5 17:32:51 2024,docker-build.sh,Erik Jaegervall
+Tue Mar  5 17:32:51 2024,requirements-dev.txt,Erik Jaegervall
+Tue Mar  5 17:32:51 2024,mockprovider.py,Erik Jaegervall
+Tue Mar  5 17:32:51 2024,requirements-dev.txt,Erik Jaegervall
+Tue Mar  5 17:32:51 2024,setup.py,Erik Jaegervall
+Tue Mar  5 17:32:51 2024,GUI.py,Erik Jaegervall
+Fri Mar  8  7:57:21 2024,setup.py,Erik Jaegervall

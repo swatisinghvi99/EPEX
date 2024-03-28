@@ -1,0 +1,54 @@
+date_time,file,committer_name
+Mon Sep 12 12:04:13 2016,MergeableManifest.java,Karsten Thoms
+Mon Sep 12 12:04:13 2016,XtextGenerator.xtend,Karsten Thoms
+Mon Sep 12 12:04:13 2016,ManifestAccess.xtend,Karsten Thoms
+Mon Sep 12 12:04:13 2016,XtextProjectConfig.xtend,Karsten Thoms
+Mon Sep 12 12:04:13 2016,XtextGenerator.java,Karsten Thoms
+Mon Sep 12 12:04:13 2016,ManifestAccess.java,Karsten Thoms
+Mon Sep 12 12:04:13 2016,XtextProjectConfig.java,Karsten Thoms
+Tue Sep 13  7:38:46 2016,ManifestMergerTest.java,Karsten Thoms
+Tue Sep 13  9:43:37 2016,XtextEditor.java,Karsten Thoms
+Wed Sep 14  7:13:11 2016,ManifestMergerTest.java,Karsten Thoms
+Wed Sep 14  7:59:36 2016,SerializerTest.xtend,Karsten Thoms
+Wed Sep 14  7:59:36 2016,SerializerTest.java,Karsten Thoms
+Wed Sep 14 10:23:25 2016,NewXtextProjectWizard.java,Karsten Thoms
+Mon Sep 19 13:39:39 2016,Messages.java,Karsten Thoms
+Mon Sep 19 13:39:39 2016,WizardNewXtextProjectCreationPage.java,Karsten Thoms
+Mon Sep 19 13:39:39 2016,messages.properties,Karsten Thoms
+Tue Sep 20 15:00:11 2016,XtextDocumentProvider.java,Karsten Thoms
+Tue Sep 20 15:24:03 2016,IntegerRangeTest.java,Karsten Thoms
+Tue Sep 20 15:24:03 2016,IntegerRange.java,Karsten Thoms
+Fri Sep 23 12:03:06 2016,Generate MyDsl (mydsl) Language Infrastructure.launch,Karsten Thoms
+Fri Sep 23 12:03:06 2016,Launch Runtime Eclipse.launch,Karsten Thoms
+Fri Sep 23 12:03:06 2016,Generate MyDsl (mydsl) Language Infrastructure.launch,Karsten Thoms
+Fri Sep 23 12:03:06 2016,Launch Runtime Eclipse.launch,Karsten Thoms
+Fri Sep 23 12:03:06 2016,Generate MyDsl (mydsl) Language Infrastructure.launch,Karsten Thoms
+Fri Sep 23 12:03:06 2016,Launch Runtime Eclipse.launch,Karsten Thoms
+Fri Sep 23 12:03:06 2016,Generate MyDsl (mydsl) Language Infrastructure.launch,Karsten Thoms
+Fri Sep 23 12:03:06 2016,Generate MyDsl (mydsl) Language Infrastructure.launch,Karsten Thoms
+Fri Sep 23 12:03:06 2016,Launch Runtime Eclipse.launch,Karsten Thoms
+Fri Sep 23 12:03:06 2016,Generate MyDsl (mydsl) Language Infrastructure.launch,Karsten Thoms
+Fri Sep 23 12:03:06 2016,Launch Runtime Eclipse.launch,Karsten Thoms
+Fri Sep 23 12:03:06 2016,Generate MyDsl (mydsl) Language Infrastructure.launch,Karsten Thoms
+Fri Sep 23 12:03:06 2016,RuntimeProjectDescriptor.xtend,Karsten Thoms
+Fri Sep 23 12:03:06 2016,RuntimeProjectDescriptor.java,Karsten Thoms
+Mon Sep 26  6:11:50 2016,RuntimeProjectDescriptor.xtend,Karsten Thoms
+Mon Sep 26  6:11:50 2016,RuntimeProjectDescriptor.java,Karsten Thoms
+Wed Sep 28 10:04:09 2016,CompilerTests2.xtend,Karsten Thoms
+Wed Sep 28 10:04:09 2016,NewLanguageFeaturesCompilerTest.xtend,Karsten Thoms
+Wed Sep 28 10:04:09 2016,CompilerTests2.java,Karsten Thoms
+Wed Sep 28 10:04:09 2016,NewLanguageFeaturesCompilerTest.java,Karsten Thoms
+Wed Sep 28 10:04:09 2016,XbaseCompiler.java,Karsten Thoms
+Wed Sep 28 13:38:49 2016,SerializerTest.java,Karsten Thoms
+Fri Oct  7 13:07:30 2016,GenerateMyDsl.mwe2,Karsten Thoms
+Fri Oct  7 13:07:30 2016,GenerateMyDsl.mwe2,Karsten Thoms
+Fri Oct  7 13:07:30 2016,GenerateMyDsl.mwe2,Karsten Thoms
+Fri Oct  7 13:07:30 2016,GenerateMyDsl.mwe2,Karsten Thoms
+Fri Oct  7 13:07:30 2016,GenerateMyDsl.mwe2,Karsten Thoms
+Fri Oct  7 13:07:30 2016,GenerateMyDsl.mwe2,Karsten Thoms
+Fri Oct  7 13:07:30 2016,GenerateMyDsl.mwe2,Karsten Thoms
+Fri Oct  7 13:07:30 2016,RuntimeProjectDescriptor.xtend,Karsten Thoms
+Fri Oct  7 13:07:30 2016,WizardConfiguration.xtend,Karsten Thoms
+Fri Oct  7 13:07:30 2016,RuntimeProjectDescriptor.java,Karsten Thoms
+Fri Oct  7 13:07:30 2016,WizardConfiguration.java,Karsten Thoms
+Fri Oct  7 15:39:53 2016,WizardNewXtextProjectCreationPage.java,Karsten Thoms

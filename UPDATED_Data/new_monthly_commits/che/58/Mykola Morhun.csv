@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Fri Nov 27 13:01:59 2020,che.properties,Mykola Morhun
+Fri Nov 27 13:01:59 2020,che_aliases.properties,Mykola Morhun
+Fri Nov 27 13:01:59 2020,deployment.yaml,Mykola Morhun
+Fri Nov 27 13:01:59 2020,values.yaml,Mykola Morhun
+Fri Nov 27 13:01:59 2020,configmap.yaml,Mykola Morhun
+Fri Nov 27 13:01:59 2020,values.yaml,Mykola Morhun
+Fri Nov 27 13:01:59 2020,kc_realm_user.sh,Mykola Morhun
+Fri Nov 27 13:01:59 2020,CheServerKubernetesClientFactory.java,Mykola Morhun
+Fri Nov 27 13:01:59 2020,KubernetesEnvironmentProvisioner.java,Mykola Morhun
+Fri Nov 27 13:01:59 2020,KubernetesInfraModule.java,Mykola Morhun
+Fri Nov 27 13:01:59 2020,KubernetesTrustedCAProvisioner.java,Mykola Morhun
+Fri Nov 27 13:01:59 2020,TrustedCAProvisioner.java,Mykola Morhun
+Fri Nov 27 13:01:59 2020,BrokerEnvironmentFactory.java,Mykola Morhun
+Fri Nov 27 13:01:59 2020,KubernetesBrokerEnvironmentFactory.java,Mykola Morhun
+Fri Nov 27 13:01:59 2020,KubernetesEnvironmentProvisionerTest.java,Mykola Morhun
+Fri Nov 27 13:01:59 2020,KubernetesInternalRuntimeTest.java,Mykola Morhun
+Fri Nov 27 13:01:59 2020,BrokerEnvironmentFactoryTest.java,Mykola Morhun
+Fri Nov 27 13:01:59 2020,OpenShiftEnvironmentProvisioner.java,Mykola Morhun
+Fri Nov 27 13:01:59 2020,OpenShiftInfraModule.java,Mykola Morhun
+Fri Nov 27 13:01:59 2020,OpenShiftInternalRuntime.java,Mykola Morhun
+Fri Nov 27 13:01:59 2020,OpenshiftTrustedCAProvisioner.java,Mykola Morhun
+Fri Nov 27 13:01:59 2020,OpenshiftBrokerEnvironmentFactory.java,Mykola Morhun
+Fri Nov 27 13:01:59 2020,OpenShiftEnvironmentProvisionerTest.java,Mykola Morhun
+Fri Nov 27 13:01:59 2020,OpenShiftInternalRuntimeTest.java,Mykola Morhun
+Fri Nov 27 13:01:59 2020,OpenshiftTrustedCAProvisionerTest.java,Mykola Morhun
+Thu Dec  3 10:17:53 2020,KubernetesTrustedCAProvisioner.java,Mykola Morhun

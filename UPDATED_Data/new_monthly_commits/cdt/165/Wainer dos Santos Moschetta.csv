@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Fri Mar  4 19:32:34 2016,JSchProcess.java,Wainer dos Santos Moschetta
+Fri Mar  4 19:32:34 2016,Messages.java,Wainer dos Santos Moschetta
+Fri Mar  4 19:32:34 2016,messages.properties,Wainer dos Santos Moschetta
+Fri Mar  4 19:32:34 2016,ProcessTests.java,Wainer dos Santos Moschetta
+Fri Mar 11 19:01:28 2016,RemoteResourceBrowserWidget.java,Wainer dos Santos Moschetta
+Fri Mar 11 19:01:28 2016,.classpath,Wainer dos Santos Moschetta
+Fri Mar 11 19:01:28 2016,.project,Wainer dos Santos Moschetta
+Fri Mar 11 19:01:28 2016,org.eclipse.jdt.core.prefs,Wainer dos Santos Moschetta
+Fri Mar 11 19:01:28 2016,MANIFEST.MF,Wainer dos Santos Moschetta
+Fri Mar 11 19:01:28 2016,build.properties,Wainer dos Santos Moschetta
+Fri Mar 11 19:01:28 2016,RemoteResourceBrowserTest.java,Wainer dos Santos Moschetta
+Mon Mar 14 21:20:50 2016,AutotoolsOptionConstants.java,Wainer dos Santos Moschetta
+Mon Mar 14 21:20:50 2016,IAutotoolsOption.java,Wainer dos Santos Moschetta
+Mon Mar 14 21:20:50 2016,AutotoolsConfiguration.java,Wainer dos Santos Moschetta
+Mon Mar 14 21:20:50 2016,AutotoolsConfigurationManager.java,Wainer dos Santos Moschetta
+Mon Mar 14 21:20:50 2016,ConfigureMessages.properties,Wainer dos Santos Moschetta
+Mon Mar 14 21:20:50 2016,IConfigureOption.java,Wainer dos Santos Moschetta
+Mon Mar 14 21:20:50 2016,VariableConfigureOption.java,Wainer dos Santos Moschetta
+Mon Mar 14 21:20:50 2016,MANIFEST.MF,Wainer dos Santos Moschetta
+Mon Mar 14 21:20:50 2016,AutotoolsCategoryPropertyOptionPage.java,Wainer dos Santos Moschetta
+Mon Mar 14 21:20:50 2016,AutotoolsPropertyMessages.properties,Wainer dos Santos Moschetta
+Thu Mar 24 13:44:17 2016,RemoteConnectionType.java,Wainer dos Santos Moschetta

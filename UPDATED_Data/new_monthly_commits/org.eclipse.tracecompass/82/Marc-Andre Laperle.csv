@@ -1,0 +1,7 @@
+date_time,file,committer_name
+Mon Mar  6 17:42:42 2017,ChartMakerDialog.java,Marc-Andre Laperle
+Tue Mar 14 19:31:39 2017,LttngTraceGenerator.java,Marc-Andre Laperle
+Tue Mar 14 19:31:39 2017,ImportAndReadKernelSmokeTest.java,Marc-Andre Laperle
+Tue Mar 21 20:26:59 2017,TmfAlignmentSynchronizer.java,Marc-Andre Laperle
+Tue Mar 21 20:26:59 2017,TmfOpenTraceHelper.java,Marc-Andre Laperle
+Fri Mar 24 23:04:45 2017,LoggerTest.java,Marc-Andre Laperle

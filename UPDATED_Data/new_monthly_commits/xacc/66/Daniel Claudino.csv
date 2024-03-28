@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Mon Apr 18 14:42:35 2022,CMakeLists.txt,Daniel Claudino
+Mon Apr 18 14:42:35 2022,CMakeLists.txt,Daniel Claudino
+Mon Apr 18 14:42:35 2022,h2_hwe.cpp,Daniel Claudino
+Mon Apr 18 14:42:35 2022,mc_vqe.cpp,Daniel Claudino
+Mon Apr 18 14:42:35 2022,parameter_shift.cpp,Daniel Claudino
+Mon Apr 18 14:42:35 2022,ParameterShiftGradient.hpp,Daniel Claudino
+Mon Apr 18 14:42:35 2022,CMakeLists.txt,Daniel Claudino
+Mon Apr 18 14:42:35 2022,MPIProxy.cpp,Daniel Claudino
+Mon Apr 18 14:42:35 2022,MPIProxy.hpp,Daniel Claudino
+Mon Apr 18 14:42:35 2022,hpc_virt_decorator.cpp,Daniel Claudino
+Mon Apr 18 14:42:35 2022,hpc_virt_decorator.hpp,Daniel Claudino
+Mon Apr 18 14:42:35 2022,QppAcceleratorTester.cpp,Daniel Claudino
+Mon Apr 18 14:42:35 2022,xacc-quantum-py.cpp,Daniel Claudino
+Mon Apr 18 14:42:35 2022,xacc-quantum-py.hpp,Daniel Claudino
+Mon Apr 18 14:42:35 2022,CMakeLists.txt,Daniel Claudino
+Mon Apr 18 14:42:35 2022,AlgorithmGradientStrategy.hpp,Daniel Claudino
+Mon Apr 18 14:42:35 2022,xacc.cpp,Daniel Claudino

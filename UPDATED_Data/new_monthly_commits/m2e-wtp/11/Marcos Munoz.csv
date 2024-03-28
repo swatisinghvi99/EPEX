@@ -1,0 +1,6 @@
+date_time,file,committer_name
+Mon Apr 22 16:35:00 2013,plugin.xml,Marcos Munoz
+Mon Apr 22 16:35:00 2013,AppClientVersionChangeDelegate.java,Marcos Munoz
+Mon Apr 22 16:35:00 2013,EarVersionChangeDelegate.java,Marcos Munoz
+Mon Apr 22 16:35:00 2013,NoOpVersionChangeDelegate.java,Marcos Munoz
+Mon Apr 22 16:35:00 2013,WarVersionChangeDelegate.java,Marcos Munoz

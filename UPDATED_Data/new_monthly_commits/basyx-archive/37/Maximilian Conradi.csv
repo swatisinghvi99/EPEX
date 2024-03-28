@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Mon Feb  8 11:16:42 2021,SubmodelElementXMLConverter.java,Maximilian Conradi
+Mon Feb  8 11:16:42 2021,AnnotatedRelationshipElementXMLConverter.java,Maximilian Conradi
+Mon Feb  8 11:16:42 2021,RelationshipElementXMLConverter.java,Maximilian Conradi
+Mon Feb  8 11:16:42 2021,IAnnotatedRelationshipElement.java,Maximilian Conradi
+Mon Feb  8 11:16:42 2021,ConnectedSubmodelElementFactory.java,Maximilian Conradi
+Mon Feb  8 11:16:42 2021,ConnectedAnnotatedRelationshipElement.java,Maximilian Conradi
+Mon Feb  8 11:16:42 2021,SubmodelElementFacadeFactory.java,Maximilian Conradi
+Mon Feb  8 11:16:42 2021,AnnotatedRelationshipElement.java,Maximilian Conradi
+Mon Feb  8 11:16:42 2021,AnnotatedRelationshipElementValue.java,Maximilian Conradi
+Mon Feb  8 11:16:42 2021,TestXMLConverter.java,Maximilian Conradi
+Mon Feb  8 11:16:42 2021,TestSubmodelSuite.java,Maximilian Conradi
+Mon Feb  8 11:16:42 2021,TestConnectedAnnotatedRelationshipElement.java,Maximilian Conradi
+Mon Feb  8 11:16:42 2021,TestAnnotatedRelationshipElement.java,Maximilian Conradi
+Mon Feb  8 11:16:42 2021,in.xml,Maximilian Conradi

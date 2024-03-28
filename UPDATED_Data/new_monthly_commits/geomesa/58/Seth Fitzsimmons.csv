@@ -1,0 +1,7 @@
+date_time,file,committer_name
+Tue Nov 20 15:46:11 2018,sparksql_functions.rst,Seth Fitzsimmons
+Tue Nov 20 15:46:11 2018,DataFrameFunctions.scala,Seth Fitzsimmons
+Tue Nov 20 15:46:11 2018,GeometricCastFunctions.scala,Seth Fitzsimmons
+Tue Nov 20 15:46:11 2018,GeometricCastFunctionsTest.scala,Seth Fitzsimmons
+Tue Nov 20 15:46:11 2018,GeometricConstructorFunctionsTest.scala,Seth Fitzsimmons
+Tue Nov 20 15:46:11 2018,util.scala,Seth Fitzsimmons

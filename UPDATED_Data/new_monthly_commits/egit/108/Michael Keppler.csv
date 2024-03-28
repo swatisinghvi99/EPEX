@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Sat Sep  1 20:30:13 2018,BranchConfigurationDialog.java,Michael Keppler
+Sat Sep  1 20:55:40 2018,UIIcons.java,Michael Keppler
+Sat Sep  1 20:55:40 2018,StashesMenu.java,Michael Keppler
+Sat Sep  1 21:02:14 2018,GitModelCache.java,Michael Keppler
+Sat Sep  1 21:02:14 2018,GitModelTree.java,Michael Keppler
+Sat Sep  1 22:03:22 2018,GitModelObject.java,Michael Keppler
+Sat Sep  1 22:18:24 2018,ProjectUtil.java,Michael Keppler
+Sat Sep  1 23:43:05 2018,ClipboardUtils.java,Michael Keppler
+Sat Sep  1 23:43:05 2018,CommitEditorPage.java,Michael Keppler
+Sat Sep  1 23:43:05 2018,HeaderText.java,Michael Keppler
+Mon Sep  3 23:08:00 2018,CommitEditor.java,Michael Keppler
+Mon Sep  3 23:08:00 2018,CommitEditorPage.java,Michael Keppler
+Thu Sep 13  9:09:45 2018,RepositoryUtil.java,Michael Keppler
+Sun Sep 16  9:08:15 2018,RefSpecPanel.java,Michael Keppler
+Sat Sep 22  8:06:51 2018,GitHistoryPage.java,Michael Keppler
+Sat Sep 22  8:07:59 2018,CommitUtil.java,Michael Keppler
+Sat Sep 22  8:07:59 2018,RevUtils.java,Michael Keppler
+Sat Sep 22  8:07:59 2018,AddConfigEntryDialog.java,Michael Keppler
+Sat Sep 22 16:10:45 2018,plugin.properties,Michael Keppler
+Sat Sep 22 16:10:45 2018,plugin.xml,Michael Keppler
+Sat Sep 22 16:10:45 2018,GitRepositoriesPerspectiveFactory.java,Michael Keppler
+Sat Sep 22 16:10:45 2018,OpenCommitSearchPageAction.java,Michael Keppler
+Sun Sep 23 11:09:35 2018,GitRepositoriesPerspectiveFactory.java,Michael Keppler
+Mon Sep 24 18:49:20 2018,UnmergedBranchDialog.java,Michael Keppler
+Wed Sep 26 17:01:52 2018,RepositoryUtil.java,Michael Keppler
+Fri Sep 28  8:43:21 2018,CommitGraphTable.java,Michael Keppler

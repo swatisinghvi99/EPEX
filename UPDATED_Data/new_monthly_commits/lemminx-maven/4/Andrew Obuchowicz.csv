@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Fri Jul  3 14:56:09 2020,MavenHoverParticipant.java,Andrew Obuchowicz
+Wed Jul  8 16:14:10 2020,MavenProjectCache.java,Andrew Obuchowicz
+Wed Jul  8 16:14:10 2020,PluginValidator.java,Andrew Obuchowicz
+Wed Jul  8 16:14:10 2020,SimpleModelTest.java,Andrew Obuchowicz
+Wed Jul  8 16:14:10 2020,pom-environment-variable-property.xml,Andrew Obuchowicz
+Thu Jul  9 17:02:36 2020,RemoteRepositoryTest.java,Andrew Obuchowicz
+Thu Jul  9 17:02:36 2020,pom-remote-artifact-download-hover.xml,Andrew Obuchowicz
+Tue Jul 14 16:39:58 2020,MavenPluginUtils.java,Andrew Obuchowicz
+Wed Jul 15 21:00:32 2020,MavenCompletionParticipant.java,Andrew Obuchowicz
+Wed Jul 15 21:00:32 2020,MavenHoverParticipant.java,Andrew Obuchowicz
+Wed Jul 15 21:00:32 2020,SimpleModelTest.java,Andrew Obuchowicz
+Wed Jul 15 21:00:32 2020,pom-environment-variable-property.xml,Andrew Obuchowicz
+Wed Jul 15 21:00:58 2020,MavenCompletionParticipant.java,Andrew Obuchowicz
+Wed Jul 15 21:00:58 2020,MavenPluginUtils.java,Andrew Obuchowicz
+Wed Jul 15 21:00:58 2020,PluginValidator.java,Andrew Obuchowicz
+Wed Jul 15 21:00:58 2020,LocalPluginTest.java,Andrew Obuchowicz
+Wed Jul 15 21:00:58 2020,pom-duplicate-configuration-completion.xml,Andrew Obuchowicz
+Mon Jul 20 21:05:37 2020,MavenDefinitionParticipant.java,Andrew Obuchowicz
+Mon Jul 20 21:05:37 2020,MavenHoverParticipant.java,Andrew Obuchowicz

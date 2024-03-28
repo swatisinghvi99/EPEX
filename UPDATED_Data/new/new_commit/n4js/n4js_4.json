@@ -1,0 +1,252 @@
+[
+    [
+        "mmews-n4",
+        "MF",
+        49
+    ],
+    [
+        "mmews-n4",
+        "java",
+        253
+    ],
+    [
+        "mmews-n4",
+        "xtend",
+        302
+    ],
+    [
+        "mmews-n4",
+        "xcore",
+        3
+    ],
+    [
+        "mmews-n4",
+        "prefs",
+        4
+    ],
+    [
+        "mmews-n4",
+        "ISetup",
+        5
+    ],
+    [
+        "mmews-n4",
+        "g",
+        10
+    ],
+    [
+        "mmews-n4",
+        "xtext",
+        4
+    ],
+    [
+        "mmews-n4",
+        "xml",
+        8
+    ],
+    [
+        "mmews-n4",
+        "xsemantics",
+        1
+    ],
+    [
+        "mmews-n4",
+        "setup",
+        2
+    ],
+    [
+        "mmews-n4",
+        "target",
+        2
+    ],
+    [
+        "mmews-n4",
+        "xt",
+        12
+    ],
+    [
+        "mmews-n4",
+        "classpath",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        11
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        43
+    ],
+    [
+        "Sebastian Zarnekow",
+        "mwe2",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "g",
+        17
+    ],
+    [
+        "Sebastian Zarnekow",
+        "gitignore",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xcore",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "tokens",
+        4
+    ],
+    [
+        "mor-n4",
+        "java",
+        50
+    ],
+    [
+        "mor-n4",
+        "xml",
+        35
+    ],
+    [
+        "mor-n4",
+        "xtend",
+        2
+    ],
+    [
+        "mor-n4",
+        "xcore",
+        2
+    ],
+    [
+        "mor-n4",
+        "xsemantics",
+        1
+    ],
+    [
+        "Brian Thomas Smith",
+        "adoc",
+        21
+    ],
+    [
+        "Brian Thomas Smith",
+        "sh",
+        2
+    ],
+    [
+        "Brian Thomas Smith",
+        "html",
+        37
+    ],
+    [
+        "Brian Thomas Smith",
+        "xml",
+        3
+    ],
+    [
+        "Brian Thomas Smith",
+        "js",
+        6
+    ],
+    [
+        "Brian Thomas Smith",
+        "css",
+        6
+    ],
+    [
+        "Jens von Pilgrim",
+        "adoc",
+        1
+    ],
+    [
+        "Jens von Pilgrim",
+        "java",
+        7
+    ],
+    [
+        "Jens von Pilgrim",
+        "xtend",
+        6
+    ],
+    [
+        "Jakub Siberski",
+        "xml",
+        9
+    ],
+    [
+        "Jakub Siberski",
+        "MF",
+        72
+    ],
+    [
+        "Jakub Siberski",
+        "java",
+        56
+    ],
+    [
+        "Jakub Siberski",
+        "xtend",
+        2
+    ],
+    [
+        "Jakub Siberski",
+        "classpath",
+        2
+    ],
+    [
+        "Jakub Siberski",
+        "project",
+        1
+    ],
+    [
+        "Jakub Siberski",
+        "prefs",
+        8
+    ],
+    [
+        "Jakub Siberski",
+        "html",
+        1
+    ],
+    [
+        "Jakub Siberski",
+        "properties",
+        3
+    ],
+    [
+        "Jakub Siberski",
+        "exsd",
+        1
+    ],
+    [
+        "Jakub Siberski",
+        "gitignore",
+        2
+    ],
+    [
+        "Jakub Siberski",
+        "n4mf",
+        8
+    ],
+    [
+        "Jakub Siberski",
+        "n4js",
+        14
+    ],
+    [
+        "Jakub Siberski",
+        "txt",
+        1
+    ]
+]

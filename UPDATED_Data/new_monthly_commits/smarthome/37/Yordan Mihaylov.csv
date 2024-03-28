@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Sat Jan 14  9:25:07 2017,RuntimeRuleTest.groovy,Yordan Mihaylov
+Sat Jan 14  9:25:07 2017,GenericConditions.json,Yordan Mihaylov
+Sat Jan 14  9:25:07 2017,ItemConditions.json,Yordan Mihaylov
+Sat Jan 14  9:25:07 2017,CompareConditionHandler.java,Yordan Mihaylov
+Sat Jan 14  9:25:07 2017,ItemStateConditionHandler.java,Yordan Mihaylov
+Tue Jan 31 10:11:25 2017,RuleEngine.java,Yordan Mihaylov
+Tue Jan 31 10:11:25 2017,MANIFEST.MF,Yordan Mihaylov
+Tue Jan 31 10:11:25 2017,org.eclipse.smarthome.automation.module.timer.test.launch,Yordan Mihaylov
+Tue Jan 31 10:11:25 2017,pom.xml,Yordan Mihaylov
+Tue Jan 31 10:11:25 2017,MANIFEST.MF,Yordan Mihaylov
+Tue Jan 31 10:11:25 2017,CallbackJob.java,Yordan Mihaylov
+Tue Jan 31 10:11:25 2017,GenericCronTriggerHandler.java,Yordan Mihaylov
+Tue Jan 31 10:11:25 2017,ExpressionThreadPoolManager.java,Yordan Mihaylov
+Thu Feb  2 15:08:33 2017,Rule.java,Yordan Mihaylov
+Thu Feb  2 15:08:33 2017,RuleRegistry.java,Yordan Mihaylov
+Thu Feb  2 15:08:33 2017,RuleStatus.java,Yordan Mihaylov
+Thu Feb  2 15:08:33 2017,RuleEngine.java,Yordan Mihaylov
+Thu Feb  2 15:08:33 2017,RuleRegistryImpl.java,Yordan Mihaylov
+Thu Feb  2 15:08:33 2017,AutomationIntegrationTest.groovy,Yordan Mihaylov
+Wed Feb  8 14:33:35 2017,ReferenceResolverUtilTest.java,Yordan Mihaylov
+Wed Feb  8 14:33:35 2017,ConfigurationTest.groovy,Yordan Mihaylov
+Wed Feb  8 14:33:35 2017,ConfigUtil.java,Yordan Mihaylov
+Wed Feb  8 14:33:35 2017,InboxOSGITest.groovy,Yordan Mihaylov

@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Fri Jun 30  8:29:21 2017,pom.xml,Victor V. Rubezhny
+Fri Jun 30  8:29:21 2017,CommandOutputConsolePresenter.java,Victor V. Rubezhny
+Fri Jun 30  8:29:21 2017,DefaultOutputConsole.java,Victor V. Rubezhny
+Fri Jun 30  8:29:21 2017,DefaultOutputCustomizer.java,Victor V. Rubezhny
+Fri Jun 30  8:29:21 2017,OutputConsoleView.java,Victor V. Rubezhny
+Fri Jun 30  8:29:21 2017,OutputConsoleViewImpl.java,Victor V. Rubezhny
+Fri Jun 30  8:29:21 2017,OutputCustomizer.java,Victor V. Rubezhny
+Fri Jun 30  8:29:21 2017,DefaultOutputCustomizerTest.java,Victor V. Rubezhny
+Fri Jun 30 10:40:54 2017,DefaultOutputCustomizerTest.java,Victor V. Rubezhny
+Mon Jul 10  7:28:07 2017,pom.xml,Victor V. Rubezhny
+Mon Jul 10  7:28:07 2017,AbstractOutputCustomizer.java,Victor V. Rubezhny
+Mon Jul 10  7:28:07 2017,CSharpOutputCustomizer.java,Victor V. Rubezhny
+Mon Jul 10  7:28:07 2017,CommandOutputConsolePresenter.java,Victor V. Rubezhny
+Mon Jul 10  7:28:07 2017,CompoundOutputCustomizer.java,Victor V. Rubezhny
+Mon Jul 10  7:28:07 2017,DefaultOutputConsole.java,Victor V. Rubezhny
+Mon Jul 10  7:28:07 2017,JavaOutputCustomizer.java,Victor V. Rubezhny
+Mon Jul 10  7:28:07 2017,OutputCustomizer.java,Victor V. Rubezhny
+Mon Jul 10  7:28:07 2017,BaseOutputCustomizerTest.java,Victor V. Rubezhny
+Mon Jul 10  7:28:07 2017,CSharpOutputCustomizerTest.java,Victor V. Rubezhny
+Mon Jul 10  7:28:07 2017,CompoundOutputCustomizerTest.java,Victor V. Rubezhny
+Mon Jul 10  7:28:07 2017,DefaultOutputCustomizerTest.java,Victor V. Rubezhny
+Mon Jul 10  7:28:07 2017,JavaOutputCustomizerTest.java,Victor V. Rubezhny

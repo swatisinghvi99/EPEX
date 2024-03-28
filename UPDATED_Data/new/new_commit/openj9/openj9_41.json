@@ -1,0 +1,567 @@
+[
+    [
+        "Graham Chapman",
+        "java",
+        1
+    ],
+    [
+        "Graham Chapman",
+        "hpp",
+        5
+    ],
+    [
+        "Graham Chapman",
+        "cpp",
+        3
+    ],
+    [
+        "Graham Chapman",
+        "h",
+        1
+    ],
+    [
+        "Jason Feng",
+        "cpp",
+        1
+    ],
+    [
+        "Jason Feng",
+        "java",
+        6
+    ],
+    [
+        "Nazim Bhuiyan",
+        "cpp",
+        23
+    ],
+    [
+        "Nazim Bhuiyan",
+        "hpp",
+        12
+    ],
+    [
+        "Nazim Bhuiyan",
+        "h",
+        6
+    ],
+    [
+        "Peter Shipton",
+        "unknown",
+        1
+    ],
+    [
+        "Peter Shipton",
+        "properties",
+        1
+    ],
+    [
+        "Peter Shipton",
+        "c",
+        3
+    ],
+    [
+        "Peter Shipton",
+        "h",
+        4
+    ],
+    [
+        "Peter Shipton",
+        "cpp",
+        7
+    ],
+    [
+        "Peter Shipton",
+        "xml",
+        2
+    ],
+    [
+        "Peter Shipton",
+        "hpp",
+        4
+    ],
+    [
+        "Peter Shipton",
+        "java",
+        1
+    ],
+    [
+        "Longyu Zhang",
+        "mk",
+        1
+    ],
+    [
+        "Longyu Zhang",
+        "xml",
+        2
+    ],
+    [
+        "Longyu Zhang",
+        "java",
+        2
+    ],
+    [
+        "Lin Hu",
+        "cpp",
+        1
+    ],
+    [
+        "Keith W. Campbell",
+        "java",
+        20
+    ],
+    [
+        "Keith W. Campbell",
+        "xml",
+        2
+    ],
+    [
+        "Keith W. Campbell",
+        "hpp",
+        14
+    ],
+    [
+        "Keith W. Campbell",
+        "c",
+        3
+    ],
+    [
+        "Keith W. Campbell",
+        "groovy",
+        1
+    ],
+    [
+        "Keith W. Campbell",
+        "cmake",
+        1
+    ],
+    [
+        "Keith W. Campbell",
+        "m4",
+        1
+    ],
+    [
+        "Irwin D'Souza",
+        "cpp",
+        65
+    ],
+    [
+        "Irwin D'Souza",
+        "hpp",
+        32
+    ],
+    [
+        "Irwin D'Souza",
+        "h",
+        2
+    ],
+    [
+        "Adam Brousseau",
+        "copyrightignore",
+        1
+    ],
+    [
+        "Adam Brousseau",
+        "md",
+        1
+    ],
+    [
+        "Adam Brousseau",
+        "groovy",
+        6
+    ],
+    [
+        "Adam Brousseau",
+        "yml",
+        1
+    ],
+    [
+        "Alexey Khrabrov",
+        "c",
+        4
+    ],
+    [
+        "Alexey Khrabrov",
+        "java",
+        8
+    ],
+    [
+        "Alexey Khrabrov",
+        "properties",
+        2
+    ],
+    [
+        "Alexey Khrabrov",
+        "unknown",
+        1
+    ],
+    [
+        "Alexey Khrabrov",
+        "cpp",
+        11
+    ],
+    [
+        "Alexey Khrabrov",
+        "hpp",
+        13
+    ],
+    [
+        "OscarQQ",
+        "xml",
+        7
+    ],
+    [
+        "OscarQQ",
+        "java",
+        104
+    ],
+    [
+        "Joe deKoning",
+        "groovy",
+        2
+    ],
+    [
+        "Dmitry Ten",
+        "hpp",
+        9
+    ],
+    [
+        "Dmitry Ten",
+        "cpp",
+        15
+    ],
+    [
+        "Cheng Jin",
+        "java",
+        3
+    ],
+    [
+        "Cheng Jin",
+        "c",
+        4
+    ],
+    [
+        "Cheng Jin",
+        "nls",
+        2
+    ],
+    [
+        "Cheng Jin",
+        "hpp",
+        2
+    ],
+    [
+        "Cheng Jin",
+        "h",
+        1
+    ],
+    [
+        "Cheng Jin",
+        "cpp",
+        2
+    ],
+    [
+        "Cheng Jin",
+        "xml",
+        2
+    ],
+    [
+        "Sharon Wang",
+        "cpp",
+        6
+    ],
+    [
+        "Sharon Wang",
+        "hpp",
+        14
+    ],
+    [
+        "Sharon Wang",
+        "txt",
+        8
+    ],
+    [
+        "Sharon Wang",
+        "in",
+        1
+    ],
+    [
+        "Sharon Wang",
+        "h",
+        1
+    ],
+    [
+        "Sharon Wang",
+        "c",
+        4
+    ],
+    [
+        "Sharon Wang",
+        "java",
+        7
+    ],
+    [
+        "Sharon Wang",
+        "xml",
+        1
+    ],
+    [
+        "Dhruv Chopra",
+        "cpp",
+        16
+    ],
+    [
+        "Dhruv Chopra",
+        "hpp",
+        1
+    ],
+    [
+        "Babneet Singh",
+        "java",
+        11
+    ],
+    [
+        "Babneet Singh",
+        "c",
+        1
+    ],
+    [
+        "Babneet Singh",
+        "properties",
+        1
+    ],
+    [
+        "Jack Lu",
+        "java",
+        2
+    ],
+    [
+        "Jack Lu",
+        "cpp",
+        3
+    ],
+    [
+        "Jack Lu",
+        "hpp",
+        1
+    ],
+    [
+        "Annabelle Huo",
+        "cpp",
+        7
+    ],
+    [
+        "Annabelle Huo",
+        "hpp",
+        2
+    ],
+    [
+        "Oussama Saoudi",
+        "cpp",
+        16
+    ],
+    [
+        "Oussama Saoudi",
+        "hpp",
+        7
+    ],
+    [
+        "Oussama Saoudi",
+        "txt",
+        1
+    ],
+    [
+        "Oussama Saoudi",
+        "xml",
+        2
+    ],
+    [
+        "Enson Guo",
+        "cpp",
+        2
+    ],
+    [
+        "Enson Guo",
+        "hpp",
+        1
+    ],
+    [
+        "Abhijeet",
+        "cpp",
+        3
+    ],
+    [
+        "Hang Shao",
+        "xml",
+        15
+    ],
+    [
+        "Hang Shao",
+        "java",
+        8
+    ],
+    [
+        "Hang Shao",
+        "cpp",
+        5
+    ],
+    [
+        "Hang Shao",
+        "hpp",
+        1
+    ],
+    [
+        "Hang Shao",
+        "tdf",
+        1
+    ],
+    [
+        "Hang Shao",
+        "c",
+        3
+    ],
+    [
+        "Hang Shao",
+        "h",
+        2
+    ],
+    [
+        "Hang Shao",
+        "nls",
+        1
+    ],
+    [
+        "Tobi Ajila",
+        "groovy",
+        2
+    ],
+    [
+        "Tobi Ajila",
+        "yml",
+        1
+    ],
+    [
+        "Tobi Ajila",
+        "c",
+        2
+    ],
+    [
+        "Igor Braga",
+        "cpp",
+        12
+    ],
+    [
+        "Igor Braga",
+        "hpp",
+        7
+    ],
+    [
+        "Igor Braga",
+        "h",
+        3
+    ],
+    [
+        "Igor Braga",
+        "java",
+        2
+    ],
+    [
+        "Igor Braga",
+        "c",
+        1
+    ],
+    [
+        "Igor Braga",
+        "txt",
+        1
+    ],
+    [
+        "KONNO Kazuhiro",
+        "cpp",
+        2
+    ],
+    [
+        "KONNO Kazuhiro",
+        "hpp",
+        1
+    ],
+    [
+        "Liqun Liu",
+        "cpp",
+        3
+    ],
+    [
+        "Liqun Liu",
+        "hpp",
+        1
+    ],
+    [
+        "Akira Saitoh",
+        "cpp",
+        1
+    ],
+    [
+        "Filip Jeremic",
+        "cpp",
+        37
+    ],
+    [
+        "Filip Jeremic",
+        "hpp",
+        9
+    ],
+    [
+        "Filip Jeremic",
+        "h",
+        2
+    ],
+    [
+        "Mike Zhang",
+        "java",
+        6
+    ],
+    [
+        "Mike Zhang",
+        "c",
+        1
+    ],
+    [
+        "Mike Zhang",
+        "xml",
+        3
+    ],
+    [
+        "Jon Oommen",
+        "cpp",
+        3
+    ],
+    [
+        "Leonardo Banderali",
+        "cpp",
+        4
+    ],
+    [
+        "Leonardo Banderali",
+        "hpp",
+        2
+    ],
+    [
+        "Kevin Langman",
+        "cpp",
+        1
+    ],
+    [
+        "lanxia",
+        "groovy",
+        1
+    ],
+    [
+        "Ben Thomas",
+        "cpp",
+        6
+    ],
+    [
+        "Ben Thomas",
+        "mk",
+        1
+    ]
+]

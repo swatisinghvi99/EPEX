@@ -1,0 +1,7 @@
+date_time,file,committer_name
+Wed Mar 25 17:02:09 2015,MANIFEST.MF,Frank Becker
+Wed Mar 25 17:02:09 2015,BugzillaRestConnectorTest.java,Frank Becker
+Wed Mar 25 17:02:09 2015,BugzillaRestConnector.java,Frank Becker
+Wed Mar 25 17:02:09 2015,TaskRepository.java,Frank Becker
+Wed Mar 25 17:03:46 2015,BugzillaRestHarness.java,Frank Becker
+Wed Mar 25 17:03:46 2015,BugzillaRestTestFixture.java,Frank Becker

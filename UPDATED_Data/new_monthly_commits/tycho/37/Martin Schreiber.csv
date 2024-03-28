@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Fri Sep 26  7:15:23 2014,EquinoxResolver.java,Martin Schreiber
+Fri Sep 26  7:15:23 2014,TychoTest.java,Martin Schreiber
+Fri Sep 26  7:15:23 2014,MANIFEST.MF,Martin Schreiber
+Fri Sep 26  7:15:23 2014,pom.xml,Martin Schreiber
+Fri Sep 26 15:49:33 2014,DefaultTargetPlatformConfigurationReader.java,Martin Schreiber
+Fri Sep 26 15:49:33 2014,DefaultTargetPlatformConfigurationReaderTest.java,Martin Schreiber
+Mon Sep 29 13:46:29 2014,BuildQualifierMojo.java,Martin Schreiber
+Mon Sep 29 13:46:29 2014,BuildQualifierTest.java,Martin Schreiber
+Mon Sep 29 13:46:29 2014,MANIFEST.MF,Martin Schreiber
+Mon Sep 29 13:46:29 2014,pom.xml,Martin Schreiber
+Fri Oct 10 12:26:20 2014,pom.xml,Martin Schreiber
+Fri Oct 10 12:26:20 2014,AbstractOsgiCompilerMojo.java,Martin Schreiber
+Fri Oct 10 12:26:20 2014,pom.xml,Martin Schreiber
+Fri Oct 10 12:26:20 2014,ToolchainProvider.java,Martin Schreiber
+Fri Oct 10 12:26:20 2014,pom.xml,Martin Schreiber
+Fri Oct 10 12:26:20 2014,TestMojo.java,Martin Schreiber
+Fri Oct 10 12:26:20 2014,TestMojoToolchainTests.java,Martin Schreiber
+Fri Oct 17 12:51:09 2014,TychoProperties.md,Martin Schreiber
+Fri Oct 17 12:51:09 2014,site.xml,Martin Schreiber
+Fri Oct 17 12:51:09 2014,DefaultTychoResolver.java,Martin Schreiber
+Fri Oct 17 12:51:09 2014,DefaultTychoResolverTest.java,Martin Schreiber

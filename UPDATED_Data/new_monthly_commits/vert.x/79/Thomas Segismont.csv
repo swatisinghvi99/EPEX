@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Thu Feb  6 17:19:53 2020,FailedFuture.java,Thomas Segismont
+Thu Feb  6 17:19:53 2020,SucceededFuture.java,Thomas Segismont
+Thu Feb  6 17:19:53 2020,FutureTest.java,Thomas Segismont
+Sat Feb  8  6:21:41 2020,FutureTest.java,Thomas Segismont
+Wed Feb 19 18:42:23 2020,Starter.java,Thomas Segismont
+Wed Feb 19 18:42:23 2020,AbstractContext.java,Thomas Segismont
+Wed Feb 19 18:42:23 2020,StarterTest.java,Thomas Segismont
+Wed Feb 19 18:42:23 2020,MANIFEST-Starter.MF,Thomas Segismont
+Thu Feb 20 15:32:18 2020,index.adoc,Thomas Segismont
+Thu Feb 20 15:32:18 2020,CoreExamples.java,Thomas Segismont
+Thu Feb 20 15:32:18 2020,DeploymentTest.java,Thomas Segismont

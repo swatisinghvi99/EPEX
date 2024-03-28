@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Wed Jan 24 14:31:20 2018,pom.xml,Oliver Kopp
+Wed Jan 24 14:31:20 2018,Logger.java,Oliver Kopp
+Wed Jan 24 14:31:20 2018,ArtifactTemplateResource.java,Oliver Kopp
+Wed Jan 24 14:31:20 2018,Detection.java,Oliver Kopp
+Wed Jan 24 14:31:20 2018,Storage.java,Oliver Kopp
+Wed Jan 24 14:31:20 2018,AbstractTopology.java,Oliver Kopp
+Wed Jan 24 14:31:20 2018,EnvironmentBasedAvailabilityPattern.java,Oliver Kopp
+Wed Jan 24 14:31:20 2018,ExecutionEnvironmentPattern.java,Oliver Kopp
+Wed Jan 24 14:31:20 2018,ImportVisitor.java,Oliver Kopp

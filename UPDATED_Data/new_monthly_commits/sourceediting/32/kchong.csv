@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Wed Jun  7 18:59:32 2006,MakeLocalElementGlobalCommand.java,kchong
+Wed Jun  7 19:03:48 2006,InternalXSDMultiPageEditor.java,kchong
+Wed Jun  7 19:03:48 2006,ADTMultiPageEditor.java,kchong
+Wed Jun  7 19:03:48 2006,CommonMultiPageEditor.java,kchong
+Wed Jun  7 19:27:27 2006,XSDSearchContributor.java,kchong
+Wed Jun  7 19:27:27 2006,FindReferencesAction.java,kchong
+Tue Jun 13 14:12:24 2006,AddXSDAttributeDeclarationCommand.java,kchong
+Tue Jun 13 14:12:24 2006,XSDCommonUIUtils.java,kchong
+Tue Jun 13 14:16:10 2006,XSDSchemaSection.java,kchong
+Tue Jun 13 14:22:38 2006,XSDRefactorActionGroup.java,kchong
+Tue Jun 13 14:27:15 2006,ModelGroupEditPart.java,kchong
+Tue Jun 13 14:33:21 2006,XSDAdapterFactory.java,kchong
+Tue Jun 13 14:37:37 2006,FieldFigure.java,kchong
+Wed Jun 14 20:20:47 2006,RenameComponentAction.java,kchong

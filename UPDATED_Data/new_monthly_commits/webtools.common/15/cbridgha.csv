@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Wed Jan 11 18:40:31 2006,ComponentResource.java,cbridgha
+Wed Jan 11 18:40:31 2006,ModuleStructuralModel.java,cbridgha
+Wed Jan 11 18:40:31 2006,ComponentResourceImpl.java,cbridgha
+Wed Jan 11 18:40:31 2006,ResourceTreeNode.java,cbridgha
+Wed Jan 11 18:40:31 2006,FacetProjectCreationOperation.java,cbridgha
+Wed Jan 11 18:40:31 2006,VirtualArchiveComponent.java,cbridgha
+Wed Jan 11 18:40:31 2006,VirtualContainer.java,cbridgha
+Wed Jan 11 18:40:31 2006,EclipseResourceAdapter.java,cbridgha
+Fri Jan 13 15:56:49 2006,ComponentCoreURIConverter.java,cbridgha
+Fri Jan 20 19:59:45 2006,FacetProjectCreationDataModelProvider.java,cbridgha
+Fri Jan 20 19:59:45 2006,IFacetProjectCreationDataModelProperties.java,cbridgha
+Fri Jan 20 21:51:54 2006,StructureEdit.java,cbridgha
+Fri Jan 20 21:51:54 2006,VirtualArchiveComponent.java,cbridgha
+Wed Jan 25 18:40:37 2006,HelloOperationExtension.java,cbridgha
+Wed Jan 25 18:40:37 2006,HelloPostOperationExtension.java,cbridgha
+Wed Jan 25 18:40:37 2006,HelloPreOperationExtension.java,cbridgha
+Wed Jan 25 18:40:37 2006,plugin.xml,cbridgha
+Sat Jan 28 21:01:54 2006,AllTests.java,cbridgha
+Sat Jan 28 21:01:54 2006,StructureEditAPITest.java,cbridgha
+Sat Jan 28 21:01:54 2006,StructureEditStressTest.java,cbridgha
+Sat Jan 28 21:02:06 2006,DataModelWizard.java,cbridgha
+Sat Jan 28 21:02:06 2006,WorkbenchComponentImpl.java,cbridgha
+Sat Jan 28 21:02:06 2006,VirtualResource.java,cbridgha
+Tue Feb  7  3:55:30 2006,ResourceTreeNode.java,cbridgha

@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Mon Jul 19  8:17:22 2010,CommitMessageViewer.java,Stefan Lay
+Mon Jul 19  8:17:22 2010,FileDiff.java,Stefan Lay
+Mon Jul 19  8:17:22 2010,GitCreatePatchWizard.java,Stefan Lay
+Mon Jul 19 14:46:14 2010,DecoratableResourceAdapter.java,Stefan Lay
+Tue Jul 20 14:40:37 2010,CommitActionHandler.java,Stefan Lay
+Wed Jul 28 14:43:03 2010,TestRepository.java,Stefan Lay
+Wed Jul 28 14:43:03 2010,TestUtils.java,Stefan Lay
+Wed Jul 28 14:43:03 2010,AddOperationTest.java,Stefan Lay
+Wed Jul 28 14:43:03 2010,ResetOperationTest.java,Stefan Lay
+Wed Jul 28 14:43:03 2010,ContainerTreeIterator.java,Stefan Lay
+Wed Jul 28 14:43:03 2010,AddToIndexOperation.java,Stefan Lay
+Wed Jul 28 14:43:03 2010,AddToIndexAction.java,Stefan Lay

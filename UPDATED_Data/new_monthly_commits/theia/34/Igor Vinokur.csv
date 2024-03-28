@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Wed Dec 11  6:55:16 2019,command.ts,Igor Vinokur
+Wed Dec 11  6:55:16 2019,monaco-editor.ts,Igor Vinokur
+Wed Dec 11  6:55:16 2019,index.d.ts,Igor Vinokur
+Wed Dec 11  6:55:16 2019,package.json,Igor Vinokur
+Wed Dec 11  6:55:16 2019,plugin-vscode-commands-contribution.ts,Igor Vinokur
+Wed Dec 11  6:55:16 2019,command-registry-main.ts,Igor Vinokur
+Mon Dec 16  8:44:30 2019,keybinding.ts,Igor Vinokur
+Mon Dec 16  8:50:44 2019,keybinding.ts,Igor Vinokur
+Mon Dec 16  8:50:44 2019,keys.ts,Igor Vinokur
+Mon Dec 16  8:50:44 2019,plugin-vscode-commands-contribution.ts,Igor Vinokur
+Mon Dec 16  8:50:44 2019,known-commands.ts,Igor Vinokur
+Mon Dec 16  8:50:44 2019,keybindings-contribution-handler.ts,Igor Vinokur

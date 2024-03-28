@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Mon Dec 11 12:53:33 2017,Birthday.java,Matthias Becker
+Mon Dec 11 12:53:33 2017,EmailAddress.java,Matthias Becker
+Mon Dec 11 12:53:33 2017,GroupElement.java,Matthias Becker
+Mon Dec 11 12:53:33 2017,Name.java,Matthias Becker
+Mon Dec 11 12:53:33 2017,OrganizationElement.java,Matthias Becker
+Mon Dec 11 12:53:33 2017,StreetAddress.java,Matthias Becker
+Mon Dec 11 12:53:33 2017,UserElement.java,Matthias Becker
+Mon Dec 11 12:53:33 2017,DefaultSectionsParser.java,Matthias Becker
+Mon Dec 11 12:53:33 2017,MarkElement.java,Matthias Becker
+Fri Dec 15 11:51:08 2017,CSS2FontHelper.java,Matthias Becker
+Fri Dec 15 11:51:08 2017,CSSSerializer.java,Matthias Becker
+Fri Dec 15 11:51:08 2017,ClassUtils.java,Matthias Becker
+Fri Dec 15 11:51:08 2017,ThemeEngine.java,Matthias Becker
+Fri Dec 15 11:51:08 2017,E4Application.java,Matthias Becker
+Fri Dec 15 11:51:08 2017,WebBrowserUIPlugin.java,Matthias Becker
+Fri Dec 15 11:51:08 2017,WizardExportPage.java,Matthias Becker
+Fri Dec 15 11:51:08 2017,ActionDescriptor.java,Matthias Becker
+Fri Dec 15 11:51:08 2017,WorkbenchPage.java,Matthias Becker
+Fri Dec 15 11:51:08 2017,WorkbenchPlugin.java,Matthias Becker
+Fri Dec 15 11:51:08 2017,StatusHandlerDescriptorsMap.java,Matthias Becker
+Fri Dec 15 11:51:08 2017,VerifyDialog.java,Matthias Becker
+Fri Dec 15 11:51:08 2017,StructuredViewerTest.java,Matthias Becker
+Fri Dec 15 11:51:08 2017,TestElement.java,Matthias Becker
+Fri Dec 15 11:51:08 2017,ExportArchiveFileOperationTest.java,Matthias Becker

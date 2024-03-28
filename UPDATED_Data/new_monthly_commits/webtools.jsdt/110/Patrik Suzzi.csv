@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Wed Mar 23  0:16:02 2016,ASTNode.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,ArrayName.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,ArrowFunctionExpression.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,AssignmentName.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,DebuggerStatement.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,ExportDeclaration.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,ForOfStatement.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,FunctionDeclaration.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,ImportDeclaration.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,MetaProperty.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,Modifier.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,ObjectLiteralField.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,PrefixExpression.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,RestElementName.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,SpreadElement.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,TemplateElement.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,TypeDeclarationExpression.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,VariableKind.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,YieldExpression.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,ESTreeNodeTypes.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,EStreeVisitor.java,Patrik Suzzi
+Wed Mar 23  0:16:02 2016,EsprimaParser.java,Patrik Suzzi

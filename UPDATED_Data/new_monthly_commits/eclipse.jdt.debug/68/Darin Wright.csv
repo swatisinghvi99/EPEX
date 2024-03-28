@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Tue Jan  2 14:52:20 2007,IJDIPreferencesConstants.java,Darin Wright
+Wed Jan  3 18:09:29 2007,LaunchConfigurationTests.java,Darin Wright
+Wed Jan  3 18:20:43 2007,LaunchConfigurationTests.java,Darin Wright
+Thu Jan  4 17:38:57 2007,ObjectReferencesContentProvider.java,Darin Wright
+Thu Jan  4 17:38:57 2007,ContendedMonitorContentProvider.java,Darin Wright
+Thu Jan  4 17:38:57 2007,JavaThreadContentProvider.java,Darin Wright
+Thu Jan  4 17:38:57 2007,OwnedMonitorContentProvider.java,Darin Wright
+Thu Jan  4 17:38:57 2007,OwningThreadContentProvider.java,Darin Wright
+Thu Jan  4 17:38:57 2007,WaitingThreadContentProvider.java,Darin Wright
+Thu Jan  4 17:38:57 2007,JavaDebugTargetContentProvider.java,Darin Wright
+Thu Jan  4 17:38:57 2007,JavaThreadGroupContentProvider.java,Darin Wright
+Thu Jan  4 17:38:57 2007,JavaStackFrameContentProvider.java,Darin Wright
+Fri Jan  5 14:45:04 2007,JDIDebugTarget.java,Darin Wright
+Fri Jan  5 16:58:22 2007,ExpressionWaiter.java,Darin Wright

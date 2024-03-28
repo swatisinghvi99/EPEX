@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Tue Sep 11 12:55:57 2018,ThemeDefinitionChangedHandlerTest.java,Alexander Kurtakov
+Tue Sep 11 12:55:57 2018,StylingPreferencesHandlerTest.java,Alexander Kurtakov
+Wed Sep 12  5:31:32 2018,CSSSWTApplyStylesListener.java,Alexander Kurtakov
+Wed Sep 12  5:31:32 2018,CSSPropertyUnselectedTabsSWTHandler.java,Alexander Kurtakov
+Wed Sep 12  5:31:32 2018,SWTResourcesRegistry.java,Alexander Kurtakov
+Wed Sep 12  5:31:32 2018,ImageBasedFrame.java,Alexander Kurtakov
+Wed Sep 12  5:31:32 2018,DialogPageSupport.java,Alexander Kurtakov
+Wed Sep 12  5:31:32 2018,SWTObservableListDecorator.java,Alexander Kurtakov
+Wed Sep 12  5:31:32 2018,SWTVetoableValueDecorator.java,Alexander Kurtakov
+Wed Sep 12  5:31:32 2018,IDEWorkbenchAdvisor.java,Alexander Kurtakov
+Wed Sep 12  5:31:32 2018,TabbedPropertyList.java,Alexander Kurtakov
+Wed Sep 12  5:31:32 2018,WorkbenchWindow.java,Alexander Kurtakov
+Wed Sep 12  5:31:32 2018,PulldownDelegateWidgetProxy.java,Alexander Kurtakov
+Wed Sep 12  5:31:32 2018,AbstractCellCursor.java,Alexander Kurtakov
+Wed Sep 12  5:31:32 2018,FocusBorderCellHighlighter.java,Alexander Kurtakov
+Wed Sep 12  5:31:32 2018,Snippet007FullSelection.java,Alexander Kurtakov
+Wed Sep 12  5:31:32 2018,CSSSerializerSWTTest.java,Alexander Kurtakov
+Wed Sep 12  5:31:32 2018,SampleToolControl.java,Alexander Kurtakov
+Wed Sep 12  5:31:32 2018,SupportTrayTest.java,Alexander Kurtakov
+Wed Sep 12  8:55:49 2018,SWTResourcesRegistryTest.java,Alexander Kurtakov
+Wed Sep 12  8:55:49 2018,WorkbenchThemeChangedHandlerTest.java,Alexander Kurtakov

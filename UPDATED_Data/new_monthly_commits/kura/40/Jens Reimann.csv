@@ -1,0 +1,7 @@
+date_time,file,committer_name
+Fri Mar 17 11:10:02 2017,RoutesProvider.java,Jens Reimann
+Fri Mar 17 12:56:22 2017,MANIFEST.MF,Jens Reimann
+Fri Mar 17 12:56:22 2017,XmlRoutesProvider.java,Jens Reimann
+Fri Mar 17 13:04:52 2017,CamelRunner.java,Jens Reimann
+Thu Mar 23 12:45:09 2017,KuraCloudProducer.java,Jens Reimann
+Mon Apr  3  7:44:51 2017,CloudPayloadProtoBufEncoderImpl.java,Jens Reimann

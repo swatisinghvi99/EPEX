@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Thu Feb  3 20:44:02 2005,PropertyManagerTest.java,rchaves
+Sat Feb  5  0:25:56 2005,HistoryStoreConversionTest.java,rchaves
+Sat Feb  5  0:25:56 2005,PropertyConversionTest.java,rchaves
+Mon Feb  7 18:48:22 2005,ContentDescriptionManager.java,rchaves
+Mon Feb  7 18:48:22 2005,Cache.java,rchaves
+Mon Feb  7 18:48:22 2005,Messages.java,rchaves
+Mon Feb  7 18:48:22 2005,messages.properties,rchaves
+Mon Feb  7 18:48:22 2005,CharsetTest.java,rchaves
+Mon Feb  7 22:20:04 2005,ContentDescriptionManager.java,rchaves
+Wed Feb  9 19:05:56 2005,CharsetManager.java,rchaves
+Thu Feb 10 17:34:40 2005,Bucket.java,rchaves
+Thu Feb 10 17:34:40 2005,BucketTree.java,rchaves
+Thu Feb 24 17:22:29 2005,File.java,rchaves
+Thu Feb 24 17:22:29 2005,IFile.java,rchaves
+Thu Feb 24 17:22:29 2005,CharsetTest.java,rchaves
+Fri Feb 25 17:04:43 2005,plugin.xml,rchaves
+Fri Feb 25 17:04:43 2005,PropertiesIndexDumper.java,rchaves
+Fri Feb 25 23:10:51 2005,PropertyManager.java,rchaves
+Fri Feb 25 23:10:51 2005,PropertyStoreConverter.java,rchaves
+Fri Feb 25 23:10:51 2005,PropertyConversionTest.java,rchaves
+Fri Feb 25 23:25:29 2005,PropertyConversionTest.java,rchaves
+Mon Feb 28 22:11:19 2005,LocalHistoryPerformanceTest.java,rchaves
+Mon Feb 28 22:17:07 2005,LocalHistoryPerformanceTest.java,rchaves

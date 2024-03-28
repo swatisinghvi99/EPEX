@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Wed Sep 21 23:04:15 2005,Engine3D.java,dmichonneau
+Wed Sep 21 23:04:15 2005,Object3D.java,dmichonneau
+Wed Sep 21 23:04:15 2005,I3DRenderEvent.java,dmichonneau
+Wed Sep 21 23:04:15 2005,Image3DRenderEvent.java,dmichonneau
+Wed Sep 21 23:04:15 2005,Line3DRenderEvent.java,dmichonneau
+Wed Sep 21 23:04:15 2005,Oval3DRenderEvent.java,dmichonneau
+Wed Sep 21 23:04:15 2005,Polygon3DRenderEvent.java,dmichonneau
+Wed Sep 21 23:04:15 2005,Text3DRenderEvent.java,dmichonneau
+Thu Sep 22  7:08:53 2005,Object3D.java,dmichonneau
+Thu Sep 22  7:08:53 2005,Location3D.java,dmichonneau
+Thu Sep 22  7:08:53 2005,Location3DImpl.java,dmichonneau
+Thu Sep 22 21:26:58 2005,Engine3D.java,dmichonneau
+Thu Sep 22 21:26:58 2005,Object3D.java,dmichonneau
+Thu Sep 22 21:26:58 2005,Text3DRenderEvent.java,dmichonneau
+Thu Sep 22 21:26:58 2005,AxesRenderer.java,dmichonneau

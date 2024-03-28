@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Thu Feb 19  3:33:53 2009,ProductFileAdvice.java,Jeff McAffer
+Thu Feb 19  3:33:53 2009,ProductFileAdviceTest.java,Jeff McAffer
+Thu Feb 19  4:01:20 2009,QueryHelpers.java,Jeff McAffer
+Thu Feb 19  4:01:20 2009,CompositeQuery.java,Jeff McAffer
+Thu Feb 19  4:01:20 2009,CompoundQuery.java,Jeff McAffer
+Thu Feb 19  4:01:20 2009,ContextQuery.java,Jeff McAffer
+Thu Feb 19  4:01:20 2009,MatchQuery.java,Jeff McAffer
+Thu Feb 19  4:01:20 2009,Query.java,Jeff McAffer
+Thu Feb 19  4:01:20 2009,PropertyLookupQuery1.java,Jeff McAffer
+Thu Feb 19  4:01:20 2009,PropertyLookupQuery2.java,Jeff McAffer
+Thu Feb 19  4:01:20 2009,QueryTest.java,Jeff McAffer
+Wed Feb 25  3:45:33 2009,Messages.java,Jeff McAffer
+Wed Feb 25  3:45:33 2009,messages.properties,Jeff McAffer
+Wed Feb 25  3:45:33 2009,AbstractPublisherApplication.java,Jeff McAffer
+Wed Feb 25  3:45:33 2009,AbstractPublishTask.java,Jeff McAffer
+Wed Feb 25  3:45:33 2009,GeneralPublisherTests.java,Jeff McAffer

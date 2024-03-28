@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Wed Apr 18 11:04:11 2018,ConfigureAndSetExtension.java,Matej Novotny
+Fri Apr 27  7:23:45 2018,PassivationIdTest.java,Matej Novotny
+Fri Apr 27  7:46:15 2018,AfterTypeDiscoveryObserver.java,Matej Novotny
+Fri Apr 27  7:46:15 2018,AfterTypeDiscoveryTest.java,Matej Novotny
+Fri Apr 27  7:46:15 2018,DeltaAlternativeBean.java,Matej Novotny
+Fri Apr 27  7:46:15 2018,DeltaDecoratorBean.java,Matej Novotny
+Fri Apr 27  7:46:15 2018,EchoAlternative.java,Matej Novotny
+Fri Apr 27  7:46:15 2018,EchoDecorator.java,Matej Novotny
+Fri Apr 27  7:46:15 2018,EchoInterceptor.java,Matej Novotny
+Fri Apr 27  7:46:15 2018,AfterTypeBeanDiscoveryMassOperationObserver.java,Matej Novotny
+Fri Apr 27  7:46:15 2018,AfterTypeDiscoveryMassOperationsTest.java,Matej Novotny
+Fri Apr 27  7:46:15 2018,AlphaAlternative.java,Matej Novotny
+Fri Apr 27  7:46:15 2018,AlphaDecorator.java,Matej Novotny
+Fri Apr 27  7:46:15 2018,AlphaInterceptor.java,Matej Novotny
+Fri Apr 27  7:46:15 2018,BetaAlternative.java,Matej Novotny
+Fri Apr 27  7:46:15 2018,BetaDecorator.java,Matej Novotny
+Fri Apr 27  7:46:15 2018,BetaInterceptor.java,Matej Novotny
+Fri Apr 27  7:46:15 2018,GammaAlternative.java,Matej Novotny
+Fri Apr 27  7:46:15 2018,GammaDecorator.java,Matej Novotny
+Fri Apr 27  7:46:15 2018,GammaInterceptor.java,Matej Novotny

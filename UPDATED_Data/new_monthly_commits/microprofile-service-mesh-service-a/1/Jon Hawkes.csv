@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Tue Jun 19 14:45:02 2018,.gitignore,Jon Hawkes
+Tue Jun 19 14:45:02 2018,.helmignore,Jon Hawkes
+Tue Jun 19 14:45:02 2018,Dockerfile,Jon Hawkes
+Tue Jun 19 14:45:02 2018,pom.xml,Jon Hawkes
+Tue Jun 19 14:45:02 2018,HealthEndpoint.java,Jon Hawkes
+Tue Jun 19 14:45:02 2018,ServiceAApplication.java,Jon Hawkes
+Tue Jun 19 14:45:02 2018,ServiceAEndpoint.java,Jon Hawkes
+Tue Jun 19 14:45:02 2018,server.xml,Jon Hawkes
+Tue Jun 19 14:45:02 2018,ibm-web-ext.xml,Jon Hawkes
+Tue Jun 19 14:45:02 2018,web.xml,Jon Hawkes
+Tue Jun 19 14:45:02 2018,EndpointTest.java,Jon Hawkes
+Tue Jun 19 14:45:02 2018,HealthEndpointTest.java,Jon Hawkes
+Tue Jun 19 14:45:02 2018,ServiceAEndpointTest.java,Jon Hawkes
+Tue Jun 19 15:41:42 2018,HealthEndpoint.java,Jon Hawkes
+Tue Jun 19 15:41:42 2018,ServiceAApplication.java,Jon Hawkes
+Tue Jun 19 15:41:42 2018,ServiceAEndpoint.java,Jon Hawkes
+Tue Jun 19 15:41:42 2018,EndpointTest.java,Jon Hawkes
+Tue Jun 19 15:41:42 2018,HealthEndpointTest.java,Jon Hawkes
+Tue Jun 19 15:41:42 2018,ServiceAEndpointTest.java,Jon Hawkes
+Thu Jun 28 11:25:08 2018,pom.xml,Jon Hawkes
+Thu Jun 28 11:25:08 2018,ServiceAEndpoint.java,Jon Hawkes

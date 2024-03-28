@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Fri Mar  3 17:34:25 2006,PingJob.java,Brian Fitzpatrick
+Fri Mar  3 21:55:41 2006,XMLFileManager.java,Brian Fitzpatrick
+Fri Mar  3 22:17:08 2006,ConnectionProfileManager.java,Brian Fitzpatrick
+Fri Mar  3 22:59:37 2006,DSEPlugin.java,Brian Fitzpatrick
+Fri Mar  3 22:59:37 2006,resources.properties,Brian Fitzpatrick
+Fri Mar  3 22:59:37 2006,CCOverLayIconUtility.java,Brian Fitzpatrick
+Fri Mar  3 22:59:37 2006,ConnectivityUIPlugin.java,Brian Fitzpatrick
+Fri Mar  3 22:59:37 2006,DriverListCombo.java,Brian Fitzpatrick
+Fri Mar  3 22:59:37 2006,NewDriverDialog.java,Brian Fitzpatrick
+Fri Mar  3 22:59:37 2006,resources.properties,Brian Fitzpatrick
+Fri Mar  3 22:59:37 2006,CPPropetyPage.java,Brian Fitzpatrick
+Fri Mar  3 22:59:37 2006,CPVersionPropertyPage.java,Brian Fitzpatrick
+Fri Mar  3 22:59:37 2006,CPWizardSelectionPage.java,Brian Fitzpatrick
+Fri Mar  3 22:59:37 2006,ImportProfilesDialog.java,Brian Fitzpatrick
+Fri Mar  3 22:59:37 2006,CommonLabelProviderBase.java,Brian Fitzpatrick
+Fri Mar  3 22:59:37 2006,ContentExtensionBase.java,Brian Fitzpatrick
+Fri Mar  3 22:59:37 2006,ConnectionProfileSummaryPage.java,Brian Fitzpatrick
+Fri Mar  3 22:59:37 2006,NewConnectionProfileWizard.java,Brian Fitzpatrick
+Fri Mar  3 22:59:37 2006,NewConnectionProfileWizardPage.java,Brian Fitzpatrick
+Fri Mar  3 22:59:37 2006,ProfileDetailsPropertyPage.java,Brian Fitzpatrick
+Fri Mar  3 22:59:37 2006,ProfilePropertyPage.java,Brian Fitzpatrick
+Thu Mar  9 18:26:23 2006,ExplorerSorterProvider.java,Brian Fitzpatrick
+Thu Mar  9 18:26:23 2006,plugin.xml,Brian Fitzpatrick
+Thu Mar  9 18:44:35 2006,SQLModelContentActionProvider.java,Brian Fitzpatrick

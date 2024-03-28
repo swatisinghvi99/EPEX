@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Mon Feb 12 19:09:20 2018,geotrellis.spark.io.CollectionLayerReaderProvider,jpolchlo
+Mon Feb 12 19:09:20 2018,AccumuloLayerProvider.scala,jpolchlo
+Mon Feb 12 19:09:20 2018,geotrellis.spark.io.CollectionLayerReaderProvider,jpolchlo
+Mon Feb 12 19:09:20 2018,CassandraLayerProvider.scala,jpolchlo
+Mon Feb 12 19:09:20 2018,geotrellis.spark.io.CollectionLayerReaderProvider,jpolchlo
+Mon Feb 12 19:09:20 2018,HBaseLayerProvider.scala,jpolchlo
+Mon Feb 12 19:09:20 2018,geotrellis.spark.io.CollectionLayerReaderProvider,jpolchlo
+Mon Feb 12 19:09:20 2018,S3LayerProvider.scala,jpolchlo
+Mon Feb 12 19:09:20 2018,geotrellis.spark.io.CollectionLayerReaderProvider,jpolchlo
+Mon Feb 12 19:09:20 2018,CollectionLayerReader.scala,jpolchlo
+Mon Feb 12 19:09:20 2018,CollectionLayerReaderProvider.scala,jpolchlo
+Mon Feb 12 19:09:20 2018,FileLayerProvider.scala,jpolchlo
+Mon Feb 12 19:09:20 2018,HadoopLayerProvider.scala,jpolchlo

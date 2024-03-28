@@ -1,0 +1,292 @@
+[
+    [
+        "Holger Schill",
+        "java",
+        21
+    ],
+    [
+        "Holger Schill",
+        "xtend",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        196
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        21
+    ],
+    [
+        "Sebastian Zarnekow",
+        "prefs",
+        10
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        12
+    ],
+    [
+        "Sebastian Zarnekow",
+        "g",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "tokens",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ecore",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "genmodel",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xmi",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "project",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "classpath",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "launch",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "properties",
+        6
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml_gen",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "txt",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "mwe2",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "list",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "gitignore",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        13
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "properties",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "xml",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "js",
+        10
+    ],
+    [
+        "Sven Efftinge",
+        "css",
+        5
+    ],
+    [
+        "Sven Efftinge",
+        "html",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "php",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "classpath",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "project",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "MF",
+        6
+    ],
+    [
+        "Dennis Huebner",
+        "xtend",
+        12
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        65
+    ],
+    [
+        "Dennis Huebner",
+        "properties",
+        10
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "ant",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "api_filters",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "prefs",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        54
+    ],
+    [
+        "Jan Koehnlein",
+        "xtend",
+        9
+    ],
+    [
+        "Jan Koehnlein",
+        "xpt",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "MF",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "launch",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "txt",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "xtext",
+        1
+    ],
+    [
+        "Michael Clay",
+        "java",
+        8
+    ],
+    [
+        "Michael Clay",
+        "properties",
+        1
+    ],
+    [
+        "Knut Wannheden",
+        "java",
+        8
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        40
+    ],
+    [
+        "Moritz Eysholdt",
+        "ecore",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "genmodel",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "xmi",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "g",
+        2
+    ],
+    [
+        "Moritz Eysholdt",
+        "tokens",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtext",
+        1
+    ]
+]

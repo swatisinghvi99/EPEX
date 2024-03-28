@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Tue Feb 12 17:15:14 2002,TextAttribute.java,kmaetzel
+Tue Feb 12 17:15:14 2002,ContextInformationPopup.java,kmaetzel
+Tue Feb 12 17:15:14 2002,IContextInformationExtension.java,kmaetzel
+Tue Feb 12 17:15:14 2002,RuleBasedDamagerRepairer.java,kmaetzel
+Tue Feb 12 17:15:14 2002,FileDocumentProvider.java,kmaetzel
+Tue Feb 12 17:15:14 2002,StorageDocumentProvider.java,kmaetzel
+Tue Feb 12 17:15:14 2002,TextEditor.java,kmaetzel
+Tue Feb 12 17:15:14 2002,TextEditorPreferencePage.java,kmaetzel
+Tue Feb 12 17:15:14 2002,AbstractDocumentProvider.java,kmaetzel
+Tue Feb 12 17:15:14 2002,AbstractTextEditor.java,kmaetzel
+Tue Feb 12 17:15:14 2002,AddMarkerAction.java,kmaetzel
+Tue Feb 12 17:15:14 2002,FindReplaceDialog.java,kmaetzel
+Tue Feb 12 17:15:14 2002,IDocumentProviderExtension.java,kmaetzel
+Tue Feb 12 17:15:14 2002,MarkerRulerAction.java,kmaetzel
+Tue Feb 12 17:15:14 2002,buildnotes_text.html,kmaetzel

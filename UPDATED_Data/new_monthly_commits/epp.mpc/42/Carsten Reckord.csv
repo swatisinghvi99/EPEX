@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Wed Aug 21 11:51:11 2013,CachingMarketplaceService.java,Carsten Reckord
+Thu Sep  5 14:31:38 2013,CatalogServiceTest.java,Carsten Reckord
+Thu Sep  5 14:31:38 2013,DefaultMarketplaceServiceTest.java,Carsten Reckord
+Thu Sep  5 14:31:38 2013,UnmarshallerTest.java,Carsten Reckord
+Thu Sep  5 17:48:37 2013,DefaultMarketplaceService.java,Carsten Reckord
+Thu Sep  5 17:48:37 2013,Messages.java,Carsten Reckord
+Thu Sep  5 17:48:37 2013,messages.properties,Carsten Reckord
+Thu Sep  5 17:48:37 2013,MarketplaceDiscoveryStrategyTest.java,Carsten Reckord
+Thu Sep  5 17:48:37 2013,MarketplaceUrlHandlerTest.java,Carsten Reckord
+Thu Sep  5 17:48:37 2013,SelectionModelStateSerializerTest.java,Carsten Reckord
+Thu Sep  5 17:48:37 2013,MarketplaceDiscoveryStrategy.java,Carsten Reckord
+Thu Sep  5 17:48:37 2013,MarketplaceUrlHandler.java,Carsten Reckord
+Thu Sep  5 17:49:55 2013,DiscoveryItem.java,Carsten Reckord
+Thu Sep  5 18:34:06 2013,MarketplaceUrlHandlerTest.java,Carsten Reckord
+Thu Sep  5 18:34:06 2013,MarketplaceUrlHandler.java,Carsten Reckord
+Wed Sep 11 17:16:30 2013,DefaultMarketplaceService.java,Carsten Reckord
+Wed Sep 11 17:16:30 2013,RemoteMarketplaceService.java,Carsten Reckord
+Wed Sep 11 17:16:30 2013,ProvisioningJobListener.java,Carsten Reckord
+Wed Sep 11 17:17:19 2013,DiscoveryItem.java,Carsten Reckord
+Wed Sep 11 17:17:19 2013,Messages.java,Carsten Reckord
+Wed Sep 11 17:17:19 2013,messages.properties,Carsten Reckord

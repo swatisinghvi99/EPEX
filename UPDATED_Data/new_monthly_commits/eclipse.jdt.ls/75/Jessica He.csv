@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Wed Apr 12 20:21:09 2023,CompletionProposalDescriptionProvider.java,Jessica He
+Wed Apr 12 20:21:09 2023,SnippetCompletionProposal.java,Jessica He
+Wed Apr 12 20:21:09 2023,PostfixTemplateEngine.java,Jessica He
+Wed Apr 12 20:21:09 2023,CompletionHandler.java,Jessica He
+Wed Apr 12 20:21:09 2023,InitHandler.java,Jessica He
+Wed Apr 12 20:21:09 2023,JDTLanguageServer.java,Jessica He
+Wed Apr 12 20:21:09 2023,ClientPreferences.java,Jessica He
+Wed Apr 12 20:21:09 2023,SyntaxInitHandler.java,Jessica He
+Wed Apr 12 20:21:09 2023,SyntaxLanguageServer.java,Jessica He
+Wed Apr 12 20:21:09 2023,CompletionHandlerTest.java,Jessica He
+Wed Apr 12 20:21:09 2023,PostfixCompletionTest.java,Jessica He
+Thu Apr 27 18:24:08 2023,JDTLanguageServer.java,Jessica He
+Fri May  5 17:08:15 2023,JavadocCompletionProposal.java,Jessica He

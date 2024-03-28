@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Wed Nov  4  9:55:42 2015,ProblemsView.java,Rastislav Wagner
+Mon Nov  9 10:28:01 2015,WidgetHandler.java,Rastislav Wagner
+Mon Nov  9 10:28:01 2015,ToolItemLookup.java,Rastislav Wagner
+Mon Nov  9 10:28:01 2015,AbstractExpandBarItem.java,Rastislav Wagner
+Mon Nov  9 10:28:01 2015,ContextMenu.java,Rastislav Wagner
+Mon Nov  9 10:28:01 2015,ShellMenu.java,Rastislav Wagner
+Mon Nov  9 10:28:01 2015,ToolItemMenu.java,Rastislav Wagner
+Mon Nov  9 10:28:01 2015,ViewMenu.java,Rastislav Wagner
+Mon Nov  9 10:28:01 2015,AbstractShell.java,Rastislav Wagner
+Mon Nov  9 10:28:01 2015,AbstractToolBar.java,Rastislav Wagner
+Mon Nov  9 10:28:01 2015,AbstractToolItem.java,Rastislav Wagner
+Mon Nov  9 10:28:01 2015,DefaultToolBar.java,Rastislav Wagner
+Mon Nov  9 10:28:01 2015,DefaultToolItem.java,Rastislav Wagner
+Mon Nov  9 10:28:01 2015,ViewToolBar.java,Rastislav Wagner
+Mon Nov  9 10:28:01 2015,AbstractTreeItem.java,Rastislav Wagner
+Mon Nov  9 10:28:01 2015,AbstractWidget.java,Rastislav Wagner
+Mon Nov  9 10:28:01 2015,Widget.java,Rastislav Wagner
+Mon Nov  9 10:28:01 2015,AbstractView.java,Rastislav Wagner
+Mon Nov  9 16:38:07 2015,MANIFEST.MF,Rastislav Wagner
+Mon Nov  9 16:38:07 2015,pom.xml,Rastislav Wagner
+Mon Nov  9 16:38:07 2015,Activator.java,Rastislav Wagner
+Mon Nov  9 16:38:07 2015,AllRedDeerTests.java,Rastislav Wagner
+Mon Nov  9 16:38:07 2015,BasicTest.java,Rastislav Wagner
+Tue Nov 10 10:49:24 2015,AbstractShell.java,Rastislav Wagner

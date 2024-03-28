@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Mon Jul  4 14:07:48 2016,dependencies.adoc,Clement Escoffier
+Mon Jul  4 14:07:48 2016,shareddata.adoc,Clement Escoffier
+Mon Jul  4 14:07:48 2016,AsyncMap.java,Clement Escoffier
+Mon Jul  4 14:07:48 2016,package-info.java,Clement Escoffier
+Tue Jul  5  6:54:51 2016,shareddata.adoc,Clement Escoffier
+Tue Jul  5  6:54:51 2016,package-info.java,Clement Escoffier
+Thu Jul  7  7:59:43 2016,index.adoc,Clement Escoffier
+Thu Jul  7  7:59:43 2016,CoreExamples.java,Clement Escoffier
+Thu Jul  7  7:59:43 2016,Future.java,Clement Escoffier
+Thu Jul  7  7:59:43 2016,package-info.java,Clement Escoffier
+Wed Jul 20 12:49:47 2016,Launcher.java,Clement Escoffier
+Wed Jul 20 12:49:47 2016,VertxLifecycleHooks.java,Clement Escoffier
+Wed Jul 20 12:51:12 2016,BareCommand.java,Clement Escoffier
+Wed Jul 20 12:51:12 2016,RunCommand.java,Clement Escoffier
+Wed Jul 20 12:52:10 2016,RunCommand.java,Clement Escoffier
+Wed Jul 20 12:52:46 2016,LauncherExtensibilityTest.java,Clement Escoffier
+Fri Jul 22 14:09:37 2016,Watcher.java,Clement Escoffier
+Fri Jul 22 14:09:37 2016,WatcherAbsolutePathTest.java,Clement Escoffier
+Fri Jul 22 14:09:37 2016,WatcherTest.java,Clement Escoffier
+Fri Jul 29  9:57:43 2016,Watcher.java,Clement Escoffier
+Fri Jul 29  9:57:43 2016,CommandTestBase.java,Clement Escoffier
+Fri Jul 29  9:57:43 2016,WatcherAbsolutePathTest.java,Clement Escoffier
+Fri Jul 29  9:57:43 2016,WatcherTest.java,Clement Escoffier
+Mon Aug  1 12:30:11 2016,Watcher.java,Clement Escoffier

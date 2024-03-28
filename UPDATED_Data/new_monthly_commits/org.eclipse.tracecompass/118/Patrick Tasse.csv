@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Wed Mar 18 20:52:47 2020,BaseDataProviderTimeGraphPresentationProvider.java,Patrick Tasse
+Wed Mar 18 20:52:47 2020,StyleManager.java,Patrick Tasse
+Thu Mar 19 14:57:53 2020,tracecompass-baseline-5.3.0.target,Patrick Tasse
+Thu Mar 19 14:57:53 2020,MANIFEST.MF,Patrick Tasse
+Thu Mar 19 14:57:53 2020,pom.xml,Patrick Tasse
+Thu Mar 19 14:57:53 2020,TmfXYChartViewer.java,Patrick Tasse
+Thu Mar 19 14:57:53 2020,TimeGraphViewer.java,Patrick Tasse
+Tue Mar 24 18:50:08 2020,UstDebugInfoSymbolProviderFactory.java,Patrick Tasse
+Tue Mar 24 18:50:08 2020,HtIoTest.java,Patrick Tasse
+Tue Mar 24 18:50:08 2020,HTCoreNodeTest.java,Patrick Tasse
+Tue Mar 24 18:50:08 2020,HTNodeTest.java,Patrick Tasse
+Tue Mar 24 18:50:08 2020,HistoryTreeStubTest.java,Patrick Tasse
+Tue Mar 24 18:50:08 2020,HtTestUtils.java,Patrick Tasse
+Tue Mar 24 18:50:08 2020,ClassicHistoryTreeTest.java,Patrick Tasse
+Fri Mar 27 14:37:08 2020,RGBAColor.java,Patrick Tasse
+Fri Mar 27 14:37:08 2020,StyleManager.java,Patrick Tasse

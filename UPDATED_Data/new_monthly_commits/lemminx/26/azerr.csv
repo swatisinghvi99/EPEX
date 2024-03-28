@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Thu Aug 20 20:09:55 2020,LSPSAXParser.java,azerr
+Thu Aug 20 20:09:55 2020,DTDDiagnosticsTest.java,azerr
+Thu Aug 20 20:09:55 2020,catalog-public.xml,azerr
+Thu Aug 20 21:07:19 2020,ContentModelManager.java,azerr
+Thu Aug 20 21:07:19 2020,ContentModelProvider.java,azerr
+Thu Aug 20 21:07:19 2020,CMDTDContentModelProvider.java,azerr
+Thu Aug 20 21:07:19 2020,CMXMLModelContentModelProvider.java,azerr
+Thu Aug 20 21:07:19 2020,CMXSDContentModelProvider.java,azerr
+Thu Aug 20 21:07:19 2020,DTDCompletionExtensionsTest.java,azerr

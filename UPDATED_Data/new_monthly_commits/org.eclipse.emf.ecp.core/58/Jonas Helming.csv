@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Mon Apr  4  9:28:01 2016,ECPRepositoryManagerImpl.java,Jonas Helming
+Fri Apr  8 14:35:49 2016,InternalProvider.java,Jonas Helming
+Mon Apr 11  7:28:51 2016,WorkspaceProvider.java,Jonas Helming
+Wed Apr 13  6:56:54 2016,.api_filters,Jonas Helming
+Wed Apr 13  6:56:54 2016,VTablePackage.java,Jonas Helming
+Wed Apr 13  6:56:54 2016,VTablePackageImpl.java,Jonas Helming
+Fri Apr 15 11:26:28 2016,MultiReferenceSWTRenderer.java,Jonas Helming
+Mon Apr 18  7:33:28 2016,ValueSelectionHelper.java,Jonas Helming
+Tue Apr 19 12:39:22 2016,RootObject.java,Jonas Helming
+Fri Apr 22  6:52:18 2016,TreeMasterDetailSWTRenderer.java,Jonas Helming
+Mon Apr 25  6:19:58 2016,SelectModelElementCompositeImpl.java,Jonas Helming

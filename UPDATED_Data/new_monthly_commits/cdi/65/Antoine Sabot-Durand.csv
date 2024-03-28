@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Thu Jul 28  8:16:43 2016,SeContainer.java,Antoine Sabot-Durand
+Thu Jul 28  8:16:43 2016,SeContainerInitializer.java,Antoine Sabot-Durand
+Thu Jul 28  8:16:43 2016,CDI.java,Antoine Sabot-Durand
+Thu Jul 28  8:16:43 2016,CDIProvider.java,Antoine Sabot-Durand
+Thu Jul 28  8:16:43 2016,DummyCDIProvider.java,Antoine Sabot-Durand
+Thu Jul 28  8:16:43 2016,DummyCDIProvider2.java,Antoine Sabot-Durand
+Thu Jul 28  8:16:43 2016,DummyCDIProviderWithNullCDI.java,Antoine Sabot-Durand
+Thu Jul 28  8:16:43 2016,DummySeContainerInitializer.java,Antoine Sabot-Durand
+Thu Jul 28  8:16:43 2016,DummySeContainerInitializer2.java,Antoine Sabot-Durand
+Thu Jul 28  8:16:43 2016,SeContainerInitializerTest.java,Antoine Sabot-Durand
+Thu Jul 28  8:16:43 2016,spi.asciidoc,Antoine Sabot-Durand
+Thu Jul 28  8:16:43 2016,bootstrap_se.asciidoc,Antoine Sabot-Durand
+Thu Jul 28  8:16:43 2016,javase.asciidoc,Antoine Sabot-Durand
+Thu Jul 28  8:16:43 2016,spi_se.asciidoc,Antoine Sabot-Durand
+Thu Jul 28 13:28:28 2016,ProcessAnnotatedType.java,Antoine Sabot-Durand
+Thu Jul 28 13:28:28 2016,ProcessBeanAttributes.java,Antoine Sabot-Durand
+Thu Jul 28 13:28:28 2016,ProcessInjectionPoint.java,Antoine Sabot-Durand
+Thu Jul 28 13:28:28 2016,ProcessObserverMethod.java,Antoine Sabot-Durand
+Thu Jul 28 13:28:28 2016,spi.asciidoc,Antoine Sabot-Durand

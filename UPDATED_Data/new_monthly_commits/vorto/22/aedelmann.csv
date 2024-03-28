@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Dec 19  6:08:38 2016,ChainedCodeGeneratorTask.java,aedelmann
+Mon Dec 19  6:08:38 2016,GenerationResultZip.java,aedelmann
+Mon Dec 19  6:08:38 2016,IGeneratorLookup.java,aedelmann
+Mon Dec 19  6:08:38 2016,ITemplate.java,aedelmann
+Mon Dec 19  6:08:38 2016,IVortoCodeGenerator.java,aedelmann
+Mon Dec 19  6:08:38 2016,InvocationContext.java,aedelmann
+Mon Dec 19  6:08:38 2016,ServiceClassifier.java,aedelmann
+Mon Dec 19  6:08:38 2016,BoschIoTThingsGenerator.java,aedelmann
+Mon Dec 19  6:08:38 2016,Dockerfile,aedelmann
+Mon Dec 19  6:08:38 2016,2016-11-15-vorto-web-modeler.md,aedelmann
+Tue Dec 27  2:59:38 2016,AbstractResolver.java,aedelmann
+Tue Dec 27  2:59:38 2016,BlueToothUUIDResolver.java,aedelmann
+Tue Dec 27  2:59:38 2016,Lwm2mObjectIdResolver.java,aedelmann
+Tue Dec 27  2:59:38 2016,ModelIdResolverFactory.java,aedelmann
+Tue Dec 27  2:59:38 2016,BlueToothDeviceInfoProfileResolverTest.java,aedelmann
+Tue Dec 27  2:59:38 2016,Lwm2mObjectIdResolverTest.java,aedelmann
+Tue Dec 27  2:59:38 2016,ColorLight.fbmodel,aedelmann
+Tue Dec 27  2:59:38 2016,ColorLightIM.infomodel,aedelmann
+Tue Dec 27  2:59:38 2016,ColorLight_bluetooth.mapping,aedelmann
+Tue Dec 27  2:59:38 2016,ModelGenerationController.java,aedelmann
+Tue Dec 27  2:59:38 2016,ModelResolveController.java,aedelmann

@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Tue Apr 27 16:59:01 2021,DistanceUtils.java,Matteo Baccan
+Tue Apr 27 16:59:01 2021,GeoJSONReader.java,Matteo Baccan
+Tue Apr 27 16:59:01 2021,GeohashUtils.java,Matteo Baccan
+Tue Apr 27 16:59:01 2021,PolyshapeReader.java,Matteo Baccan
+Tue Apr 27 16:59:01 2021,JtsGeoJSONWriter.java,Matteo Baccan
+Tue Apr 27 16:59:01 2021,JtsPolyshapeWriter.java,Matteo Baccan
+Tue Apr 27 16:59:01 2021,Range.java,Matteo Baccan
+Tue Apr 27 16:59:01 2021,RectangleImpl.java,Matteo Baccan

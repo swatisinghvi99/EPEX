@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Wed Mar  1 19:43:28 2017,GlobalConfigurationPageTest.java,Thomas Wolf
+Wed Mar  1 19:43:28 2017,UIText.java,Thomas Wolf
+Wed Mar  1 19:43:28 2017,AddConfigEntryDialog.java,Thomas Wolf
+Wed Mar  1 19:43:28 2017,uitext.properties,Thomas Wolf
+Fri Mar  3 12:54:48 2017,ActiveTaskBranchNameProvider.java,Thomas Wolf
+Fri Mar  3 12:54:48 2017,BranchNameNormalizer.java,Thomas Wolf
+Wed Mar  8 22:58:30 2017,ActionUtils.java,Thomas Wolf
+Thu Mar  9 21:09:02 2017,GitRepositoriesViewRemoteHandlingTest.java,Thomas Wolf
+Thu Mar  9 21:09:02 2017,UIText.java,Thomas Wolf
+Thu Mar  9 21:09:02 2017,RefSpecPage.java,Thomas Wolf
+Thu Mar  9 21:09:02 2017,AbstractConfigureRemoteDialog.java,Thomas Wolf
+Thu Mar  9 21:09:02 2017,SimpleConfigureFetchDialog.java,Thomas Wolf
+Thu Mar  9 21:09:02 2017,SimpleFetchRefSpecWizard.java,Thomas Wolf
+Thu Mar  9 21:09:02 2017,RefSpecDialog.java,Thomas Wolf
+Thu Mar  9 21:09:02 2017,SimpleConfigurePushDialog.java,Thomas Wolf
+Thu Mar  9 21:09:02 2017,SelectUriWizard.java,Thomas Wolf
+Thu Mar  9 21:09:02 2017,uitext.properties,Thomas Wolf
+Thu Mar 23 20:46:25 2017,CommitEditorPage.java,Thomas Wolf
+Thu Mar 23 20:46:25 2017,NotesBlock.java,Thomas Wolf
+Thu Mar 23 20:46:25 2017,RevertFailureDialog.java,Thomas Wolf
+Thu Mar 23 20:46:25 2017,FetchResultTable.java,Thomas Wolf
+Thu Mar 23 20:46:25 2017,PushResultTable.java,Thomas Wolf
+Thu Mar 23 20:46:25 2017,CommitSearchResultsPage.java,Thomas Wolf
+Thu Mar 23 20:46:25 2017,ExistingOrNewPage.java,Thomas Wolf

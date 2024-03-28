@@ -1,0 +1,66 @@
+date_time,file,committer_name
+Mon Oct  8 16:29:24 2012,Activator.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,Messages.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,PreferenceConstans.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,GeoReferencingProcess.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,MarkModel.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,MarkModelFactory.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,MarkModelImpl.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,AbstractMarkPresenter.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,GeoReferencingCommand.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,GeoReferencingComposite.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,GeoreferencingCommandEventChange.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,InputEvent.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,MainComposite.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,MarkPresenter.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,MouseSelectionListener.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,CoordinateTableComposite.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,MapMarksGraphics.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,MarkMapPresenter.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,MarkMapPresenterImp.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,MarkMapPreview.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,AddCoordinateTool.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,CapturedCoordinateListener.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,CoordToolPropertyValue.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,CoordinateToolListener.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,DeleteCoordinateTool.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,DeletedCoordinateListener.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,MoveCoordinateListener.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,MoveCoordinateTool.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,ImageComposite.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,ImageMetricPosition.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,ImagePanelUtil.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,MarkImagePresenter.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,MarkImagePresenterFactory.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,MarkImagePresenterImp.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,AbstractImageTool.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,AddMarkImageTool.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,DeleteMarkImageTool.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,ImageInputEvent.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,ImageTool.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,MarkImagePreview.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,MoveMarkImageTool.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,PanImageTool.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,ZoomImageTool.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,ZoomInImageTool.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,ZoomOutImageTool.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,InfoMessage.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,GeoreferencingView.java,Mauricio Pazos
+Mon Oct  8 16:29:24 2012,MarkStorage.java,Mauricio Pazos
+Tue Oct  9 11:41:54 2012,Axios uDig Extensions.html,Mauricio Pazos
+Tue Oct  9 11:41:54 2012,Community.html,Mauricio Pazos
+Tue Oct  9 11:41:54 2012,Georeference an Image.html,Mauricio Pazos
+Tue Oct  9 11:41:54 2012,Georeference.html,Mauricio Pazos
+Tue Oct  9 11:41:54 2012,Georeferencing Tools.html,Mauricio Pazos
+Tue Oct  9 11:41:54 2012,Image Georeferencing view.html,Mauricio Pazos
+Tue Oct  9 11:41:54 2012,Set raster transparent color.html,Mauricio Pazos
+Tue Oct  9 11:41:54 2012,Spatial Operations.html,Mauricio Pazos
+Tue Oct  9 11:41:54 2012,Tasks.html,Mauricio Pazos
+Tue Oct  9 11:41:54 2012,Trim Line Tool.html,Mauricio Pazos
+Tue Oct  9 11:41:54 2012,Working with Images.html,Mauricio Pazos
+Tue Oct  9 11:41:54 2012,jquery.js,Mauricio Pazos
+Tue Oct  9 11:41:54 2012,underscore.js,Mauricio Pazos
+Tue Oct  9 11:41:54 2012,searchindex.js,Mauricio Pazos
+Tue Oct  9 11:41:54 2012,toc.xml,Mauricio Pazos
+Tue Oct  9 12:06:09 2012,CoordToolPropertyValue.java,Mauricio Pazos
+Tue Oct  9 12:06:09 2012,MarkStorage.java,Mauricio Pazos

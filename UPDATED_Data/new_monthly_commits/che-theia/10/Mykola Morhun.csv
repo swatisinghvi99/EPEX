@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Tue Sep 10 14:41:52 2019,hosted-plugin-remote.ts,Mykola Morhun
+Tue Sep 10 14:41:52 2019,plugin-reader-extension.ts,Mykola Morhun
+Tue Sep 10 14:41:52 2019,plugin-remote-backend-module.ts,Mykola Morhun
+Tue Sep 10 14:41:52 2019,plugin-remote-init.ts,Mykola Morhun
+Tue Sep 17 13:30:03 2019,generate-about-details.js,Mykola Morhun
+Tue Sep 17 13:30:03 2019,about-che-theia-dialog.ts,Mykola Morhun
+Fri Sep 27 12:16:34 2019,containers-plugin.ts,Mykola Morhun
+Fri Sep 27 12:16:34 2019,containers-tree-data-provider.ts,Mykola Morhun

@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Tue Sep 23 13:42:04 2014,CongestionControlLayer.java,abetzler
+Tue Sep 23 13:42:56 2014,RemoteEndpoint.java,abetzler
+Tue Sep 23 13:43:41 2014,RemoteEndpointManager.java,abetzler
+Mon Sep 29 14:42:45 2014,CongestionControlLayer.java,abetzler
+Mon Sep 29 14:53:27 2014,CongestionControlLayer.java,abetzler
+Wed Oct  1 19:14:46 2014,ReliabilityLayer.java,abetzler
+Wed Oct  1 19:19:45 2014,RemoteEndpointManager.java,abetzler
+Wed Oct  1 19:20:08 2014,RemoteEndpoint.java,abetzler
+Wed Oct  1 19:20:38 2014,CongestionControlLayer.java,abetzler
+Wed Oct  1 19:21:19 2014,BasicRto.java,abetzler
+Wed Oct  1 19:22:10 2014,Cocoa.java,abetzler
+Wed Oct  1 19:22:40 2014,CocoaStrong.java,abetzler
+Wed Oct  1 19:23:46 2014,Cocoa.java,abetzler
+Wed Oct  1 19:24:06 2014,BasicRto.java,abetzler
+Wed Oct  1 19:24:36 2014,LinuxRto.java,abetzler
+Wed Oct  1 19:26:28 2014,PeakhopperRto.java,abetzler
+Fri Oct  3 17:58:20 2014,BasicRto.java,abetzler
+Fri Oct  3 18:10:23 2014,Cocoa.java,abetzler
+Fri Oct  3 18:10:47 2014,LinuxRto.java,abetzler
+Fri Oct  3 18:12:23 2014,RemoteEndpoint.java,abetzler
+Fri Oct  3 18:13:15 2014,CongestionControlLayer.java,abetzler

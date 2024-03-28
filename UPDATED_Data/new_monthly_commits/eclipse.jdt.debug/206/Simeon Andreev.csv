@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Mon Jun 25  7:34:46 2018,ThreadNameChangeTests.java,Simeon Andreev
+Mon Jun 25  7:34:46 2018,JavaDebugTargetTests.java,Simeon Andreev
+Mon Jun 25  7:34:46 2018,plugin.xml,Simeon Andreev
+Mon Jun 25  7:34:46 2018,IJDIPreferencesConstants.java,Simeon Andreev
+Mon Jun 25  7:34:46 2018,JDIDebugUIPreferenceInitializer.java,Simeon Andreev
+Mon Jun 25  7:34:46 2018,JavaDebugOptionsManager.java,Simeon Andreev
+Mon Jun 25  7:34:46 2018,ThreadNameChangeListener.java,Simeon Andreev
+Mon Jun 25  7:34:46 2018,JDIDebugTarget.java,Simeon Andreev
+Mon Jul 16 11:03:53 2018,ThreadNameChangeTests.java,Simeon Andreev
+Tue Jul 17  8:28:51 2018,LocalVariableCreation.java,Simeon Andreev
+Tue Jul 17  8:28:51 2018,JavaExceptionBreakpoint.java,Simeon Andreev
+Tue Jul 17  8:28:51 2018,JavaLineBreakpoint.java,Simeon Andreev
+Tue Jul 17  8:28:51 2018,JavaMethodBreakpoint.java,Simeon Andreev
+Tue Jul 17  8:28:51 2018,JavaPatternBreakpoint.java,Simeon Andreev
+Tue Jul 17  8:28:51 2018,JavaStratumLineBreakpoint.java,Simeon Andreev
+Tue Jul 17  8:28:51 2018,JavaTargetPatternBreakpoint.java,Simeon Andreev
+Tue Jul 17  8:28:51 2018,JavaWatchpoint.java,Simeon Andreev
+Tue Jul 17  8:28:51 2018,JavaHotCodeReplaceManager.java,Simeon Andreev
+Tue Jul 17  8:28:51 2018,JDIArrayValue.java,Simeon Andreev
+Tue Jul 17  8:28:51 2018,JDIDebugTarget.java,Simeon Andreev
+Tue Jul 17  8:28:51 2018,JDIModificationVariable.java,Simeon Andreev
+Tue Jul 17  8:28:51 2018,JDINullValue.java,Simeon Andreev
+Tue Jul 17  8:28:51 2018,JDIThread.java,Simeon Andreev

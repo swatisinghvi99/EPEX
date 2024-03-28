@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Thu Jan  6 17:04:39 2022,PipelineConfigXML.java,Theodoros Maikantis
+Thu Jan  6 17:05:29 2022,ResultObject.java,Theodoros Maikantis
+Thu Jan  6 17:07:29 2022,MainFlow.java,Theodoros Maikantis
+Thu Jan  6 17:08:12 2022,GitLab.java,Theodoros Maikantis
+Thu Jan  6 17:08:38 2022,Jenkins.java,Theodoros Maikantis
+Thu Jan  6 17:11:41 2022,EndpointController.java,Theodoros Maikantis
+Thu Jan  6 17:12:15 2022,CorsConf.java,Theodoros Maikantis
+Thu Jan  6 17:21:21 2022,ServiceCreationApplication.java,Theodoros Maikantis

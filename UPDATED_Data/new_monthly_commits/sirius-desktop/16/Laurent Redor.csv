@@ -1,0 +1,37 @@
+date_time,file,committer_name
+Wed Dec 10 10:13:33 2014,RepresentationNameListener.java,Laurent Redor
+Wed Dec 10 10:13:33 2014,DAnalysisSessionImpl.java,Laurent Redor
+Wed Dec 10 10:13:33 2014,RepresentationsChangeAdapter.java,Laurent Redor
+Thu Dec 11  9:46:08 2014,SaveSessionJob.java,Laurent Redor
+Thu Dec 11 13:38:33 2014,DAnalysisSessionImpl.java,Laurent Redor
+Thu Dec 11 13:38:34 2014,DAnalysisSessionImpl.java,Laurent Redor
+Thu Dec 11 13:38:36 2014,RepresentationsChangeAdapter.java,Laurent Redor
+Thu Dec 11 13:38:37 2014,DAnalysisSessionImpl.java,Laurent Redor
+Thu Dec 11 13:38:38 2014,DAnalysisSessionImpl.java,Laurent Redor
+Thu Dec 11 13:38:40 2014,RepresentationNameListener.java,Laurent Redor
+Thu Dec 11 13:38:40 2014,DAnalysisSessionImpl.java,Laurent Redor
+Thu Dec 11 13:58:51 2014,AbstractDTreeEditor.java,Laurent Redor
+Fri Dec 12 10:57:08 2014,NodeLabelPositionTest.java,Laurent Redor
+Wed Dec 17  9:49:35 2014,RefreshLayoutCommand.java,Laurent Redor
+Fri Dec 19 15:36:05 2014,SubDiagramDecorator.java,Laurent Redor
+Fri Dec 19 15:45:18 2014,SubDiagramDecorator.java,Laurent Redor
+Mon Dec 22  9:25:41 2014,DiagramCreationDescriptionFromDNodeListElementTest.java,Laurent Redor
+Mon Dec 22  9:25:41 2014,DiagramCreationDescriptionTest.java,Laurent Redor
+Mon Dec 22  9:25:41 2014,AllTestSuite.java,Laurent Redor
+Mon Dec 22 16:47:09 2014,OpenMenuContribution.java,Laurent Redor
+Mon Dec 22 16:47:09 2014,DTableMenuListener.java,Laurent Redor
+Mon Dec 22 16:47:09 2014,DTreeMenuListener.java,Laurent Redor
+Mon Dec 22 16:47:29 2014,OpenMenuContribution.java,Laurent Redor
+Mon Dec 22 16:47:29 2014,SpecificationMenuContribution.java,Laurent Redor
+Mon Dec 22 16:47:29 2014,DiagramImagesPath.java,Laurent Redor
+Mon Dec 22 16:47:29 2014,Release Notes.html,Laurent Redor
+Mon Dec 22 16:47:29 2014,Release Notes.textile,Laurent Redor
+Mon Dec 22 16:47:29 2014,DTableMenuListener.java,Laurent Redor
+Mon Dec 22 16:47:29 2014,DTreeMenuListener.java,Laurent Redor
+Mon Dec 22 16:47:29 2014,ImagesPath.java,Laurent Redor
+Mon Dec 22 16:47:29 2014,OpenRepresentationAction.java,Laurent Redor
+Mon Dec 22 16:47:29 2014,MenuHelper.java,Laurent Redor
+Mon Dec 22 16:47:29 2014,NavigateToCommand.java,Laurent Redor
+Wed Dec 31 14:02:37 2014,DAnalysisSessionTests.java,Laurent Redor
+Wed Dec 31 14:02:37 2014,DAnalysisSessionImpl.java,Laurent Redor
+Thu Jan  1 17:01:52 2015,EAttributeServices.java,Laurent Redor

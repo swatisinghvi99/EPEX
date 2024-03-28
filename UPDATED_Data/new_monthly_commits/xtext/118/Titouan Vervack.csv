@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Wed Feb 21 13:00:40 2018,DataTest.java,Titouan Vervack
+Wed Feb 21 13:00:40 2018,Data.xtend,Titouan Vervack
+Wed Feb 21 13:00:40 2018,EqualsHashCode.xtend,Titouan Vervack
+Wed Feb 21 13:00:40 2018,ToString.xtend,Titouan Vervack
+Wed Feb 21 13:00:40 2018,EqualsHashCodeProcessor.java,Titouan Vervack
+Wed Feb 21 13:00:40 2018,ToStringProcessor.java,Titouan Vervack
+Wed Feb 21 16:32:25 2018,CompilerBug410797Test.xtend,Titouan Vervack
+Wed Feb 21 16:32:25 2018,CompilerBug410797Test.java,Titouan Vervack
+Wed Feb 21 16:32:25 2018,Case_0.java,Titouan Vervack
+Wed Feb 21 16:32:25 2018,CompilerBug410797Test.xtend,Titouan Vervack
+Wed Feb 21 16:32:25 2018,CompilerBugTest.xtend,Titouan Vervack
+Wed Feb 21 16:32:25 2018,NewDataCompilerTest.xtend,Titouan Vervack
+Wed Feb 21 16:32:25 2018,OldDataCompilerTest.xtend,Titouan Vervack
+Wed Feb 21 16:32:25 2018,CompilerBug410797Test.java,Titouan Vervack
+Wed Feb 21 16:32:25 2018,CompilerBugTest.java,Titouan Vervack
+Wed Feb 21 16:32:25 2018,NewDataCompilerTest.java,Titouan Vervack
+Wed Feb 21 16:32:25 2018,OldDataCompilerTest.java,Titouan Vervack
+Wed Feb 21 16:32:25 2018,Declarators.java,Titouan Vervack
+Wed Feb 21 16:32:25 2018,Chunk.java,Titouan Vervack
+Wed Feb 21 16:32:25 2018,SemanticText.java,Titouan Vervack
+Wed Feb 21 16:32:25 2018,SemanticWhitespace.java,Titouan Vervack
+Wed Feb 21 16:32:25 2018,TemplateWhitespace.java,Titouan Vervack
+Wed Feb 21 16:32:25 2018,ASTParserFactory.java,Titouan Vervack
+Wed Feb 21 16:32:25 2018,ResolvedParameterImpl.java,Titouan Vervack
+Wed Feb 21 16:32:25 2018,UnknownType.java,Titouan Vervack

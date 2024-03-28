@@ -1,0 +1,87 @@
+[
+    [
+        "Michal Vala",
+        "java",
+        12
+    ],
+    [
+        "Sergii Kabashniuk",
+        "java",
+        2
+    ],
+    [
+        "Maxim Musienko",
+        "sh",
+        2
+    ],
+    [
+        "Maxim Musienko",
+        "ts",
+        4
+    ],
+    [
+        "Tibor Dancs",
+        "ts",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "java",
+        25
+    ],
+    [
+        "Max Shaposhnik",
+        "json",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "yaml",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "sql",
+        1
+    ],
+    [
+        "Katerina Foniok",
+        "ts",
+        6
+    ],
+    [
+        "Katerina Foniok",
+        "unknown",
+        1
+    ],
+    [
+        "Lukas Krejci",
+        "properties",
+        2
+    ],
+    [
+        "Lukas Krejci",
+        "xml",
+        2
+    ],
+    [
+        "Lukas Krejci",
+        "java",
+        7
+    ],
+    [
+        "Igor Ohrimenko",
+        "ts",
+        3
+    ],
+    [
+        "Tom George",
+        "properties",
+        1
+    ],
+    [
+        "Tom George",
+        "java",
+        27
+    ]
+]

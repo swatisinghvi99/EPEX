@@ -1,0 +1,42 @@
+date_time,file,committer_name
+Sat Jul  5 13:16:22 2014,CDOTreeFormDirtyAndSaveableTests.java,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,.gitignore,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,.project,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,indigo.target,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,pom.xml,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,pom.xml,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,EmfParsleyDslAllUiTests.launch,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,MANIFEST.MF,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,org.eclipse.emf.parsley.parent INDIGO Other Display.launch,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,org.eclipse.emf.parsley.parent INDIGO.launch,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,pom.xml,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,.classpath,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,.project,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,org.eclipse.jdt.core.prefs,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,MANIFEST.MF,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,about.html,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,build.properties,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,pom.xml,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,PDETargetPlatformUtils.java,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,EmfParsleySwtBotAllTestsForCDO.launch,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,EmfParsleyDslEditorTests.launch,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,EmfParsleyEditingStrategyTests.launch,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,EmfParsleyExamplesWizardsTests.launch,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,EmfParsleySwtBotAllTests.launch,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,EmfParsleySwtBotAllTestsUsingAnotherDISPLAY.launch,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,EmfParsleyAbstractTests.java,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,EmfParsleyDialogAbstractTests.xtend,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,EmfParsleyDialogTests.xtend,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,EmfParsleyEditingStrategyTests.xtend,Lorenzo Bettini
+Sat Jul  5 17:31:20 2014,EmfParsleyExamplesWizardsTests.java,Lorenzo Bettini
+Wed Jul 23 17:36:34 2014,MANIFEST.MF,Lorenzo Bettini
+Wed Jul 23 17:36:34 2014,EmfParsleyExamplesExecutableExtensionFactory.java,Lorenzo Bettini
+Wed Jul 23 17:36:34 2014,EmfParsleyExamplesViewsActivator.java,Lorenzo Bettini
+Wed Jul 23 17:36:34 2014,org.eclipse.emf.parsley.tycho No Findbugs Other Display.launch,Lorenzo Bettini
+Wed Jul 23 17:36:34 2014,org.eclipse.emf.parsley.tycho Other Display.launch,Lorenzo Bettini
+Wed Jul 23 17:36:34 2014,EmfParsleyAbstractTests.java,Lorenzo Bettini
+Sat Aug  2 16:29:14 2014,EmfParsleySwtBotAllTestsForCDO.launch,Lorenzo Bettini
+Sat Aug  2 16:29:14 2014,CDOAbstractTests.java,Lorenzo Bettini
+Sat Aug  2 16:29:14 2014,EmfParsleyAbstractTests.java,Lorenzo Bettini
+Sat Aug  2 17:20:13 2014,EmfParsleyDslRuntimeModule.java,Lorenzo Bettini
+Sat Aug  2 17:20:13 2014,EmfParsleyDslImplicitlyImportedFeatures.xtend,Lorenzo Bettini

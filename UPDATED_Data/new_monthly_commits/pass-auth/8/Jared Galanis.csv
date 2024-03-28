@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Wed Apr 12 15:34:39 2023,.eslintrc.json,Jared Galanis
+Wed Apr 12 15:34:39 2023,app.js,Jared Galanis
+Wed Apr 12 15:34:39 2023,config.js,Jared Galanis
+Wed Apr 12 15:34:39 2023,passport.js,Jared Galanis
+Wed Apr 12 15:34:39 2023,proxies.js,Jared Galanis
+Wed Apr 12 15:34:39 2023,routes.js,Jared Galanis
+Wed Apr 12 15:34:39 2023,multi-saml-strategy.js,Jared Galanis
+Wed Apr 12 15:34:39 2023,setup-user.js,Jared Galanis
+Wed Apr 12 15:34:39 2023,ensure-auth.js,Jared Galanis
+Wed Apr 12 15:34:39 2023,package.json,Jared Galanis
+Wed Apr 12 15:34:39 2023,yarn.lock,Jared Galanis

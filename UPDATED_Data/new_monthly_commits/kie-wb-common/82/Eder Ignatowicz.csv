@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Thu Mar 26 19:32:30 2020,DMNDiagramEditor.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,AbstractDMNDiagramEditor.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,AbstractDMNDiagramEditorTest.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,DMNDiagramEditor.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,DMNDiagramEditorTest.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,DMNDiagramEditor.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,DMNDiagramEditorTest.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,BaseKogitoEditor.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,.gitignore,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,Viewer.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,AbstractDiagramEditor.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,AbstractDiagramEditorCore.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,DiagramEditorCore.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,AbstractProjectDiagramEditor.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,AbstractProjectDiagramEditorTest.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,ProjectDiagramEditorTest.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,BPMNDiagramEditor.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,BPMNDiagramEditorTest.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,CaseManagementDiagramEditor.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,CaseManagementDiagramEditorTest.java,Eder Ignatowicz
+Thu Mar 26 19:32:30 2020,BPMNStandaloneDiagramEditor.java,Eder Ignatowicz

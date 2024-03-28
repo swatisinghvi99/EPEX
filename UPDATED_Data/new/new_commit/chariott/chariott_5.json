@@ -1,0 +1,82 @@
+[
+    [
+        "Devin Kelley",
+        "lock",
+        2
+    ],
+    [
+        "Devin Kelley",
+        "toml",
+        5
+    ],
+    [
+        "Devin Kelley",
+        "md",
+        5
+    ],
+    [
+        "Devin Kelley",
+        "rs",
+        15
+    ],
+    [
+        "Devin Kelley",
+        "yaml",
+        1
+    ],
+    [
+        "Lauren Datz",
+        "unknown",
+        2
+    ],
+    [
+        "Lauren Datz",
+        "arm64",
+        1
+    ],
+    [
+        "Lauren Datz",
+        "valgrind",
+        1
+    ],
+    [
+        "Lauren Datz",
+        "sh",
+        7
+    ],
+    [
+        "Lauren Datz",
+        "rs",
+        62
+    ],
+    [
+        "Lauren Datz",
+        "base",
+        1
+    ],
+    [
+        "Lauren Datz",
+        "ci",
+        2
+    ],
+    [
+        "Lauren Datz",
+        "cs",
+        1
+    ],
+    [
+        "Lauren Datz",
+        "css",
+        1
+    ],
+    [
+        "Lauren Datz",
+        "html",
+        1
+    ],
+    [
+        "Lauren Datz",
+        "proto",
+        5
+    ]
+]

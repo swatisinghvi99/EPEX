@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Thu Nov 29 11:57:51 2018,org.eclipse.smarthome.automation.module.timer.test.launch,Dominik Schlierf
+Thu Nov 29 11:57:51 2018,BasicConditionHandlerTest.java,Dominik Schlierf
+Thu Nov 29 11:57:51 2018,DayOfWeekConditionHandlerTest.java,Dominik Schlierf
+Thu Nov 29 11:57:51 2018,TimeOfDayConditionHandlerTest.java,Dominik Schlierf
+Thu Nov 29 11:57:51 2018,TimeOfDayCondition.json,Dominik Schlierf
+Thu Nov 29 11:57:51 2018,TimerModuleHandlerFactory.java,Dominik Schlierf
+Thu Nov 29 11:57:51 2018,TimeOfDayConditionHandler.java,Dominik Schlierf

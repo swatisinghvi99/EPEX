@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Fri Feb 12 14:02:33 2021,ecal_client.h,Aleksandar Brakmic
+Fri Feb 12 14:02:33 2021,client.h,Aleksandar Brakmic
+Fri Feb 12 14:02:33 2021,ecal_service_client.cpp,Aleksandar Brakmic
+Fri Feb 12 14:02:33 2021,ecal_service_client_impl.cpp,Aleksandar Brakmic
+Fri Feb 12 14:02:33 2021,ecal_service_client_impl.h,Aleksandar Brakmic
+Fri Feb 12 14:02:33 2021,ecal_tcpclient.cpp,Aleksandar Brakmic
+Fri Feb 12 14:02:33 2021,ecal_tcpclient.h,Aleksandar Brakmic

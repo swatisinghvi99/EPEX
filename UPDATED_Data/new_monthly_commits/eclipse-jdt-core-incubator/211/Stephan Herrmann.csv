@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Sun Dec 16  0:43:36 2018,ProblemTypeAndMethodTest.java,Stephan Herrmann
+Sun Dec 16  0:43:36 2018,ParameterizedTypeBinding.java,Stephan Herrmann
+Sun Dec 16 18:11:34 2018,TypeHierarchyTests.java,Stephan Herrmann
+Sun Dec 16 18:11:34 2018,LookupEnvironment.java,Stephan Herrmann
+Sun Dec 16 18:11:34 2018,HierarchyBuilder.java,Stephan Herrmann
+Sun Dec 16 18:11:34 2018,HierarchyResolver.java,Stephan Herrmann
+Sun Dec 16 18:11:34 2018,IndexBasedHierarchyBuilder.java,Stephan Herrmann
+Tue Dec 18 23:03:45 2018,AbstractJavaModelTests.java,Stephan Herrmann
+Tue Dec 18 23:03:45 2018,ModuleBuilderTests.java,Stephan Herrmann
+Tue Dec 18 23:03:45 2018,ResolveTests9.java,Stephan Herrmann
+Tue Dec 18 23:03:45 2018,QualifiedTypeReference.java,Stephan Herrmann
+Tue Dec 18 23:03:45 2018,CompilationUnitScope.java,Stephan Herrmann
+Tue Dec 18 23:03:45 2018,PackageBinding.java,Stephan Herrmann
+Tue Dec 18 23:03:45 2018,SplitPackageBinding.java,Stephan Herrmann
+Thu Dec 20 14:01:00 2018,ProblemTypeAndMethodTest.java,Stephan Herrmann
+Sun Dec 30 20:30:34 2018,TypeHierarchyTests.java,Stephan Herrmann
+Sun Dec 30 20:30:34 2018,HierarchyResolver.java,Stephan Herrmann
+Fri Jan  4 23:11:14 2019,GenericsRegressionTest_1_8.java,Stephan Herrmann
+Fri Jan  4 23:11:14 2019,ConstraintTypeFormula.java,Stephan Herrmann

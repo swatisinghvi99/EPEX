@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Thu Oct 27 18:14:57 2005,.project,gmurphy
+Thu Oct 27 18:14:57 2005,IUsageCollector.java,gmurphy
+Thu Oct 27 18:14:57 2005,IUsageScanner.java,gmurphy
+Thu Oct 27 18:14:57 2005,ReportGenerator.java,gmurphy
+Thu Oct 27 18:14:57 2005,UsageStatsEditorInput.java,gmurphy
+Mon Nov  7 16:03:12 2005,InteractionEventComparator.java,gmurphy
+Mon Nov  7 16:03:12 2005,ReportGenerator.java,gmurphy
+Thu Nov 17  1:45:08 2005,ViewUsageCollector.java,gmurphy
+Thu Nov 17  1:50:02 2005,AbstractMylarUsageCollector.java,gmurphy
+Thu Nov 17  1:50:02 2005,DelegatingUsageCollector.java,gmurphy
+Thu Nov 17  1:50:02 2005,IUsageCollector.java,gmurphy
+Thu Nov 17  1:50:02 2005,CommandUsageCollector.java,gmurphy
+Thu Nov 17  1:50:02 2005,CsvOutputCollector.java,gmurphy
+Thu Nov 17  1:50:02 2005,PerspectiveUsageCollector.java,gmurphy
+Thu Nov 17  1:50:02 2005,SummaryCollector.java,gmurphy
+Thu Nov 17  1:50:02 2005,UsageStatsEditorPart.java,gmurphy
+Sat Nov 19  6:50:42 2005,AbstractMylarUsageCollector.java,gmurphy
+Sat Nov 19  6:50:42 2005,DelegatingUsageCollector.java,gmurphy
+Sat Nov 19  6:50:42 2005,MylarUsageDetector.java,gmurphy

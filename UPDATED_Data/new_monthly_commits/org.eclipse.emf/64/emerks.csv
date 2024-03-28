@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Tue Oct 21 11:03:56 2008,MANIFEST.MF,emerks
+Tue Oct 21 11:03:56 2008,EObjectObservableMap.java,emerks
+Thu Oct 23 14:54:00 2008,ExtensibleURIConverterImpl.java,emerks
+Thu Oct 23 17:22:40 2008,Change.ecore,emerks
+Thu Oct 23 17:22:40 2008,ListChange.java,emerks
+Thu Oct 23 17:22:40 2008,ChangePackageImpl.java,emerks
+Thu Oct 23 17:22:40 2008,ListChangeImpl.java,emerks
+Sat Nov  1 10:42:01 2008,NotificationImpl.java,emerks
+Sat Nov  1 10:42:40 2008,ResourceImpl.java,emerks
+Sat Nov  1 10:43:26 2008,NotificationTest.java,emerks
+Mon Nov  3 11:29:56 2008,ItemProvider.java,emerks
+Mon Nov  3 11:29:56 2008,Class.java,emerks
+Mon Nov  3 11:29:56 2008,ItemProvider.javajet,emerks
+Mon Nov  3 11:29:56 2008,Class.javajet,emerks
+Mon Nov  3 13:05:35 2008,XMLTypeFactoryImpl.java,emerks
+Mon Nov  3 13:05:38 2008,XSDEcoreBuilder.java,emerks
+Mon Nov  3 13:05:38 2008,XSDEnumerationFacetImpl.java,emerks
+Mon Nov  3 13:51:20 2008,Editor.java,emerks
+Mon Nov  3 13:51:20 2008,Editor.javajet,emerks

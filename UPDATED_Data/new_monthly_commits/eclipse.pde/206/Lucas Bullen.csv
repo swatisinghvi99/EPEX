@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Mon Jun 25 17:49:35 2018,AbstractTargetHandle.java,Lucas Bullen
+Mon Jun 25 17:49:35 2018,ExternalFileTargetHandle.java,Lucas Bullen
+Mon Jun 25 17:49:35 2018,LocalTargetHandle.java,Lucas Bullen
+Mon Jun 25 17:49:35 2018,TargetDefinition.java,Lucas Bullen
+Mon Jun 25 17:49:35 2018,TargetDefinitionPersistenceHelper.java,Lucas Bullen
+Mon Jun 25 17:49:35 2018,TargetPlatformService.java,Lucas Bullen
+Mon Jun 25 17:49:35 2018,WorkspaceFileTargetHandle.java,Lucas Bullen
+Mon Jun 25 17:49:35 2018,MANIFEST.MF,Lucas Bullen
+Mon Jun 25 17:49:35 2018,AbstractTargetEditorTest.java,Lucas Bullen
+Mon Jun 25 17:49:35 2018,Bug531602FormattingTests.java,Lucas Bullen
+Mon Jun 25 17:49:35 2018,AbstractTargetTest.java,Lucas Bullen
+Mon Jun 25 17:49:35 2018,IUBundleContainerTests.java,Lucas Bullen
+Mon Jun 25 17:49:35 2018,LocalTargetDefinitionTests.java,Lucas Bullen
+Mon Jun 25 17:49:35 2018,MinimalTargetDefinitionPersistenceTests.java,Lucas Bullen
+Mon Jun 25 17:49:35 2018,TargetDefinitionPersistenceTests.java,Lucas Bullen
+Mon Jun 25 17:49:35 2018,unixLineDelimiters.trgt,Lucas Bullen
+Mon Jun 25 17:49:35 2018,windowsLineDelimiters.trgt,Lucas Bullen
+Mon Jun 25 17:49:35 2018,TargetEditor.java,Lucas Bullen
+Mon Jul 16 13:49:49 2018,Bug531602FormattingTests.java,Lucas Bullen

@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Tue Sep 24 20:32:22 2013,TcpEventMatching.java,Geneviève Bastien
+Tue Sep 24 20:32:22 2013,TcpLttngEventMatching.java,Geneviève Bastien
+Tue Sep 24 20:32:22 2013,ITmfNetworkMatchDefinition.java,Geneviève Bastien
+Tue Sep 24 20:32:22 2013,TmfNetworkEventMatching.java,Geneviève Bastien
+Thu Sep 26 14:23:17 2013,TmfTestTrace.java,Geneviève Bastien
+Thu Sep 26 14:23:17 2013,TmfEventTest.java,Geneviève Bastien
+Thu Sep 26 14:23:17 2013,TmfCoalescedEventRequestTest.java,Geneviève Bastien
+Thu Sep 26 14:23:17 2013,TmfCheckpointIndexTest.java,Geneviève Bastien
+Thu Sep 26 14:23:17 2013,TmfCheckpointIndexTest2.java,Geneviève Bastien
+Thu Sep 26 14:23:17 2013,TmfExperimentCheckpointIndexTest.java,Geneviève Bastien
+Thu Sep 26 14:23:17 2013,TmfExperimentTest.java,Geneviève Bastien
+Thu Sep 26 14:23:17 2013,TmfMultiTraceExperimentTest.java,Geneviève Bastien
+Thu Sep 26 14:23:17 2013,TmfTraceTest.java,Geneviève Bastien
+Thu Sep 26 14:23:17 2013,TmfEventProviderStub.java,Geneviève Bastien

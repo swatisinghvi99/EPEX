@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Wed May 16 12:15:34 2018,CONTRIBUTING,Kate Lukashick
+Wed May 16 12:15:34 2018,NOTICE,Kate Lukashick
+Wed May 16 12:15:34 2018,IoFogClientBase.cs,Kate Lukashick
+Wed May 16 12:15:34 2018,IoFogRestApiClient.cs,Kate Lukashick
+Wed May 16 12:15:34 2018,IoFogWebSocketApiClient.cs,Kate Lukashick
+Wed May 16 12:15:34 2018,IoFogWebSocketEndpointEnum.cs,Kate Lukashick
+Wed May 16 12:15:34 2018,IoFogWebSocketOpCodeEnum.cs,Kate Lukashick
+Wed May 16 12:15:34 2018,IoMessage.cs,Kate Lukashick
+Wed May 16 12:15:34 2018,StringExtensions.cs,Kate Lukashick
+Wed May 16 12:15:34 2018,IIoFogRestApiHandler.cs,Kate Lukashick
+Wed May 16 12:15:34 2018,IIoFogWebSocketApiHandler.cs,Kate Lukashick
+Wed May 16 12:15:34 2018,AssemblyInfo.cs,Kate Lukashick
+Wed May 16 12:15:34 2018,ByteUtils.cs,Kate Lukashick
+Wed May 16 12:15:34 2018,IoMessageUtils.cs,Kate Lukashick
+Wed May 16 12:15:34 2018,JsonContent.cs,Kate Lukashick
+Wed May 16 12:15:34 2018,StringUtils.cs,Kate Lukashick

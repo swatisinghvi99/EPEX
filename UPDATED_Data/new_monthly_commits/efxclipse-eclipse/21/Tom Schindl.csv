@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Mon Jan 12  8:47:14 2015,AbstractCssDslProposalProvider.java,Tom Schindl
+Mon Jan 12  8:47:14 2015,CssDslParser.java,Tom Schindl
+Mon Jan 12  8:47:14 2015,InternalCssDsl.g,Tom Schindl
+Mon Jan 12  8:47:14 2015,InternalCssDsl.tokens,Tom Schindl
+Mon Jan 12  8:47:14 2015,InternalCssDslLexer.java,Tom Schindl
+Mon Jan 12  8:47:14 2015,InternalCssDslParser.java,Tom Schindl
+Mon Jan 12  8:47:14 2015,CssDsl.ecore,Tom Schindl
+Mon Jan 12  8:47:14 2015,CssDsl.genmodel,Tom Schindl
+Mon Jan 12  8:47:14 2015,CssDslPackage.java,Tom Schindl
+Mon Jan 12  8:47:14 2015,from_to.java,Tom Schindl
+Mon Jan 12  8:47:14 2015,CssDslFactoryImpl.java,Tom Schindl
+Mon Jan 12  8:47:14 2015,CssDslPackageImpl.java,Tom Schindl
+Mon Jan 12  8:47:14 2015,keyframe_selectorImpl.java,Tom Schindl
+Mon Jan 12  8:47:14 2015,keyframe_selector.java,Tom Schindl
+Mon Jan 12  8:47:14 2015,CssDslSwitch.java,Tom Schindl
+Mon Jan 12  8:47:14 2015,InternalCssDsl.g,Tom Schindl
+Mon Jan 12  8:47:14 2015,InternalCssDsl.tokens,Tom Schindl
+Mon Jan 12  8:47:14 2015,InternalCssDslLexer.java,Tom Schindl
+Mon Jan 12  8:47:14 2015,InternalCssDslParser.java,Tom Schindl
+Mon Jan 12  8:47:14 2015,AbstractCssDslSemanticSequencer.java,Tom Schindl
+Mon Jan 12  8:47:14 2015,CssDslGrammarAccess.java,Tom Schindl
+Mon Jan 12  8:47:14 2015,CssDsl.xtext,Tom Schindl

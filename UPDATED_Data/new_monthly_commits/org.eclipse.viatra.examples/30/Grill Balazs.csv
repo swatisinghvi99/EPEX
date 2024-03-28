@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Sun Aug 13 20:08:34 2017,model.ecore,Grill Balazs
+Sun Aug 13 20:08:34 2017,ApplicationType.java,Grill Balazs
+Sun Aug 13 20:08:34 2017,CyberPhysicalSystemPackage.java,Grill Balazs
+Sun Aug 13 20:08:34 2017,ApplicationTypeImpl.java,Grill Balazs
+Sun Aug 13 20:08:34 2017,CyberPhysicalSystemPackageImpl.java,Grill Balazs
+Sun Aug 13 20:08:34 2017,MANIFEST.MF,Grill Balazs
+Sun Aug 13 20:08:34 2017,plugin.xml,Grill Balazs
+Sun Aug 13 20:08:34 2017,AllCpsTests.xtend,Grill Balazs
+Sun Aug 13 20:08:34 2017,LongLiteralTest.xtend,Grill Balazs
+Sun Aug 13 20:08:34 2017,LiteralUsage.vql,Grill Balazs

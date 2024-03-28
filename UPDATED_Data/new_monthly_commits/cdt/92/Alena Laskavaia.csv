@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Fri Feb 19  2:29:18 2010,plugin.xml,Alena Laskavaia
+Fri Feb 19  2:29:18 2010,checkers.exsd,Alena Laskavaia
+Fri Feb 19  2:29:18 2010,AbstractCIndexChecker.java,Alena Laskavaia
+Fri Feb 19  2:29:18 2010,AbstractChecker.java,Alena Laskavaia
+Fri Feb 19  2:29:18 2010,ICIndexChecker.java,Alena Laskavaia
+Fri Feb 19  2:29:18 2010,ICheckerWithParameters.java,Alena Laskavaia
+Fri Feb 19  2:29:18 2010,IProblem.java,Alena Laskavaia
+Fri Feb 19  2:29:18 2010,IProblemParameterInfo.java,Alena Laskavaia
+Fri Feb 19  2:29:18 2010,IProblemWorkingCopy.java,Alena Laskavaia
+Fri Feb 19  2:29:18 2010,CheckersRegisry.java,Alena Laskavaia
+Fri Feb 19  2:29:18 2010,CodanProblem.java,Alena Laskavaia
+Fri Feb 19  2:29:18 2010,CodanPreferencePage.java,Alena Laskavaia
+Fri Feb 19  2:29:18 2010,ProblemsTreeEditor.java,Alena Laskavaia
+Fri Feb 19  2:29:35 2010,plugin.xml,Alena Laskavaia
+Fri Feb 19  2:29:35 2010,NamingConventionFunctionChecker.java,Alena Laskavaia

@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Thu Jul 28 18:31:55 2011,MANIFEST.MF,Michael Rennie
+Thu Jul 28 18:31:55 2011,BreakpointLocationVerificationTests.java,Michael Rennie
+Thu Jul 28 18:31:55 2011,MANIFEST.MF,Michael Rennie
+Thu Jul 28 18:31:55 2011,JavaDebugHover.java,Michael Rennie
+Thu Jul 28 18:31:55 2011,RunToLineAdapter.java,Michael Rennie
+Thu Jul 28 18:31:55 2011,MANIFEST.MF,Michael Rennie
+Thu Jul 28 18:31:55 2011,ASTEvaluationEngine.java,Michael Rennie
+Thu Jul 28 18:31:55 2011,ASTInstructionCompiler.java,Michael Rennie
+Thu Jul 28 18:31:55 2011,EvaluationSourceGenerator.java,Michael Rennie
+Thu Jul 28 18:31:55 2011,SourceBasedSourceGenerator.java,Michael Rennie
+Thu Jul 28 18:31:55 2011,JavaDebugUtils.java,Michael Rennie
+Thu Jul 28 18:31:55 2011,JavaBreakpointImportParticipant.java,Michael Rennie
+Thu Jul 28 18:31:55 2011,ValidBreakpointLocationLocator.java,Michael Rennie
+Thu Jul 28 18:31:55 2011,CompilationUnitDelta.java,Michael Rennie
+Thu Jul 28 18:31:55 2011,MethodSearchVisitor.java,Michael Rennie
+Thu Jul 28 18:31:55 2011,MANIFEST.MF,Michael Rennie
+Thu Jul 28 18:31:55 2011,JavaRuntime.java,Michael Rennie
+Wed Aug  3 20:04:14 2011,JavaProjectHelper.java,Michael Rennie
+Wed Aug  3 20:04:14 2011,.classpath,Michael Rennie
+Wed Aug  3 20:04:14 2011,org.eclipse.jdt.core.prefs,Michael Rennie
+Wed Aug  3 20:04:14 2011,AbstractDebugTest.java,Michael Rennie
+Wed Aug  3 20:04:14 2011,AutomatedSuite.java,Michael Rennie
+Wed Aug  3 20:04:14 2011,ProjectCreationDecorator.java,Michael Rennie
+Wed Aug  3 20:04:14 2011,LiteralTests17.java,Michael Rennie
+Wed Aug  3 20:04:14 2011,JarSourceLookupTests.java,Michael Rennie

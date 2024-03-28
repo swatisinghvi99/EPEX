@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Wed Jun  4 16:17:26 2014,DiffData.ecore,Olivier Constant
+Wed Jun  4 16:17:26 2014,EMapping.java,Olivier Constant
+Wed Jun  4 16:17:26 2014,DiffdataFactoryImpl.java,Olivier Constant
+Wed Jun  4 16:17:26 2014,DiffdataPackageImpl.java,Olivier Constant
+Wed Jun  4 16:17:26 2014,EElementPresenceImpl.java,Olivier Constant
+Wed Jun  4 16:17:26 2014,EMappingImpl.java,Olivier Constant
+Wed Jun  4 16:17:26 2014,EMatchImpl.java,Olivier Constant
+Wed Jun  4 16:17:26 2014,EReferenceValuePresenceImpl.java,Olivier Constant
+Wed Jun  4 16:17:26 2014,DiffdataSwitch.java,Olivier Constant
+Wed Jun  4 16:22:42 2014,messages.properties,Olivier Constant
+Wed Jun  4 16:22:42 2014,DiffMergeTestCase.java,Olivier Constant
+Wed Jun 11  9:33:23 2014,EMatchImpl.java,Olivier Constant
+Thu Jun 12 15:14:59 2014,ComparisonSelectionImpl.java,Olivier Constant
+Thu Jun 12 15:14:59 2014,EMFDiffMergeEditorInput.java,Olivier Constant
+Thu Jun 12 15:14:59 2014,AbstractComparisonViewer.java,Olivier Constant
+Thu Jun 12 15:14:59 2014,ComparisonSideViewer.java,Olivier Constant
+Thu Jun 12 15:14:59 2014,ComparisonViewer.java,Olivier Constant
+Thu Jun 12 15:14:59 2014,SelectionBridge.java,Olivier Constant
+Thu Jun 12 15:15:00 2014,EMFDiffMergeEditorInput.java,Olivier Constant
+Thu Jun 12 15:15:00 2014,ComparisonViewer.java,Olivier Constant
+Thu Jun 12 15:15:00 2014,HeaderViewer.java,Olivier Constant
+Thu Jun 12 15:15:00 2014,SelectionBridge.java,Olivier Constant
+Tue Jun 17 15:23:10 2014,ComparisonViewer.java,Olivier Constant
+Tue Jun 17 15:23:10 2014,SelectionBridge.java,Olivier Constant

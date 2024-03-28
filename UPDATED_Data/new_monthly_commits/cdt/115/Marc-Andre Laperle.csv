@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Tue Jan  3  5:01:59 2012,ActionMessages.java,Marc-Andre Laperle
+Tue Jan  3  5:01:59 2012,ActionMessages.properties,Marc-Andre Laperle
+Tue Jan  3  5:01:59 2012,CollapseAllAction.java,Marc-Andre Laperle
+Tue Jan  3  5:01:59 2012,CView.java,Marc-Andre Laperle
+Tue Jan  3  5:01:59 2012,CViewMessages.java,Marc-Andre Laperle
+Tue Jan  3  5:01:59 2012,CViewMessages.properties,Marc-Andre Laperle
+Tue Jan  3  5:01:59 2012,MainActionGroup.java,Marc-Andre Laperle
+Tue Jan  3  5:01:59 2012,AbstractCModelOutlinePage.java,Marc-Andre Laperle
+Tue Jan  3  5:01:59 2012,cdt_c_outlineview.htm,Marc-Andre Laperle
+Tue Jan  3  5:01:59 2012,cdt_u_outline_view.htm,Marc-Andre Laperle
+Wed Jan  4 17:53:19 2012,ImplementMethodRefactoring.java,Marc-Andre Laperle
+Wed Jan  4 17:53:19 2012,Messages.java,Marc-Andre Laperle
+Wed Jan  4 17:53:19 2012,Messages.properties,Marc-Andre Laperle
+Sun Jan  8  4:57:19 2012,IManagedDependencyCommands.java,Marc-Andre Laperle
+Sat Jan 14 21:50:28 2012,NonVirtualDestructor.java,Marc-Andre Laperle
+Sat Jan 14 21:50:28 2012,NonVirtualDestructorCheckerTest.java,Marc-Andre Laperle
+Mon Jan 16  6:25:06 2012,AbstractContentAssistTest.java,Marc-Andre Laperle
+Mon Jan 16  6:25:06 2012,ContentAssist2TestSuite.java,Marc-Andre Laperle
+Mon Jan 16  6:25:06 2012,TemplateProposalTest.java,Marc-Andre Laperle

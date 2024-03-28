@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Tue Oct  3 14:10:16 2006,FilteredTree.java,Karice McIntyre
+Wed Oct  4 14:32:18 2006,IPageTransitionListener.java,Karice McIntyre
+Wed Oct  4 14:32:18 2006,IPageTransitionProvider.java,Karice McIntyre
+Wed Oct  4 14:32:18 2006,PageTransitionEvent.java,Karice McIntyre
+Wed Oct  4 14:32:18 2006,Wizard.java,Karice McIntyre
+Wed Oct  4 14:32:18 2006,WizardDialog.java,Karice McIntyre
+Tue Oct 10 14:16:38 2006,FileSelectionDialog.java,Karice McIntyre
+Tue Oct 10 14:16:38 2006,WizardResourceImportPage.java,Karice McIntyre
+Tue Oct 10 14:16:38 2006,FileFolderSelectionDialog.java,Karice McIntyre
+Tue Oct 10 14:16:38 2006,IResourceNavigator.java,Karice McIntyre
+Tue Oct 10 14:16:38 2006,ResourceComparator.java,Karice McIntyre
+Tue Oct 10 14:16:38 2006,ResourceNavigator.java,Karice McIntyre
+Tue Oct 10 14:16:38 2006,ResourceSorter.java,Karice McIntyre
+Tue Oct 10 14:16:38 2006,SortAndFilterActionGroup.java,Karice McIntyre
+Tue Oct 10 14:16:38 2006,SortViewAction.java,Karice McIntyre
+Tue Oct 10 14:16:38 2006,CheckedTreeSelectionDialog.java,Karice McIntyre
+Tue Oct 10 14:16:38 2006,ElementTreeSelectionDialog.java,Karice McIntyre
+Tue Oct 10 14:16:38 2006,CustomizePerspectiveDialog.java,Karice McIntyre
+Tue Oct 10 14:16:38 2006,WorkbenchWizardListSelectionPage.java,Karice McIntyre
+Tue Oct 10 14:16:38 2006,WorkingSetSelectionDialog.java,Karice McIntyre
+Tue Oct 10 14:16:38 2006,WorkbenchViewerComparator.java,Karice McIntyre
+Tue Oct 10 14:16:38 2006,WorkbenchViewerSorter.java,Karice McIntyre
+Wed Oct 11 20:15:14 2006,IResourceNavigator.java,Karice McIntyre
+Mon Oct 16 15:56:49 2006,WizardProjectsImportPage.java,Karice McIntyre
+Mon Oct 16 15:56:49 2006,ExternalProjectImportWizard.java,Karice McIntyre

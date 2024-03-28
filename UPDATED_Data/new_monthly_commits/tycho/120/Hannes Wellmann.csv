@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Mon Aug 23  8:29:50 2021,DependencyComputer.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,DefaultEquinoxEmbedder.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,DefaultEquinoxInstallationFactory.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,TargetPlatformFilter.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,FeatureDependenciesAction.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,RootFilesProperties.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,RootPropertiesParser.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,SegmentHelper.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,ProjectorResolutionStrategy.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,AbstractDirectorApplicationCommand.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,AbstractOsgiCompilerMojo.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,CustomExecutionEnvironment.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,EquinoxResolver.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,Repository.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,TychoTargetMapping.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,Platform.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,GeneratePomsMojoTest.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,ManifestAttribute.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,OsgiSourceMojo.java,Hannes Wellmann
+Tue Aug 24  9:23:57 2021,AbstractTestMojo.java,Hannes Wellmann

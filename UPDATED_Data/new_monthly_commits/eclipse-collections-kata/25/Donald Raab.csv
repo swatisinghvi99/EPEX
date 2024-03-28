@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Mon Jan 15 19:43:22 2018,Maven__org_eclipse_collections_eclipse_collections_9_0_0.xml,Donald Raab
+Mon Jan 15 19:43:22 2018,Maven__org_eclipse_collections_eclipse_collections_api_9_0_0.xml,Donald Raab
+Mon Jan 15 19:43:22 2018,Maven__org_eclipse_collections_eclipse_collections_testutils_9_0_0.xml,Donald Raab
+Mon Jan 15 19:43:22 2018,build.gradle,Donald Raab
+Mon Jan 15 19:43:22 2018,Company.java,Donald Raab
+Mon Jan 15 19:43:22 2018,Customer.java,Donald Raab
+Mon Jan 15 19:43:22 2018,LineItem.java,Donald Raab
+Mon Jan 15 19:43:22 2018,Order.java,Donald Raab
+Mon Jan 15 19:43:22 2018,Supplier.java,Donald Raab
+Mon Jan 15 19:43:22 2018,Exercise1Test.java,Donald Raab
+Mon Jan 15 19:43:22 2018,Exercise2Test.java,Donald Raab
+Mon Jan 15 19:43:22 2018,Exercise3Test.java,Donald Raab
+Mon Jan 15 19:43:22 2018,Exercise4Test.java,Donald Raab
+Mon Jan 15 19:43:22 2018,Exercise5Test.java,Donald Raab
+Mon Jan 15 19:43:22 2018,Exercise6Test.java,Donald Raab
+Mon Jan 15 19:43:22 2018,Exercise7Test.java,Donald Raab
+Mon Jan 15 19:43:22 2018,Exercise8Test.java,Donald Raab
+Mon Jan 15 19:43:22 2018,pom.xml,Donald Raab

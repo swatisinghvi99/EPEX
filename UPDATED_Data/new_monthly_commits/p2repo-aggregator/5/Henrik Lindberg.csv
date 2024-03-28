@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Mon Apr 12 15:26:56 2010,BExpressionTest.java,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,IFunctionTest.java,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,B3Backend.ecore,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,BExpression.java,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,B3backendPackageImpl.java,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,BCallExpressionImpl.java,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,BCreateExpressionImpl.java,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,BExpressionImpl.java,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,BFeatureExpressionImpl.java,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,BLiteralListExpressionImpl.java,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,BLiteralMapExpressionImpl.java,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,BSwitchExpressionImpl.java,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,BWithContextExpressionImpl.java,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,BeeLang.xtext,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,BeeLangTerminalConverters.java,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,B3Build.ecore,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,B3Build.ecorediag,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,B3BuildPackage.java,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,UnitConcernContext.java,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,B3BuildPackageImpl.java,Henrik Lindberg
+Mon Apr 12 15:26:56 2010,UnitConcernContextImpl.java,Henrik Lindberg
+Sun Apr 25 11:30:48 2010,BNamePredicateImpl.java,Henrik Lindberg

@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Fri Aug 18 11:54:12 2023,CHANGELOG.md,ds-mmaul
+Fri Aug 18 11:54:12 2023,about.component.spec.ts,ds-mmaul
+Fri Aug 18 11:54:12 2023,alert-detail.component.ts,ds-mmaul
+Fri Aug 18 11:54:12 2023,investigation-detail.component.ts,ds-mmaul
+Fri Aug 18 11:54:12 2023,cta-snackbar.component.html,ds-mmaul
+Fri Aug 18 11:54:12 2023,cta-snackbar.component.ts,ds-mmaul
+Fri Aug 18 11:54:12 2023,cta-snackbar.model.ts,ds-mmaul
+Fri Aug 18 11:54:12 2023,cta-snackbar.service.ts,ds-mmaul
+Fri Aug 18 11:54:12 2023,cta-snackbar.spec.ts,ds-mmaul
+Fri Aug 18 11:54:12 2023,request-alert.component.ts,ds-mmaul
+Fri Aug 18 11:54:12 2023,request-investigation.component.ts,ds-mmaul
+Fri Aug 18 11:54:12 2023,request-notification.base.spec.ts,ds-mmaul
+Fri Aug 18 11:54:12 2023,request-notification.base.ts,ds-mmaul
+Fri Aug 18 11:54:12 2023,toast-container.component.html,ds-mmaul
+Fri Aug 18 11:54:12 2023,toast-message.component.html,ds-mmaul
+Fri Aug 18 11:54:12 2023,toast-message.component.scss,ds-mmaul
+Fri Aug 18 11:54:12 2023,toast-message.model.ts,ds-mmaul
+Fri Aug 18 11:54:12 2023,toast.service.ts,ds-mmaul
+Fri Aug 18 11:54:12 2023,toast.spec.ts,ds-mmaul
+Fri Aug 18 11:54:12 2023,shared.module.ts,ds-mmaul
+Fri Aug 18 11:54:12 2023,template.module.ts,ds-mmaul

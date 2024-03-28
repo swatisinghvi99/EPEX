@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Mon Mar  4 12:05:33 2019,ParticipantStatus.java,xstefank
+Mon Mar  4 12:05:33 2019,TckTests.java,xstefank
+Wed Mar  6  7:15:13 2019,GenericLRAException.java,xstefank
+Wed Mar  6  7:15:13 2019,LRAClient.java,xstefank
+Wed Mar  6  7:15:13 2019,UnknowableException.java,xstefank
+Wed Mar  6  7:15:13 2019,JoinLRAException.java,xstefank
+Wed Mar  6  7:15:13 2019,LRAManagement.java,xstefank
+Wed Mar  6  7:15:13 2019,LRAParticipant.java,xstefank
+Wed Mar  6  7:15:13 2019,microprofile-lra-spec.adoc,xstefank
+Wed Mar  6  7:15:13 2019,TckTests.java,xstefank
+Wed Mar  6  7:15:13 2019,Activity.java,xstefank
+Wed Mar  6  7:15:13 2019,LraController.java,xstefank
+Wed Mar  6  7:15:13 2019,ManagementSPI.java,xstefank

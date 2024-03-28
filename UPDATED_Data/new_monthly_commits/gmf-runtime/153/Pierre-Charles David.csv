@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Fri Apr 13  8:33:34 2018,MANIFEST.MF,Pierre-Charles David
+Fri Apr 13  8:33:34 2018,ImageTranscoderEx.java,Pierre-Charles David
+Fri Apr 13  8:33:34 2018,SVGColorConverter.java,Pierre-Charles David
+Fri Apr 13  8:33:34 2018,SVGImage.java,Pierre-Charles David
+Fri Apr 13  8:33:34 2018,SVGImageConverter.java,Pierre-Charles David
+Fri Apr 13  8:33:34 2018,SVGImageType.java,Pierre-Charles David
+Fri Apr 13  8:33:34 2018,GraphicsSVG.java,Pierre-Charles David
+Fri Apr 13  8:33:34 2018,AbstractTranscoder.java,Pierre-Charles David
+Fri Apr 13  8:33:34 2018,feature.xml,Pierre-Charles David
+Fri Apr 13  8:33:34 2018,feature.xml,Pierre-Charles David
+Fri Apr 13  8:33:34 2018,.classpath,Pierre-Charles David
+Fri Apr 13  9:29:12 2018,CopyToImageUtil.java,Pierre-Charles David
+Fri Apr 13  9:29:12 2018,ImageExporter.java,Pierre-Charles David
+Fri Apr 13  9:58:19 2018,GMFGraphTests.java,Pierre-Charles David
+Fri Apr 13  9:58:19 2018,ExtendedTextPropertyDescriptor.java,Pierre-Charles David
+Fri Apr 13  9:58:19 2018,RoundedRectangleEditPart.java,Pierre-Charles David
+Fri Apr 13  9:58:19 2018,AbstractDiagramMarkerNavigationProvider.java,Pierre-Charles David
+Fri Apr 13  9:58:19 2018,EditPartUtil.java,Pierre-Charles David
+Fri Apr 13  9:58:19 2018,ReferenceVisitor.java,Pierre-Charles David
+Fri Apr 13 10:10:45 2018,GraphicalEditPart.java,Pierre-Charles David
+Fri Apr 13 13:48:42 2018,TestingConfigurationElement.java,Pierre-Charles David
+Fri Apr 20  6:36:42 2018,MANIFEST.MF,Pierre-Charles David
+Fri Apr 20  6:36:42 2018,SVGImageConverter.java,Pierre-Charles David
+Fri Apr 20  6:36:42 2018,gmf-runtime.target,Pierre-Charles David
+Fri Apr 20  6:36:42 2018,gmf-runtime.tpd,Pierre-Charles David

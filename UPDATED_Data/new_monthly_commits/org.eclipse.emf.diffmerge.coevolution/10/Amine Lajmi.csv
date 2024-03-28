@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Thu Oct 13 16:49:53 2016,Apa2CapellaBridgeHandler.java,Amine Lajmi
+Thu Oct 13 16:49:53 2016,Apa2CapellaBridgeJob.java,Amine Lajmi
+Thu Oct 13 16:49:53 2016,Messages.java,Amine Lajmi
+Thu Oct 13 16:49:53 2016,messages.properties,Amine Lajmi
+Thu Oct 13 16:50:43 2016,IntermediateModelScope.java,Amine Lajmi
+Thu Oct 13 16:56:26 2016,TransposerBridgeExecution.java,Amine Lajmi
+Thu Oct 13 17:08:08 2016,MappingExecution.java,Amine Lajmi
+Thu Oct 13 17:14:03 2016,.classpath,Amine Lajmi
+Thu Oct 13 17:14:03 2016,.project,Amine Lajmi
+Thu Oct 13 17:14:03 2016,org.eclipse.jdt.core.prefs,Amine Lajmi
+Thu Oct 13 17:14:03 2016,MANIFEST.MF,Amine Lajmi
+Thu Oct 13 17:14:03 2016,about.html,Amine Lajmi
+Thu Oct 13 17:14:03 2016,build.properties,Amine Lajmi
+Thu Oct 13 17:14:03 2016,CapellaBridgeJob.java,Amine Lajmi
+Thu Oct 13 17:14:03 2016,Activator.java,Amine Lajmi
+Thu Oct 13 17:14:03 2016,CapellaConfigurableMatchPolicy.java,Amine Lajmi
+Thu Oct 13 17:14:03 2016,DelegatingTraceBasedMatchPolicy.java,Amine Lajmi
+Thu Oct 13 17:14:03 2016,Messages.java,Amine Lajmi
+Thu Oct 13 17:14:03 2016,messages.properties,Amine Lajmi
+Thu Oct 13 17:14:03 2016,CapellaIntermediateUpdateScope.java,Amine Lajmi
+Thu Oct 13 17:14:03 2016,CapellaUpdateScope.java,Amine Lajmi
+Thu Oct 13 17:14:03 2016,CapellaUtil.java,Amine Lajmi
+Tue Oct 18 12:35:32 2016,DelegatingTraceBasedMatchPolicy.java,Amine Lajmi
+Tue Oct 18 12:37:14 2016,CapellaBridgeJob.java,Amine Lajmi

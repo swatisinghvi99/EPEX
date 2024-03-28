@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Wed Jun 14 11:12:15 2017,create-project.controller.ts,Anna Shumilova
+Mon Jul 10 11:16:56 2017,che-color.constant.ts,Anna Shumilova
+Mon Jul 10 11:16:56 2017,che-colors.json,Anna Shumilova
+Mon Jul 10 11:16:56 2017,che-colors.styl,Anna Shumilova
+Mon Jul 10 11:16:56 2017,create-workspace.service.ts,Anna Shumilova
+Mon Jul 10 11:16:56 2017,stack-selector-item.directive.ts,Anna Shumilova
+Wed Jul 12 10:20:36 2017,create-workspace.controller.ts,Anna Shumilova
+Wed Jul 12 10:20:36 2017,stack-selector-scope.filter.ts,Anna Shumilova
+Wed Jul 12 10:20:36 2017,stack-selector.controller.ts,Anna Shumilova
+Wed Jul 12 10:20:36 2017,stacks.json,Anna Shumilova
+Wed Jul 12 11:48:33 2017,add-machine-dialog.controller.ts,Anna Shumilova
+Wed Jul 12 11:48:33 2017,che-stack.factory.ts,Anna Shumilova

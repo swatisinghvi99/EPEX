@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Tue Jul 11 19:05:07 2017,User-Guide.mediawiki,Simon Delisle
+Tue Jul 11 19:05:07 2017,RemoteImportTracesOperation.java,Simon Delisle
+Tue Jul 11 19:05:07 2017,TraceImportOperationTest.java,Simon Delisle
+Tue Jul 11 19:05:07 2017,ImportTraceWizardPage.java,Simon Delisle
+Tue Jul 11 19:05:07 2017,Messages.java,Simon Delisle
+Tue Jul 11 19:05:07 2017,TraceValidateAndImportOperation.java,Simon Delisle
+Tue Jul 11 19:05:07 2017,messages.properties,Simon Delisle
+Tue Jul 11 19:05:07 2017,HttpTraceImportOperation.java,Simon Delisle
+Tue Jul 11 19:05:07 2017,TraceImportOperation.java,Simon Delisle
+Fri Jul 21 18:36:34 2017,AbstractImportAndReadSmokeTest.java,Simon Delisle
+Fri Jul 21 18:36:34 2017,StandardImportAndReadSmokeTest.java,Simon Delisle
+Fri Jul 21 18:36:34 2017,ProjectExplorerTraceActionsTest.java,Simon Delisle
+Fri Jul 21 18:36:34 2017,ProjectExplorerTracesFolderTest.java,Simon Delisle
+Fri Jul 21 18:36:34 2017,MANIFEST.MF,Simon Delisle
+Fri Jul 21 18:36:34 2017,AbstractStandardImportWizardTest.java,Simon Delisle
+Fri Jul 21 18:36:34 2017,SWTBotImportWizardUtils.java,Simon Delisle
+Fri Jul 21 18:36:34 2017,StandardImportGzipTraceTest.java,Simon Delisle
+Fri Jul 21 18:36:34 2017,StandardImportWizardTest.java,Simon Delisle

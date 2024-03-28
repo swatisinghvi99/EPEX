@@ -1,0 +1,102 @@
+[
+    [
+        "Jan Sievers",
+        "java",
+        40
+    ],
+    [
+        "Jan Sievers",
+        "gitignore",
+        1
+    ],
+    [
+        "Jan Sievers",
+        "prefs",
+        2
+    ],
+    [
+        "Jan Sievers",
+        "MF",
+        1
+    ],
+    [
+        "Jan Sievers",
+        "properties",
+        4
+    ],
+    [
+        "Jan Sievers",
+        "xml",
+        6
+    ],
+    [
+        "Igor Fedorenko",
+        "xml",
+        37
+    ],
+    [
+        "Igor Fedorenko",
+        "java",
+        75
+    ],
+    [
+        "Igor Fedorenko",
+        "MF",
+        4
+    ],
+    [
+        "Igor Fedorenko",
+        "properties",
+        15
+    ],
+    [
+        "Igor Fedorenko",
+        "product",
+        4
+    ],
+    [
+        "Igor Fedorenko",
+        "bsh",
+        1
+    ],
+    [
+        "Igor Fedorenko",
+        "MF_expected",
+        1
+    ],
+    [
+        "Igor Fedorenko",
+        "xml_expected",
+        4
+    ],
+    [
+        "Igor Fedorenko",
+        "product_expected",
+        1
+    ],
+    [
+        "Igor Fedorenko",
+        "txt",
+        6
+    ],
+    [
+        "Tobias Oberlies",
+        "java",
+        148
+    ],
+    [
+        "Tobias Oberlies",
+        "xml",
+        19
+    ],
+    [
+        "Tobias Oberlies",
+        "MF",
+        12
+    ],
+    [
+        "Tobias Oberlies",
+        "properties",
+        1
+    ]
+]

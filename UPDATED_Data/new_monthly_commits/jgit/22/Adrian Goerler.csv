@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Wed Jul  6  8:29:56 2011,LocalDiskRepositoryTestCase.java,Adrian Goerler
+Wed Jul  6 21:10:53 2011,CloneCommandTest.java,Adrian Goerler
+Wed Jul  6 21:10:53 2011,InitCommandTest.java,Adrian Goerler
+Wed Jul  6 21:10:53 2011,JGitText.properties,Adrian Goerler
+Wed Jul  6 21:10:53 2011,JGitText.java,Adrian Goerler
+Wed Jul  6 21:10:53 2011,CloneCommand.java,Adrian Goerler
+Thu Jul  7 21:16:40 2011,LocalDiskRepositoryTestCase.java,Adrian Goerler
+Thu Jul  7 21:16:40 2011,CloneCommandTest.java,Adrian Goerler
+Thu Jul  7 21:16:40 2011,InitCommandTest.java,Adrian Goerler
+Thu Jul  7 21:16:40 2011,LsRemoteCommandTest.java,Adrian Goerler

@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Wed May  6  6:45:05 2020,AdminAPI.java,Jan Bicker
+Wed May  6  6:45:05 2020,AdminService.java,Jan Bicker
+Wed May  6  6:45:05 2020,UserAPI.java,Jan Bicker
+Wed May  6  6:45:05 2020,UserService.java,Jan Bicker
+Wed May  6  6:45:05 2020,NamespaceMembership.java,Jan Bicker
+Wed May  6  6:45:05 2020,UserData.java,Jan Bicker
+Wed May  6  6:45:05 2020,NamespaceJson.java,Jan Bicker
+Wed May  6  6:45:05 2020,NamespaceMembershipJson.java,Jan Bicker
+Wed May  6  6:45:05 2020,UserJson.java,Jan Bicker
+Wed May  6  6:45:05 2020,NamespaceMembershipRepository.java,Jan Bicker
+Wed May  6  6:45:05 2020,RepositoryService.java,Jan Bicker
+Wed May  6  6:45:05 2020,UserDataRepository.java,Jan Bicker
+Wed May  6  6:45:05 2020,SecurityConfig.java,Jan Bicker
+Wed May  6  6:45:05 2020,extension-registry-service.ts,Jan Bicker
+Wed May  6  6:45:05 2020,extension-registry-types.ts,Jan Bicker
+Wed May  6  6:45:05 2020,user-namespace-member-component.tsx,Jan Bicker
+Wed May  6  6:45:05 2020,user-setting-tabs.tsx,Jan Bicker
+Wed May  6  6:45:05 2020,user-settings-namespaces.tsx,Jan Bicker
+Wed May  6  6:45:05 2020,user-settings.tsx,Jan Bicker
+Wed May  6  6:45:05 2020,yarn.lock,Jan Bicker
+Wed May 13  6:17:57 2020,build.gradle,Jan Bicker
+Wed May 13  6:17:57 2020,ExtensionProcessor.java,Jan Bicker
+Wed May 13  6:17:57 2020,LicenseDetection.java,Jan Bicker

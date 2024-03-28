@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Thu Oct 23 15:42:20 2008,RuntimeInstallJob.java,Curtis Windatt
+Fri Oct 24 19:28:01 2008,BaseExportWizardPage.java,Curtis Windatt
+Fri Oct 31 15:29:32 2008,PluginBlock.java,Curtis Windatt
+Tue Nov  4 15:14:24 2008,PluginImportWizardDetailedPage.java,Curtis Windatt
+Wed Nov 19 14:50:08 2008,PDEState.java,Curtis Windatt
+Wed Nov 19 14:52:56 2008,PluginImportWizardDetailedPage.java,Curtis Windatt
+Wed Nov 19 14:52:56 2008,PluginImportWizardFirstPage.java,Curtis Windatt
+Wed Nov 19 14:57:32 2008,ClasspathComputer.java,Curtis Windatt
+Wed Nov 19 14:57:32 2008,PDEUIMessages.java,Curtis Windatt
+Wed Nov 19 14:57:32 2008,pderesources.properties,Curtis Windatt
+Wed Nov 19 14:57:32 2008,PluginImportHelper.java,Curtis Windatt
+Wed Nov 19 14:57:32 2008,PluginImportOperation.java,Curtis Windatt
+Wed Nov 19 14:57:32 2008,PluginImportWizard.java,Curtis Windatt
+Wed Nov 19 15:15:30 2008,BaseBlock.java,Curtis Windatt
+Wed Nov 19 15:15:30 2008,ConfigurationTemplateBlock.java,Curtis Windatt
+Wed Nov 19 15:15:30 2008,PDESourceLookupDirector.java,Curtis Windatt
+Thu Nov 20 20:04:39 2008,PDEUIMessages.java,Curtis Windatt
+Thu Nov 20 20:04:39 2008,RuntimeInstallJob.java,Curtis Windatt
+Thu Nov 20 20:04:39 2008,pderesources.properties,Curtis Windatt
+Fri Nov 21 18:08:09 2008,ExportDestinationTab.java,Curtis Windatt

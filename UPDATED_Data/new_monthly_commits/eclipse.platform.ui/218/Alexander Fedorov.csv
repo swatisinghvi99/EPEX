@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Thu Jun 13 12:30:16 2019,ActionPresentation.java,Alexander Fedorov
+Thu Jun 13 12:30:16 2019,PluginActionSetBuilder.java,Alexander Fedorov
+Tue Jun 25  5:40:15 2019,MANIFEST.MF,Alexander Fedorov
+Tue Jun 25  5:40:15 2019,MANIFEST.MF,Alexander Fedorov
+Tue Jun 25  5:40:15 2019,BasicUIJob.java,Alexander Fedorov
+Tue Jun 25  5:40:15 2019,FilteredTree.java,Alexander Fedorov
+Tue Jun 25  5:40:15 2019,PatternFilter.java,Alexander Fedorov
+Tue Jun 25  5:40:15 2019,ShowViewDialog.java,Alexander Fedorov
+Tue Jun 25  5:40:15 2019,ViewPatternFilter.java,Alexander Fedorov
+Tue Jun 25  5:40:15 2019,WorkbenchSWTMessages.java,Alexander Fedorov
+Tue Jun 25  5:40:15 2019,messages.properties,Alexander Fedorov
+Tue Jun 25  6:39:50 2019,SearchPattern.java,Alexander Fedorov
+Tue Jun 25  6:39:50 2019,StringMatcher.java,Alexander Fedorov
+Sun Jun 30 10:46:24 2019,ResourceLocator.java,Alexander Fedorov
+Sun Jun 30 10:46:24 2019,AbstractUIPlugin.java,Alexander Fedorov
+Sun Jun 30 19:24:31 2019,NewWizardMenu.java,Alexander Fedorov
+Sun Jun 30 19:24:31 2019,BaseNewWizardMenu.java,Alexander Fedorov
+Mon Jul  1  8:30:04 2019,MANIFEST.MF,Alexander Fedorov
+Mon Jul  1  8:30:04 2019,pom.xml,Alexander Fedorov
+Mon Jul  1  8:30:04 2019,Activator.java,Alexander Fedorov
+Mon Jul  1  8:30:04 2019,CssThemeSwitchAction.java,Alexander Fedorov
+Tue Jul  2  4:52:55 2019,ConfigurationLogDefaultSection.java,Alexander Fedorov
+Tue Jul  2  4:52:55 2019,MANIFEST.MF,Alexander Fedorov

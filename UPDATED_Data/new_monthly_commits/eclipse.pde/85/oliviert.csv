@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Mon May 26 16:38:05 2008,APIFreezeTask.java,oliviert
+Mon May 26 16:38:05 2008,APIToolsVerificationTask.java,oliviert
+Mon May 26 16:38:05 2008,ApiFileGeneratorTask.java,oliviert
+Mon May 26 16:38:05 2008,CommonUtilsTask.java,oliviert
+Mon May 26 16:38:05 2008,CompareProfilesTask.java,oliviert
+Tue May 27 14:33:54 2008,ApiErrorsWarningsConfigurationBlock.java,oliviert
+Tue May 27 14:33:54 2008,ApiProfilesConfigurationBlock.java,oliviert
+Wed May 28  0:03:13 2008,DiscouragedAccessTests.java,oliviert
+Wed May 28  0:03:13 2008,SearchEngineTests.java,oliviert
+Wed May 28  0:03:13 2008,SearchScopeTests.java,oliviert
+Wed May 28  0:03:13 2008,build.properties,oliviert
+Wed May 28  0:03:13 2008,plugin.properties,oliviert

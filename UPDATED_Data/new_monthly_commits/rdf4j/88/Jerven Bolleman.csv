@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Fri May  5 12:20:33 2023,DefaultEvaluationStrategy.java,Jerven Bolleman
+Fri May  5 12:20:33 2023,MathUtil.java,Jerven Bolleman
+Fri May  5 12:20:33 2023,XMLDatatypeMathUtil.java,Jerven Bolleman
+Fri May  5 12:20:33 2023,MathUtilTest.java,Jerven Bolleman
+Fri May  5 12:20:33 2023,MathUtilBenchmark.java,Jerven Bolleman
+Sat May  6  7:38:25 2023,CustomAggregateFunctionEvaluationTest.java,Jerven Bolleman
+Sat May  6  7:38:25 2023,QueryValueEvaluationStep.java,Jerven Bolleman
+Sat May  6  7:38:25 2023,DefaultEvaluationStrategy.java,Jerven Bolleman
+Sat May  6  7:38:25 2023,RegexValueEvaluationStepSupplier.java,Jerven Bolleman
+Sat May  6  7:38:25 2023,AndValueEvaluationStep.java,Jerven Bolleman
+Sat May  6  7:38:25 2023,CompareAllQueryValueEvaluationStep.java,Jerven Bolleman
+Sat May  6  7:38:25 2023,CompareAnyValueEvaluationStep.java,Jerven Bolleman
+Sat May  6  7:38:25 2023,ExistsQueryValueEvaluationStep.java,Jerven Bolleman
+Sat May  6  7:38:25 2023,IfValueEvaluationStep.java,Jerven Bolleman
+Sat May  6  7:38:25 2023,InValueEvaluationStep.java,Jerven Bolleman
+Sat May  6  7:38:25 2023,ListMemberValueOperationStep.java,Jerven Bolleman
+Sat May  6  7:38:25 2023,OrValueEvaluationStep.java,Jerven Bolleman
+Sat May  6  7:38:25 2023,QueryValueEvaluationStepSupplier.java,Jerven Bolleman
+Sat May  6  7:38:25 2023,ValueExprTripleRefEvaluationStep.java,Jerven Bolleman
+Sat May  6  7:38:25 2023,StrictEvaluationStrategyTest.java,Jerven Bolleman
+Sat May  6  7:38:25 2023,BuiltinFunctionTest.java,Jerven Bolleman
+Mon May  8 16:39:19 2023,DefaultEvaluationStrategy.java,Jerven Bolleman
+Mon May  8 16:39:19 2023,ConstantOptimizer.java,Jerven Bolleman
+Mon May  8 16:39:19 2023,StrictEvaluationStrategyTest.java,Jerven Bolleman
+Mon May  8 16:39:19 2023,BuiltinFunctionTest.java,Jerven Bolleman

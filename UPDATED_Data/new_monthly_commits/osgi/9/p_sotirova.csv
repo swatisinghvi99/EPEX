@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Thu Mar 10 13:31:12 2005,build.properties,p_sotirova
+Thu Mar 10 13:31:12 2005,Activator.java,p_sotirova
+Thu Mar 10 13:31:12 2005,ConditionalPermTBCService.java,p_sotirova
+Thu Mar 10 13:31:12 2005,ConditionalTestControl.java,p_sotirova
+Thu Mar 10 13:31:12 2005,ConditionalUtility.java,p_sotirova
+Thu Mar 10 13:31:12 2005,condition.properties,p_sotirova
+Thu Mar 10 13:31:12 2005,tb2.mf,p_sotirova
+Thu Mar 10 13:31:12 2005,build.properties,p_sotirova
+Thu Mar 10 13:31:12 2005,Activator.java,p_sotirova
+Thu Mar 10 13:31:12 2005,PermissionSignatureTestControl.java,p_sotirova
+Thu Mar 10 13:31:12 2005,PermissionSignatureUtility.java,p_sotirova
+Thu Mar 10 13:31:12 2005,signature.properties,p_sotirova
+Thu Mar 10 13:31:12 2005,tb3.mf,p_sotirova
+Fri Mar 11 11:06:01 2005,PermissionSignatureUtility.java,p_sotirova

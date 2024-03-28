@@ -1,0 +1,412 @@
+[
+    [
+        "teicher",
+        "java",
+        62
+    ],
+    [
+        "teicher",
+        "html",
+        6
+    ],
+    [
+        "teicher",
+        "properties",
+        1
+    ],
+    [
+        "Tod Creasey",
+        "exsd",
+        6
+    ],
+    [
+        "Tod Creasey",
+        "java",
+        472
+    ],
+    [
+        "Tod Creasey",
+        "properties",
+        12
+    ],
+    [
+        "Tod Creasey",
+        "xml",
+        15
+    ],
+    [
+        "Tod Creasey",
+        "classpath",
+        3
+    ],
+    [
+        "Tod Creasey",
+        "project",
+        2
+    ],
+    [
+        "Tod Creasey",
+        "MF",
+        4
+    ],
+    [
+        "Tod Creasey",
+        "gif",
+        1
+    ],
+    [
+        "Tod Creasey",
+        "txt",
+        4
+    ],
+    [
+        "Tod Creasey",
+        "html",
+        2
+    ],
+    [
+        "Tod Creasey",
+        "prefs",
+        1
+    ],
+    [
+        "melder",
+        "java",
+        210
+    ],
+    [
+        "melder",
+        "xml",
+        10
+    ],
+    [
+        "melder",
+        "exsd",
+        12
+    ],
+    [
+        "melder",
+        "properties",
+        7
+    ],
+    [
+        "melder",
+        "MF",
+        2
+    ],
+    [
+        "Dani Megert",
+        "java",
+        155
+    ],
+    [
+        "Dani Megert",
+        "exsd",
+        2
+    ],
+    [
+        "Dani Megert",
+        "xml",
+        6
+    ],
+    [
+        "Dani Megert",
+        "properties",
+        4
+    ],
+    [
+        "Dani Megert",
+        "MF",
+        3
+    ],
+    [
+        "Dani Megert",
+        "html",
+        1
+    ],
+    [
+        "Eric Moffatt",
+        "java",
+        23
+    ],
+    [
+        "Dirk Baeumer",
+        "java",
+        14
+    ],
+    [
+        "Dirk Baeumer",
+        "properties",
+        1
+    ],
+    [
+        "Dirk Baeumer",
+        "html",
+        1
+    ],
+    [
+        "Dave Orme",
+        "java",
+        232
+    ],
+    [
+        "Dave Orme",
+        "MF",
+        1
+    ],
+    [
+        "Dave Orme",
+        "project",
+        1
+    ],
+    [
+        "Nick Edgar",
+        "java",
+        60
+    ],
+    [
+        "Nick Edgar",
+        "html",
+        1
+    ],
+    [
+        "Nick Edgar",
+        "properties",
+        1
+    ],
+    [
+        "Nick Edgar",
+        "MF",
+        1
+    ],
+    [
+        "Paul Webster",
+        "java",
+        65
+    ],
+    [
+        "Paul Webster",
+        "xml",
+        4
+    ],
+    [
+        "Martin Aeschlimann",
+        "prefs",
+        3
+    ],
+    [
+        "Martin Aeschlimann",
+        "java",
+        117
+    ],
+    [
+        "Martin Aeschlimann",
+        "xml",
+        3
+    ],
+    [
+        "Martin Aeschlimann",
+        "properties",
+        4
+    ],
+    [
+        "Martin Aeschlimann",
+        "exsd",
+        3
+    ],
+    [
+        "Martin Aeschlimann",
+        "html",
+        1
+    ],
+    [
+        "Martin Aeschlimann",
+        "MF",
+        1
+    ],
+    [
+        "Douglas Pollock",
+        "java",
+        513
+    ],
+    [
+        "Douglas Pollock",
+        "xml",
+        6
+    ],
+    [
+        "Douglas Pollock",
+        "exsd",
+        3
+    ],
+    [
+        "Douglas Pollock",
+        "properties",
+        4
+    ],
+    [
+        "Douglas Pollock",
+        "classpath",
+        1
+    ],
+    [
+        "Douglas Pollock",
+        "MF",
+        1
+    ],
+    [
+        "Douglas Pollock",
+        "options",
+        2
+    ],
+    [
+        "dejan",
+        "java",
+        24
+    ],
+    [
+        "dejan",
+        "xml",
+        2
+    ],
+    [
+        "dejan",
+        "properties",
+        1
+    ],
+    [
+        "John Arthorne",
+        "java",
+        33
+    ],
+    [
+        "John Arthorne",
+        "xml",
+        2
+    ],
+    [
+        "John Arthorne",
+        "properties",
+        4
+    ],
+    [
+        "Tobias Widmer",
+        "java",
+        249
+    ],
+    [
+        "Tobias Widmer",
+        "properties",
+        22
+    ],
+    [
+        "Tobias Widmer",
+        "xml",
+        2
+    ],
+    [
+        "Karice McIntyre",
+        "java",
+        28
+    ],
+    [
+        "Karice McIntyre",
+        "properties",
+        2
+    ],
+    [
+        "sxenos",
+        "MF",
+        1
+    ],
+    [
+        "sxenos",
+        "java",
+        6
+    ],
+    [
+        "Susan Franklin",
+        "java",
+        52
+    ],
+    [
+        "Susan Franklin",
+        "html",
+        1
+    ],
+    [
+        "Susan Franklin",
+        "MF",
+        1
+    ],
+    [
+        "Susan Franklin",
+        "properties",
+        1
+    ],
+    [
+        "Boris Bokowski",
+        "java",
+        25
+    ],
+    [
+        "Boris Bokowski",
+        "MF",
+        1
+    ],
+    [
+        "mvanmeek",
+        "java",
+        8
+    ],
+    [
+        "Anthony Hunter",
+        "classpath",
+        5
+    ],
+    [
+        "Anthony Hunter",
+        "cvsignore",
+        4
+    ],
+    [
+        "Anthony Hunter",
+        "project",
+        5
+    ],
+    [
+        "Anthony Hunter",
+        "MF",
+        6
+    ],
+    [
+        "Anthony Hunter",
+        "properties",
+        12
+    ],
+    [
+        "Anthony Hunter",
+        "xml",
+        7
+    ],
+    [
+        "Anthony Hunter",
+        "exsd",
+        3
+    ],
+    [
+        "Anthony Hunter",
+        "java",
+        159
+    ],
+    [
+        "Anthony Hunter",
+        "ecore",
+        1
+    ],
+    [
+        "Anthony Hunter",
+        "genmodel",
+        1
+    ]
+]

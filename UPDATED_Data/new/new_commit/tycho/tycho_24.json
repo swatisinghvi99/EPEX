@@ -1,0 +1,57 @@
+[
+    [
+        "Matthias Sohn",
+        "java",
+        2
+    ],
+    [
+        "Igor Fedorenko",
+        "java",
+        3
+    ],
+    [
+        "Igor Fedorenko",
+        "xml",
+        1
+    ],
+    [
+        "Roland Grunberg",
+        "xml",
+        4
+    ],
+    [
+        "Roland Grunberg",
+        "java",
+        6
+    ],
+    [
+        "Jan Sievers",
+        "java",
+        2
+    ],
+    [
+        "Tobias Oberlies",
+        "java",
+        59
+    ],
+    [
+        "Tobias Oberlies",
+        "xml",
+        2
+    ],
+    [
+        "Tobias Oberlies",
+        "MF",
+        1
+    ],
+    [
+        "Tobias Oberlies",
+        "MF_expected",
+        1
+    ],
+    [
+        "Tobias Oberlies",
+        "xml_expected",
+        5
+    ]
+]

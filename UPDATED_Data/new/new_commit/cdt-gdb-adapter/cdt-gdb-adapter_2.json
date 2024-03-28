@@ -1,0 +1,87 @@
+[
+    [
+        "Simon Marchi",
+        "editorconfig",
+        1
+    ],
+    [
+        "Simon Marchi",
+        "c",
+        2
+    ],
+    [
+        "Simon Marchi",
+        "ts",
+        11
+    ],
+    [
+        "Simon Marchi",
+        "json",
+        4
+    ],
+    [
+        "Simon Marchi",
+        "gitignore",
+        1
+    ],
+    [
+        "Simon Marchi",
+        "unknown",
+        1
+    ],
+    [
+        "Jonathan Williams",
+        "json",
+        2
+    ],
+    [
+        "Jonathan Williams",
+        "ts",
+        11
+    ],
+    [
+        "Jonathan Williams",
+        "gitignore",
+        2
+    ],
+    [
+        "Jonathan Williams",
+        "unknown",
+        2
+    ],
+    [
+        "Jonathan Williams",
+        "c",
+        1
+    ],
+    [
+        "Jonathan Williams",
+        "cpp",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "ts",
+        7
+    ],
+    [
+        "Doug Schaefer",
+        "gitignore",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "json",
+        2
+    ],
+    [
+        "Doug Schaefer",
+        "js",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "lock",
+        1
+    ]
+]

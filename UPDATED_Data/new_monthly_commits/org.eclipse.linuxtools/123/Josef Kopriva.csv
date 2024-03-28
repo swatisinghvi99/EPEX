@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Wed Apr  3 14:01:10 2019,MANIFEST.MF,Josef Kopriva
+Wed Apr  3 14:01:10 2019,DockerAllBotTest Local.launch,Josef Kopriva
+Wed Apr  3 14:01:10 2019,DockerAllBotTest Mockito.launch,Josef Kopriva
+Wed Apr  3 14:01:10 2019,pom.xml,Josef Kopriva
+Wed Apr  3 14:01:10 2019,MockDockerConnection.java,Josef Kopriva
+Wed Apr  3 14:01:10 2019,MockDockerTerminal.java,Josef Kopriva
+Wed Apr  3 14:01:10 2019,ComposeTest.java,Josef Kopriva
+Wed Apr  3 14:01:10 2019,SearchDialogTest.java,Josef Kopriva
+Wed Apr  3 14:01:10 2019,MANIFEST.MF,Josef Kopriva
+Wed Apr  3 14:01:10 2019,pom.xml,Josef Kopriva
+Wed Apr  3 14:01:10 2019,MANIFEST.MF,Josef Kopriva
+Wed Apr  3 14:01:10 2019,pom.xml,Josef Kopriva
+Wed Apr  3 14:01:10 2019,BuildDockerImageShortcutSWTBotTest.java,Josef Kopriva
+Wed Apr  3 14:01:10 2019,DockerComposeSWTBotTest.java,Josef Kopriva
+Wed Apr  3 14:01:10 2019,CustomMatchers.java,Josef Kopriva
+Wed Apr  3 14:01:10 2019,MockDockerClientFactory.java,Josef Kopriva
+Wed Apr  3 14:01:10 2019,MockDockerConnectionFactory.java,Josef Kopriva
+Wed Apr  3 14:01:10 2019,MockDockerConnectionSettingsFinder.java,Josef Kopriva
+Wed Apr  3 14:01:10 2019,EditDockerConnectionSWTBotTest.java,Josef Kopriva
+Wed Apr  3 14:01:10 2019,ImagePullSWTBotTest.java,Josef Kopriva
+Wed Apr  3 14:01:10 2019,ImagePushSWTBotTests.java,Josef Kopriva
+Wed Apr  3 14:01:10 2019,ImageRunSWTBotTest.java,Josef Kopriva
+Wed Apr  3 14:01:10 2019,linuxtools-e4.10.target,Josef Kopriva

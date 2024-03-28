@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Wed May 20 11:50:21 2015,ClassModel.java,Mariusz Gardziejewski
+Wed May 20 11:50:21 2015,ProxyModel.java,Mariusz Gardziejewski
+Wed May 20 11:50:21 2015,TestInterface.java,Mariusz Gardziejewski
+Wed May 20 11:50:21 2015,TestInterfaceImpl.java,Mariusz Gardziejewski
+Wed May 20 11:50:21 2015,GeneratorTest.java,Mariusz Gardziejewski
+Wed May 20 11:50:21 2015,MethodWithValidHandlerAsyncResultParams.java,Mariusz Gardziejewski
+Wed May 20 11:50:21 2015,MethodWithValidListParams.java,Mariusz Gardziejewski
+Wed May 20 11:50:21 2015,MethodWithValidSetParams.java,Mariusz Gardziejewski

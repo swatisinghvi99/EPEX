@@ -1,0 +1,287 @@
+[
+    [
+        "Sebastian Zarnekow",
+        "java",
+        55
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        12
+    ],
+    [
+        "Sebastian Zarnekow",
+        "project",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        258
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtend",
+        15
+    ],
+    [
+        "Moritz Eysholdt",
+        "MF",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "java",
+        25
+    ],
+    [
+        "Stefan Oehme",
+        "xtend",
+        17
+    ],
+    [
+        "Stefan Oehme",
+        "properties",
+        5
+    ],
+    [
+        "Stefan Oehme",
+        "xml",
+        2
+    ],
+    [
+        "Stefan Oehme",
+        "exsd",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "gradle",
+        3
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        32
+    ],
+    [
+        "Dennis Huebner",
+        "buildertestlanguage",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "MF",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "properties",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "xtend",
+        12
+    ],
+    [
+        "Dennis Huebner",
+        "classpath",
+        2
+    ],
+    [
+        "Karsten Thoms",
+        "java",
+        14
+    ],
+    [
+        "Karsten Thoms",
+        "xtend",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "java",
+        11
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "gitignore",
+        2
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "project",
+        9
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "prefs",
+        9
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "gradle",
+        10
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "xtend",
+        108
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "js",
+        111
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "xml",
+        2
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "html",
+        7
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "map",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "css",
+        20
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "dmodel",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "entities",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "jsdtscope",
+        2
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "container",
+        2
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "name",
+        2
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "properties",
+        3
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "classpath",
+        2
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "MF",
+        2
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "ecore",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "genmodel",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "xml_gen",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "mwe2",
+        1
+    ],
+    [
+        "Miro Sp\u00f6nemann",
+        "xtext",
+        1
+    ],
+    [
+        "Holger Schill",
+        "java",
+        11
+    ],
+    [
+        "Holger Schill",
+        "xtend",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        23
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        13
+    ],
+    [
+        "Hendrik Eeckhaut",
+        "java",
+        1
+    ],
+    [
+        "akosyakov",
+        "java",
+        7
+    ],
+    [
+        "akosyakov",
+        "prefs",
+        1
+    ],
+    [
+        "akosyakov",
+        "xtend",
+        6
+    ],
+    [
+        "akosyakov",
+        "xml",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        5
+    ],
+    [
+        "Jan Koehnlein",
+        "xtend",
+        18
+    ],
+    [
+        "Jan Koehnlein",
+        "launch",
+        1
+    ]
+]

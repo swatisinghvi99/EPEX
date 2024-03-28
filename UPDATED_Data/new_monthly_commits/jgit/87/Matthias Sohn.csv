@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Sun Dec 18  9:38:23 2016,BlameCommand.java,Matthias Sohn
+Sun Dec 18  9:38:24 2016,RebaseCommand.java,Matthias Sohn
+Sun Dec 18 12:49:33 2016,SubmoduleAddCommand.java,Matthias Sohn
+Sun Dec 18 12:49:36 2016,SubmoduleInitCommand.java,Matthias Sohn
+Sun Dec 18 12:49:36 2016,SubmoduleStatusCommand.java,Matthias Sohn
+Sun Dec 18 12:49:36 2016,SubmoduleSyncCommand.java,Matthias Sohn
+Sun Dec 18 12:49:37 2016,DirCache.java,Matthias Sohn
+Sun Dec 18 22:02:45 2016,RepoCommand.java,Matthias Sohn
+Sun Dec 18 22:02:47 2016,ManifestParser.java,Matthias Sohn
+Sun Dec 18 23:02:43 2016,DfsInserter.java,Matthias Sohn
+Mon Dec 19  7:38:41 2016,PackWriter.java,Matthias Sohn
+Tue Dec 20 23:50:21 2016,ObjectChecker.java,Matthias Sohn
+Wed Dec 21 22:51:50 2016,IndexDiff.java,Matthias Sohn
+Wed Dec 28 23:59:31 2016,DirCacheCheckoutTest.java,Matthias Sohn
+Wed Dec 28 23:59:33 2016,GC.java,Matthias Sohn

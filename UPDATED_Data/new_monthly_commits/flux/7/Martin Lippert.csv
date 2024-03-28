@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Mon Nov  3 11:03:07 2014,CallbackIDAwareMessageHandler.java,Martin Lippert
+Mon Nov  3 11:03:07 2014,MessageConnector.java,Martin Lippert
+Mon Nov  3 11:03:07 2014,MessageHandler.java,Martin Lippert
+Mon Nov  3 11:03:07 2014,RabbitMQMessageConnector.java,Martin Lippert
+Mon Nov  3 11:03:07 2014,ExceptionUtil.java,Martin Lippert
+Mon Nov  3 11:03:07 2014,BasicFutureTest.java,Martin Lippert
+Fri Nov  7 12:02:45 2014,SyncDownloadSelectionDialog.java,Martin Lippert
+Fri Nov  7 12:15:40 2014,DownloadProject.java,Martin Lippert

@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Wed Jan  6 10:45:00 2010,MarkersPropertyPage.java,Markus Keller
+Wed Jan  6 18:36:28 2010,WorkbenchSiteProgressService.java,Markus Keller
+Wed Jan 13 14:34:12 2010,RefactoringUIMessages.java,Markus Keller
+Wed Jan 13 14:34:12 2010,RefactoringUIMessages.properties,Markus Keller
+Wed Jan 13 14:34:12 2010,RefactoringHistoryLabelProvider.java,Markus Keller
+Wed Jan 20 16:30:14 2010,FilteredItemsSelectionDialog.java,Markus Keller
+Wed Jan 20 17:16:02 2010,UndoableOperation2ChangeAdapter.java,Markus Keller
+Wed Jan 20 18:04:30 2010,TriggeredOperations.java,Markus Keller
+Wed Jan 20 22:26:17 2010,TriggeredOperations.java,Markus Keller
+Sun Jan 24 23:46:44 2010,UndoTextFileChange.java,Markus Keller
+Mon Jan 25 19:23:57 2010,RefactoringStatusDialog.java,Markus Keller
+Fri Jan 29 15:18:20 2010,UndoableOperation2ChangeAdapter.java,Markus Keller

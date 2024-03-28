@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Sat Nov 15  8:31:48 2014,ReferenceResolver.java,Marcel Valovy
+Wed Nov 26  5:57:54 2014,JAXBBeanValidator.java,Marcel Valovy
+Thu Nov 27 12:07:28 2014,OXTestCase.java,Marcel Valovy
+Thu Nov 27 12:07:28 2014,TypedDirectMappingTestCases.java,Marcel Valovy
+Thu Nov 27 12:07:28 2014,DateAndTimeTestCases.java,Marcel Valovy
+Mon Dec  1 18:04:31 2014,BeanValidationSpecialtiesTestCase.java,Marcel Valovy
+Mon Dec  1 18:04:31 2014,MethodAnnotatedEmployee.java,Marcel Valovy
+Mon Dec  1 18:04:31 2014,BeanValidationHelper.java,Marcel Valovy
+Mon Dec  1 18:04:31 2014,ReflectionUtils.java,Marcel Valovy
+Mon Dec  1 18:04:51 2014,BeanValidationSpecialtiesTestCase.java,Marcel Valovy
+Mon Dec  1 18:04:51 2014,ConstructorAnnotatedEmployee.java,Marcel Valovy
+Mon Dec  1 18:04:51 2014,BeanValidationHelper.java,Marcel Valovy
+Fri Dec  5 20:06:36 2014,JaxbClassLoader.java,Marcel Valovy
+Wed Dec 10 15:23:11 2014,OXTestCase.java,Marcel Valovy
+Wed Dec 10 15:23:11 2014,TypedDirectMappingTestCases.java,Marcel Valovy
+Wed Dec 10 16:36:51 2014,JAXBBinder.java,Marcel Valovy
+Wed Dec 10 16:36:51 2014,JAXBContext.java,Marcel Valovy
+Wed Dec 10 16:36:51 2014,JAXBMarshaller.java,Marcel Valovy
+Wed Dec 10 16:36:51 2014,JAXBUnmarshaller.java,Marcel Valovy
+Wed Dec 10 16:40:08 2014,JAXBContext.java,Marcel Valovy
+Wed Dec 10 16:40:08 2014,JAXBContextProperties.java,Marcel Valovy
+Wed Dec 10 16:40:08 2014,MarshallerProperties.java,Marcel Valovy
+Wed Dec 10 16:40:08 2014,UnmarshallerProperties.java,Marcel Valovy
+Sun Dec 14 15:14:05 2014,BeanValidationHelper.java,Marcel Valovy

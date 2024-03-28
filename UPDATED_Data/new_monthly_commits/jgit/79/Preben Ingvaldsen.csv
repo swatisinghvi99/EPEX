@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Tue Apr  5  8:43:40 2016,AddCommandTest.java,Preben Ingvaldsen
+Tue Apr  5  8:43:40 2016,FileTreeIteratorTest.java,Preben Ingvaldsen
+Tue Apr  5  8:43:40 2016,AddCommand.java,Preben Ingvaldsen
+Tue Apr  5  8:43:40 2016,ConfigConstants.java,Preben Ingvaldsen
+Tue Apr  5  8:43:40 2016,AbstractTreeIterator.java,Preben Ingvaldsen
+Tue Apr  5  8:43:40 2016,FileTreeIterator.java,Preben Ingvaldsen
+Tue Apr  5  8:43:40 2016,TreeWalk.java,Preben Ingvaldsen
+Tue Apr  5  8:43:40 2016,WorkingTreeIterator.java,Preben Ingvaldsen
+Tue Apr  5  8:43:40 2016,WorkingTreeOptions.java,Preben Ingvaldsen

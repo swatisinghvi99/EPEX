@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Thu Jul  1  6:44:46 2010,DeclarationGenerator.java,Emanuel Graf
+Thu Jul  1  6:44:46 2010,DeclarationGeneratorImpl.java,Emanuel Graf
+Thu Jul  1  6:44:46 2010,ExtractLocalVariable.rts,Emanuel Graf
+Thu Jul  1  6:44:46 2010,ExtractLocalVariableRefactoring.java,Emanuel Graf
+Thu Jul  1  8:12:10 2010,ASTWriterExpressionTestSource.awts,Emanuel Graf
+Thu Jul  1  8:12:10 2010,ExpressionWriter.java,Emanuel Graf
+Thu Jul  1  9:31:54 2010,INodeFactory.java,Emanuel Graf
+Thu Jul  1  9:31:54 2010,CNodeFactory.java,Emanuel Graf
+Thu Jul  1  9:31:54 2010,CPPNodeFactory.java,Emanuel Graf
+Thu Jul  1 12:25:02 2010,ASTWriterDeclSpecTestSource.awts,Emanuel Graf
+Thu Jul  1 12:25:02 2010,DeclSpecWriter.java,Emanuel Graf
+Tue Jul  6 11:19:16 2010,NameHelperTest.java,Emanuel Graf
+Tue Jul  6 11:19:16 2010,NameHelper.java,Emanuel Graf
+Tue Jul  6 11:33:00 2010,ImplementMethodInputPage.java,Emanuel Graf
+Tue Jul  6 11:33:00 2010,Messages.java,Emanuel Graf
+Tue Jul  6 11:33:00 2010,messages.properties,Emanuel Graf
+Tue Jul  6 12:04:01 2010,NodeContainer.java,Emanuel Graf
+Wed Jul  7  8:40:02 2010,DeclarationGeneratorImpl.java,Emanuel Graf
+Wed Jul  7  8:40:02 2010,ExtractLocalVariable.rts,Emanuel Graf
+Wed Jul  7  9:31:41 2010,ExtractConstant.rts,Emanuel Graf
+Wed Jul  7  9:31:41 2010,ExtractConstantRefactoring.java,Emanuel Graf
+Wed Jul  7 12:27:48 2010,ASTWriterDeclSpecTestSource.awts,Emanuel Graf
+Wed Jul  7 12:27:48 2010,DeclSpecWriter.java,Emanuel Graf

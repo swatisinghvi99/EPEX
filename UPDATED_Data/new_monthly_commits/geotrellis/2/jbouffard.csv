@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Wed Jan  4 15:15:45 2017,AvroEncoder.scala,jbouffard
+Wed Jan  4 15:34:20 2017,AvroEncoder.scala,jbouffard
+Thu Jan  5 20:04:12 2017,AvroEncoder.scala,jbouffard
+Wed Jan 18 20:10:24 2017,ExtentCodec.scala,jbouffard
+Wed Jan 18 20:10:24 2017,Implicits.scala,jbouffard
+Wed Jan 18 20:10:24 2017,ExtentCodec.scala,jbouffard
+Wed Jan 18 20:10:24 2017,ProjectedExtentCodec.scala,jbouffard
+Wed Jan 18 20:10:24 2017,TemporalProjectedExtentCodec.scala,jbouffard
+Wed Jan 18 20:10:24 2017,Implicits.scala,jbouffard
+Wed Jan 18 20:10:24 2017,ExtentCodecsSpec.scala,jbouffard
+Wed Jan 18 20:10:24 2017,ProjectedExtentCodec.scala,jbouffard
+Wed Jan 18 20:13:57 2017,ExtentCodec.scala,jbouffard
+Wed Jan 18 20:15:00 2017,ExtentCodec.scala,jbouffard
+Fri Jan 20 20:44:53 2017,SinglebandGeoTiff.scala,jbouffard

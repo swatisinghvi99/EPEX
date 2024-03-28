@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Thu Aug 18  3:27:06 2011,JAXRSFacetInstallDataModelProvider.java,kchong
+Mon Aug 22 21:36:24 2011,JAXRSFacetInstallPage.java,kchong
+Tue Aug 23  3:33:32 2011,MANIFEST.MF,kchong
+Tue Aug 23  3:33:32 2011,InputFileGenerator.java,kchong
+Tue Aug 23  3:33:32 2011,InputFileHelp1Generator.java,kchong
+Tue Aug 23  3:33:32 2011,TestClientFileGenerator.java,kchong
+Tue Aug 23  4:02:30 2011,MANIFEST.MF,kchong
+Tue Aug 23  4:02:30 2011,SOAPContentGenerator.java,kchong
+Tue Aug 23  4:02:30 2011,feature.xml,kchong
+Tue Aug 23  4:30:13 2011,JAXRSLibraryPropertyPage.java,kchong
+Wed Aug 24  3:11:17 2011,MANIFEST.MF,kchong
+Wed Aug 24  3:11:17 2011,TableViewerWidget.java,kchong
+Wed Aug 24  4:17:17 2011,MANIFEST.MF,kchong
+Wed Aug 24  4:17:17 2011,ServicePolicyActivatorUI.java,kchong
+Wed Aug 24  4:17:17 2011,MANIFEST.MF,kchong
+Wed Aug 24  4:17:17 2011,NewWSDLWizard.java,kchong
+Wed Aug 24 22:35:21 2011,MANIFEST.MF,kchong
+Wed Aug 24 22:35:21 2011,J2EEUtils.java,kchong
+Wed Aug 24 22:35:21 2011,JavaMOFUtils.java,kchong
+Wed Aug 24 22:35:21 2011,ResourceUtils.java,kchong

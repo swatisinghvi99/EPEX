@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Thu Jan 21 14:24:30 2021,MANIFEST.MF,Yan Zhang
+Thu Jan 21 14:24:30 2021,DocumentLifeCycleHandler.java,Yan Zhang
+Thu Jan 21 14:24:30 2021,InitHandler.java,Yan Zhang
+Thu Jan 21 14:24:30 2021,SemanticHighlightingDiffCalculator.java,Yan Zhang
+Thu Jan 21 14:24:30 2021,SemanticHighlightingLS.java,Yan Zhang
+Thu Jan 21 14:24:30 2021,SemanticHighlightingReconciler.java,Yan Zhang
+Thu Jan 21 14:24:30 2021,SemanticHighlightingService.java,Yan Zhang
+Thu Jan 21 14:24:30 2021,SemanticHighlightings.java,Yan Zhang
+Thu Jan 21 14:24:30 2021,ClientPreferences.java,Yan Zhang
+Thu Jan 21 14:24:30 2021,SemanticHighlightingTest.java,Yan Zhang
+Thu Jan 21 14:24:30 2021,AbstractProjectsManagerBasedTest.java,Yan Zhang

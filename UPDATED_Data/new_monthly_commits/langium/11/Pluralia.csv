@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Thu Jan  6  7:05:46 2022,example.calc,Pluralia
+Thu Jan  6  7:05:46 2022,cli-util.ts,Pluralia
+Thu Jan  6  7:05:46 2022,interpreter.ts,Pluralia
+Thu Jan  6  7:05:46 2022,arithmetics-validator.ts,Pluralia
+Thu Jan  6  7:05:46 2022,arithmetics.langium,Pluralia
+Thu Jan  6  7:05:46 2022,ast.ts,Pluralia
+Thu Jan  6  7:05:46 2022,grammar.ts,Pluralia
+Tue Jan 18  8:54:10 2022,langium-parser-builder.ts,Pluralia
+Tue Jan 18  8:54:10 2022,langium-parser-builder.test.ts,Pluralia

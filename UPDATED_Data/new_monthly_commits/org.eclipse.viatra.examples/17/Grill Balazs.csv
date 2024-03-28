@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Tue Jul 12  9:21:47 2016,TransformationType.java,Grill Balazs
+Fri Jul 15  8:33:53 2016,variablesEquality.vql,Grill Balazs
+Fri Jul 15  8:33:53 2016,AllBackendTypes.xtend,Grill Balazs
+Fri Jul 15  8:33:53 2016,BackendType.java,Grill Balazs
+Fri Jul 15  8:33:53 2016,BasicCpsTest.xtend,Grill Balazs
+Fri Jul 15  8:33:53 2016,FlattenedPatternCallCpsTest.xtend,Grill Balazs
+Fri Jul 15  8:33:53 2016,VariableEqualityCpsTest.xtend,Grill Balazs
+Mon Jul 18  9:16:55 2016,TransformationType.java,Grill Balazs

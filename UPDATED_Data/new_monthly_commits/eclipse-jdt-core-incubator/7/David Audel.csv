@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Thu Dec 13 14:47:47 2001,PackageFragmentRoot.java,David Audel
+Fri Dec 14 14:45:06 2001,buildnotes_jdt-core.html,David Audel
+Fri Dec 14 14:45:06 2001,CompletionParser.java,David Audel
+Fri Dec 14 14:45:06 2001,AssistParser.java,David Audel
+Fri Dec 14 14:45:06 2001,SelectionParser.java,David Audel
+Fri Dec 14 14:45:06 2001,RecoveredMethod.java,David Audel
+Wed Dec 19  9:47:05 2001,buildnotes_jdt-core.html,David Audel
+Wed Dec 19  9:47:05 2001,SelectionEngine.java,David Audel
+Wed Dec 19  9:47:05 2001,BlockScope.java,David Audel
+Wed Dec 19  9:47:05 2001,ClassScope.java,David Audel
+Wed Dec 19  9:47:05 2001,CompilationUnitScope.java,David Audel
+Wed Dec 19  9:47:05 2001,LookupEnvironment.java,David Audel
+Wed Dec 19  9:47:05 2001,PackageBinding.java,David Audel
+Wed Dec 19  9:47:05 2001,ProblemReferenceBinding.java,David Audel
+Wed Dec 19  9:47:05 2001,Scope.java,David Audel
+Wed Dec 19  9:47:05 2001,CodeSnippetScope.java,David Audel
+Wed Dec 19 11:28:17 2001,BlockScope.java,David Audel
+Wed Dec 19 11:28:17 2001,ClassScope.java,David Audel
+Wed Dec 19 11:28:17 2001,CompilationUnitScope.java,David Audel
+Wed Dec 19 11:28:17 2001,LookupEnvironment.java,David Audel
+Wed Dec 19 11:28:17 2001,PackageBinding.java,David Audel
+Wed Dec 19 11:28:17 2001,ProblemReferenceBinding.java,David Audel
+Wed Dec 19 11:28:17 2001,Scope.java,David Audel
+Wed Dec 19 11:28:17 2001,CodeSnippetScope.java,David Audel
+Wed Dec 19 12:04:37 2001,ProblemReferenceBinding.java,David Audel

@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Thu Aug 10  7:55:45 2017,HueBridgeHandlerOSGiTest.groovy,Svilen
+Thu Aug 10 10:43:01 2017,DiscoveryResultImpl.java,Svilen
+Thu Aug 10 10:43:01 2017,LogHandler.java,Svilen
+Thu Aug 10 10:43:01 2017,ModelRepositoryChangeListener.java,Svilen
+Thu Aug 10 10:44:54 2017,EventLogger.java,Svilen
+Thu Aug 10 10:44:54 2017,BindingResource.java,Svilen
+Thu Aug 10 10:44:54 2017,ConfigurableServiceResource.java,Svilen
+Thu Aug 10 10:44:54 2017,MDNSServiceImpl.java,Svilen
+Thu Aug 10 10:44:54 2017,UpnpIOServiceImpl.java,Svilen
+Thu Aug 10 10:44:54 2017,DumbThingTypeProvider.java,Svilen
+Thu Aug 10 10:44:54 2017,TestHueThingTypeProvider.java,Svilen
+Thu Aug 10 10:44:54 2017,NtpHandler.java,Svilen
+Thu Aug 10 10:44:54 2017,XsltTransformationService.java,Svilen
+Thu Aug 10 14:53:26 2017,MANIFEST.MF,Svilen
+Thu Aug 10 14:53:26 2017,SitemapResource.java,Svilen
+Thu Aug 10 14:53:26 2017,SimpleNTPServer.java,Svilen
+Thu Aug 10 14:53:26 2017,MANIFEST.MF,Svilen
+Mon Aug 14 18:07:10 2017,HttpUtil.java,Svilen
+Tue Sep  5 17:41:55 2017,.travis.yml,Svilen
+Tue Sep  5 17:41:55 2017,ItemUtil.java,Svilen
+Tue Sep  5 17:41:55 2017,guidelines.md,Svilen
+Tue Sep  5 17:41:55 2017,pom.xml,Svilen
+Tue Sep  5 17:41:55 2017,ruleset.properties,Svilen
+Tue Sep  5 17:41:55 2017,suppressions.xml,Svilen
+Tue Sep  5 17:41:55 2017,suppressions.xml,Svilen

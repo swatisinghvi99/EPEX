@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Thu May  7 19:06:49 2015,IClasspathDescriptor.java,Anton Tanasenko
+Thu May  7 19:06:49 2015,AbstractJavaProjectConfigurator.java,Anton Tanasenko
+Thu May  7 19:06:49 2015,ClasspathDescriptor.java,Anton Tanasenko
+Tue May 19 15:49:53 2015,PomEdits.java,Anton Tanasenko
+Mon May 25 12:24:42 2015,SourceLocationHelper.java,Anton Tanasenko
+Mon May 25 16:19:13 2015,MANIFEST.MF,Anton Tanasenko
+Mon May 25 16:19:13 2015,plugin.properties,Anton Tanasenko
+Mon May 25 16:19:13 2015,plugin.xml,Anton Tanasenko
+Mon May 25 16:19:13 2015,mojoParameterMetadata.exsd,Anton Tanasenko
+Mon May 25 16:19:13 2015,PomTemplateContext.java,Anton Tanasenko
+Mon May 25 16:19:13 2015,DefaultMojoParameterMetadata.java,Anton Tanasenko
+Mon May 25 16:19:13 2015,MojoParameterMetadataProvider.java,Anton Tanasenko
+Mon May 25 16:19:13 2015,IMojoParameterMetadata.java,Anton Tanasenko
+Mon May 25 16:19:13 2015,IMojoParameterMetadataProvider.java,Anton Tanasenko
+Mon May 25 16:19:13 2015,MojoParameter.java,Anton Tanasenko
+Mon May 25 16:19:13 2015,PlexusConfigHelper.java,Anton Tanasenko
+Tue May 26 20:16:53 2015,SourceLocationHelper.java,Anton Tanasenko

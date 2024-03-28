@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Wed Aug 24 17:30:50 2011,AutoMPatchResolver.java,pkonemann
+Wed Aug 24 17:30:50 2011,GenericMPatchApplier.java,pkonemann
+Wed Aug 24 17:30:50 2011,GenericMPatchResolver.java,pkonemann
+Wed Aug 24 17:30:50 2011,ReferenceResolutionLabelProvider.java,pkonemann
+Wed Aug 24 17:30:50 2011,MPatchResolver.java,pkonemann
+Wed Aug 24 17:30:50 2011,MPatchValidator.java,pkonemann
+Wed Aug 24 17:30:50 2011,ApplyWizard.java,pkonemann
+Wed Aug 24 17:30:50 2011,ApplyWizardResolvePage.java,pkonemann
+Wed Aug 24 17:30:50 2011,ApplyWizardSummaryPage.java,pkonemann
+Wed Aug 24 17:30:50 2011,CommonUtils.java,pkonemann
+Wed Aug 24 17:30:50 2011,IMPatchApplication.java,pkonemann
+Wed Aug 24 17:30:50 2011,IMPatchResolution.java,pkonemann
+Wed Aug 24 17:30:50 2011,InternalRefTest.java,pkonemann
+Wed Aug 24 17:30:50 2011,LibraryExampleTest.java,pkonemann
+Wed Aug 24 17:30:50 2011,PerformanceTest.java,pkonemann
+Wed Aug 24 17:30:50 2011,CommonTestOperations.java,pkonemann
+Wed Aug 24 17:30:50 2011,CompareTestHelper.java,pkonemann
+Wed Aug 24 18:45:26 2011,OCLConditionHelper.java,pkonemann
+Wed Aug 24 18:45:26 2011,CommonTestOperations.java,pkonemann

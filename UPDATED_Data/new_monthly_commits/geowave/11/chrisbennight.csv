@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Thu Apr  9  1:18:28 2015,CentroidManagerGeoWave.java,chrisbennight
+Thu Apr  9  1:18:28 2015,FeatureCollectionDataAdapter.java,chrisbennight
+Thu Apr  9  1:18:28 2015,FeatureDataAdapter.java,chrisbennight
+Thu Apr  9  1:18:28 2015,QueryIndexHelperTest.java,chrisbennight
+Thu Apr  9  1:18:28 2015,pom.xml,chrisbennight
+Wed Apr 15 22:29:09 2015,OperationCommandLineOptions.java,chrisbennight
+Wed Apr 15 22:29:09 2015,pom.xml,chrisbennight
+Thu Apr 16  2:05:36 2015,MapReduceCommandLineOptions.java,chrisbennight
+Wed Apr 29  1:01:10 2015,AbstractExpression.java,chrisbennight
+Wed Apr 29  1:01:10 2015,BasicMathLexer.java,chrisbennight
+Wed Apr 29  1:01:10 2015,BasicMathParser.java,chrisbennight
+Wed Apr 29  1:01:10 2015,CustomFunction.java,chrisbennight
+Wed Apr 29  1:01:10 2015,CustomValue.java,chrisbennight
+Wed Apr 29  1:01:10 2015,Demo.java,chrisbennight
+Wed Apr 29  1:01:10 2015,Expression.java,chrisbennight
+Wed Apr 29  1:01:10 2015,BinaryExpression.java,chrisbennight
+Wed Apr 29  1:01:10 2015,EvaluationVisitor.java,chrisbennight
+Wed Apr 29  1:01:10 2015,Function.java,chrisbennight
+Wed Apr 29  1:01:10 2015,LogicalExpression.java,chrisbennight
+Wed Apr 29  1:01:10 2015,LogicalExpressionVisitor.java,chrisbennight
+Wed Apr 29  1:01:10 2015,Parameter.java,chrisbennight
+Wed Apr 29  1:01:10 2015,UnaryExpression.java,chrisbennight
+Wed Apr 29  1:01:10 2015,Value.java,chrisbennight

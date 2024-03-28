@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Tue Aug 31 11:26:48 2010,ChangeLog,Alexander Kurtakov
+Tue Aug 31 11:26:48 2010,MANIFEST.MF,Alexander Kurtakov
+Tue Aug 31 11:26:48 2010,plugin.xml,Alexander Kurtakov
+Tue Aug 31 11:26:48 2010,StubifyAction.java,Alexander Kurtakov
+Tue Aug 31 11:26:48 2010,StubifyFeatureAction.java,Alexander Kurtakov
+Tue Aug 31 11:26:48 2010,StubifyPomAction.java,Alexander Kurtakov
+Tue Aug 31 11:27:48 2010,ChangeLog,Alexander Kurtakov
+Tue Aug 31 11:27:48 2010,DownloadJob.java,Alexander Kurtakov
+Tue Aug 31 11:27:48 2010,SourcesFileDownloadHyperlink.java,Alexander Kurtakov
+Tue Aug 31 11:52:24 2010,ChangeLog,Alexander Kurtakov
+Tue Aug 31 11:52:24 2010,RPMConfiguration.java,Alexander Kurtakov
+Tue Aug 31 12:06:13 2010,ChangeLog,Alexander Kurtakov
+Tue Aug 31 12:06:13 2010,RPMProject.java,Alexander Kurtakov
+Fri Sep  3 12:28:31 2010,org.eclipse.jdt.core.prefs,Alexander Kurtakov
+Fri Sep  3 12:28:31 2010,ChangeLog,Alexander Kurtakov
+Fri Sep  3 12:28:31 2010,Activator.java,Alexander Kurtakov
+Fri Sep  3 12:28:31 2010,ManDocument.java,Alexander Kurtakov
+Fri Sep  3 12:28:31 2010,ManPage.java,Alexander Kurtakov
+Fri Sep  3 12:28:31 2010,ManParser.java,Alexander Kurtakov
+Fri Sep  3 12:28:31 2010,ManPathPage.java,Alexander Kurtakov
+Fri Sep  3 12:28:31 2010,Messages.java,Alexander Kurtakov
+Fri Sep  3 12:28:31 2010,PreferenceConstants.java,Alexander Kurtakov
+Fri Sep  3 12:28:31 2010,PreferenceInitializer.java,Alexander Kurtakov
+Fri Sep  3 12:28:31 2010,messages.properties,Alexander Kurtakov
+Fri Sep  3 12:28:31 2010,ManView.java,Alexander Kurtakov

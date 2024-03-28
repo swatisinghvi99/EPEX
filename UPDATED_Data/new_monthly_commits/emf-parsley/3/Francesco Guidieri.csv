@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Fri Oct  4 10:54:35 2013,MANIFEST.MF,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,EmfParsleyDslUiModule.java,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,EmfParsleyDslNewProjectCreationPage.java,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,EmfParsleyDslNewProjectFiles.xtend,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,EmfParsleyDslNewProjectWithPredefinedViewWizard.java,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,EmfParsleyDslProjectCreatorCustom.java,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,EmfParsleyDslProjectInfo.java,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,EmfParsleyDslProjectTemplateSelectionPage.java,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,AbstractTemplateWizardHelper.java,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,IWizardTemplate.java,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,OnSelectionTableFormTemplateWizardHelper.java,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,OnSelectionTreeFormTemplateWizardHelper.java,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,SaveableTableFormTemplateWizardHelper.java,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,SaveableTableTemplateWizardHelper.java,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,SaveableTreeFormTemplateWizardHelper.java,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,SaveableTreeTemplateWizardHelper.java,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,EmfParsleyDslNewProjectFiles.java,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,EmfParsleyViewFilesGenerator.xtend,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,EmfParsleyViewFilesGenerator.java,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,EmfComponentsAbstractTests.java,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,EmfComponentsDslWizardsTests.xtend,Francesco Guidieri
+Fri Oct  4 10:54:35 2013,EmfComponentsDslWizardsTests.java,Francesco Guidieri

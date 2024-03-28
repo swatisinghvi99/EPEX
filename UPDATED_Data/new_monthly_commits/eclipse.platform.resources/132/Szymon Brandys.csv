@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Fri Apr  6 10:06:46 2012,BogusFileStore.java,Szymon Brandys
+Fri Apr  6 10:06:46 2012,BogusFileSystem.java,Szymon Brandys
+Fri Apr  6 10:06:46 2012,MemoryFileStore.java,Szymon Brandys
+Fri Apr  6 10:06:46 2012,LinkedResourceSyncMoveAndCopyTest.java,Szymon Brandys
+Fri Apr  6 10:06:46 2012,LinkedResourceWithPathVariableTest.java,Szymon Brandys
+Fri Apr  6 10:06:46 2012,NonLocalLinkedResourceTest.java,Szymon Brandys
+Fri Apr  6 11:48:08 2012,PathVariableUtil.java,Szymon Brandys
+Fri Apr  6 11:48:08 2012,IResource.java,Szymon Brandys
+Fri Apr  6 11:48:08 2012,IWorkspace.java,Szymon Brandys

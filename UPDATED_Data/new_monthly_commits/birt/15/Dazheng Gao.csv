@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Tue Apr  4  5:29:06 2006,DesignerConstants.java,Dazheng Gao
+Tue Apr  4  5:29:06 2006,LibraryReportDesignEditPart.java,Dazheng Gao
+Tue Apr  4  5:29:06 2006,LibraryDropListener.java,Dazheng Gao
+Tue Apr  4  5:29:06 2006,ReportCreationTool.java,Dazheng Gao
+Mon Apr 17  6:09:37 2006,TableHandleAdapter.java,Dazheng Gao
+Mon Apr 17  8:12:31 2006,ReportDesignEditPart.java,Dazheng Gao
+Mon Apr 17  8:42:56 2006,ReportXMLSourceEditorFormPage.java,Dazheng Gao
+Wed Apr 19  6:43:59 2006,AutoTextHandleAdapter.java,Dazheng Gao
+Wed Apr 19  6:43:59 2006,HandleAdapterFactory.java,Dazheng Gao
+Wed Apr 19  6:43:59 2006,AutoTextEditPart.java,Dazheng Gao
+Wed Apr 19  6:43:59 2006,GraphicalPartFactory.java,Dazheng Gao
+Wed Apr 19  8:14:07 2006,ReportDesignEditPart.java,Dazheng Gao
+Thu Apr 20  7:55:37 2006,DebugUtil.java,Dazheng Gao
+Thu Apr 20  7:55:37 2006,DebugUI.java,Dazheng Gao
+Thu Apr 20  7:55:37 2006,ReportAdvancedLauncherTab.java,Dazheng Gao
+Fri Apr 21  6:12:56 2006,MultiPageReportEditor.java,Dazheng Gao
+Tue Apr 25  1:59:07 2006,ReportLayoutEditorFormPage.java,Dazheng Gao
+Tue Apr 25  1:59:07 2006,ReportMasterPageEditorFormPage.java,Dazheng Gao
+Tue Apr 25  2:47:53 2006,MasterPageEditPart.java,Dazheng Gao
+Tue Apr 25  2:47:53 2006,ReportDesignEditPart.java,Dazheng Gao
+Tue Apr 25  2:47:53 2006,ReportElementEditPart.java,Dazheng Gao
+Wed Apr 26  3:39:48 2006,FileReportProvider.java,Dazheng Gao

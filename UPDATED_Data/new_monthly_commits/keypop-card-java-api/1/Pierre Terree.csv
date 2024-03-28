@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Thu Jul 20 17:10:19 2023,CODE_OF_CONDUCT.md,Pierre Terree
+Thu Jul 20 17:10:19 2023,LICENSE_MIT_HEADER,Pierre Terree
+Thu Jul 20 17:10:19 2023,AbstractApduException.java,Pierre Terree
+Thu Jul 20 17:10:19 2023,ApduResponseApi.java,Pierre Terree
+Thu Jul 20 17:10:19 2023,CardApiProperties.java,Pierre Terree
+Thu Jul 20 17:10:19 2023,CardBrokenCommunicationException.java,Pierre Terree
+Thu Jul 20 17:10:19 2023,CardResponseApi.java,Pierre Terree
+Thu Jul 20 17:10:19 2023,CardSelectionResponseApi.java,Pierre Terree
+Thu Jul 20 17:10:19 2023,ChannelControl.java,Pierre Terree
+Thu Jul 20 17:10:19 2023,ParseException.java,Pierre Terree
+Thu Jul 20 17:10:19 2023,ProxyReaderApi.java,Pierre Terree
+Thu Jul 20 17:10:19 2023,ReaderBrokenCommunicationException.java,Pierre Terree
+Thu Jul 20 17:10:19 2023,UnexpectedStatusWordException.java,Pierre Terree
+Thu Jul 20 17:10:19 2023,package-info.java,Pierre Terree
+Thu Jul 20 17:10:19 2023,ApduRequestSpi.java,Pierre Terree
+Thu Jul 20 17:10:19 2023,CardRequestSpi.java,Pierre Terree
+Thu Jul 20 17:10:19 2023,CardSelectionExtensionSpi.java,Pierre Terree
+Thu Jul 20 17:10:19 2023,CardSelectionRequestSpi.java,Pierre Terree
+Thu Jul 20 17:10:19 2023,SmartCardSpi.java,Pierre Terree
+Thu Jul 20 17:10:19 2023,package-info.java,Pierre Terree
+Thu Jul 20 17:10:19 2023,overview.html,Pierre Terree
+Thu Jul 20 17:10:19 2023,CardApiPropertiesTest.java,Pierre Terree

@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Fri Oct 19  0:02:01 2018,DefaultAdminPageHelper.java,Cristiano Nicolai
+Fri Oct 19  0:02:01 2018,DefaultAdminPageHelperTest.java,Cristiano Nicolai
+Fri Oct 19  0:02:01 2018,StunnerProjectShowcaseEntryPoint.java,Cristiano Nicolai
+Fri Nov  2  9:44:14 2018,pom.xml,Cristiano Nicolai
+Fri Nov  2  9:44:14 2018,ControllerUtils.java,Cristiano Nicolai
+Fri Nov  2  9:44:14 2018,KieServerStandaloneControllerProducer.java,Cristiano Nicolai
+Fri Nov  2  9:44:14 2018,StandaloneControllerDynamicFeature.java,Cristiano Nicolai
+Fri Nov  2  9:44:14 2018,ControllerExtension.java,Cristiano Nicolai
+Fri Nov  2  9:44:14 2018,StandaloneControllerApplicationConfig.java,Cristiano Nicolai
+Fri Nov  2  9:44:14 2018,AbstractControllerIT.java,Cristiano Nicolai
+Fri Nov  2  9:44:14 2018,ControllerExtensionTest.java,Cristiano Nicolai
+Fri Nov  2  9:44:14 2018,ControllerUtilsTest.java,Cristiano Nicolai
+Fri Nov  2  9:44:14 2018,StandaloneControllerApplicationConfigTest.java,Cristiano Nicolai
+Fri Nov  2  9:44:14 2018,pom.xml,Cristiano Nicolai
+Fri Nov  2  9:44:14 2018,SwaggerAPIScanner.java,Cristiano Nicolai

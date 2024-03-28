@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Tue Aug 19 10:36:52 2014,ApplicationClassValidator.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,RWTLaunchConfig.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,ServletPathValidator.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,ValidationRunner.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,LaunchCleanup.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,WebXmlProvider.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,template-web.xml,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,ApplicationSearchEngine.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,LaunchConfigCreator.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,LaunchConfigFinder.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,RWTLaunchShortcut.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,ServletPathInputDialog.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,TypeInspector.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,ApplicationSection.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,ApplicationTypeSelectionDialog.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,RWTMainTab.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,ApplicationClassValidator_Test.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,RWTLaunchConfig_Test.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,ServletPathValidator_Test.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,WebXmlProvider_Test.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,ApplicationSearchEngine_Test.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,LaunchConfigCreator_Test.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,LaunchConfigFinder_Test.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,RWTLaunchShortcut_Test.java,Ivan Furnadjiev
+Tue Aug 19 10:36:52 2014,ApplicationSection_Test.java,Ivan Furnadjiev

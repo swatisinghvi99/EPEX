@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Thu Oct 23 10:31:49 2014,FileTreeIteratorTest.java,Andrey Loskutov
+Thu Oct 23 10:31:49 2014,WorkingTreeIterator.java,Andrey Loskutov
+Mon Oct 27 18:26:42 2014,MANIFEST.MF,Andrey Loskutov
+Mon Oct 27 18:26:42 2014,BasicRuleTest.java,Andrey Loskutov
+Mon Oct 27 18:26:42 2014,FastIgnoreRuleTest.java,Andrey Loskutov
+Mon Oct 27 18:26:42 2014,IgnoreMatcherParametrizedTest.java,Andrey Loskutov
+Mon Oct 27 18:26:42 2014,IgnoreMatcherTest.java,Andrey Loskutov
+Mon Oct 27 18:26:42 2014,IgnoreRuleSpecialCasesTest.java,Andrey Loskutov
+Mon Oct 27 18:26:42 2014,MANIFEST.MF,Andrey Loskutov
+Mon Oct 27 18:26:42 2014,FastIgnoreRule.java,Andrey Loskutov
+Mon Oct 27 18:26:42 2014,IgnoreNode.java,Andrey Loskutov
+Mon Oct 27 18:26:42 2014,IgnoreRule.java,Andrey Loskutov
+Mon Oct 27 18:26:42 2014,AbstractMatcher.java,Andrey Loskutov
+Mon Oct 27 18:26:42 2014,IMatcher.java,Andrey Loskutov
+Mon Oct 27 18:26:42 2014,NameMatcher.java,Andrey Loskutov
+Mon Oct 27 18:26:42 2014,PathMatcher.java,Andrey Loskutov
+Mon Oct 27 18:26:42 2014,Strings.java,Andrey Loskutov
+Mon Oct 27 18:26:42 2014,WildCardMatcher.java,Andrey Loskutov
+Mon Oct 27 18:26:42 2014,WildMatcher.java,Andrey Loskutov
+Mon Oct 27 18:26:42 2014,WorkingTreeIterator.java,Andrey Loskutov

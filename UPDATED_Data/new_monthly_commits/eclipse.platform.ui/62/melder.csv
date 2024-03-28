@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Wed Jun  7 21:20:14 2006,WorkbenchNavigatorMessages.java,melder
+Wed Jun  7 21:20:14 2006,messages.properties,melder
+Wed Jun  7 21:20:14 2006,CommonNavigatorMessages.java,melder
+Wed Jun  7 21:20:14 2006,messages.properties,melder
+Fri Jun 16 20:16:49 2006,.classpath,melder
+Fri Jun 16 20:16:49 2006,.project,melder
+Fri Jun 16 20:16:49 2006,org.eclipse.pde.prefs,melder
+Fri Jun 16 20:16:49 2006,MANIFEST.MF,melder
+Fri Jun 16 20:16:49 2006,plugin.xml,melder
+Fri Jun 16 20:16:49 2006,PropertiesContentProvider.java,melder
+Fri Jun 16 20:16:49 2006,PropertiesLabelProvider.java,melder
+Fri Jun 16 20:16:49 2006,PropertiesTreeData.java,melder
+Fri Jun 16 20:16:49 2006,Activator.java,melder
+Fri Jun 23  3:52:15 2006,MANIFEST.MF,melder
+Fri Jun 23  3:52:15 2006,plugin.xml,melder
+Fri Jun 23  3:52:15 2006,DeletePropertyAction.java,melder
+Fri Jun 23  3:52:15 2006,OpenPropertyAction.java,melder
+Fri Jun 23  3:52:15 2006,PropertyActionProvider.java,melder

@@ -1,0 +1,187 @@
+[
+    [
+        "Jan Rosczak",
+        "xtend",
+        2
+    ],
+    [
+        "Jan Rosczak",
+        "java",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        23
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        7
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "java",
+        179
+    ],
+    [
+        "Christian Dietrich",
+        "xtend",
+        29
+    ],
+    [
+        "Christian Dietrich",
+        "target",
+        12
+    ],
+    [
+        "Christian Dietrich",
+        "xml",
+        8
+    ],
+    [
+        "Christian Dietrich",
+        "gradle",
+        4
+    ],
+    [
+        "Christian Dietrich",
+        "MF",
+        2
+    ],
+    [
+        "Christian Dietrich",
+        "ecore",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "genmodel",
+        3
+    ],
+    [
+        "Christian Dietrich",
+        "g",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "tokens",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "xtext",
+        1
+    ],
+    [
+        "Karsten Thoms",
+        "java",
+        40
+    ],
+    [
+        "Karsten Thoms",
+        "xml",
+        2
+    ],
+    [
+        "Karsten Thoms",
+        "gitignore",
+        1
+    ],
+    [
+        "Tamas Miklossy",
+        "java",
+        2
+    ],
+    [
+        "Tamas Miklossy",
+        "xtend",
+        1
+    ],
+    [
+        "Eva Poell",
+        "java",
+        10
+    ],
+    [
+        "Eva Poell",
+        "xtend",
+        2
+    ],
+    [
+        "Eva Poell",
+        "properties",
+        1
+    ],
+    [
+        "Arne Deutsch",
+        "java",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "ecore",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "genmodel",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "xtend",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        26
+    ],
+    [
+        "Dennis Huebner",
+        "g",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "tokens",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "xtext",
+        1
+    ],
+    [
+        "epll",
+        "xtend",
+        2
+    ],
+    [
+        "epll",
+        "java",
+        7
+    ],
+    [
+        "Sergio Otero Lopez",
+        "java",
+        2
+    ],
+    [
+        "Lorenzo Addazi",
+        "java",
+        14
+    ],
+    [
+        "Lorenzo Addazi",
+        "xtend",
+        7
+    ]
+]

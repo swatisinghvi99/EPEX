@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Wed Dec 13 19:40:01 2006,DiagramEditPart.java,mmostafa
+Wed Dec 13 19:40:01 2006,ShapeCompartmentEditPart.java,mmostafa
+Wed Dec 13 19:40:01 2006,CanonicalShapeCompartmentLayout.java,mmostafa
+Wed Dec 13 19:40:01 2006,ShapeCompartmentFigure.java,mmostafa
+Wed Dec 13 19:40:01 2006,FreeFormLayoutEx.java,mmostafa
+Fri Dec 15 15:48:17 2006,NonResizableEditPolicyEx.java,mmostafa
+Fri Dec 15 15:48:17 2006,ResizableEditPolicyEx.java,mmostafa
+Fri Dec 15 17:31:29 2006,ListScrollBar.java,mmostafa
+Fri Dec 15 19:46:47 2006,ShowRelatedElementsComposite.java,mmostafa
+Fri Dec 15 19:46:53 2006,DiagramGenerator.java,mmostafa
+Fri Dec 15 19:46:59 2006,MarkerNavigationService.java,mmostafa
+Fri Jan  5 15:24:00 2007,MANIFEST.MF,mmostafa
+Fri Jan  5 15:24:00 2007,SetValueCommand.java,mmostafa
+Fri Jan  5 15:24:00 2007,SetValueCommandTest.java,mmostafa
+Fri Jan  5 15:24:18 2007,ListCompartmentEditPart.java,mmostafa
+Thu Jan 11 18:53:48 2007,MANIFEST.MF,mmostafa
+Thu Jan 11 18:53:48 2007,IPopupMenuContributionPolicy.java,mmostafa
+Thu Jan 11 18:53:48 2007,ProviderContributionDescriptor.java,mmostafa
+Thu Jan 11 18:53:48 2007,MANIFEST.MF,mmostafa
+Thu Jan 11 18:53:48 2007,plugin.xml,mmostafa
+Thu Jan 11 18:53:48 2007,ContributionItemServiceTests.java,mmostafa
+Thu Jan 11 18:53:48 2007,ContributionPolicy.java,mmostafa
+Fri Jan 12 17:08:59 2007,CanonicalConnectionEditPolicy.java,mmostafa
+Fri Jan 12 17:08:59 2007,CanonicalEditPolicy.java,mmostafa
+Fri Jan 12 17:09:06 2007,PrintHelper.java,mmostafa

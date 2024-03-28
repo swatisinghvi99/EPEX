@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Tue Aug 13  8:15:50 2019,StageUnstageActionTest.java,Michael Keppler
+Wed Aug 14 16:15:10 2019,DeleteTagCommand.java,Michael Keppler
+Wed Aug 14 16:15:10 2019,GarbageCollectCommand.java,Michael Keppler
+Wed Aug 14 16:15:10 2019,StashDropCommand.java,Michael Keppler
+Thu Aug 15  5:39:16 2019,plugin.xml,Michael Keppler
+Thu Aug 15  5:39:16 2019,RenameBranchCommand.java,Michael Keppler
+Thu Aug 15  6:50:37 2019,DiffViewer.java,Michael Keppler
+Thu Aug 15  6:50:37 2019,CommitFileDiffViewer.java,Michael Keppler
+Thu Aug 15 12:21:58 2019,CreateBranchWizard.java,Michael Keppler
+Thu Aug 15 13:10:46 2019,Activator.java,Michael Keppler
+Thu Aug 15 16:46:56 2019,UIText.java,Michael Keppler
+Thu Aug 15 16:46:56 2019,PasteCommand.java,Michael Keppler
+Thu Aug 15 16:46:56 2019,uitext.properties,Michael Keppler
+Tue Aug 20 13:44:25 2019,GitHistoryPage.java,Michael Keppler
+Wed Aug 21 11:54:18 2019,FetchResultTable.java,Michael Keppler
+Sat Aug 24 14:53:43 2019,TestRepository.java,Michael Keppler
+Sat Aug 24 14:53:43 2019,CompareUtils.java,Michael Keppler
+Tue Aug 27  7:10:23 2019,RepositoryTreeNodeLabelProvider.java,Michael Keppler

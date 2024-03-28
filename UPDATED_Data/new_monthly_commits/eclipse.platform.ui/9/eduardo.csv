@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Mon Jan 21 16:30:57 2002,BookmarkNavigator.java,eduardo
+Mon Jan 21 16:30:57 2002,FrameAction.java,eduardo
+Mon Jan 21 16:30:57 2002,PropertySheetPage.java,eduardo
+Mon Jan 21 16:30:57 2002,MarkerUtil.java,eduardo
+Mon Jan 21 16:30:57 2002,FileSystemExportWizard.java,eduardo
+Mon Jan 21 16:30:57 2002,FileSystemImportWizard.java,eduardo
+Mon Jan 21 16:30:57 2002,ZipFileExportWizard.java,eduardo
+Mon Jan 21 16:30:57 2002,ZipFileImportWizard.java,eduardo
+Mon Jan 21 16:30:57 2002,BasicNewFileResourceWizard.java,eduardo
+Mon Jan 21 16:30:57 2002,BasicNewFolderResourceWizard.java,eduardo
+Mon Jan 21 16:30:57 2002,BasicNewProjectResourceWizard.java,eduardo
+Mon Jan 21 16:30:57 2002,BasicNewResourceWizard.java,eduardo
+Mon Jan 21 16:30:57 2002,ProblemImageProvider.java,eduardo
+Mon Jan 21 16:30:57 2002,ProductInfo.java,eduardo
+Mon Jan 21 16:30:57 2002,WorkbenchImages.java,eduardo
+Mon Jan 21 16:43:56 2002,Workbench.java,eduardo
+Mon Jan 21 19:14:02 2002,PartTabFolder.java,eduardo
+Mon Jan 28 20:45:15 2002,SelectionEnabler.java,eduardo
+Thu Jan 31 22:05:31 2002,messages.properties,eduardo
+Thu Jan 31 22:05:31 2002,Window.java,eduardo
+Thu Jan 31 22:05:31 2002,ExceptionHandler.java,eduardo
+Thu Jan 31 22:05:31 2002,Workbench.java,eduardo
+Thu Jan 31 22:05:31 2002,messages.properties,eduardo
+Thu Jan 31 22:52:45 2002,CyclePartAction.java,eduardo
+Fri Feb  1 20:41:51 2002,Workbench.java,eduardo
+Fri Feb  1 23:34:36 2002,GotoResourceDialog.java,eduardo

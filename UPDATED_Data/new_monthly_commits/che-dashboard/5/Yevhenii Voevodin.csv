@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Tue Jul  5  8:27:58 2016,add-registry.controller.js,Yevhenii Voevodin
+Tue Jul  5  8:27:58 2016,docker-registry-list.controller.js,Yevhenii Voevodin
+Tue Jul  5  8:27:58 2016,index.module.js,Yevhenii Voevodin
+Tue Jul  5  8:27:58 2016,navbar.controller.js,Yevhenii Voevodin
+Tue Jul  5  8:27:58 2016,list-projects.controller.js,Yevhenii Voevodin
+Tue Jul  5  8:27:58 2016,workspace-details-projects.controller.js,Yevhenii Voevodin
+Tue Jul  5  8:27:58 2016,che-profile-builder.js,Yevhenii Voevodin
+Tue Jul  5  8:27:58 2016,che-api-config.js,Yevhenii Voevodin
+Tue Jul  5  8:27:58 2016,che-api.factory.js,Yevhenii Voevodin
+Tue Jul  5  8:27:58 2016,che-preferences.factory.js,Yevhenii Voevodin
+Tue Jul  5  8:27:58 2016,che-preferences.spec.js,Yevhenii Voevodin
+Tue Jul  5  8:27:58 2016,che-profile.factory.js,Yevhenii Voevodin
+Tue Jul  5  8:27:58 2016,che-profile.spec.js,Yevhenii Voevodin
+Tue Jul  5  8:27:58 2016,che-http-backend.js,Yevhenii Voevodin
+Tue Jul  5  8:27:58 2016,che-learn-more.controller.js,Yevhenii Voevodin

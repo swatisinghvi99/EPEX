@@ -1,0 +1,92 @@
+[
+    [
+        "Simeon H.K. fitch",
+        "scala",
+        2
+    ],
+    [
+        "Grisha Pomadchin",
+        "scala",
+        11
+    ],
+    [
+        "Grisha Pomadchin",
+        "sbt",
+        3
+    ],
+    [
+        "Grisha Pomadchin",
+        "json",
+        1
+    ],
+    [
+        "Colin Woodbury",
+        "scala",
+        8
+    ],
+    [
+        "jpolchlo",
+        "scala",
+        9
+    ],
+    [
+        "jpolchlo",
+        "rst",
+        1
+    ],
+    [
+        "jpolchlo",
+        "wkt",
+        1
+    ],
+    [
+        "Matthew Eldridge",
+        "json",
+        1
+    ],
+    [
+        "Matthew Eldridge",
+        "scala",
+        5
+    ],
+    [
+        "Eugene Cheipesh",
+        "AttributeStoreProvider",
+        10
+    ],
+    [
+        "Eugene Cheipesh",
+        "scala",
+        32
+    ],
+    [
+        "Eugene Cheipesh",
+        "properties",
+        1
+    ],
+    [
+        "Eugene Cheipesh",
+        "LayerReaderProvider",
+        5
+    ],
+    [
+        "Eugene Cheipesh",
+        "LayerWriterProvider",
+        5
+    ],
+    [
+        "lossyrob",
+        "scala",
+        15
+    ],
+    [
+        "lossyrob",
+        "sbt",
+        1
+    ],
+    [
+        "James McClain",
+        "scala",
+        116
+    ]
+]

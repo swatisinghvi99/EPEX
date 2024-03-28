@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Fri Nov 11 15:56:42 2011,AbstractTextButtonValueEditor.java,kscheglov
+Fri Nov 11 16:50:22 2011,exceptions.xml,kscheglov
+Fri Nov 11 16:50:22 2011,DesignPage.java,kscheglov
+Fri Nov 11 16:50:22 2011,JavaWarningComposite.java,kscheglov
+Fri Nov 11 16:50:22 2011,NotUiJavaWarningComposite.java,kscheglov
+Fri Nov 11 16:50:22 2011,WarningComposite.java,kscheglov
+Fri Nov 11 16:53:10 2011,NotUiJavaWarningComposite.java,kscheglov
+Tue Nov 15 17:40:15 2011,JavaInfoUtils.java,kscheglov
+Tue Nov 15 17:40:15 2011,JavaInfoUtilsTest.java,kscheglov
+Tue Nov 15 18:10:07 2011,CardLayoutInfo.java,kscheglov
+Tue Nov 15 18:10:07 2011,CardLayoutTest.java,kscheglov
+Tue Nov 15 18:40:55 2011,ParseFactory.java,kscheglov
+Tue Nov 15 18:40:55 2011,ActionTest.java,kscheglov
+Mon Nov 28 19:55:58 2011,ComponentDescriptionHelper.java,kscheglov
+Mon Nov 28 19:55:58 2011,ReflectionUtils.java,kscheglov
+Mon Nov 28 19:55:58 2011,ReflectionUtilsTest.java,kscheglov
+Mon Nov 28 19:55:58 2011,DetailsPageTest.java,kscheglov
+Fri Dec  2 15:15:54 2011,LayoutManagersTest.java,kscheglov
+Fri Dec  2 21:16:20 2011,SwtMethodParameterEvaluator.java,kscheglov
+Fri Dec  2 21:16:20 2011,ControlTest.java,kscheglov

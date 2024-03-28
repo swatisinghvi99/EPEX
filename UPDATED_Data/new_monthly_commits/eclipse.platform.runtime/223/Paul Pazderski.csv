@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Fri Nov 22 21:04:46 2019,Expressions.java,Paul Pazderski
+Fri Nov 22 21:04:46 2019,PlatformPropertyTester.java,Paul Pazderski
+Fri Nov 22 21:04:46 2019,ImplicitJobs.java,Paul Pazderski
+Fri Nov 22 21:04:46 2019,JobManager.java,Paul Pazderski
+Fri Nov 22 21:04:46 2019,ThreadJob.java,Paul Pazderski
+Fri Nov 22 21:04:46 2019,InternalPlatform.java,Paul Pazderski
+Fri Nov 22 21:04:46 2019,PerformanceStatsProcessor.java,Paul Pazderski
+Fri Nov 22 21:04:46 2019,PerformanceStats.java,Paul Pazderski
+Fri Nov 22 21:04:46 2019,AbstractTreeContentProvider.java,Paul Pazderski
+Fri Nov 22 21:04:46 2019,DeepSize.java,Paul Pazderski
+Fri Nov 22 21:04:46 2019,EventTopic.java,Paul Pazderski
+Fri Nov 22 21:04:46 2019,OSGiBundle.java,Paul Pazderski
+Fri Nov 22 21:04:46 2019,MessageFactoryServiceImpl.java,Paul Pazderski
+Fri Nov 22 21:04:46 2019,ResourceBundleHelper.java,Paul Pazderski
+Fri Nov 22 21:04:46 2019,ReadWriteMonitor.java,Paul Pazderski

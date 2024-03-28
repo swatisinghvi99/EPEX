@@ -1,0 +1,251 @@
+date_time,file,committer_name
+Wed Sep 25 11:20:43 2019,plugin.xml,Philippe DUL
+Wed Sep 25 11:20:43 2019,ReportManagerPrefInitializer.java,Philippe DUL
+Wed Sep 25 11:20:43 2019,plugin.xml,Philippe DUL
+Wed Sep 25 11:20:43 2019,plugin.xml,Philippe DUL
+Wed Sep 25 11:20:43 2019,PerspectivePreferencesInitializer.java,Philippe DUL
+Wed Sep 25 11:20:43 2019,plugin.xml,Philippe DUL
+Wed Sep 25 11:20:43 2019,InvalidPreferencesInitializer.java,Philippe DUL
+Wed Sep 25 11:20:43 2019,PlatformTestSuite.java,Philippe DUL
+Wed Sep 25 16:06:00 2019,CapellaAdapterHelper.java,Philippe DUL
+Wed Sep 25 16:06:00 2019,SiriusSelectionHelper.java,Philippe DUL
+Wed Sep 25 16:06:00 2019,MANIFEST.MF,Philippe DUL
+Wed Sep 25 16:06:00 2019,CapellaAdapterHelperTestCase.java,Philippe DUL
+Thu Sep 26 14:00:57 2019,ReplicableElementHandler.java,Philippe DUL
+Thu Sep 26 14:00:57 2019,plugin.properties,Philippe DUL
+Thu Sep 26 14:00:57 2019,plugin.xml,Philippe DUL
+Thu Sep 26 14:00:57 2019,DCON_07_Resolver.java,Philippe DUL
+Thu Sep 26 14:00:57 2019,plugin.xml,Philippe DUL
+Thu Sep 26 14:00:57 2019,DCON_07_RplLinkToRecElement.java,Philippe DUL
+Thu Sep 26 14:00:57 2019,RecRplTestCase.java,Philippe DUL
+Thu Sep 26 14:00:57 2019,UpdateRPL_NoReferenceToRecElements.java,Philippe DUL
+Thu Sep 26 14:00:57 2019,RecRplTestSuite.java,Philippe DUL
+Thu Sep 26 14:00:57 2019,RulesOnDesignTest.melodymodeller,Philippe DUL
+Thu Sep 26 14:00:57 2019,DCONRulesTestSuite.java,Philippe DUL
+Thu Sep 26 14:00:57 2019,Rule_DCON_07.java,Philippe DUL
+Thu Sep 26 14:18:23 2019,ReLauncher.java,Philippe DUL
+Thu Sep 26 14:18:23 2019,ActivitiesLauncher.java,Philippe DUL
+Thu Sep 26 14:18:23 2019,SharedWorkflowActivityParameter.java,Philippe DUL
+Thu Sep 26 15:29:23 2019,UIHeadHandler.java,Philippe DUL
+Thu Sep 26 15:29:23 2019,MANIFEST.MF,Philippe DUL
+Thu Sep 26 15:29:23 2019,plugin.xml,Philippe DUL
+Thu Sep 26 15:29:23 2019,SkeletonMatchPolicy.java,Philippe DUL
+Thu Sep 26 15:29:23 2019,ProjectRecHandler.java,Philippe DUL
+Thu Sep 26 15:29:23 2019,CreateRecWithWholeLibContent.test,Philippe DUL
+Thu Sep 26 15:29:23 2019,ImportLib.ctx,Philippe DUL
+Thu Sep 26 15:29:23 2019,MANIFEST.MF,Philippe DUL
+Thu Sep 26 15:29:23 2019,.project,Philippe DUL
+Thu Sep 26 15:29:23 2019,whole-content-actor.afm,Philippe DUL
+Thu Sep 26 15:29:23 2019,whole-content-actor.aird,Philippe DUL
+Thu Sep 26 15:29:23 2019,whole-content-actor.melodymodeller,Philippe DUL
+Thu Sep 26 15:29:23 2019,RecRplTestCase.java,Philippe DUL
+Thu Sep 26 15:29:23 2019,WholeContent.java,Philippe DUL
+Thu Sep 26 15:29:23 2019,CreateREC_WholeContent.java,Philippe DUL
+Thu Sep 26 15:29:23 2019,RecRplTestSuite.java,Philippe DUL
+Mon Sep 30 11:34:08 2019,CapellaAdapterHelper.java,Philippe DUL
+Mon Sep 30 11:34:08 2019,LocateInCapellaExplorerAction.java,Philippe DUL
+Mon Sep 30 11:34:08 2019,SemanticLocateInCapellaExplorerAction.java,Philippe DUL
+Mon Sep 30 11:34:08 2019,GotoRelatedElementsHandler.java,Philippe DUL
+Mon Sep 30 11:34:08 2019,LocateInCapellaExplorerHandler.java,Philippe DUL
+Mon Sep 30 11:34:08 2019,ShowRelatedElementsHandler.java,Philippe DUL
+Mon Sep 30 11:34:08 2019,NavigationAdvisor.java,Philippe DUL
+Mon Sep 30 11:34:08 2019,CapellaAdapterHelperTestCase.java,Philippe DUL
+Mon Sep 30 11:34:08 2019,.project,Philippe DUL
+Mon Sep 30 11:34:08 2019,NavigableElements.afm,Philippe DUL
+Mon Sep 30 11:34:08 2019,NavigableElements.aird,Philippe DUL
+Mon Sep 30 11:34:08 2019,NavigableElements.melodymodeller,Philippe DUL
+Mon Sep 30 11:34:08 2019,NavigableElementsTest.java,Philippe DUL
+Mon Sep 30 11:34:08 2019,NavigableElements.java,Philippe DUL
+Mon Sep 30 11:34:08 2019,NavigatorUITestSuite.java,Philippe DUL
+Mon Sep 30 15:00:13 2019,PartComponentStyleConfiguration.java,Philippe DUL
+Mon Sep 30 15:00:13 2019,DiagramPartIcon.java,Philippe DUL
+Mon Sep 30 15:00:13 2019,PartIcon.java,Philippe DUL
+Mon Sep 30 20:57:39 2019,CapellaAdapterHelper.java,Philippe DUL
+Mon Sep 30 20:57:39 2019,LocateInCapellaExplorerAction.java,Philippe DUL
+Mon Sep 30 20:57:39 2019,CapellaStatusLineContributionItemProvider.java,Philippe DUL
+Mon Sep 30 20:57:39 2019,CapellaNavigatorLabelProvider.java,Philippe DUL
+Mon Sep 30 20:57:39 2019,CapellaDescriptionPropertySection.java,Philippe DUL
+Mon Sep 30 20:57:39 2019,CapellaDescriptionPropertySection.java,Philippe DUL
+Mon Sep 30 20:57:39 2019,TabbedPropertiesLabelProvider.java,Philippe DUL
+Mon Sep 30 20:57:39 2019,AbstractSection.java,Philippe DUL
+Mon Sep 30 20:57:39 2019,CapellaExtensionsPropertySection.java,Philippe DUL
+Mon Sep 30 20:57:39 2019,CapellaManagementPropertySection.java,Philippe DUL
+Mon Sep 30 20:57:39 2019,SiriusSelectionHelper.java,Philippe DUL
+Mon Sep 30 20:57:39 2019,SemanticBrowserView.java,Philippe DUL
+Mon Sep 30 20:57:39 2019,CapellaAdapterHelperTestCase.java,Philippe DUL
+Thu Oct  3 10:54:02 2019,diagrams-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,diagrams.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,diagrams.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,plugin.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,org.eclipse.core.resources.prefs,Philippe DUL
+Thu Oct  3 10:54:02 2019,build.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.01. Actor-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.02. Constraint-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.02. Constraint.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.03. DecisionFunction-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.03. DecisionFunction.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.10. FunctionOutputPort-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.11. FunctionalChain-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.11. FunctionalChain.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.12. COTSCI-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.13. FunctionalExchange-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.13. FunctionalExchange.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.14. HWCI-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.14. HWCI.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.15. InteractionUse-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.15. InteractionUse.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.16. InterfaceCI-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.16. InterfaceCI.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.17. JoinFunction-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.17. JoinFunction.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.18. LogicalActor-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.18. LogicalActor.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.19. LogicalArchitecture-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.20. LogicalComponent-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.21. LogicalFunction-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.22. MergeFunction-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.22. MergeFunction.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.23. CSCI-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.23. CSCI.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.24. Mission-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.24. Mission.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.25. Mode-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.25. Mode.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.26. NDICI-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.26. NDICI.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.27. OperationalActivity-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.28. OperationalActor-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.29. OperationalAnalysis-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.30. OperationalCapability-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.30. OperationalCapability.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.31. OperationalProcess-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.31. OperationalProcess.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.32. Physical Link-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.32. Physical Link.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.33. PhysicalActor-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.33. PhysicalActor.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.34. Capability-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.35. PhysicalArchitecture-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.36. PhysicalComponent-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.37. PhysicalFunction-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.38. PhysicalPath-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.38. PhysicalPath.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.39. PhysicalPort-toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,18.39. PhysicalPort.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,Capability.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,Capability.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ConfigurationItem.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ConfigurationItem.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,Constraint.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,Constraint.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,Entity.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,Entity.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,FunctionOutputPort.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,FunctionOutputPort.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,FunctionalChain.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,FunctionalChain.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,FunctionalExchange.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,FunctionalExchange.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,InteractionUse.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,InteractionUse.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,LogicalArchitecture.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,LogicalArchitecture.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,LogicalComponent.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,LogicalComponent.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,LogicalFunction.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,LogicalFunction.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,Mission.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,Mission.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,Mode.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,Mode.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,OperationalActivity.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,OperationalActivity.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,OperationalAnalysis.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,OperationalAnalysis.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,OperationalCapability.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,OperationalCapability.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,OperationalProcess.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,OperationalProcess.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,PhysicalArchitecture.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,PhysicalArchitecture.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,PhysicalComponent.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,PhysicalComponent.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,PhysicalFunction.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,PhysicalFunction.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,PhysicalLink.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,PhysicalLink.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,PhysicalPath.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,PhysicalPath.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,PhysicalPort.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,PhysicalPort.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,SystemComponent.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,SystemComponent.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,toc.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,build.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.html,Philippe DUL
+Thu Oct  3 10:54:02 2019,ValidationRules.mediawiki,Philippe DUL
+Thu Oct  3 10:54:02 2019,build.properties,Philippe DUL
+Thu Oct  3 10:54:02 2019,plugin.xml,Philippe DUL
+Thu Oct  3 10:54:02 2019,GenerateDocValidation.java,Philippe DUL
+Thu Oct  3 12:31:35 2019,AbstractTigAction.java,Philippe DUL
+Thu Oct  3 12:31:35 2019,ModelAdaptation.java,Philippe DUL
+Thu Oct  3 12:31:35 2019,IDiagramServices.java,Philippe DUL
+Thu Oct  3 12:31:35 2019,IPlugin.java,Philippe DUL
+Thu Oct  3 12:31:35 2019,ISelectorInPackageExplorer.java,Philippe DUL
+Thu Oct  3 12:31:35 2019,UIUtil.java,Philippe DUL
+Thu Oct  3 12:31:35 2019,API_1.3.x_to_1.4.x.html,Philippe DUL
+Thu Oct  3 12:31:35 2019,API_1.3.x_to_1.4.x.mediawiki,Philippe DUL
+Wed Oct  9 11:37:17 2019,MANIFEST.MF,Philippe DUL
+Wed Oct  9 11:37:17 2019,plugin.xml,Philippe DUL
+Wed Oct  9 11:37:17 2019,MdeCommonUiActivator.java,Philippe DUL
+Wed Oct  9 11:37:17 2019,ExportCSVPreferencePage.java,Philippe DUL
+Wed Oct  9 11:37:17 2019,ExportCSVPreferences.java,Philippe DUL
+Wed Oct  9 11:37:17 2019,IExportCSVPreferences.java,Philippe DUL
+Wed Oct  9 11:37:17 2019,Messages.java,Philippe DUL
+Wed Oct  9 11:37:17 2019,messages.properties,Philippe DUL
+Wed Oct  9 11:37:17 2019,ExportCSVPreferencesTest.java,Philippe DUL

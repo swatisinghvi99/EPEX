@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Fri Oct  5 22:50:46 2007,.classpath,Benjamin Muskalla
+Fri Oct  5 22:50:46 2007,.project,Benjamin Muskalla
+Fri Oct  5 22:50:46 2007,MANIFEST.MF,Benjamin Muskalla
+Fri Oct  5 22:50:46 2007,build.properties,Benjamin Muskalla
+Fri Oct  5 22:50:46 2007,target-install.xml,Benjamin Muskalla
+Fri Oct  5 22:50:46 2007,overview.css,Benjamin Muskalla
+Fri Oct  5 22:50:46 2007,overviewExtensionContent.xml,Benjamin Muskalla
+Fri Oct  5 22:50:46 2007,plugin.xml,Benjamin Muskalla
+Fri Oct  5 22:50:46 2007,IntroPlugin.java,Benjamin Muskalla
+Fri Oct  5 22:50:46 2007,InstallRAPTargetAction.java,Benjamin Muskalla
+Fri Oct  5 22:50:46 2007,InstallRAPTargetHandler.java,Benjamin Muskalla
+Fri Oct  5 22:50:46 2007,InstallTargetDialog.java,Benjamin Muskalla
+Fri Oct  5 22:50:46 2007,IntroMessages.java,Benjamin Muskalla
+Fri Oct  5 22:50:46 2007,RAPTargetDestVariableInitializer.java,Benjamin Muskalla
+Fri Oct  5 22:50:46 2007,TargetProvider.java,Benjamin Muskalla
+Fri Oct  5 22:50:46 2007,copy.ant.xml,Benjamin Muskalla
+Fri Oct  5 22:50:46 2007,messages.properties,Benjamin Muskalla
+Fri Oct  5 22:50:46 2007,rap.target,Benjamin Muskalla

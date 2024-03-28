@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Wed Mar  8 12:55:41 2017,AbstractProposalChooser.java,Adrian Sacchi
+Wed Mar  8 12:55:41 2017,TableProposalChooser.java,Adrian Sacchi
+Wed Mar  8 12:55:41 2017,TreeProposalChooser.java,Adrian Sacchi
+Mon Mar 13 16:35:28 2017,AbstractTable.java,Adrian Sacchi
+Mon Mar 13 16:35:28 2017,ContentAssistFieldTable.java,Adrian Sacchi
+Wed Apr  5 12:49:35 2017,AbstractDesktop.java,Adrian Sacchi
+Wed Apr  5 12:49:35 2017,IDesktop.java,Adrian Sacchi
+Wed Apr  5 12:49:35 2017,IDesktopUIFacade.java,Adrian Sacchi
+Wed Apr  5 12:49:35 2017,VirtualDesktop.java,Adrian Sacchi
+Wed Apr  5 12:49:35 2017,DesktopNotification.java,Adrian Sacchi
+Wed Apr  5 12:49:35 2017,IDesktopNotification.java,Adrian Sacchi
+Wed Apr  5 12:49:35 2017,IDesktopNotificationUIFacade.java,Adrian Sacchi
+Wed Apr  5 12:49:35 2017,DesktopSpec.js,Adrian Sacchi
+Wed Apr  5 12:49:35 2017,JsonObjectFactory.java,Adrian Sacchi
+Wed Apr  5 12:49:35 2017,JsonDesktop.java,Adrian Sacchi
+Wed Apr  5 12:49:35 2017,JsonDesktopNotification.java,Adrian Sacchi
+Wed Apr  5 12:49:35 2017,scout-module.js,Adrian Sacchi
+Wed Apr  5 12:49:35 2017,Desktop.js,Adrian Sacchi
+Wed Apr  5 12:49:35 2017,DesktopAdapter.js,Adrian Sacchi
+Wed Apr  5 12:49:35 2017,DesktopNotification.js,Adrian Sacchi
+Wed Apr  5 12:49:35 2017,DesktopNotificationAdapter.js,Adrian Sacchi
+Wed Apr  5 12:49:35 2017,Notification.js,Adrian Sacchi

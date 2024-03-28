@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Thu Nov 23 19:18:53 2006,ModelEntry.java,Chris Aniszczyk
+Sat Dec  2 14:41:02 2006,PDECoreMessages.java,Chris Aniszczyk
+Sat Dec  2 14:41:02 2006,BundleErrorReporter.java,Chris Aniszczyk
+Sat Dec  2 14:41:02 2006,CompilerFlags.java,Chris Aniszczyk
+Sat Dec  2 14:41:02 2006,PDEMarkerFactory.java,Chris Aniszczyk
+Sat Dec  2 14:41:02 2006,pderesources.properties,Chris Aniszczyk
+Sat Dec  2 14:41:02 2006,ManifestUtils.java,Chris Aniszczyk
+Sat Dec  2 14:41:02 2006,PDEUIMessages.java,Chris Aniszczyk
+Sat Dec  2 14:41:02 2006,pderesources.properties,Chris Aniszczyk
+Sat Dec  2 14:41:02 2006,CompilersConfigurationTab.java,Chris Aniszczyk
+Sat Dec  2 14:41:02 2006,OrganizeManifest.java,Chris Aniszczyk
+Sun Dec  3  3:50:48 2006,ManifestUtils.java,Chris Aniszczyk
+Tue Dec 12  3:38:56 2006,ProductExportOperation.java,Chris Aniszczyk
+Tue Dec 12  3:38:56 2006,ProductExportJob.java,Chris Aniszczyk
+Tue Dec 12  3:38:56 2006,ProductExportWizard.java,Chris Aniszczyk
+Tue Dec 12  3:38:56 2006,ProductExportWizardPage.java,Chris Aniszczyk
+Tue Dec 12 14:41:51 2006,JavaAttributeWizard.java,Chris Aniszczyk
+Tue Dec 12 16:42:37 2006,PDEUIMessages.java,Chris Aniszczyk
+Tue Dec 12 16:42:37 2006,HyperlinkAction.java,Chris Aniszczyk
+Tue Dec 12 16:42:37 2006,pderesources.properties,Chris Aniszczyk
+Tue Dec 12 19:05:24 2006,PluginWorkingSet.java,Chris Aniszczyk
+Fri Dec 15 14:24:57 2006,ManifestUtils.java,Chris Aniszczyk
+Fri Dec 15 22:37:05 2006,AddTargetPluginsWizard.java,Chris Aniszczyk
+Fri Dec 15 22:37:05 2006,DirectorySelectionPage.java,Chris Aniszczyk
+Fri Dec 15 22:37:05 2006,FileSystemProvisionerWizard.java,Chris Aniszczyk
+Fri Dec 15 22:37:05 2006,ProvisionerListSelectionPage.java,Chris Aniszczyk

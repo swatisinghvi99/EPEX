@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Sun Feb 16 17:48:23 2020,ValidTest.java,George Suaridze
+Sun Feb 16 17:48:23 2020,TestCSHyperlinks.xml,George Suaridze
+Sun Feb 16 17:48:23 2020,TestCSHyperlinks_expected.txt,George Suaridze
+Sun Feb 16 17:48:23 2020,plugin.xml,George Suaridze
+Sun Feb 16 17:48:23 2020,cheatSheetContentFileSpec.exsd,George Suaridze
+Sun Feb 16 17:48:23 2020,cheatSheetContentFileSpec.html,George Suaridze
+Sun Feb 16 17:48:23 2020,Messages.java,George Suaridze
+Sun Feb 16 17:48:23 2020,Messages.properties,George Suaridze
+Sun Feb 16 17:48:23 2020,CheatSheetParser.java,George Suaridze
+Sun Feb 16 17:48:23 2020,IParserTags.java,George Suaridze
+Sun Feb 16 17:48:23 2020,CheatSheetHyperlinkActionFactory.java,George Suaridze
+Sun Feb 16 17:48:23 2020,ViewItem.java,George Suaridze

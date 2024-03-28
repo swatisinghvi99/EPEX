@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Fri Sep  8 17:30:52 2017,MANIFEST.MF,Mihaela Memova
+Fri Sep  8 17:30:52 2017,VoiceTests.launch,Mihaela Memova
+Fri Sep  8 17:30:52 2017,pom.xml,Mihaela Memova
+Fri Sep  8 17:30:52 2017,AudioManagerStub.java,Mihaela Memova
+Fri Sep  8 17:30:52 2017,AudioSourceStub.java,Mihaela Memova
+Fri Sep  8 17:30:52 2017,ConsoleStub.java,Mihaela Memova
+Fri Sep  8 17:30:52 2017,HumanLanguageInterpreterStub.java,Mihaela Memova
+Fri Sep  8 17:30:52 2017,KSServiceStub.java,Mihaela Memova
+Fri Sep  8 17:30:52 2017,STTServiceStub.java,Mihaela Memova
+Fri Sep  8 17:30:52 2017,SinkStub.java,Mihaela Memova
+Fri Sep  8 17:30:52 2017,TTSServiceStub.java,Mihaela Memova
+Fri Sep  8 17:30:52 2017,VoiceStub.java,Mihaela Memova
+Fri Sep  8 17:30:52 2017,VoiceManagerTest.java,Mihaela Memova
+Fri Sep  8 17:30:52 2017,InterpretCommandTest.java,Mihaela Memova
+Fri Sep  8 17:30:52 2017,SayCommandTest.java,Mihaela Memova
+Fri Sep  8 17:30:52 2017,VoiceConsoleCommandExtensionTest.java,Mihaela Memova
+Fri Sep  8 17:30:52 2017,VoicesCommandTest.java,Mihaela Memova

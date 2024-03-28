@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Mon Jan 28 23:56:03 2019,BugzillaRestClientTest.java,Natasha Carson
+Mon Jan 28 23:56:03 2019,BugzillaClient.java,Natasha Carson
+Mon Jan 28 23:56:03 2019,BugzillaRepositoryConnector.java,Natasha Carson
+Mon Jan 28 23:56:03 2019,BugzillaAttachmentHandlerTest.java,Natasha Carson
+Mon Jan 28 23:56:03 2019,RepositoryClientManager.java,Natasha Carson
+Mon Jan 28 23:56:03 2019,TaskListIndexCorruptTest.java,Natasha Carson
+Mon Jan 28 23:56:03 2019,DownloadAndOpenTaskAttachmentJob.java,Natasha Carson
+Mon Jan 28 23:56:03 2019,TaskAttachmentWizard.java,Natasha Carson
+Mon Jan 28 23:56:03 2019,TracClientManager.java,Natasha Carson
+Mon Jan 28 23:56:03 2019,TracAttachmentHandlerTest.java,Natasha Carson
+Tue Jan 29  0:14:25 2019,AbstractConfigurationCache.java,Natasha Carson
+Thu Jan 31 22:50:52 2019,ZipFileUtil.java,Natasha Carson
+Thu Jan 31 22:50:52 2019,CommonTestUtil.java,Natasha Carson
+Thu Jan 31 22:50:52 2019,CommonTestUtil.java,Natasha Carson
+Thu Jan 31 22:50:52 2019,WebUtil.java,Natasha Carson

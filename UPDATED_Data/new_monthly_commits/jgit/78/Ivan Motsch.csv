@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Mon Mar  7 16:24:32 2016,EolRepositoryTest.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,EolStreamTypeUtilTest.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,DirCacheCheckoutTest.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,AutoLFInputStreamTest.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,.api_filters,Ivan Motsch
+Mon Mar  7 16:24:32 2016,BlameCommand.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,CheckoutCommand.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,StashApplyCommand.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,StashCreateCommand.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,DirCacheCheckout.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,ConfigConstants.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,CoreConfig.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,NameConflictTreeWalk.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,TreeWalk.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,WorkingTreeIterator.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,WorkingTreeOptions.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,Holder.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,AutoCRLFInputStream.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,AutoCRLFOutputStream.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,AutoLFInputStream.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,AutoLFOutputStream.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,EolCanonicalizingInputStream.java,Ivan Motsch
+Mon Mar  7 16:24:32 2016,EolStreamTypeUtil.java,Ivan Motsch

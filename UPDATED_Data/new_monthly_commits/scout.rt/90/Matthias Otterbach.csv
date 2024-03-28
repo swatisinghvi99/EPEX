@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Thu Jun  8  7:43:33 2017,AbstractStringListConfigProperty.java,Matthias Otterbach
+Thu Jun  8  7:43:33 2017,ApacheHttpTransportFactory.java,Matthias Otterbach
+Thu Jun  8  7:43:33 2017,ConfigurableProxySelector.java,Matthias Otterbach
+Thu Jun  8  7:43:33 2017,ProxyConfigurationProperty.java,Matthias Otterbach
+Thu Jun  8  7:43:33 2017,ProxyIgnoreProperty.java,Matthias Otterbach
+Thu Jun  8  9:27:45 2017,AbstractHttpTransportManager.java,Matthias Otterbach
+Thu Jun  8  9:27:45 2017,ApacheHttpTransportMaxConnectionsPerRouteProperty.java,Matthias Otterbach
+Thu Jun  8  9:27:45 2017,ApacheHttpTransportMaxConnectionsTotalProperty.java,Matthias Otterbach
+Thu Jun  8  9:27:45 2017,DefaultHttpTransportManager.java,Matthias Otterbach
+Thu Jun  8  9:27:45 2017,HttpServiceTunnelTransportConnectionTimeToLiveProperty.java,Matthias Otterbach
+Thu Jun  8  9:27:45 2017,HttpServiceTunnelTransportManager.java,Matthias Otterbach
+Thu Jun  8  9:27:45 2017,HttpServiceTunnelTransportMaxConnectionsPerRouteProperty.java,Matthias Otterbach
+Thu Jun  8  9:27:45 2017,HttpServiceTunnelTransportMaxConnectionsTotalProperty.java,Matthias Otterbach
+Thu Jun  8 11:49:15 2017,ApacheHttpResponse.java,Matthias Otterbach
+Thu Jun  8 14:15:43 2017,RemoteHealthChecker.java,Matthias Otterbach
+Thu Jun  8 14:15:43 2017,ServiceTunnelServletCall.java,Matthias Otterbach
+Thu Jun  8 14:52:43 2017,HttpProxy.java,Matthias Otterbach
+Thu Jun 29 13:48:51 2017,AbstractHttpTransportManager.java,Matthias Otterbach

@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Feb 11 21:57:26 2019,inputCompletion.js,Silenio Quarti
+Tue Feb 12  4:01:35 2019,tooltip.js,Silenio Quarti
+Wed Feb 13 17:33:13 2019,SideMenu.js,Silenio Quarti
+Wed Feb 13 19:19:47 2019,UserSettings.js,Silenio Quarti
+Wed Feb 13 21:13:44 2019,authenticationPlugin.js,Silenio Quarti
+Thu Feb 14 16:37:22 2019,explorer.js,Silenio Quarti
+Thu Feb 14 18:30:19 2019,inputManager.js,Silenio Quarti
+Fri Feb 15  0:35:45 2019,gitRepositoryExplorer.js,Silenio Quarti
+Fri Feb 15  1:07:34 2019,gitRepositoryExplorer.js,Silenio Quarti
+Wed Feb 27  5:06:58 2019,RunBar.js,Silenio Quarti
+Mon Mar  4 21:23:34 2019,fileUtil.js,Silenio Quarti
+Mon Mar  4 23:25:37 2019,fileUtil.js,Silenio Quarti
+Thu Mar  7  3:31:55 2019,gitmessages.js,Silenio Quarti
+Thu Mar  7  3:31:55 2019,gitBranchList.js,Silenio Quarti
+Thu Mar  7  3:31:55 2019,gitChangeList.js,Silenio Quarti
+Thu Mar  7  3:31:55 2019,gitCommitList.js,Silenio Quarti
+Thu Mar  7  3:31:55 2019,gitConfigList.js,Silenio Quarti
+Thu Mar  7  3:31:55 2019,gitRepoList.js,Silenio Quarti
+Thu Mar  7  3:31:55 2019,operationsTable.js,Silenio Quarti
+Thu Mar  7  4:02:20 2019,explorer.js,Silenio Quarti
+Thu Mar  7 15:17:58 2019,explorer.js,Silenio Quarti

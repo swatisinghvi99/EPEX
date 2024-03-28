@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Thu Jul 14 11:36:19 2011,ClientImport.java,Szymon Brandys
+Mon Jul 25 12:05:51 2011,GitCloneHandlerV1.java,Szymon Brandys
+Thu Jul 28 10:40:51 2011,GitRemoteHandlerV1.java,Szymon Brandys
+Thu Jul 28 10:40:51 2011,GitPushTest.java,Szymon Brandys
+Thu Jul 28 10:40:51 2011,GitTest.java,Szymon Brandys
+Thu Jul 28 11:58:49 2011,GitConstants.java,Szymon Brandys
+Thu Jul 28 11:58:49 2011,GitRemoteHandlerV1.java,Szymon Brandys
+Wed Aug  3 15:32:48 2011,FormOpenIdAuthenticationService.java,Szymon Brandys
+Wed Aug  3 16:29:40 2011,htmlAuth.js,Szymon Brandys
+Thu Aug  4 11:30:01 2011,FormOpenIdAuthenticationService.java,Szymon Brandys
+Thu Aug  4 11:30:01 2011,htmlAuth.js,Szymon Brandys

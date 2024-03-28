@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Thu Mar 19 18:50:57 2020,Gopkg.lock,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,Gopkg.toml,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,handlers.go,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,model_types.go,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,cfg.go,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,doc.go,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,doc.go,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,kubernetes_client_provider.go,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,compile.sh,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,command_resolver.go,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,command_resolver_test.go,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,exec-manager-provider.go,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,kubernetes_exec_manager.go,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,namespace_provider.go,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,kubernetes_filter.go,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,kubernetes_filter_test.go,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,main.go,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,shell_detector.go,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,shell_detector_test.go,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,README.md,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,jsonrpc_impl.go,Oleksandr Andriienko
+Thu Mar 19 18:50:57 2020,tunnel.go,Oleksandr Andriienko
+Tue Apr  7  8:33:22 2020,const.ts,Oleksandr Andriienko
+Tue Apr  7  8:33:22 2020,index.ts,Oleksandr Andriienko
+Tue Apr  7  8:33:22 2020,terminal-protocol.ts,Oleksandr Andriienko
+Thu Apr  9  7:17:52 2020,index.ts,Oleksandr Andriienko

@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Wed Mar 14 14:23:05 2018,gulpfile.js,Henning Treu
+Wed Mar 14 14:23:05 2018,setup.test.js,Henning Treu
+Wed Mar 14 14:23:05 2018,controllers.js,Henning Treu
+Wed Mar 14 14:23:05 2018,repositories-module.js,Henning Treu
+Wed Mar 14 14:23:05 2018,repositories-services.js,Henning Treu
+Wed Mar 14 14:23:05 2018,services.repositories.js,Henning Treu
+Thu Mar 15  7:36:04 2018,org.eclipse.smarthome.io.rest.core.test.launch,Henning Treu
+Thu Mar 15  7:36:04 2018,EnrichedThingDTOMapperTest.java,Henning Treu
+Thu Mar 15  7:36:04 2018,thing-types.xml,Henning Treu
+Thu Mar 15  7:36:04 2018,MANIFEST.MF,Henning Treu
+Thu Mar 15  7:36:04 2018,MagicDiscoveryService.java,Henning Treu
+Thu Mar 15  7:36:04 2018,components.css,Henning Treu
+Thu Mar 15  7:36:04 2018,include.inbox.html,Henning Treu
+Thu Mar 15  7:36:04 2018,configuration.thingproperties.html,Henning Treu
+Tue Mar 20 13:40:54 2018,QuantityTypeTest.java,Henning Treu
+Tue Mar 20 13:40:54 2018,QuantityType.java,Henning Treu
+Tue Mar 20 17:23:18 2018,QuantityTypeTest.java,Henning Treu
+Tue Mar 20 17:23:18 2018,QuantityType.java,Henning Treu
+Thu Mar 22 12:15:02 2018,thing-types.xml,Henning Treu
+Thu Mar 22 12:15:02 2018,README.md,Henning Treu
+Thu Mar 22 12:15:02 2018,WeatherUndergroundHandler.java,Henning Treu
+Thu Mar 22 12:15:02 2018,README.md,Henning Treu
+Sat Mar 24 18:59:48 2018,QuantityTypeTest.java,Henning Treu
+Sat Mar 24 18:59:48 2018,QuantityType.java,Henning Treu
+Wed Mar 28  6:18:27 2018,ConfigMapper.java,Henning Treu

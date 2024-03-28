@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Sat Jul  6 19:45:19 2019,RevWalk.java,Thomas Wolf
+Mon Jul 15 11:26:05 2019,SshTestGitServer.java,Thomas Wolf
+Mon Jul 15 11:26:05 2019,MANIFEST.MF,Thomas Wolf
+Mon Jul 15 11:26:05 2019,ApacheSshTest.java,Thomas Wolf
+Mon Jul 15 11:26:05 2019,SshdText.properties,Thomas Wolf
+Mon Jul 15 11:26:05 2019,JGitClientSession.java,Thomas Wolf
+Mon Jul 15 11:26:05 2019,SshdText.java,Thomas Wolf
+Mon Jul 15 11:26:06 2019,JGitClientSession.java,Thomas Wolf
+Mon Jul 15 11:26:34 2019,SshTestGitServer.java,Thomas Wolf
+Thu Jul 25  6:12:08 2019,CLIRepositoryTestCase.java,Thomas Wolf
+Thu Jul 25  6:12:08 2019,ArchiveTest.java,Thomas Wolf
+Thu Jul 25  6:12:08 2019,CloneTest.java,Thomas Wolf
+Thu Jul 25  6:12:08 2019,LsRemoteTest.java,Thomas Wolf

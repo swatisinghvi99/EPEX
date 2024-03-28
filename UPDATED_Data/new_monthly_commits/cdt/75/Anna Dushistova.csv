@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Tue Sep  2 21:38:50 2008,TerminalViewTab.java,Anna Dushistova
+Tue Sep 16  8:01:03 2008,LaunchTerminalCommandHandler.java,Anna Dushistova
+Tue Sep 16  8:01:03 2008,RSETerminalConnectionThread.java,Anna Dushistova
+Thu Sep 25  9:13:52 2008,MANIFEST.MF,Anna Dushistova
+Thu Sep 25  9:13:52 2008,Messages.java,Anna Dushistova
+Thu Sep 25  9:13:52 2008,RemoteRunLaunchDelegate.java,Anna Dushistova
+Thu Sep 25  9:13:52 2008,messages.properties,Anna Dushistova
+Thu Sep 25  9:13:52 2008,feature.xml,Anna Dushistova
+Thu Sep 25 19:30:25 2008,Messages.java,Anna Dushistova
+Thu Sep 25 19:30:25 2008,RemoteRunLaunchDelegate.java,Anna Dushistova
+Thu Sep 25 19:30:25 2008,messages.properties,Anna Dushistova
+Fri Sep 26 20:38:07 2008,TelnetShellService.java,Anna Dushistova

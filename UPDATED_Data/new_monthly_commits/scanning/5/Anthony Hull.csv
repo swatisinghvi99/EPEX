@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Tue Jul  4 17:34:38 2017,AbstractGenerator.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,AbstractPosition.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,CompoundModel.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,DummyMalcolmDevice.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,GridIterator.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,StaticGenerator.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,SubscanModerator.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,NexusScanFileManager.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,ScanShapeTest.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,AbstractMalcolmScanTest.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,BasicScanTest.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,MalcolmGridScanTest.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,MalcolmStaticScanTest.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,MandelbrotAcquireTest.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,NexusAssert.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,NexusTest.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,SolsticeScanMonitorTest.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,Suite.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,SubscanModeratorTest.java,Anthony Hull
+Tue Jul  4 17:34:38 2017,ScanProcessTest.java,Anthony Hull
+Mon Jul 10 12:57:51 2017,DeviceRunner.java,Anthony Hull

@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Thu Feb  2 13:53:05 2017,NavigableSet.eea,Loïc Prieur-Drevon
+Thu Feb  2 13:53:05 2017,SortedSet.eea,Loïc Prieur-Drevon
+Thu Feb  2 13:53:05 2017,MANIFEST.MF,Loïc Prieur-Drevon
+Thu Feb  2 13:53:05 2017,ContinuousRangeCondition.java,Loïc Prieur-Drevon
+Thu Feb  2 13:53:05 2017,DiscreteRangeCondition.java,Loïc Prieur-Drevon
+Thu Feb  2 13:53:05 2017,package-info.java,Loïc Prieur-Drevon
+Thu Feb  2 13:53:05 2017,RangeCondition.java,Loïc Prieur-Drevon
+Thu Feb  2 13:53:05 2017,package-info.java,Loïc Prieur-Drevon
+Thu Feb  2 13:56:40 2017,MANIFEST.MF,Loïc Prieur-Drevon
+Thu Feb  2 13:56:40 2017,ContinuousRangeConditionTest.java,Loïc Prieur-Drevon
+Thu Feb  2 13:56:40 2017,DiscreteRangeConditionTest.java,Loïc Prieur-Drevon
+Thu Feb  2 13:56:40 2017,RangeConditionTest.java,Loïc Prieur-Drevon
+Thu Feb  2 14:04:04 2017,MANIFEST.MF,Loïc Prieur-Drevon
+Thu Feb  2 14:04:04 2017,HTCoreNodeTest.java,Loïc Prieur-Drevon
+Thu Feb  2 14:04:04 2017,HTNodeTest.java,Loïc Prieur-Drevon
+Thu Feb  2 14:04:04 2017,AbstractOverlappingHistoryTreeTestBase.java,Loïc Prieur-Drevon
+Thu Feb  2 14:04:04 2017,OverlappingHistoryTreeTest.java,Loïc Prieur-Drevon
+Thu Feb  2 14:04:04 2017,OverlappingHistoryTreeStub.java,Loïc Prieur-Drevon
+Thu Feb  2 14:04:04 2017,package-info.java,Loïc Prieur-Drevon
+Thu Feb  2 14:04:04 2017,MANIFEST.MF,Loïc Prieur-Drevon
+Thu Feb  2 14:04:04 2017,AbstractHistoryTree.java,Loïc Prieur-Drevon
+Thu Feb  2 14:04:04 2017,AbstractOverlappingHistoryTree.java,Loïc Prieur-Drevon
+Thu Feb  2 14:04:04 2017,OverlappingHistoryTree.java,Loïc Prieur-Drevon
+Thu Feb  2 14:04:04 2017,OverlappingNode.java,Loïc Prieur-Drevon
+Thu Feb  2 14:04:04 2017,package-info.java,Loïc Prieur-Drevon
+Tue Feb 14 17:30:27 2017,CpuUsageComposite.java,Loïc Prieur-Drevon

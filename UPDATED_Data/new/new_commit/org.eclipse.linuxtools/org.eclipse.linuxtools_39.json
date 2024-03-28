@@ -1,0 +1,357 @@
+[
+    [
+        "Roland Grunberg",
+        "java",
+        401
+    ],
+    [
+        "Roland Grunberg",
+        "MF",
+        35
+    ],
+    [
+        "Roland Grunberg",
+        "project",
+        10
+    ],
+    [
+        "Roland Grunberg",
+        "properties",
+        6
+    ],
+    [
+        "Roland Grunberg",
+        "xml",
+        16
+    ],
+    [
+        "Roland Grunberg",
+        "exsd",
+        2
+    ],
+    [
+        "Roland Grunberg",
+        "patch",
+        1
+    ],
+    [
+        "Patrick Tasse",
+        "java",
+        17
+    ],
+    [
+        "Francois Chouinard",
+        "java",
+        899
+    ],
+    [
+        "Francois Chouinard",
+        "gitignore",
+        20
+    ],
+    [
+        "Francois Chouinard",
+        "prefs",
+        14
+    ],
+    [
+        "Francois Chouinard",
+        "MF",
+        38
+    ],
+    [
+        "Francois Chouinard",
+        "html",
+        14
+    ],
+    [
+        "Francois Chouinard",
+        "properties",
+        44
+    ],
+    [
+        "Francois Chouinard",
+        "xml",
+        44
+    ],
+    [
+        "Francois Chouinard",
+        "project",
+        15
+    ],
+    [
+        "Francois Chouinard",
+        "classpath",
+        13
+    ],
+    [
+        "Francois Chouinard",
+        "unknown",
+        9
+    ],
+    [
+        "Francois Chouinard",
+        "options",
+        4
+    ],
+    [
+        "Francois Chouinard",
+        "inf",
+        1
+    ],
+    [
+        "Francois Chouinard",
+        "sh",
+        3
+    ],
+    [
+        "Francois Chouinard",
+        "g",
+        2
+    ],
+    [
+        "Francois Chouinard",
+        "exsd",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        61
+    ],
+    [
+        "Alexander Kurtakov",
+        "xml",
+        18
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        633
+    ],
+    [
+        "Alexander Kurtakov",
+        "prefs",
+        3
+    ],
+    [
+        "Alexander Kurtakov",
+        "properties",
+        3
+    ],
+    [
+        "Alexander Kurtakov",
+        "project",
+        1
+    ],
+    [
+        "Severin Gehwolf",
+        "java",
+        5
+    ],
+    [
+        "Daniel Henrique Barboza",
+        "properties",
+        1
+    ],
+    [
+        "Daniel Henrique Barboza",
+        "xml",
+        2
+    ],
+    [
+        "Daniel Henrique Barboza",
+        "java",
+        24
+    ],
+    [
+        "Daniel Henrique Barboza",
+        "project",
+        2
+    ],
+    [
+        "Daniel Henrique Barboza",
+        "MF",
+        2
+    ],
+    [
+        "Xavier Raynaud",
+        "java",
+        35
+    ],
+    [
+        "Bernd Hufmann",
+        "java",
+        278
+    ],
+    [
+        "Bernd Hufmann",
+        "cfg",
+        4
+    ],
+    [
+        "Bernd Hufmann",
+        "properties",
+        7
+    ],
+    [
+        "Bernd Hufmann",
+        "xml",
+        4
+    ],
+    [
+        "Bernd Hufmann",
+        "MF",
+        4
+    ],
+    [
+        "Bernd Hufmann",
+        "classpath",
+        1
+    ],
+    [
+        "Sami Wagiaalla",
+        "java",
+        39
+    ],
+    [
+        "Sami Wagiaalla",
+        "MF",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "gitignore",
+        7
+    ],
+    [
+        "Jeff Johnston",
+        "project",
+        6
+    ],
+    [
+        "Jeff Johnston",
+        "unknown",
+        20
+    ],
+    [
+        "Jeff Johnston",
+        "properties",
+        30
+    ],
+    [
+        "Jeff Johnston",
+        "html",
+        20
+    ],
+    [
+        "Jeff Johnston",
+        "xml",
+        24
+    ],
+    [
+        "Jeff Johnston",
+        "inf",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "classpath",
+        5
+    ],
+    [
+        "Jeff Johnston",
+        "prefs",
+        6
+    ],
+    [
+        "Jeff Johnston",
+        "MF",
+        5
+    ],
+    [
+        "Jeff Johnston",
+        "java",
+        374
+    ],
+    [
+        "Jeff Johnston",
+        "css",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "xsl",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "ini",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "am",
+        4
+    ],
+    [
+        "Jeff Johnston",
+        "ac",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "c",
+        3
+    ],
+    [
+        "Jeff Johnston",
+        "h",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "src",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "top",
+        4
+    ],
+    [
+        "Jeff Johnston",
+        "cpp",
+        1
+    ],
+    [
+        "Alexandre Montplaisir",
+        "java",
+        92
+    ],
+    [
+        "Alexandre Montplaisir",
+        "MF",
+        4
+    ],
+    [
+        "Alexandre Montplaisir",
+        "gitignore",
+        1
+    ],
+    [
+        "Matthew Khouzam",
+        "java",
+        15
+    ],
+    [
+        "Otavio Pontes",
+        "java",
+        1
+    ],
+    [
+        "Andrew Overholt",
+        "java",
+        1
+    ]
+]

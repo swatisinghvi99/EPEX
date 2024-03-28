@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Fri Jul 17 22:43:38 2020,plugin.xml,Snjezana Peco
+Fri Jul 17 22:43:38 2020,IConstants.java,Snjezana Peco
+Fri Jul 17 22:43:38 2020,JavaCodeActionKind.java,Snjezana Peco
+Fri Jul 17 22:43:38 2020,BodyUpdater.java,Snjezana Peco
+Fri Jul 17 22:43:38 2020,ChangeMethodSignatureRefactoringContribution.java,Snjezana Peco
+Fri Jul 17 22:43:38 2020,ChangeSignatureProcessor.java,Snjezana Peco
+Fri Jul 17 22:43:38 2020,ExceptionInfo.java,Snjezana Peco
+Fri Jul 17 22:43:38 2020,IDefaultValueAdvisor.java,Snjezana Peco
+Fri Jul 17 22:43:38 2020,ReturnTypeInfo.java,Snjezana Peco
+Fri Jul 17 22:43:38 2020,StubTypeContext.java,Snjezana Peco
+Fri Jul 17 22:43:38 2020,TypeContextChecker.java,Snjezana Peco
+Fri Jul 17 22:43:38 2020,IntroduceParameterRefactoring.java,Snjezana Peco
+Fri Jul 17 22:43:38 2020,RefactorProcessor.java,Snjezana Peco
+Fri Jul 17 22:43:38 2020,GetRefactorEditHandler.java,Snjezana Peco
+Fri Jul 17 22:43:38 2020,ClientPreferences.java,Snjezana Peco
+Fri Jul 17 22:43:38 2020,RefactorProposalUtility.java,Snjezana Peco
+Fri Jul 17 22:43:38 2020,AssignToVariableRefactorTest.java,Snjezana Peco
+Fri Jul 17 22:43:38 2020,IntroduceParameterRefactorTest.java,Snjezana Peco
+Fri Jul 17 22:43:38 2020,MissingEnumQuickFixTest.java,Snjezana Peco
+Mon Jul 20 16:35:35 2020,CompletionProposalReplacementProvider.java,Snjezana Peco
+Mon Jul 20 16:35:35 2020,CompletionHandlerTest.java,Snjezana Peco
+Tue Jul 21 22:18:04 2020,GradlePreferenceChangeListener.java,Snjezana Peco
+Tue Jul 21 22:18:04 2020,GradleProjectImporter.java,Snjezana Peco
+Tue Jul 21 22:18:04 2020,Preferences.java,Snjezana Peco
+Tue Jul 21 22:18:04 2020,GradleProjectImporterTest.java,Snjezana Peco

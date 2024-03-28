@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Mon Mar  1  6:13:25 2021,pom.xml,Sonja
+Mon Mar  1  6:13:25 2021,JsonDatastoreMessageTest.java,Sonja
+Mon Mar  1  6:13:25 2021,JsonKapuaDataMessageTest.java,Sonja
+Mon Mar  1  6:13:25 2021,JsonMessageListResultTest.java,Sonja
+Mon Mar  1  6:13:25 2021,JsonMessageQueryTest.java,Sonja
+Mon Mar  1  6:14:19 2021,pom.xml,Sonja
+Mon Mar  1  6:14:19 2021,JaxbContextResolverTest.java,Sonja
+Mon Mar  1  6:14:19 2021,RestApiJAXBContextProviderTest.java,Sonja
+Mon Mar  1  6:14:19 2021,RestApiListenerTest.java,Sonja
+Mon Mar  1  6:14:19 2021,RestApisApplicationTest.java,Sonja

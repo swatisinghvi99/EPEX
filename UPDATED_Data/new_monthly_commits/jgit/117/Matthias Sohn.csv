@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Wed May 29 21:41:43 2019,FileSnapshotTest.java,Matthias Sohn
+Wed May 29 21:41:45 2019,FileSnapshotTest.java,Matthias Sohn
+Wed May 29 21:41:45 2019,FileSnapshot.java,Matthias Sohn
+Wed May 29 21:41:45 2019,FileSnapshotTest.java,Matthias Sohn
+Wed May 29 21:41:46 2019,GC.java,Matthias Sohn
+Fri May 31  0:40:59 2019,FileUtilsTest.java,Matthias Sohn
+Tue Jun  4 16:15:17 2019,.api_filters,Matthias Sohn
+Tue Jun  4 16:15:17 2019,FileSnapshot.java,Matthias Sohn
+Tue Jun  4 16:15:17 2019,GC.java,Matthias Sohn
+Tue Jun  4 16:15:17 2019,ObjectDirectoryPackParser.java,Matthias Sohn
+Tue Jun  4 16:15:17 2019,PackInserter.java,Matthias Sohn
+Tue Jun  4 16:15:17 2019,PackConfig.java,Matthias Sohn
+Tue Jun  4 16:15:17 2019,PackFileSnapshotTest.java,Matthias Sohn
+Tue Jun  4 16:15:17 2019,FileSnapshot.java,Matthias Sohn
+Tue Jun  4 16:15:17 2019,PackFile.java,Matthias Sohn
+Tue Jun  4 16:15:17 2019,PackFileSnapshot.java,Matthias Sohn
+Tue Jun  4 16:15:17 2019,PackFile.java,Matthias Sohn
+Sun Jun  9 10:27:18 2019,JGitText.properties,Matthias Sohn
+Sun Jun  9 10:27:18 2019,JGitText.java,Matthias Sohn
+Sun Jun  9 10:27:18 2019,NetscapeCookieFile.java,Matthias Sohn
+Tue Jun 18  0:22:42 2019,GitDateFormatterTest.java,Matthias Sohn
+Wed Jun 19  8:43:00 2019,MANIFEST.MF,Matthias Sohn
+Wed Jun 19  8:43:00 2019,pom.xml,Matthias Sohn
+Wed Jun 19  8:43:00 2019,ArchiveCommandTest.java,Matthias Sohn
+Wed Jun 19  8:43:00 2019,ArchiveCommand.java,Matthias Sohn

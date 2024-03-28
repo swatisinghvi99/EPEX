@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Mon Sep 10 10:59:33 2018,AutoUpdateManagerTest.java,Kai Kreuzer
+Mon Sep 10 10:59:33 2018,AutoUpdateManager.java,Kai Kreuzer
+Tue Sep 11 17:47:59 2018,PersistenceManager.java,Kai Kreuzer
+Tue Sep 11 17:47:59 2018,PersistenceManagerImpl.java,Kai Kreuzer
+Tue Sep 11 17:47:59 2018,demo.items,Kai Kreuzer
+Tue Sep 11 17:47:59 2018,mapdb.persist,Kai Kreuzer
+Tue Sep 11 17:47:59 2018,SmartHome-Runtime.launch,Kai Kreuzer
+Wed Sep 12 14:39:05 2018,AutoUpdateManager.java,Kai Kreuzer
+Wed Sep 19  8:50:15 2018,UnitUtilsTest.java,Kai Kreuzer
+Wed Sep 19  8:50:15 2018,UnitUtils.java,Kai Kreuzer
+Thu Sep 20 11:46:13 2018,UnitUtilsTest.java,Kai Kreuzer
+Tue Sep 25  4:35:25 2018,WebClientFactoryTest.java,Kai Kreuzer
+Tue Sep 25  4:35:25 2018,MANIFEST.MF,Kai Kreuzer
+Tue Sep 25  4:35:25 2018,HttpClientFactory.java,Kai Kreuzer
+Tue Sep 25  4:35:25 2018,WebSocketFactory.java,Kai Kreuzer
+Tue Sep 25  4:35:25 2018,WebClientFactoryImpl.java,Kai Kreuzer
+Tue Sep 25  4:35:25 2018,dependencies.md,Kai Kreuzer
+Tue Sep 25  4:35:25 2018,feature.xml,Kai Kreuzer
+Wed Sep 26  5:26:13 2018,TradfriDiscoveryService.java,Kai Kreuzer

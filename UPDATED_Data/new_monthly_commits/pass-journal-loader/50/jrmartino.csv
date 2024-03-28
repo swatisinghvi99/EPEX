@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Fri May 20 13:02:36 2022,README.md,jrmartino
+Fri May 20 13:02:36 2022,pom.xml,jrmartino
+Fri May 20 13:02:36 2022,DepositIT.java,jrmartino
+Fri May 20 13:02:36 2022,JarRunner.java,jrmartino
+Fri May 20 13:02:36 2022,docker-compose.yml,jrmartino
+Fri May 20 13:02:36 2022,logback-test.xml,jrmartino
+Fri May 20 13:02:36 2022,pom.xml,jrmartino
+Fri May 20 13:02:36 2022,BatchJournalFinder.java,jrmartino
+Fri May 20 13:02:36 2022,JournalFinder.java,jrmartino
+Fri May 20 13:02:36 2022,LoaderEngine.java,jrmartino
+Fri May 20 13:02:36 2022,LogUtil.java,jrmartino
+Fri May 20 13:02:36 2022,Main.java,jrmartino
+Fri May 20 13:02:36 2022,MedlineReader.java,jrmartino
+Fri May 20 13:02:36 2022,NihTypeAReader.java,jrmartino
+Fri May 20 13:02:36 2022,logback.xml,jrmartino
+Fri May 20 13:02:36 2022,BatchJournalFinderTest.java,jrmartino
+Fri May 20 13:02:36 2022,LoaderEngineTest.java,jrmartino
+Fri May 20 13:02:36 2022,MedlineReaderTest.java,jrmartino
+Fri May 20 13:02:36 2022,NihTypeAReaderTest.java,jrmartino
+Fri May 20 13:02:36 2022,pom.xml,jrmartino

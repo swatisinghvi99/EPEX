@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Wed Dec 12  9:25:23 2007,ASTModelBridgeTests.java,Jerome Lanneluc
+Wed Dec 12 10:42:43 2007,TypeHierarchyTests.java,Jerome Lanneluc
+Wed Dec 12 11:41:56 2007,IJavaProject.java,Jerome Lanneluc
+Thu Dec 13 12:05:46 2007,IJavaProject.java,Jerome Lanneluc
+Thu Dec 13 12:08:08 2007,IMemberValuePair.java,Jerome Lanneluc
+Thu Dec 13 12:10:45 2007,IMethod.java,Jerome Lanneluc
+Thu Dec 13 16:34:54 2007,IMemberValuePair.java,Jerome Lanneluc
+Mon Dec 17 11:08:07 2007,ExternalJarDeltaTests.java,Jerome Lanneluc
+Mon Dec 17 11:08:07 2007,JavaProjectTests.java,Jerome Lanneluc
+Mon Dec 17 11:08:07 2007,buildnotes_jdt-core.html,Jerome Lanneluc
+Mon Dec 17 11:08:07 2007,ChangeClasspathOperation.java,Jerome Lanneluc
+Mon Dec 17 11:08:07 2007,ClasspathChange.java,Jerome Lanneluc
+Mon Dec 17 11:08:07 2007,DeltaProcessor.java,Jerome Lanneluc
+Mon Dec 17 17:36:46 2007,TypeResolveTests.java,Jerome Lanneluc
+Mon Dec 17 17:36:46 2007,buildnotes_jdt-core.html,Jerome Lanneluc
+Mon Dec 17 17:36:46 2007,BinaryTypeConverter.java,Jerome Lanneluc
+Tue Dec 18 16:32:55 2007,AbstractJavaModelTests.java,Jerome Lanneluc
+Tue Dec 18 16:32:55 2007,ExclusionPatternsTests.java,Jerome Lanneluc
+Tue Dec 18 16:32:55 2007,ExternalJarDeltaTests.java,Jerome Lanneluc
+Tue Dec 18 16:32:55 2007,InclusionPatternsTests.java,Jerome Lanneluc
+Tue Dec 18 16:32:55 2007,RootManipulationsTests.java,Jerome Lanneluc

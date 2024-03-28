@@ -1,0 +1,127 @@
+[
+    [
+        "Stefan Bischof",
+        "java",
+        25
+    ],
+    [
+        "Stefan Bischof",
+        "genmodel",
+        1
+    ],
+    [
+        "Tim Ward",
+        "java",
+        116
+    ],
+    [
+        "Tim Ward",
+        "xml",
+        14
+    ],
+    [
+        "Tim Ward",
+        "yml",
+        2
+    ],
+    [
+        "Tim Ward",
+        "editorconfig",
+        2
+    ],
+    [
+        "Tim Ward",
+        "json",
+        14
+    ],
+    [
+        "Tim Ward",
+        "jar",
+        8
+    ],
+    [
+        "Tim Ward",
+        "bundle",
+        4
+    ],
+    [
+        "Tim Ward",
+        "md",
+        3
+    ],
+    [
+        "Tim Ward",
+        "feature",
+        3
+    ],
+    [
+        "Tim Ward",
+        "bnd",
+        1
+    ],
+    [
+        "Tim Ward",
+        "bndrun",
+        2
+    ],
+    [
+        "Guido Grune",
+        "java",
+        1
+    ],
+    [
+        "J\u00fcrgen Albert",
+        "java",
+        25
+    ],
+    [
+        "J\u00fcrgen Albert",
+        "ecore",
+        2
+    ],
+    [
+        "J\u00fcrgen Albert",
+        "genmodel",
+        1
+    ],
+    [
+        "Thomas Calmant",
+        "xml",
+        5
+    ],
+    [
+        "Thomas Calmant",
+        "java",
+        60
+    ],
+    [
+        "Thomas Calmant",
+        "md",
+        2
+    ],
+    [
+        "Thomas Calmant",
+        "bndrun",
+        2
+    ],
+    [
+        "Thomas Calmant",
+        "json",
+        1
+    ],
+    [
+        "Juergen Albert",
+        "editorconfig",
+        1
+    ],
+    [
+        "Juergen Albert",
+        "gitignore",
+        1
+    ],
+    [
+        "Juergen Albert",
+        "java",
+        24
+    ]
+]

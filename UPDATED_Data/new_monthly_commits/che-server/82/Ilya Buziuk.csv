@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Mon Nov 14 11:53:46 2022,pom.xml,Ilya Buziuk
+Mon Nov 14 11:53:46 2022,WsMasterModule.java,Ilya Buziuk
+Mon Nov 14 11:53:46 2022,persistence.xml,Ilya Buziuk
+Mon Nov 14 11:53:46 2022,multiuser.properties,Ilya Buziuk
+Mon Nov 14 11:53:46 2022,OrganizationApiModule.java,Ilya Buziuk
+Mon Nov 14 11:53:46 2022,PermissionsModule.java,Ilya Buziuk
+Mon Nov 14 11:53:46 2022,ResourceModule.java,Ilya Buziuk
+Mon Nov 14 11:53:46 2022,MultiUserWorkspaceActivityModule.java,Ilya Buziuk
+Mon Nov 14 11:53:46 2022,KeycloakModule.java,Ilya Buziuk
+Tue Nov 22  8:32:32 2022,UserDevfilePermissionsFilterTest.java,Ilya Buziuk
+Tue Nov 22  8:32:32 2022,DevfileService.java,Ilya Buziuk
+Tue Nov 22  8:32:32 2022,DevfileServiceLinksInjectorTest.java,Ilya Buziuk
+Tue Nov 22  8:32:32 2022,DevfileServiceTest.java,Ilya Buziuk
+Tue Nov 22  8:32:32 2022,devfile.json,Ilya Buziuk

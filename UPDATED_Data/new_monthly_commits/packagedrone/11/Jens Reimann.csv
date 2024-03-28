@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Mon Sep  5 14:15:20 2016,EmptyWriterTest.java,Jens Reimann
+Mon Sep  5 14:15:20 2016,RpmBuilder.java,Jens Reimann
+Tue Sep  6 12:47:58 2016,BuilderContext.java,Jens Reimann
+Tue Sep  6 12:47:58 2016,Defaults.java,Jens Reimann
+Tue Sep  6 12:47:58 2016,FileInformationProvider.java,Jens Reimann
+Tue Sep  6 12:47:58 2016,ProviderRule.java,Jens Reimann
+Tue Sep  6 12:47:58 2016,RpmBuilder.java,Jens Reimann
+Thu Sep  8 12:56:48 2016,RepositoryCreator.java,Jens Reimann

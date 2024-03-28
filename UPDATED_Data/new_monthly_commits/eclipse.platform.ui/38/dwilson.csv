@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Jun  7 19:54:51 2004,RegistryManager.java,dwilson
+Mon Jun  7 19:54:51 2004,ViewDescriptor.java,dwilson
+Mon Jun  7 19:55:22 2004,UiTestSuite.java,dwilson
+Mon Jun  7 19:55:22 2004,DynamicUtils.java,dwilson
+Mon Jun  7 19:55:22 2004,PerspectiveTests.java,dwilson
+Mon Jun  7 19:55:22 2004,TestInstallUtil.java,dwilson
+Mon Jun  7 19:55:22 2004,ViewTests.java,dwilson
+Mon Jun  7 19:55:22 2004,plugin.xml,dwilson
+Mon Jun  7 19:55:22 2004,plugin.xml,dwilson
+Mon Jun  7 20:15:48 2004,UiTestSuite.java,dwilson
+Mon Jun  7 20:30:00 2004,WorkbenchPlugin.java,dwilson
+Mon Jun  7 20:30:00 2004,PerspectiveRegistry.java,dwilson
+Mon Jun  7 20:30:00 2004,ViewRegistry.java,dwilson
+Wed Jun 16 23:44:10 2004,Messages.properties,dwilson
+Wed Jun 16 23:44:10 2004,ProblemView.java,dwilson
+Thu Jun 17  2:11:13 2004,WorkbenchCommandSupport.java,dwilson
+Thu Jun 17  2:11:13 2004,WorkbenchContextSupport.java,dwilson
+Thu Jun 17  2:12:37 2004,TableViewer.java,dwilson
+Thu Jun 17  2:12:37 2004,CleanDialog.java,dwilson
+Thu Jun 17  2:12:37 2004,DefaultEditorPresentation.java,dwilson
+Thu Jun 17  2:12:37 2004,ViewPart.java,dwilson

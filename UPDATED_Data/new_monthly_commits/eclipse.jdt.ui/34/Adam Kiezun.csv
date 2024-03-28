@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Thu Feb  5 17:58:59 2004,ExtractInterfaceRefactoring.java,Adam Kiezun
+Thu Feb  5 17:58:59 2004,MoveInnerToTopRefactoring.java,Adam Kiezun
+Thu Feb  5 17:59:13 2004,UseSupertypeWherePossibleRefactoring.java,Adam Kiezun
+Thu Feb  5 17:59:59 2004,UseSupertypeWizard.java,Adam Kiezun
+Thu Feb  5 18:01:29 2004,ChangeTypeRefactoring.java,Adam Kiezun
+Thu Feb  5 18:01:29 2004,ExtractInterfaceUtil.java,Adam Kiezun
+Thu Feb  5 18:01:29 2004,CompositeOrTypeConstraint.java,Adam Kiezun
+Thu Feb  5 18:01:29 2004,ConstraintVariableFactory.java,Adam Kiezun
+Thu Feb  5 18:01:29 2004,FullConstraintCreator.java,Adam Kiezun
+Thu Feb  5 18:01:29 2004,ITypeConstraintFactory.java,Adam Kiezun
+Thu Feb  5 18:01:29 2004,SimpleTypeConstraint.java,Adam Kiezun
+Thu Feb  5 18:01:29 2004,TypeConstraintFactory.java,Adam Kiezun
+Thu Feb  5 18:03:28 2004,TypeConstraintTests.java,Adam Kiezun
+Thu Feb  5 18:04:24 2004,A.java,Adam Kiezun
+Thu Feb  5 18:04:24 2004,X.java,Adam Kiezun
+Thu Feb  5 18:04:24 2004,A.java,Adam Kiezun
+Thu Feb  5 18:04:24 2004,I.java,Adam Kiezun
+Thu Feb  5 18:04:24 2004,X.java,Adam Kiezun
+Thu Feb  5 18:04:24 2004,A.java,Adam Kiezun
+Thu Feb  5 18:04:24 2004,X.java,Adam Kiezun
+Thu Feb  5 18:04:24 2004,A.java,Adam Kiezun
+Thu Feb  5 18:04:24 2004,I.java,Adam Kiezun
+Thu Feb  5 18:04:24 2004,X.java,Adam Kiezun
+Thu Feb  5 18:04:24 2004,ExtractInterfaceTests.java,Adam Kiezun

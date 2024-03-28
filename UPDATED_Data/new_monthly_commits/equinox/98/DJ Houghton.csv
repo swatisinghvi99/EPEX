@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Thu Jan 19 20:11:44 2012,MANIFEST.MF,DJ Houghton
+Thu Jan 19 20:11:44 2012,preferences.exsd,DJ Houghton
+Thu Jan 19 20:11:44 2012,EclipsePreferences.java,DJ Houghton
+Thu Jan 19 20:11:44 2012,PreferenceServiceRegistryHelper.java,DJ Houghton
+Thu Jan 19 20:11:44 2012,PrefsMessages.java,DJ Houghton
+Thu Jan 19 20:11:44 2012,RootPreferences.java,DJ Houghton
+Thu Jan 19 20:11:44 2012,ScopeDescriptor.java,DJ Houghton
+Thu Jan 19 20:11:44 2012,TestHelper.java,DJ Houghton
+Thu Jan 19 20:11:44 2012,messages.properties,DJ Houghton
+Thu Jan 19 20:11:44 2012,AbstractPreferenceStorage.java,DJ Houghton
+Fri Jan 20 12:10:17 2012,InstancePreferences.java,DJ Houghton
+Fri Jan 20 12:10:17 2012,TestHelper.java,DJ Houghton

@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Thu Oct 11 13:51:33 2018,AbstractXtextCodeMiningProvider.java,Tamas Miklossy
+Fri Oct 26 18:13:16 2018,XbaseHyperLinkHelper.java,Tamas Miklossy
+Thu Nov  1 10:50:00 2018,JavaDocHyperlinkingTest.xtend,Tamas Miklossy
+Thu Nov  1 10:50:00 2018,JavaDocHyperlinkingTest.java,Tamas Miklossy
+Sun Nov  4 10:36:03 2018,XbaseDispatchingEObjectTextHover.java,Tamas Miklossy
+Sun Nov  4 18:41:03 2018,XtendHoverInEditorTest.xtend,Tamas Miklossy
+Sun Nov  4 18:41:03 2018,XtendHoverInEditorTest.java,Tamas Miklossy
+Thu Nov  8 18:07:57 2018,EObjectInComment.java,Tamas Miklossy
+Thu Nov  8 18:07:57 2018,IJavaDocTypeReferenceProvider.java,Tamas Miklossy
+Thu Nov  8 18:07:57 2018,MultiLineJavaDocTypeReferenceProvider.java,Tamas Miklossy
+Thu Nov  8 19:42:30 2018,DefaultXbaseRuntimeModule.java,Tamas Miklossy
+Thu Nov  8 19:42:30 2018,XbaseJavaDocTypeReferenceProvider.java,Tamas Miklossy
+Fri Nov  9  6:13:52 2018,XbaseDispatchingEObjectTextHover.java,Tamas Miklossy
+Fri Nov  9  6:13:52 2018,XbaseHyperLinkHelper.java,Tamas Miklossy
+Fri Nov  9 15:58:48 2018,AbstractQuickfixTest.xtend,Tamas Miklossy
+Fri Nov  9 15:58:48 2018,AbstractQuickfixTest.java,Tamas Miklossy
+Fri Nov  9 15:58:48 2018,QuickfixTest.xtend,Tamas Miklossy
+Fri Nov  9 15:58:48 2018,QuickfixTest.java,Tamas Miklossy

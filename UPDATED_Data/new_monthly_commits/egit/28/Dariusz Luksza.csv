@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Fri Jan 20 22:22:22 2012,CompareActionsTest.java,Dariusz Luksza
+Fri Jan 20 23:38:39 2012,TestUtil.java,Dariusz Luksza
+Fri Jan 20 23:38:39 2012,HistoryViewTest.java,Dariusz Luksza
+Fri Jan 20 23:38:39 2012,CompareActionsTest.java,Dariusz Luksza
+Sun Jan 22 23:14:08 2012,SynchronizeViewGitChangeSetModelTest.java,Dariusz Luksza
+Tue Jan 24 23:09:14 2012,GitSubscriberMergeContext.java,Dariusz Luksza
+Tue Jan 24 23:14:09 2012,AbstractSynchronizeViewTest.java,Dariusz Luksza
+Tue Jan 24 23:14:09 2012,SynchronizeViewGitChangeSetModelTest.java,Dariusz Luksza
+Tue Jan 24 23:14:09 2012,SynchronizeViewWorkspaceModelTest.java,Dariusz Luksza
+Wed Jan 25 22:51:13 2012,GitImportRepoWizard.java,Dariusz Luksza
+Wed Jan 25 22:51:13 2012,TestUtil.java,Dariusz Luksza
+Wed Jan 25 22:51:13 2012,GitCloneWizardTest.java,Dariusz Luksza
+Wed Jan 25 23:01:06 2012,ChangeTest.java,Dariusz Luksza
+Wed Jan 25 23:01:06 2012,GitCommitsModelCacheTest.java,Dariusz Luksza
+Wed Jan 25 23:01:06 2012,MANIFEST.MF,Dariusz Luksza
+Wed Jan 25 23:01:06 2012,GitCommitsModelCache.java,Dariusz Luksza
+Wed Jan 25 23:01:06 2012,GitCommitsModelDirectionException.java,Dariusz Luksza
+Thu Jan 26  0:42:06 2012,AbstractCacheTest.java,Dariusz Luksza
+Thu Jan 26  0:42:06 2012,WorkingTreeChangeCacheTest.java,Dariusz Luksza
+Thu Jan 26  0:42:06 2012,WorkingTreeChangeCache.java,Dariusz Luksza

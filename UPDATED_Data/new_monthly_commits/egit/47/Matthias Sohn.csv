@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Tue Aug  6 23:09:42 2013,GitRepositoriesViewRepoHandlingTest.java,Matthias Sohn
+Mon Aug 19  8:33:25 2013,GitMoveDeleteHookTest.java,Matthias Sohn
+Tue Aug 20 22:55:44 2013,MANIFEST.MF,Matthias Sohn
+Tue Aug 20 22:55:44 2013,TestUtils.java,Matthias Sohn
+Tue Aug 20 22:55:44 2013,MANIFEST.MF,Matthias Sohn
+Tue Aug 20 22:55:44 2013,MANIFEST.MF,Matthias Sohn
+Tue Aug 20 22:55:44 2013,LocalRepositoryTestCase.java,Matthias Sohn
+Tue Aug 20 22:55:44 2013,LinkedResourcesTest.java,Matthias Sohn
+Tue Aug 20 22:56:08 2013,TestUtils.java,Matthias Sohn
+Fri Aug 23  8:49:06 2013,UIUtils.java,Matthias Sohn
+Fri Aug 23  8:49:06 2013,FetchGerritChangePage.java,Matthias Sohn
+Fri Aug 23  8:49:06 2013,GerritConfigurationPage.java,Matthias Sohn
+Fri Aug 23  8:49:06 2013,PushToGerritPage.java,Matthias Sohn

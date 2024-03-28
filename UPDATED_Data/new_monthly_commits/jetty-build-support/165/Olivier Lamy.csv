@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Sun Feb  4  2:15:44 2024,maven.yml,Olivier Lamy
+Sun Feb  4  2:15:44 2024,license-header.txt,Olivier Lamy
+Sun Feb  4  2:15:44 2024,pom.xml,Olivier Lamy
+Sun Feb  4  2:15:44 2024,RequireDebianCompatibleVersionRule.java,Olivier Lamy
+Sun Feb  4  2:15:44 2024,RequireOsgiCompatibleVersionRule.java,Olivier Lamy
+Sun Feb  4  2:15:44 2024,RequireRedhatCompatibleVersionRule.java,Olivier Lamy
+Sun Feb  4  2:15:44 2024,UniqueXmlIdDocbookRule.java,Olivier Lamy
+Sun Feb  4  2:15:44 2024,VersionTxtRule.java,Olivier Lamy
+Sun Feb  4  2:15:44 2024,IncludeDirectoryTransformer.java,Olivier Lamy
+Sun Feb  4  2:15:44 2024,MergeFilesTransformer.java,Olivier Lamy
+Sun Feb  4  2:15:44 2024,RequireDebianCompatibleVersionRuleTest.java,Olivier Lamy
+Sun Feb  4  2:15:44 2024,RequireOsgiCompatibleVersionRuleTest.java,Olivier Lamy
+Sun Feb  4  2:15:44 2024,RequireRedhatCompatibleVersionRuleTest.java,Olivier Lamy
+Sun Feb  4  2:15:44 2024,MergeFilesTransformerTest.java,Olivier Lamy

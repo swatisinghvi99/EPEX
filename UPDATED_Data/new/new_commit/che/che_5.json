@@ -1,0 +1,372 @@
+[
+    [
+        "Mihail Kuznyetsov",
+        "java",
+        13
+    ],
+    [
+        "Anton Korneta",
+        "java",
+        18
+    ],
+    [
+        "Vitalii Parfonov",
+        "java",
+        1859
+    ],
+    [
+        "Vitalii Parfonov",
+        "xml",
+        148
+    ],
+    [
+        "Vitalii Parfonov",
+        "css",
+        84
+    ],
+    [
+        "Vitalii Parfonov",
+        "svg",
+        161
+    ],
+    [
+        "Vitalii Parfonov",
+        "properties",
+        8
+    ],
+    [
+        "Vitalii Parfonov",
+        "html",
+        2
+    ],
+    [
+        "Vitalii Parfonov",
+        "json",
+        4
+    ],
+    [
+        "Oleksii Orel",
+        "js",
+        19
+    ],
+    [
+        "Oleksii Orel",
+        "html",
+        5
+    ],
+    [
+        "Oleksii Orel",
+        "styl",
+        3
+    ],
+    [
+        "Oleksii Orel",
+        "java",
+        1
+    ],
+    [
+        "Roman Nikitenko",
+        "java",
+        38
+    ],
+    [
+        "Roman Nikitenko",
+        "xml",
+        1
+    ],
+    [
+        "Roman Nikitenko",
+        "properties",
+        2
+    ],
+    [
+        "Roman Nikitenko",
+        "css",
+        1
+    ],
+    [
+        "Mykola Morhun",
+        "properties",
+        2
+    ],
+    [
+        "Mykola Morhun",
+        "xml",
+        9
+    ],
+    [
+        "Mykola Morhun",
+        "java",
+        43
+    ],
+    [
+        "Vitaliy Guliy",
+        "java",
+        70
+    ],
+    [
+        "Vitaliy Guliy",
+        "html",
+        1
+    ],
+    [
+        "Vitaliy Guliy",
+        "styl",
+        2
+    ],
+    [
+        "Vitaliy Guliy",
+        "xml",
+        4
+    ],
+    [
+        "Vitaliy Guliy",
+        "properties",
+        1
+    ],
+    [
+        "Vitaliy Guliy",
+        "js",
+        1
+    ],
+    [
+        "Valeriy Svydenko",
+        "xml",
+        5
+    ],
+    [
+        "Valeriy Svydenko",
+        "java",
+        28
+    ],
+    [
+        "Valeriy Svydenko",
+        "unknown",
+        1
+    ],
+    [
+        "Valeriy Svydenko",
+        "properties",
+        1
+    ],
+    [
+        "Valeriy Svydenko",
+        "html",
+        1
+    ],
+    [
+        "Valeriy Svydenko",
+        "css",
+        1
+    ],
+    [
+        "Ann Shumilova",
+        "js",
+        41
+    ],
+    [
+        "Ann Shumilova",
+        "java",
+        2
+    ],
+    [
+        "Ann Shumilova",
+        "html",
+        12
+    ],
+    [
+        "Ann Shumilova",
+        "json",
+        1
+    ],
+    [
+        "Aleksandr Andrienko",
+        "java",
+        36
+    ],
+    [
+        "Aleksandr Andrienko",
+        "properties",
+        3
+    ],
+    [
+        "Aleksandr Andrienko",
+        "xml",
+        2
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "js",
+        42
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "json",
+        2
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "styl",
+        17
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "html",
+        17
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "svg",
+        8
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "css",
+        2
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "java",
+        8
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "properties",
+        2
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "xml",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "java",
+        1
+    ],
+    [
+        "Florent BENOIT",
+        "js",
+        1
+    ],
+    [
+        "Mario Loriedo",
+        "java",
+        11
+    ],
+    [
+        "Artem Zatsarynnyi",
+        "java",
+        8
+    ],
+    [
+        "Max Shaposhnik",
+        "xml",
+        2
+    ],
+    [
+        "Max Shaposhnik",
+        "java",
+        12
+    ],
+    [
+        "Max Shaposhnik",
+        "jsp",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "config",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "properties",
+        1
+    ],
+    [
+        "Vladyslav Zhukovskii",
+        "java",
+        597
+    ],
+    [
+        "Vladyslav Zhukovskii",
+        "xml",
+        26
+    ],
+    [
+        "Vladyslav Zhukovskii",
+        "properties",
+        2
+    ],
+    [
+        "Vladyslav Zhukovskii",
+        "svg",
+        1
+    ],
+    [
+        "Vladyslav Zhukovskii",
+        "css",
+        1
+    ],
+    [
+        "Igor Vinokur",
+        "java",
+        45
+    ],
+    [
+        "Igor Vinokur",
+        "xml",
+        6
+    ],
+    [
+        "Igor Vinokur",
+        "properties",
+        5
+    ],
+    [
+        "Igor Vinokur",
+        "css",
+        1
+    ],
+    [
+        "Alexander Garagatyi",
+        "java",
+        82
+    ],
+    [
+        "Yevhenii Voevodin",
+        "java",
+        92
+    ],
+    [
+        "Yevhenii Voevodin",
+        "xml",
+        6
+    ],
+    [
+        "Yevhenii Voevodin",
+        "TckModule",
+        2
+    ],
+    [
+        "Yevhenii Voevodin",
+        "ITestNGListener",
+        1
+    ],
+    [
+        "Yevhenii Voevodin",
+        "js",
+        15
+    ],
+    [
+        "Roman Iuvshin",
+        "properties",
+        1
+    ],
+    [
+        "Roman Iuvshin",
+        "java",
+        3
+    ]
+]

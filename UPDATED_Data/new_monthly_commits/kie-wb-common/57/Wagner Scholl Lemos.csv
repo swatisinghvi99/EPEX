@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Fri Feb 23 19:11:27 2018,DMNConnectorShapeDef.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,DMNConnectorShapeDefImpl.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,AssociationView.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,AuthorityRequirementView.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,InformationRequirementView.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,KnowledgeRequirementView.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,WiresConnectorView.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,WiresConnectorViewExt.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,WiresConnectorViewTest.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,ConnectorShape.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,BasicShapesFactory.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,LineConnectorFactory.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,OrthogonalPolyLineConnectorFactory.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,PolyLineConnectorFactory.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,AbstractConnectorView.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,OrthogonalPolyLineConnectorView.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,PolylineConnectorView.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,ShapeViewFactory.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,OrthogonalPolyLineConnectorViewTest.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,PolyLineConnectorViewTest.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,CaseManagementCanvasViewTest.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,CaseManagementShapeDefFactoryTest.java,Wagner Scholl Lemos
+Fri Feb 23 19:11:27 2018,CaseManagementShapeFactoryTest.java,Wagner Scholl Lemos

@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Tue Nov 24 11:04:26 2015,MavenJdtPlugin.java,Anton Tanasenko
+Tue Nov 24 21:52:54 2015,plugin.xml,Anton Tanasenko
+Tue Nov 24 21:52:54 2015,InsertArtifactProposal.java,Anton Tanasenko
+Tue Nov 24 21:52:54 2015,InsertSPDXLicenseProposal.java,Anton Tanasenko
+Tue Nov 24 21:52:54 2015,PomContentAssistProcessor.java,Anton Tanasenko
+Tue Nov 24 21:52:54 2015,PomStructuredTextViewConfiguration.java,Anton Tanasenko
+Tue Nov 24 21:52:54 2015,PomTemplateContext.java,Anton Tanasenko
+Tue Nov 24 21:52:54 2015,MojoParameterMetadataProvider.java,Anton Tanasenko
+Tue Nov 24 21:52:54 2015,IMojoParameterMetadataProvider.java,Anton Tanasenko
+Tue Nov 24 21:52:54 2015,JobHelpers.java,Anton Tanasenko
+Tue Nov 24 23:00:08 2015,PomTemplateContext.java,Anton Tanasenko

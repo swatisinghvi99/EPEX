@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Thu Jun 29 12:38:12 2006,.classpath,mchapman
+Thu Jun 29 12:38:12 2006,.project,mchapman
+Thu Jun 29 12:38:12 2006,MyFoo.java,mchapman
+Thu Jun 29 12:40:50 2006,Refactoring Tests.txt,mchapman
+Thu Jun 29 12:40:50 2006,AllUITests.java,mchapman
+Thu Jun 29 12:40:50 2006,UITestCase.java,mchapman
+Thu Jun 29 12:40:50 2006,AJDocTest.java,mchapman
+Thu Jun 29 12:40:50 2006,AllVisualUITests.java,mchapman
+Thu Jun 29 12:40:50 2006,ChangeFileExtensionTest.java,mchapman
+Thu Jun 29 12:40:50 2006,LoadTimeWeavingTest.java,mchapman
+Thu Jun 29 12:40:50 2006,NewAspectWizardTest.java,mchapman
+Thu Jun 29 12:40:50 2006,OutjarLaunchingTest.java,mchapman
+Thu Jun 29 12:40:50 2006,VisualTestCase.java,mchapman

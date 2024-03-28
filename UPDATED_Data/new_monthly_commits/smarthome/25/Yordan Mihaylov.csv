@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Mon Jan 11  9:44:17 2016,RuleEngine.java,Yordan Mihaylov
+Mon Jan 11  9:44:17 2016,RuleResource.java,Yordan Mihaylov
+Wed Jan 20 13:57:07 2016,Activator.java,Yordan Mihaylov
+Wed Jan 20 13:57:07 2016,RuleEngine.java,Yordan Mihaylov
+Wed Jan 20 13:57:07 2016,RuleRegistryImpl.java,Yordan Mihaylov
+Wed Jan 20 13:57:07 2016,RuntimeRule.java,Yordan Mihaylov
+Mon Jan 25 13:17:01 2016,BaseModuleHandlerFactory.java,Yordan Mihaylov
+Mon Jan 25 13:17:01 2016,CompositeModuleHandlerFactory.java,Yordan Mihaylov
+Mon Jan 25 13:17:01 2016,BasicModuleHandlerFactory.java,Yordan Mihaylov
+Mon Jan 25 13:17:01 2016,Activator.java,Yordan Mihaylov
+Mon Jan 25 13:17:01 2016,ScriptModuleActivator.java,Yordan Mihaylov
+Mon Jan 25 13:17:01 2016,ScriptModuleHandlerFactory.java,Yordan Mihaylov
+Mon Jan 25 13:17:01 2016,TimerModuleHandlerFactory.java,Yordan Mihaylov
+Mon Jan 25 13:17:01 2016,Activator.java,Yordan Mihaylov
+Mon Jan 25 13:17:01 2016,Activator.java,Yordan Mihaylov
+Mon Jan 25 13:17:01 2016,SampleHandlerFactory.java,Yordan Mihaylov

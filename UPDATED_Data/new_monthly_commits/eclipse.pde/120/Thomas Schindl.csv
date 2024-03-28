@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Mon Apr 25  6:59:25 2011,ModelEditorPreferencePage.java,Thomas Schindl
+Mon Apr 25  6:59:25 2011,MANIFEST.MF,Thomas Schindl
+Mon Apr 25  6:59:25 2011,plugin.xml,Thomas Schindl
+Mon Apr 25  6:59:25 2011,PreferenceInitializer.java,Thomas Schindl
+Mon Apr 25  6:59:25 2011,ComponentLabelProvider.java,Thomas Schindl
+Mon Apr 25  6:59:25 2011,ModelEditor.java,Thomas Schindl
+Tue Apr 26 14:30:20 2011,PartStackEditor.java,Thomas Schindl
+Thu May 12 17:13:14 2011,XMIModelResource.java,Thomas Schindl
+Thu May 12 17:13:14 2011,Messages.java,Thomas Schindl
+Thu May 12 17:13:14 2011,Messages.properties,Thomas Schindl
+Thu May 12 17:13:14 2011,ModelEditor.java,Thomas Schindl
+Thu May 12 17:13:14 2011,ApplicationEditor.java,Thomas Schindl
+Thu May 12 17:24:34 2011,ApplicationEditor.java,Thomas Schindl

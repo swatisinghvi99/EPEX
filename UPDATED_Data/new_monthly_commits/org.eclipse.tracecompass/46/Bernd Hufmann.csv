@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Tue Mar  4 19:57:06 2014,CustomTxtTrace.java,Bernd Hufmann
+Tue Mar  4 19:57:06 2014,CustomXmlTrace.java,Bernd Hufmann
+Tue Mar  4 19:57:06 2014,TextTrace.java,Bernd Hufmann
+Wed Mar  5 19:32:10 2014,TmfTraceElement.java,Bernd Hufmann
+Thu Mar  6 16:36:12 2014,TmfTraceTypeUIUtils.java,Bernd Hufmann
+Thu Mar  6 17:52:51 2014,TmfTraceManagerTest.java,Bernd Hufmann
+Wed Mar 12 18:13:10 2014,TmfExperiment.java,Bernd Hufmann
+Thu Mar 13 11:36:48 2014,AttributeTree.java,Bernd Hufmann
+Thu Mar 13 13:51:06 2014,HistogramBucket.java,Bernd Hufmann
+Thu Mar 13 16:40:08 2014,plugin.xml,Bernd Hufmann
+Thu Mar 13 16:40:08 2014,TmfStatisticsModule.java,Bernd Hufmann
+Thu Mar 13 16:40:08 2014,plugin.xml,Bernd Hufmann
+Thu Mar 13 16:40:08 2014,TmfStatisticsViewer.java,Bernd Hufmann
+Thu Mar 13 16:40:08 2014,NewHistogramViewer.java,Bernd Hufmann
+Thu Mar 13 20:13:32 2014,TmfTraceType.java,Bernd Hufmann
+Fri Mar 14 16:36:06 2014,CallStackView.java,Bernd Hufmann
+Mon Mar 24 11:08:14 2014,TmfTrace.java,Bernd Hufmann
+Tue Mar 25 14:43:31 2014,TmfStateSystemExplorer.java,Bernd Hufmann
+Wed Mar 26 17:05:30 2014,TmfStatisticsTreeNodeTest.java,Bernd Hufmann
+Wed Mar 26 17:05:30 2014,TmfStatisticsTreeNode.java,Bernd Hufmann
+Thu Mar 27 12:52:02 2014,Histogram.java,Bernd Hufmann
+Thu Mar 27 12:52:02 2014,HistogramDataModel.java,Bernd Hufmann

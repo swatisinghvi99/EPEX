@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Aug  6 23:42:54 2018,CompletionParserTest18.java,Stephan Herrmann
+Mon Aug  6 23:42:54 2018,CompletionTests18.java,Stephan Herrmann
+Mon Aug  6 23:42:54 2018,CompletionParser.java,Stephan Herrmann
+Mon Aug  6 23:42:54 2018,CompletionScanner.java,Stephan Herrmann
+Mon Aug  6 23:42:54 2018,AssistParser.java,Stephan Herrmann
+Mon Aug  6 23:42:54 2018,Parser.java,Stephan Herrmann
+Mon Aug  6 23:42:54 2018,Scanner.java,Stephan Herrmann
+Sat Aug 11 16:46:26 2018,FlowAnalysisTest.java,Stephan Herrmann
+Sat Aug 11 16:46:26 2018,LabeledStatement.java,Stephan Herrmann
+Sun Aug 12 17:38:08 2018,GenericTypeTest.java,Stephan Herrmann
+Sun Aug 12 22:00:24 2018,GenericTypeTest.java,Stephan Herrmann
+Mon Aug 13  8:26:36 2018,AbstractRegressionTest.java,Stephan Herrmann
+Mon Aug 13  8:26:36 2018,GenericTypeTest.java,Stephan Herrmann
+Tue Aug 14 16:19:22 2018,GenericTypeTest.java,Stephan Herrmann
+Tue Aug 14 16:19:22 2018,AbstractCompilerTest.java,Stephan Herrmann
+Sat Aug 18  8:04:06 2018,LookupTest.java,Stephan Herrmann
+Sun Aug 19 21:30:40 2018,LambdaExpressionsTest.java,Stephan Herrmann
+Sun Aug 26 13:40:39 2018,ExternalAnnotations18Test.java,Stephan Herrmann
+Tue Sep  4  9:23:28 2018,AbstractNullAnnotationTest.java,Stephan Herrmann
+Tue Sep  4  9:23:28 2018,NullAnnotationTest.java,Stephan Herrmann
+Tue Sep  4  9:23:28 2018,NullTypeAnnotationTest.java,Stephan Herrmann

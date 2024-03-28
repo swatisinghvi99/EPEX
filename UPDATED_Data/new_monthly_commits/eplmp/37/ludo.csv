@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Wed Apr  3 15:49:59 2019,IndexManagerBean.java,ludo
+Wed Apr  3 15:49:59 2019,IndexerManagerBean.java,ludo
+Wed Apr  3 15:49:59 2019,IndexerQueryBuilder.java,ludo
+Wed Apr  3 15:49:59 2019,IndexerConfig.java,ludo
+Wed Apr  3 15:49:59 2019,IndicesUtils.java,ludo
+Wed Apr  3 15:49:59 2019,common-template.json,ludo
+Wed Apr  3 15:49:59 2019,document-template.json,ludo
+Wed Apr  3 15:49:59 2019,part-template.json,ludo

@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Mon Jul 28 15:00:48 2008,DefaultCacheSizeComposite.java,tle
+Mon Jul 28 15:02:48 2008,eclipselink_ui.properties,tle
+Mon Jul 28 15:02:48 2008,EclipseLinkUiMessages.java,tle
+Mon Jul 28 15:02:48 2008,EclipseLinkLoggingComposite.java,tle
+Mon Jul 28 15:02:48 2008,LoggingFileLocationComposite.java,tle
+Thu Aug  7  3:20:44 2008,JptEclipseLinkCoreTests.java,tle
+Tue Aug 19 22:54:38 2008,ConnectionProfile.java,tle
+Tue Aug 19 22:54:38 2008,DTPConnectionProfileWrapper.java,tle
+Wed Aug 20  0:37:43 2008,JpaFacetDataModelProperties.java,tle
+Wed Aug 20  0:37:43 2008,JpaFacetDataModelProvider.java,tle
+Wed Aug 20  0:37:43 2008,JpaFacetInstallDelegate.java,tle
+Wed Aug 20  0:37:43 2008,jpt_ui.properties,tle
+Wed Aug 20  0:37:43 2008,JptUiMessages.java,tle
+Wed Aug 20  0:37:43 2008,JpaFacetWizardPage.java,tle
+Wed Aug 20 21:40:15 2008,JpaFacetInstallDelegate.java,tle

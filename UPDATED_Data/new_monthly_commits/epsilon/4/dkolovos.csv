@@ -1,0 +1,43 @@
+date_time,file,committer_name
+Mon Dec 15 16:00:46 2008,MANIFEST.MF,dkolovos
+Mon Dec 15 16:00:46 2008,ImageTextProvider.java,dkolovos
+Mon Dec 15 16:00:46 2008,JavaEmfPropertyGetter.java,dkolovos
+Mon Dec 15 16:00:46 2008,JavaEmfPropertySetter.java,dkolovos
+Mon Dec 15 16:00:46 2008,Build EOL Parser.launch,dkolovos
+Mon Dec 15 16:00:46 2008,Eol.g,dkolovos
+Mon Dec 15 16:00:46 2008,Eol.tokens,dkolovos
+Mon Dec 15 16:00:46 2008,EolLexer.java,dkolovos
+Mon Dec 15 16:00:46 2008,EolLexerRules.tokens,dkolovos
+Mon Dec 15 16:00:46 2008,EolParser.java,dkolovos
+Mon Dec 15 16:00:46 2008,EolParserRules.g,dkolovos
+Mon Dec 15 16:00:46 2008,EolParserRules.tokens,dkolovos
+Mon Dec 15 16:00:46 2008,EolParserWorkbench.java,dkolovos
+Mon Dec 15 16:00:46 2008,Eol_EolLexerRules.java,dkolovos
+Mon Dec 15 16:00:46 2008,Eol_EolParserRules.java,dkolovos
+Mon Dec 15 16:00:46 2008,test.eol,dkolovos
+Mon Dec 15 16:00:46 2008,Jar Builder.launch,dkolovos
+Mon Dec 15 16:00:46 2008,.project,dkolovos
+Mon Dec 15 16:00:46 2008,DisposeModelTask.java,dkolovos
+Mon Dec 15 16:00:46 2008,DisposeModelsTask.java,dkolovos
+Mon Dec 15 16:00:46 2008,build.xml,dkolovos
+Wed Jan  7  9:20:27 2009,AbstractModuleEditor.java,dkolovos
+Wed Jan  7  9:20:27 2009,ModuleContentOutlinePage.java,dkolovos
+Wed Jan  7  9:20:27 2009,AbstractSourceConfigurationTab.java,dkolovos
+Wed Jan  7  9:20:27 2009,MANIFEST.MF,dkolovos
+Wed Jan  7  9:20:27 2009,plugin.xml,dkolovos
+Wed Jan  7  9:20:27 2009,DebugExecutionController.java,dkolovos
+Wed Jan  7  9:20:27 2009,EolBreakpoint.java,dkolovos
+Wed Jan  7  9:20:27 2009,EolBreakpointAdapter.java,dkolovos
+Wed Jan  7  9:20:27 2009,EolDebugConstants.java,dkolovos
+Wed Jan  7  9:20:27 2009,EolDebugElement.java,dkolovos
+Wed Jan  7  9:20:27 2009,EolDebugTarget.java,dkolovos
+Wed Jan  7  9:20:27 2009,EolEditorAdapterFactory.java,dkolovos
+Wed Jan  7  9:20:27 2009,EolProcess.java,dkolovos
+Wed Jan  7  9:20:27 2009,EolThread.java,dkolovos
+Wed Jan  7  9:20:27 2009,EolEditor.java,dkolovos
+Wed Jan  7  9:20:27 2009,EolLaunchConfigurationDelegate.java,dkolovos
+Wed Jan  7  9:20:27 2009,LoadModelTask.java,dkolovos
+Wed Jan  7  9:20:27 2009,ShutdownProjectRepositoryListener.java,dkolovos
+Wed Jan  7  9:20:27 2009,LoadEmfModel.java,dkolovos
+Wed Jan  7  9:20:27 2009,plugin.xml,dkolovos
+Fri Jan  9 18:08:52 2009,EglTask.java,dkolovos

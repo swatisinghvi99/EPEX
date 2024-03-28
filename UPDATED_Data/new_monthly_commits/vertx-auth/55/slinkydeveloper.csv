@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Fri Jun 21 10:14:32 2019,KeyStoreOptionsConverter.java,slinkydeveloper
+Fri Jun 21 10:14:32 2019,PubSecKeyOptionsConverter.java,slinkydeveloper
+Fri Jun 21 10:14:32 2019,SecretOptionsConverter.java,slinkydeveloper
+Fri Jun 21 10:14:32 2019,JDBCAuthOptionsConverter.java,slinkydeveloper
+Fri Jun 21 10:14:32 2019,JWTAuthOptionsConverter.java,slinkydeveloper
+Fri Jun 21 10:14:32 2019,JWTKeyStoreOptionsConverter.java,slinkydeveloper
+Fri Jun 21 10:14:32 2019,JWTOptionsConverter.java,slinkydeveloper
+Fri Jun 21 10:14:32 2019,MongoAuthOptionsConverter.java,slinkydeveloper
+Fri Jun 21 10:14:32 2019,OAuth2ClientOptionsConverter.java,slinkydeveloper
+Fri Jun 21 10:14:32 2019,ShiroAuthOptionsConverter.java,slinkydeveloper
+Fri Jun 21 10:14:32 2019,JWTOptionsConverter.java,slinkydeveloper
+Fri Jun 21 10:14:32 2019,JWTOptions.java,slinkydeveloper

@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Wed Oct 12 20:55:54 2022,MANIFEST.MF,Hannes Wellmann
+Wed Oct 12 20:55:54 2022,UIJob.java,Hannes Wellmann
+Wed Oct 12 20:55:54 2022,AnimationManager.java,Hannes Wellmann
+Wed Oct 12 20:55:54 2022,BlockedJobsDialog.java,Hannes Wellmann
+Wed Oct 12 20:55:54 2022,ProgressManager.java,Hannes Wellmann
+Wed Oct 12 20:55:54 2022,ProgressMonitorFocusJobDialog.java,Hannes Wellmann
+Wed Oct 12 20:55:54 2022,ProgressServiceImpl.java,Hannes Wellmann
+Wed Oct 12 20:55:54 2022,ProgressViewerContentProvider.java,Hannes Wellmann
+Wed Oct 12 20:55:54 2022,IDEWorkbenchErrorHandler.java,Hannes Wellmann
+Wed Oct 12 20:55:54 2022,OpenFilesystemQuickAccessComputer.java,Hannes Wellmann
+Wed Oct 12 20:55:54 2022,MutableActivityManager.java,Hannes Wellmann
+Wed Oct 12 20:55:54 2022,QuickMenuHandler.java,Hannes Wellmann
+Wed Oct 12 20:55:54 2022,UIJob.java,Hannes Wellmann
+Wed Oct 12 20:55:54 2022,PropertiesContentProvider.java,Hannes Wellmann
+Wed Oct 12 20:55:54 2022,LazyDeferredVirtualTableView.java,Hannes Wellmann
+Wed Oct 12 20:55:54 2022,TestContentProvider.java,Hannes Wellmann
+Wed Oct 12 20:55:54 2022,UIJobTest.java,Hannes Wellmann
+Sun Oct 23  9:41:51 2022,MANIFEST.MF,Hannes Wellmann
+Sun Oct 23  9:41:51 2022,QuickSearchDialog.java,Hannes Wellmann

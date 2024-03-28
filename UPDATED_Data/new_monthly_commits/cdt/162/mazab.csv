@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Thu Dec  3  0:14:42 2015,AbstractContentAssistTest.java,mazab
+Thu Dec  3  0:14:42 2015,CPPParameterGuessingTests.java,mazab
+Thu Dec  3  0:14:42 2015,CParameterGuessingTests.java,mazab
+Thu Dec  3  0:14:42 2015,CompletionTests.java,mazab
+Thu Dec  3  0:14:42 2015,ContentAssist2TestSuite.java,mazab
+Thu Dec  3  0:14:42 2015,DOMCompletionProposalComputer.java,mazab
+Thu Dec  3  0:14:42 2015,FunctionCompletionProposal.java,mazab
+Thu Dec  3  0:14:42 2015,ParameterGuesser.java,mazab
+Thu Dec  3  0:14:42 2015,ParameterGuessingProposal.java,mazab
+Thu Dec  3  0:14:42 2015,PositionBasedCompletionProposal.java,mazab
+Tue Dec 15  0:38:06 2015,CompletionTests.java,mazab
+Tue Dec 15  0:38:06 2015,ContentAssist2TestSuite.java,mazab
+Tue Dec 15  0:38:06 2015,DOMCompletionProposalComputer.java,mazab

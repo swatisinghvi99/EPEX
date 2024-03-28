@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Fri Aug 16 16:06:43 2013,Oprofile.java,Rodrigo Fraxino Araujo
+Fri Aug 16 16:06:43 2013,OpxmlRunner.java,Rodrigo Fraxino Araujo
+Fri Aug 16 16:06:43 2013,CheckEventAdapter.java,Rodrigo Fraxino Araujo
+Fri Aug 16 16:06:43 2013,InfoAdapter.java,Rodrigo Fraxino Araujo
+Fri Aug 16 16:06:43 2013,TestLaunching.java,Rodrigo Fraxino Araujo
+Fri Aug 16 16:06:43 2013,TestLaunchingExternalProject.java,Rodrigo Fraxino Araujo
+Fri Aug 16 16:06:43 2013,OprofileLaunchPlugin.java,Rodrigo Fraxino Araujo
+Fri Aug 16 16:06:43 2013,AbstractEventConfigTab.java,Rodrigo Fraxino Araujo
+Fri Aug 16 16:06:43 2013,LaunchOptions.java,Rodrigo Fraxino Araujo
+Fri Aug 16 16:06:43 2013,OprofileSetupTab.java,Rodrigo Fraxino Araujo
+Fri Aug 16 16:06:43 2013,AbstractOprofileLaunchConfigurationDelegate.java,Rodrigo Fraxino Araujo
+Fri Aug 16 16:06:43 2013,OprofileLaunchConfigurationDelegate.java,Rodrigo Fraxino Araujo
+Fri Aug 16 16:06:43 2013,oprofilelaunch.properties,Rodrigo Fraxino Araujo
+Fri Aug 16 18:42:44 2013,RemoteEnvProxyManager.java,Rodrigo Fraxino Araujo
+Fri Aug 16 18:42:44 2013,LinuxtoolsProcessFactory.java,Rodrigo Fraxino Araujo
+Tue Aug 20 20:46:30 2013,AbstractOprofileLaunchConfigurationDelegate.java,Rodrigo Fraxino Araujo
+Thu Aug 22 16:17:38 2013,PerfLaunchConfigDelegate.java,Rodrigo Fraxino Araujo
+Wed Aug 28 19:19:06 2013,OprofileSetupTab.java,Rodrigo Fraxino Araujo
+Tue Sep  3 12:19:47 2013,RPMCoreInitializer.java,Rodrigo Fraxino Araujo
+Tue Sep  3 12:19:47 2013,RPMProjectCreator.java,Rodrigo Fraxino Araujo
+Tue Sep  3 12:19:47 2013,RPMQuery.java,Rodrigo Fraxino Araujo
+Tue Sep  3 12:19:47 2013,Utils.java,Rodrigo Fraxino Araujo
+Tue Sep  3 12:19:47 2013,SpecfileContentOutlinePage.java,Rodrigo Fraxino Araujo
+Tue Sep  3 12:19:47 2013,SpecfileLabelProvider.java,Rodrigo Fraxino Araujo

@@ -1,0 +1,5 @@
+date_time,file,committer_name
+Wed Mar 31 12:36:06 2021,pom.xml,Denis Kurochkin
+Wed Mar 31 12:36:06 2021,LoggingInterceptor.java,Denis Kurochkin
+Wed Mar 31 12:36:06 2021,LoggingInterceptorTest.java,Denis Kurochkin
+Wed Mar 31 12:36:06 2021,surefire.policy,Denis Kurochkin

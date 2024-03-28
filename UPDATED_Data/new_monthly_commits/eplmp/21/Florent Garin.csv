@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Wed Dec 13 13:50:25 2017,package-info.java,Florent Garin
+Wed Dec 13 13:50:25 2017,package-info.java,Florent Garin
+Wed Dec 13 13:50:25 2017,JWTokenFactory.java,Florent Garin
+Wed Dec 13 13:57:54 2017,OperationSecurityStrategy.java,Florent Garin
+Wed Dec 13 13:57:54 2017,WorkspaceFrontOptions.java,Florent Garin
+Wed Dec 13 13:57:54 2017,ChangeIssue.java,Florent Garin
+Wed Dec 13 13:57:54 2017,ChangeItem.java,Florent Garin
+Wed Dec 13 13:57:54 2017,ChangeItemCategory.java,Florent Garin
+Wed Dec 13 13:57:54 2017,ChangeItemPriority.java,Florent Garin
+Wed Dec 13 13:57:54 2017,ChangeOrder.java,Florent Garin
+Wed Dec 13 13:57:54 2017,ChangeRequest.java,Florent Garin
+Wed Dec 13 13:57:54 2017,ModificationNotification.java,Florent Garin
+Wed Dec 13 13:57:54 2017,OAuthProvider.java,Florent Garin
+Wed Dec 13 13:57:54 2017,ProvidedAccount.java,Florent Garin
+Wed Dec 13 13:57:54 2017,ProvidedAccountKey.java,Florent Garin
+Wed Dec 13 13:57:54 2017,GCMAccount.java,Florent Garin
+Wed Dec 13 13:57:54 2017,package-info.java,Florent Garin
+Wed Dec 13 13:57:54 2017,SNSWebhookApp.java,Florent Garin
+Wed Dec 13 13:57:54 2017,SimpleWebhookApp.java,Florent Garin
+Wed Dec 13 13:57:54 2017,Webhook.java,Florent Garin
+Wed Dec 13 13:57:54 2017,WebhookApp.java,Florent Garin
+Wed Dec 13 13:57:54 2017,package-info.java,Florent Garin

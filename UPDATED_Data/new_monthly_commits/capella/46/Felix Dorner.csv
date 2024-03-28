@@ -1,0 +1,46 @@
+date_time,file,committer_name
+Tue Sep  4  8:03:06 2018,ABServices.java,Felix Dorner
+Tue Sep  4  8:06:57 2018,BreakdownRefreshExtension.java,Felix Dorner
+Tue Sep  4  8:06:57 2018,CommonToolsTest.java,Felix Dorner
+Tue Sep  4 10:26:03 2018,DAnnotationSourceConstants.java,Felix Dorner
+Tue Sep  4 10:26:03 2018,MANIFEST.MF,Felix Dorner
+Tue Sep  4 10:26:03 2018,plugin.xml,Felix Dorner
+Tue Sep  4 10:26:03 2018,DAnnotationQuery.java,Felix Dorner
+Tue Sep  4 10:26:03 2018,DAnnotationReference.java,Felix Dorner
+Tue Sep  4 10:26:03 2018,InverseDAnnotationReference.java,Felix Dorner
+Tue Sep  4 10:26:03 2018,ElementToRepresentation.java,Felix Dorner
+Tue Sep  4 10:26:03 2018,RepresentationToElement.java,Felix Dorner
+Tue Sep  4 10:26:03 2018,DAnnotationReferenceController.java,Felix Dorner
+Tue Sep  4 10:26:03 2018,EOIController.java,Felix Dorner
+Tue Sep  4 10:26:03 2018,DiagramRepresentationPropertySection.java,Felix Dorner
+Tue Sep  4 10:26:03 2018,Messages.java,Felix Dorner
+Tue Sep  4 10:26:03 2018,messages.properties,Felix Dorner
+Tue Sep  4 10:26:03 2018,AllTests.suite,Felix Dorner
+Tue Sep  4 10:26:03 2018,RepresentationElementsOfInterest.test,Felix Dorner
+Tue Sep  4 10:28:35 2018,FaServices.java,Felix Dorner
+Tue Sep  4 10:34:38 2018,CapellaServices.java,Felix Dorner
+Tue Sep  4 12:11:10 2018,DAnnotationDescriptorContribution.java,Felix Dorner
+Tue Sep  4 12:11:10 2018,ContextualDiagramHelper.java,Felix Dorner
+Tue Sep  4 12:11:10 2018,DAnnotationHelper.java,Felix Dorner
+Tue Sep  4 12:11:10 2018,DiagramHelper.java,Felix Dorner
+Tue Sep  4 12:11:10 2018,Messages.java,Felix Dorner
+Tue Sep  4 12:11:10 2018,RepresentationAnnotationHelper.java,Felix Dorner
+Tue Sep  4 12:11:10 2018,messages.properties,Felix Dorner
+Tue Sep  4 12:11:10 2018,DAnnotationSourceConstants.java,Felix Dorner
+Tue Sep  4 12:11:10 2018,plugin.xml,Felix Dorner
+Tue Sep  4 12:11:10 2018,CapellaNavigatorContentProvider.java,Felix Dorner
+Tue Sep  4 12:11:10 2018,CapellaNavigatorLabelProvider.java,Felix Dorner
+Tue Sep  4 12:11:10 2018,RepresentationPackage.java,Felix Dorner
+Tue Sep  4 12:11:10 2018,DAnnotationReferenceController.java,Felix Dorner
+Tue Sep  4 12:11:10 2018,DiagramRepresentationPropertySection.java,Felix Dorner
+Tue Sep  4 12:11:10 2018,Messages.java,Felix Dorner
+Tue Sep  4 12:11:10 2018,messages.properties,Felix Dorner
+Tue Sep  4 12:11:10 2018,5.1. Diagram concepts.html,Felix Dorner
+Tue Sep  4 12:11:10 2018,5.1. Diagram concepts.mediawiki,Felix Dorner
+Tue Sep  4 12:11:10 2018,toc.xml,Felix Dorner
+Tue Sep  4 12:11:10 2018,AllTests.suite,Felix Dorner
+Tue Sep  4 12:11:10 2018,RepresentationPackage.test,Felix Dorner
+Tue Sep  4 12:11:18 2018,DiagramRepresentationPropertySection.java,Felix Dorner
+Tue Sep  4 12:11:18 2018,Messages.java,Felix Dorner
+Tue Sep  4 12:11:18 2018,messages.properties,Felix Dorner
+Tue Sep  4 12:11:22 2018,EOIController.java,Felix Dorner

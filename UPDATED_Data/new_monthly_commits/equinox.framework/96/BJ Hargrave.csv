@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Mon Oct 31 18:51:48 2011,.api_filters,BJ Hargrave
+Mon Oct 31 18:51:48 2011,Bundle.java,BJ Hargrave
+Mon Oct 31 18:51:48 2011,FrameworkUtil.java,BJ Hargrave
+Mon Oct 31 18:51:48 2011,Resource.java,BJ Hargrave
+Mon Oct 31 18:51:48 2011,Wire.java,BJ Hargrave
+Mon Oct 31 18:51:48 2011,Wiring.java,BJ Hargrave
+Mon Oct 31 18:51:48 2011,BundleCapability.java,BJ Hargrave
+Mon Oct 31 18:51:48 2011,BundleRequirement.java,BJ Hargrave
+Mon Oct 31 18:51:48 2011,BundleRevision.java,BJ Hargrave
+Mon Oct 31 18:51:48 2011,BundleWire.java,BJ Hargrave
+Mon Oct 31 18:51:48 2011,BundleWiring.java,BJ Hargrave
+Mon Oct 31 18:51:48 2011,BundleDescriptionImpl.java,BJ Hargrave
+Mon Oct 31 18:56:03 2011,FilterImpl.java,BJ Hargrave

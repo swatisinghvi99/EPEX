@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Tue Nov 15  8:17:41 2022,RELEASE_NOTES.md,azerr
+Tue Nov 15  8:17:41 2022,plugin.properties,azerr
+Tue Nov 15  8:17:41 2022,plugin.xml,azerr
+Tue Nov 15  8:17:41 2022,JSTSLanguageServer.java,azerr
+Tue Nov 15  8:17:41 2022,Messages.java,azerr
+Tue Nov 15  8:17:41 2022,messages.properties,azerr
+Tue Nov 15  8:17:41 2022,JSTSPreferencePage.java,azerr
+Tue Nov 15  8:17:41 2022,JavaScriptInlayHintPreferencePage.java,azerr
+Tue Nov 15  8:17:41 2022,JavaScriptPreferenceInitializer.java,azerr
+Tue Nov 15  8:17:41 2022,JavaScriptPreferencePage.java,azerr
+Tue Nov 15  8:17:41 2022,JavaScriptPreferenceServerConstants.java,azerr
+Tue Nov 15  8:17:41 2022,TypeScriptInlayHintPreferencePage.java,azerr
+Tue Nov 15  8:17:41 2022,TypeScriptPreferenceInitializer.java,azerr
+Tue Nov 15  8:17:41 2022,TypeScriptPreferencePage.java,azerr
+Tue Nov 15  8:17:41 2022,TypeScriptPreferenceServerConstants.java,azerr
+Tue Nov 15  8:17:41 2022,IndentedBooleanFieldEditor.java,azerr

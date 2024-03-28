@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Mon Nov  6 13:43:17 2023,base64.h,skolli6
+Mon Nov  6 13:43:17 2023,base64.cpp,skolli6
+Mon Nov  6 13:43:17 2023,CMakeLists.txt,skolli6
+Mon Nov  6 13:43:17 2023,base64_test.cpp,skolli6
+Wed Nov  8 11:18:18 2023,binary_serializer.h,skolli6
+Wed Nov  8 11:18:18 2023,json_serializer.h,skolli6
+Wed Nov  8 11:18:18 2023,base64.h,skolli6
+Wed Nov  8 11:18:18 2023,base64.cpp,skolli6
+Wed Nov  8 11:18:18 2023,base64_test.cpp,skolli6
+Wed Nov 15  9:44:50 2023,binary_serializer.h,skolli6
+Wed Nov 15  9:44:50 2023,json_serializer.h,skolli6
+Wed Nov 15  9:44:50 2023,base64.h,skolli6
+Wed Nov 15  9:44:50 2023,base64.cpp,skolli6
+Wed Nov 15  9:44:50 2023,CMakeLists.txt,skolli6
+Wed Nov 15  9:44:50 2023,base64_test.cpp,skolli6
+Wed Nov 15 16:37:06 2023,base64.cpp,skolli6
+Thu Nov 16 11:52:36 2023,base64.h,skolli6
+Thu Nov 16 11:52:36 2023,base64.cpp,skolli6
+Thu Nov 16 11:52:36 2023,base64_test.cpp,skolli6

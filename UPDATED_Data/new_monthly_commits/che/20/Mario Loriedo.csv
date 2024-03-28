@@ -1,0 +1,7 @@
+date_time,file,committer_name
+Tue Oct 10 14:47:49 2017,AbstractAgentLauncher.java,Mario Loriedo
+Tue Oct 10 14:47:49 2017,AgentLauncher.java,Mario Loriedo
+Tue Oct 10 14:47:49 2017,DefaultAgentLauncher.java,Mario Loriedo
+Tue Oct 10 14:47:49 2017,SshAgentLauncher.java,Mario Loriedo
+Tue Oct 10 14:47:49 2017,org.eclipse.che.ssh.script.sh,Mario Loriedo
+Tue Oct 10 14:47:49 2017,WsAgentLauncher.java,Mario Loriedo

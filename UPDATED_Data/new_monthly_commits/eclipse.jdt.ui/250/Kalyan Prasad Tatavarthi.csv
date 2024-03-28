@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Tue Feb  8 13:56:41 2022,SemanticHighlightingReconciler.java,Kalyan Prasad Tatavarthi
+Wed Feb  9  7:50:38 2022,LinkedNodeFinder.java,Kalyan Prasad Tatavarthi
+Wed Feb  9  7:50:38 2022,RefactoringAvailabilityTester.java,Kalyan Prasad Tatavarthi
+Wed Feb  9  7:50:38 2022,RenameLinkedMode.java,Kalyan Prasad Tatavarthi
+Mon Feb 14  6:55:37 2022,NecessaryParenthesesChecker.java,Kalyan Prasad Tatavarthi
+Mon Feb 14  6:55:37 2022,CleanUpTest.java,Kalyan Prasad Tatavarthi
+Wed Feb 16 10:43:38 2022,JavaDocLocations.java,Kalyan Prasad Tatavarthi
+Fri Feb 18  6:48:28 2022,JavadocContentAccess2.java,Kalyan Prasad Tatavarthi
+Tue Feb 22  6:28:32 2022,JavaMethodParameterCodeMining.java,Kalyan Prasad Tatavarthi
+Wed Feb 23  6:50:02 2022,JavadocContentAccess2.java,Kalyan Prasad Tatavarthi
+Thu Feb 24  5:12:06 2022,JavadocContentAccess2.java,Kalyan Prasad Tatavarthi
+Mon Feb 28  9:28:55 2022,HierarchicalASTVisitor.java,Kalyan Prasad Tatavarthi
+Mon Feb 28  9:28:55 2022,HierarchicalASTVisitorTest.java,Kalyan Prasad Tatavarthi
+Mon Feb 28  9:28:55 2022,QuickFixTest17.java,Kalyan Prasad Tatavarthi
+Wed Mar  2 11:30:19 2022,JavadocContentAccess2.java,Kalyan Prasad Tatavarthi

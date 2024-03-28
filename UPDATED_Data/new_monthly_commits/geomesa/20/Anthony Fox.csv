@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Tue Sep 22 19:31:37 2015,UniqueProcess.scala,Anthony Fox
+Tue Sep 22 19:31:37 2015,UniqueProcessTest.scala,Anthony Fox
+Tue Sep 22 19:32:45 2015,Z3IdxStrategy.scala,Anthony Fox
+Tue Sep 22 19:32:45 2015,FilterHelperTest.scala,Anthony Fox
+Tue Sep 22 19:32:45 2015,FilterHelper.scala,Anthony Fox
+Fri Oct  2 15:45:53 2015,pom.xml,Anthony Fox
+Fri Oct  2 15:45:53 2015,org.locationtech.geomesa.convert.SimpleFeatureConverterFactory,Anthony Fox
+Fri Oct  2 15:45:53 2015,org.locationtech.geomesa.convert.TransformerFunctionFactory,Anthony Fox
+Fri Oct  2 15:45:53 2015,JsonFunctionFactory.scala,Anthony Fox
+Fri Oct  2 15:45:53 2015,JsonSimpleFeatureConverter.scala,Anthony Fox
+Fri Oct  2 15:45:53 2015,JsonConverterTest.scala,Anthony Fox
+Fri Oct  2 15:45:53 2015,pom.xml,Anthony Fox

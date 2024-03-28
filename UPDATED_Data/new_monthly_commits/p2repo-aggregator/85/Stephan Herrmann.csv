@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Fri Dec  2 19:54:09 2016,plugin.properties,Stephan Herrmann
+Fri Dec  2 19:54:09 2016,AggregationItemProvider.java,Stephan Herrmann
+Fri Dec  2 19:54:09 2016,InstallableUnitMapping.java,Stephan Herrmann
+Fri Dec  2 19:54:09 2016,MavenManager.java,Stephan Herrmann
+Fri Dec  2 19:54:09 2016,Builder.java,Stephan Herrmann
+Fri Dec  2 19:54:09 2016,Aggregator.ecore,Stephan Herrmann
+Fri Dec  2 19:54:09 2016,Aggregator.genmodel,Stephan Herrmann
+Fri Dec  2 19:54:09 2016,Aggregation.java,Stephan Herrmann
+Fri Dec  2 19:54:09 2016,AggregatorPackage.java,Stephan Herrmann
+Fri Dec  2 19:54:09 2016,VersionFormat.java,Stephan Herrmann
+Fri Dec  2 19:54:09 2016,AggregationImpl.java,Stephan Herrmann
+Fri Dec  2 19:54:09 2016,AggregatorFactoryImpl.java,Stephan Herrmann
+Fri Dec  2 19:54:09 2016,AggregatorPackageImpl.java,Stephan Herrmann
+Fri Dec  2 19:54:09 2016,MANIFEST.MF,Stephan Herrmann
+Fri Dec  2 19:54:09 2016,VersionUtil.java,Stephan Herrmann
+Thu Dec  8 22:43:42 2016,InstallableUnitMapping.java,Stephan Herrmann
+Thu Dec  8 22:43:42 2016,MavenManager.java,Stephan Herrmann
+Thu Dec  8 22:43:42 2016,InstallableUnitUtils.java,Stephan Herrmann

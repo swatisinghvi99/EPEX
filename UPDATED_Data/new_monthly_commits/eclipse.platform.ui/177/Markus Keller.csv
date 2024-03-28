@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Fri Jan 15 15:44:08 2016,AbstractColumnLayout.java,Markus Keller
+Fri Jan 15 15:44:08 2016,TableColumnLayout.java,Markus Keller
+Fri Jan 15 15:44:08 2016,TreeColumnLayout.java,Markus Keller
+Fri Jan 15 15:44:08 2016,AbstractColumnLayoutTest.java,Markus Keller
+Mon Jan 18 12:48:49 2016,AbstractWorkingSetManager.java,Markus Keller
+Mon Jan 18 12:48:49 2016,IAggregateWorkingSetTest.java,Markus Keller
+Mon Jan 18 12:48:49 2016,IWorkingSetManagerTest.java,Markus Keller
+Mon Jan 18 20:55:28 2016,ViewerComparator.java,Markus Keller
+Tue Jan 19 19:28:10 2016,Accessor.java,Markus Keller
+Wed Jan 20 14:29:54 2016,Accessor.java,Markus Keller
+Wed Jan 20 16:31:26 2016,BrowserInformationControl.java,Markus Keller
+Wed Jan 20 16:31:26 2016,RevisionPainter.java,Markus Keller
+Wed Jan 20 16:31:26 2016,RevisionSelectionProvider.java,Markus Keller
+Wed Jan 20 16:31:26 2016,AbstractInformationControl.java,Markus Keller
+Wed Jan 20 16:31:26 2016,ContentAssistant.java,Markus Keller
+Wed Jan 20 16:31:26 2016,SearchDialog.java,Markus Keller
+Wed Jan 20 16:31:26 2016,AbstractDocument.java,Markus Keller
+Wed Jan 20 16:31:26 2016,DocumentUndoManager.java,Markus Keller
+Wed Jan 20 16:31:26 2016,SelectResourcesBlock.java,Markus Keller
+Wed Jan 20 16:31:26 2016,ChainedPreferenceStore.java,Markus Keller
+Wed Jan 20 16:31:26 2016,CompoundEditExitStrategy.java,Markus Keller
+Wed Jan 20 17:32:11 2016,UndoManager2.java,Markus Keller
+Wed Jan 20 17:32:11 2016,RefactoringHistoryService.java,Markus Keller
+Thu Jan 21 15:07:11 2016,plugin.properties,Markus Keller
+Thu Jan 21 15:07:11 2016,TextViewerDeleteLineTarget.java,Markus Keller
+Mon Jan 25 12:36:45 2016,EventManager.java,Markus Keller

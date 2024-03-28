@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Dec  8 14:31:45 2014,ValidatorService.java,Michael Anstis
+Mon Dec  8 14:31:45 2014,ProjectScreenService.java,Michael Anstis
+Mon Dec  8 14:31:45 2014,ProjectScreenServiceImpl.java,Michael Anstis
+Mon Dec  8 14:31:45 2014,ProjectScreenPresenter.java,Michael Anstis
+Mon Dec  8 14:31:45 2014,ProjectScreenView.java,Michael Anstis
+Mon Dec  8 14:31:45 2014,ProjectScreenViewImpl.java,Michael Anstis
+Mon Dec  8 14:31:45 2014,GAVWizardPage.java,Michael Anstis
+Mon Dec  8 14:31:45 2014,NewProjectWizard.java,Michael Anstis
+Mon Dec  8 14:31:45 2014,ValidationService.java,Michael Anstis
+Mon Dec  8 14:31:45 2014,ValidationServiceImpl.java,Michael Anstis
+Mon Dec  8 14:55:28 2014,GAVWizardPageTest.java,Michael Anstis
+Mon Dec  8 14:55:28 2014,ProjectDataModelConcurrencyTest.java,Michael Anstis
+Tue Dec  9 14:00:43 2014,ExplorerPresenterImpl.java,Michael Anstis
+Tue Dec  9 14:00:43 2014,BaseViewPresenter.java,Michael Anstis
+Thu Dec 11 14:18:34 2014,ClassMethodInspector.java,Michael Anstis
+Thu Dec 11 14:18:34 2014,ClassMethodInspectorTest.java,Michael Anstis
+Fri Dec 12 16:37:32 2014,PackageDataModelOracleBuilder.java,Michael Anstis
+Fri Dec 12 16:37:32 2014,EnumDropDownUtilities.java,Michael Anstis
+Fri Dec 19 13:59:08 2014,ProjectExplorerContentResolver.java,Michael Anstis
+Fri Dec 19 13:59:08 2014,TreeNavigator.java,Michael Anstis
+Tue Jan  6 11:47:08 2015,Rule.java,Michael Anstis

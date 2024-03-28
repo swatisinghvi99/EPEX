@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Mon Jul 11 14:28:54 2016,AttributeChangeTooltipProvider.java,Laurent Delaigue
+Mon Jul 11 14:28:54 2016,ReferenceUtil.java,Laurent Delaigue
+Mon Jul 25 13:47:31 2016,.checkstyle,Laurent Delaigue
+Mon Jul 25 13:47:31 2016,.classpath,Laurent Delaigue
+Mon Jul 25 13:47:31 2016,.project,Laurent Delaigue
+Mon Jul 25 13:47:31 2016,org.eclipse.jdt.core.prefs,Laurent Delaigue
+Mon Jul 25 13:47:31 2016,MANIFEST.MF,Laurent Delaigue
+Mon Jul 25 13:47:31 2016,about.html,Laurent Delaigue
+Mon Jul 25 13:47:31 2016,build.properties,Laurent Delaigue
+Mon Jul 25 13:47:31 2016,plugin.properties,Laurent Delaigue
+Mon Jul 25 13:47:31 2016,pom.xml,Laurent Delaigue
+Mon Jul 25 13:47:31 2016,PapyrusMigrationUtil.java,Laurent Delaigue
+Mon Jul 25 13:47:31 2016,ProfileMigrationTest.java,Laurent Delaigue
+Mon Jul 25 13:47:31 2016,AllUITests.java,Laurent Delaigue
+Mon Jul 25 13:47:31 2016,MANIFEST.MF,Laurent Delaigue
+Mon Jul 25 13:47:31 2016,pom.xml,Laurent Delaigue
+Mon Jul 25 13:47:31 2016,TestNonRegPseudoConflict_484576.java,Laurent Delaigue

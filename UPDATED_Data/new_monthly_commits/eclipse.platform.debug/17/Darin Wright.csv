@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Tue Sep 24 15:14:01 2002,ILaunchListener.java,Darin Wright
+Tue Sep 24 15:14:01 2002,ILaunchManager.java,Darin Wright
+Tue Sep 24 15:14:01 2002,ILaunchesListener.java,Darin Wright
+Tue Sep 24 15:14:01 2002,Launch.java,Darin Wright
+Tue Sep 24 15:14:01 2002,LaunchManager.java,Darin Wright
+Tue Sep 24 15:14:01 2002,RemoveAllTerminatedAction.java,Darin Wright
+Tue Sep 24 15:14:01 2002,LaunchViewEventHandler.java,Darin Wright
+Fri Sep 27 19:21:18 2002,IBreakpointManager.java,Darin Wright
+Fri Sep 27 19:21:18 2002,IBreakpointsListener.java,Darin Wright
+Fri Sep 27 19:21:18 2002,BreakpointManager.java,Darin Wright
+Fri Sep 27 19:36:08 2002,ActionMessages.properties,Darin Wright
+Fri Sep 27 19:36:08 2002,RemoveAllBreakpointsAction.java,Darin Wright
+Fri Sep 27 19:44:59 2002,BreakpointsViewEventHandler.java,Darin Wright
+Mon Sep 30 14:23:08 2002,IExpressionManager.java,Darin Wright
+Mon Sep 30 14:23:08 2002,IExpressionsListener.java,Darin Wright
+Mon Sep 30 14:23:08 2002,ExpressionManager.java,Darin Wright
+Mon Sep 30 14:34:07 2002,RemoveAllExpressionsAction.java,Darin Wright
+Mon Sep 30 14:34:07 2002,ExpressionViewEventHandler.java,Darin Wright
+Fri Oct  4 18:17:05 2002,LaunchConfigurationWorkingSetPage.java,Darin Wright
+Sat Oct  5  3:30:31 2002,Breakpoint.java,Darin Wright

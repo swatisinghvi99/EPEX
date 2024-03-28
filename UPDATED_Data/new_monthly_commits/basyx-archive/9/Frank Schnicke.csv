@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Sun Sep 23 18:35:53 2018,ConnectedOperation.java,Frank Schnicke
+Sun Sep 23 18:35:53 2018,Stub1SubmodelType.java,Frank Schnicke
+Sun Sep 23 18:35:53 2018,IOperation.java,Frank Schnicke
+Sun Sep 23 18:35:53 2018,DescriptorGenerator.java,Frank Schnicke
+Sun Sep 23 18:35:53 2018,JavaObjectProvider.java,Frank Schnicke
+Sun Sep 23 18:35:53 2018,Operation.java,Frank Schnicke
+Sun Sep 23 18:35:53 2018,ReflectionOperation.java,Frank Schnicke
+Sun Sep 23 18:35:54 2018,ConnectedAssetAdministrationShell.java,Frank Schnicke
+Sun Sep 23 18:35:54 2018,ConnectedAssetAdministrationShellManager.java,Frank Schnicke
+Sun Sep 23 18:35:54 2018,IAssetAdministrationShellManager.java,Frank Schnicke
+Sun Sep 23 18:35:54 2018,IConnectedAssetAdministrationShell.java,Frank Schnicke
+Sun Sep 23 18:35:55 2018,ConnectedElement.java,Frank Schnicke
+Sun Sep 23 18:35:56 2018,ConnectedProperty.java,Frank Schnicke
+Sun Sep 23 18:35:57 2018,ConnectedAssetAdministrationShell.java,Frank Schnicke
+Mon Sep 24 14:50:48 2018,FileSystemProvider.java,Frank Schnicke
+Mon Sep 24 14:50:48 2018,File.java,Frank Schnicke

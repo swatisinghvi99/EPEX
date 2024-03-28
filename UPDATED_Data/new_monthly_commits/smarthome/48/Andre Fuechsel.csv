@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Mon Dec 11 10:37:24 2017,JavaOSGiTest.java,Andre Fuechsel
+Tue Dec 12 16:27:49 2017,DiscoveryServiceRegistryOSGiTest.java,Andre Fuechsel
+Tue Dec 12 16:27:49 2017,DiscoveryServiceMockOfBridge.java,Andre Fuechsel
+Tue Dec 12 16:27:49 2017,AbstractDiscoveryService.java,Andre Fuechsel
+Tue Dec 12 16:27:49 2017,DiscoveryListener.java,Andre Fuechsel
+Tue Dec 12 16:27:49 2017,DiscoveryServiceRegistryImpl.java,Andre Fuechsel
+Tue Dec 12 16:27:49 2017,PersistentInbox.java,Andre Fuechsel
+Tue Dec 12 16:27:49 2017,HueLightDiscoveryServiceOSGiTest.java,Andre Fuechsel
+Tue Dec 12 16:27:49 2017,HueBridgeNupnpDiscoveryOSGITest.java,Andre Fuechsel
+Tue Dec 12 16:27:49 2017,HueLightDiscoveryService.java,Andre Fuechsel
+Tue Dec 12 16:27:49 2017,TradfriDiscoveryServiceTest.java,Andre Fuechsel
+Tue Dec 12 16:27:49 2017,WemoCoffeeHandler.java,Andre Fuechsel
+Tue Dec 12 16:27:49 2017,WemoHandler.java,Andre Fuechsel
+Tue Dec 12 16:27:49 2017,WemoMakerHandler.java,Andre Fuechsel

@@ -1,0 +1,77 @@
+[
+    [
+        "Ed Merks",
+        "java",
+        15
+    ],
+    [
+        "Ed Merks",
+        "php",
+        3
+    ],
+    [
+        "Ed Merks",
+        "MF",
+        7
+    ],
+    [
+        "Ed Merks",
+        "xml",
+        2
+    ],
+    [
+        "Ed Merks",
+        "ecore",
+        1
+    ],
+    [
+        "Frank Becker",
+        "java",
+        3
+    ],
+    [
+        "Frank Becker",
+        "xml",
+        10
+    ],
+    [
+        "Frank Becker",
+        "MF",
+        2
+    ],
+    [
+        "Christoph L\u00e4ubrich",
+        "java",
+        6
+    ],
+    [
+        "Martin Schreiber",
+        "xml",
+        4
+    ],
+    [
+        "Martin Schreiber",
+        "MF",
+        2
+    ],
+    [
+        "Martin Schreiber",
+        "properties",
+        1
+    ],
+    [
+        "Martin Schreiber",
+        "java",
+        10
+    ],
+    [
+        "Martin Schreiber",
+        "ecore",
+        2
+    ],
+    [
+        "Martin Schreiber",
+        "genmodel",
+        1
+    ]
+]

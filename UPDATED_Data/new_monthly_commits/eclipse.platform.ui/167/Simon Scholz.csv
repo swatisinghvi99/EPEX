@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Fri Mar 13 14:55:49 2015,MANIFEST.MF,Simon Scholz
+Fri Mar 13 14:55:49 2015,PartRenderingEngine.java,Simon Scholz
+Mon Mar 16 12:49:39 2015,PipelineTest.java,Simon Scholz
+Mon Mar 16 12:49:39 2015,CElement.java,Simon Scholz
+Mon Mar 16 12:49:39 2015,CElementSorter.java,Simon Scholz
+Mon Mar 16 12:49:39 2015,CNavigatorContentProvider.java,Simon Scholz
+Mon Mar 16 12:49:39 2015,TestContentProvider.java,Simon Scholz
+Mon Mar 16 12:49:39 2015,TestExtensionAdapterFactory.java,Simon Scholz
+Mon Mar 16 12:49:39 2015,TestPipelineProvider.java,Simon Scholz
+Mon Mar 16 12:49:39 2015,CompressedJavaProject.java,Simon Scholz
+Mon Mar 16 12:49:39 2015,M1AdapterFactory.java,Simon Scholz
+Mon Mar 16 12:49:39 2015,M1Project.java,Simon Scholz
+Mon Mar 16 14:32:43 2015,MANIFEST.MF,Simon Scholz
+Mon Mar 16 14:32:43 2015,ViewsPlugin.java,Simon Scholz
+Mon Mar 16 14:32:43 2015,ContentOutline.java,Simon Scholz
+Mon Mar 16 14:32:43 2015,PropertySheet.java,Simon Scholz
+Mon Mar 16 14:32:43 2015,PropertySheetEntry.java,Simon Scholz
+Mon Mar 16 14:32:43 2015,PropertySheetPage.java,Simon Scholz

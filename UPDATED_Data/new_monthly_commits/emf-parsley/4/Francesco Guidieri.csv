@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Tue Oct 15 13:30:53 2013,OnSelectionTableFormTemplateWizardHelper.java,Francesco Guidieri
+Tue Oct 15 13:30:53 2013,EmfParsleyViewFilesGenerator.xtend,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,EmfParsleyDslProjectTemplateSelectionPage.java,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,OnSelectionFormTemplateWizardHelper.java,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,OnSelectionTableFormTemplateWizardHelper.java,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,.classpath,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,MANIFEST.MF,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,CommonBusiness.java,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,ModelBusiness.java,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,TreeformGuiceModule.java,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,TreeformCDOSessionManager.java,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,TreeFormCDOView.java,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,CDOResourceLoader.java,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,CDOSessionManager.java,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,CDOURIData.java,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,EmfParsleyViewFilesGenerator.xtend,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,ObservableResourceLoader.java,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,CDOUriTests.java,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,CDOTreeFormDirtyAndSaveableTests.java,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,CDOTreeFormTests.java,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,EmfParsleyDslWizardsTests.xtend,Francesco Guidieri
+Tue Oct 15 14:38:08 2013,ResourceListeningLibraryModule.java,Francesco Guidieri

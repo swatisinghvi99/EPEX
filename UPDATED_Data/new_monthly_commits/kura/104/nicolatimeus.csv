@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Thu Jul 28  9:07:36 2022,org.eclipse.kura.ssl.SslManagerService.xml,nicolatimeus
+Thu Jul 28  9:07:36 2022,ssl.xml,nicolatimeus
+Thu Jul 28  9:07:36 2022,SslManagerServiceImpl.java,nicolatimeus
+Thu Jul 28  9:07:36 2022,MqttDataTransportTest.java,nicolatimeus
+Fri Aug  5  8:41:11 2022,MANIFEST.MF,nicolatimeus
+Fri Aug  5  8:41:11 2022,org.eclipse.kura.core.keystore.PKCS11KeystoreServiceImpl.xml,nicolatimeus
+Fri Aug  5  8:41:11 2022,org.eclipse.kura.core.keystore.pkcs11KeystoreService.xml,nicolatimeus
+Fri Aug  5  8:41:11 2022,BaseKeystoreService.java,nicolatimeus
+Fri Aug  5  8:41:11 2022,FilesystemKeystoreServiceImpl.java,nicolatimeus
+Fri Aug  5  8:41:11 2022,FilesystemKeystoreServiceOptions.java,nicolatimeus
+Fri Aug  5  8:41:11 2022,KeystoreInstance.java,nicolatimeus
+Fri Aug  5  8:41:11 2022,PKCS11KeystoreServiceImpl.java,nicolatimeus
+Fri Aug  5  8:41:11 2022,PKCS11KeystoreServiceOptions.java,nicolatimeus
+Fri Aug  5  8:41:11 2022,FilesystemKeystoreServiceOptionsTest.java,nicolatimeus

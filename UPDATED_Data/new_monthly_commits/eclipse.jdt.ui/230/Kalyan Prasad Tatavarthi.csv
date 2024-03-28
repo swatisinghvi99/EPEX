@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Wed Jun 17 12:44:27 2020,QuickFixTest14.java,Kalyan Prasad Tatavarthi
+Wed Jun 17 12:44:27 2020,QuickFixTest15.java,Kalyan Prasad Tatavarthi
+Wed Jun 17 12:44:27 2020,FastJavaPartitionScanner.java,Kalyan Prasad Tatavarthi
+Wed Jun 17 12:44:27 2020,QuickFixProcessor.java,Kalyan Prasad Tatavarthi
+Wed Jun 17 13:20:09 2020,JavadocQuickFixTest14.java,Kalyan Prasad Tatavarthi
+Wed Jun 17 13:20:09 2020,JavadocQuickFixTest15.java,Kalyan Prasad Tatavarthi
+Wed Jun 17 14:55:54 2020,ASTHelper.java,Kalyan Prasad Tatavarthi
+Wed Jun 17 14:55:54 2020,IASTSharedValues.java,Kalyan Prasad Tatavarthi
+Wed Jun 17 14:55:54 2020,QuickFixTest15.java,Kalyan Prasad Tatavarthi
+Tue Jun 23  6:56:08 2020,LinkedNodeFinder.java,Kalyan Prasad Tatavarthi
+Mon Jun 29 12:10:25 2020,.api_filters,Kalyan Prasad Tatavarthi
+Mon Jun 29 12:10:25 2020,LinkedNodeFinder.java,Kalyan Prasad Tatavarthi
+Mon Jun 29 16:13:33 2020,.api_filters,Kalyan Prasad Tatavarthi
+Mon Jun 29 16:13:33 2020,ModifierRewrite.java,Kalyan Prasad Tatavarthi
+Mon Jun 29 16:13:33 2020,Foo.java,Kalyan Prasad Tatavarthi
+Mon Jun 29 16:13:33 2020,Bar.java,Kalyan Prasad Tatavarthi
+Mon Jun 29 16:13:33 2020,Foo.java,Kalyan Prasad Tatavarthi
+Mon Jun 29 16:13:33 2020,AllRefactoringTests.java,Kalyan Prasad Tatavarthi
+Mon Jun 29 16:13:33 2020,MoveInnerToNewTests14.java,Kalyan Prasad Tatavarthi

@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Mon Feb 13 18:13:28 2017,MANIFEST.MF,John Cocula
+Mon Feb 13 18:13:28 2017,proxy.xml,John Cocula
+Mon Feb 13 18:13:28 2017,AsyncProxyServlet.java,John Cocula
+Mon Feb 13 18:13:28 2017,BlockingProxyServlet.java,John Cocula
+Mon Feb 13 18:13:28 2017,ProxyServletService.java,John Cocula
+Mon Feb 13 18:13:28 2017,SmartHome-Runtime.launch,John Cocula
+Mon Feb 13 18:13:28 2017,smarthome.target,John Cocula
+Thu Mar  2  8:34:08 2017,.classpath,John Cocula
+Thu Mar  2  8:34:08 2017,MANIFEST.MF,John Cocula
+Thu Mar  2  8:34:08 2017,about.html,John Cocula
+Thu Mar  2  8:34:08 2017,build.properties,John Cocula
+Thu Mar  2  8:34:08 2017,ChartServlet.java,John Cocula
+Thu Mar  2  8:34:08 2017,DefaultChartProvider.java,John Cocula

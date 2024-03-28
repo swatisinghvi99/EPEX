@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Fri Aug  5 14:25:50 2005,AbstractDocumentLineDifferTest.java,teicher
+Fri Aug  5 14:25:50 2005,DocumentLineDifferInitializationText.java,teicher
+Fri Aug  5 14:25:50 2005,DocumentLineDifferModificationTest.java,teicher
+Fri Aug  5 14:25:50 2005,PerformanceTestSuite.java,teicher
+Fri Aug  5 14:25:50 2005,faust1.txt,teicher
+Fri Aug  5 15:19:39 2005,DocumentLineDifferModificationTest.java,teicher
+Wed Aug 17 13:23:09 2005,DocumentLineDifferInitializationTest.java,teicher
+Wed Aug 17 13:23:09 2005,PerformanceTestSuite.java,teicher
+Wed Aug 17 13:23:09 2005,SynchronizedLineDifferInitializationTest.java,teicher
+Thu Aug 18  8:12:32 2005,IndentAction.java,teicher
+Thu Aug 18  8:12:32 2005,IndentUtil.java,teicher
+Thu Aug 18 10:01:59 2005,JavaMoveLinesAction.java,teicher
+Thu Aug 18 10:01:59 2005,JavaIndenter.java,teicher
+Thu Aug 18 13:32:30 2005,JavaMoveLinesAction.java,teicher
+Fri Aug 19 12:56:58 2005,JavaFoldingStructureProviderRegistry.java,teicher
+Mon Aug 22  9:42:22 2005,SemanticHighlightings.java,teicher
+Thu Sep  1 16:43:38 2005,SemanticHighlightings.java,teicher
+Thu Sep  1 17:12:17 2005,JavaMethodCompletionProposal.java,teicher
+Fri Sep  2  9:20:29 2005,LazyJavaCompletionProposal.java,teicher

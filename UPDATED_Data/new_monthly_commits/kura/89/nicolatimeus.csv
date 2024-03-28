@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Tue Apr 27 14:11:17 2021,snapshot_0.xml,nicolatimeus
+Tue Apr 27 14:11:17 2021,MANIFEST.MF,nicolatimeus
+Tue Apr 27 14:11:17 2021,RestTransport.java,nicolatimeus
+Tue Apr 27 14:11:17 2021,ServiceUtil.java,nicolatimeus
+Wed Apr 28 13:45:50 2021,httpService.xml,nicolatimeus
+Wed Apr 28 13:45:50 2021,HttpService.java,nicolatimeus
+Wed Apr 28 13:45:50 2021,HttpServiceTest.java,nicolatimeus
+Fri Apr 30 11:32:32 2021,kura.build.properties,nicolatimeus
+Fri Apr 30 11:32:32 2021,pom.xml,nicolatimeus
+Fri Apr 30 11:32:32 2021,build_equinox_distrib.xml,nicolatimeus
+Fri Apr 30 11:32:32 2021,MANIFEST.MF,nicolatimeus
+Fri Apr 30 11:32:32 2021,about.html,nicolatimeus
+Fri Apr 30 11:32:32 2021,epl-v20.html,nicolatimeus
+Fri Apr 30 11:32:32 2021,build.properties,nicolatimeus
+Fri Apr 30 11:32:32 2021,pom.xml,nicolatimeus
+Fri Apr 30 11:32:32 2021,pom.xml,nicolatimeus
+Fri Apr 30 11:32:32 2021,MANIFEST.MF,nicolatimeus
+Fri Apr 30 11:32:32 2021,about.html,nicolatimeus
+Fri Apr 30 11:32:32 2021,build.properties,nicolatimeus
+Fri Apr 30 11:32:32 2021,pom.xml,nicolatimeus
+Fri Apr 30 11:32:32 2021,pom.xml,nicolatimeus
+Wed May  5 11:54:28 2021,GwtComponentService.java,nicolatimeus
+Wed May 12 13:39:33 2021,TamperDetectionServiceImpl.java,nicolatimeus
+Wed May 12 13:39:33 2021,TamperEvent.java,nicolatimeus
+Wed May 12 13:39:33 2021,CloudServiceTest.java,nicolatimeus

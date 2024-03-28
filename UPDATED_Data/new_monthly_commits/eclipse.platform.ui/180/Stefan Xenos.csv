@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Wed Apr  6 16:46:20 2016,WBWRenderer.java,Stefan Xenos
+Fri Apr  8  2:18:25 2016,WBWRenderer.java,Stefan Xenos
+Fri Apr  8  3:16:27 2016,AbstractWorkingSetManager.java,Stefan Xenos
+Wed Apr 20 19:56:47 2016,MANIFEST.MF,Stefan Xenos
+Wed Apr 20 19:56:47 2016,ISideEffect.java,Stefan Xenos
+Wed Apr 20 19:56:47 2016,CompositeSideEffect.java,Stefan Xenos
+Wed Apr 20 19:56:47 2016,ISideEffectFactory.java,Stefan Xenos
+Wed Apr 20 19:56:47 2016,SideEffect.java,Stefan Xenos
+Wed Apr 20 19:56:47 2016,SideEffectFactory.java,Stefan Xenos
+Wed Apr 20 19:56:47 2016,WidgetSideEffects.java,Stefan Xenos
+Wed Apr 20 19:56:47 2016,SideEffectTest.java,Stefan Xenos
+Mon Apr 25 19:42:07 2016,SideEffect.java,Stefan Xenos
+Mon Apr 25 19:42:07 2016,ListBindingTest.java,Stefan Xenos
+Mon May  2 18:03:35 2016,DnDManager.java,Stefan Xenos
+Mon May  2 18:03:35 2016,SplitFeedbackOverlay.java,Stefan Xenos
+Mon May  2 18:03:35 2016,DragUtil.java,Stefan Xenos
+Mon May  2 19:53:50 2016,DetachedDropAgent.java,Stefan Xenos

@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Fri Jun 28  0:00:57 2019,Jenkinsfile,Olivier Lamy
+Fri Jun 28  0:00:57 2019,pom.xml,Olivier Lamy
+Fri Jun 28  0:00:57 2019,WebSocketMapping.java,Olivier Lamy
+Fri Jun 28  0:00:57 2019,WebSocketUpgradeFilter.java,Olivier Lamy
+Fri Jun 28  0:00:57 2019,pom.xml,Olivier Lamy
+Fri Jun 28  0:00:57 2019,release-jetty.sh,Olivier Lamy
+Tue Jul  9  7:51:05 2019,CompressionPool.java,Olivier Lamy

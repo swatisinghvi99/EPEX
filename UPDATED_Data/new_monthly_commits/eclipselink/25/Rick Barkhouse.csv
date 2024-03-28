@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Tue Aug 25 18:07:34 2009,DOMRecord.java,Rick Barkhouse
+Tue Aug 25 18:07:34 2009,string_array_schema.xsd,Rick Barkhouse
+Tue Aug 25 18:07:34 2009,JAXBIntrospector.java,Rick Barkhouse
+Tue Aug 25 18:07:34 2009,MappingsGenerator.java,Rick Barkhouse
+Tue Aug 25 18:07:34 2009,TypeInfo.java,Rick Barkhouse
+Wed Aug 26 14:53:38 2009,JAXBTestSuite.java,Rick Barkhouse
+Wed Aug 26 14:53:38 2009,RequiredAnnotationTestCases.java,Rick Barkhouse
+Wed Aug 26 14:53:38 2009,RequiredTestObject.java,Rick Barkhouse
+Wed Aug 26 14:53:38 2009,RequiredTestSubObject.java,Rick Barkhouse
+Wed Aug 26 14:53:38 2009,RequiredTestProject.java,Rick Barkhouse
+Wed Aug 26 14:53:38 2009,AnnotationsProcessor.java,Rick Barkhouse
+Wed Aug 26 14:53:38 2009,MappingsGenerator.java,Rick Barkhouse
+Fri Sep  4 18:09:21 2009,jaxb-compiler.cmd,Rick Barkhouse
+Fri Sep  4 18:09:21 2009,jaxb-compiler.sh,Rick Barkhouse
+Fri Sep  4 18:09:21 2009,com.sun.tools.xjc.Plugin,Rick Barkhouse
+Fri Sep  4 18:09:21 2009,MOXyXJC.java,Rick Barkhouse
+Fri Sep  4 18:09:21 2009,RuntimePlugin.java,Rick Barkhouse

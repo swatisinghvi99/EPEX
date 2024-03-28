@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Thu Nov  2 15:20:35 2017,AutotoolsNewMakeGenerator.java,Jeff Johnston
+Thu Nov  2 15:20:35 2017,AbstractAutotoolsHandler.java,Jeff Johnston
+Thu Nov  2 15:20:35 2017,RemoteCommandLauncher.java,Jeff Johnston
+Thu Nov  9 16:46:28 2017,CommandLauncherManager.java,Jeff Johnston
+Sun Nov 19  5:46:31 2017,MANIFEST.MF,Jeff Johnston
+Sun Nov 19  5:46:31 2017,ContainerCommandLauncher.java,Jeff Johnston
+Sun Nov 19  5:46:31 2017,ContainerCommandLauncherFactory.java,Jeff Johnston
+Sun Nov 19  5:46:31 2017,DockerLaunchUIPlugin.java,Jeff Johnston
+Sun Nov 19  5:46:31 2017,ContainerPropertyTab.java,Jeff Johnston
+Sun Nov 19  5:46:31 2017,LaunchShortcut.java,Jeff Johnston

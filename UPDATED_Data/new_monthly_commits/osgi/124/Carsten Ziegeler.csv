@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Mon Oct 27 21:18:48 2014,Component.java,Carsten Ziegeler
+Mon Oct 27 21:18:48 2014,Reference.java,Carsten Ziegeler
+Mon Oct 27 21:18:48 2014,ReferenceScope.java,Carsten Ziegeler
+Mon Oct 27 21:18:48 2014,ServiceScope.java,Carsten Ziegeler
+Mon Oct 27 21:18:48 2014,package-info.java,Carsten Ziegeler
+Mon Oct 27 21:18:48 2014,packageinfo,Carsten Ziegeler
+Mon Oct 27 21:18:48 2014,bnd.bnd,Carsten Ziegeler
+Mon Oct 27 21:18:48 2014,ComponentContext.java,Carsten Ziegeler
+Mon Oct 27 21:18:48 2014,package-info.java,Carsten Ziegeler
+Mon Oct 27 21:18:48 2014,packageinfo,Carsten Ziegeler
+Mon Oct 27 21:18:48 2014,BoundReference.java,Carsten Ziegeler
+Mon Oct 27 21:18:48 2014,ComponentConfiguration.java,Carsten Ziegeler
+Mon Oct 27 21:18:48 2014,ComponentDescription.java,Carsten Ziegeler
+Mon Oct 27 21:18:48 2014,Reference.java,Carsten Ziegeler
+Mon Oct 27 21:18:48 2014,ServiceComponentRuntime.java,Carsten Ziegeler
+Mon Oct 27 21:18:48 2014,package-info.java,Carsten Ziegeler
+Mon Oct 27 21:18:48 2014,packageinfo,Carsten Ziegeler
+Mon Oct 27 21:18:49 2014,BoundReference.java,Carsten Ziegeler
+Mon Oct 27 21:18:49 2014,ComponentConfiguration.java,Carsten Ziegeler
+Mon Oct 27 21:18:49 2014,ComponentDescription.java,Carsten Ziegeler
+Mon Oct 27 21:18:49 2014,Reference.java,Carsten Ziegeler
+Mon Oct 27 21:18:49 2014,ServiceComponentRuntime.java,Carsten Ziegeler
+Mon Oct 27 21:18:54 2014,FieldReference.java,Carsten Ziegeler
+Mon Oct 27 21:18:54 2014,FieldReferenceStrategy.java,Carsten Ziegeler
+Mon Oct 27 21:18:54 2014,ReferenceDTO.java,Carsten Ziegeler

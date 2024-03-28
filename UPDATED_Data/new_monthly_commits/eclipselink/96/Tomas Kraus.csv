@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Thu Jul 30 10:58:27 2015,antbuild.xml,Tomas Kraus
+Thu Jul 30 10:58:27 2015,feature.xml,Tomas Kraus
+Thu Jul 30 10:58:27 2015,.classpath,Tomas Kraus
+Thu Jul 30 10:58:27 2015,antbuild.properties,Tomas Kraus
+Thu Jul 30 10:58:27 2015,antbuild.xml,Tomas Kraus
+Thu Jul 30 10:58:27 2015,LogCategoryHelper.java,Tomas Kraus
+Thu Jul 30 10:58:27 2015,LogLevelHelper.java,Tomas Kraus
+Thu Jul 30 10:58:27 2015,SLF4JLoggerHelper.java,Tomas Kraus
+Thu Jul 30 10:58:27 2015,ReflectionHelper.java,Tomas Kraus
+Thu Jul 30 10:58:27 2015,FeatureTestModel.java,Tomas Kraus
+Thu Jul 30 10:58:27 2015,LogCategoryTests.java,Tomas Kraus
+Thu Jul 30 10:58:27 2015,LogLevelTests.java,Tomas Kraus
+Thu Jul 30 10:58:27 2015,LoggingTestSuite.java,Tomas Kraus
+Thu Jul 30 10:58:27 2015,SLF4JLoggerTests.java,Tomas Kraus
+Thu Jul 30 10:58:27 2015,.classpath,Tomas Kraus
+Thu Jul 30 10:58:27 2015,MANIFEST.MF,Tomas Kraus
+Thu Jul 30 10:58:27 2015,StringHelper.java,Tomas Kraus
+Thu Jul 30 10:58:27 2015,AbstractSessionLog.java,Tomas Kraus
+Thu Jul 30 10:58:27 2015,LogCategory.java,Tomas Kraus
+Thu Jul 30 10:58:27 2015,LogLevel.java,Tomas Kraus
+Thu Jul 30 10:58:27 2015,SLF4JLogger.java,Tomas Kraus
+Thu Jul 30 10:58:27 2015,SessionLog.java,Tomas Kraus

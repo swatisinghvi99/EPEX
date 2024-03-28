@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Fri Sep 16  7:16:08 2022,HeadlessCrossPhasesLauncher.java,irina-toma
+Fri Sep 16  7:16:08 2022,HeadlessInterPhasesLauncher.java,irina-toma
+Fri Sep 16  7:16:08 2022,InitializeMultiphasesTransformationActivity.java,irina-toma
+Fri Sep 16  7:16:08 2022,AbstractHeadlessMultiphasesLauncher.java,irina-toma
+Fri Sep 16  7:16:08 2022,.project,irina-toma
+Fri Sep 16  7:16:08 2022,testManagementProps.afm,irina-toma
+Fri Sep 16  7:16:08 2022,testManagementProps.aird,irina-toma
+Fri Sep 16  7:16:08 2022,testManagementProps.capella,irina-toma
+Fri Sep 16  7:16:08 2022,AllMultiPhasesTests.java,irina-toma
+Fri Sep 16  7:16:08 2022,ManagementPropertiesTest.java,irina-toma
+Fri Sep 16  7:16:08 2022,plugin.xml,irina-toma
+Fri Sep 16  7:16:08 2022,plugin.properties,irina-toma
+Fri Sep 16  7:16:08 2022,plugin.xml,irina-toma
+Fri Sep 16  7:16:08 2022,CopyManagementPropertiesActivity.java,irina-toma
+Fri Sep 16  7:16:08 2022,InitializeTransitionActivity.java,irina-toma
+Fri Sep 16  7:16:08 2022,IOptionsConstants.java,irina-toma
+Fri Sep 16  7:16:08 2022,PreferenceInitializer.java,irina-toma
+Fri Sep 16  7:16:08 2022,StatusScopeRetriever.java,irina-toma

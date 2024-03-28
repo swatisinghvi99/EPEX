@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Fri Sep 18 11:41:08 2009,PostgreSQLAdapter.java,Stefan Winkler
+Fri Sep 18 13:57:45 2009,PostgreSQLAdapter.java,Stefan Winkler
+Mon Sep 21 13:29:18 2009,PostgreSQLAdapter.java,Stefan Winkler
+Thu Sep 24 10:29:54 2009,DBStore.java,Stefan Winkler
+Thu Sep 24 14:27:18 2009,CDO AllTests (PostgreSQL - noaudit).launch,Stefan Winkler
+Thu Sep 24 14:27:18 2009,MANIFEST.MF,Stefan Winkler
+Thu Sep 24 14:27:18 2009,AllTestsDBPsql.java,Stefan Winkler
+Thu Sep 24 14:27:18 2009,DBAnnotationsTest.java,Stefan Winkler
+Thu Sep 24 14:27:18 2009,DBConfigs.java,Stefan Winkler
+Thu Sep 24 14:27:18 2009,DISABLE_AttributeTest.java,Stefan Winkler
+Thu Sep 24 14:27:18 2009,DISABLE_Bugzilla_259869_Test.java,Stefan Winkler
+Thu Sep 24 14:27:18 2009,DISABLE_ExternalReferenceTest.java,Stefan Winkler
+Thu Sep 24 14:27:18 2009,DISABLE_FeatureMapTest.java,Stefan Winkler
+Thu Sep 24 14:27:18 2009,DISABLE_XATransactionTest.java,Stefan Winkler

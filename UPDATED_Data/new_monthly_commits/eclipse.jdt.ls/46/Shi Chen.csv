@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Fri Nov 13  8:41:27 2020,RefactorProcessor.java,Shi Chen
+Fri Nov 13  8:41:27 2020,GetRefactorEditHandler.java,Shi Chen
+Fri Nov 13  8:41:27 2020,InferSelectionHandler.java,Shi Chen
+Fri Nov 13  8:41:27 2020,JDTLanguageServer.java,Shi Chen
+Fri Nov 13  8:41:27 2020,JavaProtocolExtensions.java,Shi Chen
+Fri Nov 13  8:41:27 2020,ClientPreferences.java,Shi Chen
+Fri Nov 13  8:41:27 2020,RefactorProposalUtility.java,Shi Chen
+Fri Nov 13  8:41:27 2020,InferSelectionHandlerTest.java,Shi Chen
+Fri Nov 27 13:15:47 2020,ExtractMethodRefactoring.java,Shi Chen
+Fri Nov 27 13:15:47 2020,RefactorProposalUtility.java,Shi Chen
+Tue Dec  1 11:31:28 2020,RefactorProcessor.java,Shi Chen
+Tue Dec  1 11:31:28 2020,GetRefactorEditHandler.java,Shi Chen
+Tue Dec  1 11:31:28 2020,InferSelectionHandler.java,Shi Chen
+Tue Dec  1 11:31:28 2020,ClientPreferences.java,Shi Chen
+Tue Dec  1 11:31:28 2020,RefactorProposalUtility.java,Shi Chen
+Tue Dec  1 11:31:28 2020,InferSelectionHandlerTest.java,Shi Chen
+Wed Dec  2  4:47:32 2020,RefactorProcessor.java,Shi Chen
+Wed Dec  2  4:47:32 2020,GetRefactorEditHandler.java,Shi Chen
+Wed Dec  2  4:47:32 2020,InferSelectionHandler.java,Shi Chen
+Wed Dec  2  4:47:32 2020,ClientPreferences.java,Shi Chen
+Wed Dec  2  4:47:32 2020,RefactorProposalUtility.java,Shi Chen
+Wed Dec  2  4:47:32 2020,InferSelectionHandlerTest.java,Shi Chen

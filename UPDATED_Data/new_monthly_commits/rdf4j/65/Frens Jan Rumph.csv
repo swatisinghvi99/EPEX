@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Mon May 31 10:22:57 2021,RDFSizeBenchmarks.java,Frens Jan Rumph
+Mon May 31 10:22:57 2021,RDFTestDataset.java,Frens Jan Rumph
+Mon May 31 10:22:57 2021,BinaryRDFWriterSettings.java,Frens Jan Rumph
+Mon May 31 10:22:57 2021,BinaryRDFConstants.java,Frens Jan Rumph
+Mon May 31 10:22:57 2021,BinaryRDFParser.java,Frens Jan Rumph
+Mon May 31 10:22:57 2021,BinaryRDFWriter.java,Frens Jan Rumph
+Mon May 31 10:22:57 2021,BinaryRDFWriterBackgroundTest.java,Frens Jan Rumph
+Mon May 31 10:22:57 2021,BinaryRDFWriterTest.java,Frens Jan Rumph
+Mon May 31 10:22:57 2021,pom.xml,Frens Jan Rumph
+Mon May 31 10:22:57 2021,IOUtil.java,Frens Jan Rumph
+Mon May 31 10:22:57 2021,IOUtilTest.java,Frens Jan Rumph
+Mon May 31 10:22:57 2021,RDFSizeBenchmarks.java,Frens Jan Rumph
+Tue Jun  1  7:46:02 2021,ParserBenchmark.java,Frens Jan Rumph
+Tue Jun  1  7:46:02 2021,DataSetGenerator.java,Frens Jan Rumph
+Tue Jun  1  7:46:02 2021,WriterBenchmark.java,Frens Jan Rumph

@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Tue Jul 14  7:34:37 2020,DefaultFactoryParameterResolver.java,Max Shaposhnik
+Tue Jul 14  7:34:37 2020,DefaultFactoryParameterResolverTest.java,Max Shaposhnik
+Fri Jul 31 11:45:33 2020,che.properties,Max Shaposhnik
+Fri Jul 31 11:45:33 2020,KubernetesInternalRuntime.java,Max Shaposhnik
+Fri Jul 31 11:45:33 2020,KubernetesConfigsMaps.java,Max Shaposhnik
+Fri Jul 31 11:45:33 2020,OpenShiftInternalRuntime.java,Max Shaposhnik
+Fri Jul 31 11:45:33 2020,OpenShiftStopWorkspaceRoleProvisioner.java,Max Shaposhnik
+Fri Jul 31 11:45:33 2020,Openshift4TrustedCAProvisioner.java,Max Shaposhnik
+Fri Jul 31 11:45:33 2020,OpenShiftInternalRuntimeTest.java,Max Shaposhnik
+Fri Jul 31 11:45:33 2020,OpenShiftStopWorkspaceRoleProvisionerTest.java,Max Shaposhnik
+Fri Jul 31 11:45:33 2020,Openshift4TrustedCAProvisionerTest.java,Max Shaposhnik
+Fri Aug  7  8:20:05 2020,che.properties,Max Shaposhnik
+Fri Aug  7  8:20:05 2020,Openshift4TrustedCAProvisioner.java,Max Shaposhnik
+Fri Aug  7  8:20:05 2020,Openshift4TrustedCAProvisionerTest.java,Max Shaposhnik
+Tue Aug 11  9:50:24 2020,che.properties,Max Shaposhnik
+Tue Aug 11  9:50:24 2020,GithubURLParser.java,Max Shaposhnik
+Tue Aug 11  9:50:24 2020,GithubUrl.java,Max Shaposhnik
+Tue Aug 11  9:50:24 2020,GithubFactoryParametersResolverTest.java,Max Shaposhnik
+Tue Aug 11  9:50:24 2020,GithubURLParserTest.java,Max Shaposhnik
+Tue Aug 11  9:50:24 2020,GithubUrlTest.java,Max Shaposhnik
+Tue Aug 11  9:50:24 2020,DefaultFactoryParameterResolver.java,Max Shaposhnik
+Tue Aug 11  9:50:24 2020,DefaultFactoryUrl.java,Max Shaposhnik
+Tue Aug 11  9:50:24 2020,DevfileFilenamesProvider.java,Max Shaposhnik
+Tue Aug 11  9:50:24 2020,RemoteFactoryUrl.java,Max Shaposhnik
+Tue Aug 11  9:50:24 2020,URLFactoryBuilder.java,Max Shaposhnik
+Tue Aug 11  9:50:24 2020,URLFactoryBuilderTest.java,Max Shaposhnik

@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Tue May  8 15:12:39 2018,README.md,ilaryionava
+Tue May  8 15:12:39 2018,pom.xml,ilaryionava
+Tue May  8 15:12:39 2018,TestMessageGenerator.java,ilaryionava
+Tue May  8 15:12:39 2018,ScheduleSender.java,ilaryionava
+Tue May  8 15:12:39 2018,TMGConfigManager.java,ilaryionava
+Tue May  8 15:12:39 2018,TMGMessageManager.java,ilaryionava
+Tue May  8 15:12:39 2018,ByteUtils.java,ilaryionava
+Tue May  8 15:12:39 2018,IOFogResponseUtils.java,ilaryionava
+Tue May  8 15:12:39 2018,IOMessageConverter.java,ilaryionava
+Tue May  8 15:12:39 2018,IOMessageUtils.java,ilaryionava
+Tue May  8 15:12:39 2018,TMGFileUtils.java,ilaryionava
+Tue May  8 15:12:39 2018,IOMessage.java,ilaryionava
+Tue May  8 15:12:39 2018,LocalAPIURLType.java,ilaryionava
+Tue May  8 15:12:39 2018,WebSocketManager.java,ilaryionava
+Tue May  8 15:12:39 2018,HttpRequestHandler.java,ilaryionava
+Tue May  8 15:12:39 2018,TMGHandler.java,ilaryionava
+Tue May  8 15:12:39 2018,TMGWSManagerListener.java,ilaryionava
+Tue May  8 15:12:39 2018,WebSocketManagerListener.java,ilaryionava

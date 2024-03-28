@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Mon May  7  8:49:24 2007,JavaElementDeltaTests.java,Jerome Lanneluc
+Mon May  7  8:49:24 2007,messages.properties,Jerome Lanneluc
+Mon May  7  8:49:24 2007,buildnotes_jdt-core.html,Jerome Lanneluc
+Mon May  7  8:49:24 2007,DeltaProcessor.java,Jerome Lanneluc
+Wed May  9 11:31:58 2007,ClasspathTests.java,Jerome Lanneluc
+Wed May  9 11:31:58 2007,buildnotes_jdt-core.html,Jerome Lanneluc
+Wed May  9 11:31:58 2007,DeltaProcessor.java,Jerome Lanneluc
+Tue May 15 10:50:59 2007,ClasspathTests.java,Jerome Lanneluc
+Tue May 15 10:50:59 2007,messages.properties,Jerome Lanneluc
+Tue May 15 10:50:59 2007,buildnotes_jdt-core.html,Jerome Lanneluc
+Tue May 15 10:50:59 2007,ChangeClasspathOperation.java,Jerome Lanneluc
+Wed May 16 16:56:28 2007,FullSourceWorkspaceModelTests.java,Jerome Lanneluc
+Wed May 16 16:56:28 2007,messages.properties,Jerome Lanneluc
+Wed May 16 16:56:28 2007,buildnotes_jdt-core.html,Jerome Lanneluc
+Wed May 16 16:56:28 2007,JavaModelManager.java,Jerome Lanneluc
+Wed May 16 17:10:28 2007,FullSourceWorkspaceModelTests.java,Jerome Lanneluc
+Wed May 16 17:17:37 2007,FullSourceWorkspaceModelTests.java,Jerome Lanneluc
+Wed May 23 13:59:56 2007,DebugEvaluationSetup.java,Jerome Lanneluc
+Wed May 23 13:59:56 2007,EvaluationSetup.java,Jerome Lanneluc
+Wed May 23 13:59:56 2007,SimpleTest.java,Jerome Lanneluc
+Wed May 23 13:59:56 2007,buildnotes_jdt-core.html,Jerome Lanneluc
+Fri May 25 13:43:12 2007,messages.properties,Jerome Lanneluc
+Fri May 25 13:43:12 2007,buildnotes_jdt-core.html,Jerome Lanneluc
+Fri May 25 13:43:12 2007,DefaultCodeFormatterConstants.java,Jerome Lanneluc
+Fri May 25 13:43:12 2007,ToolFactory.java,Jerome Lanneluc
+Mon May 28 17:17:59 2007,ToolFactory.java,Jerome Lanneluc

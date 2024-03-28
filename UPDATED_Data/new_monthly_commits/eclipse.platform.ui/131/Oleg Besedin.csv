@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Mon Mar 19 13:38:43 2012,ResourceHandler.java,Oleg Besedin
+Mon Mar 19 13:38:43 2012,Workbench.java,Oleg Besedin
+Mon Mar 19 13:38:43 2012,ViewRegistry.java,Oleg Besedin
+Mon Mar 19 13:38:52 2012,ContextsDebugProcessor.java,Oleg Besedin
+Mon Mar 19 13:39:03 2012,ContextsDebugProcessor.java,Oleg Besedin
+Mon Mar 19 13:39:03 2012,BindingToModelProcessor.java,Oleg Besedin
+Mon Mar 19 13:39:03 2012,BindingService.java,Oleg Besedin
+Mon Mar 19 13:39:03 2012,ViewRegistry.java,Oleg Besedin
+Mon Mar 19 13:39:12 2012,ResourceHandler.java,Oleg Besedin
+Mon Mar 19 13:39:22 2012,ResourceHandler.java,Oleg Besedin
+Mon Mar 19 13:39:22 2012,ResourceHandlerTest.java,Oleg Besedin
+Mon Mar 19 13:39:31 2012,ResourceHandler.java,Oleg Besedin
+Thu Mar 22 20:20:46 2012,BindingProcessingAddon.java,Oleg Besedin
+Thu Mar 22 20:20:46 2012,BindingService.java,Oleg Besedin
+Fri Mar 23 14:01:03 2012,ViewRegistry.java,Oleg Besedin
+Mon Mar 26 14:14:30 2012,MenuThemeProcessor.java,Oleg Besedin
+Mon Mar 26 14:14:30 2012,ToolbarThemeProcessor.java,Oleg Besedin
+Mon Mar 26 17:55:56 2012,Application.e4xmi,Oleg Besedin
+Mon Mar 26 17:55:56 2012,fragment.e4xmi,Oleg Besedin
+Mon Mar 26 17:55:56 2012,plugin.properties,Oleg Besedin
+Mon Mar 26 17:55:56 2012,plugin.xml,Oleg Besedin
+Mon Mar 26 17:55:56 2012,FragmentHandler.java,Oleg Besedin
+Mon Mar 26 19:55:06 2012,ModelUtils.java,Oleg Besedin
+Wed Mar 28 18:28:01 2012,PerspectiveSwitcher.java,Oleg Besedin

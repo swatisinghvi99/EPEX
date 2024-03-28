@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Mon Oct 24  6:50:02 2011,ClickAnnotationHandler.java,Stefan Liebig
+Mon Oct 24  6:50:02 2011,DoubleClickAnnotationHandler.java,Stefan Liebig
+Mon Oct 24  6:51:03 2011,SelectionChangedAnnotationHandler.java,Stefan Liebig
+Tue Oct 25  6:33:08 2011,SubApplicationToolTip.java,Stefan Liebig
+Tue Oct 25  6:33:38 2011,SubApplicationToolTipTest.java,Stefan Liebig
+Wed Oct 26  7:16:17 2011,SwtUtilities.java,Stefan Liebig
+Wed Oct 26  7:21:21 2011,Iter.java,Stefan Liebig
+Wed Oct 26  7:22:51 2011,NavigationProcessor.java,Stefan Liebig
+Wed Oct 26 12:30:07 2011,RAPSingletonProvider.java,Stefan Liebig
+Wed Oct 26 12:30:07 2011,RCPSingletonProvider.java,Stefan Liebig
+Wed Oct 26 12:30:57 2011,SingletonFailure.java,Stefan Liebig
+Wed Oct 26 12:31:21 2011,ISingletonInitializer.java,Stefan Liebig
+Wed Oct 26 12:32:34 2011,SessionServiceProvider.java,Stefan Liebig
+Wed Oct 26 12:33:59 2011,SessionSingletonProvider.java,Stefan Liebig
+Wed Oct 26 12:35:52 2011,SingletonProvider.java,Stefan Liebig
+Wed Oct 26 12:40:07 2011,OnClick.java,Stefan Liebig
+Wed Oct 26 12:40:07 2011,OnDoubleClick.java,Stefan Liebig
+Wed Oct 26 14:13:24 2011,SharedColors.java,Stefan Liebig
+Wed Oct 26 14:14:01 2011,SharedColorsTest.java,Stefan Liebig
+Fri Oct 28  5:35:33 2011,SessionServiceProvider.java,Stefan Liebig
+Tue Nov 15  8:25:07 2011,CompanionTest.java,Stefan Liebig
+Tue Nov 15  8:25:30 2011,Companion.java,Stefan Liebig
+Wed Nov 16  9:34:52 2011,ActionRidgetTest.java,Stefan Liebig

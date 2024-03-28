@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Jul 12 12:32:52 2010,LocalMetadataRepositoryTest.java,Ian Bull
+Mon Jul 12 20:29:16 2010,MANIFEST.MF,Ian Bull
+Mon Jul 12 20:29:16 2010,MANIFEST.MF,Ian Bull
+Mon Jul 12 20:29:16 2010,MetadataFactory.java,Ian Bull
+Mon Jul 12 20:29:16 2010,AbstractPublisherAction.java,Ian Bull
+Mon Jul 12 20:29:16 2010,IUpdateDescriptorAdvice.java,Ian Bull
+Mon Jul 12 20:29:16 2010,RootIUAction.java,Ian Bull
+Mon Jul 12 20:29:16 2010,AdviceFileAdvice.java,Ian Bull
+Mon Jul 12 20:29:16 2010,AdviceFileParser.java,Ian Bull
+Mon Jul 12 20:29:16 2010,BundlesAction.java,Ian Bull
+Mon Jul 12 20:29:16 2010,FeaturesAction.java,Ian Bull
+Mon Jul 12 20:29:16 2010,AbstractPublisherActionTest.java,Ian Bull
+Mon Jul 12 20:29:16 2010,AdviceFileParserTest.java,Ian Bull
+Mon Jul 12 20:29:16 2010,AdviceMatcher.java,Ian Bull
+Mon Jul 12 20:29:16 2010,BundlesActionTest.java,Ian Bull
+Mon Jul 12 20:29:16 2010,FeaturesActionTest.java,Ian Bull
+Mon Jul 12 20:29:16 2010,RootIUActionTest.java,Ian Bull
+Mon Jul 12 20:29:16 2010,BundleMeUp.txt,Ian Bull
+Mon Jul 12 20:29:16 2010,MANIFEST.MF,Ian Bull
+Mon Jul 12 20:29:16 2010,p2.inf,Ian Bull
+Mon Jul 12 20:29:16 2010,BundleMeUpToo.txt,Ian Bull

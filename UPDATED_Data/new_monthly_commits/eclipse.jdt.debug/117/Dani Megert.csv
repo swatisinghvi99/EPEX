@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Thu Jan 20 15:34:44 2011,MANIFEST.MF,Dani Megert
+Thu Jan 20 15:34:44 2011,JavaBreakpointConditionEditor.java,Dani Megert
+Thu Jan 20 15:34:44 2011,LineBreakpointDetailPane.java,Dani Megert
+Thu Jan 20 15:34:44 2011,MethodBreakpointDetailPane.java,Dani Megert
+Thu Jan 20 15:34:44 2011,JavaBreakpointPage.java,Dani Megert
+Thu Jan 20 15:34:44 2011,PropertyPageMessages.java,Dani Megert
+Thu Jan 20 15:34:44 2011,PropertyPageMessages.properties,Dani Megert
+Fri Jan 21  7:31:35 2011,JavaBreakpointConditionEditor.java,Dani Megert
+Mon Jan 24 11:34:33 2011,JDIReferenceListVariable.java,Dani Megert
+Mon Jan 24 13:52:51 2011,Accessor.java,Dani Megert
+Mon Jan 24 13:52:51 2011,OpenFromClipboardTests.java,Dani Megert
+Mon Jan 24 13:52:51 2011,OpenFromClipboardAction.java,Dani Megert
+Wed Jan 26  8:40:13 2011,AutomatedSuite.java,Dani Megert
+Wed Jan 26  8:40:13 2011,OpenFromClipboardTests.java,Dani Megert
+Wed Jan 26 12:01:02 2011,JavaBreakpointConditionEditor.java,Dani Megert
+Wed Jan 26 12:01:54 2011,PropertyPageMessages.java,Dani Megert
+Wed Jan 26 12:01:54 2011,PropertyPageMessages.properties,Dani Megert
+Tue Feb  1 13:33:51 2011,JavaBreakpointConditionEditor.java,Dani Megert

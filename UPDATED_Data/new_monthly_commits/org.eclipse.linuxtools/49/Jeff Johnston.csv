@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Fri Jan 25 21:53:45 2013,PerfOptionsTab.java,Jeff Johnston
+Wed Jan 30 16:29:40 2013,MANIFEST.MF,Jeff Johnston
+Wed Jan 30 16:29:40 2013,plugin.properties,Jeff Johnston
+Wed Jan 30 16:29:40 2013,plugin.xml,Jeff Johnston
+Wed Jan 30 16:29:40 2013,AbstractProfilingOptionsTab.java,Jeff Johnston
+Wed Jan 30 16:29:40 2013,CApplicationLaunchShortcut.java,Jeff Johnston
+Wed Jan 30 16:29:40 2013,CProfilingOptionsTab.java,Jeff Johnston
+Wed Jan 30 16:29:40 2013,Messages.java,Jeff Johnston
+Wed Jan 30 16:29:40 2013,ProfileLaunchPlugin.java,Jeff Johnston
+Wed Jan 30 16:29:40 2013,messages.properties,Jeff Johnston
+Wed Jan 30 16:29:40 2013,ProviderOptionsTab.java,Jeff Johnston
+Wed Jan 30 16:29:40 2013,ProviderProfileConstants.java,Jeff Johnston
+Wed Jan 30 16:29:40 2013,Messages.java,Jeff Johnston
+Wed Jan 30 16:29:40 2013,ProviderFramework.java,Jeff Johnston
+Wed Jan 30 16:29:40 2013,ProviderLaunchConfigurationDelegate.java,Jeff Johnston
+Wed Jan 30 16:29:40 2013,messages.properties,Jeff Johnston
+Wed Jan 30 16:29:40 2013,PlaceHolderLaunchConfigurationTabGroup.java,Jeff Johnston

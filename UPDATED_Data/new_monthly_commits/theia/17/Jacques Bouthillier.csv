@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Thu Jul 19 18:05:56 2018,application-package-manager.ts,Jacques Bouthillier
+Tue Jul 24 15:19:55 2018,quick-open-workspace.ts,Jacques Bouthillier
+Tue Jul 24 15:19:55 2018,workspace-commands.ts,Jacques Bouthillier
+Tue Jul 24 15:19:55 2018,workspace-frontend-contribution.ts,Jacques Bouthillier
+Tue Jul 24 15:19:55 2018,workspace-frontend-module.ts,Jacques Bouthillier
+Tue Jul 24 15:19:55 2018,workspace-service.ts,Jacques Bouthillier
+Tue Jul 24 15:19:55 2018,mock-workspace-server.ts,Jacques Bouthillier
+Tue Jul 24 15:19:55 2018,workspace-protocol.ts,Jacques Bouthillier
+Tue Jul 24 15:19:55 2018,default-workspace-server.ts,Jacques Bouthillier

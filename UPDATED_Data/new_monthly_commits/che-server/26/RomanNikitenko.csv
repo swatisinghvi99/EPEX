@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Tue Mar 27  7:57:42 2018,ProjectApiModule.java,RomanNikitenko
+Tue Mar 27  7:57:42 2018,RootDirRemovalHandler.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,AppStateServiceClient.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,pom.xml,RomanNikitenko
+Wed Apr 11 10:53:01 2018,DefaultIdeInitializationStrategy.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,FactoryIdeInitializationStrategy.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,AppContextImpl.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,AppStateBackwardCompatibility.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,AppStateConstants.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,AppStateManager.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,AppStateServiceClientImpl.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,AppStateSyncWriter.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,AppStateTracker.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,PersistenceApiModule.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,StopWorkspaceAction.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,AppStateManagerTest.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,ProjectServiceApi.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,ProjectServiceVcsStatusInjector.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,pom.xml,RomanNikitenko
+Wed Apr 11 10:53:01 2018,CheWsAgentModule.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,AppStateManager.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,AppStateService.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,AppStateManagerTest.java,RomanNikitenko
+Wed Apr 11 10:53:01 2018,AppStateServiceTest.java,RomanNikitenko

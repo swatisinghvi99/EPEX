@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Thu May 28 11:54:40 2020,TestsUtil.java,Laurent Redor
+Thu May 28 11:54:40 2020,SWTBotCommonHelper.java,Laurent Redor
+Thu May 28 11:54:40 2020,EditorSavingTest.java,Laurent Redor
+Thu May 28 11:54:40 2020,SessionSaveableTest.java,Laurent Redor
+Thu May 28 11:54:41 2020,DLineExpansionChecker.java,Laurent Redor
+Thu May 28 15:20:27 2020,NoteCreationTest.java,Laurent Redor
+Thu May 28 15:20:29 2020,RenameProjectWithSessionTest.java,Laurent Redor
+Thu May 28 15:20:30 2020,RefreshWithCustomizedStyleTests.java,Laurent Redor
+Thu May 28 15:20:32 2020,MigrationOnVsmEditorReloadTest.java,Laurent Redor
+Thu May 28 15:20:34 2020,GroupElementsInOneOtherTests.java,Laurent Redor
+Thu May 28 15:20:35 2020,ArrangeAllLinkedBorderedNodesLayoutStabilityTest.java,Laurent Redor
+Thu May 28 16:35:18 2020,CombinedFragmentCompartmentEditPart.java,Laurent Redor
+Thu May 28 16:35:18 2020,OperandCompartmentEditPart.java,Laurent Redor
+Thu May 28 16:35:18 2020,SequenceCompartmentConnectionRefreshMgr.java,Laurent Redor
+Thu May 28 16:35:19 2020,NoteAttachmentTest.java,Laurent Redor
+Thu May 28 16:35:19 2020,NoteAttachmentsWithCombinedFragmentTests.java,Laurent Redor
+Thu May 28 16:35:19 2020,CheckNoteAttachement.java,Laurent Redor
+Thu May 28 16:35:19 2020,SequenceSwtBotTestSuite.java,Laurent Redor
+Thu Jun  4 16:21:19 2020,AbstractCompartmentTest.java,Laurent Redor
+Thu Jun  4 16:21:19 2020,CompartmentsTest.java,Laurent Redor

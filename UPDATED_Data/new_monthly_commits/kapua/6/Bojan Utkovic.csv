@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Fri Mar 31  7:22:43 2017,UserView.java,Bojan Utkovic
+Fri Mar 31  7:22:43 2017,UserTabDescription.java,Bojan Utkovic
+Fri Mar 31  7:22:43 2017,GwtUserServiceImpl.java,Bojan Utkovic
+Fri Mar 31  7:22:43 2017,GwtUserService.java,Bojan Utkovic
+Wed Apr 12 14:09:51 2017,AssetDetailsTable.java,Bojan Utkovic
+Wed Apr 12 14:09:51 2017,AssetTabItem.java,Bojan Utkovic
+Wed Apr 12 14:09:51 2017,AssetTable.java,Bojan Utkovic
+Wed Apr 12 14:09:51 2017,ConfigurationPanelTable.java,Bojan Utkovic
+Wed Apr 12 14:09:51 2017,DeviceConfigurationTab.java,Bojan Utkovic
+Wed Apr 12 14:09:51 2017,DeviceTabs.java,Bojan Utkovic
+Wed Apr 12 14:09:51 2017,DeviceValuesTab.java,Bojan Utkovic
+Wed Apr 12 14:09:51 2017,GwtChannel.java,Bojan Utkovic
+Wed Apr 12 14:09:51 2017,ConsoleMessages.properties,Bojan Utkovic
+Thu Apr 13 11:14:51 2017,AssetDetailsTable.java,Bojan Utkovic
+Thu Apr 13 11:14:51 2017,AssetTabItem.java,Bojan Utkovic
+Thu Apr 13 11:14:51 2017,AssetTable.java,Bojan Utkovic
+Thu Apr 13 11:14:51 2017,ConfigurationPanelTable.java,Bojan Utkovic
+Thu Apr 13 11:14:51 2017,DeviceConfigurationTab.java,Bojan Utkovic
+Thu Apr 13 11:14:51 2017,DeviceValuesTab.java,Bojan Utkovic
+Thu Apr 13 11:14:51 2017,GwtChannel.java,Bojan Utkovic

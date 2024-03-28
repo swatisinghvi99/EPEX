@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Tue Nov 21  8:02:22 2017,LanguageServiceAccessorTest.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,OpenCloseLanguageServerTest.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,DocumentDidChangeTest.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,DocumentDidCloseTest.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,DocumentDidOpenTest.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,DocumentDidSaveTest.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,DocumentRevertAndCloseTest.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,LanguageServerWrapper.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,LanguageServiceAccessor.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,CodeActionMarkerResolution.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,LSPCodeActionMarkerResolution.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,LSPCodeActionsMenu.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,LSPCodeLensMenu.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,LSContentAssistProcessor.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,LSIncompleteCompletionProposal.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,OpenDeclarationHyperlinkDetector.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,DocumentLinkDetector.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,LSPFormatter.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,HighlightReconcilingStrategy.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,LSBasedHover.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,LSSearchQuery.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,LSPRenameProcessor.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,LSPSymbolInFileHandler.java,Lucas Bullen
+Tue Nov 21  8:02:22 2017,LSSymbolsContentProvider.java,Lucas Bullen
+Thu Nov 23 19:53:23 2017,plugin.xml,Lucas Bullen
+Thu Nov 23 19:53:23 2017,HighlightReconcilingStrategy.java,Lucas Bullen

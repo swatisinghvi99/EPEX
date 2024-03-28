@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Tue Oct 11  8:28:02 2016,HueBridgeHandlerOSGiTest.groovy,Alexander Kostadinov
+Tue Oct 11  8:28:02 2016,hue.properties,Alexander Kostadinov
+Tue Oct 11  8:28:02 2016,hue_de.properties,Alexander Kostadinov
+Tue Oct 11  8:28:02 2016,MANIFEST.MF,Alexander Kostadinov
+Tue Oct 11  8:28:02 2016,HueBridgeHandler.java,Alexander Kostadinov
+Tue Oct 11  8:28:02 2016,HueConfigStatusMessage.java,Alexander Kostadinov
+Sun Oct 16 17:38:45 2016,AudioFormat.java,Alexander Kostadinov
+Fri Oct 21  8:27:05 2016,GenericWemoLightOSGiTest.groovy,Alexander Kostadinov
+Fri Oct 21  8:27:05 2016,GenericWemoOSGiTest.groovy,Alexander Kostadinov

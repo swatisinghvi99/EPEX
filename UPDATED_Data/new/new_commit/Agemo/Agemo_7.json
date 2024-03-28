@@ -1,0 +1,37 @@
+[
+    [
+        "devkelley",
+        "lock",
+        2
+    ],
+    [
+        "devkelley",
+        "toml",
+        5
+    ],
+    [
+        "devkelley",
+        "amd64",
+        1
+    ],
+    [
+        "devkelley",
+        "arm64",
+        1
+    ],
+    [
+        "devkelley",
+        "md",
+        4
+    ],
+    [
+        "devkelley",
+        "rs",
+        10
+    ],
+    [
+        "devkelley",
+        "yaml",
+        2
+    ]
+]

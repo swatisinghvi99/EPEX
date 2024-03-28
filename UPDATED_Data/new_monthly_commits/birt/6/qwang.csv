@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Tue Jul  5  7:20:08 2005,DeferredGraphicalViewer.java,qwang
+Tue Jul  5  7:20:08 2005,TableLayout.java,qwang
+Thu Jul  7  3:17:59 2005,DeleteCommand.java,qwang
+Thu Jul  7  3:17:59 2005,ImageManager.java,qwang
+Mon Jul 18  6:13:38 2005,FontPreferencePage.java,qwang
+Mon Jul 18  6:13:38 2005,EditorRulerFigure.java,qwang
+Mon Jul 18  6:13:38 2005,ChoiceSetFactory.java,qwang
+Mon Jul 18  7:33:53 2005,AlphabeticallyComparator.java,qwang
+Mon Jul 18  7:33:53 2005,DEUtil.java,qwang
+Wed Jul 20  2:52:39 2005,LabelFigure.java,qwang
+Wed Jul 20  2:52:39 2005,TextFlow.java,qwang
+Thu Jul 21  7:40:13 2005,BaseAttributePageTest.java,qwang
+Thu Jul 21 11:02:27 2005,UIUtil.java,qwang
+Thu Jul 21 11:02:27 2005,StackWindowAction.java,qwang
+Fri Jul 22  2:49:53 2005,NewResourceFileDialog.java,qwang

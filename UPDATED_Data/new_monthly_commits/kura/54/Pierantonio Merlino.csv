@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Tue May 29 19:11:17 2018,kura.build.properties,Pierantonio Merlino
+Tue May 29 19:11:17 2018,EddystoneScanner.java,Pierantonio Merlino
+Tue May 29 19:11:17 2018,IBeaconScanner.java,Pierantonio Merlino
+Tue May 29 19:11:17 2018,BluetoothLeBeaconScannerImpl.java,Pierantonio Merlino
+Tue May 29 19:11:17 2018,EddystoneDriver.java,Pierantonio Merlino
+Tue May 29 19:11:17 2018,IBeaconDriver.java,Pierantonio Merlino
+Tue May 29 19:11:17 2018,BluetoothLeBeaconManagerImplTest.java,Pierantonio Merlino
+Tue May 29 19:11:17 2018,BluetoothLeBeaconScannerImplTest.java,Pierantonio Merlino
+Fri Jun  8 12:04:37 2018,CriticalComponentRegistration.java,Pierantonio Merlino
+Fri Jun  8 12:04:37 2018,WatchdogServiceImpl.java,Pierantonio Merlino
+Fri Jun  8 12:04:37 2018,WatchdogServiceImplTest.java,Pierantonio Merlino

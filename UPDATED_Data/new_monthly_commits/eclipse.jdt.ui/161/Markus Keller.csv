@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Thu Sep  4 16:31:56 2014,LocalCorrectionsQuickFixTest.java,Markus Keller
+Thu Sep  4 16:31:56 2014,LocalCorrectionsSubProcessor.java,Markus Keller
+Thu Sep  4 16:31:56 2014,QuickAssistProcessor.java,Markus Keller
+Thu Sep  4 16:31:56 2014,QuickFixProcessor.java,Markus Keller
+Fri Sep  5 13:52:08 2014,SWTTestProject.java,Markus Keller
+Fri Sep  5 18:59:32 2014,ScrollEditorTest.java,Markus Keller
+Fri Sep  5 18:59:32 2014,WhitespaceCharacterPainterTest.java,Markus Keller
+Tue Sep 16 13:31:34 2014,MethodStubsSelectionButtonGroup.java,Markus Keller
+Tue Sep 16 13:31:34 2014,NewTestCaseWizardPageOne.java,Markus Keller
+Tue Sep 16 13:46:49 2014,MethodStubsSelectionButtonGroup.java,Markus Keller
+Mon Sep 22 14:41:32 2014,CleanUpTest.java,Markus Keller
+Mon Sep 22 14:41:32 2014,SortMembersOperation.java,Markus Keller
+Thu Sep 25 10:48:32 2014,ImportReferencesCollector.java,Markus Keller
+Tue Sep 30 12:00:30 2014,ExtractTempRefactoring.java,Markus Keller

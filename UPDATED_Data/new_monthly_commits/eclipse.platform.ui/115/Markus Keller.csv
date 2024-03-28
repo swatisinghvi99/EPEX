@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Mon Nov  8 16:34:07 2010,SWTKeySupport.java,Markus Keller
+Mon Nov  8 18:20:24 2010,DefaultTextDoubleClickStrategy.java,Markus Keller
+Wed Nov 10 15:37:24 2010,QuickAssistAssistant.java,Markus Keller
+Wed Nov 10 15:37:24 2010,TextSourceViewerConfiguration.java,Markus Keller
+Wed Nov 10 15:37:24 2010,EditorsPlugin.java,Markus Keller
+Tue Nov 16 13:52:29 2010,UndoDocumentChange.java,Markus Keller
+Wed Nov 17 13:01:50 2010,ExclusivePositionUpdaterTest.java,Markus Keller
+Wed Nov 17 13:01:50 2010,PositionUpdatingCornerCasesTest.java,Markus Keller
+Wed Nov 17 13:01:50 2010,DefaultPositionUpdater.java,Markus Keller
+Wed Nov 17 13:52:57 2010,DialogSettings.java,Markus Keller
+Wed Nov 17 13:52:57 2010,IDialogSettings.java,Markus Keller
+Wed Nov 17 14:33:32 2010,EditorSelectionDialog.java,Markus Keller
+Thu Nov 18 19:30:13 2010,FindReplaceDialogTest.java,Markus Keller
+Thu Nov 18 20:23:52 2010,ChildDocumentTest.java,Markus Keller
+Thu Nov 18 20:23:52 2010,DocumentTest.java,Markus Keller
+Thu Nov 18 20:23:52 2010,ExclusivePositionUpdaterTest.java,Markus Keller
+Thu Nov 18 20:23:52 2010,DefaultPositionUpdater.java,Markus Keller
+Thu Nov 25 16:54:17 2010,MoveResourcesDescriptor.java,Markus Keller

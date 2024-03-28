@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Fri Jun 20 14:10:52 2008,MANIFEST.MF,Dani Megert
+Fri Jun 20 14:10:52 2008,AbstractJavaReplaceAllTest.java,Dani Megert
+Fri Jun 20 14:10:52 2008,ActivateTextEditorTest.java,Dani Megert
+Fri Jun 20 14:10:52 2008,CodeCompletionPerformanceTest.java,Dani Megert
+Fri Jun 20 14:10:52 2008,ContentTypeTest.java,Dani Megert
+Fri Jun 20 14:10:52 2008,OpenEditorTest.java,Dani Megert
+Fri Jun 20 14:10:52 2008,StartupPerformanceTestCase.java,Dani Megert
+Fri Jun 20 14:57:43 2008,MANIFEST.MF,Dani Megert
+Fri Jun 20 14:57:43 2008,DocumentAdapter.java,Dani Megert
+Fri Jun 20 14:59:41 2008,MANIFEST.MF,Dani Megert
+Fri Jun 20 14:59:41 2008,JavaLeakTest.java,Dani Megert
+Sat Jun 21 10:12:18 2008,CompilationUnitEditor.java,Dani Megert
+Mon Jun 30 13:16:50 2008,OverrideCompletionProposal.java,Dani Megert
+Tue Jul  1  8:03:48 2008,BreakContinueTargetFinderTest.java,Dani Megert
+Tue Jul  1  8:03:48 2008,BreakContinueTargetFinder.java,Dani Megert

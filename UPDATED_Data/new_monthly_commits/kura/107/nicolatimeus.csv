@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Mon Nov  7  8:25:22 2022,MANIFEST.MF,nicolatimeus
+Mon Nov  7  8:25:22 2022,org.eclipse.kura.data.DataService.xml,nicolatimeus
+Mon Nov  7  8:25:22 2022,AlwaysConnectedStrategy.java,nicolatimeus
+Mon Nov  7  8:25:22 2022,AutoConnectStrategy.java,nicolatimeus
+Mon Nov  7  8:25:22 2022,DataServiceImpl.java,nicolatimeus
+Mon Nov  7  8:25:22 2022,DataServiceListenerS.java,nicolatimeus
+Mon Nov  7  8:25:22 2022,DataServiceOptions.java,nicolatimeus
+Mon Nov  7  8:25:22 2022,ScheduleStrategy.java,nicolatimeus
+Mon Nov  7  8:25:22 2022,DataServiceImplTest.java,nicolatimeus
+Mon Nov  7  8:25:22 2022,ScheduleStrategyTest.java,nicolatimeus
+Thu Nov 10 17:07:14 2022,ValueChangeCache.java,nicolatimeus
+Thu Nov 10 17:07:14 2022,WireAsset.java,nicolatimeus
+Thu Nov 10 17:07:14 2022,WireAssetOCD.java,nicolatimeus
+Thu Nov 10 17:07:14 2022,WireAssetOptions.java,nicolatimeus
+Thu Nov 10 17:07:14 2022,MANIFEST.MF,nicolatimeus
+Thu Nov 10 17:07:14 2022,OnChangeCacheTest.java,nicolatimeus
+Fri Nov 11  9:28:16 2022,NetworkConfiguration.java,nicolatimeus
+Fri Nov 11  9:28:16 2022,networkConfigurationService.xml,nicolatimeus
+Fri Nov 11  9:28:16 2022,NetworkConfigurationServiceImpl.java,nicolatimeus
+Fri Nov 11  9:28:16 2022,ModemMonitorServiceImpl.java,nicolatimeus
+Fri Nov 11  9:28:16 2022,GwtNetworkServiceImpl.java,nicolatimeus
+Fri Nov 11  9:28:16 2022,NetworkConfigurationTest.java,nicolatimeus
+Fri Nov 11  9:28:16 2022,NetworkConfigurationServiceImplTest.java,nicolatimeus
+Fri Nov 11  9:28:16 2022,ModemMonitorServiceImplTest.java,nicolatimeus
+Wed Nov 16  9:11:48 2022,NetworkConfiguration.java,nicolatimeus
+Wed Nov 16  9:11:48 2022,NetworkConfigurationServiceImpl.java,nicolatimeus

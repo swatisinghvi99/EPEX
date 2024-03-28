@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Wed Jun  4 14:03:51 2014,CorrectionMessages.java,Markus Keller
+Wed Jun  4 14:03:51 2014,CorrectionMessages.properties,Markus Keller
+Wed Jun  4 14:03:51 2014,IProposalRelevance.java,Markus Keller
+Wed Jun  4 14:03:51 2014,UnresolvedElementsSubProcessor.java,Markus Keller
+Thu Jun 12 17:10:43 2014,A.java,Markus Keller
+Thu Jun 12 17:10:43 2014,A.java,Markus Keller
+Thu Jun 12 17:10:43 2014,A.java,Markus Keller
+Thu Jun 12 17:10:43 2014,B.java,Markus Keller
+Thu Jun 12 17:10:43 2014,MoveInstanceMethodTests.java,Markus Keller
+Thu Jun 12 17:10:43 2014,MoveInstanceMethodProcessor.java,Markus Keller
+Fri Jun 13 16:46:39 2014,ReorgPolicyFactory.java,Markus Keller
+Mon Jun 23 12:17:09 2014,AssistQuickFixTest.java,Markus Keller
+Mon Jun 23 12:17:09 2014,LocalCorrectionsSubProcessor.java,Markus Keller
+Mon Jun 23 12:17:09 2014,QuickAssistProcessor.java,Markus Keller
+Mon Jun 23 12:17:09 2014,QuickFixProcessor.java,Markus Keller
+Mon Jun 23 15:14:28 2014,LocalCorrectionsQuickFixTest.java,Markus Keller
+Tue Jun 24 12:21:44 2014,LocalCorrectionsQuickFixTest.java,Markus Keller
+Tue Jun 24 12:21:44 2014,QuickFixTest.java,Markus Keller
+Thu Jun 26 12:05:15 2014,.gitignore,Markus Keller
+Thu Jun 26 12:05:15 2014,ChkpiiTests.java,Markus Keller
+Fri Jun 27 15:37:34 2014,LocalCorrectionsQuickFixTest.java,Markus Keller
+Wed Jul  2 15:52:28 2014,MethodOverrideTest.java,Markus Keller
+Wed Jul  2 15:52:28 2014,MethodOverrideTester.java,Markus Keller

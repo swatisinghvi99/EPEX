@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Sat May  2 22:57:26 2020,CsvParser.java,Yannick Bröker
+Sat May  2 22:57:26 2020,SchemaTestDataProvider.java,Yannick Bröker
+Sat May  2 22:57:26 2020,sourceSchemaTests.csv,Yannick Bröker
+Sat May  2 22:57:26 2020,CsvParserTest.java,Yannick Bröker
+Sat May  2 23:30:36 2020,CsvParser.java,Yannick Bröker
+Sat May  2 23:30:36 2020,CsvParserTest.java,Yannick Bröker
+Sat May 16 17:33:18 2020,ReferencedTypeTestApi.java,Yannick Bröker
+Sat May 16 17:41:20 2020,ArraysApi.java,Yannick Bröker
+Sat May 16 17:41:20 2020,ArraysHolder.java,Yannick Bröker
+Sat May 16 17:41:20 2020,input.graphql,Yannick Bröker
+Sat May 16 17:41:20 2020,output.json,Yannick Bröker
+Sat May 16 17:41:20 2020,test.properties,Yannick Bröker
+Sat May 16 17:41:37 2020,CharApi.java,Yannick Bröker
+Sat May 16 17:41:37 2020,input.graphql,Yannick Bröker
+Sat May 16 17:41:37 2020,output.json,Yannick Bröker
+Sat May 16 17:41:37 2020,test.properties,Yannick Bröker

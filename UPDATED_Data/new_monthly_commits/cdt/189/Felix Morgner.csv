@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Wed Mar 14  8:30:42 2018,QuickFixAddSemicolon.java,Felix Morgner
+Wed Mar 14  8:30:42 2018,QuickFixCreateLocalVariable.java,Felix Morgner
+Wed Mar 14  8:30:42 2018,QuickFixRenameMember.java,Felix Morgner
+Wed Mar 14  8:30:42 2018,CaseBreakQuickFixFallthroughAttributeTest.java,Felix Morgner
+Wed Mar 14  8:30:42 2018,CreateLocalVariableQuickFixTest.java,Felix Morgner
+Wed Mar 14  8:30:42 2018,QuickFixTestCase.java,Felix Morgner
+Wed Mar 14  8:30:42 2018,MANIFEST.MF,Felix Morgner
+Wed Mar 14  8:30:42 2018,AbstractCodanCMarkerResolution.java,Felix Morgner

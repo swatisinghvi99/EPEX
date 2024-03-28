@@ -1,0 +1,28 @@
+date_time,file,committer_name
+Thu Mar  7 13:17:53 2019,pom.xml,Jozef Marko
+Thu Mar  7 13:17:53 2019,BuilderTest.java,Jozef Marko
+Thu Mar  7 13:17:53 2019,pom.xml,Jozef Marko
+Thu Mar  7 13:17:53 2019,kmodule.xml,Jozef Marko
+Thu Mar  7 13:17:53 2019,simple sum wrong variable.dmn,Jozef Marko
+Thu Mar  7 13:21:12 2019,AbstractMergableGridWidgetSortingTest.java,Jozef Marko
+Fri Mar  8  9:40:44 2019,ExpressionEditorViewImpl.java,Jozef Marko
+Fri Mar  8  9:40:44 2019,ExpressionEditorColumn.java,Jozef Marko
+Fri Mar  8  9:40:44 2019,FunctionGrid.java,Jozef Marko
+Fri Mar  8  9:40:44 2019,UndefinedExpressionColumn.java,Jozef Marko
+Fri Mar  8  9:40:44 2019,UndefinedExpressionGrid.java,Jozef Marko
+Fri Mar  8  9:40:44 2019,BaseExpressionGrid.java,Jozef Marko
+Fri Mar  8  9:40:44 2019,BaseGrid.java,Jozef Marko
+Fri Mar  8  9:40:44 2019,EditableHeaderGridWidgetEditCellMouseEventHandler.java,Jozef Marko
+Fri Mar  8  9:40:44 2019,InverseGridWidgetClipper.java,Jozef Marko
+Fri Mar  8  9:40:44 2019,DMNGridPanelContextMenuHandler.java,Jozef Marko
+Fri Mar  8  9:40:44 2019,ExpressionEditorViewImplTest.java,Jozef Marko
+Fri Mar  8  9:40:44 2019,ExpressionEditorColumnTest.java,Jozef Marko
+Fri Mar  8  9:40:44 2019,FunctionGridTest.java,Jozef Marko
+Fri Mar  8  9:40:44 2019,UndefinedExpressionColumnTest.java,Jozef Marko
+Fri Mar  8  9:40:44 2019,BaseExpressionGridGeneralTest.java,Jozef Marko
+Fri Mar  8  9:40:44 2019,EditableHeaderGridWidgetEditCellMouseEventHandlerTest.java,Jozef Marko
+Fri Mar  8  9:40:44 2019,DMNGridLayerTest.java,Jozef Marko
+Fri Mar  8  9:40:44 2019,InverseGridWidgetClipperTest.java,Jozef Marko
+Wed Mar 27 13:35:48 2019,DMNParseServiceImpl.java,Jozef Marko
+Wed Mar 27 13:35:48 2019,DMNParseServiceImplTest.java,Jozef Marko
+Mon Apr  1 13:17:22 2019,AbstractFindQuery.java,Jozef Marko

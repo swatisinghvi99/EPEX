@@ -1,0 +1,7 @@
+date_time,file,committer_name
+Thu Feb 15 13:45:53 2018,OpenShiftProjectFactory.java,Oleksandr Garagatyi
+Mon Mar 12  8:56:34 2018,H2SQLJndiDataSourceFactory.java,Oleksandr Garagatyi
+Mon Mar 12  8:56:34 2018,PostgreSQLJndiDataSourceFactory.java,Oleksandr Garagatyi
+Mon Mar 12  8:56:34 2018,JNDIDataSourceFactory.java,Oleksandr Garagatyi
+Mon Mar 12  8:56:34 2018,che.env,Oleksandr Garagatyi
+Mon Mar 12  9:02:38 2018,KubernetesInternalRuntime.java,Oleksandr Garagatyi

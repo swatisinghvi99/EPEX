@@ -1,0 +1,122 @@
+[
+    [
+        "Martin Nonnenmacher",
+        "kt",
+        123
+    ],
+    [
+        "Martin Nonnenmacher",
+        "md",
+        2
+    ],
+    [
+        "Martin Nonnenmacher",
+        "kts",
+        27
+    ],
+    [
+        "Martin Nonnenmacher",
+        "properties",
+        2
+    ],
+    [
+        "Martin Nonnenmacher",
+        "conf",
+        5
+    ],
+    [
+        "Martin Nonnenmacher",
+        "toml",
+        4
+    ],
+    [
+        "Martin Nonnenmacher",
+        "Reporter",
+        1
+    ],
+    [
+        "Martin Nonnenmacher",
+        "sql",
+        2
+    ],
+    [
+        "Oliver Heger",
+        "kt",
+        60
+    ],
+    [
+        "Oliver Heger",
+        "kts",
+        4
+    ],
+    [
+        "Oliver Heger",
+        "conf",
+        1
+    ],
+    [
+        "Oliver Heger",
+        "ConfigFileProviderFactory",
+        1
+    ],
+    [
+        "Oliver Heger",
+        "txt",
+        3
+    ],
+    [
+        "Oliver Heger",
+        "ConfigSecretProviderFactory",
+        1
+    ],
+    [
+        "Onur Demirci",
+        "toml",
+        2
+    ],
+    [
+        "Onur Demirci",
+        "kts",
+        6
+    ],
+    [
+        "Onur Demirci",
+        "xml",
+        5
+    ],
+    [
+        "Onur Demirci",
+        "kt",
+        4
+    ],
+    [
+        "Onur Demirci",
+        "conf",
+        2
+    ],
+    [
+        "Oleksandr Yarosevych",
+        "kt",
+        85
+    ],
+    [
+        "Oleksandr Yarosevych",
+        "kts",
+        5
+    ],
+    [
+        "Oleksandr Yarosevych",
+        "toml",
+        2
+    ],
+    [
+        "Oleksandr Yarosevych",
+        "sql",
+        1
+    ],
+    [
+        "Oleksandr Yarosevych",
+        "yml",
+        1
+    ]
+]

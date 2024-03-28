@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Sun Feb  1  7:43:25 2015,BugzillaRestClientTest.java,Frank Becker
+Sun Feb  1  7:43:25 2015,BugzillaRestConfigurationTest.java,Frank Becker
+Sun Feb  1  7:43:25 2015,BugzillaRestTestFixture.java,Frank Becker
+Sun Feb  1  7:43:25 2015,BugzillaRestVersion.java,Frank Becker
+Sun Feb  1  7:43:25 2015,defaultsites.pp,Frank Becker
+Sun Feb  1  7:43:25 2015,site.pp,Frank Becker
+Sun Feb  1  7:43:25 2015,service.json.erb,Frank Becker
+Tue Feb  3 19:05:06 2015,BugzillaAttribute.java,Frank Becker
+Tue Feb  3 19:05:06 2015,BugzillaClient.java,Frank Becker
+Tue Feb  3 19:05:06 2015,IBugzillaConstants.java,Frank Becker
+Tue Feb  3 19:05:06 2015,Messages.java,Frank Becker
+Tue Feb  3 19:05:06 2015,SaxMultiBugReportContentHandler.java,Frank Becker
+Tue Feb  3 19:05:06 2015,messages.properties,Frank Becker
+Tue Feb  3 19:05:06 2015,taskdata.txt,Frank Becker
+Tue Feb  3 19:05:06 2015,BugzillaImages.java,Frank Becker
+Tue Feb  3 19:05:06 2015,BugzillaSeeAlsoAttributeEditor.java,Frank Becker
+Tue Feb  3 19:05:06 2015,BugzillaTaskEditorPage.java,Frank Becker
+Tue Feb  3 19:05:06 2015,Messages.java,Frank Becker
+Tue Feb  3 19:05:06 2015,messages.properties,Frank Becker
+Wed Feb  4  6:22:44 2015,SaxMultiBugReportContentHandler.java,Frank Becker

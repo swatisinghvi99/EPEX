@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Fri Nov 17 13:21:38 2017,WorkspaceValidator.java,Vitalii Parfonov
+Fri Nov 17 13:21:38 2017,WorkspaceValidatorTest.java,Vitalii Parfonov
+Mon Nov 20 14:25:21 2017,PreviewUrl.java,Vitalii Parfonov
+Tue Nov 21 10:00:14 2017,CoreLocalizationConstant.properties,Vitalii Parfonov
+Tue Nov 21 10:00:14 2017,CheckFindActionFeatureInCheTest.java,Vitalii Parfonov
+Tue Nov 28 10:35:07 2017,RegisteredProject.java,Vitalii Parfonov
+Mon Dec  4 13:20:29 2017,ContributionProjectTypeCleaner.java,Vitalii Parfonov
+Fri Dec  8 12:20:14 2017,RequireJsLoader.java,Vitalii Parfonov
+Fri Dec  8 15:37:37 2017,pom.xml,Vitalii Parfonov
+Fri Dec  8 15:37:37 2017,OrionEditorPresenter.java,Vitalii Parfonov
+Fri Dec  8 15:37:37 2017,GitUtil.java,Vitalii Parfonov
+Fri Dec  8 15:37:37 2017,GitPanelPresenter.java,Vitalii Parfonov
+Fri Dec  8 15:37:37 2017,pom.xml,Vitalii Parfonov
+Fri Dec  8 15:37:37 2017,ContributionProjectTypeCleaner.java,Vitalii Parfonov
+Fri Dec  8 15:37:37 2017,ContributionProjectTypeModule.java,Vitalii Parfonov
+Fri Dec  8 15:37:37 2017,GitRepositoryDeletedEvent.java,Vitalii Parfonov
+Fri Dec  8 15:37:37 2017,GitProjectType.java,Vitalii Parfonov
+Fri Dec  8 15:37:37 2017,GitProjectTypeCleaner.java,Vitalii Parfonov
+Fri Dec  8 15:37:37 2017,GitService.java,Vitalii Parfonov
+Fri Dec  8 15:37:37 2017,GitValueProviderFactory.java,Vitalii Parfonov
+Fri Dec  8 15:37:37 2017,ExecutiveProjectManager.java,Vitalii Parfonov
+Fri Dec  8 15:37:37 2017,ProjectServiceApi.java,Vitalii Parfonov
+Fri Dec  8 15:37:37 2017,ProjectServiceVcsStatusInjector.java,Vitalii Parfonov

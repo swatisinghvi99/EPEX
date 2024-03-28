@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Fri Sep 13 17:23:15 2019,ProposalPosition.java,Carsten Hammer
+Mon Sep 16 14:58:03 2019,DocumentLineDiffer.java,Carsten Hammer
+Mon Sep 16 20:16:17 2019,AbstractReconcilerTest.java,Carsten Hammer
+Mon Sep 16 20:16:17 2019,QuickTextQuery.java,Carsten Hammer
+Mon Sep 16 20:16:17 2019,QuickTextSearcher.java,Carsten Hammer
+Mon Sep 16 20:16:17 2019,ResourceWalker.java,Carsten Hammer
+Mon Sep 16 20:16:17 2019,QuickSearchPreferences.java,Carsten Hammer
+Mon Sep 16 20:16:17 2019,PrioriTree.java,Carsten Hammer
+Mon Sep 16 20:16:17 2019,MANIFEST.MF,Carsten Hammer
+Mon Sep 16 20:16:17 2019,pom.xml,Carsten Hammer
+Mon Sep 16 20:16:17 2019,DefaultContentAssistProcessor.java,Carsten Hammer
+Mon Sep 16 20:16:17 2019,IndentFoldingStrategy.java,Carsten Hammer
+Mon Sep 16 23:04:38 2019,SourceViewerConfiguration.java,Carsten Hammer
+Mon Sep 16 23:04:38 2019,HippieCompleteAction.java,Carsten Hammer
+Mon Sep 16 23:04:38 2019,MoveLinesAction.java,Carsten Hammer

@@ -1,0 +1,277 @@
+[
+    [
+        "Christian Dietrich",
+        "java",
+        210
+    ],
+    [
+        "Christian Dietrich",
+        "xtend",
+        70
+    ],
+    [
+        "Christian Dietrich",
+        "xml",
+        14
+    ],
+    [
+        "Christian Dietrich",
+        "target",
+        14
+    ],
+    [
+        "Christian Dietrich",
+        "classpath",
+        2
+    ],
+    [
+        "Christian Dietrich",
+        "properties",
+        2
+    ],
+    [
+        "Christian Dietrich",
+        "MF",
+        2
+    ],
+    [
+        "Christian Dietrich",
+        "xml_gen",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "MF_gen",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "ecore",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "genmodel",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "g",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "tokens",
+        1
+    ],
+    [
+        "Christian Dietrich",
+        "mwe2",
+        2
+    ],
+    [
+        "Christian Dietrich",
+        "xtext",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "md",
+        7
+    ],
+    [
+        "Sven Efftinge",
+        "unknown",
+        7
+    ],
+    [
+        "Sven Efftinge",
+        "gradle",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "prefs",
+        91
+    ],
+    [
+        "Sven Efftinge",
+        "html",
+        74
+    ],
+    [
+        "Sven Efftinge",
+        "properties",
+        18
+    ],
+    [
+        "Sven Efftinge",
+        "genmodel",
+        14
+    ],
+    [
+        "Sven Efftinge",
+        "xml",
+        15
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        1296
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        7304
+    ],
+    [
+        "Sven Efftinge",
+        "g",
+        31
+    ],
+    [
+        "Sven Efftinge",
+        "mwe2",
+        58
+    ],
+    [
+        "Sven Efftinge",
+        "xtext",
+        182
+    ],
+    [
+        "Sven Efftinge",
+        "ts",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "ext",
+        21
+    ],
+    [
+        "Sven Efftinge",
+        "xpt",
+        59
+    ],
+    [
+        "Sven Efftinge",
+        "txt",
+        104
+    ],
+    [
+        "Sven Efftinge",
+        "target",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "flex",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "xml_gen",
+        7
+    ],
+    [
+        "Sven Efftinge",
+        "classpath",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "js",
+        34
+    ],
+    [
+        "Sven Efftinge",
+        "exsd",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        1
+    ],
+    [
+        "Hannes Niederhausen",
+        "xml",
+        2
+    ],
+    [
+        "Hannes Niederhausen",
+        "xtend",
+        1
+    ],
+    [
+        "Hannes Niederhausen",
+        "java",
+        1
+    ],
+    [
+        "Mathias Rieder",
+        "java",
+        28
+    ],
+    [
+        "Mathias Rieder",
+        "xtend",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "xtend",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        10
+    ],
+    [
+        "Ryan Dunn",
+        "xtend",
+        1
+    ],
+    [
+        "Ryan Dunn",
+        "java",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        31
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ecore",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "genmodel",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "g",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "tokens",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        2
+    ]
+]

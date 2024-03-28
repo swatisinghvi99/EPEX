@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Mon May 11 14:49:32 2020,MANIFEST.MF,Glenn Plouhinec
+Mon May 11 14:49:32 2020,TestBug561458.java,Glenn Plouhinec
+Mon May 11 14:49:32 2020,TestBug561825.java,Glenn Plouhinec
+Mon May 11 14:49:32 2020,TestBug562321.java,Glenn Plouhinec
+Mon May 11 14:49:32 2020,singleAddedContainer.aird,Glenn Plouhinec
+Mon May 11 14:49:32 2020,singleAddedContainer.nodes,Glenn Plouhinec
+Mon May 11 14:49:32 2020,singleDeletedContainer.aird,Glenn Plouhinec
+Mon May 11 14:49:32 2020,singleDeletedContainer.nodes,Glenn Plouhinec
+Mon May 11 14:49:32 2020,AbstractSiriusTest.java,Glenn Plouhinec
+Mon May 11 14:49:32 2020,BugsTestSuite.java,Glenn Plouhinec
+Mon May 11 14:49:32 2020,EMFCompareChangeRecorder.java,Glenn Plouhinec
+Mon May 11 14:49:32 2020,MANIFEST.MF,Glenn Plouhinec
+Mon May 11 14:49:32 2020,AbstractReverseActionTest.java,Glenn Plouhinec
+Mon May 11 14:49:32 2020,RedoActionTest.java,Glenn Plouhinec
+Mon May 11 14:49:32 2020,UndoActionTest.java,Glenn Plouhinec
+Mon May 11 14:49:32 2020,UtilInputData.java,Glenn Plouhinec
+Mon May 11 14:49:32 2020,left.nodes,Glenn Plouhinec
+Mon May 11 14:49:32 2020,origin.nodes,Glenn Plouhinec
+Mon May 11 14:49:32 2020,right.nodes,Glenn Plouhinec
+Mon May 11 14:49:32 2020,AllTests.java,Glenn Plouhinec
+Mon May 11 14:49:32 2020,MANIFEST.MF,Glenn Plouhinec
+Mon May 11 14:49:32 2020,EMFCompareTestsUtils.java,Glenn Plouhinec

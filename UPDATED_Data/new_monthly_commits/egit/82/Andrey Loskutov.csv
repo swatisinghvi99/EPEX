@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Wed Jul 13  9:33:28 2016,LocalRepositoryTestCase.java,Andrey Loskutov
+Wed Jul 27  6:53:14 2016,SelectionPropertyTester.java,Andrey Loskutov
+Thu Jul 28  8:55:25 2016,AdapterUtils.java,Andrey Loskutov
+Thu Jul 28  8:55:25 2016,SynchronizeWithMenu.java,Andrey Loskutov
+Thu Jul 28  8:55:25 2016,GitHistoryPage.java,Andrey Loskutov
+Thu Jul 28  8:55:25 2016,AbstractHistoryCommandHandler.java,Andrey Loskutov
+Thu Jul 28  8:55:25 2016,RebaseInteractiveView.java,Andrey Loskutov
+Thu Jul 28  8:55:25 2016,ReflogView.java,Andrey Loskutov
+Thu Jul 28  8:55:25 2016,RepositoriesView.java,Andrey Loskutov
+Thu Jul 28  8:55:25 2016,SelectionPropertyTester.java,Andrey Loskutov
+Thu Jul 28  8:55:25 2016,SelectionUtils.java,Andrey Loskutov
+Thu Jul 28  8:55:25 2016,StagingView.java,Andrey Loskutov
+Thu Jul 28  8:55:25 2016,GitSynchronizeWizard.java,Andrey Loskutov
+Thu Jul 28  8:55:25 2016,GitVariableResolver.java,Andrey Loskutov
+Thu Jul 28 11:34:23 2016,CompareUtils.java,Andrey Loskutov
+Thu Jul 28 11:34:23 2016,CompareIndexWithHeadActionHandler.java,Andrey Loskutov
+Thu Jul 28 11:34:23 2016,CompareWithIndexActionHandler.java,Andrey Loskutov
+Thu Jul 28 11:34:23 2016,CommitFileDiffViewer.java,Andrey Loskutov
+Thu Jul 28 11:34:23 2016,GitOpenInCompareAction.java,Andrey Loskutov
+Thu Jul 28 11:34:23 2016,LocalNonWorkspaceTypedElement.java,Andrey Loskutov
+Thu Jul 28 11:34:37 2016,CompareUtils.java,Andrey Loskutov
+Thu Jul 28 11:35:16 2016,LocalNonWorkspaceTypedElement.java,Andrey Loskutov

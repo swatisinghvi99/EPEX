@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Thu Mar 17 15:32:17 2022,BackwardDifferenceGradient.hpp,Daniel Claudino
+Thu Mar 17 15:32:17 2022,CentralDifferenceGradient.hpp,Daniel Claudino
+Thu Mar 17 15:32:17 2022,ForwardDifferenceGradient.hpp,Daniel Claudino
+Thu Mar 17 15:32:17 2022,ParameterShiftGradient.hpp,Daniel Claudino
+Thu Mar 17 15:32:17 2022,Autodiff.cpp,Daniel Claudino
+Thu Mar 17 15:32:17 2022,Autodiff.hpp,Daniel Claudino
+Thu Mar 17 15:32:17 2022,AutodiffTester.cpp,Daniel Claudino
+Thu Mar 17 15:32:17 2022,GradientStrategiesTester.cpp,Daniel Claudino
+Thu Mar 17 15:32:17 2022,qaoa.cpp,Daniel Claudino
+Thu Mar 17 15:32:17 2022,QAOATester.cpp,Daniel Claudino
+Thu Mar 17 15:32:17 2022,vqe.cpp,Daniel Claudino
+Thu Mar 17 15:32:17 2022,ServiceRegistry.hpp,Daniel Claudino
+Thu Mar 17 15:32:17 2022,xacc.cpp,Daniel Claudino
+Thu Mar 17 15:32:17 2022,xacc.hpp,Daniel Claudino
+Fri Mar 25 21:06:08 2022,adapt.cpp,Daniel Claudino
+Fri Mar 25 21:06:08 2022,QubitPool.hpp,Daniel Claudino
+Fri Apr  1 18:56:05 2022,SinglesDoublesPool.hpp,Daniel Claudino
+Fri Apr  1 18:56:05 2022,qeom.cpp,Daniel Claudino
+Fri Apr  1 18:56:05 2022,qeom.hpp,Daniel Claudino
+Wed Apr  6 16:51:36 2022,qcmx.cpp,Daniel Claudino
+Wed Apr  6 16:51:36 2022,qcmx.hpp,Daniel Claudino
+Wed Apr  6 16:51:36 2022,qeom.cpp,Daniel Claudino
+Wed Apr  6 16:51:36 2022,qeom.hpp,Daniel Claudino
+Wed Apr  6 17:56:28 2022,qcmx.cpp,Daniel Claudino

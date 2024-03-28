@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Thu Mar 19 19:59:09 2015,BoxWidget.java,Florian Thienel
+Thu Mar 19 19:59:09 2015,BoxView.java,Florian Thienel
+Thu Mar 19 21:02:54 2015,TestCursorPosition.java,Florian Thienel
+Thu Mar 19 21:02:54 2015,ContentMap.java,Florian Thienel
+Thu Mar 19 21:02:54 2015,Cursor.java,Florian Thienel
+Thu Mar 19 21:02:54 2015,BoxWidget.java,Florian Thienel
+Fri Apr  3 14:09:15 2015,BoxWidget.java,Florian Thienel
+Fri Apr  3 17:42:28 2015,FakeContentBox.java,Florian Thienel
+Fri Apr  3 17:42:28 2015,Frame.java,Florian Thienel
+Fri Apr  3 17:42:28 2015,HorizontalBar.java,Florian Thienel
+Fri Apr  3 17:42:28 2015,IBox.java,Florian Thienel
+Fri Apr  3 17:42:28 2015,NodeReference.java,Florian Thienel
+Fri Apr  3 17:42:28 2015,Paragraph.java,Florian Thienel
+Fri Apr  3 17:42:28 2015,RootBox.java,Florian Thienel
+Fri Apr  3 17:42:28 2015,Square.java,Florian Thienel
+Fri Apr  3 17:42:28 2015,StaticText.java,Florian Thienel
+Fri Apr  3 17:42:28 2015,TextContent.java,Florian Thienel
+Fri Apr  3 17:42:28 2015,VerticalBlock.java,Florian Thienel
+Fri Apr  3 17:42:28 2015,ContentMap.java,Florian Thienel
+Fri Apr  3 17:42:28 2015,BoxWidget.java,Florian Thienel
+Tue Apr  7 20:09:54 2015,TextContent.java,Florian Thienel
+Tue Apr  7 20:09:54 2015,BoxWidget.java,Florian Thienel
+Tue Apr  7 20:09:54 2015,DocumentEventTest.java,Florian Thienel
+Tue Apr  7 20:09:54 2015,Document.java,Florian Thienel
+Tue Apr  7 20:09:54 2015,BoxWidget.java,Florian Thienel

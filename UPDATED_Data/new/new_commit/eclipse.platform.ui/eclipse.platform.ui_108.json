@@ -1,0 +1,312 @@
+[
+    [
+        "Eric Moffatt",
+        "java",
+        96
+    ],
+    [
+        "Eric Moffatt",
+        "MF",
+        3
+    ],
+    [
+        "Eric Moffatt",
+        "classpath",
+        1
+    ],
+    [
+        "Eric Moffatt",
+        "project",
+        1
+    ],
+    [
+        "Eric Moffatt",
+        "prefs",
+        2
+    ],
+    [
+        "Eric Moffatt",
+        "properties",
+        1
+    ],
+    [
+        "Oleg Besedin",
+        "MF",
+        22
+    ],
+    [
+        "Oleg Besedin",
+        "xml",
+        17
+    ],
+    [
+        "Oleg Besedin",
+        "java",
+        243
+    ],
+    [
+        "Markus Keller",
+        "java",
+        28
+    ],
+    [
+        "Paul Webster",
+        "MF",
+        1
+    ],
+    [
+        "Paul Webster",
+        "java",
+        79
+    ],
+    [
+        "Paul Webster",
+        "classpath",
+        1
+    ],
+    [
+        "Paul Webster",
+        "properties",
+        2
+    ],
+    [
+        "Paul Webster",
+        "ecore",
+        1
+    ],
+    [
+        "Paul Webster",
+        "genmodel",
+        1
+    ],
+    [
+        "Paul Webster",
+        "xml",
+        1
+    ],
+    [
+        "Paul Webster",
+        "e4xmi",
+        2
+    ],
+    [
+        "John Arthorne",
+        "java",
+        25
+    ],
+    [
+        "John Arthorne",
+        "MF",
+        3
+    ],
+    [
+        "John Arthorne",
+        "prefs",
+        2
+    ],
+    [
+        "Remy Suen",
+        "java",
+        319
+    ],
+    [
+        "Remy Suen",
+        "xml",
+        2
+    ],
+    [
+        "Remy Suen",
+        "properties",
+        1
+    ],
+    [
+        "Remy Suen",
+        "prefs",
+        1
+    ],
+    [
+        "Remy Suen",
+        "MF",
+        2
+    ],
+    [
+        "Remy Suen",
+        "ecore",
+        1
+    ],
+    [
+        "Remy Suen",
+        "ecorediag",
+        1
+    ],
+    [
+        "Remy Suen",
+        "genmodel",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "java",
+        15
+    ],
+    [
+        "Bogdan Gheorghe",
+        "MF",
+        1
+    ],
+    [
+        "Bogdan Gheorghe",
+        "exsd",
+        1
+    ],
+    [
+        "Susan Franklin",
+        "MF",
+        5
+    ],
+    [
+        "Susan Franklin",
+        "java",
+        53
+    ],
+    [
+        "Dani Megert",
+        "java",
+        22
+    ],
+    [
+        "Dani Megert",
+        "MF",
+        1
+    ],
+    [
+        "Dani Megert",
+        "exsd",
+        1
+    ],
+    [
+        "Serge Beauchamp",
+        "java",
+        50
+    ],
+    [
+        "Serge Beauchamp",
+        "properties",
+        12
+    ],
+    [
+        "Serge Beauchamp",
+        "xml",
+        1
+    ],
+    [
+        "Boris Bokowski",
+        "java",
+        4
+    ],
+    [
+        "Hitesh Soliwal",
+        "java",
+        4
+    ],
+    [
+        "Thomas Schindl",
+        "e4xmi",
+        6
+    ],
+    [
+        "Thomas Schindl",
+        "properties",
+        9
+    ],
+    [
+        "Thomas Schindl",
+        "xml",
+        6
+    ],
+    [
+        "Thomas Schindl",
+        "java",
+        131
+    ],
+    [
+        "Thomas Schindl",
+        "prefs",
+        2
+    ],
+    [
+        "Thomas Schindl",
+        "MF",
+        6
+    ],
+    [
+        "Thomas Schindl",
+        "html",
+        1
+    ],
+    [
+        "Thomas Schindl",
+        "exsd",
+        1
+    ],
+    [
+        "Thomas Schindl",
+        "css",
+        3
+    ],
+    [
+        "Chris Goldthorpe",
+        "java",
+        1
+    ],
+    [
+        "Yves YANG",
+        "MF",
+        1
+    ],
+    [
+        "Yves YANG",
+        "java",
+        65
+    ],
+    [
+        "Yves YANG",
+        "genmodel",
+        2
+    ],
+    [
+        "Francis Upton IV",
+        "java",
+        82
+    ],
+    [
+        "Francis Upton IV",
+        "MF",
+        1
+    ],
+    [
+        "Francis Upton IV",
+        "xml",
+        3
+    ],
+    [
+        "Francis Upton IV",
+        "properties",
+        1
+    ],
+    [
+        "Francis Upton IV",
+        "exsd",
+        1
+    ],
+    [
+        "Tom Hofmann",
+        "java",
+        1
+    ],
+    [
+        "Ovidio Mallo",
+        "java",
+        6
+    ]
+]

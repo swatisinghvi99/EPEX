@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Sat Jan 14 14:53:42 2012,PullOperation.java,Robin Stocker
+Sat Jan 14 14:53:42 2012,PullFromUpstreamActionHandler.java,Robin Stocker
+Sat Jan 14 14:53:42 2012,RepositoryActionHandler.java,Robin Stocker
+Sat Jan 14 14:53:42 2012,MultiPullResultDialog.java,Robin Stocker
+Sat Jan 14 14:53:42 2012,PullOperationUI.java,Robin Stocker
+Mon Jan 16 23:04:57 2012,UIText.java,Robin Stocker
+Mon Jan 16 23:04:57 2012,GitLabelProvider.java,Robin Stocker
+Mon Jan 16 23:04:57 2012,DecoratableResource.java,Robin Stocker
+Mon Jan 16 23:04:57 2012,DecoratableResourceAdapter.java,Robin Stocker
+Mon Jan 16 23:04:57 2012,DecoratableResourceHelper.java,Robin Stocker
+Mon Jan 16 23:04:57 2012,GitLightweightDecorator.java,Robin Stocker
+Mon Jan 16 23:04:57 2012,IDecoratableResource.java,Robin Stocker
+Mon Jan 16 23:04:57 2012,GitDecoratorPreferencePage.java,Robin Stocker
+Mon Jan 16 23:04:57 2012,uitext.properties,Robin Stocker
+Mon Jan 16 23:42:57 2012,GitProjectSetCapability.java,Robin Stocker
+Mon Jan 16 23:42:57 2012,ProjectReferenceImporter.java,Robin Stocker
+Sun Jan 22 12:22:44 2012,GitProjectSetCapabilityTest.java,Robin Stocker
+Sun Jan 22 12:22:44 2012,coretext.properties,Robin Stocker
+Sun Jan 22 12:22:44 2012,ProjectReferenceImporter.java,Robin Stocker
+Tue Jan 24 12:13:59 2012,ProjectReferenceImporter.java,Robin Stocker

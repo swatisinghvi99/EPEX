@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Wed Jan  9 16:58:46 2013,MANIFEST.MF,Emily
+Wed Jan  9 16:58:46 2013,BasicHotlinkResolveFactory.java,Emily
+Wed Jan  9 17:14:34 2013,AnimationUpdater.java,Emily
+Fri Feb  1 23:23:33 2013,.classpath,Emily
+Fri Feb  1 23:23:33 2013,.project,Emily
+Fri Feb  1 23:23:33 2013,MANIFEST.MF,Emily
+Fri Feb  1 23:23:33 2013,build.properties,Emily
+Fri Feb  1 23:23:33 2013,plugin.xml,Emily
+Fri Feb  1 23:23:33 2013,Activator.java,Emily
+Fri Feb  1 23:23:33 2013,ClassifyDialog.java,Emily
+Fri Feb  1 23:23:33 2013,ColorEntry.java,Emily
+Fri Feb  1 23:23:33 2013,IColorMapTypePanel.java,Emily
+Fri Feb  1 23:23:33 2013,IntervalValuesPanel.java,Emily
+Fri Feb  1 23:23:33 2013,RampValuesPanel.java,Emily
+Fri Feb  1 23:23:33 2013,SingleBandEditorPage.java,Emily
+Fri Feb  1 23:23:33 2013,StolenColorEditor.java,Emily
+Fri Feb  1 23:23:33 2013,UniqueValuesDialog.java,Emily
+Fri Feb  1 23:23:33 2013,UniqueValuesPanel.java,Emily
+Sat Feb  2  0:15:07 2013,Messages.java,Emily
+Sat Feb  2  0:15:07 2013,messages.properties,Emily
+Sat Feb  2  0:15:07 2013,ClassifyDialog.java,Emily
+Sat Feb  2  0:15:07 2013,IntervalValuesPanel.java,Emily
+Sat Feb  2  0:15:07 2013,RampValuesPanel.java,Emily
+Sat Feb  2  0:15:07 2013,SingleBandEditorPage.java,Emily
+Sat Feb  2  0:15:07 2013,UniqueValuesDialog.java,Emily
+Sat Feb  2  0:15:07 2013,UniqueValuesPanel.java,Emily

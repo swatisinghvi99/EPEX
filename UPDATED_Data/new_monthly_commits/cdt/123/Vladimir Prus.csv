@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Thu Sep 20 15:52:56 2012,MANIFEST.MF,Vladimir Prus
+Thu Sep 20 15:52:56 2012,plugin.properties,Vladimir Prus
+Thu Sep 20 15:52:56 2012,plugin.xml,Vladimir Prus
+Thu Sep 20 15:52:56 2012,pom.xml,Vladimir Prus
+Thu Sep 20 15:52:56 2012,ColumnLayout.java,Vladimir Prus
+Thu Sep 20 15:52:56 2012,ContentLabelProviderWrapper.java,Vladimir Prus
+Thu Sep 20 15:52:56 2012,Messages.java,Vladimir Prus
+Thu Sep 20 15:52:56 2012,Messages.properties,Vladimir Prus
+Thu Sep 20 15:52:56 2012,OSData.java,Vladimir Prus
+Thu Sep 20 15:52:56 2012,OSResourcesView.java,Vladimir Prus
+Thu Sep 20 15:52:56 2012,ResourceClassContributionItem.java,Vladimir Prus
+Thu Sep 20 15:52:56 2012,SessionOSData.java,Vladimir Prus
+Thu Sep 20 15:52:56 2012,GDBHardwareAndOS_7_5.java,Vladimir Prus
+Thu Sep 20 15:52:56 2012,GdbDebugServicesFactory.java,Vladimir Prus
+Thu Sep 20 15:52:56 2012,IGDBHardwareAndOS2.java,Vladimir Prus
+Thu Sep 20 15:52:56 2012,CommandFactory.java,Vladimir Prus
+Thu Sep 20 15:52:56 2012,MIInfoOs.java,Vladimir Prus
+Thu Sep 20 15:52:56 2012,MIInfoOsInfo.java,Vladimir Prus

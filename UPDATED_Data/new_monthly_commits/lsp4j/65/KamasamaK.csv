@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Fri Apr  1 20:22:21 2022,InlayHintKind.java,KamasamaK
+Fri Apr  1 20:22:21 2022,Protocol.xtend,KamasamaK
+Fri Apr  1 20:22:21 2022,LanguageClient.java,KamasamaK
+Fri Apr  1 20:22:21 2022,TextDocumentService.java,KamasamaK
+Thu Apr  7  6:59:30 2022,CHANGELOG.md,KamasamaK
+Thu Apr  7  6:59:30 2022,Protocol.xtend,KamasamaK
+Thu Apr  7  6:59:30 2022,DocumentSymbolResponseAdapter.java,KamasamaK
+Thu Apr  7  6:59:30 2022,WorkspaceSymbolLocationTypeAdapter.java,KamasamaK
+Thu Apr  7  6:59:30 2022,WorkspaceSymbolResponseAdapter.java,KamasamaK
+Thu Apr  7  6:59:30 2022,TextDocumentService.java,KamasamaK
+Thu Apr  7  6:59:30 2022,WorkspaceService.java,KamasamaK
+Sat Apr  9 12:48:00 2022,CHANGELOG.md,KamasamaK
+Sat Apr  9 12:48:00 2022,Protocol.xtend,KamasamaK
+Sat Apr  9 12:48:00 2022,TextDocumentService.java,KamasamaK

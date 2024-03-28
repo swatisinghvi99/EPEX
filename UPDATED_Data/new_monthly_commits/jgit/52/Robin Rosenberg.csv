@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Mon Jan  6 17:49:37 2014,Config.java,Robin Rosenberg
+Mon Jan  6 17:49:37 2014,FileRepository.java,Robin Rosenberg
+Mon Jan  6 17:49:37 2014,Constants.java,Robin Rosenberg
+Fri Jan 10 13:06:50 2014,ArchiveFormats.java,Robin Rosenberg
+Fri Jan 10 13:06:50 2014,TarFormat.java,Robin Rosenberg
+Fri Jan 10 13:06:50 2014,Tbz2Format.java,Robin Rosenberg
+Fri Jan 10 13:06:50 2014,TgzFormat.java,Robin Rosenberg
+Fri Jan 10 13:06:50 2014,TxzFormat.java,Robin Rosenberg
+Fri Jan 10 13:06:50 2014,ZipFormat.java,Robin Rosenberg
+Fri Jan 10 13:06:50 2014,CmdLineParser.java,Robin Rosenberg
+Fri Jan 10 13:06:50 2014,ArchiveCommand.java,Robin Rosenberg
+Fri Jan 10 13:06:50 2014,GitDateFormatter.java,Robin Rosenberg
+Fri Jan 10 13:06:50 2014,GitDateParser.java,Robin Rosenberg

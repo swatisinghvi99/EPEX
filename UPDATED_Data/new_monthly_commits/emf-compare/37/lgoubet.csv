@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Wed Apr  7  9:42:35 2010,EclipseModelUtils.java,lgoubet
+Wed Apr  7 11:18:44 2010,ICompareInputDetailsProvider.java,lgoubet
+Wed Apr  7 11:18:44 2010,ModelCompareInput.java,lgoubet
+Wed Apr  7 11:18:44 2010,ModelComparator.java,lgoubet
+Wed Apr  7 11:18:44 2010,ModelContentMergeViewer.java,lgoubet
+Thu Apr  8  7:39:14 2010,ModelContentPreviewViewer.java,lgoubet
+Thu Apr  8  9:53:27 2010,ModelContentMergeContentProvider.java,lgoubet
+Thu Apr  8  9:53:27 2010,ModelContentMergeViewer.java,lgoubet
+Thu Apr  8  9:53:27 2010,ModelContentMergeDiffTab.java,lgoubet
+Thu Apr 15  8:43:08 2010,NotationDiffMergeVisitor.java,lgoubet
+Mon Apr 19  8:55:58 2010,ModelCompareEditorInput.java,lgoubet
+Mon Apr 19  8:55:58 2010,ModelComparator.java,lgoubet
+Mon Apr 19  8:55:58 2010,SaveDeltaWizard.java,lgoubet
+Mon Apr 19  9:11:32 2010,EclipseModelUtils.java,lgoubet
+Mon Apr 19  9:11:32 2010,ModelUtils.java,lgoubet
+Mon Apr 19 14:50:45 2010,NotationDiffMergeVisitor.java,lgoubet
+Thu Apr 22 12:08:53 2010,GenericMatchEngine.java,lgoubet

@@ -1,0 +1,6 @@
+date_time,file,committer_name
+Mon Mar 16 15:58:38 2020,.gitignore,Bradley Steinfeld
+Mon Mar 16 15:58:38 2020,deploy.go,Bradley Steinfeld
+Mon Mar 16 15:58:38 2020,deploy_get.go,Bradley Steinfeld
+Mon Mar 16 15:58:38 2020,remove.go,Bradley Steinfeld
+Mon Mar 16 15:58:38 2020,util.go,Bradley Steinfeld

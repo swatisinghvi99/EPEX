@@ -1,0 +1,82 @@
+date_time,file,committer_name
+Tue Nov  2 12:54:13 2021,FilteringServices.java,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,FilteringServicesTestModel.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,FilteringServicesTestModel.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,MyLib.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,MyLib.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,TestLib.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,TestLib.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,DieselFilteringResult.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,DieselFilteringResult.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,HybridFilteringResult.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,HybridFilteringResult.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,PetrolFilteringResult.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,PetrolFilteringResult.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,TestSPLProject.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,TestSPLProject.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,EmptyFilteringResult.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,EmptyFilteringResult.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,FilteringResult.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,FilteringResult.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,Transition.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,Transition.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,derivationProject.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,derivationProject.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,LA.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,OA.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,library-viewpoint-activated.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,library-viewpoint-activated.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,LA.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,OA.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,library-viewpoint-deactivated.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,library-viewpoint-deactivated.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,PA.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,SA.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,model-viewpoint-activated.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,model-viewpoint-activated.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,PA.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,SA.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,model-viewpoint-deactivated.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,model-viewpoint-deactivated.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,simple-library-child.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,simple-library-child.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,simple-library.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,simple-library.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,simple-project.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,simple-project.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,LA-Logical Functions-RLF-OA2-SysOA2_1.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,LA-Logical System-LC2.airdfragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,LA-Logical System-LC2.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,SA-Capabilities-OC1.airdfragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,SA-Capabilities-OC1.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,SA-Data.airdfragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,SA-Data.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,sysmodel.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,sysmodel.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,S_Empty_FR.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,S_Empty_FR.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,LA-Logical Functions-RLF-OA2-SysOA2_1.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,LA-Logical System-LC2.airdfragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,LA-Logical System-LC2.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,SA-Capabilities-OC1.airdfragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,SA-Capabilities-OC1.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,SA-Data.airdfragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,SA-Data.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,S_FR1.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,S_FR1.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,LA-Logical Functions-RLF-OA2-SysOA2_1.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,LA-Logical System-LC2.airdfragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,LA-Logical System-LC2.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,SA-Capabilities-OC1.airdfragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,SA-Capabilities-OC1.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,SA-Data.airdfragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,SA-Data.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,S_FR2.afm,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,S_FR2.capella,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,LA-Logical Functions-RLF-OA2-SysOA2_1.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,LA-Logical System-LC2.airdfragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,LA-Logical System-LC2.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,SA-Capabilities-OC1.airdfragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,SA-Capabilities-OC1.capellafragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,SA-Data.airdfragment,MalinaStefaniaStoicanescu
+Tue Nov  2 12:54:13 2021,SA-Data.capellafragment,MalinaStefaniaStoicanescu

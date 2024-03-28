@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Fri Dec 10 11:06:11 2010,ImapAdapter.java,Hannes Müller
+Fri Dec 10 14:18:04 2010,PrincipalNameFilter.java,Hannes Müller
+Fri Dec 10 14:18:04 2010,AccessControlStore.java,Hannes Müller
+Mon Dec 13 10:51:34 2010,AccessControlStore.java,Hannes Müller
+Wed Dec 15 11:01:12 2010,AbstractForm.java,Hannes Müller
+Wed Dec 15 11:01:12 2010,IForm.java,Hannes Müller
+Wed Dec 15 11:01:12 2010,AbstractFormField.java,Hannes Müller
+Wed Dec 15 11:01:12 2010,IFormField.java,Hannes Müller
+Wed Dec 15 11:01:12 2010,AbstractDocumentField.java,Hannes Müller
+Wed Dec 15 11:01:12 2010,DocumentFieldEvent.java,Hannes Müller
+Wed Dec 15 11:01:12 2010,DocumentFieldListener.java,Hannes Müller
+Fri Dec 17 12:21:16 2010,AbstractBrowserField.java,Hannes Müller
+Wed Dec 22  8:34:05 2010,AbstractWizard.java,Hannes Müller
+Thu Jan  6  8:15:19 2011,HolidayCalendarItemParser.java,Hannes Müller

@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Thu May 17 14:37:56 2012,FilterRowDataProviderTest.java,Dirk Fauth
+Wed May 23  9:37:12 2012,AbstractTextPainter.java,Dirk Fauth
+Wed May 23  9:37:12 2012,GraphicsUtils.java,Dirk Fauth
+Wed May 23  9:37:12 2012,TextPainter.java,Dirk Fauth
+Wed May 23  9:37:12 2012,VerticalTextPainter.java,Dirk Fauth
+Wed May 23  9:37:12 2012,TextPainter_Examples.java,Dirk Fauth
+Tue Jun  5 14:54:32 2012,GraphicsUtils.java,Dirk Fauth
+Tue Jun  5 14:54:32 2012,VerticalTextPainter.java,Dirk Fauth
+Tue Jun  5 14:55:50 2012,DefaultNatTableStyleConfiguration.java,Dirk Fauth
+Tue Jun  5 14:55:50 2012,DefaultColumnHeaderStyleConfiguration.java,Dirk Fauth
+Tue Jun  5 14:55:50 2012,DefaultRowHeaderStyleConfiguration.java,Dirk Fauth
+Tue Jun  5 14:55:50 2012,GradientBackgroundPainter.java,Dirk Fauth
+Tue Jun  5 14:55:50 2012,CellStyleAttributes.java,Dirk Fauth
+Tue Jun  5 14:55:50 2012,TextPainter_Examples.java,Dirk Fauth
+Wed Jun 13  6:54:12 2012,ImagePainter.java,Dirk Fauth
+Wed Jun 13  6:55:08 2012,DataLayerPersistenceTest.java,Dirk Fauth
+Wed Jun 13  6:55:08 2012,SizeConfigPercentageTest.java,Dirk Fauth
+Wed Jun 13  6:55:08 2012,SizeConfigPersistenceTest.java,Dirk Fauth
+Wed Jun 13  6:55:08 2012,ClientAreaResizeCommand.java,Dirk Fauth
+Wed Jun 13  6:55:08 2012,DummyModifiableBodyDataProvider.java,Dirk Fauth
+Wed Jun 13  6:55:08 2012,GridLayer.java,Dirk Fauth
+Wed Jun 13  6:55:08 2012,DataLayer.java,Dirk Fauth
+Wed Jun 13  6:55:08 2012,SizeConfig.java,Dirk Fauth
+Wed Jun 13  6:55:08 2012,DummyGridLayerStack.java,Dirk Fauth
+Wed Jun 13  6:55:08 2012,ViewportLayer.java,Dirk Fauth
+Wed Jun 13  6:55:08 2012,PercentageSizingDataLayerExample.java,Dirk Fauth

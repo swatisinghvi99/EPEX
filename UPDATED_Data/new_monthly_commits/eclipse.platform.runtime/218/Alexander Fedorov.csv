@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Sun Jun 30 20:19:05 2019,MANIFEST.MF,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,org.eclipse.e4.core.internal.services.about.InstalledBundles.xml,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,org.eclipse.e4.core.internal.services.about.InstalledFeatures.xml,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,org.eclipse.e4.core.internal.services.about.SystemEnvironment.xml,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,org.eclipse.e4.core.internal.services.about.SystemProperties.xml,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,org.eclipse.e4.core.internal.services.about.UserPreferences.xml,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,pom.xml,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,AboutMessages.java,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,AboutMessages.properties,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,InstalledBundles.java,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,InstalledFeatures.java,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,PrintedMap.java,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,SystemEnvironment.java,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,SystemProperties.java,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,UserPreferences.java,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,AboutSections.java,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,ISystemInformation.java,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,MANIFEST.MF,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,pom.xml,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,AboutTest.java,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,BundleGroupFactory.java,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,InstalledFeaturesTest.java,Alexander Fedorov
+Sun Jun 30 20:19:05 2019,CoreTestSuite.java,Alexander Fedorov

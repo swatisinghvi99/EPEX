@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Mon Jan 28  9:20:48 2019,.eslintrc,Axel Meinhardt
+Mon Jan 28  9:20:48 2019,.gitignore,Axel Meinhardt
+Mon Jan 28  9:20:48 2019,process_schema.json,Axel Meinhardt
+Mon Jan 28  9:20:48 2019,definitions.json,Axel Meinhardt
+Mon Jan 28  9:20:48 2019,cookieCheck.vue,Axel Meinhardt
+Mon Jan 28  9:20:48 2019,specification.vue,Axel Meinhardt
+Mon Jan 28  9:20:48 2019,machine-message.vue,Axel Meinhardt
+Mon Jan 28  9:20:48 2019,measurement-message.vue,Axel Meinhardt
+Mon Jan 28  9:20:48 2019,process-message.vue,Axel Meinhardt
+Mon Jan 28  9:20:48 2019,ga.js,Axel Meinhardt
+Mon Jan 28  9:20:48 2019,definitions.iuml,Axel Meinhardt
+Mon Jan 28  9:20:48 2019,legend.svg,Axel Meinhardt
+Mon Jan 28  9:20:48 2019,measurementPayload.svg,Axel Meinhardt
+Mon Jan 28  9:20:48 2019,measurementPayload.uml,Axel Meinhardt
+Mon Jan 28  9:20:48 2019,messagePayload.svg,Axel Meinhardt
+Mon Jan 28  9:20:48 2019,messagePayload.uml,Axel Meinhardt
+Mon Jan 28  9:20:48 2019,processPayload.svg,Axel Meinhardt
+Mon Jan 28  9:20:48 2019,processPayload.uml,Axel Meinhardt

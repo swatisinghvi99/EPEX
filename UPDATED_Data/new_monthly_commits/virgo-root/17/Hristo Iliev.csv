@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Fri Aug 26 10:09:10 2011,ClassLoadingHelper.java,Hristo Iliev
+Fri Aug 26 10:09:10 2011,ClassLoadingCommandProvider.java,Hristo Iliev
+Fri Aug 26 10:09:10 2011,ClassLoadingSupport.java,Hristo Iliev
+Fri Aug 26 10:09:10 2011,ClassLoadingSupportMBean.java,Hristo Iliev
+Fri Aug 26 10:09:10 2011,ClassLoadingHelperTests.java,Hristo Iliev
+Fri Aug 26 10:09:10 2011,ClassLoadingCommandProviderTests.java,Hristo Iliev
+Fri Aug 26 10:09:10 2011,ClassLoadingSupportTests.java,Hristo Iliev
+Fri Aug 26 10:09:10 2011,ClassLoadingHelperIntegrationTests.java,Hristo Iliev
+Fri Aug 26 10:09:10 2011,ClassLoadingSupportMBeanTests.java,Hristo Iliev
+Fri Aug 26 10:10:21 2011,Activator.java,Hristo Iliev
+Thu Sep  1 14:21:29 2011,ClassLoadingHelper.java,Hristo Iliev
+Thu Sep  1 14:21:29 2011,ClassLoadingCommandProvider.java,Hristo Iliev
+Thu Sep  1 14:21:29 2011,ClassLoadingHelperTests.java,Hristo Iliev
+Thu Sep  1 14:21:29 2011,ClassLoadingCommandProviderTests.java,Hristo Iliev
+Thu Sep  1 14:21:29 2011,ClassLoadingSupportTests.java,Hristo Iliev
+Thu Sep  1 14:21:29 2011,ClassLoadingHelperIntegrationTests.java,Hristo Iliev
+Thu Sep  1 14:21:29 2011,ClassLoadingSupportMBeanTests.java,Hristo Iliev
+Fri Sep  2  7:24:07 2011,ClassLoadingHelperTests.java,Hristo Iliev
+Thu Sep 15  7:13:56 2011,build.versions,Hristo Iliev
+Thu Sep 15  7:13:56 2011,ivy.xml,Hristo Iliev
+Thu Sep 15  7:13:56 2011,MedicActivator.java,Hristo Iliev
+Thu Sep 15  7:13:56 2011,ConfigurationAdminConfigurationProvider.java,Hristo Iliev
+Thu Sep 15  7:13:56 2011,ConfigurationProvider.java,Hristo Iliev
+Thu Sep 15  7:13:56 2011,ivy.xml,Hristo Iliev
+Thu Sep 15  7:13:56 2011,test.config.properties,Hristo Iliev

@@ -1,0 +1,45 @@
+date_time,file,committer_name
+Mon May 26 18:27:41 2008,.classpath,mgarcia
+Mon May 26 18:27:41 2008,.project,mgarcia
+Mon May 26 18:27:41 2008,org.eclipse.jdt.core.prefs,mgarcia
+Mon May 26 18:27:41 2008,MANIFEST.MF,mgarcia
+Mon May 26 18:27:41 2008,build.properties,mgarcia
+Mon May 26 18:27:41 2008,plugin.xml,mgarcia
+Mon May 26 18:27:41 2008,Activator.java,mgarcia
+Mon May 26 18:27:41 2008,GenerateEDSLFromGenModel.java,mgarcia
+Mon May 26 18:27:41 2008,.classpath,mgarcia
+Mon May 26 18:27:41 2008,.project,mgarcia
+Mon May 26 18:27:41 2008,org.eclipse.jdt.core.prefs,mgarcia
+Mon May 26 18:27:41 2008,MANIFEST.MF,mgarcia
+Mon May 26 18:27:41 2008,build.properties,mgarcia
+Mon May 26 18:27:41 2008,EDSLGenerator.java,mgarcia
+Mon May 26 18:27:41 2008,Activator.java,mgarcia
+Mon May 26 18:27:41 2008,BeingBuilt.java,mgarcia
+Mon May 26 18:27:41 2008,BooleanModder.java,mgarcia
+Mon May 26 18:27:41 2008,EnumModder.java,mgarcia
+Mon May 26 18:27:41 2008,ExprBuilder.java,mgarcia
+Mon May 26 18:27:41 2008,LiftedRef.java,mgarcia
+Mon May 26 18:27:41 2008,ManySF.java,mgarcia
+Mon May 26 18:27:41 2008,Modder.java,mgarcia
+Mon May 26 18:27:41 2008,NonLiftedRef.java,mgarcia
+Mon May 26 18:27:41 2008,PrimitiveSF.java,mgarcia
+Thu May 29 17:01:23 2008,GenUnparseInhaleAndMMForSeqRules.java,mgarcia
+Thu May 29 17:01:23 2008,MyEcoreUtil.java,mgarcia
+Thu May 29 17:01:23 2008,SeqExprCS.java,mgarcia
+Thu May 29 17:11:30 2008,some design notes.txt,mgarcia
+Thu May 29 17:11:30 2008,Modder.java,mgarcia
+Thu May 29 17:11:30 2008,PrimitiveSF.java,mgarcia
+Fri May 30 14:18:31 2008,MANIFEST.MF,mgarcia
+Fri May 30 14:18:31 2008,BeingBuilt.java,mgarcia
+Fri May 30 14:18:31 2008,Modder.java,mgarcia
+Fri May 30 14:18:31 2008,PrimitiveSF.java,mgarcia
+Fri May 30 14:42:09 2008,MANIFEST.MF,mgarcia
+Fri May 30 14:42:09 2008,some design notes.txt,mgarcia
+Fri May 30 14:42:09 2008,GymnastGeneratorUtil.java,mgarcia
+Fri May 30 14:42:09 2008,MyEcoreUtil.java,mgarcia
+Fri May 30 14:42:09 2008,BooleanModder.java,mgarcia
+Fri May 30 14:42:09 2008,Modder.java,mgarcia
+Fri Jun 13  9:39:30 2008,BeingBuilt.java,mgarcia
+Fri Jun 13  9:39:30 2008,BooleanModder.java,mgarcia
+Fri Jun 13  9:39:30 2008,LiftedRef.java,mgarcia
+Fri Jun 13  9:39:30 2008,PrimitiveSF.java,mgarcia

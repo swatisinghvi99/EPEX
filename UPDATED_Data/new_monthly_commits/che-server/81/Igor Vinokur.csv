@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Fri Oct 14 15:29:58 2022,BitbucketPersonalAccessToken.java,Igor Vinokur
+Fri Oct 14 15:29:58 2022,HttpBitbucketServerApiClient.java,Igor Vinokur
+Fri Oct 14 15:29:58 2022,BitbucketServerPersonalAccessTokenFetcherTest.java,Igor Vinokur
+Fri Oct 14 15:29:58 2022,HttpBitbucketServerApiClientTest.java,Igor Vinokur
+Fri Oct 14 15:29:58 2022,newtoken.json,Igor Vinokur
+Wed Oct 19 14:59:17 2022,GitlabUrl.java,Igor Vinokur
+Wed Oct 19 14:59:17 2022,GitlabAuthorizingFileContentProviderTest.java,Igor Vinokur
+Wed Oct 19 14:59:17 2022,GitlabUrlTest.java,Igor Vinokur
+Fri Oct 21  6:34:03 2022,KubernetesPersonalAccessTokenManager.java,Igor Vinokur
+Fri Oct 21  6:34:03 2022,GitlabUrlParser.java,Igor Vinokur
+Fri Oct 21  6:34:03 2022,GitlabUrlParserTest.java,Igor Vinokur
+Tue Nov  8  7:38:27 2022,GithubApiClient.java,Igor Vinokur
+Tue Nov  8  7:38:27 2022,GithubApiClientTest.java,Igor Vinokur
+Tue Nov  8  7:38:27 2022,GithubAuthorizingFileContentProviderTest.java,Igor Vinokur
+Tue Nov  8  7:38:27 2022,response.json,Igor Vinokur

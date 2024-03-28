@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Sat Oct 13 14:25:14 2018,Double.java,Alexander Dudaev
+Sat Oct 13 14:25:14 2018,OperationsFactory.java,Alexander Dudaev
+Sat Oct 13 14:25:14 2018,OperationsPackage.java,Alexander Dudaev
+Sat Oct 13 14:25:14 2018,DoubleImpl.java,Alexander Dudaev
+Sat Oct 13 14:25:14 2018,OperationsFactoryImpl.java,Alexander Dudaev
+Sat Oct 13 14:25:14 2018,OperationsPackageImpl.java,Alexander Dudaev
+Sat Oct 13 14:25:14 2018,OperationsAdapterFactory.java,Alexander Dudaev
+Sat Oct 13 14:25:14 2018,OperationsSwitch.java,Alexander Dudaev
+Sat Oct 13 14:25:14 2018,operations.ecore,Alexander Dudaev
+Sat Oct 13 14:25:14 2018,operations.genmodel,Alexander Dudaev
+Sat Oct 13 14:25:14 2018,plugin.xml,Alexander Dudaev
+Sat Oct 13 14:25:14 2018,DoubleService.java,Alexander Dudaev

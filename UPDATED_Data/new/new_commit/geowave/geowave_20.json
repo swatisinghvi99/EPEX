@@ -1,0 +1,172 @@
+[
+    [
+        "Michael Farwell",
+        "java",
+        4
+    ],
+    [
+        "rwgdrummer",
+        "gitignore",
+        4
+    ],
+    [
+        "rwgdrummer",
+        "xml",
+        7
+    ],
+    [
+        "rwgdrummer",
+        "java",
+        247
+    ],
+    [
+        "rwgdrummer",
+        "scala",
+        6
+    ],
+    [
+        "rwgdrummer",
+        "IndexOptionProviderSpi",
+        1
+    ],
+    [
+        "Derek Yeager",
+        "java",
+        264
+    ],
+    [
+        "Derek Yeager",
+        "xml",
+        6
+    ],
+    [
+        "Derek Yeager",
+        "gitignore",
+        2
+    ],
+    [
+        "Derek Yeager",
+        "DataStoreFactorySpi",
+        1
+    ],
+    [
+        "Derek Yeager",
+        "StoreFactoryFamilySpi",
+        1
+    ],
+    [
+        "Derek Yeager",
+        "AdapterStoreFactorySpi",
+        1
+    ],
+    [
+        "Derek Yeager",
+        "DataStatisticsStoreFactorySpi",
+        1
+    ],
+    [
+        "Derek Yeager",
+        "IndexStoreFactorySpi",
+        1
+    ],
+    [
+        "Derek Yeager",
+        "SecondaryIndexDataStoreFactorySpi",
+        1
+    ],
+    [
+        "Derek Yeager",
+        "csv",
+        1
+    ],
+    [
+        "Rich Fecher",
+        "java",
+        481
+    ],
+    [
+        "Rich Fecher",
+        "IndexQueryStrategySPI",
+        1
+    ],
+    [
+        "Rich Fecher",
+        "CLIOperationProviderSpi",
+        7
+    ],
+    [
+        "Rich Fecher",
+        "xml",
+        21
+    ],
+    [
+        "Rich Fecher",
+        "avsc",
+        1
+    ],
+    [
+        "Rich Fecher",
+        "DataStoreFactorySpi",
+        1
+    ],
+    [
+        "Rich Fecher",
+        "StoreFactoryFamilySpi",
+        1
+    ],
+    [
+        "Rich Fecher",
+        "AdapterStoreFactorySpi",
+        1
+    ],
+    [
+        "Rich Fecher",
+        "DataStatisticsStoreFactorySpi",
+        1
+    ],
+    [
+        "Rich Fecher",
+        "IndexStoreFactorySpi",
+        1
+    ],
+    [
+        "Rich Fecher",
+        "SecondaryIndexDataStoreFactorySpi",
+        1
+    ],
+    [
+        "Rich Fecher",
+        "csv",
+        1
+    ],
+    [
+        "Rich Fecher",
+        "yml",
+        1
+    ],
+    [
+        "amanning",
+        "xml",
+        1
+    ],
+    [
+        "amanning",
+        "java",
+        15
+    ],
+    [
+        "amanning",
+        "IngestFormatPluginProviderSpi",
+        1
+    ],
+    [
+        "Eric Robertson",
+        "java",
+        6
+    ],
+    [
+        "datasedai",
+        "java",
+        1
+    ]
+]

@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Tue Aug  9  8:22:48 2022,README.md,Ophélie Le Mentec
+Tue Aug  9  8:22:48 2022,IdentityHubCredentialsVerifier.java,Ophélie Le Mentec
+Fri Aug 12 10:29:13 2022,AggregatedResult.java,Ophélie Le Mentec
+Fri Aug 12 10:29:13 2022,DidJwtCredentialsVerifier.java,Ophélie Le Mentec
+Fri Aug 12 10:29:13 2022,IdentityHubCredentialsVerifier.java,Ophélie Le Mentec
+Fri Aug 12 10:29:13 2022,JwtCredentialsVerifier.java,Ophélie Le Mentec
+Fri Aug 12 10:29:13 2022,DidJwtCredentialsVerifierTest.java,Ophélie Le Mentec
+Fri Aug 12 10:29:13 2022,IdentityHubCredentialsVerifierTest.java,Ophélie Le Mentec
+Tue Aug 16  6:34:25 2022,verify.yaml,Ophélie Le Mentec
+Tue Aug 16  6:34:25 2022,build.gradle.kts,Ophélie Le Mentec

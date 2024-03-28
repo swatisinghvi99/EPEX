@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Fri Oct 18  7:48:40 2019,.travis.yml,Ana Albic
+Fri Oct 18  7:48:40 2019,RunJobEngineServiceOfflineDeviceI9nTest.java,Ana Albic
+Fri Oct 18  7:48:40 2019,RunJobEngineServiceOnlineDeviceI9nTest.java,Ana Albic
+Fri Oct 18  7:48:40 2019,JobEngineServiceRestartOnlineDeviceI9n.feature,Ana Albic
+Fri Oct 18  7:48:40 2019,JobEngineServiceRestartOnlineDeviceSecondPartI9n.feature,Ana Albic
+Fri Oct 18  7:48:40 2019,JobEngineServiceStartOfflineDeviceI9n.feature,Ana Albic
+Mon Oct 21  9:27:57 2019,.travis.yml,Ana Albic
+Mon Oct 21  9:27:57 2019,BasicSteps.java,Ana Albic
+Mon Oct 21  9:27:57 2019,RunJobEngineServiceOnlineDeviceI9nTest.java,Ana Albic
+Mon Oct 21  9:27:57 2019,JobEngineServiceStartOnlineDeviceI9n.feature,Ana Albic
+Mon Oct 21  9:27:57 2019,JobEngineServiceStopOnlineDeviceI9n.feature,Ana Albic
+Mon Oct 21  9:27:57 2019,JobServiceSteps.java,Ana Albic
+Thu Nov  7  7:41:35 2019,JobEngineServiceRestartOnlineDeviceSecondPartI9n.feature,Ana Albic
+Thu Nov  7  7:41:35 2019,JobEngineServiceStartOnlineDeviceI9n.feature,Ana Albic
+Thu Nov  7  7:41:35 2019,BrokerSteps.java,Ana Albic
+Thu Nov  7  7:41:35 2019,KuraDevice.java,Ana Albic
+Thu Nov  7  9:09:49 2019,JobEngineServiceRestartOnlineDeviceSecondPartI9n.feature,Ana Albic
+Thu Nov  7  9:09:49 2019,JobEngineServiceStartOnlineDeviceI9n.feature,Ana Albic
+Thu Nov  7  9:09:49 2019,KuraDevice.java,Ana Albic

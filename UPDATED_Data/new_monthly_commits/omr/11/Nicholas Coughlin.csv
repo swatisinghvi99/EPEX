@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Thu Jan 12 15:44:50 2017,OMRNode.cpp,Nicholas Coughlin
+Thu Jan 12 15:44:50 2017,OMRNode.hpp,Nicholas Coughlin
+Thu Jan 12 15:44:50 2017,Debug.cpp,Nicholas Coughlin
+Mon Jan 16 16:06:50 2017,OMRCompilation.cpp,Nicholas Coughlin
+Mon Jan 16 16:06:50 2017,OMRCompilation.hpp,Nicholas Coughlin
+Mon Jan 16 16:06:50 2017,OMRResolvedMethodSymbol.cpp,Nicholas Coughlin
+Mon Jan 16 16:06:50 2017,OSRDefAnalysis.cpp,Nicholas Coughlin
+Mon Jan 16 18:37:21 2017,OMRCompilation.cpp,Nicholas Coughlin
+Mon Jan 16 18:37:21 2017,OMRCompilation.hpp,Nicholas Coughlin
+Mon Jan 16 18:37:21 2017,OMRResolvedMethodSymbol.cpp,Nicholas Coughlin
+Mon Jan 16 18:37:21 2017,OSRDefAnalysis.cpp,Nicholas Coughlin
+Tue Jan 17 16:16:21 2017,OMRCompilation.cpp,Nicholas Coughlin
+Tue Jan 17 17:00:02 2017,OMRCompilation.cpp,Nicholas Coughlin
+Tue Jan 17 17:00:02 2017,OMRCompilation.hpp,Nicholas Coughlin
+Tue Jan 17 17:00:02 2017,OMRResolvedMethodSymbol.cpp,Nicholas Coughlin
+Tue Jan 17 17:00:02 2017,OSRDefAnalysis.cpp,Nicholas Coughlin
+Wed Jan 18 21:15:53 2017,OMRCompilation.cpp,Nicholas Coughlin
+Fri Jan 20 18:10:27 2017,deque.hpp,Nicholas Coughlin
+Mon Jan 23 18:10:19 2017,deque.hpp,Nicholas Coughlin
+Wed Feb  1 13:40:42 2017,OMROptions.cpp,Nicholas Coughlin
+Wed Feb  1 13:40:42 2017,OMROptimizer.cpp,Nicholas Coughlin
+Wed Feb  1 13:40:42 2017,Optimizations.enum,Nicholas Coughlin
+Wed Feb  1 13:40:42 2017,ValuePropagation.cpp,Nicholas Coughlin
+Fri Feb  3 16:59:09 2017,OMRResolvedMethodSymbol.cpp,Nicholas Coughlin

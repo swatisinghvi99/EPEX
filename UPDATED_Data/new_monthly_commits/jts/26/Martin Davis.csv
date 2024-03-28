@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Tue Dec  4 20:13:24 2018,CoordinateSequenceFilter.java,Martin Davis
+Tue Dec  4 20:13:24 2018,ShortCircuitedGeometryVisitor.java,Martin Davis
+Wed Dec  5 18:42:58 2018,SimplePointInAreaLocator.java,Martin Davis
+Thu Dec 13 23:54:19 2018,JTS_Version_History.md,Martin Davis
+Thu Dec 13 23:54:19 2018,ConnectedInteriorTester.java,Martin Davis
+Thu Dec 13 23:54:19 2018,IsValidOp.java,Martin Davis
+Thu Dec 13 23:54:19 2018,TestValid.xml,Martin Davis
+Thu Dec 13 23:54:19 2018,TestValid2.xml,Martin Davis
+Fri Dec 14  0:27:02 2018,JTS_Version_History.md,Martin Davis
+Fri Dec 14  0:27:02 2018,ShapeWriter.java,Martin Davis
+Fri Dec 14  0:27:02 2018,PolygonShapeTest.java,Martin Davis

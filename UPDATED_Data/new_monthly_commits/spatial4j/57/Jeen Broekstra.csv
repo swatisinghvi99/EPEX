@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Fri Mar 20  1:36:45 2020,CHANGES.md,Jeen Broekstra
+Fri Mar 20  1:36:45 2020,GeoJSONReader.java,Jeen Broekstra
+Fri Mar 20  1:36:45 2020,GeoJSONWriter.java,Jeen Broekstra
+Fri Mar 20  1:36:45 2020,WKTWriter.java,Jeen Broekstra
+Fri Mar 20  1:36:45 2020,ShapeAsGeoJSONSerializer.java,Jeen Broekstra
+Fri Mar 20  1:36:45 2020,ShapeDeserializer.java,Jeen Broekstra
+Fri Mar 20  1:36:45 2020,GeneralPolyshapeTest.java,Jeen Broekstra
+Fri Mar 20  1:36:45 2020,GeneralReadWriteShapeTest.java,Jeen Broekstra
+Fri Mar 20  1:36:45 2020,WKTWriterTest.java,Jeen Broekstra

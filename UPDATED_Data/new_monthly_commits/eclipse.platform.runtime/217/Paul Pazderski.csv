@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Sat May 18 12:17:52 2019,WeakGroupedListenerList.java,Paul Pazderski
+Sat May 18 12:17:52 2019,EclipseContextOSGi.java,Paul Pazderski
+Sat May 18 12:17:52 2019,MANIFEST.MF,Paul Pazderski
+Sat May 18 12:17:52 2019,pom.xml,Paul Pazderski
+Sat May 18 12:17:52 2019,Creatable.java,Paul Pazderski
+Sat May 18 12:17:52 2019,TestBug380859.java,Paul Pazderski
+Sat May 18 12:17:52 2019,TestBug388004.java,Paul Pazderski
+Sat May 18 12:17:52 2019,TestInitializer.java,Paul Pazderski
+Sat May 18 12:17:52 2019,Bug_412138.java,Paul Pazderski
+Sat May 18 12:17:52 2019,MANIFEST.MF,Paul Pazderski
+Sat May 18 12:17:52 2019,pom.xml,Paul Pazderski
+Sat May 18 12:17:52 2019,AutoConstructWithCreatableTest.java,Paul Pazderski
+Sat May 18 12:40:41 2019,Expression.java,Paul Pazderski
+Sat May 18 12:40:41 2019,MANIFEST.MF,Paul Pazderski
+Sat May 18 12:40:41 2019,pom.xml,Paul Pazderski
+Sat May 18 12:40:41 2019,AdaptableAdaptee.java,Paul Pazderski
+Sat May 18 12:40:41 2019,ExpressionTests.java,Paul Pazderski
+Sat May 18 12:40:41 2019,AnnotationsInjectionTest.java,Paul Pazderski
+Sat May 18 12:40:41 2019,ContextInjectionTest.java,Paul Pazderski
+Sat May 18 12:40:41 2019,DisposeClassLinkTest.java,Paul Pazderski

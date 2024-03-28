@@ -1,0 +1,422 @@
+[
+    [
+        "Pablo Alvarez Lopez",
+        "netedit",
+        821
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "py",
+        110
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "xml",
+        76
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "cpp",
+        489
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "netccfg",
+        14
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "neteditcheckoutput",
+        55
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "txt",
+        19
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "h",
+        184
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "am",
+        9
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "daily",
+        1
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "gui",
+        1
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "xpm",
+        3
+    ],
+    [
+        "namdre",
+        "tools",
+        18
+    ],
+    [
+        "namdre",
+        "txt",
+        6
+    ],
+    [
+        "namdre",
+        "py",
+        32
+    ],
+    [
+        "namdre",
+        "cpp",
+        269
+    ],
+    [
+        "namdre",
+        "xml",
+        9
+    ],
+    [
+        "namdre",
+        "h",
+        139
+    ],
+    [
+        "namdre",
+        "xsd",
+        5
+    ],
+    [
+        "namdre",
+        "java",
+        14
+    ],
+    [
+        "namdre",
+        "am",
+        3
+    ],
+    [
+        "namdre",
+        "netconvert",
+        8
+    ],
+    [
+        "namdre",
+        "complex",
+        11
+    ],
+    [
+        "namdre",
+        "jtrrcfg",
+        1
+    ],
+    [
+        "namdre",
+        "netgcfg",
+        1
+    ],
+    [
+        "namdre",
+        "sumocfg",
+        1
+    ],
+    [
+        "namdre",
+        "traci",
+        2
+    ],
+    [
+        "namdre",
+        "prog",
+        5
+    ],
+    [
+        "namdre",
+        "sumo",
+        3
+    ],
+    [
+        "Lara Codeca",
+        "py",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "java",
+        2
+    ],
+    [
+        "Michael Behrisch",
+        "cpp",
+        62
+    ],
+    [
+        "Michael Behrisch",
+        "h",
+        20
+    ],
+    [
+        "Michael Behrisch",
+        "complex",
+        229
+    ],
+    [
+        "Michael Behrisch",
+        "py",
+        67
+    ],
+    [
+        "Michael Behrisch",
+        "xml",
+        16058
+    ],
+    [
+        "Michael Behrisch",
+        "traci",
+        377
+    ],
+    [
+        "Michael Behrisch",
+        "pyw",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "tools",
+        305
+    ],
+    [
+        "Michael Behrisch",
+        "netedit",
+        4703
+    ],
+    [
+        "Michael Behrisch",
+        "i",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "libsumo",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "txt",
+        383
+    ],
+    [
+        "Michael Behrisch",
+        "cmake",
+        2
+    ],
+    [
+        "Michael Behrisch",
+        "ac",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "js",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "sh",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "duarouter",
+        1343
+    ],
+    [
+        "Michael Behrisch",
+        "astar",
+        9
+    ],
+    [
+        "Michael Behrisch",
+        "sumo",
+        4278
+    ],
+    [
+        "Michael Behrisch",
+        "netccfg",
+        1140
+    ],
+    [
+        "Michael Behrisch",
+        "activitygen",
+        19
+    ],
+    [
+        "Michael Behrisch",
+        "sumocfg",
+        177
+    ],
+    [
+        "Michael Behrisch",
+        "duarcfg",
+        4
+    ],
+    [
+        "Michael Behrisch",
+        "meso",
+        1929
+    ],
+    [
+        "Michael Behrisch",
+        "netgcfg",
+        112
+    ],
+    [
+        "Michael Behrisch",
+        "jtrrcfg",
+        2
+    ],
+    [
+        "Michael Behrisch",
+        "unknown",
+        4
+    ],
+    [
+        "Michael Behrisch",
+        "dfrouter",
+        455
+    ],
+    [
+        "Michael Behrisch",
+        "chrouter",
+        4
+    ],
+    [
+        "Michael Behrisch",
+        "jtrrouter",
+        83
+    ],
+    [
+        "Michael Behrisch",
+        "marouter",
+        97
+    ],
+    [
+        "Michael Behrisch",
+        "netconvert",
+        2559
+    ],
+    [
+        "Michael Behrisch",
+        "netgen",
+        129
+    ],
+    [
+        "Michael Behrisch",
+        "od2trips",
+        171
+    ],
+    [
+        "Michael Behrisch",
+        "polyconvert",
+        63
+    ],
+    [
+        "Michael Behrisch",
+        "ballistic",
+        710
+    ],
+    [
+        "Michael Behrisch",
+        "sublanes",
+        458
+    ],
+    [
+        "Michael Behrisch",
+        "netcfg",
+        2
+    ],
+    [
+        "Michael Behrisch",
+        "prog",
+        9
+    ],
+    [
+        "Michael Behrisch",
+        "cfg",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "spec",
+        1
+    ],
+    [
+        "tarek chouaki",
+        "py",
+        2
+    ],
+    [
+        "Leonhard L\u00fccken",
+        "cpp",
+        1
+    ],
+    [
+        "Leonhard L\u00fccken",
+        "complex",
+        8
+    ],
+    [
+        "Leonhard L\u00fccken",
+        "sumo",
+        84
+    ],
+    [
+        "Leonhard L\u00fccken",
+        "xml",
+        2
+    ],
+    [
+        "Leonhard Luecken",
+        "cpp",
+        71
+    ],
+    [
+        "Leonhard Luecken",
+        "h",
+        58
+    ],
+    [
+        "Leonhard Luecken",
+        "complex",
+        24
+    ],
+    [
+        "Leonhard Luecken",
+        "xml",
+        1
+    ],
+    [
+        "Leonhard Luecken",
+        "py",
+        37
+    ],
+    [
+        "Leonhard Luecken",
+        "am",
+        4
+    ],
+    [
+        "Leonhard Luecken",
+        "txt",
+        2
+    ]
+]

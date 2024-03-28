@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Thu May 30 12:22:21 2019,YearsMonthsValueConverterTest.java,Yevgeniy Fomin
+Mon Jun  3  8:12:23 2019,pom.xml,Yevgeniy Fomin
+Mon Jun  3  8:12:23 2019,InformationItemPrimaryPropertyConverterTest.java,Yevgeniy Fomin
+Mon Jun  3  8:12:23 2019,ItemDefinitionPropertyConverterTest.java,Yevgeniy Fomin
+Mon Jun  3  8:12:23 2019,IncludedModelsFactory.java,Yevgeniy Fomin
+Mon Jun  3  8:12:23 2019,IncludedModelsFactoryTest.java,Yevgeniy Fomin
+Mon Jun  3  8:12:23 2019,DayTimeSelectorViewTest.java,Yevgeniy Fomin
+Mon Jun  3  8:12:23 2019,DefaultValueUtilitiesTest.java,Yevgeniy Fomin
+Mon Jun  3  8:12:23 2019,BaseNameAndDataTypeHeaderMetaDataTest.java,Yevgeniy Fomin
+Mon Jun  3  8:12:23 2019,NameAndDataTypeHeaderMetaDataHasExpressionTest.java,Yevgeniy Fomin
+Mon Jun  3  8:12:23 2019,NameAndDataTypeHeaderMetaDataTest.java,Yevgeniy Fomin

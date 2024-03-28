@@ -1,0 +1,417 @@
+[
+    [
+        "Paulo Martins",
+        "java",
+        47
+    ],
+    [
+        "Paulo Martins",
+        "xml",
+        12
+    ],
+    [
+        "Paulo Martins",
+        "html",
+        1
+    ],
+    [
+        "Paulo Martins",
+        "md",
+        1
+    ],
+    [
+        "Paulo Martins",
+        "MigrationTool",
+        1
+    ],
+    [
+        "Paulo Martins",
+        "FileSystemProvider",
+        2
+    ],
+    [
+        "Max Barkley",
+        "java",
+        53
+    ],
+    [
+        "Walter Medvedeo",
+        "xml",
+        9
+    ],
+    [
+        "Walter Medvedeo",
+        "java",
+        45
+    ],
+    [
+        "Walter Medvedeo",
+        "gitignore",
+        1
+    ],
+    [
+        "Walter Medvedeo",
+        "properties",
+        3
+    ],
+    [
+        "Walter Medvedeo",
+        "FileSystemProvider",
+        1
+    ],
+    [
+        "Walter Medvedeo",
+        "css",
+        3
+    ],
+    [
+        "Walter Medvedeo",
+        "html",
+        2
+    ],
+    [
+        "Walter Medvedeo",
+        "svg",
+        28
+    ],
+    [
+        "Walter Medvedeo",
+        "json",
+        1
+    ],
+    [
+        "Alessio Pintus",
+        "java",
+        47
+    ],
+    [
+        "Alessio Pintus",
+        "properties",
+        1
+    ],
+    [
+        "Alessio Pintus",
+        "bpmn",
+        5
+    ],
+    [
+        "Alessio Pintus",
+        "svg",
+        3
+    ],
+    [
+        "Alessio Pintus",
+        "css",
+        1
+    ],
+    [
+        "Alessio Pintus",
+        "json",
+        1
+    ],
+    [
+        "Alessio Pintus",
+        "xml",
+        5
+    ],
+    [
+        "Michael Anstis",
+        "java",
+        497
+    ],
+    [
+        "Michael Anstis",
+        "html",
+        5
+    ],
+    [
+        "Michael Anstis",
+        "less",
+        5
+    ],
+    [
+        "Michael Anstis",
+        "properties",
+        4
+    ],
+    [
+        "Michael Anstis",
+        "dmn",
+        1
+    ],
+    [
+        "Eder Ignatowicz",
+        "java",
+        21
+    ],
+    [
+        "Eder Ignatowicz",
+        "xml",
+        1
+    ],
+    [
+        "Toni Rikkola",
+        "java",
+        4
+    ],
+    [
+        "Mario Fusco",
+        "java",
+        1
+    ],
+    [
+        "Mario Fusco",
+        "pmml",
+        1
+    ],
+    [
+        "Adriel Paredes",
+        "java",
+        17
+    ],
+    [
+        "Adriel Paredes",
+        "properties",
+        1
+    ],
+    [
+        "Jozef Marko",
+        "java",
+        90
+    ],
+    [
+        "Jozef Marko",
+        "xml",
+        1
+    ],
+    [
+        "Roger Mart\u00ednez",
+        "java",
+        511
+    ],
+    [
+        "Roger Mart\u00ednez",
+        "md",
+        3
+    ],
+    [
+        "Roger Mart\u00ednez",
+        "xml",
+        17
+    ],
+    [
+        "Roger Mart\u00ednez",
+        "ftl",
+        5
+    ],
+    [
+        "Roger Mart\u00ednez",
+        "html",
+        5
+    ],
+    [
+        "Roger Mart\u00ednez",
+        "js",
+        1
+    ],
+    [
+        "Roger Mart\u00ednez",
+        "css",
+        5
+    ],
+    [
+        "Roger Mart\u00ednez",
+        "svg",
+        9
+    ],
+    [
+        "Roger Mart\u00ednez",
+        "properties",
+        3
+    ],
+    [
+        "Roger Mart\u00ednez",
+        "bpmn",
+        1
+    ],
+    [
+        "Roger Mart\u00ednez",
+        "wid",
+        5
+    ],
+    [
+        "Roger Mart\u00ednez",
+        "json",
+        1
+    ],
+    [
+        "Guilherme Carreiro",
+        "java",
+        2
+    ],
+    [
+        "Edoardo Vacchi",
+        "java",
+        161
+    ],
+    [
+        "Edoardo Vacchi",
+        "md",
+        2
+    ],
+    [
+        "Edoardo Vacchi",
+        "bpmn",
+        2
+    ],
+    [
+        "David Gutierrez",
+        "java",
+        2
+    ],
+    [
+        "Pere Fern\u00e1ndez",
+        "md",
+        1
+    ],
+    [
+        "Pere Fern\u00e1ndez",
+        "xml",
+        14
+    ],
+    [
+        "Pere Fern\u00e1ndez",
+        "java",
+        136
+    ],
+    [
+        "Pere Fern\u00e1ndez",
+        "bat",
+        1
+    ],
+    [
+        "Pere Fern\u00e1ndez",
+        "sh",
+        1
+    ],
+    [
+        "Pere Fern\u00e1ndez",
+        "MigrationTool",
+        2
+    ],
+    [
+        "Pere Fern\u00e1ndez",
+        "FileSystemProvider",
+        3
+    ],
+    [
+        "Pere Fern\u00e1ndez",
+        "bpmn2",
+        1
+    ],
+    [
+        "Pere Fern\u00e1ndez",
+        "form",
+        12
+    ],
+    [
+        "Pere Fern\u00e1ndez",
+        "frm",
+        1
+    ],
+    [
+        "Pere Fern\u00e1ndez",
+        "properties",
+        4
+    ],
+    [
+        "Pere Fern\u00e1ndez",
+        "html",
+        4
+    ],
+    [
+        "Pere Fern\u00e1ndez",
+        "css",
+        2
+    ],
+    [
+        "Tiago Bento",
+        "java",
+        7
+    ],
+    [
+        "Kirill Gaevskii",
+        "java",
+        65
+    ],
+    [
+        "Kirill Gaevskii",
+        "bpmn",
+        5
+    ],
+    [
+        "Alexandre Porcelli",
+        "java",
+        4
+    ],
+    [
+        "Alexandre Porcelli",
+        "html",
+        1
+    ],
+    [
+        "Fedor Gavrilov",
+        "java",
+        1
+    ],
+    [
+        "Fedor Gavrilov",
+        "dmn",
+        1
+    ],
+    [
+        "Cristiano Nicolai",
+        "java",
+        1
+    ],
+    [
+        "Tomas David",
+        "xml",
+        2
+    ],
+    [
+        "Tomas David",
+        "java",
+        6
+    ],
+    [
+        "Tiago Dolphine",
+        "java",
+        71
+    ],
+    [
+        "Tiago Dolphine",
+        "xml",
+        4
+    ],
+    [
+        "Tiago Dolphine",
+        "properties",
+        1
+    ],
+    [
+        "Dominik Han\u00e1k",
+        "java",
+        7
+    ],
+    [
+        "Dominik Han\u00e1k",
+        "xml",
+        1
+    ],
+    [
+        "Dominik Han\u00e1k",
+        "bpmn",
+        3
+    ]
+]

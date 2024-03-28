@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Tue Jun 10 15:37:27 2014,DummyDialectEditorDialogFactory.java,Esteban Dugueperoux
+Tue Jun 10 15:37:27 2014,SiriusTestCase.java,Esteban Dugueperoux
+Thu Jun 12  9:43:35 2014,SiriusTestCase.java,Esteban Dugueperoux
+Mon Jun 16 12:38:48 2014,DDiagramEditorImpl.java,Esteban Dugueperoux
+Tue Jun 17 14:57:33 2014,HideDDiagramElementAction.java,Esteban Dugueperoux
+Thu Jun 26 15:11:14 2014,CreateDEdgeTask.java,Esteban Dugueperoux
+Tue Jul  1  7:58:54 2014,WorkspaceImagePathSelector.java,Esteban Dugueperoux
+Tue Jul  1 13:48:53 2014,DynamicAcceleoModule.java,Esteban Dugueperoux
+Tue Jul  1 13:50:03 2014,DDiagramEditorImpl.java,Esteban Dugueperoux
+Tue Jul  1 13:50:03 2014,IEditingSession.java,Esteban Dugueperoux
+Tue Jul  1 13:50:03 2014,DialectEditorCloser.java,Esteban Dugueperoux
+Tue Jul  1 13:50:03 2014,DialectEditorCloserRunnable.java,Esteban Dugueperoux

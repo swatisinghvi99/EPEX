@@ -1,0 +1,122 @@
+[
+    [
+        "Luca Bartoli",
+        "md",
+        3
+    ],
+    [
+        "Luca Bartoli",
+        "inl",
+        3
+    ],
+    [
+        "Luca Bartoli",
+        "hpp",
+        3
+    ],
+    [
+        "Luca Bartoli",
+        "cpp",
+        3
+    ],
+    [
+        "Bartlomiej Kozaryna",
+        "md",
+        1
+    ],
+    [
+        "Bartlomiej Kozaryna",
+        "h",
+        3
+    ],
+    [
+        "Bartlomiej Kozaryna",
+        "cpp",
+        38
+    ],
+    [
+        "Bartlomiej Kozaryna",
+        "hpp",
+        18
+    ],
+    [
+        "Bartlomiej Kozaryna",
+        "inl",
+        5
+    ],
+    [
+        "Bart\u0142omiej Kozaryna",
+        "md",
+        2
+    ],
+    [
+        "Bart\u0142omiej Kozaryna",
+        "hpp",
+        6
+    ],
+    [
+        "Bart\u0142omiej Kozaryna",
+        "cpp",
+        17
+    ],
+    [
+        "Bart\u0142omiej Kozaryna",
+        "cmake",
+        1
+    ],
+    [
+        "Bart\u0142omiej Kozaryna",
+        "txt",
+        1
+    ],
+    [
+        "Bart\u0142omiej Kozaryna",
+        "sh",
+        1
+    ],
+    [
+        "Mathias Kraus",
+        "txt",
+        15
+    ],
+    [
+        "Mathias Kraus",
+        "hpp",
+        109
+    ],
+    [
+        "Mathias Kraus",
+        "clang-tidy",
+        9
+    ],
+    [
+        "Mathias Kraus",
+        "cpp",
+        308
+    ],
+    [
+        "Mathias Kraus",
+        "inl",
+        59
+    ],
+    [
+        "Mathias Kraus",
+        "bazel",
+        5
+    ],
+    [
+        "Mathias Kraus",
+        "cmake",
+        1
+    ],
+    [
+        "Mathias Kraus",
+        "ps1",
+        1
+    ],
+    [
+        "Mathias Kraus",
+        "md",
+        3
+    ]
+]

@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Thu Mar 15 18:57:34 2018,pom.xml,mawhitby
+Thu Mar 15 18:57:34 2018,SwaggerResource.java,mawhitby
+Mon Mar 26 20:29:38 2018,TieredSpatialJoin.java,mawhitby
+Mon Mar 26 20:29:38 2018,SparkCommandLineOptions.java,mawhitby
+Mon Mar 26 20:29:38 2018,SparkIngestDriver.java,mawhitby
+Mon Mar 26 20:29:38 2018,DownloadRunner.java,mawhitby
+Mon Mar 26 20:29:38 2018,SceneFeatureIterator.java,mawhitby
+Mon Mar 26 20:29:38 2018,GeoWaveGrpcServer.java,mawhitby
+Tue Mar 27 15:24:58 2018,TieredSpatialJoin.java,mawhitby
+Tue Mar 27 15:24:58 2018,DownloadRunner.java,mawhitby
+Tue Mar 27 15:24:58 2018,SceneFeatureIterator.java,mawhitby
+Tue Mar 27 19:20:26 2018,LocalToGeowaveCommand.java,mawhitby
+Tue Mar 27 19:20:26 2018,010-config-commands.adoc,mawhitby
+Tue Mar 27 19:20:26 2018,015-ingest-commands.adoc,mawhitby
+Tue Mar 27 19:20:26 2018,geowave-addindex.txt,mawhitby
+Tue Mar 27 19:20:26 2018,geowave-aws.txt,mawhitby
+Tue Mar 27 19:20:26 2018,geowave-hdfs.txt,mawhitby
+Tue Mar 27 19:20:26 2018,geowave-localToGW.txt,mawhitby
+Tue Mar 27 19:20:26 2018,geowave-sparkToGW.txt,mawhitby
+Tue Mar 27 19:20:26 2018,045-ingestoverview.adoc,mawhitby
+Tue Mar 27 19:20:26 2018,001-hw-quickstart-guide-raster-demo.adoc,mawhitby
+Tue Mar 27 21:17:45 2018,SpatialDimensionalityTypeProvider.java,mawhitby
+Tue Mar 27 21:17:45 2018,SpatialTemporalDimensionalityTypeProvider.java,mawhitby

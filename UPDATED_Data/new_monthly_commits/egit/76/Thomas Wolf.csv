@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Sat Jan  2 12:12:41 2016,MANIFEST.MF,Thomas Wolf
+Sat Jan  2 12:12:41 2016,plugin.xml,Thomas Wolf
+Sat Jan  2 12:12:41 2016,RepositoryPropertyTester.java,Thomas Wolf
+Sat Jan  2 12:12:41 2016,plugin.xml,Thomas Wolf
+Sat Jan  2 12:12:41 2016,RepositorySourceProvider.java,Thomas Wolf
+Sun Jan  3 12:27:13 2016,RepositorySourceProvider.java,Thomas Wolf
+Fri Jan  8 21:00:54 2016,plugin.xml,Thomas Wolf
+Fri Jan  8 21:00:54 2016,GitAdapterFactory.java,Thomas Wolf
+Fri Jan  8 21:00:54 2016,StagingView.java,Thomas Wolf
+Sat Jan  9 12:24:53 2016,plugin.xml,Thomas Wolf
+Sat Jan  9 12:24:53 2016,DynamicHistoryMenu.java,Thomas Wolf
+Mon Jan 11 10:14:18 2016,RebaseInteractivePlan.java,Thomas Wolf
+Tue Jan 19  7:17:32 2016,ResourceUtil.java,Thomas Wolf
+Tue Jan 19 19:31:25 2016,ResourceUtil.java,Thomas Wolf
+Wed Jan 20 21:44:59 2016,Activator.java,Thomas Wolf
+Wed Jan 20 21:44:59 2016,RepositoryCache.java,Thomas Wolf
+Wed Jan 20 21:44:59 2016,RepositoryUtil.java,Thomas Wolf
+Wed Jan 20 21:44:59 2016,IndexDiffCache.java,Thomas Wolf
+Wed Jan 20 21:44:59 2016,IndexDiffCacheEntry.java,Thomas Wolf
+Wed Jan 20 21:44:59 2016,GitRepositoriesViewRepoDeletionTest.java,Thomas Wolf
+Thu Jan 21  8:22:00 2016,GitProjectData.java,Thomas Wolf
+Thu Jan 21  8:24:56 2016,MultiPullResultDialog.java,Thomas Wolf
+Thu Jan 21  9:49:49 2016,ResourceStateFactory.java,Thomas Wolf
+Tue Jan 26 17:57:09 2016,AbstractFeatureFinishHandlerTest.java,Thomas Wolf
+Tue Jan 26 17:57:09 2016,FeatureFinishSquashHandlerTest.java,Thomas Wolf
+Tue Jan 26 17:57:09 2016,InitHandlerTest.java,Thomas Wolf

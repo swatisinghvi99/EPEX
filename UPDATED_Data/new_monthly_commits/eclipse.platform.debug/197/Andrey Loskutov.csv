@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Tue Oct  3 20:42:23 2017,AbstractDebugTest.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,TestUtil.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,AbstractViewerModelTest.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,CheckTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,ColumnPresentationTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,ContentTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,DeltaTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,FilterTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,JFaceViewerPopupTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,JFaceViewerSelectionTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,JFaceViewerStateTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,JFaceViewerTopIndexTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,JFaceViewerUpdateTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,LazyTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,PerformanceTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,PopupTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,SelectionTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,StateTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,UpdateTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,VirtualViewerLazyModeTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,VirtualViewerPopupTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,VirtualViewerSelectionTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,VirtualViewerStateTests.java,Andrey Loskutov
+Tue Oct  3 20:42:23 2017,VirtualViewerUpdateTests.java,Andrey Loskutov
+Wed Oct 18  8:51:41 2017,ToggleBreakpointAction.java,Andrey Loskutov

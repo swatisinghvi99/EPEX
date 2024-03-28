@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Tue Sep 27 13:41:56 2022,CODE_OF_CONDUCT.md,Marcell Lippai
+Tue Sep 27 13:41:56 2022,CONTRIBUTING.md,Marcell Lippai
+Tue Sep 27 13:41:56 2022,SelfDescriptionFactoryApplication.java,Marcell Lippai
+Tue Sep 27 13:41:56 2022,JwtSecurityConfig.java,Marcell Lippai
+Tue Sep 27 13:41:56 2022,KeycloakConfig.java,Marcell Lippai
+Tue Sep 27 13:41:56 2022,OpenApiConfiguration.java,Marcell Lippai
+Tue Sep 27 13:41:56 2022,SecurityRoles.java,Marcell Lippai
+Tue Sep 27 13:41:56 2022,SDFactoryEndpoints.java,Marcell Lippai
+Tue Sep 27 13:41:56 2022,SDDocumentDto.java,Marcell Lippai
+Tue Sep 27 13:41:56 2022,SelfDescriptionFactoryApplicationTests.java,Marcell Lippai
+Tue Sep 27 13:41:56 2022,VCTest.java,Marcell Lippai

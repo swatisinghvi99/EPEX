@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Fri Jan 19  8:02:48 2024,action-dispatcher.ts,Martin Fleck
+Fri Jan 19  8:02:48 2024,glsp-model-source.ts,Martin Fleck
+Fri Jan 19  8:02:48 2024,change-bounds-tool-feedback.ts,Martin Fleck
+Fri Jan 19  8:31:06 2024,selection-service.spec.ts,Martin Fleck
+Fri Jan 19  8:31:06 2024,selection-service.ts,Martin Fleck
+Mon Jan 22 10:47:30 2024,workflow-diagram-module.ts,Martin Fleck
+Mon Jan 22 10:47:30 2024,position-snapper.ts,Martin Fleck
+Mon Jan 22 10:47:30 2024,helper-line-feedback.ts,Martin Fleck
+Mon Jan 22 10:47:30 2024,helper-line-manager-default.ts,Martin Fleck
+Mon Jan 22 10:47:30 2024,helper-line-manager.ts,Martin Fleck
+Mon Jan 22 10:47:30 2024,change-bounds-tool-feedback.ts,Martin Fleck
+Mon Jan 22 10:47:30 2024,gmodel-util.ts,Martin Fleck
+Mon Jan 22 10:47:30 2024,re-exports.ts,Martin Fleck
+Mon Jan 22 10:47:30 2024,types.ts,Martin Fleck

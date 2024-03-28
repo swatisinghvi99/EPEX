@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Mon Jul 17 14:33:49 2006,SearchPreferencePage.java,Martin Aeschlimann
+Mon Jul 17 14:33:49 2006,ComboFieldEditor.java,Martin Aeschlimann
+Mon Jul 17 16:14:36 2006,FileSearchDescription.java,Martin Aeschlimann
+Mon Jul 17 16:19:08 2006,NewSearchUI.java,Martin Aeschlimann
+Mon Jul 17 16:19:08 2006,InternalSearchUI.java,Martin Aeschlimann
+Mon Jul 17 16:19:08 2006,QueryManager.java,Martin Aeschlimann
+Mon Jul 17 16:19:08 2006,SearchHistoryDropDownAction.java,Martin Aeschlimann
+Mon Jul 17 16:19:08 2006,SearchHistorySelectionDialog.java,Martin Aeschlimann
+Mon Jul 17 16:19:08 2006,SearchView.java,Martin Aeschlimann
+Mon Jul 17 16:19:08 2006,ShowSearchHistoryDialogAction.java,Martin Aeschlimann
+Mon Jul 17 16:37:56 2006,FilesOfScopeCalculator.java,Martin Aeschlimann
+Mon Jul 17 17:07:15 2006,TextSearchPage.java,Martin Aeschlimann
+Tue Jul 25 15:37:54 2006,org.eclipse.jdt.core.prefs,Martin Aeschlimann
+Tue Jul 25 15:37:54 2006,plugin.xml,Martin Aeschlimann
+Tue Jul 25 15:37:54 2006,SearchPlugin.java,Martin Aeschlimann
+Tue Jul 25 15:37:54 2006,SearchPreferenceInitializer.java,Martin Aeschlimann
+Wed Jul 26 10:56:28 2006,InternalSearchUI.java,Martin Aeschlimann

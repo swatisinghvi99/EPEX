@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Wed Dec 30 17:57:51 2009,DebugModelContextBindingManager.java,Pawel Piech
+Wed Dec 30 17:57:51 2009,ViewContextService.java,Pawel Piech
+Tue Jan  5 18:51:04 2010,AbstractBreakpointManagerContentProvider.java,Pawel Piech
+Wed Jan 13  0:05:37 2010,RuntimeProcess.java,Pawel Piech
+Wed Jan 13  0:05:37 2010,StreamsProxy.java,Pawel Piech
+Wed Jan 13 14:36:13 2010,StreamsProxy.java,Pawel Piech
+Thu Jan 14 22:37:30 2010,ActivateCellEditorAction.java,Pawel Piech
+Thu Jan 14 22:37:30 2010,TreeModelViewer.java,Pawel Piech
+Thu Jan 14 22:37:30 2010,VariablesView.java,Pawel Piech
+Thu Jan 14 22:37:30 2010,AbstractDebugView.java,Pawel Piech

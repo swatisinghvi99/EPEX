@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Fri Feb 15 16:39:09 2019,plugin.xml,Tim Neumann
+Fri Feb 15 16:39:09 2019,UIText.java,Tim Neumann
+Fri Feb 15 16:39:09 2019,CommitEditorPage.java,Tim Neumann
+Fri Feb 15 16:39:09 2019,DiffEditorOutlinePage.java,Tim Neumann
+Fri Feb 15 16:39:09 2019,StashEditorPage.java,Tim Neumann
+Fri Feb 15 16:39:09 2019,GitAdapterFactory.java,Tim Neumann
+Fri Feb 15 16:39:09 2019,CommitFileDiffViewer.java,Tim Neumann
+Fri Feb 15 16:39:09 2019,FileDiff.java,Tim Neumann
+Fri Feb 15 16:39:09 2019,FileDiffContentProvider.java,Tim Neumann
+Fri Feb 15 16:39:09 2019,FileDiffInput.java,Tim Neumann
+Fri Feb 15 16:39:09 2019,FileDiffLabelProvider.java,Tim Neumann
+Fri Feb 15 16:39:09 2019,FileDiffWorkbenchAdapter.java,Tim Neumann
+Fri Feb 15 16:39:09 2019,GitHistoryPage.java,Tim Neumann
+Fri Feb 15 16:39:09 2019,uitext.properties,Tim Neumann

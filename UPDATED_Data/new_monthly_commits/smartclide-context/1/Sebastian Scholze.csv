@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Fri Feb 26 23:54:52 2021,ApplicationScenario.java,Sebastian Scholze
+Fri Feb 26 23:54:52 2021,BusinessCase.java,Sebastian Scholze
+Fri Feb 26 23:55:17 2021,SWServiceContainer.java,Sebastian Scholze
+Fri Feb 26 23:55:17 2021,ISWService.java,Sebastian Scholze
+Fri Feb 26 23:55:17 2021,SWService.java,Sebastian Scholze
+Sat Feb 27  1:22:10 2021,TestMetaMonitor.java,Sebastian Scholze
+Sat Feb 27  1:22:10 2021,DummyFilePairAnalyser.java,Sebastian Scholze
+Sat Feb 27  1:22:10 2021,TestMonitoringConfiguration.java,Sebastian Scholze
+Sat Feb 27  1:22:10 2021,DummyMonitoringDataModel.java,Sebastian Scholze
+Sat Feb 27  1:22:10 2021,TestFilePairSystemMonitor.java,Sebastian Scholze
+Sat Feb 27  1:22:10 2021,DummyWebServiceMonitor.java,Sebastian Scholze
+Sat Feb 27  1:22:10 2021,DummyFilePairParser.java,Sebastian Scholze
+Sat Feb 27  1:22:10 2021,TestMonitoringDataRepository.java,Sebastian Scholze
+Sat Feb 27  1:22:10 2021,DummyMonitoringDataPersistencePostProcessor.java,Sebastian Scholze
+Sat Feb 27  1:22:10 2021,DummyMonitoringDataPersistencePreProcessor.java,Sebastian Scholze
+Sat Feb 27  1:22:10 2021,TestDataRetrieval.java,Sebastian Scholze
+Sat Feb 27  1:22:10 2021,TestMonitoringDataRepositoryService.java,Sebastian Scholze
+Sat Feb 27  1:22:10 2021,TestMonitoringService.java,Sebastian Scholze
+Sat Feb 27  1:22:10 2021,TestServiceConfiguration.java,Sebastian Scholze
+Sat Feb 27  1:22:10 2021,dummy_monitoringdata_model.rdf,Sebastian Scholze
+Sat Feb 27  1:22:10 2021,TankRefilling.owl,Sebastian Scholze

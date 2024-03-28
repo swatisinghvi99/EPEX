@@ -1,0 +1,522 @@
+[
+    [
+        "Alexandra Buzila",
+        "gitignore",
+        19
+    ],
+    [
+        "Alexandra Buzila",
+        "project",
+        25
+    ],
+    [
+        "Alexandra Buzila",
+        "di",
+        4
+    ],
+    [
+        "Alexandra Buzila",
+        "notation",
+        4
+    ],
+    [
+        "Alexandra Buzila",
+        "uml",
+        4
+    ],
+    [
+        "Alexandra Buzila",
+        "coffee",
+        2
+    ],
+    [
+        "Alexandra Buzila",
+        "classpath",
+        19
+    ],
+    [
+        "Alexandra Buzila",
+        "prefs",
+        52
+    ],
+    [
+        "Alexandra Buzila",
+        "wfanalysis",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "wf",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "java",
+        53
+    ],
+    [
+        "Alexandra Buzila",
+        "MF",
+        16
+    ],
+    [
+        "Alexandra Buzila",
+        "properties",
+        21
+    ],
+    [
+        "Alexandra Buzila",
+        "xml",
+        40
+    ],
+    [
+        "Alexandra Buzila",
+        "css",
+        3
+    ],
+    [
+        "Alexandra Buzila",
+        "html",
+        7
+    ],
+    [
+        "Alexandra Buzila",
+        "js",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "md",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "architecture",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "contexts",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "xwt",
+        3
+    ],
+    [
+        "Alexandra Buzila",
+        "environment",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "svg",
+        5
+    ],
+    [
+        "Alexandra Buzila",
+        "paletteconfiguration",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "elementtypesconfigurations",
+        2
+    ],
+    [
+        "Alexandra Buzila",
+        "launch",
+        3
+    ],
+    [
+        "Alexandra Buzila",
+        "xtend",
+        21
+    ],
+    [
+        "Alexandra Buzila",
+        "mwe2",
+        2
+    ],
+    [
+        "Alexandra Buzila",
+        "xtext",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "ini",
+        3
+    ],
+    [
+        "Alexandra Buzila",
+        "product",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "xpm",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "target",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "tpd",
+        1
+    ],
+    [
+        "Alexandra Buzila",
+        "json",
+        20
+    ],
+    [
+        "Alexandra Buzila",
+        "ts",
+        33
+    ],
+    [
+        "Martin Fleck",
+        "xtend",
+        35
+    ],
+    [
+        "Martin Fleck",
+        "json",
+        11
+    ],
+    [
+        "Martin Fleck",
+        "ts",
+        31
+    ],
+    [
+        "Martin Fleck",
+        "html",
+        7
+    ],
+    [
+        "Martin Fleck",
+        "lock",
+        3
+    ],
+    [
+        "Martin Fleck",
+        "wf",
+        3
+    ],
+    [
+        "Martin Fleck",
+        "java",
+        112
+    ],
+    [
+        "Martin Fleck",
+        "MF",
+        27
+    ],
+    [
+        "Martin Fleck",
+        "classpath",
+        15
+    ],
+    [
+        "Martin Fleck",
+        "gitignore",
+        18
+    ],
+    [
+        "Martin Fleck",
+        "yml",
+        1
+    ],
+    [
+        "Martin Fleck",
+        "prefs",
+        42
+    ],
+    [
+        "Martin Fleck",
+        "xml",
+        45
+    ],
+    [
+        "Martin Fleck",
+        "launch",
+        2
+    ],
+    [
+        "Martin Fleck",
+        "properties",
+        19
+    ],
+    [
+        "Martin Fleck",
+        "orig",
+        1
+    ],
+    [
+        "Martin Fleck",
+        "project",
+        24
+    ],
+    [
+        "Martin Fleck",
+        "di",
+        3
+    ],
+    [
+        "Martin Fleck",
+        "notation",
+        3
+    ],
+    [
+        "Martin Fleck",
+        "uml",
+        4
+    ],
+    [
+        "Martin Fleck",
+        "coffee",
+        1
+    ],
+    [
+        "Martin Fleck",
+        "wfconfig",
+        2
+    ],
+    [
+        "Martin Fleck",
+        "css",
+        3
+    ],
+    [
+        "Martin Fleck",
+        "js",
+        2
+    ],
+    [
+        "Martin Fleck",
+        "architecture",
+        1
+    ],
+    [
+        "Martin Fleck",
+        "contexts",
+        1
+    ],
+    [
+        "Martin Fleck",
+        "xwt",
+        3
+    ],
+    [
+        "Martin Fleck",
+        "environment",
+        1
+    ],
+    [
+        "Martin Fleck",
+        "svg",
+        7
+    ],
+    [
+        "Martin Fleck",
+        "paletteconfiguration",
+        1
+    ],
+    [
+        "Martin Fleck",
+        "elementtypesconfigurations",
+        2
+    ],
+    [
+        "Martin Fleck",
+        "mwe2",
+        1
+    ],
+    [
+        "Martin Fleck",
+        "xtext",
+        1
+    ],
+    [
+        "Martin Fleck",
+        "product",
+        4
+    ],
+    [
+        "Martin Fleck",
+        "target",
+        2
+    ],
+    [
+        "Martin Fleck",
+        "tpd",
+        2
+    ],
+    [
+        "Martin Fleck",
+        "ini",
+        3
+    ],
+    [
+        "Martin Fleck",
+        "xpm",
+        1
+    ],
+    [
+        "Martin Fleck",
+        "sh",
+        1
+    ],
+    [
+        "Eugen Neufeld",
+        "classpath",
+        5
+    ],
+    [
+        "Eugen Neufeld",
+        "gitignore",
+        2
+    ],
+    [
+        "Eugen Neufeld",
+        "project",
+        5
+    ],
+    [
+        "Eugen Neufeld",
+        "prefs",
+        9
+    ],
+    [
+        "Eugen Neufeld",
+        "MF",
+        15
+    ],
+    [
+        "Eugen Neufeld",
+        "xml",
+        3
+    ],
+    [
+        "Eugen Neufeld",
+        "launch",
+        5
+    ],
+    [
+        "Eugen Neufeld",
+        "properties",
+        7
+    ],
+    [
+        "Eugen Neufeld",
+        "json",
+        9
+    ],
+    [
+        "Eugen Neufeld",
+        "java",
+        12
+    ],
+    [
+        "Eugen Neufeld",
+        "target",
+        1
+    ],
+    [
+        "Eugen Neufeld",
+        "tpd",
+        1
+    ],
+    [
+        "Eugen Neufeld",
+        "ts",
+        28
+    ],
+    [
+        "Eugen Neufeld",
+        "lock",
+        3
+    ],
+    [
+        "Eugen Neufeld",
+        "orig",
+        1
+    ],
+    [
+        "Eugen Neufeld",
+        "tsx",
+        2
+    ],
+    [
+        "Eugen Neufeld",
+        "css",
+        1
+    ],
+    [
+        "Eugen Neufeld",
+        "yml",
+        1
+    ],
+    [
+        "Remi Schnekenburger",
+        "md",
+        1
+    ],
+    [
+        "Remi Schnekenburger",
+        "ts",
+        1
+    ],
+    [
+        "Ahmet Tanakol",
+        "json",
+        1
+    ],
+    [
+        "Ahmet Tanakol",
+        "ts",
+        2
+    ],
+    [
+        "Ahmet Tanakol",
+        "lock",
+        2
+    ],
+    [
+        "Ahmet Tanakol",
+        "tsx",
+        1
+    ],
+    [
+        "Tobias Ortmayr",
+        "json",
+        6
+    ],
+    [
+        "Tobias Ortmayr",
+        "ts",
+        6
+    ],
+    [
+        "Tobias Ortmayr",
+        "css",
+        1
+    ],
+    [
+        "Tobias Ortmayr",
+        "tsx",
+        2
+    ],
+    [
+        "Tobias Ortmayr",
+        "lock",
+        1
+    ]
+]

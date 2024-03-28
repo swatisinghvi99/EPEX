@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Thu Feb  7 16:33:35 2008,CDebugCorePlugin.java,John Cortell
+Thu Feb  7 16:33:35 2008,ICBreakpoint.java,John Cortell
+Thu Feb  7 16:33:35 2008,CBreakpoint.java,John Cortell
+Thu Feb 14 20:40:26 2008,AddWatchpointOnMemoryActionDelegate.java,John Cortell
+Thu Feb 14 20:46:48 2008,ICMemorySelection.java,John Cortell
+Thu Feb 14 22:33:38 2008,ICBreakpoint.java,John Cortell
+Thu Feb 14 22:33:38 2008,CBreakpoint.java,John Cortell
+Fri Feb 15 15:26:56 2008,CBreakpointManager.java,John Cortell

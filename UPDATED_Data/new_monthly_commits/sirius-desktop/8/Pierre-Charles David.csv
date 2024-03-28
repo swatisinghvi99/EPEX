@@ -1,0 +1,472 @@
+date_time,file,committer_name
+Tue Apr  8 14:19:45 2014,DiagramDialectServices.java,Pierre-Charles David
+Tue Apr  8 14:19:45 2014,NavigationTask.java,Pierre-Charles David
+Tue Apr  8 14:19:45 2014,ReconnectionCommandBuilder.java,Pierre-Charles David
+Tue Apr  8 14:19:45 2014,ModelOperationToTask.java,Pierre-Charles David
+Tue Apr  8 14:19:45 2014,ExternalJavaActionTask.java,Pierre-Charles David
+Tue Apr  8 14:19:45 2014,ForTask.java,Pierre-Charles David
+Tue Apr  8 14:19:45 2014,IfTask.java,Pierre-Charles David
+Tue Apr  8 14:19:45 2014,MoveElementTask.java,Pierre-Charles David
+Tue Apr  8 14:19:45 2014,RemoveElementTask.java,Pierre-Charles David
+Tue Apr  8 14:19:45 2014,SetValueTask.java,Pierre-Charles David
+Tue Apr  8 14:19:45 2014,UnsetTask.java,Pierre-Charles David
+Wed Apr  9  8:56:07 2014,MANIFEST.MF,Pierre-Charles David
+Wed Apr  9  8:56:07 2014,plugin.properties,Pierre-Charles David
+Wed Apr  9  8:56:07 2014,DDiagramElementContainerItemProvider.java,Pierre-Charles David
+Wed Apr  9  8:56:07 2014,DNodeItemProvider.java,Pierre-Charles David
+Wed Apr  9  8:56:07 2014,MANIFEST.MF,Pierre-Charles David
+Wed Apr  9  8:56:07 2014,diagram.ecore,Pierre-Charles David
+Wed Apr  9  8:56:07 2014,diagram.genmodel,Pierre-Charles David
+Wed Apr  9  8:56:07 2014,DDiagramElementContainer.java,Pierre-Charles David
+Wed Apr  9  8:56:07 2014,DNode.java,Pierre-Charles David
+Wed Apr  9  8:56:07 2014,DiagramPackage.java,Pierre-Charles David
+Wed Apr  9  8:56:07 2014,DDiagramElementContainerImpl.java,Pierre-Charles David
+Wed Apr  9  8:56:07 2014,DNodeImpl.java,Pierre-Charles David
+Wed Apr  9  8:56:07 2014,DiagramPackageImpl.java,Pierre-Charles David
+Wed Apr  9  8:56:07 2014,Release Notes.html,Pierre-Charles David
+Wed Apr  9  8:56:07 2014,Release Notes.textile,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,license.txt,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,plugin.properties,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,DDiagramElementItemProvider.java,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,DDiagramLinkItemProvider.java,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,DiagramItemProviderAdapterFactory.java,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,diagram.ecore,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,diagram.genmodel,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,DDiagramLinkSpec.java,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,DDiagramLink.java,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,DiagramFactory.java,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,DiagramPackage.java,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,DDiagramLinkImpl.java,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,DiagramFactoryImpl.java,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,DiagramPackageImpl.java,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,DiagramAdapterFactory.java,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,DiagramSwitch.java,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,Release Notes.html,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,Release Notes.textile,Pierre-Charles David
+Wed Apr  9  8:59:23 2014,contexts.xml,Pierre-Charles David
+Wed Apr  9 10:07:57 2014,SequenceDDiagramSpec.java,Pierre-Charles David
+Wed Apr  9 10:07:57 2014,diagram.ecore,Pierre-Charles David
+Wed Apr  9 10:07:57 2014,diagram.genmodel,Pierre-Charles David
+Wed Apr  9 10:07:57 2014,DSemanticDiagramHelper.java,Pierre-Charles David
+Wed Apr  9 10:07:57 2014,DDiagramSpecOperations.java,Pierre-Charles David
+Wed Apr  9 10:07:57 2014,DDiagramSpec.java,Pierre-Charles David
+Wed Apr  9 10:07:57 2014,DSemanticDiagramSpec.java,Pierre-Charles David
+Wed Apr  9 10:07:57 2014,AbstractDDiagramConstraint.java,Pierre-Charles David
+Wed Apr  9 10:07:57 2014,DDiagram.java,Pierre-Charles David
+Wed Apr  9 10:07:57 2014,DDiagramImpl.java,Pierre-Charles David
+Wed Apr  9 10:07:57 2014,DiagramPackageImpl.java,Pierre-Charles David
+Wed Apr  9 10:07:57 2014,Release Notes.html,Pierre-Charles David
+Wed Apr  9 10:07:57 2014,Release Notes.textile,Pierre-Charles David
+Wed Apr  9 10:07:57 2014,SiriusTasks.java,Pierre-Charles David
+Wed Apr  9 10:07:57 2014,SiriusHelper.java,Pierre-Charles David
+Wed Apr  9 10:07:57 2014,SiriusTasksKey.java,Pierre-Charles David
+Wed Apr  9 10:08:08 2014,SequenceDDiagramSpec.java,Pierre-Charles David
+Wed Apr  9 10:08:08 2014,diagram.ecore,Pierre-Charles David
+Wed Apr  9 10:08:08 2014,diagram.genmodel,Pierre-Charles David
+Wed Apr  9 10:08:08 2014,DDiagramElementContainerSpecOperations.java,Pierre-Charles David
+Wed Apr  9 10:08:08 2014,DEdgeSpec.java,Pierre-Charles David
+Wed Apr  9 10:08:08 2014,DNodeListElementSpec.java,Pierre-Charles David
+Wed Apr  9 10:08:08 2014,DNodeSpec.java,Pierre-Charles David
+Wed Apr  9 10:08:08 2014,DSemanticDiagramSpec.java,Pierre-Charles David
+Wed Apr  9 10:08:08 2014,DSemanticDiagram.java,Pierre-Charles David
+Wed Apr  9 10:08:08 2014,DSemanticDiagramImpl.java,Pierre-Charles David
+Wed Apr  9 10:08:08 2014,DiagramPackageImpl.java,Pierre-Charles David
+Wed Apr  9 10:08:08 2014,Release Notes.html,Pierre-Charles David
+Wed Apr  9 10:08:08 2014,Release Notes.textile,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,SequenceDDiagramSpec.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,diagram.ecore,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,diagram.genmodel,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DDiagramSpecOperations.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DDiagramSpec.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DSemanticDiagramSpec.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DDiagram.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DDiagramImpl.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DiagramPackageImpl.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,Release Notes.html,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,Release Notes.textile,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,SequencePackage.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DDiagramItemProvider.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,diagram.ecore,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,diagram.genmodel,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DDiagram.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DiagramPackage.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DDiagramImpl.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DiagramPackageImpl.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,Release Notes.html,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,Release Notes.textile,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,SequenceDDiagramItemProvider.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,SequencePackage.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DDiagramItemProvider.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,diagram.ecore,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,diagram.genmodel,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DDiagram.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DiagramPackage.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DDiagramImpl.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DiagramPackageImpl.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,Release Notes.html,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,Release Notes.textile,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,diagram.ecore,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,diagram.genmodel,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DEdgeSpec.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DNodeContainerSpec.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DNodeListElementSpec.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DNodeListSpec.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DNodeSpec.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DDiagramElement.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DDiagramElementImpl.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,DiagramPackageImpl.java,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,Release Notes.html,Pierre-Charles David
+Wed Apr  9 10:08:09 2014,Release Notes.textile,Pierre-Charles David
+Wed Apr  9 10:08:10 2014,SequenceDDiagramSpec.java,Pierre-Charles David
+Wed Apr  9 10:08:10 2014,DDiagramSpec.java,Pierre-Charles David
+Wed Apr  9 10:08:10 2014,DSemanticDiagramSpec.java,Pierre-Charles David
+Wed Apr  9 10:08:10 2014,Release Notes.html,Pierre-Charles David
+Wed Apr  9 10:08:10 2014,Release Notes.textile,Pierre-Charles David
+Wed Apr  9 10:08:10 2014,viewpoint.ecore,Pierre-Charles David
+Wed Apr  9 10:08:10 2014,viewpoint.genmodel,Pierre-Charles David
+Wed Apr  9 10:08:10 2014,DRepresentation.java,Pierre-Charles David
+Wed Apr  9 10:08:10 2014,DRepresentationImpl.java,Pierre-Charles David
+Wed Apr  9 10:08:10 2014,ViewpointPackageImpl.java,Pierre-Charles David
+Mon Apr 14 14:13:38 2014,Release Notes.html,Pierre-Charles David
+Mon Apr 14 14:13:38 2014,Release Notes.textile,Pierre-Charles David
+Mon Apr 14 14:13:38 2014,ContextMenuFiller.java,Pierre-Charles David
+Mon Apr 14 14:13:38 2014,ModelingProject.java,Pierre-Charles David
+Mon Apr 14 14:13:49 2014,Release Notes.html,Pierre-Charles David
+Mon Apr 14 14:13:49 2014,Release Notes.textile,Pierre-Charles David
+Mon Apr 14 14:13:49 2014,Options.java,Pierre-Charles David
+Mon Apr 14 14:13:57 2014,Release Notes.html,Pierre-Charles David
+Mon Apr 14 14:13:57 2014,Release Notes.textile,Pierre-Charles David
+Mon Apr 14 14:13:57 2014,Relation.java,Pierre-Charles David
+Mon Apr 14 14:37:22 2014,Release Notes.html,Pierre-Charles David
+Mon Apr 14 14:37:22 2014,Release Notes.textile,Pierre-Charles David
+Mon Apr 14 14:37:22 2014,Mapping.java,Pierre-Charles David
+Mon Apr 14 14:37:22 2014,RefreshPlanner.java,Pierre-Charles David
+Mon Apr 14 14:38:31 2014,Release Notes.html,Pierre-Charles David
+Mon Apr 14 14:38:31 2014,Release Notes.textile,Pierre-Charles David
+Mon Apr 14 14:38:31 2014,MANIFEST.MF,Pierre-Charles David
+Mon Apr 14 14:38:31 2014,CreatedOutput.java,Pierre-Charles David
+Mon Apr 14 14:38:31 2014,Mapping.java,Pierre-Charles David
+Mon Apr 14 14:38:31 2014,MappingHiearchy.java,Pierre-Charles David
+Mon Apr 14 14:38:31 2014,MappingHiearchyTable.java,Pierre-Charles David
+Mon Apr 14 14:38:31 2014,Maybe.java,Pierre-Charles David
+Mon Apr 14 14:38:31 2014,MaybeFactory.java,Pierre-Charles David
+Mon Apr 14 14:38:31 2014,ModelToModelSynchronizer.java,Pierre-Charles David
+Mon Apr 14 14:38:31 2014,RefreshPlan.java,Pierre-Charles David
+Mon Apr 14 14:38:31 2014,RefreshPlanner.java,Pierre-Charles David
+Mon Apr 14 14:38:31 2014,SemanticPartitionInvalidator.java,Pierre-Charles David
+Mon Apr 14 14:38:31 2014,DTreeRefresh.java,Pierre-Charles David
+Mon Apr 14 14:38:31 2014,MappingBasedPartition.java,Pierre-Charles David
+Mon Apr 14 14:38:31 2014,SpecifierMonitor.java,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,SiriusFunctions.java,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,Release Notes.html,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,Release Notes.textile,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,VisibilityEventHandler.java,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,RefreshLayoutScope.java,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,NotificationQuery.java,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,Release Notes.html,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,Release Notes.textile,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,AbstractNodeEvent.java,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,CombinedFragment.java,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,EndOfLife.java,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,Execution.java,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,InstanceRole.java,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,InteractionUse.java,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,Lifeline.java,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,LostMessageEnd.java,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,Message.java,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,NotationPredicate.java,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,ObservationPoint.java,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,Operand.java,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,State.java,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,Release Notes.html,Pierre-Charles David
+Mon Apr 14 14:38:37 2014,Release Notes.textile,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,AbstractFrameResizableEditPolicy.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,ExecutionSelectionEditPolicy.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,ExecutionSemanticEditPolicy.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,SequenceInteractionFeedBackBuilder.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,AbstractInteractionFrameValidator.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,AbstractNodeEventResizeSelectionValidator.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,AbstractOperandValidator.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,FrameCreationValidator.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,ISEComplexMoveValidator.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,FinalParentHelper.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,RangeHelper.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,CombinedFragment.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,Message.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,SequenceDiagram.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,SequenceVerticalLayout.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,EndOfLifeMoveOperation.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,RangeComparator.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,ReversedRangeComparator.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,SequenceDiagramQuery.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,SubEventsHelper.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,Range.java,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,Release Notes.html,Pierre-Charles David
+Tue Apr 15  7:55:18 2014,Release Notes.textile,Pierre-Charles David
+Tue Apr 15  8:30:32 2014,AbstractRule.java,Pierre-Charles David
+Tue Apr 15  8:30:32 2014,Transformer.java,Pierre-Charles David
+Tue Apr 15  8:30:32 2014,Release Notes.html,Pierre-Charles David
+Tue Apr 15  8:30:32 2014,Release Notes.textile,Pierre-Charles David
+Tue Apr 15  8:37:25 2014,Release Notes.html,Pierre-Charles David
+Tue Apr 15  8:37:25 2014,Release Notes.textile,Pierre-Charles David
+Tue Apr 15  8:37:25 2014,EObjectQuery.java,Pierre-Charles David
+Tue Apr 15  8:49:43 2014,Release Notes.html,Pierre-Charles David
+Tue Apr 15  8:49:43 2014,Release Notes.textile,Pierre-Charles David
+Tue Apr 15  8:49:43 2014,ViewpointSelection.java,Pierre-Charles David
+Tue Apr 15  8:49:43 2014,ViewpointsSelectionWizardPage.java,Pierre-Charles David
+Tue Apr 15 12:54:32 2014,UIPerspective.java,Pierre-Charles David
+Tue Apr 15 13:48:00 2014,DiagramInterpretedExpressionQuery.java,Pierre-Charles David
+Tue Apr 15 13:48:00 2014,Release Notes.html,Pierre-Charles David
+Tue Apr 15 13:48:00 2014,Release Notes.textile,Pierre-Charles David
+Tue Apr 15 13:48:00 2014,TableInterpretedExpressionQuery.java,Pierre-Charles David
+Tue Apr 15 13:48:00 2014,TreeInterpretedExpressionQuery.java,Pierre-Charles David
+Tue Apr 15 13:48:00 2014,AbstractInterpretedExpressionQuery.java,Pierre-Charles David
+Fri Apr 25  7:39:40 2014,CombinedFragmentMappingSpec.java,Pierre-Charles David
+Fri Apr 25  7:39:40 2014,InteractionUseMappingSpec.java,Pierre-Charles David
+Fri Apr 25  7:39:40 2014,OperandMappingSpec.java,Pierre-Charles David
+Fri Apr 25  7:39:40 2014,diagram.ecore,Pierre-Charles David
+Fri Apr 25  7:39:40 2014,diagram.genmodel,Pierre-Charles David
+Fri Apr 25  7:39:40 2014,SiriusDiagramHelper.java,Pierre-Charles David
+Fri Apr 25  7:39:40 2014,DnDTasksOperations.java,Pierre-Charles David
+Fri Apr 25  7:39:40 2014,ContainerMappingSpec.java,Pierre-Charles David
+Fri Apr 25  7:39:40 2014,ContainerMapping.java,Pierre-Charles David
+Fri Apr 25  7:39:40 2014,ContainerMappingImpl.java,Pierre-Charles David
+Fri Apr 25  7:39:40 2014,DescriptionPackageImpl.java,Pierre-Charles David
+Fri Apr 25  7:39:40 2014,Release Notes.html,Pierre-Charles David
+Fri Apr 25  7:39:40 2014,Release Notes.textile,Pierre-Charles David
+Fri Apr 25  8:05:38 2014,CombinedFragmentMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:05:38 2014,InteractionUseMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:05:38 2014,OperandMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:05:38 2014,diagram.ecore,Pierre-Charles David
+Fri Apr 25  8:05:38 2014,diagram.genmodel,Pierre-Charles David
+Fri Apr 25  8:05:38 2014,ContainerMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:05:38 2014,DNodeContainerSpec.java,Pierre-Charles David
+Fri Apr 25  8:05:38 2014,DNodeListSpec.java,Pierre-Charles David
+Fri Apr 25  8:05:38 2014,ContainerMapping.java,Pierre-Charles David
+Fri Apr 25  8:05:38 2014,ContainerMappingImpl.java,Pierre-Charles David
+Fri Apr 25  8:05:38 2014,DescriptionPackageImpl.java,Pierre-Charles David
+Fri Apr 25  8:05:38 2014,Release Notes.html,Pierre-Charles David
+Fri Apr 25  8:05:38 2014,Release Notes.textile,Pierre-Charles David
+Fri Apr 25  8:06:11 2014,CombinedFragmentMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:11 2014,InteractionUseMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:11 2014,OperandMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:11 2014,diagram.ecore,Pierre-Charles David
+Fri Apr 25  8:06:11 2014,diagram.genmodel,Pierre-Charles David
+Fri Apr 25  8:06:11 2014,ContainerMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:11 2014,DDiagramElementContainerSpecOperations.java,Pierre-Charles David
+Fri Apr 25  8:06:11 2014,ContainerMapping.java,Pierre-Charles David
+Fri Apr 25  8:06:11 2014,ContainerMappingImpl.java,Pierre-Charles David
+Fri Apr 25  8:06:11 2014,DescriptionPackageImpl.java,Pierre-Charles David
+Fri Apr 25  8:06:11 2014,Release Notes.html,Pierre-Charles David
+Fri Apr 25  8:06:11 2014,Release Notes.textile,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,CombinedFragmentMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,InteractionUseMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,OperandMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,diagram.ecore,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,diagram.genmodel,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,ContainerMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,ContainerMappingHelper.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,AbstractNodeMapping.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,AbstractNodeMappingImpl.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,DescriptionPackageImpl.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,Release Notes.html,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,Release Notes.textile,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,EndOfLifeMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,ExecutionMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,InstanceRoleMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,ObservationPointMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,StateMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,diagram.ecore,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,diagram.genmodel,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,NodeMappingImportSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,NodeMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,NodeMapping.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,DescriptionPackageImpl.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,NodeMappingImpl.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,Release Notes.html,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,Release Notes.textile,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,EndOfLifeMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,ExecutionMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,InstanceRoleMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,ObservationPointMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,StateMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,diagram.ecore,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,diagram.genmodel,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,DnDTasksOperations.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,NodeMappingSpec.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,NodeMapping.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,DescriptionPackageImpl.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,NodeMappingImpl.java,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,Release Notes.html,Pierre-Charles David
+Fri Apr 25  8:06:14 2014,Release Notes.textile,Pierre-Charles David
+Fri Apr 25 10:18:20 2014,DDiagramElementItemProvider.java,Pierre-Charles David
+Fri Apr 25 10:18:20 2014,Release Notes.html,Pierre-Charles David
+Fri Apr 25 10:18:20 2014,Release Notes.textile,Pierre-Charles David
+Fri Apr 25 10:18:20 2014,DEObjectLinkItemProvider.java,Pierre-Charles David
+Fri Apr 25 10:18:20 2014,DNavigableItemProvider.java,Pierre-Charles David
+Fri Apr 25 10:18:20 2014,ViewpointItemProviderAdapterFactory.java,Pierre-Charles David
+Fri Apr 25 10:18:20 2014,viewpoint.ecore,Pierre-Charles David
+Fri Apr 25 10:18:20 2014,viewpoint.genmodel,Pierre-Charles David
+Fri Apr 25 10:18:20 2014,DEObjectLink.java,Pierre-Charles David
+Fri Apr 25 10:18:20 2014,ViewpointFactory.java,Pierre-Charles David
+Fri Apr 25 10:18:20 2014,ViewpointPackage.java,Pierre-Charles David
+Fri Apr 25 10:18:20 2014,DEObjectLinkImpl.java,Pierre-Charles David
+Fri Apr 25 10:18:20 2014,ViewpointFactoryImpl.java,Pierre-Charles David
+Fri Apr 25 10:18:20 2014,ViewpointPackageImpl.java,Pierre-Charles David
+Fri Apr 25 10:18:20 2014,ViewpointAdapterFactory.java,Pierre-Charles David
+Fri Apr 25 10:18:20 2014,ViewpointSwitch.java,Pierre-Charles David
+Fri Apr 25 14:35:37 2014,Release Notes.html,Pierre-Charles David
+Fri Apr 25 14:35:37 2014,Release Notes.textile,Pierre-Charles David
+Fri Apr 25 14:35:37 2014,TreeDescriptionItemProvider.java,Pierre-Charles David
+Fri Apr 25 14:35:37 2014,TreeItemMappingItemProvider.java,Pierre-Charles David
+Fri Apr 25 14:47:31 2014,DefaultLayoutProvider.java,Pierre-Charles David
+Fri Apr 25 14:55:44 2014,CommandContext.java,Pierre-Charles David
+Sat Apr 26  7:36:42 2014,SequenceDiagramInterpretedExpressionSwitch.java,Pierre-Charles David
+Sat Apr 26  7:36:42 2014,SequenceDiagramTypeProvider.java,Pierre-Charles David
+Sat Apr 26  7:36:42 2014,DiagramInterpretedExpressionQuery.java,Pierre-Charles David
+Sat Apr 26  7:36:42 2014,DiagramInterpretedExpressionTargetSwitch.java,Pierre-Charles David
+Sat Apr 26  7:36:42 2014,DiagramStyleInterpretedExpressionTargetSwitch.java,Pierre-Charles David
+Sat Apr 26  7:36:42 2014,Release Notes.html,Pierre-Charles David
+Sat Apr 26  7:36:42 2014,Release Notes.textile,Pierre-Charles David
+Sat Apr 26  7:36:42 2014,TableInterpretedExpressionQuery.java,Pierre-Charles David
+Sat Apr 26  7:36:42 2014,TableInterpretedTargetSwitch.java,Pierre-Charles David
+Sat Apr 26  7:36:42 2014,TreeInterpretedExpressionQuery.java,Pierre-Charles David
+Sat Apr 26  7:36:42 2014,TreeInterpretedExpressionTargetSwitch.java,Pierre-Charles David
+Sat Apr 26  7:36:42 2014,DefaultInterpretedExpressionTargetSwitch.java,Pierre-Charles David
+Sat Apr 26  7:36:42 2014,IInterpretedExpressionTargetSwitch.java,Pierre-Charles David
+Sat Apr 26  7:36:42 2014,DescriptionInterpretedExpressionTargetSwitch.java,Pierre-Charles David
+Sat Apr 26  7:36:42 2014,StyleInterpretedExpressionTargetSwitch.java,Pierre-Charles David
+Sat Apr 26  7:36:42 2014,DiagramInterpretedExpressionQuery.java,Pierre-Charles David
+Sat Apr 26  7:36:42 2014,DefaultInterpretedExpressionTargetSwitch.java,Pierre-Charles David
+Sat Apr 26  7:36:43 2014,DiagramInterpretedExpressionQuery.java,Pierre-Charles David
+Sat Apr 26  7:36:43 2014,Release Notes.html,Pierre-Charles David
+Sat Apr 26  7:36:43 2014,Release Notes.textile,Pierre-Charles David
+Sat Apr 26  7:36:43 2014,DefaultInterpretedExpressionTargetSwitch.java,Pierre-Charles David
+Sat Apr 26  7:37:32 2014,EclipseUtil.java,Pierre-Charles David
+Sat Apr 26  7:37:32 2014,Release Notes.html,Pierre-Charles David
+Sat Apr 26  7:37:32 2014,Release Notes.textile,Pierre-Charles David
+Sat Apr 26  7:37:32 2014,DAnalysisSelectorService.java,Pierre-Charles David
+Sat Apr 26  7:42:36 2014,SequenceDiagramTypeProvider.java,Pierre-Charles David
+Sat Apr 26  7:42:36 2014,VisibilityEventHandler.java,Pierre-Charles David
+Sat Apr 26  7:42:36 2014,CommonEditPartOperation.java,Pierre-Charles David
+Sat Apr 26  7:42:36 2014,PinHelper.java,Pierre-Charles David
+Sat Apr 26  7:42:36 2014,SelectPinnedElementsAction.java,Pierre-Charles David
+Sat Apr 26  7:42:36 2014,AbstractCopyPasteLayoutAction.java,Pierre-Charles David
+Sat Apr 26  7:42:36 2014,AbstractPinUnpinElementsEclipseAction.java,Pierre-Charles David
+Sat Apr 26  7:42:36 2014,HideDDiagramElementAction.java,Pierre-Charles David
+Sat Apr 26  7:42:36 2014,IDiagramDescriptionProvider.java,Pierre-Charles David
+Sat Apr 26  7:42:36 2014,Release Notes.html,Pierre-Charles David
+Sat Apr 26  7:42:36 2014,Release Notes.textile,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,Release Notes.html,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,Release Notes.textile,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,MANIFEST.MF,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,CompositeMetamodelExtender.java,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,IMetamodelExtender.java,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,ModelAccessor.java,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,EcoreIntrinsicExtender.java,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,ModelUtils.java,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,ReferencesResolver.java,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,EReferencePredicate.java,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,AbstractDeleteDRepresentationElementTask.java,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,DAnalysisRefresher.java,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,DanglingRefRemovalTrigger.java,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,SequenceDiagramEditPart.java,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,SiriusDiagramSessionEventBroker.java,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,GMFDiagramUpdater.java,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,Release Notes.html,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,Release Notes.textile,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,SessionEventBroker.java,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,SessionEventBrokerImpl.java,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,DAnalysisSessionImpl.java,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,RefreshEditorsPrecommitListener.java,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,Release Notes.html,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,Release Notes.textile,Pierre-Charles David
+Sat Apr 26  7:43:05 2014,MappingHiearchy.java,Pierre-Charles David
+Sat Apr 26  9:07:58 2014,TimeProfiler2TreeViewContentProvider.java,Pierre-Charles David
+Sat Apr 26  9:07:58 2014,TimeProfiler2ViewLabelProvider.java,Pierre-Charles David
+Sat Apr 26  9:07:58 2014,TimeProfilerView.java,Pierre-Charles David
+Sat Apr 26  9:07:58 2014,Release Notes.html,Pierre-Charles David
+Sat Apr 26  9:07:58 2014,Release Notes.textile,Pierre-Charles David
+Wed Apr 30  9:13:44 2014,AirDCrossReferenceAdapterImpl.java,Pierre-Charles David
+Wed Apr 30  9:13:44 2014,AirDResourceFactory.java,Pierre-Charles David
+Wed Apr 30  9:13:44 2014,AirDResourceImpl.java,Pierre-Charles David
+Wed Apr 30  9:13:44 2014,DiagramNodeEditPartOperation.java,Pierre-Charles David
+Wed Apr 30  9:13:44 2014,AbstractCanonicalSynchronizer.java,Pierre-Charles David
+Wed Apr 30  9:13:44 2014,DeleteHelper.java,Pierre-Charles David
+Wed Apr 30  9:13:44 2014,EditModeDecorator.java,Pierre-Charles David
+Wed Apr 30  9:13:44 2014,Release Notes.html,Pierre-Charles David
+Wed Apr 30  9:13:44 2014,Release Notes.textile,Pierre-Charles David
+Wed Apr 30  9:13:44 2014,SiriusDiagramTestCase.java,Pierre-Charles David
+Wed Apr 30  9:13:44 2014,CrossReferenceAdapterDetector.java,Pierre-Charles David
+Wed Apr 30  9:13:44 2014,AbstractSiriusSwtBotGefTestCase.java,Pierre-Charles David
+Wed Apr 30  9:13:44 2014,AirDResouceQuery.java,Pierre-Charles David
+Wed Apr 30  9:13:44 2014,AirDCrossReferenceAdapter.java,Pierre-Charles David
+Wed Apr 30  9:13:44 2014,DAnalysisSessionImpl.java,Pierre-Charles David
+Wed Apr 30 12:45:38 2014,DAnalysisSessionImpl.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,plugin.xml,Pierre-Charles David
+Fri May  2 11:11:39 2014,DiagramDialectUIServices.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,DescriptionItemProviderAdapterFactory.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,ToolItemProviderAdapterFactory.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,diagram.genmodel,Pierre-Charles David
+Fri May  2 11:11:39 2014,AuditItemProviderAdapterFactory.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,InformationSectionItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,AbstractMappingImportItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,AnnotationEntryItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,ColorDescriptionItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,ColorStepItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,ConditionalStyleDescriptionItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,CustomizationItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,DAnnotationEntryItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,DAnnotationItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,DModelElementItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,DecorationDescriptionItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,DecorationDescriptionsSetItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,DescriptionItemProviderAdapterFactory.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,DocumentedElementItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,EStructuralFeatureCustomizationItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,EndUserDocumentedElementItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,EnvironmentItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,IdentifiedElementItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,JavaExtensionItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,MetamodelExtensionSettingItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,PasteTargetDescriptionItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,RepresentationTemplateItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,SytemColorsPaletteItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,UserColorItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,UserColorsPaletteItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,VSMElementCustomizationItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,VSMElementCustomizationReuseItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,BasicLabelStyleDescriptionItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,LabelBorderStyleDescriptionItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,LabelBorderStylesItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,StyleItemProviderAdapterFactory.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,TooltipStyleDescriptionItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,AbstractToolDescriptionItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,AbstractVariableItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,EditMaskVariablesItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,ExternalJavaActionParameterItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,FeatureChangeListenerItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,InitEdgeCreationOperationItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,InitialContainerDropOperationItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,InitialNodeCreationOperationItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,InitialOperationItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,MenuItemDescriptionReferenceItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,ModelOperationItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,SwitchChildItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,ToolFilterDescriptionItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,ToolItemProviderAdapterFactory.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,VariableContainerItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,RuleAuditItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,ValidationFixItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,ValidationItemProviderAdapterFactory.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,ValidationRuleItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,ValidationSetItemProvider.java,Pierre-Charles David
+Fri May  2 11:11:39 2014,viewpoint.genmodel,Pierre-Charles David
+Fri May  2 12:39:32 2014,MANIFEST.MF,Pierre-Charles David
+Fri May  2 12:39:32 2014,plugin.xml,Pierre-Charles David
+Fri May  2 12:39:32 2014,MANIFEST.MF,Pierre-Charles David
+Fri May  2 12:39:32 2014,plugin.xml,Pierre-Charles David
+Fri May  2 12:39:32 2014,AirDCrossReferenceAdapterImpl.java,Pierre-Charles David
+Fri May  2 12:39:32 2014,AirDResourceFactory.java,Pierre-Charles David
+Fri May  2 12:39:32 2014,AirDResourceImpl.java,Pierre-Charles David
+Fri May  2 12:39:32 2014,RepresentationsFileXMIHelper.java,Pierre-Charles David

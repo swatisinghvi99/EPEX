@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Mon Jan 15 19:09:38 2007,DragEditPartsTrackerEx.java,crevells
+Fri Jan 26 22:04:17 2007,BaseSlidableAnchor.java,crevells
+Fri Jan 26 22:04:17 2007,OrthogonalRouterUtilities.java,crevells
+Fri Jan 26 22:04:17 2007,RectilinearRouter.java,crevells
+Fri Jan 26 22:04:17 2007,ConnectorTests.java,crevells
+Tue Jan 30 18:53:17 2007,PropertiesBrowserPage.java,crevells
+Wed Jan 31 16:10:37 2007,ResizableShapeLabelEditPolicy.java,crevells
+Wed Feb  7 18:37:42 2007,DuplicateActionDelegate.java,crevells
+Fri Feb  9 14:30:06 2007,CompositeCommand.java,crevells
+Fri Feb  9 14:30:06 2007,CompositeTransactionalCommand.java,crevells
+Fri Feb  9 14:30:06 2007,AbstractCommandTest.java,crevells
+Fri Feb  9 14:30:06 2007,CompositeTransactionalCommandTest.java,crevells
+Fri Feb  9 19:43:06 2007,build.properties,crevells
+Fri Feb  9 19:43:06 2007,PathmapsPreferencePage.java,crevells
+Fri Feb  9 20:53:16 2007,AutoSizeAction.java,crevells
+Fri Feb  9 20:53:16 2007,DiagramsPreferencePage.java,crevells
+Fri Feb  9 20:53:16 2007,SVGImage.java,crevells
+Fri Feb  9 20:53:16 2007,MANIFEST.MF,crevells
+Fri Feb  9 20:53:16 2007,ListScrollBar.java,crevells
+Fri Feb  9 20:53:16 2007,GCUtilities.java,crevells
+Fri Feb  9 20:53:16 2007,ScalableFreeformLayeredPane.java,crevells
+Fri Feb  9 20:53:16 2007,ScaledGraphics.java,crevells

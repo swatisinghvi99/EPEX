@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Fri Oct 24 16:14:59 2008,AJBuilder.java,aclement
+Tue Oct 28 16:08:55 2008,AJBuildDirector.java,aclement
+Tue Oct 28 16:08:55 2008,AJBuildScriptGenerator.java,aclement
+Tue Oct 28 16:08:55 2008,AJModelBuildScriptGenerator.java,aclement
+Tue Oct 28 16:08:55 2008,BuildManifestTask.java,aclement
+Tue Oct 28 16:08:55 2008,BuildScriptGeneratorTask.java,aclement
+Tue Oct 28 16:08:55 2008,Config.java,aclement
+Tue Oct 28 16:08:55 2008,FeatureGeneratorTask.java,aclement
+Tue Oct 28 16:08:55 2008,FetchTask.java,aclement
+Tue Oct 28 16:08:55 2008,IdReplaceTask.java,aclement
+Tue Oct 28 16:08:55 2008,JNLPGenerator.java,aclement
+Tue Oct 28 16:08:55 2008,JNLPGeneratorTask.java,aclement
+Tue Oct 28 16:08:55 2008,ManifestModifier.java,aclement
+Tue Oct 28 16:08:55 2008,PackagerTask.java,aclement
+Tue Oct 28 16:08:55 2008,SimpleBuildLogger.java,aclement
+Tue Oct 28 16:08:55 2008,TaskMessages.java,aclement
+Tue Oct 28 16:08:55 2008,Version.java,aclement
+Tue Oct 28 16:08:55 2008,messages.properties,aclement
+Thu Oct 30 15:49:39 2008,UpdateAJMarkers.java,aclement

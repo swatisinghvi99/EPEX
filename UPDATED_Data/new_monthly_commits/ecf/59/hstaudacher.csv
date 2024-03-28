@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Tue Oct  6  8:21:08 2009,.project,hstaudacher
+Tue Oct  6  8:21:08 2009,MANIFEST.MF,hstaudacher
+Tue Oct  6  8:21:08 2009,dspresent.xml,hstaudacher
+Tue Oct  6  8:21:08 2009,build.properties,hstaudacher
+Tue Oct  6  8:21:08 2009,Activator.java,hstaudacher
+Tue Oct  6  8:21:08 2009,ResourceRepresentationFactory.java,hstaudacher
+Tue Oct  6  8:21:08 2009,IRestResourceRepresentationFactory.java,hstaudacher
+Tue Oct  6  8:21:08 2009,RestService.java,hstaudacher
+Tue Oct  6  8:21:08 2009,DSPresent.java,hstaudacher
+Tue Oct  6  8:21:08 2009,DSUtil.java,hstaudacher
+Tue Oct  6  8:21:08 2009,IDSPresent.java,hstaudacher
+Tue Oct  6  8:21:10 2009,.project,hstaudacher
+Tue Oct  6  8:21:10 2009,build.properties,hstaudacher
+Tue Oct  6  8:21:10 2009,RestResourceTest.java,hstaudacher

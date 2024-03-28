@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Wed Jul 10 18:56:23 2013,AllTests.java,Camilo Bernal
+Wed Jul 10 18:56:23 2013,STPToggleCommentTest.java,Camilo Bernal
+Wed Jul 10 18:56:23 2013,plugin.properties,Camilo Bernal
+Wed Jul 10 18:56:23 2013,plugin.xml,Camilo Bernal
+Wed Jul 10 18:56:23 2013,ToggleCommentHandler.java,Camilo Bernal
+Wed Jul 10 18:56:23 2013,STPConfiguration.java,Camilo Bernal
+Wed Jul 10 18:56:23 2013,localization.properties,Camilo Bernal
+Thu Jul 25 20:32:19 2013,ProjectBuildListener.java,Camilo Bernal
+Thu Jul 25 20:32:19 2013,ValgrindLaunchConfigurationDelegate.java,Camilo Bernal
+Tue Jul 30 13:27:27 2013,STPToggleCommentTest.java,Camilo Bernal
+Tue Jul 30 13:27:27 2013,ToggleCommentHandler.java,Camilo Bernal
+Wed Jul 31 16:10:06 2013,IndentUtil.java,Camilo Bernal
+Wed Jul 31 16:10:06 2013,STPAlignment.java,Camilo Bernal
+Wed Jul 31 16:10:06 2013,STPAutoEditStrategy.java,Camilo Bernal
+Wed Jul 31 16:10:06 2013,STPDefaultCodeFormatterConstants.java,Camilo Bernal
+Wed Jul 31 16:10:06 2013,STPDefaultCodeFormatterOptions.java,Camilo Bernal
+Wed Jul 31 16:10:06 2013,STPHeuristicScanner.java,Camilo Bernal
+Wed Jul 31 16:10:06 2013,STPIndenter.java,Camilo Bernal
+Wed Jul 31 16:10:06 2013,STPScribe.java,Camilo Bernal
+Wed Jul 31 16:10:06 2013,Scanner.java,Camilo Bernal
+Wed Jul 31 16:10:06 2013,SimpleScanner.java,Camilo Bernal

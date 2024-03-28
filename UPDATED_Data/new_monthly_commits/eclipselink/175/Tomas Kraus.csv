@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Sat Feb 26  8:53:27 2022,TestMathFunctions.java,Tomas Kraus
+Sat Feb 26  8:53:27 2022,NumberEntity.java,Tomas Kraus
+Sat Feb 26  8:53:27 2022,CriteriaBuilderImpl.java,Tomas Kraus
+Sat Feb 26  8:53:27 2022,CriteriaBuilderImpl.java,Tomas Kraus
+Sat Feb 26  8:53:27 2022,pom.xml,Tomas Kraus
+Thu Mar  3 14:29:53 2022,Expression.java,Tomas Kraus
+Thu Mar  3 14:29:53 2022,ExpressionOperator.java,Tomas Kraus
+Thu Mar  3 14:29:53 2022,CoreClassConstants.java,Tomas Kraus
+Thu Mar  3 14:29:53 2022,DatasourcePlatform.java,Tomas Kraus
+Thu Mar  3 14:29:53 2022,DerbyPlatform.java,Tomas Kraus
+Thu Mar  3 14:29:53 2022,PostgreSQLPlatform.java,Tomas Kraus
+Thu Mar  3 14:29:53 2022,pom.xml,Tomas Kraus
+Thu Mar  3 14:29:53 2022,TestMathFunctions.java,Tomas Kraus
+Thu Mar  3 14:29:53 2022,TestSimpleCase.java,Tomas Kraus
+Thu Mar  3 14:29:53 2022,DateTimeEntity.java,Tomas Kraus
+Thu Mar  3 14:29:53 2022,NumberEntity.java,Tomas Kraus
+Thu Mar  3 14:29:53 2022,TestDateTimeFunctions.java,Tomas Kraus
+Thu Mar  3 14:29:53 2022,CriteriaBuilderImpl.java,Tomas Kraus
+Fri Mar  4 16:18:23 2022,DerbyPlatform.java,Tomas Kraus
+Wed Mar  9 19:35:13 2022,DerbyPlatform.java,Tomas Kraus
+Wed Mar  9 19:35:13 2022,TestDateTimeFunctions.java,Tomas Kraus
+Wed Mar  9 19:35:13 2022,TestDateTimeFunctions.java,Tomas Kraus
+Wed Mar  9 19:35:13 2022,DateTimeQueryEntity.java,Tomas Kraus

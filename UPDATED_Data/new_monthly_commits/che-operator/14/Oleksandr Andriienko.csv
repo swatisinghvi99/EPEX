@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Tue Feb 18  8:17:21 2020,main.go,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,operator-local.yaml,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,operator.yaml,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,make-release.sh,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,eclipse-che-preview-kubernetes.crd.yaml,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,eclipse-che-preview-kubernetes.v9.9.9-nightly.1581975496.clusterserviceversion.yaml,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,eclipse-che-preview-kubernetes.v9.9.9-nightly.1581975496.clusterserviceversion.yaml.diff,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,eclipse-che-preview-kubernetes.package.yaml,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,eclipse-che-preview-openshift.crd.yaml,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,eclipse-che-preview-openshift.v9.9.9-nightly.1581975497.clusterserviceversion.yaml,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,eclipse-che-preview-openshift.v9.9.9-nightly.1581975497.clusterserviceversion.yaml.diff,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,eclipse-che-preview-openshift.package.yaml,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,che_controller.go,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,che_configmap.go,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,defaults.go,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,defaults_test.go,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,deployment_che.go,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,deployment_keycloak.go,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,deployment_postgres.go,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,extra_images.go,Oleksandr Andriienko
+Tue Feb 18  8:17:21 2020,release-operator-code.sh,Oleksandr Andriienko

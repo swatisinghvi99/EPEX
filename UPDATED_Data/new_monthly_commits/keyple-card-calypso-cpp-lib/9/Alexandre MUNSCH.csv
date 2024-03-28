@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Fri Jan 27  8:35:07 2023,CardTransactionManagerAdapter.h,Alexandre MUNSCH
+Tue Jan 31 17:07:14 2023,CMakeLists.txt,Alexandre MUNSCH
+Tue Jan 31 17:07:14 2023,CalypsoSamSelectionAdapter.cpp,Alexandre MUNSCH
+Tue Jan 31 17:07:14 2023,CardSecuritySettingAdapter.h,Alexandre MUNSCH
+Tue Jan 31 17:07:14 2023,CardTransactionManagerAdapter.cpp,Alexandre MUNSCH
+Tue Jan 31 17:07:14 2023,CmdSamDigestClose.cpp,Alexandre MUNSCH
+Tue Jan 31 17:07:14 2023,CmdSamGetChallenge.cpp,Alexandre MUNSCH
+Tue Jan 31 17:07:14 2023,CmdSamPsoComputeSignature.cpp,Alexandre MUNSCH
+Tue Jan 31 17:07:14 2023,CmdSamPsoVerifySignature.cpp,Alexandre MUNSCH
+Tue Jan 31 17:07:14 2023,CmdSamReadCeilings.cpp,Alexandre MUNSCH
+Tue Jan 31 17:07:14 2023,CmdSamReadEventCounter.cpp,Alexandre MUNSCH
+Tue Jan 31 17:07:14 2023,CmdSamReadKeyParameters.cpp,Alexandre MUNSCH
+Mon Feb 13 20:34:40 2023,CMakeLists.txt,Alexandre MUNSCH
+Mon Feb 13 20:34:40 2023,CalypsoSamAdapter.cpp,Alexandre MUNSCH
+Mon Feb 13 20:34:40 2023,CalypsoSamSelectionAdapter.cpp,Alexandre MUNSCH
+Mon Feb 13 20:34:40 2023,CardControlSamTransactionManagerAdapter.cpp,Alexandre MUNSCH
+Mon Feb 13 20:34:40 2023,CardControlSamTransactionManagerAdapter.h,Alexandre MUNSCH
+Mon Feb 13 20:34:40 2023,CardTransactionManagerAdapter.cpp,Alexandre MUNSCH
+Mon Feb 13 20:34:40 2023,CmdSamDigestUpdateMultiple.cpp,Alexandre MUNSCH
+Mon Feb 13 20:34:40 2023,CmdSamDigestUpdateMultiple.h,Alexandre MUNSCH
+Mon Feb 13 20:34:40 2023,CalypsoSamSelectionAdapterTest.cpp,Alexandre MUNSCH
+Mon Feb 13 20:34:40 2023,CardTransactionManagerAdapterTest.cpp,Alexandre MUNSCH

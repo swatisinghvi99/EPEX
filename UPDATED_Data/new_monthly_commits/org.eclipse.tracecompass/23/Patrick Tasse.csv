@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Wed Apr 11 17:48:55 2012,LTTngProjectNature.java,Patrick Tasse
+Wed Apr 11 17:48:56 2012,MANIFEST.MF,Patrick Tasse
+Wed Apr 11 17:48:56 2012,TraceResource.java,Patrick Tasse
+Wed Apr 11 17:48:56 2012,ILttControllerService.java,Patrick Tasse
+Wed Apr 11 17:48:56 2012,LttControllerServiceProxy.java,Patrick Tasse
+Wed Apr 11 17:48:56 2012,MANIFEST.MF,Patrick Tasse
+Wed Apr 11 17:48:56 2012,ConfigureMarkers.java,Patrick Tasse
+Wed Apr 11 17:48:56 2012,ConfigureTrace.java,Patrick Tasse
+Wed Apr 11 17:48:56 2012,CreateNewTrace.java,Patrick Tasse
+Wed Apr 11 17:48:56 2012,PauseTrace.java,Patrick Tasse
+Wed Apr 11 17:48:56 2012,StartTrace.java,Patrick Tasse
+Wed Apr 11 17:48:56 2012,StopTrace.java,Patrick Tasse
+Wed Apr 11 17:48:56 2012,TraceConnectorService.java,Patrick Tasse
+Wed Apr 11 17:48:56 2012,ConfigureMarkersDialog.java,Patrick Tasse
+Wed Apr 11 17:48:56 2012,TraceSubSystem.java,Patrick Tasse
+Wed Apr 11 17:48:56 2012,DownloadProxy.java,Patrick Tasse
+Wed Apr 11 17:48:56 2012,ConfigureTraceWizard.java,Patrick Tasse
+Thu Apr 12 17:36:25 2012,LoadersManager.java,Patrick Tasse

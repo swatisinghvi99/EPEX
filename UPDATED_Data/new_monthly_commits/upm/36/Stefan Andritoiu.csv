@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Tue Apr 25 18:57:54 2017,BME280_InterfaceExample.java,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,CMakeLists.txt,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,CMakeLists.txt,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_ads1x15.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_bmp280.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_bmpx8x.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_ds1808lc.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_hlg150h.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_iADC.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_iCO2Sensor.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_iHumiditySensor.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_iLightController.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_iLightSensor.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_iModuleStatus.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_iPressureSensor.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_iTemperatureSensor.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_interfaces.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_lp8860.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_max44009.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_ms5611.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,ms5611.hpp,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_si1132.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_si7005.i,Stefan Andritoiu
+Tue Apr 25 18:57:54 2017,javaupm_t6713.i,Stefan Andritoiu

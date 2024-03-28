@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Sat Oct  1 23:39:33 2016,CLIText.properties,Matthias Sohn
+Sat Oct  1 23:39:33 2016,Daemon.java,Matthias Sohn
+Sat Oct  1 23:39:34 2016,Clean.java,Matthias Sohn
+Sun Oct  9 21:46:39 2016,CherryPickCommand.java,Matthias Sohn
+Sun Oct  9 21:46:39 2016,ResetCommand.java,Matthias Sohn
+Wed Oct 12 13:11:52 2016,AmazonS3.java,Matthias Sohn
+Wed Oct 12 13:43:09 2016,.api_filters,Matthias Sohn
+Wed Oct 12 13:43:09 2016,Constants.java,Matthias Sohn
+Thu Oct 13 10:29:45 2016,HttpClientConnection.java,Matthias Sohn
+Thu Oct 13 21:39:12 2016,RepositoryCache.java,Matthias Sohn
+Sat Oct 22 23:34:31 2016,MergeCommand.java,Matthias Sohn
+Sat Oct 22 23:34:31 2016,RebaseCommand.java,Matthias Sohn
+Sat Oct 22 23:34:31 2016,FileRepository.java,Matthias Sohn
+Sat Oct 22 23:34:31 2016,GC.java,Matthias Sohn
+Sat Oct 22 23:34:31 2016,ConfigConstants.java,Matthias Sohn
+Sat Oct 22 23:34:31 2016,Repository.java,Matthias Sohn
+Sat Oct 22 23:34:31 2016,ReceivePack.java,Matthias Sohn
+Sat Oct 22 23:34:31 2016,Transport.java,Matthias Sohn
+Mon Oct 24 14:05:24 2016,ObjectReader.java,Matthias Sohn
+Wed Oct 26 20:54:48 2016,CleanFilter.java,Matthias Sohn
+Wed Oct 26 21:03:39 2016,Lfs.java,Matthias Sohn
+Wed Oct 26 21:03:39 2016,LfsPointer.java,Matthias Sohn
+Wed Oct 26 21:10:03 2016,CleanFilter.java,Matthias Sohn
+Wed Oct 26 21:15:08 2016,CleanFilter.java,Matthias Sohn
+Wed Oct 26 21:19:49 2016,CleanFilter.java,Matthias Sohn
+Wed Oct 26 21:19:49 2016,AtomicObjectOutputStream.java,Matthias Sohn

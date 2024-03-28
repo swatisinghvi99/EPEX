@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Tue Apr 18 13:41:59 2017,AbstractArtifactMetaModelAdapter.java,Jens LidestrÃ¶m
+Tue Apr 18 13:41:59 2017,ArtifactMetaModelAdapter.java,Jens LidestrÃ¶m
+Tue Apr 18 13:41:59 2017,AbstractArtifactHandler.java,Jens LidestrÃ¶m
+Tue Apr 18 13:41:59 2017,IArtifactHandler.java,Jens LidestrÃ¶m
+Tue Apr 18 13:41:59 2017,PriorityHandler.java,Jens LidestrÃ¶m
+Tue Apr 18 13:41:59 2017,ArtifactHelper.java,Jens LidestrÃ¶m
+Tue Apr 18 13:41:59 2017,ExtensionPointHelper.java,Jens LidestrÃ¶m
+Tue Apr 18 13:41:59 2017,TraceHelper.java,Jens LidestrÃ¶m
+Tue Apr 18 13:41:59 2017,DefaultPriorityHandler.java,Jens LidestrÃ¶m
+Tue Apr 18 13:41:59 2017,Connections.java,Jens LidestrÃ¶m
+Tue Apr 18 13:41:59 2017,DiagramTextProviderHandler.java,Jens LidestrÃ¶m
+Tue Apr 18 13:41:59 2017,.classpath,Jens LidestrÃ¶m
+Tue Apr 18 13:41:59 2017,org.eclipse.jdt.core.prefs,Jens LidestrÃ¶m
+Tue Apr 18 13:41:59 2017,TraceNodeLabelProvider.java,Jens LidestrÃ¶m
+Tue Apr 18 13:41:59 2017,TraceCreationHandler.java,Jens LidestrÃ¶m
+Tue Apr 18 13:41:59 2017,SelectionView.java,Jens LidestrÃ¶m

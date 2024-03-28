@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Wed Apr 12 15:36:53 2006,ASTRewritingMethodDeclTest.java,maeschli
+Wed Apr 12 15:36:53 2006,ASTRewriteAnalyzer.java,maeschli
+Tue Apr 25 10:11:28 2006,ASTRewritingStatementsTest.java,maeschli
+Tue Apr 25 10:11:28 2006,buildnotes_jdt-core.html,maeschli
+Tue Apr 25 10:11:28 2006,ASTRewriteFlattener.java,maeschli
+Thu Apr 27 16:35:18 2006,ASTRewritingTest.java,maeschli
+Thu Apr 27 16:35:18 2006,LineCommentOffsetsTest.java,maeschli
+Thu Apr 27 16:35:18 2006,buildnotes_jdt-core.html,maeschli
+Thu Apr 27 16:35:18 2006,InternalASTRewrite.java,maeschli
+Thu Apr 27 16:35:18 2006,ASTRewrite.java,maeschli
+Thu Apr 27 16:35:18 2006,ASTRewriteAnalyzer.java,maeschli
+Thu Apr 27 16:35:18 2006,LineCommentEndOffsets.java,maeschli

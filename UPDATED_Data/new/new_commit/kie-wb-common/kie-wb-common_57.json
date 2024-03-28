@@ -1,0 +1,337 @@
+[
+    [
+        "Walter Medvedeo",
+        "java",
+        178
+    ],
+    [
+        "Walter Medvedeo",
+        "properties",
+        22
+    ],
+    [
+        "Walter Medvedeo",
+        "bpmn",
+        3
+    ],
+    [
+        "Walter Medvedeo",
+        "html",
+        8
+    ],
+    [
+        "Walter Medvedeo",
+        "svg",
+        3
+    ],
+    [
+        "Walter Medvedeo",
+        "json",
+        2
+    ],
+    [
+        "Walter Medvedeo",
+        "css",
+        4
+    ],
+    [
+        "Walter Medvedeo",
+        "gitignore",
+        2
+    ],
+    [
+        "Walter Medvedeo",
+        "md",
+        1
+    ],
+    [
+        "Walter Medvedeo",
+        "xml",
+        11
+    ],
+    [
+        "Walter Medvedeo",
+        "Extension",
+        1
+    ],
+    [
+        "Walter Medvedeo",
+        "FileSystemProvider",
+        2
+    ],
+    [
+        "Walter Medvedeo",
+        "MF",
+        1
+    ],
+    [
+        "Walter Medvedeo",
+        "js",
+        4
+    ],
+    [
+        "Pere Fern\u00e1ndez",
+        "java",
+        144
+    ],
+    [
+        "Pere Fern\u00e1ndez",
+        "html",
+        6
+    ],
+    [
+        "Pere Fern\u00e1ndez",
+        "css",
+        2
+    ],
+    [
+        "Pere Fern\u00e1ndez",
+        "properties",
+        1
+    ],
+    [
+        "Pere Fern\u00e1ndez",
+        "xml",
+        1
+    ],
+    [
+        "Michael Anstis",
+        "java",
+        389
+    ],
+    [
+        "Michael Anstis",
+        "html",
+        8
+    ],
+    [
+        "Michael Anstis",
+        "less",
+        2
+    ],
+    [
+        "Michael Anstis",
+        "properties",
+        4
+    ],
+    [
+        "Max Barkley",
+        "java",
+        33
+    ],
+    [
+        "Max Barkley",
+        "xml",
+        1
+    ],
+    [
+        "Jozef Marko",
+        "java",
+        22
+    ],
+    [
+        "Jozef Marko",
+        "properties",
+        1
+    ],
+    [
+        "Ji\u0159\u00ed Locker",
+        "java",
+        3
+    ],
+    [
+        "Ji\u0159\u00ed Locker",
+        "xml",
+        1
+    ],
+    [
+        "Guilherme Carreiro",
+        "java",
+        29
+    ],
+    [
+        "Guilherme Carreiro",
+        "xml",
+        5
+    ],
+    [
+        "Adriel Paredes",
+        "java",
+        273
+    ],
+    [
+        "Adriel Paredes",
+        "xml",
+        24
+    ],
+    [
+        "Adriel Paredes",
+        "properties",
+        2
+    ],
+    [
+        "Adriel Paredes",
+        "html",
+        32
+    ],
+    [
+        "Adriel Paredes",
+        "less",
+        4
+    ],
+    [
+        "Adriel Paredes",
+        "css",
+        3
+    ],
+    [
+        "Eder Ignatowicz",
+        "java",
+        2
+    ],
+    [
+        "Kirill Gaevskii",
+        "java",
+        1
+    ],
+    [
+        "Tiago Dolphine",
+        "java",
+        140
+    ],
+    [
+        "Tiago Dolphine",
+        "md",
+        1
+    ],
+    [
+        "Tiago Dolphine",
+        "xml",
+        1
+    ],
+    [
+        "Paulo Martins",
+        "java",
+        16
+    ],
+    [
+        "Paulo Martins",
+        "properties",
+        2
+    ],
+    [
+        "Paulo Martins",
+        "html",
+        1
+    ],
+    [
+        "Wagner Scholl Lemos",
+        "java",
+        23
+    ],
+    [
+        "Edoardo Vacchi",
+        "md",
+        1
+    ],
+    [
+        "Edoardo Vacchi",
+        "java",
+        55
+    ],
+    [
+        "Cristiano Nicolai",
+        "java",
+        7
+    ],
+    [
+        "Cristiano Nicolai",
+        "properties",
+        2
+    ],
+    [
+        "Juraj \u0160olt\u00e9s",
+        "xml",
+        3
+    ],
+    [
+        "Juraj \u0160olt\u00e9s",
+        "java",
+        9
+    ],
+    [
+        "Juraj \u0160olt\u00e9s",
+        "FileSystemProvider",
+        1
+    ],
+    [
+        "Juraj \u0160olt\u00e9s",
+        "bpmn2",
+        2
+    ],
+    [
+        "David Gutierrez",
+        "java",
+        2
+    ],
+    [
+        "Marek Novotn\u00fd",
+        "xml",
+        11
+    ],
+    [
+        "Marek Novotn\u00fd",
+        "java",
+        1
+    ],
+    [
+        "Marek Novotn\u00fd",
+        "ContainerConfigExtension",
+        1
+    ],
+    [
+        "Marek Novotn\u00fd",
+        "md",
+        2
+    ],
+    [
+        "Roger Mart\u00ednez",
+        "xml",
+        11
+    ],
+    [
+        "Roger Mart\u00ednez",
+        "java",
+        53
+    ],
+    [
+        "Roger Mart\u00ednez",
+        "FileSystemProvider",
+        1
+    ],
+    [
+        "Roger Mart\u00ednez",
+        "bpmn",
+        1
+    ],
+    [
+        "Roger Mart\u00ednez",
+        "properties",
+        2
+    ],
+    [
+        "Roger Mart\u00ednez",
+        "svg",
+        1
+    ],
+    [
+        "nmirasch",
+        "java",
+        3
+    ],
+    [
+        "nmirasch",
+        "properties",
+        1
+    ]
+]

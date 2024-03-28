@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Tue May 10 16:39:46 2016,MultiReferenceSWTRenderer.java,Martin Fleck
+Tue May 10 16:39:46 2016,MANIFEST.MF,Martin Fleck
+Tue May 10 16:39:46 2016,esuperTypesControlService.xml,Martin Fleck
+Tue May 10 16:39:46 2016,ESuperTypesControlService.java,Martin Fleck
+Tue May 10 16:39:46 2016,ESuperTypesRenderer.java,Martin Fleck
+Tue May 10 16:39:46 2016,EcoreReferenceService.java,Martin Fleck
+Fri May 13  9:13:03 2016,BooleanControlSWTRenderer.java,Martin Fleck
+Fri May 13  9:13:03 2016,SimpleControlSWTRenderer.java,Martin Fleck
+Fri May 13  9:13:03 2016,AbstractGridCell.java,Martin Fleck
+Fri May 13  9:13:03 2016,ECPLayoutProvider.java,Martin Fleck
+Fri May 13  9:13:03 2016,TypedElementBoundsRenderer.java,Martin Fleck
+Fri May 13  9:13:03 2016,SWTGridCell.java,Martin Fleck

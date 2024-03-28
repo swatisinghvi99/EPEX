@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Fri Nov 22 17:01:49 2019,CorrosionPlugin.java,Max Bureck
+Fri Nov 22 17:01:49 2019,Messages.java,Max Bureck
+Fri Nov 22 17:01:49 2019,DebugUtil.java,Max Bureck
+Fri Nov 22 17:01:49 2019,RustDebugDelegate.java,Max Bureck
+Fri Nov 22 17:01:49 2019,RustDebugTab.java,Max Bureck
+Fri Nov 22 17:01:49 2019,RustDebugTabGroup.java,Max Bureck
+Fri Nov 22 17:01:49 2019,messages.properties,Max Bureck
+Thu Dec 12 17:23:02 2019,MANIFEST.MF,Max Bureck
+Thu Dec 12 17:23:02 2019,CargoArgsTest.java,Max Bureck
+Thu Dec 12 17:23:02 2019,RLSRunCommandTest.java,Max Bureck
+Thu Dec 12 17:23:02 2019,AllTests.java,Max Bureck
+Thu Dec 12 17:23:02 2019,plugin.xml,Max Bureck
+Thu Dec 12 17:23:02 2019,ErrorLineMatcher.java,Max Bureck
+Thu Dec 12 17:23:02 2019,Messages.java,Max Bureck
+Thu Dec 12 17:23:02 2019,RustDebugDelegate.java,Max Bureck
+Thu Dec 12 17:23:02 2019,RLSStreamConnectionProvider.java,Max Bureck
+Thu Dec 12 17:23:02 2019,CargoArgs.java,Max Bureck
+Thu Dec 12 17:23:02 2019,LaunchHandler.java,Max Bureck
+Thu Dec 12 17:23:02 2019,RLSRunCommand.java,Max Bureck
+Thu Dec 12 17:23:02 2019,RustLaunchDelegateTools.java,Max Bureck
+Thu Dec 12 17:23:02 2019,messages.properties,Max Bureck
+Thu Dec 12 17:23:02 2019,CargoRunDelegate.java,Max Bureck
+Thu Dec 12 17:23:02 2019,CargoTestDelegate.java,Max Bureck

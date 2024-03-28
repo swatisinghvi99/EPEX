@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Sun Feb 12 14:02:20 2012,ProjectModelTests.java,Baltasar Belyavsky
+Sun Feb 12 14:02:24 2012,BuildInfoFactory.java,Baltasar Belyavsky
+Sun Feb 12 14:02:24 2012,BuilderFactory.java,Baltasar Belyavsky
+Sun Feb 12 14:02:24 2012,BuildBuildData.java,Baltasar Belyavsky
+Sun Feb 12 14:02:24 2012,ConfigurationDataProvider.java,Baltasar Belyavsky
+Sun Feb 12 14:02:24 2012,CBuildData.java,Baltasar Belyavsky
+Sun Feb 12 14:02:29 2012,CProjectDescription.java,Baltasar Belyavsky
+Sun Feb 12 14:02:29 2012,SetCProjectDescriptionOperation.java,Baltasar Belyavsky

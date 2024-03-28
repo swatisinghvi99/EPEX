@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Mon Mar  3 22:50:20 2008,org.eclipse.jdt.core.prefs,kkomissarchik
+Mon Mar  3 22:50:20 2008,MANIFEST.MF,kkomissarchik
+Mon Mar  3 22:50:20 2008,plugin.properties,kkomissarchik
+Mon Mar  3 22:50:20 2008,plugin.xml,kkomissarchik
+Mon Mar  3 22:50:20 2008,CommonFrameworksPreferenceInitializer.java,kkomissarchik
+Mon Mar  3 22:50:20 2008,IJavaFacetInstallDataModelProperties.java,kkomissarchik
+Mon Mar  3 22:50:20 2008,JavaFacetDefaultVersionProvider.java,kkomissarchik
+Mon Mar  3 22:50:20 2008,JavaFacetInstallDataModelProvider.java,kkomissarchik
+Mon Mar  3 22:50:20 2008,JavaFacetInstallDelegate.java,kkomissarchik
+Mon Mar  3 22:50:20 2008,JavaFacetUtils.java,kkomissarchik
+Mon Mar  3 22:50:20 2008,JavaFacetUtils.properties,kkomissarchik
+Mon Mar  3 22:50:20 2008,JavaFacetValidator.java,kkomissarchik
+Mon Mar  3 22:50:20 2008,JavaFacetValidator.properties,kkomissarchik
+Mon Mar  3 22:50:20 2008,JavaFacetVersionChangeDelegate.java,kkomissarchik
+Mon Mar  3 22:50:20 2008,DataModelToJavaFacetInstallConfigAdapter.java,kkomissarchik
+Mon Mar  3 22:50:20 2008,JavaFacetInstallConfigToDataModelAdapter.java,kkomissarchik
+Mon Mar  3 22:50:20 2008,WebFacetInstallDataModelProvider.java,kkomissarchik
+Mon Mar  3 22:50:20 2008,WebProjectWizard.java,kkomissarchik
+Tue Mar  4 14:38:01 2008,WebFacetInstallDataModelProvider.java,kkomissarchik
+Tue Mar  4 19:32:28 2008,JavaVersionMismatchMarkerResolutions.java,kkomissarchik
+Tue Mar  4 19:32:28 2008,JavaVersionMismatchMarkerResolutions.properties,kkomissarchik
+Tue Mar  4 19:32:28 2008,plugin.xml,kkomissarchik
+Thu Mar 27  3:15:35 2008,DataModelFacetCreationWizardPage.java,kkomissarchik

@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Mon Jul  4 10:24:03 2005,SuperTypeConstraintsCreator.java,Tobias Widmer
+Mon Jul  4 10:31:32 2005,ChangeTypeRefactoring.java,Tobias Widmer
+Wed Jul  6 10:48:04 2005,PullUpTests.java,Tobias Widmer
+Tue Jul 12  8:39:23 2005,AddMethodStubOperation.java,Tobias Widmer
+Tue Jul 12  8:39:23 2005,CodeGenerationMessages.java,Tobias Widmer
+Tue Jul 12  8:39:23 2005,CodeGenerationMessages.properties,Tobias Widmer
+Tue Jul 12  8:39:23 2005,IJavaHelpContextIds.java,Tobias Widmer
+Tue Jul 12  8:39:23 2005,JavaUIMessages.java,Tobias Widmer
+Tue Jul 12  8:39:23 2005,JavaUIMessages.properties,Tobias Widmer
+Tue Jul 12  8:39:23 2005,AddMethodStubAction.java,Tobias Widmer
+Tue Jul 12  8:39:23 2005,SelectionTransferDropAdapter.java,Tobias Widmer
+Tue Jul 12  8:39:23 2005,TypeHierarchyViewPart.java,Tobias Widmer

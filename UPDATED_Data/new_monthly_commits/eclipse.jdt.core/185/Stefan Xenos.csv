@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Wed Oct 12 14:28:44 2016,Indexer.java,Stefan Xenos
+Thu Oct 13  0:39:16 2016,ASTParser.java,Stefan Xenos
+Thu Oct 13  0:39:16 2016,CompilationUnitResolver.java,Stefan Xenos
+Thu Oct 13  0:39:16 2016,ImportRewrite.java,Stefan Xenos
+Thu Oct 13  0:39:16 2016,JavaCore.java,Stefan Xenos
+Thu Oct 13  4:53:44 2016,JavaBinaryNames.java,Stefan Xenos
+Thu Oct 13  4:53:44 2016,MethodInfo.java,Stefan Xenos
+Thu Oct 13  4:53:44 2016,JavaNames.java,Stefan Xenos
+Thu Oct 13  4:53:44 2016,NdMethodId.java,Stefan Xenos
+Fri Oct 14  2:29:19 2016,IIndexFileLocation.java,Stefan Xenos
+Fri Oct 14  2:29:19 2016,IndexFileLocation.java,Stefan Xenos
+Thu Oct 20 18:00:58 2016,MANIFEST.MF,Stefan Xenos
+Thu Oct 20 18:00:58 2016,Database.java,Stefan Xenos
+Mon Oct 31 18:27:08 2016,Indexer.java,Stefan Xenos
+Tue Nov  1 14:13:16 2016,AsMemberOf.java,Stefan Xenos
+Tue Nov  1 14:13:16 2016,TypesImpl.java,Stefan Xenos

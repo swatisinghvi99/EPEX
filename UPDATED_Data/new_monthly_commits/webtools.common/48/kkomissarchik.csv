@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Sat Oct 25  3:52:24 2008,plugin.properties,kkomissarchik
+Sat Oct 25  3:52:24 2008,plugin.xml,kkomissarchik
+Sat Oct 25  3:52:24 2008,EnablementExpressionContext.java,kkomissarchik
+Sat Oct 25  3:52:24 2008,LibraryProvider.java,kkomissarchik
+Sat Oct 25  3:52:24 2008,RuntimeLibraryProviderInstallOperation.java,kkomissarchik
+Sat Oct 25  3:52:24 2008,RuntimeLibraryProviderPropertyTester.java,kkomissarchik
+Sat Oct 25  3:52:24 2008,RuntimeLibraryProviderUninstallOperation.java,kkomissarchik
+Sat Oct 25  3:52:24 2008,plugin.xml,kkomissarchik
+Sat Oct 25  3:52:24 2008,RuntimeLibraryProviderInstallPanel.java,kkomissarchik
+Sat Oct 25  3:52:24 2008,RuntimeLibraryProviderInstallPanel.properties,kkomissarchik
+Mon Nov  3 15:48:36 2008,LibraryInstallDelegate.java,kkomissarchik
+Mon Nov  3 16:54:11 2008,FacetedProjectFrameworkJavaPlugin.java,kkomissarchik
+Mon Nov  3 16:54:11 2008,UserLibraryProviderInstallOperation.java,kkomissarchik
+Mon Nov  3 16:54:11 2008,UserLibraryProviderInstallOperationConfig.java,kkomissarchik

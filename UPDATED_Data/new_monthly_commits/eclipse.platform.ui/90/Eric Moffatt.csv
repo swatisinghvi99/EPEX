@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Oct 20 17:17:26 2008,ISharedImages.java,Eric Moffatt
+Mon Oct 20 17:17:26 2008,DragCursors.java,Eric Moffatt
+Mon Oct 20 17:17:26 2008,IWorkbenchGraphicConstants.java,Eric Moffatt
+Mon Oct 20 17:17:26 2008,WorkbenchImages.java,Eric Moffatt
+Mon Oct 20 18:43:40 2008,ISharedImages.java,Eric Moffatt
+Tue Oct 21 18:39:30 2008,ISharedImages.java,Eric Moffatt
+Wed Oct 22 19:03:25 2008,AnimationEngine.java,Eric Moffatt
+Wed Oct 22 19:03:25 2008,AnimationFeedbackBase.java,Eric Moffatt
+Wed Oct 22 19:03:25 2008,DefaultAnimationFeedback.java,Eric Moffatt
+Wed Oct 22 19:03:25 2008,FaderAnimationFeedback.java,Eric Moffatt
+Wed Oct 22 19:03:25 2008,FastViewBar.java,Eric Moffatt
+Wed Oct 22 19:03:25 2008,ImageAnimationFeedback.java,Eric Moffatt
+Wed Oct 22 19:03:25 2008,LegacyAnimationFeedback.java,Eric Moffatt
+Wed Oct 22 19:03:25 2008,RectangleAnimation.java,Eric Moffatt
+Wed Oct 22 19:03:25 2008,TrimDropTarget.java,Eric Moffatt
+Wed Oct 22 19:03:25 2008,ViewPane.java,Eric Moffatt
+Wed Oct 22 19:03:25 2008,ProgressManagerUtil.java,Eric Moffatt
+Wed Oct 22 19:27:00 2008,AnimationEngineTest.java,Eric Moffatt
+Fri Oct 24 13:52:00 2008,ISharedImages.java,Eric Moffatt
+Tue Oct 28 14:11:39 2008,FastViewManager.java,Eric Moffatt
+Tue Oct 28 14:11:39 2008,Perspective.java,Eric Moffatt

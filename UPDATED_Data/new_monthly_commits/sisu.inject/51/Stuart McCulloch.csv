@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Sun Jun 12 13:35:20 2016,DefaultBeanLocator.java,Stuart McCulloch
+Sun Jun 12 15:38:52 2016,InjectorBindings.java,Stuart McCulloch
+Sun Jun 12 15:38:52 2016,RankingFunction.java,Stuart McCulloch
+Sun Jun 12 15:38:52 2016,ElementAnalyzer.java,Stuart McCulloch
+Mon Jun 13  1:30:31 2016,DefaultBeanLocatorTest.java,Stuart McCulloch
+Mon Jun 13  1:30:31 2016,WatchedBeansTest.java,Stuart McCulloch
+Mon Jun 13  1:30:31 2016,BindingPublisher.java,Stuart McCulloch
+Mon Jun 13  1:30:31 2016,DefaultBeanLocator.java,Stuart McCulloch
+Mon Jun 13  1:30:31 2016,DefaultRankingFunction.java,Stuart McCulloch
+Mon Jun 13  1:30:31 2016,ImplicitBindings.java,Stuart McCulloch
+Mon Jun 13  1:30:31 2016,InjectorBindings.java,Stuart McCulloch
+Mon Jun 13  1:30:31 2016,SisuBundlePlan.java,Stuart McCulloch
+Mon Jun 13  1:30:31 2016,SisuTracker.java,Stuart McCulloch
+Mon Jun 13  1:30:31 2016,ServiceBindings.java,Stuart McCulloch
+Mon Jun 13  1:30:31 2016,ElementAnalyzer.java,Stuart McCulloch
+Mon Jun 13 12:39:41 2016,SisuTracker.java,Stuart McCulloch

@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Fri Feb  2 15:57:55 2024,.editorconfig,Ege Korkan
+Fri Feb  2 15:57:55 2024,.npmignore,Ege Korkan
+Fri Feb  2 15:57:55 2024,README.md,Ege Korkan
+Fri Feb  2 15:57:55 2024,eslint-results.sarif,Ege Korkan
+Fri Feb  2 15:57:55 2024,asyncapi.json,Ege Korkan
+Fri Feb  2 15:57:55 2024,asyncapi.yaml,Ege Korkan
+Fri Feb  2 15:57:55 2024,td.json,Ege Korkan
+Fri Feb  2 15:57:55 2024,updateExamples.js,Ege Korkan
+Fri Feb  2 15:57:55 2024,index.js,Ege Korkan
+Fri Feb  2 15:57:55 2024,package-lock.json,Ege Korkan
+Fri Feb  2 15:57:55 2024,package.json,Ege Korkan
+Fri Feb  2 15:57:55 2024,definitions.js,Ege Korkan
+Fri Feb  2 15:57:55 2024,genChannels.js,Ege Korkan
+Fri Feb  2 15:57:55 2024,genRoot.js,Ege Korkan
+Fri Feb  2 15:57:55 2024,mapSecurity.js,Ege Korkan
+Fri Feb  2 15:57:55 2024,utils.js,Ege Korkan
+Fri Feb  2 15:57:55 2024,genChannels.test.js,Ege Korkan
+Fri Feb  2 15:57:55 2024,genRoot.test.js,Ege Korkan
+Fri Feb  2 15:57:55 2024,index.test.js,Ege Korkan
+Fri Feb  2 15:57:55 2024,mapSecurity.test.js,Ege Korkan
+Fri Feb  2 15:57:55 2024,utils.test.js,Ege Korkan

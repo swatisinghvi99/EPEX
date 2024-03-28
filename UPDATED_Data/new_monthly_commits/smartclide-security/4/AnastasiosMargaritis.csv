@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Wed Jun 23  9:01:45 2021,pom.xml,AnastasiosMargaritis
+Wed Jun 23  9:01:45 2021,TheiaController.java,AnastasiosMargaritis
+Wed Jun 23  9:01:45 2021,Property.java,AnastasiosMargaritis
+Wed Jun 23  9:01:45 2021,CKService.java,AnastasiosMargaritis
+Wed Jun 23  9:01:45 2021,MeasureService.java,AnastasiosMargaritis
+Wed Jun 23  9:01:45 2021,PMDService.java,AnastasiosMargaritis
+Wed Jun 23  9:01:45 2021,SonarqubeService.java,AnastasiosMargaritis
+Wed Jun 23  9:01:45 2021,TheiaService.java,AnastasiosMargaritis
+Sun Jun 27 13:34:59 2021,TheiaController.java,AnastasiosMargaritis
+Sun Jun 27 13:34:59 2021,client.py,AnastasiosMargaritis
+Fri Jul  9 11:57:58 2021,TheiaController.java,AnastasiosMargaritis
+Fri Jul  9 11:57:58 2021,client.py,AnastasiosMargaritis
+Fri Jul  9 11:57:58 2021,github_crawler.py,AnastasiosMargaritis
+Fri Jul  9 11:57:58 2021,python_client.py,AnastasiosMargaritis
+Mon Jul 12 14:06:04 2021,README.md,AnastasiosMargaritis
+Mon Jul 12 14:06:04 2021,SonarqubeService.java,AnastasiosMargaritis
+Mon Jul 12 14:06:04 2021,client.py,AnastasiosMargaritis
+Mon Jul 12 14:06:04 2021,python_client.py,AnastasiosMargaritis

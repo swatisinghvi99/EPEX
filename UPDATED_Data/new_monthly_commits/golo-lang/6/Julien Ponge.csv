@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Mon Dec 14  9:28:04 2015,OperatorSupport.java,Julien Ponge
+Mon Dec 14  9:45:00 2015,structs.asciidoc,Julien Ponge
+Mon Dec 14  9:45:00 2015,GoloStruct.java,Julien Ponge
+Mon Dec 14  9:45:00 2015,CompileAndRunTest.java,Julien Ponge
+Sun Dec 20 18:32:04 2015,structs.asciidoc,Julien Ponge
+Sun Dec 20 18:32:04 2015,GoloCompilationException.java,Julien Ponge
+Sun Dec 20 18:32:04 2015,GoloCompiler.java,Julien Ponge
+Sun Dec 20 18:32:04 2015,ParseTreeToGoloIrVisitor.java,Julien Ponge
+Sun Dec 20 18:32:04 2015,SugarExpansionVisitor.java,Julien Ponge
+Sun Dec 20 18:32:04 2015,GoloFunction.java,Julien Ponge
+Sun Dec 20 18:32:04 2015,GoloModule.java,Julien Ponge
+Sun Dec 20 18:32:04 2015,NamedAugmentation.java,Julien Ponge
+Sun Dec 20 18:32:04 2015,FunctionCallSupport.java,Julien Ponge
+Sun Dec 20 18:32:04 2015,RegularMethodFinder.java,Julien Ponge
+Sun Dec 20 18:32:04 2015,CompileAndRunTest.java,Julien Ponge
+Sun Dec 20 18:32:04 2015,ParseTreeToGoloIrAndVisitorsTest.java,Julien Ponge
+Sun Dec 20 18:32:04 2015,failure-error-shadowing-function.golo,Julien Ponge
+Sun Dec 20 18:32:04 2015,method-invocations.golo,Julien Ponge
+Sun Dec 20 18:32:04 2015,structs.golo,Julien Ponge
+Sun Dec 20 18:32:04 2015,varargs.golo,Julien Ponge

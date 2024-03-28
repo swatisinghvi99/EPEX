@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Mon Dec  8 19:36:44 2014,MergingVisibilityCombiner.java,Rich Fecher
+Mon Dec  8 19:36:44 2014,RasterTileCombiner.java,Rich Fecher
+Mon Dec  8 19:36:44 2014,RasterTileVisibilityCombiner.java,Rich Fecher
+Mon Dec  8 23:13:22 2014,RasterUtils.java,Rich Fecher
+Tue Dec  9 14:55:26 2014,IngestFromHdfsDriver.java,Rich Fecher
+Tue Dec  9 14:55:26 2014,MapReduceCommandLineOptions.java,Rich Fecher
+Tue Dec  9 15:08:24 2014,GeoWaveFeatureCollection.java,Rich Fecher
+Tue Dec  9 15:11:48 2014,GeoWaveFeatureCollection.java,Rich Fecher
+Tue Dec 16 18:56:10 2014,AbstractLocalIngestWithMapper.java,Rich Fecher
+Tue Dec 16 18:56:10 2014,ByteBufferBackedInputStream.java,Rich Fecher
+Tue Dec 16 18:57:32 2014,AbstractLocalIngestWithMapper.java,Rich Fecher
+Thu Dec 18 17:13:18 2014,AbstractLocalIngestWithMapper.java,Rich Fecher
+Thu Dec 18 17:13:18 2014,ByteBufferBackedInputStream.java,Rich Fecher
+Thu Dec 18 17:13:18 2014,BasicReader.java,Rich Fecher
+Thu Dec 18 17:13:18 2014,FieldUtils.java,Rich Fecher

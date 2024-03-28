@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Thu Oct 17 17:44:52 2019,NDArray.hpp,Yurii
+Thu Oct 17 17:44:52 2019,MmulHelper.cpp,Yurii
+Thu Oct 17 17:44:52 2019,legacy_ops.h,Yurii
+Thu Oct 17 17:44:52 2019,lstmLayer.cpp,Yurii
+Thu Oct 17 17:44:52 2019,recurrent.h,Yurii
+Thu Oct 17 17:44:52 2019,lstmLayer.cpp,Yurii
+Thu Oct 17 17:44:52 2019,lstmLayer.h,Yurii
+Thu Oct 17 17:44:52 2019,lstmLayer.cpp,Yurii
+Thu Oct 17 17:44:52 2019,mkldnnUtils.h,Yurii
+Thu Oct 17 17:44:52 2019,ops.h,Yurii
+Thu Oct 17 17:44:52 2019,DeclarableOpsTests13.cpp,Yurii
+Thu Oct 17 17:44:52 2019,DeclarableOpsTests15.cpp,Yurii
+Thu Oct 17 17:44:52 2019,HelpersTests1.cpp,Yurii
+Thu Oct 17 17:46:51 2019,recurrent.h,Yurii
+Mon Oct 21 13:25:13 2019,NDArray.hpp,Yurii

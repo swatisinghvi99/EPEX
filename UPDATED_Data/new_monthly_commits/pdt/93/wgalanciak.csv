@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Wed Jan  8 16:33:41 2014,PHPDebugCoreMessages.java,wgalanciak
+Wed Jan  8 16:33:41 2014,PHPDebugCoreMessages.properties,wgalanciak
+Wed Jan  8 16:33:41 2014,AbstractDebuggerConfiguration.java,wgalanciak
+Wed Jan  8 16:33:41 2014,PHPexeItem.java,wgalanciak
+Wed Jan  8 16:33:41 2014,XDebugDebuggerConfiguration.java,wgalanciak
+Wed Jan  8 16:33:41 2014,ZendDebuggerConfiguration.java,wgalanciak
+Wed Jan  8 16:33:41 2014,PHPExeCompositeFragment.java,wgalanciak
+Wed Jan  8 16:33:41 2014,PHPExeEditDialog.java,wgalanciak
+Wed Jan 15 19:27:06 2014,PHPDebugCorePreferenceInitializer.java,wgalanciak
+Wed Jan 15 19:29:31 2014,PHPDebugUIMessages.properties,wgalanciak
+Wed Jan 15 19:29:31 2014,NewPHPsComboBlock.java,wgalanciak
+Mon Jan 20 12:25:57 2014,PHPExecutableLaunchDelegate.java,wgalanciak
+Mon Jan 20 12:25:57 2014,PHPLaunchDelegateProxy.java,wgalanciak
+Mon Jan 20 22:36:36 2014,PHPDebugCorePreferenceInitializer.java,wgalanciak
+Thu Jan 23 19:46:12 2014,PHPExeCompositeFragment.java,wgalanciak
+Thu Jan 23 19:46:12 2014,PHPExeEditDialog.java,wgalanciak
+Thu Jan 23 19:46:12 2014,PathMapperCompositeFragment.java,wgalanciak
+Thu Jan 23 19:46:12 2014,PathMapperCompositeFragment.java,wgalanciak
+Thu Jan 23 19:46:12 2014,ServerCompositeFragment.java,wgalanciak
+Thu Jan 23 19:46:12 2014,ServerEditDialog.java,wgalanciak
+Thu Jan 23 19:46:12 2014,CompositeFragment.java,wgalanciak
+Wed Jan 29  9:46:51 2014,PHPExecutableLaunchDelegate.java,wgalanciak
+Wed Jan 29  9:46:51 2014,XDebugExeLaunchConfigurationDelegate.java,wgalanciak

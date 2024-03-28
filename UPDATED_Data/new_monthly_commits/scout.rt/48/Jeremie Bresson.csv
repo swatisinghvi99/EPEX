@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Tue Dec 10 18:31:25 2013,ScoutAssertTest.java,Jeremie Bresson
+Tue Dec 10 18:31:25 2013,ScoutAssert.java,Jeremie Bresson
+Thu Dec 12 20:23:27 2013,StringFieldSetMultilineTextTest.java,Jeremie Bresson
+Thu Dec 12 20:23:27 2013,AbstractBasicField.java,Jeremie Bresson
+Thu Dec 12 20:23:27 2013,AbstractValueField.java,Jeremie Bresson
+Thu Dec 12 20:23:27 2013,IBasicFieldUIFacade.java,Jeremie Bresson
+Thu Dec 12 20:23:27 2013,AbstractDateField.java,Jeremie Bresson
+Thu Dec 12 20:23:27 2013,AbstractDecimalField.java,Jeremie Bresson
+Thu Dec 12 20:23:27 2013,AbstractFileChooserField.java,Jeremie Bresson
+Thu Dec 12 20:23:27 2013,AbstractNumberField.java,Jeremie Bresson
+Thu Dec 12 20:23:27 2013,AbstractStringField.java,Jeremie Bresson
+Thu Dec 12 20:23:27 2013,RwtScoutBasicFieldComposite.java,Jeremie Bresson
+Thu Dec 12 20:23:27 2013,SwingScoutBasicFieldComposite.java,Jeremie Bresson
+Thu Dec 12 20:23:27 2013,SwtScoutBasicFieldComposite.java,Jeremie Bresson

@@ -1,0 +1,81 @@
+date_time,file,committer_name
+Tue Jun  9 23:16:44 2009,.classpath,slewis
+Tue Jun  9 23:16:44 2009,.project,slewis
+Tue Jun  9 23:16:44 2009,org.eclipse.jdt.core.prefs,slewis
+Tue Jun  9 23:16:44 2009,org.eclipse.pde.core.prefs,slewis
+Tue Jun  9 23:16:44 2009,MANIFEST.MF,slewis
+Tue Jun  9 23:16:44 2009,build.properties,slewis
+Tue Jun  9 23:16:44 2009,EventAdminImpl.java,slewis
+Tue Jun  9 23:17:21 2009,EventAdminImpl.java,slewis
+Tue Jun  9 23:47:27 2009,EventAdminImpl.java,slewis
+Wed Jun 10 23:34:20 2009,MANIFEST.MF,slewis
+Wed Jun 10 23:34:20 2009,about.html,slewis
+Wed Jun 10 23:34:20 2009,build.properties,slewis
+Wed Jun 10 23:34:20 2009,bundle.properties,slewis
+Wed Jun 10 23:34:20 2009,EventAdminImpl.java,slewis
+Thu Jun 11  4:51:01 2009,.classpath,slewis
+Thu Jun 11  4:51:01 2009,.project,slewis
+Thu Jun 11  4:51:01 2009,org.eclipse.jdt.core.prefs,slewis
+Thu Jun 11  4:51:01 2009,org.eclipse.pde.core.prefs,slewis
+Thu Jun 11  4:51:01 2009,EventAdmin Client.product,slewis
+Thu Jun 11  4:51:01 2009,EventAdmin Manager.product,slewis
+Thu Jun 11  4:51:01 2009,MANIFEST.MF,slewis
+Thu Jun 11  4:51:01 2009,about.html,slewis
+Thu Jun 11  4:51:01 2009,build.properties,slewis
+Thu Jun 11  4:51:01 2009,bundle.properties,slewis
+Thu Jun 11  4:51:01 2009,plugin.xml,slewis
+Thu Jun 11  4:51:01 2009,AbstractEventAdminApplication.java,slewis
+Thu Jun 11  4:51:01 2009,Activator.java,slewis
+Thu Jun 11  4:51:01 2009,EventAdminClientApplication.java,slewis
+Thu Jun 11  4:51:01 2009,EventAdminManagerApplication.java,slewis
+Thu Jun 11  4:51:01 2009,TestEventHandler.java,slewis
+Thu Jun 11  4:51:01 2009,TestSender.java,slewis
+Thu Jun 11  4:54:52 2009,.classpath,slewis
+Thu Jun 11  4:54:52 2009,.project,slewis
+Thu Jun 11  4:54:52 2009,org.eclipse.jdt.core.prefs,slewis
+Thu Jun 11  4:54:52 2009,org.eclipse.pde.core.prefs,slewis
+Thu Jun 11  4:54:52 2009,MANIFEST.MF,slewis
+Thu Jun 11  4:54:52 2009,about.html,slewis
+Thu Jun 11  4:54:52 2009,build.properties,slewis
+Thu Jun 11  4:54:52 2009,bundle.properties,slewis
+Thu Jun 11  4:54:52 2009,readme.txt,slewis
+Thu Jun 11  4:54:52 2009,EventAdminImpl.java,slewis
+Thu Jun 11 19:19:45 2009,EventAdmin Generic Client.product,slewis
+Thu Jun 11 19:19:45 2009,EventAdmin Generic Server.product,slewis
+Thu Jun 11 19:19:45 2009,AbstractEventAdminApplication.java,slewis
+Thu Jun 11 19:19:45 2009,EventAdminClientApplication.java,slewis
+Thu Jun 11 19:19:45 2009,EventAdminManagerApplication.java,slewis
+Thu Jun 11 19:20:47 2009,Activator.java,slewis
+Mon Jun 15 19:41:49 2009,Messages.java,slewis
+Mon Jun 15 19:41:49 2009,messages.properties,slewis
+Mon Jun 15 19:41:49 2009,RegistrySharedObject.java,slewis
+Sat Jun 20  0:10:05 2009,Trivial Application.launch,slewis
+Sat Jun 20  0:10:05 2009,Trivial Application.product,slewis
+Sat Jun 20  0:10:05 2009,build.properties,slewis
+Sat Jun 20  0:10:05 2009,TrivialApplication.java,slewis
+Sat Jun 20  0:10:05 2009,Activator.java,slewis
+Wed Jun 24  2:31:55 2009,XMPPContainerPresenceHelper.java,slewis
+Thu Jun 25  0:52:41 2009,.classpath,slewis
+Thu Jun 25  0:52:41 2009,.project,slewis
+Thu Jun 25  0:52:41 2009,org.eclipse.jdt.core.prefs,slewis
+Thu Jun 25  0:52:41 2009,org.eclipse.pde.core.prefs,slewis
+Thu Jun 25  0:52:41 2009,Hello Service Host RS.product,slewis
+Thu Jun 25  0:52:41 2009,MANIFEST.MF,slewis
+Thu Jun 25  0:52:41 2009,about.html,slewis
+Thu Jun 25  0:52:41 2009,build.properties,slewis
+Thu Jun 25  0:52:41 2009,bundle.properties,slewis
+Thu Jun 25  0:52:41 2009,Activator.java,slewis
+Thu Jun 25  0:53:29 2009,.classpath,slewis
+Thu Jun 25  0:53:29 2009,.project,slewis
+Thu Jun 25  0:53:29 2009,org.eclipse.jdt.core.prefs,slewis
+Thu Jun 25  0:53:29 2009,Hello Service Consumer RS.product,slewis
+Thu Jun 25  0:53:29 2009,MANIFEST.MF,slewis
+Thu Jun 25  0:53:29 2009,about.html,slewis
+Thu Jun 25  0:53:29 2009,build.properties,slewis
+Thu Jun 25  0:53:29 2009,bundle.properties,slewis
+Thu Jun 25  0:53:29 2009,Activator.java,slewis
+Thu Jun 25  1:04:44 2009,Activator.java,slewis
+Thu Jun 25  1:04:45 2009,Activator.java,slewis
+Thu Jun 25  1:12:11 2009,Activator.java,slewis
+Thu Jun 25 17:05:36 2009,MANIFEST.MF,slewis
+Thu Jun 25 17:05:36 2009,Activator.java,slewis

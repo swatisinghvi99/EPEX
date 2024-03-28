@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Sun Jul  9 15:08:42 2006,NewPhpTemplatesWizardPage.java,sben-zeev
+Sun Jul  9 15:08:42 2006,PHPFileCreationWizard.java,sben-zeev
+Mon Jul 10 12:27:04 2006,PHPSourceViewer.java,sben-zeev
+Mon Jul 10 12:27:04 2006,PHPFileCreationWizardPage.java,sben-zeev
+Sun Jul 16 11:27:48 2006,MANIFEST.MF,sben-zeev
+Sun Jul 16 11:27:48 2006,ProjectOutlineContentProvider.java,sben-zeev
+Sun Jul 16 11:27:48 2006,ProjectOutlineLabelProvider.java,sben-zeev
+Sun Jul 16 11:27:48 2006,ProjectOutlinePart.java,sben-zeev
+Sun Jul 16 11:27:48 2006,ProjectOutlineViewGroup.java,sben-zeev
+Mon Jul 17 12:17:31 2006,ExplorerPart.java,sben-zeev
+Wed Jul 26 13:32:11 2006,MANIFEST.MF,sben-zeev
+Wed Jul 26 13:32:11 2006,plugin.xml,sben-zeev
+Wed Jul 26 13:32:11 2006,ExplorerContentProvider.java,sben-zeev
+Wed Jul 26 13:32:11 2006,ExplorerLabelProvider.java,sben-zeev
+Wed Jul 26 13:32:11 2006,ExplorerPart.java,sben-zeev
+Tue Aug  1 14:56:42 2006,plugin.xml,sben-zeev
+Tue Aug  1 14:56:42 2006,org.eclipse.php.ui.phplabeldecorator.exsd,sben-zeev
+Tue Aug  1 14:56:42 2006,PHPUILabelProvider.java,sben-zeev

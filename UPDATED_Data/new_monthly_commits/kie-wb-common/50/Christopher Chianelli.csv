@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Thu Aug  3 15:04:41 2017,RefreshToolbarCommand.java,Christopher Chianelli
+Thu Aug  3 15:04:41 2017,ToolbarCommandFactory.java,Christopher Chianelli
+Thu Aug  3 15:04:41 2017,EditorToolbar.java,Christopher Chianelli
+Thu Aug  3 15:04:41 2017,EditorToolbarTest.java,Christopher Chianelli
+Thu Aug  3 15:04:41 2017,RefreshSessionCommand.java,Christopher Chianelli
+Thu Aug  3 15:04:41 2017,SessionCommandFactory.java,Christopher Chianelli
+Thu Aug  3 15:04:41 2017,AbstractProjectDiagramEditor.java,Christopher Chianelli
+Thu Aug  3 15:04:41 2017,ProjectDiagramEditorMenuItemsBuilder.java,Christopher Chianelli
+Thu Aug  3 15:04:41 2017,AbstractProjectDiagramEditorTest.java,Christopher Chianelli
+Thu Aug  3 15:04:41 2017,ProjectDiagramEditorTest.java,Christopher Chianelli

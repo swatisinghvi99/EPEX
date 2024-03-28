@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Fri Sep 17 13:56:18 2021,dashboard_deployment_test.go,Sergii Leshchenko
+Fri Sep 17 13:56:18 2021,deployment_dashboard.go,Sergii Leshchenko
+Fri Sep 17 13:56:18 2021,server_deployment.go,Sergii Leshchenko
+Fri Sep 17 13:56:18 2021,dashboard_deployment_test.go,Sergii Leshchenko
+Fri Sep 17 13:56:18 2021,deployment_dashboard.go,Sergii Leshchenko
+Fri Sep 17 13:56:18 2021,server_deployment.go,Sergii Leshchenko
+Fri Sep 17 13:56:18 2021,tls.go,Sergii Leshchenko
+Thu Sep 23 13:24:14 2021,Dockerfile,Sergii Leshchenko
+Thu Sep 23 13:24:14 2021,che-operator.clusterserviceversion.yaml,Sergii Leshchenko
+Thu Sep 23 13:24:14 2021,che-operator.clusterserviceversion.yaml,Sergii Leshchenko
+Thu Sep 23 13:24:14 2021,che-operator.clusterserviceversion.yaml,Sergii Leshchenko
+Thu Sep 23 13:24:14 2021,manager.yaml,Sergii Leshchenko
+Thu Sep 23 13:24:14 2021,dev_workspace.go,Sergii Leshchenko

@@ -1,0 +1,7 @@
+date_time,file,committer_name
+Tue Aug 25 21:24:13 2009,MANIFEST.MF,lgrahek
+Tue Aug 25 21:24:13 2009,contributionItemProviders.exsd,lgrahek
+Tue Aug 25 21:24:13 2009,AbstractContributionItemProvider.java,lgrahek
+Tue Aug 25 21:24:13 2009,ProviderContributionDescriptor.java,lgrahek
+Fri Sep 11 13:47:20 2009,DiagramGraphicalViewerKeyHandler.java,lgrahek
+Fri Sep 11 13:47:27 2009,ElementSelectionScope.java,lgrahek

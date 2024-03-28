@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Wed Oct 14 14:00:46 2020,JDTDelegateCommandHandler.java,0dinD
+Wed Oct 14 14:00:46 2020,SemanticTokensCommand.java,0dinD
+Wed Oct 14 14:00:46 2020,SemanticTokenManager.java,0dinD
+Wed Oct 14 14:00:46 2020,SemanticTokens.java,0dinD
+Wed Oct 14 14:00:46 2020,SemanticTokensLegend.java,0dinD
+Wed Oct 14 14:00:46 2020,SemanticTokensVisitor.java,0dinD
+Wed Oct 14 14:00:46 2020,TokenModifier.java,0dinD
+Wed Oct 14 14:00:46 2020,TokenType.java,0dinD
+Wed Oct 14 14:00:46 2020,Methods.java,0dinD
+Wed Oct 14 14:00:46 2020,Packages.java,0dinD
+Wed Oct 14 14:00:46 2020,Properties.java,0dinD
+Wed Oct 14 14:00:46 2020,Types.java,0dinD
+Wed Oct 14 14:00:46 2020,Variables.java,0dinD
+Wed Oct 14 14:00:46 2020,SemanticTokensCommandTest.java,0dinD
+Mon Oct 19  8:32:24 2020,CompletionProposalRequestor.java,0dinD
+Mon Oct 19  8:32:24 2020,CompletionHandlerTest.java,0dinD

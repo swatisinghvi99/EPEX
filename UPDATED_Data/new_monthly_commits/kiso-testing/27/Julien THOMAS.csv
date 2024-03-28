@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Mon Aug  1  9:42:49 2022,conf.py,Julien THOMAS
+Mon Aug  1  9:42:49 2022,contribution_guide.rst,Julien THOMAS
+Mon Aug  1 13:20:15 2022,version_ongoing.rst,Julien THOMAS
+Mon Aug  1 13:20:15 2022,test_com.py,Julien THOMAS
+Mon Aug  1 13:20:15 2022,communication_auxiliary.py,Julien THOMAS
+Mon Aug  1 13:20:15 2022,communication_auxiliary.py,Julien THOMAS
+Mon Aug  1 13:20:15 2022,test_com_aux.py,Julien THOMAS
+Mon Aug  1 13:20:15 2022,test_robot_com_auxiliary.py,Julien THOMAS
+Mon Aug  8  8:51:13 2022,test_execution.py,Julien THOMAS
+Mon Aug  8  8:51:13 2022,test_config_registry_and_test_execution.py,Julien THOMAS

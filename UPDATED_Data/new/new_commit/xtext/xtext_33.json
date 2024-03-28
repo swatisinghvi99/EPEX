@@ -1,0 +1,242 @@
+[
+    [
+        "Jan Koehnlein",
+        "java",
+        427
+    ],
+    [
+        "Jan Koehnlein",
+        "MF",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "xtext",
+        5
+    ],
+    [
+        "Jan Koehnlein",
+        "xpt",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "launch",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "genmodel",
+        4
+    ],
+    [
+        "Jan Koehnlein",
+        "ext",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "ecore",
+        4
+    ],
+    [
+        "Jan Koehnlein",
+        "properties",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        323
+    ],
+    [
+        "Sebastian Zarnekow",
+        "launch",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xpt",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ext",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "mwe2",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ecore",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "txt",
+        8
+    ],
+    [
+        "Sebastian Zarnekow",
+        "list",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        11
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "classpath",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "gitignore",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "project",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "prefs",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "properties",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        548
+    ],
+    [
+        "Sven Efftinge",
+        "xtext",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "ecore",
+        8
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        10
+    ],
+    [
+        "Sven Efftinge",
+        "classpath",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "gitignore",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "project",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "prefs",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "properties",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "mwe2",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "ext",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "txt",
+        8
+    ],
+    [
+        "Sven Efftinge",
+        "list",
+        2
+    ],
+    [
+        "Michael Clay",
+        "java",
+        11
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        151
+    ],
+    [
+        "Moritz Eysholdt",
+        "mwe2",
+        12
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtext",
+        15
+    ],
+    [
+        "Knut Wannheden",
+        "java",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "MF",
+        5
+    ],
+    [
+        "Dennis Huebner",
+        "xml",
+        2
+    ],
+    [
+        "Dennis Huebner",
+        "java",
+        1
+    ],
+    [
+        "Dennis Huebner",
+        "rmap",
+        1
+    ],
+    [
+        "Holger Schill",
+        "java",
+        25
+    ]
+]

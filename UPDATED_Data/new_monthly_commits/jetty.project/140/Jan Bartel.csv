@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Mon Oct 19 15:58:20 2020,AnnotationParser.java,Jan Bartel
+Mon Oct 19 15:58:20 2020,pom.xml,Jan Bartel
+Mon Oct 19 15:58:20 2020,TestOSGiUtil.java,Jan Bartel
+Mon Nov  9 16:28:19 2020,GCloudSessionDataStore.java,Jan Bartel
+Wed Nov 11 17:21:06 2020,JAASLoginService.java,Jan Bartel
+Wed Nov 11 17:21:06 2020,PropertyUserStoreManager.java,Jan Bartel
+Wed Nov 11 17:21:06 2020,DefaultCallbackHandler.java,Jan Bartel
+Wed Nov 11 17:21:06 2020,PropertyFileLoginModule.java,Jan Bartel
+Wed Nov 11 17:21:06 2020,JAASLoginServiceTest.java,Jan Bartel
+Wed Nov 11 17:21:06 2020,PropertyFileLoginModuleTest.java,Jan Bartel
+Fri Nov 13 11:46:15 2020,FileSessionDataStore.java,Jan Bartel

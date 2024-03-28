@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Thu Apr 18  9:07:00 2019,JETEmitterTask.java,Aurélien Mora
+Thu Apr 18  9:07:00 2019,GenPackageImpl.java,Aurélien Mora
+Thu Apr 18  9:07:00 2019,JETEmitter.java,Aurélien Mora
+Thu Apr 18  9:07:00 2019,CodeGenUtil.java,Aurélien Mora
+Thu Apr 18  9:07:00 2019,EcoreEditor.java,Aurélien Mora
+Thu Apr 18  9:07:00 2019,EPackageImpl.java,Aurélien Mora
+Thu Apr 18  9:07:00 2019,EPackageRegistryImpl.java,Aurélien Mora
+Thu Apr 18  9:07:00 2019,AnnotationValidatorRegistryReader.java,Aurélien Mora
+Thu Apr 18  9:07:00 2019,ContentHandlerRegistryReader.java,Aurélien Mora
+Thu Apr 18  9:07:00 2019,RegistryReader.java,Aurélien Mora
+Thu Apr 18  9:07:00 2019,DateConversionDelegateFactory.java,Aurélien Mora

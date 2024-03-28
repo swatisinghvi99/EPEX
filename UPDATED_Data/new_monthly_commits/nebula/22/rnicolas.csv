@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Sat Feb 23 10:57:03 2008,.cvsignore,rnicolas
+Sat Feb 23 10:57:03 2008,GalleryTreeViewer.java,rnicolas
+Sat Feb 23 10:57:03 2008,Gallery.java,rnicolas
+Sat Feb 23 10:57:03 2008,GalleryItem.java,rnicolas
+Sat Feb 23 11:09:36 2008,.classpath,rnicolas
+Sat Feb 23 11:09:36 2008,.project,rnicolas
+Sat Feb 23 11:09:36 2008,org.eclipse.jdt.core.prefs,rnicolas
+Sat Feb 23 11:09:36 2008,MANIFEST.MF,rnicolas
+Sat Feb 23 11:09:36 2008,build.properties,rnicolas
+Sat Feb 23 11:09:36 2008,Bug217988Test.java,rnicolas
+Sat Feb 23 11:09:36 2008,GalleryTest.java,rnicolas
+Sat Feb 23 12:17:57 2008,Bug212182Test.java,rnicolas
+Sun Feb 24 14:19:50 2008,MANIFEST.MF,rnicolas
+Sun Feb 24 14:19:50 2008,GalleryTest.java,rnicolas
+Sun Feb 24 14:19:52 2008,DefaultGalleryItemRenderer.java,rnicolas
+Sun Feb 24 14:19:52 2008,Gallery.java,rnicolas
+Sun Feb 24 14:19:52 2008,GalleryItem.java,rnicolas
+Sun Feb 24 14:19:52 2008,ListItemRenderer.java,rnicolas
+Sat Mar  1 13:20:10 2008,Gallery.java,rnicolas

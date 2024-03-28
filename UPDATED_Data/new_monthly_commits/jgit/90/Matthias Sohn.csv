@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Mar  6 22:30:40 2017,DumbClientSmartServerTest.java,Matthias Sohn
+Mon Mar  6 22:30:40 2017,SmartClientSmartServerTest.java,Matthias Sohn
+Mon Mar  6 22:30:40 2017,MANIFEST.MF,Matthias Sohn
+Mon Mar  6 22:30:40 2017,pom.xml,Matthias Sohn
+Mon Mar  6 22:30:40 2017,AppServer.java,Matthias Sohn
+Mon Mar  6 22:30:40 2017,RecordingLogger.java,Matthias Sohn
+Mon Mar  6 22:30:40 2017,jgit-4.5.target,Matthias Sohn
+Mon Mar  6 22:30:40 2017,jgit-4.5.tpd,Matthias Sohn
+Mon Mar  6 22:30:40 2017,jgit-4.6.target,Matthias Sohn
+Mon Mar  6 22:30:40 2017,jgit-4.6.tpd,Matthias Sohn
+Mon Mar  6 22:30:40 2017,jgit-4.7.target,Matthias Sohn
+Mon Mar  6 22:30:40 2017,jgit-4.7.tpd,Matthias Sohn
+Mon Mar  6 22:30:40 2017,jetty-9.2.13.tpd,Matthias Sohn
+Mon Mar  6 22:30:40 2017,jetty-9.4.1.tpd,Matthias Sohn
+Mon Mar  6 22:30:40 2017,pom.xml,Matthias Sohn
+Sun Mar 26  9:40:47 2017,.api_filters,Matthias Sohn
+Sun Mar 26  9:40:47 2017,NoPackSignatureException.java,Matthias Sohn
+Sun Mar 26  9:40:47 2017,UnsupportedPackIndexVersionException.java,Matthias Sohn
+Sun Mar 26  9:40:47 2017,UnsupportedPackVersionException.java,Matthias Sohn
+Sun Mar 26  9:40:47 2017,PackFile.java,Matthias Sohn
+Sun Mar 26  9:40:47 2017,PackIndex.java,Matthias Sohn

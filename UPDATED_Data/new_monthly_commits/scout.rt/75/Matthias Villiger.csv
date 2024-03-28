@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Tue Mar  8 10:23:09 2016,ColumnUserFilterState.java,Matthias Villiger
+Tue Mar  8 10:23:09 2016,TableTextUserFilterState.java,Matthias Villiger
+Tue Mar  8 10:23:09 2016,TableUserFilterManager.java,Matthias Villiger
+Tue Mar  8 10:23:09 2016,AbstractUserFilterState.java,Matthias Villiger
+Tue Mar  8 10:23:09 2016,IUserFilterState.java,Matthias Villiger
+Thu Mar 10 10:28:53 2016,SandboxClassLoaderBuilder.java,Matthias Villiger
+Tue Mar 15 10:07:20 2016,SearchFilterTest.java,Matthias Villiger
+Tue Mar 15 10:07:20 2016,SearchFilter.java,Matthias Villiger
+Tue Apr  5 15:02:52 2016,HandlerArtifactProcessor.java,Matthias Villiger
+Tue Apr  5 15:02:52 2016,XmlFactoriesTestSupport.java,Matthias Villiger
+Tue Apr  5 15:02:52 2016,XmlUtilityFactoryTest.java,Matthias Villiger
+Tue Apr  5 15:02:52 2016,XmlUtilityTest.java,Matthias Villiger
+Tue Apr  5 15:02:52 2016,XmlUtility.java,Matthias Villiger
+Tue Apr  5 15:02:52 2016,SVGUtility.java,Matthias Villiger
+Tue Apr  5 15:40:16 2016,XmlUtility.java,Matthias Villiger
+Tue Apr  5 15:40:16 2016,SVGUtilityTest.java,Matthias Villiger

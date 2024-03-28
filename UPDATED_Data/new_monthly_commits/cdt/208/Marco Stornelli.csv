@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Sun Oct  6  7:32:08 2019,VariableReadWriteFlagsTest.java,Marco Stornelli
+Sun Oct  6  7:32:08 2019,VariableReadWriteFlags.java,Marco Stornelli
+Sat Oct 12  7:11:24 2019,bundle.properties,Marco Stornelli
+Sat Oct 12  7:11:24 2019,plugin.xml,Marco Stornelli
+Sat Oct 12  7:11:24 2019,ReturnChecker.java,Marco Stornelli
+Sat Oct 12  7:11:24 2019,ReturnCheckerTest.java,Marco Stornelli
+Sun Oct 13  6:29:11 2019,bundle.properties,Marco Stornelli
+Sun Oct 13  6:29:11 2019,plugin.xml,Marco Stornelli
+Sun Oct 13  6:29:11 2019,VariableInitializationChecker.java,Marco Stornelli
+Sun Oct 13  6:29:11 2019,VariablesCheckerTest.java,Marco Stornelli
+Sun Oct 13  6:29:11 2019,AutomatedIntegrationSuite.java,Marco Stornelli
+Sun Oct 13  8:16:08 2019,CodeFormatterVisitor.java,Marco Stornelli
+Sun Oct 13  8:16:08 2019,CodeFormatterTest.java,Marco Stornelli
+Thu Oct 17  4:58:22 2019,bundle.properties,Marco Stornelli
+Thu Oct 17  4:58:22 2019,plugin.xml,Marco Stornelli
+Thu Oct 17  4:58:22 2019,ClassMembersInitializationChecker.java,Marco Stornelli
+Thu Oct 17  4:58:22 2019,FloatCompareChecker.java,Marco Stornelli
+Thu Oct 17  4:58:22 2019,FloatCompareCheckerTest.java,Marco Stornelli
+Thu Oct 17  4:58:22 2019,AutomatedIntegrationSuite.java,Marco Stornelli
+Thu Oct 17  4:58:22 2019,MANIFEST.MF,Marco Stornelli
+Thu Oct 17  4:58:22 2019,CPPVisitor.java,Marco Stornelli
+Thu Oct 17 15:54:34 2019,VirtualMethodCallChecker.java,Marco Stornelli
+Thu Oct 17 15:54:34 2019,VirtualMethodCallCheckerTest.java,Marco Stornelli

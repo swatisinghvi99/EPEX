@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Thu Oct  3 12:18:38 2019,AbstractArraySerializer.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,AbstractContainerDeserializer.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,AbstractContainerSerializer.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,ByteArraySerializer.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,CollectionSerializer.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,ContainerDeserializerUtils.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,DeserializerBuilder.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,DoubleArraySerializer.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,FloatArraySerializer.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,IntArraySerializer.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,JsonArraySerializer.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,JsonObjectSerializer.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,LongArraySerializer.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,MapEntriesArrayDeserializer.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,MapSerializer.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,MapToEntriesArraySerializer.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,MapToObjectSerializer.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,ObjectArraySerializer.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,ObjectSerializer.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,SerializerBuilder.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,ShortArraySerializer.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,MapToEntriesArraySerializerTest.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,SerializersTest.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,Pokemon.java,Tomáš Kraus
+Thu Oct  3 12:18:38 2019,Trainer.java,Tomáš Kraus

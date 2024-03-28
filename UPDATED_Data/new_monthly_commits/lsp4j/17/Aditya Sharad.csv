@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Thu Apr  5  1:54:45 2018,MarkupKind.java,Aditya Sharad
+Thu Apr  5  1:54:45 2018,Protocol.xtend,Aditya Sharad
+Thu Apr  5  1:54:45 2018,ColorProviderCapabilities.java,Aditya Sharad
+Thu Apr  5  1:54:45 2018,CompletionCapabilities.java,Aditya Sharad
+Thu Apr  5  1:54:45 2018,CompletionItemCapabilities.java,Aditya Sharad
+Thu Apr  5  1:54:45 2018,CompletionItemKindCapabilities.java,Aditya Sharad
+Thu Apr  5  1:54:45 2018,DocumentSymbolCapabilities.java,Aditya Sharad
+Thu Apr  5  1:54:45 2018,HoverCapabilities.java,Aditya Sharad
+Thu Apr  5  1:54:45 2018,ImplementationCapabilities.java,Aditya Sharad
+Thu Apr  5  1:54:45 2018,SignatureHelpCapabilities.java,Aditya Sharad
+Thu Apr  5  1:54:45 2018,SignatureInformationCapabilities.java,Aditya Sharad
+Thu Apr  5  1:54:45 2018,SymbolKindCapabilities.java,Aditya Sharad
+Thu Apr  5  1:54:45 2018,TextDocumentClientCapabilities.java,Aditya Sharad
+Thu Apr  5  1:54:45 2018,TypeDefinitionCapabilities.java,Aditya Sharad
+Thu Apr  5  1:54:45 2018,WorkspaceClientCapabilities.java,Aditya Sharad
+Thu Apr  5  1:54:45 2018,JsonParseTest.xtend,Aditya Sharad
+Thu Apr  5  1:54:45 2018,JsonSerializeTest.xtend,Aditya Sharad
+Thu Apr  5  1:54:45 2018,JsonParseTest.java,Aditya Sharad
+Thu Apr  5  1:54:45 2018,JsonSerializeTest.java,Aditya Sharad

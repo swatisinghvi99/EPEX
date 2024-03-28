@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Thu Oct 27  9:50:52 2016,DebuggerTargetEndpoint.java,lunkpeter
+Thu Oct 27  9:50:52 2016,ActivationParameter.java,lunkpeter
+Thu Oct 27  9:50:52 2016,TransformationModelElement.java,lunkpeter
+Thu Oct 27  9:50:52 2016,TransformationStateBuilder.java,lunkpeter
+Thu Oct 27  9:50:52 2016,ModelInstanceViewer.java,lunkpeter
+Thu Oct 27  9:50:52 2016,TransformationModelElementContentProvider.java,lunkpeter
+Thu Oct 27  9:50:52 2016,TransformationModelElementLabelProvider.java,lunkpeter
+Thu Oct 27  9:50:52 2016,CrossReferencePropertySource.java,lunkpeter
+Thu Oct 27  9:50:52 2016,TransformationModelElementPropertySource.java,lunkpeter
+Thu Oct 27  9:50:52 2016,ConflictSetContentProvider.java,lunkpeter
+Thu Oct 27  9:50:52 2016,TransformationBrowserConfigurationControl.java,lunkpeter
+Thu Oct 27  9:50:52 2016,TransformationDebugTarget.java,lunkpeter
+Thu Oct 27  9:50:52 2016,TransformationThread.java,lunkpeter
+Thu Oct 27  9:50:52 2016,TransformationValue.java,lunkpeter
+Thu Oct 27  9:50:52 2016,TransformationVariable.java,lunkpeter
+Thu Oct 27  9:50:52 2016,ConditionalTransformationBreakpoint.java,lunkpeter
+Thu Oct 27  9:50:52 2016,RuleBreakpoint.java,lunkpeter

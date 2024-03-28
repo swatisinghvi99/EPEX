@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Tue Mar  8 13:07:04 2011,constraintsToImplement.txt,sjurack
+Tue Mar  8 13:07:04 2011,henshin.ecore,sjurack
+Tue Mar  8 13:07:04 2011,plugin.properties,sjurack
+Tue Mar  8 13:07:04 2011,AmalgamationUnit.java,sjurack
+Tue Mar  8 13:07:04 2011,Edge.java,sjurack
+Tue Mar  8 13:07:04 2011,Graph.java,sjurack
+Tue Mar  8 13:07:04 2011,Mapping.java,sjurack
+Tue Mar  8 13:07:04 2011,NestedCondition.java,sjurack
+Tue Mar  8 13:07:04 2011,Node.java,sjurack
+Tue Mar  8 13:07:04 2011,Parameter.java,sjurack
+Tue Mar  8 13:07:04 2011,Rule.java,sjurack
+Tue Mar  8 13:07:04 2011,TransformationSystem.java,sjurack
+Tue Mar  8 13:07:04 2011,TransformationUnit.java,sjurack
+Tue Mar  8 13:07:04 2011,AmalgamationUnitImpl.java,sjurack
+Tue Mar  8 13:07:04 2011,HenshinPackageImpl.java,sjurack
+Tue Mar  8 13:07:04 2011,HenshinValidator.java,sjurack
+Fri Mar 11  9:06:11 2011,constraintsToImplement.txt,sjurack
+Fri Mar 11  9:06:11 2011,henshin.ecore,sjurack
+Fri Mar 11  9:06:11 2011,plugin.properties,sjurack
+Fri Mar 11  9:06:11 2011,Graph.java,sjurack
+Fri Mar 11  9:06:11 2011,Mapping.java,sjurack
+Fri Mar 11  9:06:11 2011,Rule.java,sjurack
+Fri Mar 11  9:06:11 2011,HenshinPackageImpl.java,sjurack
+Fri Mar 11  9:06:11 2011,HenshinValidator.java,sjurack

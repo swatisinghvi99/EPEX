@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Tue Feb 19 19:17:47 2013,CtfTmfEventFieldTest.java,Geneviève Bastien
+Tue Feb 19 19:17:47 2013,CtfTmfEventField.java,Geneviève Bastien
+Fri Feb 22 19:52:41 2013,TmfExperiment.java,Geneviève Bastien
+Fri Feb 22 19:52:41 2013,DeleteExperimentHandler.java,Geneviève Bastien
+Fri Feb 22 19:52:41 2013,DeleteExperimentSupplementaryFilesHandler.java,Geneviève Bastien
+Fri Feb 22 19:52:41 2013,OpenExperimentHandler.java,Geneviève Bastien
+Fri Feb 22 19:52:41 2013,TmfEventsEditor.java,Geneviève Bastien
+Fri Feb 22 19:52:41 2013,TmfExperimentElement.java,Geneviève Bastien
+Fri Feb 22 19:52:41 2013,TmfTraceElement.java,Geneviève Bastien
+Fri Feb 22 19:52:41 2013,TmfWithFolderElement.java,Geneviève Bastien
+Fri Feb 22 19:52:41 2013,CopyExperimentDialog.java,Geneviève Bastien
+Fri Feb 22 19:52:41 2013,RenameExperimentDialog.java,Geneviève Bastien
+Mon Mar  4 16:38:24 2013,CtfTmfTrace.java,Geneviève Bastien
+Mon Mar  4 16:46:23 2013,DeleteTraceHandler.java,Geneviève Bastien
+Mon Mar  4 16:46:23 2013,TmfExperimentElement.java,Geneviève Bastien
+Mon Mar  4 16:46:23 2013,TmfTraceElement.java,Geneviève Bastien
+Mon Mar  4 16:46:23 2013,TmfWithFolderElement.java,Geneviève Bastien
+Mon Mar  4 16:46:23 2013,CopyExperimentDialog.java,Geneviève Bastien
+Mon Mar  4 16:46:23 2013,CopyTraceDialog.java,Geneviève Bastien
+Mon Mar  4 16:46:23 2013,SelectTracesWizardPage.java,Geneviève Bastien

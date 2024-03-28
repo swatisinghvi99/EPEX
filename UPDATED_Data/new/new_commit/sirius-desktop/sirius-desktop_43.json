@@ -1,0 +1,417 @@
+[
+    [
+        "Maxime Porhel",
+        "java",
+        11
+    ],
+    [
+        "Maxime Porhel",
+        "html",
+        1
+    ],
+    [
+        "Maxime Porhel",
+        "textile",
+        1
+    ],
+    [
+        "pguilet",
+        "java",
+        91
+    ],
+    [
+        "pguilet",
+        "html",
+        8
+    ],
+    [
+        "pguilet",
+        "textile",
+        8
+    ],
+    [
+        "pguilet",
+        "properties",
+        7
+    ],
+    [
+        "pguilet",
+        "MF",
+        8
+    ],
+    [
+        "pguilet",
+        "xml",
+        2
+    ],
+    [
+        "pguilet",
+        "aird",
+        1
+    ],
+    [
+        "pguilet",
+        "ecore",
+        1
+    ],
+    [
+        "pguilet",
+        "odesign",
+        1
+    ],
+    [
+        "M\u00e9lanie Bats",
+        "html",
+        1
+    ],
+    [
+        "M\u00e9lanie Bats",
+        "textile",
+        1
+    ],
+    [
+        "M\u00e9lanie Bats",
+        "MF",
+        1
+    ],
+    [
+        "M\u00e9lanie Bats",
+        "xml",
+        4
+    ],
+    [
+        "M\u00e9lanie Bats",
+        "java",
+        595
+    ],
+    [
+        "M\u00e9lanie Bats",
+        "properties",
+        2
+    ],
+    [
+        "M\u00e9lanie Bats",
+        "classpath",
+        1
+    ],
+    [
+        "M\u00e9lanie Bats",
+        "ecore",
+        2
+    ],
+    [
+        "M\u00e9lanie Bats",
+        "genmodel",
+        1
+    ],
+    [
+        "M\u00e9lanie Bats",
+        "xmi",
+        1
+    ],
+    [
+        "M\u00e9lanie Bats",
+        "odesign",
+        5
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "java",
+        315
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "properties",
+        10
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "xml",
+        8
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "ecore",
+        3
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "genmodel",
+        3
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "html",
+        3
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "textile",
+        3
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "xmi",
+        1
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "prefs",
+        1
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "MF",
+        1
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "exsd",
+        1
+    ],
+    [
+        "Axel Richard",
+        "html",
+        1
+    ],
+    [
+        "Axel Richard",
+        "textile",
+        1
+    ],
+    [
+        "Axel Richard",
+        "prefs",
+        1
+    ],
+    [
+        "Axel Richard",
+        "MF",
+        3
+    ],
+    [
+        "Axel Richard",
+        "properties",
+        6
+    ],
+    [
+        "Axel Richard",
+        "xml",
+        3
+    ],
+    [
+        "Axel Richard",
+        "java",
+        203
+    ],
+    [
+        "Axel Richard",
+        "exsd",
+        1
+    ],
+    [
+        "Axel Richard",
+        "ecore",
+        1
+    ],
+    [
+        "Florent Latombe",
+        "textile",
+        1
+    ],
+    [
+        "Florent Latombe",
+        "MF",
+        2
+    ],
+    [
+        "Florent Latombe",
+        "odesign",
+        4
+    ],
+    [
+        "Florent Latombe",
+        "properties",
+        2
+    ],
+    [
+        "Florent Latombe",
+        "xml",
+        2
+    ],
+    [
+        "Florent Latombe",
+        "exsd",
+        1
+    ],
+    [
+        "Florent Latombe",
+        "java",
+        40
+    ],
+    [
+        "Florent Latombe",
+        "txt",
+        1
+    ],
+    [
+        "Florent Latombe",
+        "checkstyle",
+        1
+    ],
+    [
+        "Florent Latombe",
+        "project",
+        1
+    ],
+    [
+        "Pierre-Charles David",
+        "properties",
+        11
+    ],
+    [
+        "Pierre-Charles David",
+        "xml",
+        12
+    ],
+    [
+        "Pierre-Charles David",
+        "odesign",
+        4
+    ],
+    [
+        "Pierre-Charles David",
+        "java",
+        1123
+    ],
+    [
+        "Pierre-Charles David",
+        "classpath",
+        3
+    ],
+    [
+        "Pierre-Charles David",
+        "project",
+        3
+    ],
+    [
+        "Pierre-Charles David",
+        "MF",
+        8
+    ],
+    [
+        "Pierre-Charles David",
+        "svg",
+        6
+    ],
+    [
+        "Pierre-Charles David",
+        "html",
+        2
+    ],
+    [
+        "Pierre-Charles David",
+        "textile",
+        2
+    ],
+    [
+        "Laurent Fasani",
+        "java",
+        150
+    ],
+    [
+        "Laurent Fasani",
+        "properties",
+        7
+    ],
+    [
+        "Laurent Fasani",
+        "ecore",
+        4
+    ],
+    [
+        "Laurent Fasani",
+        "genmodel",
+        2
+    ],
+    [
+        "Laurent Fasani",
+        "xml",
+        6
+    ],
+    [
+        "Laurent Fasani",
+        "html",
+        5
+    ],
+    [
+        "Laurent Fasani",
+        "textile",
+        5
+    ],
+    [
+        "Laurent Fasani",
+        "odesign",
+        11
+    ],
+    [
+        "Laurent Fasani",
+        "MF",
+        3
+    ],
+    [
+        "Laurent Fasani",
+        "aird",
+        2
+    ],
+    [
+        "Laurent Fasani",
+        "component",
+        1
+    ],
+    [
+        "cbrun",
+        "properties",
+        1
+    ],
+    [
+        "cbrun",
+        "java",
+        2
+    ],
+    [
+        "Steve Monnier",
+        "java",
+        13
+    ],
+    [
+        "Steve Monnier",
+        "html",
+        1
+    ],
+    [
+        "Steve Monnier",
+        "textile",
+        1
+    ],
+    [
+        "Steve Monnier",
+        "ecore",
+        1
+    ],
+    [
+        "Steve Monnier",
+        "odesign",
+        2
+    ],
+    [
+        "Steve Monnier",
+        "aird",
+        1
+    ],
+    [
+        "Steve Monnier",
+        "properties",
+        1
+    ]
+]

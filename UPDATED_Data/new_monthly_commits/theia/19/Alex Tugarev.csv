@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Fri Aug 31  9:18:49 2018,textmate-tokenizer.ts,Alex Tugarev
+Fri Aug 31  9:22:39 2018,markdown-preview-handler.spec.ts,Alex Tugarev
+Fri Aug 31  9:22:39 2018,markdown-preview-handler.ts,Alex Tugarev
+Fri Aug 31  9:40:41 2018,preferences-contribution.ts,Alex Tugarev
+Tue Sep  4  6:47:26 2018,file-dialog-container.ts,Alex Tugarev
+Tue Sep  4  6:47:26 2018,workspace-frontend-module.ts,Alex Tugarev
+Tue Sep  4  7:24:58 2018,http-open-handler.ts,Alex Tugarev
+Tue Sep  4 13:57:43 2018,notifications-message-client.ts,Alex Tugarev
+Wed Sep 12  6:34:58 2018,notifications-message-client.ts,Alex Tugarev
+Tue Sep 18  6:47:31 2018,extension-package-collector.ts,Alex Tugarev
+Tue Sep 18  7:19:01 2018,extension-package-collector.ts,Alex Tugarev

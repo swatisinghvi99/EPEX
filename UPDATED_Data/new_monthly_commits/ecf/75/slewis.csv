@@ -1,0 +1,113 @@
+date_time,file,committer_name
+Fri Feb  4  5:38:58 2011,EndpointDescriptionParser.java,slewis
+Fri Feb  4 15:50:01 2011,EndpointDescriptionReader.java,slewis
+Fri Feb  4 23:31:58 2011,hello-service-description-generic.xml,slewis
+Fri Feb  4 23:31:58 2011,build.properties,slewis
+Fri Feb  4 23:31:58 2011,"Hello Service Consumer (localfile,generic).product",slewis
+Fri Feb  4 23:31:58 2011,HelloConsumerApplication.java,slewis
+Fri Feb  4 23:31:58 2011,feature.xml,slewis
+Sat Feb  5 16:56:00 2011,AbstractMetadataFactory.java,slewis
+Sat Feb  5 16:56:00 2011,AbstractTopologyManager.java,slewis
+Sat Feb  5 16:56:00 2011,EndpointDescription.java,slewis
+Sat Feb  5 16:56:00 2011,RemoteServiceAdmin.java,slewis
+Sat Feb  5 21:17:48 2011,Activator.java,slewis
+Sat Feb  5 21:17:48 2011,DebugOptions.java,slewis
+Sat Feb  5 21:17:48 2011,AbstractMetadataFactory.java,slewis
+Sat Feb  5 21:17:48 2011,AbstractTopologyManager.java,slewis
+Sat Feb  5 21:17:48 2011,EndpointDescriptionReader.java,slewis
+Sat Feb  5 21:17:48 2011,IConsumerContainerSelector.java,slewis
+Sat Feb  5 21:17:48 2011,IDiscoveredEndpointDescriptionFactory.java,slewis
+Sat Feb  5 21:17:48 2011,IEndpointDescriptionAdvertiser.java,slewis
+Sat Feb  5 21:17:48 2011,IEndpointDescriptionReader.java,slewis
+Sat Feb  5 21:17:48 2011,IHostContainerSelector.java,slewis
+Sat Feb  5 21:17:48 2011,RemoteServiceAdmin.java,slewis
+Sat Feb  5 21:46:51 2011,EndpointDescriptionBundleTrackerCustomizer.java,slewis
+Sat Feb  5 21:46:51 2011,IPackageVersionComparator.java,slewis
+Sat Feb  5 21:46:51 2011,PackageVersionComparator.java,slewis
+Sat Feb  5 21:46:51 2011,RemoteServiceAdmin.java,slewis
+Mon Feb  7 19:04:38 2011,EndpointDescriptionAdvertiser.java,slewis
+Mon Feb  7 19:04:38 2011,IServiceInfoFactory.java,slewis
+Mon Feb  7 19:04:38 2011,ServiceInfoFactory.java,slewis
+Mon Feb  7 20:36:26 2011,DiscoveredEndpointDescriptionFactory.java,slewis
+Mon Feb  7 20:36:26 2011,EndpointDescriptionLocator.java,slewis
+Mon Feb  7 20:36:26 2011,IDiscoveredEndpointDescriptionFactory.java,slewis
+Mon Feb  7 20:36:26 2011,IServiceInfoFactory.java,slewis
+Tue Feb  8 23:32:40 2011,DiscoveredEndpointDescription.java,slewis
+Tue Feb  8 23:32:40 2011,DiscoveredEndpointDescriptionFactory.java,slewis
+Tue Feb  8 23:32:40 2011,EndpointDescription.java,slewis
+Tue Feb 15 17:28:26 2011,MANIFEST.MF,slewis
+Tue Feb 15 17:28:26 2011,Client.java,slewis
+Tue Feb 15 17:30:02 2011,EndpointDescription.java,slewis
+Tue Feb 15 18:25:26 2011,AbstractMetadataFactoryTest.java,slewis
+Wed Feb 16  4:12:46 2011,PropertiesUtil.java,slewis
+Wed Feb 16  4:12:46 2011,EndpointDescription.java,slewis
+Wed Feb 16  4:12:46 2011,EndpointDescriptionLocator.java,slewis
+Wed Feb 16  4:12:46 2011,RemoteConstants.java,slewis
+Wed Feb 16  4:12:46 2011,ServiceInfoFactory.java,slewis
+Thu Feb 17 15:55:39 2011,AbstractHostContainerSelector.java,slewis
+Thu Feb 17 22:35:46 2011,EndpointDescription.java,slewis
+Fri Feb 18 21:47:08 2011,MANIFEST.MF,slewis
+Fri Feb 18 21:47:08 2011,IRemoteServiceServerContainerAdapter.java,slewis
+Fri Feb 18 21:47:08 2011,IRemoteServiceServerProvider.java,slewis
+Sun Feb 20  1:23:52 2011,BasicTopologyManager.java,slewis
+Sun Feb 20 16:36:52 2011,MANIFEST.MF,slewis
+Sun Feb 20 16:36:52 2011,IRemoteServiceServerContainerAdapter.java,slewis
+Sun Feb 20 16:36:52 2011,IRemoteServiceServerProvider.java,slewis
+Sun Feb 20 22:11:42 2011,AbstractRemoteService.java,slewis
+Mon Feb 21  6:46:38 2011,.classpath,slewis
+Mon Feb 21  6:46:38 2011,org.eclipse.jdt.core.prefs,slewis
+Mon Feb 21  6:46:38 2011,build.properties,slewis
+Mon Feb 21  6:46:38 2011,BasicTopologyManager.java,slewis
+Mon Feb 21  6:46:38 2011,AbstractTopologyManager.java,slewis
+Tue Feb 22 22:41:46 2011,Activator.java,slewis
+Tue Feb 22 22:41:46 2011,RemoteServiceAdmin.java,slewis
+Tue Feb 22 22:41:46 2011,feature.xml,slewis
+Thu Feb 24 16:46:54 2011,build.properties,slewis
+Thu Feb 24 16:46:54 2011,AbstractTopologyManager.java,slewis
+Fri Feb 25  1:38:30 2011,MANIFEST.MF,slewis
+Fri Feb 25  1:38:30 2011,Activator.java,slewis
+Fri Feb 25  1:38:30 2011,RemoteServiceAdmin.java,slewis
+Fri Feb 25 17:41:24 2011,Hello Service Consumer RS.product,slewis
+Fri Feb 25 17:41:24 2011,"Hello Service Consumer (localfile,generic).product",slewis
+Fri Feb 25 17:41:24 2011,"Hello Service Consumer (zeroconf,generic).product",slewis
+Fri Feb 25 17:41:24 2011,"Hello Service Consumer (zeroconf,r-osgi).product",slewis
+Fri Feb 25 17:41:24 2011,"Hello Service Consumer (zookeeper,generic).product",slewis
+Fri Feb 25 17:41:24 2011,"Hello Service Consumer (zookeeper,r-osgi).product",slewis
+Fri Feb 25 17:41:24 2011,HelloConsumerApplication.java,slewis
+Fri Feb 25 17:41:24 2011,"Hello Service Consumer DS (zeroconf,generic).product",slewis
+Fri Feb 25 17:41:24 2011,"Hello Service DS Host (zeroconf,generic).product",slewis
+Fri Feb 25 17:41:24 2011,Hello Service Host RS.product,slewis
+Fri Feb 25 17:41:24 2011,"Hello Service Host (zeroconf,generic).product",slewis
+Fri Feb 25 17:41:24 2011,"Hello Service Host (zeroconf,rosgi).product",slewis
+Fri Feb 25 17:41:24 2011,"Hello Service Host (zookeeper,generic).product",slewis
+Fri Feb 25 17:41:24 2011,"Hello Service Host (zookeeper,rosgi).product",slewis
+Fri Feb 25 17:41:24 2011,AbstractDistributionTest.java,slewis
+Fri Feb 25 17:56:40 2011,RemoteServiceAdmin.java,slewis
+Fri Feb 25 18:22:09 2011,RemoteServiceAdmin.java,slewis
+Fri Feb 25 18:22:09 2011,AbstractDistributionTest.java,slewis
+Fri Feb 25 18:22:09 2011,AbstractMetadataFactoryTest.java,slewis
+Fri Feb 25 20:33:53 2011,RemoteServiceAdmin.java,slewis
+Wed Mar  2 22:42:27 2011,Activator.java,slewis
+Wed Mar  2 22:42:27 2011,AbstractConsumerContainerSelector.java,slewis
+Wed Mar  2 22:42:27 2011,AbstractContainerSelector.java,slewis
+Wed Mar  2 22:42:27 2011,AbstractHostContainerSelector.java,slewis
+Wed Mar  2 22:42:27 2011,AbstractMetadataFactory.java,slewis
+Wed Mar  2 22:42:27 2011,AbstractTopologyManager.java,slewis
+Wed Mar  2 22:42:27 2011,ConsumerContainerSelector.java,slewis
+Wed Mar  2 22:42:27 2011,DiscoveredEndpointDescription.java,slewis
+Wed Mar  2 22:42:27 2011,DiscoveredEndpointDescriptionFactory.java,slewis
+Wed Mar  2 22:42:27 2011,EndpointDescription.java,slewis
+Wed Mar  2 22:42:27 2011,EndpointDescriptionAdvertiser.java,slewis
+Wed Mar  2 22:42:27 2011,EndpointDescriptionLocator.java,slewis
+Wed Mar  2 22:42:27 2011,EndpointDescriptionParseException.java,slewis
+Wed Mar  2 22:42:27 2011,EndpointDescriptionReader.java,slewis
+Wed Mar  2 22:42:27 2011,EndpointDescriptionWriter.java,slewis
+Wed Mar  2 22:42:27 2011,HostContainerSelector.java,slewis
+Wed Mar  2 22:42:27 2011,IDiscoveredEndpointDescriptionFactory.java,slewis
+Wed Mar  2 22:42:27 2011,RemoteReferenceNotFoundException.java,slewis
+Wed Mar  2 22:42:27 2011,RemoteServiceAdmin.java,slewis
+Wed Mar  2 22:42:27 2011,RemoteServiceAdminEvent.java,slewis
+Wed Mar  2 22:42:27 2011,ServiceInfoFactory.java,slewis
+Thu Mar  3  0:26:12 2011,IGenericServerContainerGroup.java,slewis
+Thu Mar  3  0:26:12 2011,IGenericServerContainerGroupFactory.java,slewis
+Thu Mar  3  0:26:12 2011,ClientApplication.java,slewis

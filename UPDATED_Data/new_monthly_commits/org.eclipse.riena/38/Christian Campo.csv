@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Tue Mar  1 15:33:50 2011,GZippingHttpURLConnectionWrapper.java,Christian Campo
+Tue Mar  1 15:33:50 2011,RienaHessianProxyFactory.java,Christian Campo
+Tue Mar  1 16:10:58 2011,NavigationNodeControllerAnnotationProcessor.java,Christian Campo
+Tue Mar  1 16:28:38 2011,FocusManager.java,Christian Campo
+Wed Mar  2 14:23:34 2011,CustomerContractController.java,Christian Campo
+Wed Mar  2 14:23:34 2011,CustomerOverviewController.java,Christian Campo
+Wed Mar  2 14:23:34 2011,CustomerSearchController.java,Christian Campo
+Wed Mar  2 14:23:34 2011,CustomerSearchView.java,Christian Campo
+Thu Mar  3 11:18:45 2011,SynchronousLogListenerAdapter.java,Christian Campo
+Thu Mar  3 11:18:45 2011,ILogServiceCollectorFilter.java,Christian Campo
+Thu Mar  3 11:18:45 2011,Range.java,Christian Campo
+Thu Mar  3 11:18:45 2011,EmbeddedBorderRenderer.java,Christian Campo
+Thu Mar  3 11:18:45 2011,AbstractScrollingSupport.java,Christian Campo
+Thu Mar  3 11:18:45 2011,ModuleGroupView.java,Christian Campo
+Thu Mar  3 11:18:45 2011,ScrollButtonsNavigationCompositeDeligation.java,Christian Campo
+Thu Mar  3 11:18:45 2011,AbstractApplication.java,Christian Campo
+Thu Mar  3 11:18:45 2011,LnFUpdater.java,Christian Campo
+Wed Mar  9 14:39:55 2011,AbstractEmailController.java,Christian Campo
+Wed Mar  9 14:39:55 2011,CustomerContractController.java,Christian Campo
+Wed Mar  9 14:39:55 2011,CustomerOverviewController.java,Christian Campo
+Wed Mar  9 14:39:55 2011,CustomerSearchController.java,Christian Campo
+Mon Mar 14 13:57:46 2011,SWTModuleController.java,Christian Campo
+Mon Mar 14 13:57:46 2011,ScrollButtonsSupport.java,Christian Campo
+Mon Mar 14 13:57:46 2011,SubModuleView.java,Christian Campo

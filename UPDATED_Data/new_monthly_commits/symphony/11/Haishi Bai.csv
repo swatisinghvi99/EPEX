@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Thu Jan 11  2:58:35 2024,README.md,Haishi Bai
+Thu Jan 11  2:58:35 2024,symphony-api.yaml,Haishi Bai
+Thu Jan 11  2:58:35 2024,docker-compose.yaml,Haishi Bai
+Thu Jan 11  2:58:35 2024,solution-manager_test.go,Haishi Bai
+Thu Jan 11  2:58:35 2024,up.go,Haishi Bai
+Thu Jan 11  2:58:35 2024,build.md,Haishi Bai
+Thu Jan 11  2:58:35 2024,build_deployment.md,Haishi Bai
+Thu Jan 11  2:58:35 2024,overview.md,Haishi Bai
+Thu Jan 11  2:58:35 2024,quick_start_docker.md,Haishi Bai
+Thu Jan 11  2:58:35 2024,kustomization.yaml,Haishi Bai
+Thu Jan 11  2:58:35 2024,values.aks-hci.yaml,Haishi Bai
+Thu Jan 11  2:58:35 2024,values.yaml,Haishi Bai
+Thu Jan 11  2:58:35 2024,magefile.go,Haishi Bai
+Thu Jan 11  2:58:35 2024,symphony-ghcr-values.yaml,Haishi Bai

@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Mon Sep 27  7:34:52 2021,debug-configuration-manager.ts,Thomas Mäder
+Thu Oct  7 14:49:28 2021,debug-adapter-contribution-registry.ts,Thomas Mäder
+Thu Oct  7 14:49:28 2021,debug-adapter-factory.ts,Thomas Mäder
+Thu Oct  7 14:49:28 2021,debug-adapter-session-manager.ts,Thomas Mäder
+Thu Oct  7 14:49:28 2021,debug-adapter-session.ts,Thomas Mäder
+Thu Oct  7 14:49:28 2021,debug-backend-module.ts,Thomas Mäder
+Thu Oct  7 14:49:28 2021,debug-model.ts,Thomas Mäder
+Thu Oct  7 14:49:28 2021,inline-communication-provider.ts,Thomas Mäder
+Thu Oct  7 14:49:28 2021,stream-communication-provider.ts,Thomas Mäder
+Thu Oct  7 14:49:28 2021,vscode-debug-adapter-contribution.ts,Thomas Mäder
+Thu Oct  7 14:49:28 2021,plugin-debug-session-factory.ts,Thomas Mäder
+Thu Oct  7 14:49:28 2021,debug.ts,Thomas Mäder
+Thu Oct  7 14:49:28 2021,plugin-debug-adapter-session.ts,Thomas Mäder
+Thu Oct  7 14:49:28 2021,plugin-debug-adapter-starter.ts,Thomas Mäder
+Thu Oct  7 14:49:28 2021,plugin-context.ts,Thomas Mäder
+Thu Oct  7 14:49:28 2021,types-impl.ts,Thomas Mäder
+Thu Oct  7 14:49:28 2021,theia.d.ts,Thomas Mäder
+Tue Oct 19  9:35:39 2021,plugin-vscode-init.ts,Thomas Mäder

@@ -1,0 +1,56 @@
+date_time,file,committer_name
+Sat Feb  4 16:11:31 2006,IChannel.java,slewis
+Sat Feb  4 16:11:31 2006,IChannelConfig.java,slewis
+Sat Feb  4 16:11:31 2006,BaseChannel.java,slewis
+Sat Feb  4 16:11:31 2006,DatashareContainer.java,slewis
+Sat Feb  4 22:04:05 2006,SOConfig.java,slewis
+Sun Feb  5  5:36:10 2006,IChatRoomCategory.java,slewis
+Thu Feb  9 21:19:59 2006,DatashareContainer.java,slewis
+Thu Feb  9 21:19:59 2006,DatashareContainerAdapter.java,slewis
+Thu Feb  9 21:27:41 2006,DatashareContainer.java,slewis
+Thu Feb  9 21:41:05 2006,DatashareContainerAdapter.java,slewis
+Sun Feb 12  5:16:26 2006,JMDNSDiscoveryContainer.java,slewis
+Thu Feb 16  6:09:02 2006,ECFPlugin.java,slewis
+Mon Feb 20  4:07:03 2006,ClientPlugin.java,slewis
+Mon Feb 20  6:04:26 2006,Client.java,slewis
+Mon Feb 20  6:04:26 2006,ClientSOContainer.java,slewis
+Mon Feb 20  6:05:23 2006,ECF Example Collab Client 1.launch,slewis
+Mon Feb 20  6:05:23 2006,ECF Example Collab Client 2.launch,slewis
+Mon Feb 20  6:05:23 2006,ECF Example Collab Client 3.launch,slewis
+Mon Feb 20  6:05:23 2006,SharedObjectContainerUI.java,slewis
+Mon Feb 20  6:35:17 2006,.classpath,slewis
+Mon Feb 20  6:35:17 2006,.cvsignore,slewis
+Mon Feb 20  6:35:17 2006,.project,slewis
+Mon Feb 20  6:35:17 2006,MANIFEST.MF,slewis
+Mon Feb 20  6:35:17 2006,build.properties,slewis
+Mon Feb 20  6:35:17 2006,Activator.java,slewis
+Mon Feb 20  6:35:17 2006,ECFTCPServerStartup.java,slewis
+Mon Feb 20  6:35:17 2006,server.xml,slewis
+Tue Feb 21  5:13:52 2006,org.eclipse.core.resources.prefs,slewis
+Tue Feb 21  5:13:52 2006,server.xml,slewis
+Tue Feb 21  5:13:52 2006,Activator.java,slewis
+Tue Feb 21  5:13:52 2006,Config.java,slewis
+Tue Feb 21  5:13:52 2006,ECFTCPServerStartup.java,slewis
+Tue Feb 21  5:13:52 2006,config.properties,slewis
+Tue Feb 28  3:36:44 2006,ChatWindow.java,slewis
+Tue Feb 28  3:36:44 2006,DiscoveryView.java,slewis
+Tue Feb 28  3:36:44 2006,RosterView.java,slewis
+Tue Feb 28  3:36:44 2006,MANIFEST.MF,slewis
+Tue Feb 28  3:36:44 2006,build.properties,slewis
+Wed Mar  1  5:25:44 2006,ChatWindow.java,slewis
+Wed Mar  1  5:25:44 2006,DiscoveryView.java,slewis
+Wed Mar  1  5:25:44 2006,RosterView.java,slewis
+Thu Mar  2  7:43:38 2006,XMPPClient.java,slewis
+Thu Mar  2  7:43:38 2006,ECF Example Collab Client 1.launch,slewis
+Thu Mar  2  8:01:18 2006,.classpath,slewis
+Thu Mar  2  8:01:18 2006,.cvsignore,slewis
+Thu Mar  2  8:01:18 2006,.project,slewis
+Thu Mar  2  8:01:18 2006,MANIFEST.MF,slewis
+Thu Mar  2  8:01:18 2006,build.properties,slewis
+Thu Mar  2  8:01:18 2006,plugin.xml,slewis
+Thu Mar  2  8:01:18 2006,Activator.java,slewis
+Thu Mar  2  8:01:18 2006,ExampleClient1.java,slewis
+Thu Mar  2  8:01:18 2006,ExampleClient2.java,slewis
+Thu Mar  2  8:01:18 2006,ExampleClient3.java,slewis
+Thu Mar  2  8:01:18 2006,ExampleClient4.java,slewis
+Thu Mar  2  8:01:18 2006,StartClientAction.java,slewis

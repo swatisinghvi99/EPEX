@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Wed Jan 30 17:15:54 2019,ControlFlowView.java,Patrick Tasse
+Wed Jan 30 17:15:54 2019,ActiveThreadsFilter.java,Patrick Tasse
+Fri Feb  1 17:36:12 2019,AbstractTracePackageWizardPage.java,Patrick Tasse
+Fri Feb  1 17:36:12 2019,ExportTracePackageWizardPage.java,Patrick Tasse
+Tue Feb  5 15:05:10 2019,TimeGraphViewTest.java,Patrick Tasse
+Tue Feb  5 15:05:10 2019,TimeGraphStyleUtil.java,Patrick Tasse
+Tue Feb  5 15:05:10 2019,StateItem.java,Patrick Tasse
+Tue Feb  5 15:05:10 2019,TimeGraphLegend.java,Patrick Tasse
+Fri Feb 15 20:43:19 2019,TmfAlignTimeAxisTest.java,Patrick Tasse
+Fri Feb 15 20:43:19 2019,MANIFEST.MF,Patrick Tasse
+Fri Feb 15 20:43:19 2019,TmfAlignmentSynchronizer.java,Patrick Tasse
+Thu Feb 21 19:47:30 2019,CtfTmfExperimentTrimmingTest.java,Patrick Tasse
+Thu Feb 21 19:47:30 2019,TrimTraceHandler.java,Patrick Tasse
+Thu Feb 21 20:02:56 2019,ResourceUtilTest.java,Patrick Tasse

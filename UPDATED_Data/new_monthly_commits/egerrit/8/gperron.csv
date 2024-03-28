@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Thu Jan  7 19:25:03 2016,SummaryTabView.java,gperron
+Fri Jan  8 14:25:37 2016,HistoryTableLabelProvider.java,gperron
+Fri Jan  8 21:50:58 2016,plugin.properties,gperron
+Fri Jan  8 21:50:58 2016,ChangeInfoItemProvider.java,gperron
+Fri Jan  8 21:50:58 2016,egerrit.ecore,gperron
+Fri Jan  8 21:50:58 2016,ChangeInfo.java,gperron
+Fri Jan  8 21:50:58 2016,ModelPackage.java,gperron
+Fri Jan  8 21:50:58 2016,ChangeInfoImpl.java,gperron
+Fri Jan  8 21:50:58 2016,ModelPackageImpl.java,gperron
+Fri Jan  8 21:50:58 2016,ModifiedChangeInfoImpl.java,gperron
+Fri Jan  8 21:50:58 2016,ChangeDetailEditor.java,gperron
+Fri Jan  8 21:50:58 2016,FilesTabView.java,gperron
+Tue Jan 12 14:05:11 2016,UIHistoryTable.java,gperron
+Tue Jan 12 14:05:11 2016,HistoryTableSorter.java,gperron
+Thu Jan 14 18:31:21 2016,MessageTabView.java,gperron
+Thu Jan 14 20:41:03 2016,ReviewTableLabelProvider.java,gperron
+Fri Jan 15 15:45:33 2016,SummaryTabView.java,gperron

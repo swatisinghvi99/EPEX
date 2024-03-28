@@ -1,0 +1,187 @@
+[
+    [
+        "John Camelon",
+        "unknown",
+        62
+    ],
+    [
+        "John Camelon",
+        "java",
+        765
+    ],
+    [
+        "John Camelon",
+        "properties",
+        8
+    ],
+    [
+        "John Camelon",
+        "xml",
+        5
+    ],
+    [
+        "John Camelon",
+        "classpath",
+        1
+    ],
+    [
+        "John Camelon",
+        "cpp",
+        2
+    ],
+    [
+        "John Camelon",
+        "exsd",
+        2
+    ],
+    [
+        "John Camelon",
+        "h",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "classpath",
+        3
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        262
+    ],
+    [
+        "Doug Schaefer",
+        "cpp",
+        5
+    ],
+    [
+        "Doug Schaefer",
+        "unknown",
+        27
+    ],
+    [
+        "Doug Schaefer",
+        "properties",
+        5
+    ],
+    [
+        "Doug Schaefer",
+        "xml",
+        6
+    ],
+    [
+        "Doug Schaefer",
+        "cvsignore",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "project",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "XSL",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "html",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "h",
+        6
+    ],
+    [
+        "Doug Schaefer",
+        "pl",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "exsd",
+        1
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "unknown",
+        13
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        28
+    ],
+    [
+        "Peter Graves",
+        "classpath",
+        1
+    ],
+    [
+        "Peter Graves",
+        "project",
+        1
+    ],
+    [
+        "Peter Graves",
+        "unknown",
+        4
+    ],
+    [
+        "Peter Graves",
+        "properties",
+        1
+    ],
+    [
+        "Peter Graves",
+        "java",
+        26
+    ],
+    [
+        "Peter Graves",
+        "c",
+        1
+    ],
+    [
+        "David Inglis",
+        "unknown",
+        3
+    ],
+    [
+        "David Inglis",
+        "java",
+        11
+    ],
+    [
+        "Alain Magloire",
+        "unknown",
+        3
+    ],
+    [
+        "Alain Magloire",
+        "java",
+        108
+    ],
+    [
+        "Alain Magloire",
+        "cpp",
+        1
+    ],
+    [
+        "Alain Magloire",
+        "h",
+        1
+    ],
+    [
+        "Thomas Fletcher",
+        "unknown",
+        2
+    ],
+    [
+        "Thomas Fletcher",
+        "java",
+        5
+    ]
+]

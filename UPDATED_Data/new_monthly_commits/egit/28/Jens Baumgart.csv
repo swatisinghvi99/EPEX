@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Fri Jan  6 16:50:23 2012,DecoratableResourceAdapterTest.java,Jens Baumgart
+Fri Jan  6 16:50:23 2012,AllNonSWTTests.java,Jens Baumgart
+Fri Jan  6 16:50:23 2012,DecoratableResourceAdapter.java,Jens Baumgart
+Fri Jan  6 16:50:23 2012,DecoratableResourceHelper.java,Jens Baumgart
+Fri Jan  6 16:50:23 2012,GitDecoratorJob.java,Jens Baumgart
+Fri Jan  6 16:50:23 2012,GitLightweightDecorator.java,Jens Baumgart
+Sat Jan  7 12:00:23 2012,PluginPreferenceInitializer.java,Jens Baumgart
+Sat Jan  7 12:00:23 2012,UIPreferences.java,Jens Baumgart
+Sat Jan  7 12:00:23 2012,UIText.java,Jens Baumgart
+Sat Jan  7 12:00:23 2012,GitDecoratorPreferencePage.java,Jens Baumgart
+Sat Jan  7 12:00:23 2012,uitext.properties,Jens Baumgart
+Sat Jan 14 13:46:45 2012,RuleUtil.java,Jens Baumgart
+Sat Jan 14 13:46:45 2012,AddToIndexOperation.java,Jens Baumgart
+Sat Jan 14 13:46:45 2012,AssumeUnchangedOperation.java,Jens Baumgart
+Sat Jan 14 13:46:45 2012,DiscardChangesOperation.java,Jens Baumgart
+Sat Jan 14 13:46:45 2012,RemoveFromIndexOperation.java,Jens Baumgart
+Sat Jan 14 13:46:45 2012,UntrackOperation.java,Jens Baumgart

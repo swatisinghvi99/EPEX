@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Fri Dec 23 23:24:58 2011,CollapseAllAction.java,Pawel Piech
+Fri Dec 23 23:24:58 2011,BreakpointsCollapseAllAction.java,Pawel Piech
+Fri Dec 23 23:24:58 2011,BreakpointsExpandAllAction.java,Pawel Piech
+Fri Dec 23 23:24:58 2011,VirtualFindAction.java,Pawel Piech
+Fri Dec 23 23:24:58 2011,LaunchView.java,Pawel Piech
+Fri Dec 23 23:24:58 2011,VariablesView.java,Pawel Piech
+Tue Jan 10 22:18:45 2012,InternalVirtualTreeModelViewer.java,Pawel Piech
+Wed Jan 18 23:08:22 2012,EditWatchExpressinInPlaceAction.java,Pawel Piech
+Wed Jan 18 23:08:22 2012,VariableColumnFactoryAdapter.java,Pawel Piech
+Wed Jan 18 23:08:22 2012,VariableColumnPresentation.java,Pawel Piech
+Wed Jan 18 23:08:22 2012,ExpressionContentProvider.java,Pawel Piech
+Wed Jan 18 23:08:22 2012,ExpressionLabelProvider.java,Pawel Piech
+Wed Jan 18 23:08:22 2012,ExpressionManagerContentProvider.java,Pawel Piech
+Wed Jan 18 23:08:22 2012,RegisterGroupLabelProvider.java,Pawel Piech
+Wed Jan 18 23:08:22 2012,VariableLabelProvider.java,Pawel Piech
+Wed Jan 18 23:08:22 2012,VirtualCopyToClipboardActionDelegate.java,Pawel Piech
+Wed Jan 18 23:08:22 2012,VirtualFindAction.java,Pawel Piech
+Wed Jan 18 23:08:22 2012,IDebugUIConstants.java,Pawel Piech

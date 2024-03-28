@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Mon Dec  8 16:29:44 2008,XMLContentDescriber.java,Szymon Brandys
+Thu Dec 11 11:45:30 2008,XMLContentDescriber.java,Szymon Brandys
+Thu Dec 11 11:45:30 2008,XMLContentDescriberTest.java,Szymon Brandys
+Thu Dec 11 12:15:21 2008,XMLContentDescriberTest.java,Szymon Brandys
+Thu Dec 18 16:33:35 2008,MANIFEST.MF,Szymon Brandys
+Thu Dec 18 16:33:35 2008,plugin.xml,Szymon Brandys
+Thu Dec 18 16:33:35 2008,plugin.xml,Szymon Brandys
+Thu Dec 18 16:33:35 2008,plugin.xml,Szymon Brandys
+Thu Dec 18 16:33:35 2008,plugin.xml,Szymon Brandys
+Thu Dec 18 16:33:35 2008,plugin.xml,Szymon Brandys
+Thu Dec 18 16:33:35 2008,AutomatedTests.java,Szymon Brandys
+Thu Dec 18 16:33:35 2008,AllTests.java,Szymon Brandys
+Thu Dec 18 16:33:35 2008,ContentDescriptionTest.java,Szymon Brandys
+Thu Dec 18 16:33:35 2008,IContentTypeManagerTest.java,Szymon Brandys
+Thu Dec 18 16:33:35 2008,LazyInputStreamTest.java,Szymon Brandys
+Thu Dec 18 16:33:35 2008,LazyReaderTest.java,Szymon Brandys
+Thu Dec 18 16:33:35 2008,LocalSelectionPolicy.java,Szymon Brandys
+Thu Dec 18 16:33:35 2008,MyContentDescriber.java,Szymon Brandys
+Thu Dec 18 16:33:35 2008,NaySayerContentDescriber.java,Szymon Brandys
+Thu Dec 18 16:33:35 2008,SpecificContextTest.java,Szymon Brandys
+Thu Dec 18 16:33:35 2008,SubsetSelectionPolicy.java,Szymon Brandys
+Thu Dec 18 16:33:35 2008,TestBug94498.java,Szymon Brandys
+Thu Dec 18 16:33:35 2008,XMLContentDescriberTest.java,Szymon Brandys

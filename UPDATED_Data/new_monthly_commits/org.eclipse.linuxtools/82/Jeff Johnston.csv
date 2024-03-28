@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Fri Oct 16 21:23:36 2015,ContainerLauncher.java,Jeff Johnston
+Thu Oct 22  8:45:56 2015,plugin.xml,Jeff Johnston
+Thu Oct 22  8:45:56 2015,ConsoleMessages.properties,Jeff Johnston
+Thu Oct 22  8:45:56 2015,RunConsolePageParticipant.java,Jeff Johnston
+Thu Oct 22  8:45:56 2015,RunConsoleRemove.java,Jeff Johnston
+Thu Oct 22  8:45:56 2015,RunImageCommandHandler.java,Jeff Johnston
+Thu Oct 22  8:45:56 2015,ImageRun.java,Jeff Johnston
+Fri Oct 30  9:32:31 2015,DockerConnection.java,Jeff Johnston
+Fri Oct 30  9:32:31 2015,plugin.properties,Jeff Johnston
+Fri Oct 30  9:32:31 2015,plugin.xml,Jeff Johnston
+Fri Oct 30  9:32:31 2015,Activator.java,Jeff Johnston
+Fri Oct 30  9:32:31 2015,BuildDockerImageJob.java,Jeff Johnston
+Fri Oct 30  9:32:31 2015,BuildDockerImageShortcut.java,Jeff Johnston
+Fri Oct 30  9:32:31 2015,IBuildDockerImageLaunchConfigurationConstants.java,Jeff Johnston
+Fri Oct 30  9:32:31 2015,LaunchMessages.properties,Jeff Johnston

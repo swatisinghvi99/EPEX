@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Wed Nov 10 16:00:26 2021,CHANGELOG.adoc,Steve Monnier
+Wed Nov 10 16:00:26 2021,EdgeMappingConverter.java,Steve Monnier
+Wed Nov 10 16:00:26 2021,EdgeDescription.java,Steve Monnier
+Wed Nov 10 16:00:26 2021,DiagramRendererEdgeTests.java,Steve Monnier
+Wed Nov 10 16:00:26 2021,DiagramQueryService.java,Steve Monnier
+Wed Nov 10 16:00:26 2021,IDiagramQueryService.java,Steve Monnier
+Wed Nov 10 16:00:26 2021,EditLabelEventHandler.java,Steve Monnier
+Wed Nov 10 16:00:26 2021,WebSocketDiagramServer.tsx,Steve Monnier
+Wed Nov 10 16:00:26 2021,convertDiagram.test.ts,Steve Monnier
+Wed Nov 10 16:00:26 2021,convertDiagram.tsx,Steve Monnier

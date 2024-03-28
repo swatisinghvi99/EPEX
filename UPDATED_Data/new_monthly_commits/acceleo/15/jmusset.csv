@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Thu Apr  9 10:02:01 2009,plugin.xml,jmusset
+Thu Apr  9 10:02:01 2009,AcceleoOutlinePageItemProvider.java,jmusset
+Thu Apr  9 10:06:29 2009,CST2ASTConverterWithResolver.java,jmusset
+Thu Apr  9 10:06:29 2009,OCLParser.java,jmusset
+Thu Apr  9 11:58:07 2009,AcceleoEvaluationVisitorFileBlockTest.java,jmusset
+Wed Apr 22 11:25:26 2009,AcceleoWorkspaceUtil.java,jmusset
+Wed Apr 22 11:26:04 2009,AcceleoPluginLaunchingStrategy.java,jmusset
+Wed Apr 22 11:26:04 2009,IAcceleoLaunchingStrategy.java,jmusset
+Wed Apr 22 11:26:04 2009,AcceleoLaunchDelegate.java,jmusset
+Wed Apr 22 11:26:04 2009,AcceleoLaunchOperation.java,jmusset
+Wed Apr 22 11:26:04 2009,AcceleoJavaLaunchingStrategy.java,jmusset
+Wed Apr 22 11:49:31 2009,AcceleoMainTab.java,jmusset
+Fri Apr 24 11:55:33 2009,AcceleoBuilder.java,jmusset
+Mon Apr 27  9:48:44 2009,AcceleoOutlinePage.java,jmusset
+Mon Apr 27  9:48:44 2009,AcceleoOutlinePageContentProvider.java,jmusset
+Mon Apr 27 11:32:43 2009,AcceleoSourceContent.java,jmusset
+Mon Apr 27 16:32:14 2009,AcceleoModelPresentation.java,jmusset
+Mon Apr 27 16:32:14 2009,AcceleoValue.java,jmusset
+Mon Apr 27 16:32:14 2009,AcceleoEditor.java,jmusset
+Mon Apr 27 16:32:14 2009,AcceleoPairMatcher.java,jmusset

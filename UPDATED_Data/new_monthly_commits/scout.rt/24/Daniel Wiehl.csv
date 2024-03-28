@@ -1,0 +1,95 @@
+date_time,file,committer_name
+Tue Dec 13  7:23:29 2011,AbstractPlannerField.java,Daniel Wiehl
+Tue Dec 13  7:23:29 2011,IPlannerField.java,Daniel Wiehl
+Tue Dec 13  7:23:29 2011,SwingScoutPlannerField.java,Daniel Wiehl
+Tue Dec 20 17:53:18 2011,LogHandler.java,Daniel Wiehl
+Tue Dec 20 17:53:18 2011,ScoutTransactionLogicalHandlerWrapper.java,Daniel Wiehl
+Tue Dec 20 17:53:18 2011,ScoutTransactionMessageHandlerWrapper.java,Daniel Wiehl
+Tue Dec 20 17:53:18 2011,ScoutTransactionSOAPHandlerWrapper.java,Daniel Wiehl
+Tue Dec 20 17:53:18 2011,ContextHelper.java,Daniel Wiehl
+Tue Dec 20 17:53:18 2011,ScoutTransactionDelegate.java,Daniel Wiehl
+Tue Dec 20 17:53:18 2011,SessionContextBean.java,Daniel Wiehl
+Tue Dec 20 17:53:18 2011,SessionHelper.java,Daniel Wiehl
+Tue Dec 20 17:53:18 2011,ScoutInstanceResolver.java,Daniel Wiehl
+Tue Dec 20 17:53:18 2011,ScoutTubelineAssembler.java,Daniel Wiehl
+Tue Dec 20 17:53:18 2011,BasicAuthenticationHandler.java,Daniel Wiehl
+Tue Dec 20 17:53:18 2011,WsseUsernameTokenAuthenticationHandler.java,Daniel Wiehl
+Tue Dec 20 17:54:09 2011,LogHandler.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,MANIFEST.MF,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,com.sun.xml.internal.ws.api.pipe.TubelineAssemblerFactory,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,README.txt,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,Release Notes.txt,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,plugin.xml,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,Activator.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,JaxWsServlet.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,CalendarAdapter.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,DefaultTimezoneDateAdapter.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,UtcDateAdapter.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ScoutTransaction.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ScoutWebService.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ScoutWebServiceClient.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,LogHandler.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,IScoutTransactionHandlerWrapper.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ScoutTransactionLogicalHandlerWrapper.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ScoutTransactionMessageHandlerWrapper.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ScoutTransactionSOAPHandlerWrapper.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ContextHelper.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ScoutTransactionDelegate.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,SessionContextBean.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,SessionHelper.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ScoutInstanceResolver.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,AbstractResolver.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,BundleProxyClassLoader.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,BundleProxyResourceLoader.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,SunJaxWsXml.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,SunJaxWsXmlFinder.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,EndpointServlet.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,JaxWsHelper.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,JaxWsServletContextListener.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ServletAdapter.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ServletAdapterFactory.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ServletConnection.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ServletContainer.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ServletContextDelegate.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ScoutTubelineAssembler.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ScoutTubelineAssemblerFactory.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,Authenticator.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,GlobalTrustManagerService.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,BasicAuthenticationHandler.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,IAuthenticationHandler.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,WsseUsernameTokenAuthenticationHandler.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,BasicAuthenticationHandler.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ConfigIniCredentialValidationStrategy.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,IAuthenticationHandler.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ICredentialValidationStrategy.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,WsseUsernameTokenAuthenticationHandler.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,AbstractWebServiceClient.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,IWebServiceClient.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,DefaultServerSessionFactory.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,IServerSessionFactory.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,ServerSessionClassFinder.java,Daniel Wiehl
+Tue Dec 20 18:49:25 2011,JaxWsStubGenerator.java,Daniel Wiehl
+Tue Dec 20 20:39:35 2011,ScoutInstanceResolver.java,Daniel Wiehl
+Thu Dec 22  9:42:42 2011,SwtScoutFormFieldPopup.java,Daniel Wiehl
+Thu Dec 22  9:42:42 2011,SwtScoutTableCellEditor.java,Daniel Wiehl
+Fri Dec 23  7:24:28 2011,SwtScoutFormFieldPopup.java,Daniel Wiehl
+Fri Dec 23  7:24:28 2011,SwtScoutTableCellEditor.java,Daniel Wiehl
+Fri Dec 23  7:45:07 2011,HTMLUtility.java,Daniel Wiehl
+Fri Dec 23 12:50:42 2011,MailUtility.java,Daniel Wiehl
+Fri Dec 23 15:13:16 2011,Release Notes.txt,Daniel Wiehl
+Fri Dec 23 15:13:16 2011,SwingScoutHtmlField.java,Daniel Wiehl
+Fri Dec 23 15:43:19 2011,Release Notes.txt,Daniel Wiehl
+Fri Dec 23 15:43:19 2011,SwingScoutTableField.java,Daniel Wiehl
+Fri Dec 23 17:18:30 2011,Release Notes.txt,Daniel Wiehl
+Fri Dec 23 17:18:30 2011,SwingScoutTextFieldComposite.java,Daniel Wiehl
+Tue Jan  3 10:36:21 2012,Release Notes.txt,Daniel Wiehl
+Tue Jan  3 10:36:21 2012,StringUtility.java,Daniel Wiehl
+Tue Jan  3 10:36:21 2012,Release Notes.txt,Daniel Wiehl
+Tue Jan  3 10:36:21 2012,AbstractStringField.java,Daniel Wiehl
+Tue Jan  3 10:36:21 2012,Release Notes.txt,Daniel Wiehl
+Tue Jan  3 10:36:21 2012,SwingScoutTextFieldComposite.java,Daniel Wiehl
+Thu Jan  5 23:26:59 2012,Release Notes.txt,Daniel Wiehl
+Thu Jan  5 23:26:59 2012,BundleProxyResourceLoader.java,Daniel Wiehl
+Thu Jan  5 23:26:59 2012,JaxWsStubGenerator.java,Daniel Wiehl
+Fri Jan  6 15:46:13 2012,Release Notes.txt,Daniel Wiehl
+Fri Jan  6 15:46:13 2012,SwingScoutTextFieldComposite.java,Daniel Wiehl

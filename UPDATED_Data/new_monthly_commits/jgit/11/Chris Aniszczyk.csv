@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Thu Aug 19  1:58:25 2010,T0003_Basic.java,Chris Aniszczyk
+Thu Aug 19  1:58:25 2010,ObjectInserter.java,Chris Aniszczyk
+Thu Aug 19  1:58:25 2010,Tag.java,Chris Aniszczyk
+Thu Aug 19  2:22:42 2010,ObjectInserter.java,Chris Aniszczyk
+Fri Aug 27 19:11:31 2010,TagCommandTest.java,Chris Aniszczyk
+Fri Aug 27 19:11:31 2010,JGitText.properties,Chris Aniszczyk
+Fri Aug 27 19:11:31 2010,JGitText.java,Chris Aniszczyk
+Fri Aug 27 19:11:31 2010,Git.java,Chris Aniszczyk
+Fri Aug 27 19:11:31 2010,InvalidTagNameException.java,Chris Aniszczyk
+Fri Aug 27 19:11:31 2010,TagCommand.java,Chris Aniszczyk

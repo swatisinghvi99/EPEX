@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Tue Jun  7 22:25:19 2022,VectorAPIExpansion.cpp,Gita Koblents
+Thu Jun  9  3:28:34 2022,J9DataTypes.cpp,Gita Koblents
+Thu Jun  9  3:28:34 2022,EscapeAnalysis.cpp,Gita Koblents
+Thu Jun  9  3:28:34 2022,SPMDParallelizer.cpp,Gita Koblents
+Thu Jun  9  3:28:34 2022,SPMDPreCheck.cpp,Gita Koblents
+Thu Jun  9  3:28:34 2022,VectorAPIExpansion.cpp,Gita Koblents
+Thu Jun  9  3:28:34 2022,J9TreeEvaluator.cpp,Gita Koblents
+Thu Jun  9  3:28:35 2022,J9DataTypes.cpp,Gita Koblents
+Thu Jun  9  3:28:35 2022,J9DataTypes.hpp,Gita Koblents
+Thu Jun  9  3:28:35 2022,J9ILOps.hpp,Gita Koblents
+Thu Jun  9  3:28:35 2022,EscapeAnalysis.cpp,Gita Koblents
+Thu Jun  9  3:28:35 2022,IdiomRecognition.cpp,Gita Koblents
+Thu Jun  9  3:28:35 2022,IdiomRecognition.hpp,Gita Koblents
+Thu Jun  9  3:28:35 2022,SPMDParallelizer.cpp,Gita Koblents
+Thu Jun  9  3:28:35 2022,VectorAPIExpansion.cpp,Gita Koblents
+Thu Jun  9  3:28:35 2022,J9TreeEvaluator.cpp,Gita Koblents
+Thu Jun  9 16:59:38 2022,J9RecognizedMethodsEnum.hpp,Gita Koblents
+Thu Jun  9 16:59:38 2022,j9method.cpp,Gita Koblents
+Thu Jun  9 16:59:38 2022,VectorAPIExpansion.cpp,Gita Koblents
+Thu Jun  9 16:59:38 2022,VectorAPIExpansion.hpp,Gita Koblents
+Thu Jun  9 20:01:50 2022,VectorAPIExpansion.cpp,Gita Koblents

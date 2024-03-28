@@ -1,0 +1,277 @@
+[
+    [
+        "eneufeld",
+        "java",
+        257
+    ],
+    [
+        "eneufeld",
+        "MF",
+        19
+    ],
+    [
+        "eneufeld",
+        "launch",
+        6
+    ],
+    [
+        "eneufeld",
+        "project",
+        9
+    ],
+    [
+        "eneufeld",
+        "xml",
+        19
+    ],
+    [
+        "eneufeld",
+        "properties",
+        19
+    ],
+    [
+        "eneufeld",
+        "checkstyle",
+        6
+    ],
+    [
+        "eneufeld",
+        "classpath",
+        5
+    ],
+    [
+        "eneufeld",
+        "prefs",
+        50
+    ],
+    [
+        "eneufeld",
+        "html",
+        4
+    ],
+    [
+        "eneufeld",
+        "ini",
+        1
+    ],
+    [
+        "eneufeld",
+        "mappings",
+        1
+    ],
+    [
+        "eneufeld",
+        "ecore",
+        2
+    ],
+    [
+        "eneufeld",
+        "genmodel",
+        4
+    ],
+    [
+        "eneufeld",
+        "test",
+        13
+    ],
+    [
+        "eneufeld",
+        "ctx",
+        1
+    ],
+    [
+        "eneufeld",
+        "view",
+        3
+    ],
+    [
+        "eneufeld",
+        "setup_old",
+        1
+    ],
+    [
+        "Lucas Koehler",
+        "yml",
+        1
+    ],
+    [
+        "Lucas Koehler",
+        "checkstyle",
+        10
+    ],
+    [
+        "Lucas Koehler",
+        "classpath",
+        15
+    ],
+    [
+        "Lucas Koehler",
+        "project",
+        15
+    ],
+    [
+        "Lucas Koehler",
+        "prefs",
+        120
+    ],
+    [
+        "Lucas Koehler",
+        "e4xmi",
+        1
+    ],
+    [
+        "Lucas Koehler",
+        "MF",
+        16
+    ],
+    [
+        "Lucas Koehler",
+        "css",
+        1
+    ],
+    [
+        "Lucas Koehler",
+        "xml",
+        31
+    ],
+    [
+        "Lucas Koehler",
+        "java",
+        58
+    ],
+    [
+        "Lucas Koehler",
+        "properties",
+        6
+    ],
+    [
+        "Lucas Koehler",
+        "exsd",
+        1
+    ],
+    [
+        "Lucas Koehler",
+        "gitignore",
+        1
+    ],
+    [
+        "Lucas Koehler",
+        "viewmodel",
+        2
+    ],
+    [
+        "Lucas Koehler",
+        "product",
+        1
+    ],
+    [
+        "Lucas Koehler",
+        "launch",
+        3
+    ],
+    [
+        "Lucas Koehler",
+        "target",
+        1
+    ],
+    [
+        "abuzila",
+        "java",
+        76
+    ],
+    [
+        "abuzila",
+        "xml",
+        7
+    ],
+    [
+        "abuzila",
+        "MF",
+        10
+    ],
+    [
+        "abuzila",
+        "properties",
+        3
+    ],
+    [
+        "abuzila",
+        "ecore",
+        7
+    ],
+    [
+        "abuzila",
+        "genmodel",
+        1
+    ],
+    [
+        "abuzila",
+        "checkstyle",
+        2
+    ],
+    [
+        "abuzila",
+        "project",
+        2
+    ],
+    [
+        "abuzila",
+        "prefs",
+        10
+    ],
+    [
+        "abuzila",
+        "classpath",
+        1
+    ],
+    [
+        "Edgar Mueller",
+        "MF",
+        3
+    ],
+    [
+        "Edgar Mueller",
+        "java",
+        11
+    ],
+    [
+        "Edgar Mueller",
+        "launch",
+        1
+    ],
+    [
+        "Edgar Mueller",
+        "xml",
+        1
+    ],
+    [
+        "Edgar Mueller",
+        "exsd",
+        2
+    ],
+    [
+        "Johannes Faltermeier",
+        "java",
+        12
+    ],
+    [
+        "Johannes Faltermeier",
+        "MF",
+        3
+    ],
+    [
+        "Johannes Faltermeier",
+        "api_filters",
+        2
+    ],
+    [
+        "Johannes Faltermeier",
+        "properties",
+        1
+    ],
+    [
+        "Johannes Faltermeier",
+        "ecore",
+        1
+    ]
+]

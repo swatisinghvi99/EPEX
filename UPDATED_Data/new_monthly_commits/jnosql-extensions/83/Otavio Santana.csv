@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Thu Jul 13  6:06:12 2023,Neo4JEmbeddedGraphConfiguration.java,Otavio Santana
+Thu Jul 13  6:22:39 2023,ArangoDBGraphConfiguration.java,Otavio Santana
+Mon Jul 31 18:21:41 2023,DefaultCriteriaDocumentTemplate.java,Otavio Santana
+Mon Jul 31 18:21:41 2023,DefaultCriteriaDocumentTemplateProducer.java,Otavio Santana
+Mon Jul 31 18:22:57 2023,BucketManagerSupplier.java,Otavio Santana
+Mon Jul 31 18:22:57 2023,ColumnTemplateValidationTest.java,Otavio Santana
+Mon Jul 31 18:22:57 2023,ConstructorValidationTest.java,Otavio Santana
+Mon Jul 31 18:22:57 2023,DocumentMockProducer.java,Otavio Santana
+Mon Jul 31 18:22:57 2023,DocumentTemplateValidationTest.java,Otavio Santana
+Mon Jul 31 18:22:57 2023,GraphTemplateValidationTest.java,Otavio Santana
+Mon Jul 31 18:22:57 2023,KeyValueTemplateValidationTest.java,Otavio Santana
+Mon Jul 31 18:22:57 2023,Person.java,Otavio Santana
+Mon Jul 31 18:24:22 2023,DefaultCriteriaDocumentTemplateTest.java,Otavio Santana

@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Mon Jan  3 20:31:17 2022,ProxySignerWithPublicKeyAccess.java,Mickael Istria
+Mon Jan  3 20:31:17 2022,SignRepositoryArtifactsMojo.java,Mickael Istria
+Tue Jan  4 18:04:52 2022,TargetPlatformFactoryImpl.java,Mickael Istria
+Tue Jan  4 18:04:52 2022,RepositoryBlackboardKey.java,Mickael Istria
+Tue Jan  4 18:04:52 2022,activemq.target,Mickael Istria
+Tue Jan  4 18:04:52 2022,pom.xml,Mickael Istria
+Tue Jan  4 18:04:52 2022,sample.product,Mickael Istria
+Tue Jan  4 18:04:52 2022,ProductBuildTest.java,Mickael Istria
+Tue Jan  4 18:04:52 2022,FileRepositoryArtifactProvider.java,Mickael Istria
+Tue Jan  4 18:04:52 2022,ListCompositeArtifactRepository.java,Mickael Istria
+Tue Jan  4 18:04:52 2022,mavenDep.target,Mickael Istria
+Tue Jan  4 18:04:52 2022,TargetPlatformFactoryTest.java,Mickael Istria
+Tue Jan  4 18:04:52 2022,TestResolverFactory.java,Mickael Istria
+Tue Jan  4 18:04:52 2022,TargetPlatformFactoryImpl.java,Mickael Istria
+Tue Jan  4 18:04:52 2022,TargetPlatformLocationsTest.java,Mickael Istria
+Wed Jan  5 15:44:02 2022,TargetPlatformLocationsTest.java,Mickael Istria

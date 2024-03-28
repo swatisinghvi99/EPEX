@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Fri Oct 20 15:03:41 2017,OverzoomingValueReader.scala,lossyrob
+Fri Oct 20 15:03:41 2017,ClipToGrid.scala,lossyrob
+Fri Oct 20 15:03:41 2017,ClipToGridMethods.scala,lossyrob
+Fri Oct 20 15:03:41 2017,Implicits.scala,lossyrob
+Fri Oct 20 15:03:41 2017,LayerFilter.scala,lossyrob
+Fri Oct 20 15:03:41 2017,package.scala,lossyrob
+Fri Oct 20 15:03:41 2017,MapKeyTransform.scala,lossyrob
+Fri Oct 20 15:03:41 2017,ClipToGridExamples.scala,lossyrob
+Fri Oct 20 15:03:41 2017,ClipToGrid.scala,lossyrob
+Fri Oct 20 15:03:41 2017,FeatureClipToGridMethods.scala,lossyrob
+Fri Oct 20 15:03:41 2017,GeometryClipToGridMethods.scala,lossyrob
+Fri Oct 20 15:03:41 2017,Implicits.scala,lossyrob
+Fri Oct 20 15:03:41 2017,build.sbt,lossyrob
+Fri Oct 20 15:03:41 2017,ClipToGridSpec.scala,lossyrob
+Fri Oct 20 15:03:41 2017,package.scala,lossyrob

@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Mon Jul  7  2:42:09 2008,Activator.java,Kevin Doyle
+Mon Jul  7  2:42:09 2008,IUserActionsImageIds.java,Kevin Doyle
+Mon Jul  7  2:42:09 2008,UserActionsIcon.java,Kevin Doyle
+Mon Jul  7  2:42:09 2008,SystemWorkWithCompileCommandsAction.java,Kevin Doyle
+Mon Jul  7  2:42:09 2008,SystemCommandViewerConfiguration.java,Kevin Doyle
+Mon Jul  7  2:42:09 2008,SystemUDBaseManager.java,Kevin Doyle
+Mon Jul  7  2:42:09 2008,SystemWorkWithFileTypesAction.java,Kevin Doyle
+Mon Jul  7  2:42:09 2008,SystemWorkWithUDAsAction.java,Kevin Doyle
+Mon Jul  7  2:50:58 2008,SystemCompileProfile.java,Kevin Doyle
+Mon Jul  7  2:53:21 2008,SystemCommandTextField.java,Kevin Doyle
+Mon Jul  7  2:53:21 2008,SystemEditCommandDialog.java,Kevin Doyle
+Mon Jul  7 14:21:40 2008,SystemDynamicCompileMenu.java,Kevin Doyle
+Mon Jul  7 14:21:40 2008,SystemDynamicUserActionMenu.java,Kevin Doyle
+Tue Jul  8  0:42:59 2008,SystemWorkWithCompileCommandsAction.java,Kevin Doyle
+Tue Jul  8 19:48:46 2008,SystemCompileMultipleSelectAction.java,Kevin Doyle
+Mon Jul 14 20:31:44 2008,SystemUDBaseManager.java,Kevin Doyle
+Tue Jul 15 17:08:35 2008,SystemXMLElementWrapper.java,Kevin Doyle
+Wed Jul 16  4:34:26 2008,SystemUDActionSubsystem.java,Kevin Doyle
+Fri Jul 18  5:26:07 2008,SystemCascadingPreferencesAction.java,Kevin Doyle
+Fri Jul 18  5:26:07 2008,SystemShowPreferencesPageAction.java,Kevin Doyle
+Fri Jul 18  5:26:07 2008,SystemViewPart.java,Kevin Doyle
+Wed Jul 23 17:15:05 2008,SystemUDBaseManager.java,Kevin Doyle
+Wed Jul 23 17:15:05 2008,SystemUDBaseTreeView.java,Kevin Doyle
+Wed Jul 23 20:34:50 2008,SystemUDActionSubsystem.java,Kevin Doyle

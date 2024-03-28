@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Mon Sep 16  5:55:51 2019,GitMoveDeleteHook.java,Lars Vogel
+Mon Sep 16  5:55:51 2019,AddToIndexOperation.java,Lars Vogel
+Mon Sep 16  5:55:51 2019,DeleteBranchOperation.java,Lars Vogel
+Mon Sep 16  5:55:51 2019,ListRemoteOperation.java,Lars Vogel
+Mon Sep 16  5:55:51 2019,RenameBranchOperation.java,Lars Vogel
+Mon Sep 16  5:55:51 2019,StashApplyOperation.java,Lars Vogel
+Mon Sep 16  5:55:51 2019,StashCreateOperation.java,Lars Vogel
+Mon Sep 16  5:55:51 2019,StashDropOperation.java,Lars Vogel
+Mon Sep 16  5:55:51 2019,SubmoduleUpdateOperation.java,Lars Vogel
+Mon Sep 16  5:55:51 2019,GitResourceVariantComparator.java,Lars Vogel
+Fri Sep 27 16:01:08 2019,CommitFileDiffViewer.java,Lars Vogel

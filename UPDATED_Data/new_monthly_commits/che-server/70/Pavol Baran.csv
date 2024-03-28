@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Wed Nov 24 23:55:24 2021,che.properties,Pavol Baran
+Wed Nov 24 23:55:24 2021,pom.xml,Pavol Baran
+Wed Nov 24 23:55:24 2021,GitHubOAuthAuthenticator.java,Pavol Baran
+Wed Nov 24 23:55:24 2021,GitHubOAuthAuthenticatorProvider.java,Pavol Baran
+Wed Nov 24 23:55:24 2021,GithubModule.java,Pavol Baran
+Wed Nov 24 23:55:24 2021,GitHubOAuthAuthenticatorProviderTest.java,Pavol Baran
+Wed Nov 24 23:55:24 2021,OAuthAuthenticator.java,Pavol Baran
+Wed Nov 24 23:55:24 2021,GithubPersonalAccessTokenFetcher.java,Pavol Baran
+Thu Nov 25 15:16:26 2021,pom.xml,Pavol Baran
+Thu Nov 25 15:16:26 2021,GitHubOAuthAuthenticator.java,Pavol Baran
+Thu Nov 25 15:16:26 2021,GitHubOAuthAuthenticatorProvider.java,Pavol Baran
+Thu Nov 25 15:16:26 2021,GithubPersonalAccessTokenFetcher.java,Pavol Baran
+Fri Nov 26 13:24:24 2021,GitHubOAuthAuthenticatorProvider.java,Pavol Baran
+Fri Nov 26 19:25:48 2021,GitHubOAuthAuthenticatorProvider.java,Pavol Baran
+Mon Nov 29 11:39:10 2021,GitHubOAuthAuthenticatorProvider.java,Pavol Baran
+Mon Nov 29 11:39:10 2021,GitHubOAuthAuthenticatorProviderTest.java,Pavol Baran

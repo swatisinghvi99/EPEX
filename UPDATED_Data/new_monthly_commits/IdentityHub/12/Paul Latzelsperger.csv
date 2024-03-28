@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Fri May 26 13:10:36 2023,JwtCredentialsExtension.java,Paul Latzelsperger
+Fri May 26 13:10:36 2023,JwtCredentialsVerifierExtension.java,Paul Latzelsperger
+Fri May 26 13:10:36 2023,CosmosIdentityHubStoreExtension.java,Paul Latzelsperger
+Fri May 26 13:10:36 2023,SqlIdentityHubStoreExtension.java,Paul Latzelsperger
+Thu Jun  1 10:24:20 2023,verify.yaml,Paul Latzelsperger
+Thu Jun  1 10:24:20 2023,build.gradle.kts,Paul Latzelsperger
+Thu Jun  1 10:24:20 2023,CosmosIdentityHubStore.java,Paul Latzelsperger
+Thu Jun  1 10:24:20 2023,CosmosIdentityHubStoreConfig.java,Paul Latzelsperger
+Thu Jun  1 10:24:20 2023,CosmosIdentityHubStoreExtension.java,Paul Latzelsperger
+Thu Jun  1 10:24:20 2023,IdentityHubRecordDocument.java,Paul Latzelsperger
+Thu Jun  1 10:24:20 2023,org.eclipse.edc.spi.system.ServiceExtension,Paul Latzelsperger
+Thu Jun  1 10:24:20 2023,CosmosIdentityHubStoreIntegrationTest.java,Paul Latzelsperger
+Thu Jun  1 10:24:20 2023,IdentityHubRecordDocumentSerializationTest.java,Paul Latzelsperger
+Thu Jun  1 10:24:20 2023,libs.versions.toml,Paul Latzelsperger
+Thu Jun  1 10:24:20 2023,settings.gradle.kts,Paul Latzelsperger

@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Wed Aug 30  3:10:57 2006,WebRepositoryConnectorTest.java,relves
+Wed Aug 30  3:10:57 2006,BugzillaMylarSearchOperation.java,relves
+Wed Aug 30  3:10:57 2006,BugzillaReportInfo.java,relves
+Wed Aug 30  3:10:57 2006,BugzillaStructureBridge.java,relves
+Wed Aug 30  3:10:57 2006,WebQueryWizardPage.java,relves
+Wed Aug 30  3:10:57 2006,WebRepositoryConnector.java,relves
+Thu Aug 31 18:45:50 2006,BugzillaActiveSearchTest.java,relves
+Thu Aug 31 18:45:50 2006,WebRepositoryConnectorTest.java,relves
+Thu Aug 31 18:45:50 2006,BugzillaMylarSearchOperation.java,relves
+Thu Aug 31 18:45:50 2006,BugzillaReportInfo.java,relves
+Thu Aug 31 18:45:50 2006,BugzillaStructureBridge.java,relves
+Thu Aug 31 18:45:50 2006,WebQueryWizardPage.java,relves
+Wed Sep  6 23:43:31 2006,WebRepositorySettingsPage.java,relves
+Mon Sep 11  0:22:27 2006,WebRepositoryConnectorTest.java,relves
+Mon Sep 11  0:22:27 2006,BugzillaMylarSearchOperation.java,relves
+Mon Sep 11  0:22:27 2006,WebQueryWizardPage.java,relves
+Mon Sep 11  0:22:27 2006,WebRepositoryConnector.java,relves
+Thu Sep 14 22:58:19 2006,BugzillaMylarSearchOperation.java,relves
+Thu Sep 14 22:58:19 2006,BugzillaSearchEngine.java,relves
+Thu Sep 14 22:58:19 2006,IBugzillaSearchOperation.java,relves
+Fri Sep 15 20:22:24 2006,MylarUsageMonitorPlugin.java,relves
+Mon Sep 18 22:47:25 2006,IntrospectObjectAction.java,relves

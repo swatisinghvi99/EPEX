@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Thu Feb 18 11:44:52 2016,pom.xml,Mihail Kuznyetsov
+Thu Feb 18 11:44:52 2016,OAuthAuthorizationHeaderProvider.java,Mihail Kuznyetsov
+Thu Feb 18 11:44:52 2016,OAuthAuthenticationException.java,Mihail Kuznyetsov
+Thu Feb 18 11:44:52 2016,OAuthAuthenticationService.java,Mihail Kuznyetsov
+Thu Feb 18 11:44:52 2016,OAuthAuthenticator.java,Mihail Kuznyetsov
+Thu Feb 18 11:44:52 2016,OAuthAuthenticatorAuthorizationHeaderProvider.java,Mihail Kuznyetsov
+Thu Feb 18 11:44:52 2016,OAuthAuthenticatorProvider.java,Mihail Kuznyetsov
+Thu Feb 18 11:44:52 2016,User.java,Mihail Kuznyetsov
+Thu Feb 18 11:44:52 2016,OAuth1.gwt.xml,Mihail Kuznyetsov
+Fri Feb 19  8:29:08 2016,AccountService.java,Mihail Kuznyetsov
+Fri Feb 19  8:29:08 2016,AccountServiceTest.java,Mihail Kuznyetsov
+Thu Mar  3 12:02:09 2016,GitHubClientService.java,Mihail Kuznyetsov
+Thu Mar  3 12:02:09 2016,GitHubClientServiceImpl.java,Mihail Kuznyetsov

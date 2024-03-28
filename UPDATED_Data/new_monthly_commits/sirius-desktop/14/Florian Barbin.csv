@@ -1,0 +1,36 @@
+date_time,file,committer_name
+Mon Oct 13 15:05:11 2014,ResetOriginEditPolicy.java,Florian Barbin
+Mon Oct 13 15:05:11 2014,ResetOriginChangeModelOperation.java,Florian Barbin
+Mon Oct 13 15:05:11 2014,ResetOriginHandler.java,Florian Barbin
+Mon Oct 13 15:06:10 2014,resetOrigin.aird,Florian Barbin
+Mon Oct 13 15:06:10 2014,resetOrigin.ecore,Florian Barbin
+Mon Oct 13 15:06:10 2014,resetOrigin.odesign,Florian Barbin
+Mon Oct 13 15:06:10 2014,ResetDiagramOriginTest.java,Florian Barbin
+Mon Oct 13 15:06:10 2014,AllTestSuite.java,Florian Barbin
+Wed Oct 15  9:00:42 2014,NodeQuery.java,Florian Barbin
+Wed Oct 15  9:00:42 2014,CenterEdgeEndModelChangeOperation.java,Florian Barbin
+Wed Oct 15  9:00:42 2014,GMFHelper.java,Florian Barbin
+Wed Oct 15  9:00:42 2014,EdgeLayoutUpdaterModelChangeTrigger.java,Florian Barbin
+Wed Oct 15  9:00:42 2014,RefreshEdgeLayoutNotificationFilter.java,Florian Barbin
+Wed Oct 15  9:00:42 2014,AbstractSiriusLayoutDataManager.java,Florian Barbin
+Wed Oct 15  9:00:42 2014,Release Notes.html,Florian Barbin
+Wed Oct 15  9:00:42 2014,Release Notes.textile,Florian Barbin
+Wed Oct 15 13:41:22 2014,testReconnect.aird,Florian Barbin
+Wed Oct 15 13:41:22 2014,testReconnect.ecore,Florian Barbin
+Wed Oct 15 13:41:22 2014,testReconnect.odesign,Florian Barbin
+Wed Oct 15 13:41:22 2014,EdgeStabilityOnCopyPasteLayoutTest.java,Florian Barbin
+Wed Oct 15 13:41:22 2014,AllTestSuite.java,Florian Barbin
+Fri Oct 17 12:53:59 2014,CenterEdgeEndModelChangeOperation.java,Florian Barbin
+Fri Oct 17 12:53:59 2014,testReconnect.aird,Florian Barbin
+Fri Oct 17 12:53:59 2014,EdgeStabilityOnCopyPasteLayoutTest.java,Florian Barbin
+Fri Oct 17 12:54:32 2014,DEdgeDiagramElementState.java,Florian Barbin
+Tue Oct 21 12:44:28 2014,SiriusContainerEditPolicy.java,Florian Barbin
+Tue Oct 21 12:44:28 2014,CenterEdgeLayoutCommand.java,Florian Barbin
+Tue Oct 21 15:37:53 2014,SiriusContainerEditPolicy.java,Florian Barbin
+Wed Oct 22  9:42:20 2014,AirResizableEditPolicy.java,Florian Barbin
+Wed Oct 22  9:42:20 2014,SpecificBorderItemSelectionEditPolicy.java,Florian Barbin
+Wed Oct 22  9:42:20 2014,CenterEditPartEdgesCommand.java,Florian Barbin
+Wed Oct 22 13:33:15 2014,RefreshEdgeLayoutNotificationFilter.java,Florian Barbin
+Fri Oct 31 16:07:12 2014,SetReconnectingConnectionBendpointsCommand.java,Florian Barbin
+Fri Oct 31 16:07:12 2014,CenteredEdgesTest.java,Florian Barbin
+Tue Nov  4 15:18:37 2014,AllTestSuite.java,Florian Barbin

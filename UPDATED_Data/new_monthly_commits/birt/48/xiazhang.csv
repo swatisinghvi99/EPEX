@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Sun Jan  4  6:08:48 2009,QueryExecutor.java,xiazhang
+Sun Jan  4  7:49:53 2009,ResultIterator.java,xiazhang
+Wed Jan  7  2:11:37 2009,QueryExecutor.java,xiazhang
+Wed Jan  7  2:14:41 2009,QueryExecutor.java,xiazhang
+Tue Jan 13  9:22:42 2009,ViewingTest.java,xiazhang
+Tue Jan 13  9:22:42 2009,ViewingTest.testSourceQueryIV1withDistinct3.txt,xiazhang
+Tue Jan 13  9:22:42 2009,PreparedIVDataExtractionQuery.java,xiazhang
+Tue Jan 13  9:22:42 2009,PreparedIVQuerySourceQuery.java,xiazhang
+Thu Jan 15  7:49:40 2009,RDGroupUtil.java,xiazhang
+Mon Jan 19  3:52:30 2009,DataRequestSessionImpl.java,xiazhang

@@ -1,0 +1,39 @@
+date_time,file,committer_name
+Wed Apr 19 13:37:51 2023,ApiController.java,Mathias Brunkow Moser
+Thu Apr 20 13:39:05 2023,Application.java,Mathias Brunkow Moser
+Thu Apr 20 13:39:05 2023,AppListener.java,Mathias Brunkow Moser
+Thu Apr 20 13:39:05 2023,ConfigUtil.java,Mathias Brunkow Moser
+Thu Apr 20 13:39:05 2023,EnvUtil.java,Mathias Brunkow Moser
+Thu Apr 20 13:39:05 2023,LogUtil.java,Mathias Brunkow Moser
+Thu Apr 20 13:39:05 2023,application-beta.yml,Mathias Brunkow Moser
+Thu Apr 20 13:39:05 2023,application-dev.yml,Mathias Brunkow Moser
+Thu Apr 20 13:39:05 2023,application-int.yml,Mathias Brunkow Moser
+Thu Apr 20 13:39:05 2023,application.yml,Mathias Brunkow Moser
+Thu Apr 20 13:39:05 2023,configuration-beta.yml,Mathias Brunkow Moser
+Thu Apr 20 13:39:05 2023,configuration-dev.yml,Mathias Brunkow Moser
+Thu Apr 20 13:39:05 2023,configuration-int.yml,Mathias Brunkow Moser
+Thu Apr 20 13:39:05 2023,env.yml,Mathias Brunkow Moser
+Thu Apr 20 13:39:05 2023,ConfigUtilTest.java,Mathias Brunkow Moser
+Mon Apr 24 13:11:23 2023,pom.xml,Mathias Brunkow Moser
+Mon Apr 24 13:11:23 2023,readme.md,Mathias Brunkow Moser
+Mon Apr 24 13:11:23 2023,WebConfig.java,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,.helmignore,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,.helmignore,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,README.md,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,IaC.md,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,SECRETS_MANAGEMENT.md,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,Admin_Guide.md,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,Business Statement.md,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,CYPRESS.md,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,User Manual Product Viewer App.md,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,notFound.scss,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,searchView.scss,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,cards.scss,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,elementChart.scss,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,field.scss,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,passportPage.scss,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,ErrorComponent.vue,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,BarChart.vue,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,Cards.vue,Mathias Brunkow Moser
+Fri Apr 28 15:15:55 2023,threadUtil.js,Mathias Brunkow Moser
+Tue May  9  8:04:44 2023,cypress.config.js,Mathias Brunkow Moser

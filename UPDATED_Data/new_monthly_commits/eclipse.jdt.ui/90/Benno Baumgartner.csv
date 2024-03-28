@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Fri Oct 10 17:27:19 2008,ICleanUp.java,Benno Baumgartner
+Fri Oct 10 17:27:19 2008,AbstractCleanUpTabPage.java,Benno Baumgartner
+Fri Oct 10 17:27:19 2008,CleanUpPreview.java,Benno Baumgartner
+Fri Oct 10 17:27:19 2008,CleanUpTabPage.java,Benno Baumgartner
+Fri Oct 10 17:27:19 2008,CodeFormatingTabPage.java,Benno Baumgartner
+Fri Oct 10 17:27:19 2008,CodeStyleTabPage.java,Benno Baumgartner
+Fri Oct 10 17:27:19 2008,ICleanUpTabPage.java,Benno Baumgartner
+Fri Oct 10 17:27:19 2008,MemberAccessesTabPage.java,Benno Baumgartner
+Fri Oct 10 17:27:19 2008,MissingCodeTabPage.java,Benno Baumgartner
+Fri Oct 10 17:27:19 2008,UnnecessaryCodeTabPage.java,Benno Baumgartner
+Fri Oct 10 18:06:58 2008,CleanUpRegistry.java,Benno Baumgartner
+Fri Oct 10 18:06:58 2008,CleanUpRefactoringWizard.java,Benno Baumgartner
+Fri Oct 10 18:06:58 2008,CleanUpSelectionDialog.java,Benno Baumgartner
+Fri Oct 10 18:06:58 2008,ICleanUp.java,Benno Baumgartner
+Fri Oct 10 18:06:58 2008,SaveActionSelectionDialog.java,Benno Baumgartner
+Fri Oct 10 18:06:58 2008,AbstractCleanUpTabPage.java,Benno Baumgartner
+Fri Oct 10 18:06:58 2008,CleanUpModifyDialog.java,Benno Baumgartner
+Fri Oct 10 18:06:58 2008,ContributedCleanUpTabPage.java,Benno Baumgartner
+Fri Oct 10 18:06:58 2008,ICleanUpTabPage.java,Benno Baumgartner

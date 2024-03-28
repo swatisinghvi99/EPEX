@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Thu Jan  3 20:47:43 2008,IViewerInputRequestor.java,Darin Wright
+Thu Jan  3 20:53:49 2008,ViewerInputService.java,Darin Wright
+Thu Jan  3 20:53:49 2008,VariablesView.java,Darin Wright
+Thu Jan  3 20:59:38 2008,IElementContentProvider.java,Darin Wright
+Thu Jan  3 20:59:38 2008,IElementLabelProvider.java,Darin Wright
+Thu Jan  3 20:59:38 2008,IElementMementoProvider.java,Darin Wright
+Fri Jan  4 15:15:38 2008,CommonTab.java,Darin Wright
+Fri Jan  4 16:08:47 2008,IInternalDebugUIConstants.java,Darin Wright
+Fri Jan  4 16:08:47 2008,ExportLaunchConfigurationsWizardPage.java,Darin Wright
+Fri Jan  4 16:08:47 2008,LaunchCategoryFilter.java,Darin Wright
+Fri Jan  4 16:08:47 2008,LaunchConfigurationsPreferencePage.java,Darin Wright
+Fri Jan  4 16:08:47 2008,LaunchPerspectivePreferencePage.java,Darin Wright
+Mon Jan  7 14:41:19 2008,IOConsole.java,Darin Wright
+Fri Jan 11 14:27:53 2008,ToggleBreakpointAction.java,Darin Wright
+Tue Jan 15 17:53:03 2008,ThreadEventHandler.java,Darin Wright
+Thu Jan 17 20:34:06 2008,MANIFEST.MF,Darin Wright
+Thu Jan 17 20:34:06 2008,ResourceResolver.java,Darin Wright
+Thu Jan 17 20:41:28 2008,ILaunchConfiguration.java,Darin Wright
+Thu Jan 17 20:41:28 2008,ILaunchConfigurationWorkingCopy.java,Darin Wright
+Thu Jan 17 22:53:51 2008,ThreadEventHandler.java,Darin Wright
+Fri Jan 18 14:31:57 2008,TreeModelContentProvider.java,Darin Wright
+Fri Jan 18 14:31:57 2008,ThreadEventHandler.java,Darin Wright

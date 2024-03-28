@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Mon Jun 20 14:15:58 2022,ELUtil.java,Mark Thomas
+Mon Jun 20 14:15:58 2022,ELUtil.java,Mark Thomas
+Mon Jun 20 14:15:58 2022,ELContext.java,Mark Thomas
+Mon Jun 20 14:15:58 2022,ELManager.java,Mark Thomas
+Mon Jun 20 14:15:58 2022,ELUtil.java,Mark Thomas
+Mon Jun 20 14:15:58 2022,ELUtil.java,Mark Thomas
+Mon Jun 20 14:15:58 2022,.gitignore,Mark Thomas
+Mon Jun 20 14:15:58 2022,pom.xml,Mark Thomas
+Mon Jun 20 14:15:58 2022,TestELUtil.java,Mark Thomas
+Mon Jun 20 14:15:58 2022,BeanELResolver.java,Mark Thomas
+Mon Jun 20 14:15:58 2022,ELUtil.java,Mark Thomas
+Mon Jun 20 14:15:58 2022,StaticFieldELResolver.java,Mark Thomas

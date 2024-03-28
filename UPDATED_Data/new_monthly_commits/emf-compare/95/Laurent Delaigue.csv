@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Fri Feb  6  9:27:13 2015,EMFResourceMappingMerger.java,Laurent Delaigue
+Fri Feb  6  9:27:13 2015,EMFCompareStructureMergeViewer.java,Laurent Delaigue
+Fri Feb  6  9:27:13 2015,MonitorCancelTest.java,Laurent Delaigue
+Fri Feb  6  9:27:13 2015,MonitorCancelInputData.java,Laurent Delaigue
+Fri Feb  6  9:27:13 2015,extlibraryLeft.ecore,Laurent Delaigue
+Fri Feb  6  9:27:13 2015,extlibraryOrigin.ecore,Laurent Delaigue
+Fri Feb  6  9:27:13 2015,extlibraryRight.ecore,Laurent Delaigue
+Fri Feb  6  9:27:13 2015,AllTests.java,Laurent Delaigue
+Fri Feb  6  9:27:13 2015,ComparisonCanceledException.java,Laurent Delaigue
+Fri Feb  6  9:27:13 2015,EMFCompare.java,Laurent Delaigue
+Fri Feb  6  9:27:13 2015,DefaultDiffEngine.java,Laurent Delaigue
+Fri Feb  6  9:27:13 2015,emfcomparemessages.properties,Laurent Delaigue
+Fri Feb  6  9:27:13 2015,DefaultEquiEngine.java,Laurent Delaigue
+Fri Feb  6  9:27:13 2015,SafeSubMonitor.java,Laurent Delaigue
+Fri Feb  6  9:27:13 2015,DefaultMatchEngine.java,Laurent Delaigue
+Fri Feb  6  9:27:13 2015,IdentifierEObjectMatcher.java,Laurent Delaigue
+Fri Feb  6  9:27:13 2015,ProximityEObjectMatcher.java,Laurent Delaigue
+Fri Feb  6  9:27:13 2015,DefaultReqEngine.java,Laurent Delaigue
+Mon Feb  9 17:23:42 2015,EMFCompareStructureMergeViewer.java,Laurent Delaigue
+Tue Feb 24 16:00:15 2015,EMFCompareContentMergeViewer.java,Laurent Delaigue
+Tue Feb 24 16:00:15 2015,ManyStructuralFeatureAccessorImpl.java,Laurent Delaigue
+Tue Feb 24 16:00:15 2015,ComparisonUtil.java,Laurent Delaigue

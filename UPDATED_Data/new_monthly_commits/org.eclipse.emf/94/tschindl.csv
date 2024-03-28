@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Fri Apr 22  7:22:38 2011,EMFEditPropertiesTest.java,tschindl
+Fri Apr 22  7:22:39 2011,EMFPropertiesTest.java,tschindl
+Fri Apr 22  7:22:40 2011,IEMFListProperty.java,tschindl
+Fri Apr 22  7:22:40 2011,EMFListPropertyDecorator.java,tschindl
+Fri Apr 22  7:22:40 2011,EMFListValueProperty.java,tschindl
+Fri Apr 22  7:22:40 2011,EMFMultiListProperty.java,tschindl
+Fri Apr 22  7:22:41 2011,IEMFEditListProperty.java,tschindl
+Fri Apr 22  7:22:41 2011,EMFEditListPropertyDecorator.java,tschindl
+Fri Apr 22  7:22:41 2011,EMFEditListValueProperty.java,tschindl
+Fri Apr 22  7:22:41 2011,EMFEditMultiListProperty.java,tschindl
+Fri Apr 22 12:56:27 2011,EMFEditPropertiesTest.java,tschindl
+Fri Apr 22 12:56:28 2011,IEMFListProperty.java,tschindl
+Fri Apr 22 12:56:28 2011,EMFPropertiesTest.java,tschindl
+Fri Apr 22 12:56:29 2011,IEMFEditListProperty.java,tschindl
+Thu May 12 20:44:06 2011,FeaturePath.java,tschindl
+Thu May 12 20:44:07 2011,EMFPropertiesTest.java,tschindl

@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Thu Nov 21 15:02:14 2013,AbstractBean.java,Matej Briskar
+Thu Nov 21 15:02:14 2013,Foo.java,Matej Briskar
+Thu Nov 21 15:02:14 2013,InjectionVisibilityTest.java,Matej Briskar
+Thu Nov 21 15:02:14 2013,SimpleSessionBean.java,Matej Briskar
+Thu Nov 28  8:14:41 2013,EnabledManagedBeanInjectionAvailability02Test.java,Matej Briskar
+Thu Nov 28  8:14:41 2013,EnabledProducerFieldInjectionAvailability02Test.java,Matej Briskar
+Thu Nov 28  8:14:41 2013,EnabledProducerMethodInjectionAvailability02Test.java,Matej Briskar
+Thu Nov 28  8:14:41 2013,EnabledSessionBeanInjectionAvailability02Test.java,Matej Briskar
+Thu Nov 28  8:14:41 2013,InterModuleELResolution02Test.java,Matej Briskar
+Thu Nov 28  8:14:41 2013,InterModuleLookup02Test.java,Matej Briskar
+Thu Nov 28  8:14:41 2013,SelectedAlternativeManagedBeanInjectionAvailability02Test.java,Matej Briskar
+Thu Nov 28  8:14:41 2013,SelectedAlternativeSessionBeanInjectionAvailability02Test.java,Matej Briskar
+Thu Nov 28  8:14:41 2013,SpecializedBeanInjectionNotAvailable02Test.java,Matej Briskar
+Thu Nov 28  8:14:41 2013,SpecializedProducerMethodInjectionNotAvailable02Test.java,Matej Briskar
+Thu Nov 28  8:14:41 2013,tck-audit-cdi.xml,Matej Briskar

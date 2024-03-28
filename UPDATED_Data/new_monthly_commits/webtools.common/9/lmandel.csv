@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Tue Jul 12 22:04:59 2005,PreferenceInitializer.java,lmandel
+Tue Jul 12 22:05:35 2005,LicenseRegistry.java,lmandel
+Wed Jul 13 20:10:27 2005,LicenseAcceptanceDialog.java,lmandel
+Wed Jul 13 22:10:33 2005,CachePluginResources.properties,lmandel
+Wed Jul 13 22:10:33 2005,LicenseRegistry.java,lmandel
+Mon Jul 18 17:43:45 2005,Cache.java,lmandel
+Mon Jul 18 17:43:45 2005,CachePluginResources.properties,lmandel
+Mon Jul 18 17:43:45 2005,LicenseAcceptanceDialog.java,lmandel
+Mon Jul 18 17:46:52 2005,CachePlugin.java,lmandel
+Mon Jul 18 17:46:52 2005,LicenseRegistry.java,lmandel
+Thu Jul 21 22:52:46 2005,ExtensibleURIResolver.java,lmandel

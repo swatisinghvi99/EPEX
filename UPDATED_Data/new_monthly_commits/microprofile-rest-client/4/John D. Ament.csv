@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Sat Oct 28 14:23:08 2017,RestClientBuilder.java,John D. Ament
+Sat Oct 28 14:23:08 2017,RegisterProviders.java,John D. Ament
+Sat Oct 28 14:23:08 2017,AbstractBuilder.java,John D. Ament
+Sat Oct 28 14:23:08 2017,BuilderImpl1.java,John D. Ament
+Sat Oct 28 14:23:08 2017,BuilderImpl2.java,John D. Ament
+Sat Oct 28 14:23:08 2017,microprofile-rest-client.asciidoc,John D. Ament
+Sat Oct 28 14:23:08 2017,programmatic_lookup.asciidoc,John D. Ament
+Sat Oct 28 14:23:08 2017,providers.asciidoc,John D. Ament
+Mon Oct 30  1:45:50 2017,InvokeSimpleGetOperationTest.java,John D. Ament
+Mon Oct 30  1:45:50 2017,InvokeWithRegisteredProvidersTest.java,John D. Ament
+Mon Oct 30  1:45:50 2017,WiremockArquillianTest.java,John D. Ament
+Mon Oct 30  1:45:50 2017,InterfaceWithProvidersDefined.java,John D. Ament
+Mon Oct 30  1:45:50 2017,TestClientRequestFilter.java,John D. Ament
+Mon Oct 30  1:45:50 2017,TestClientResponseFilter.java,John D. Ament
+Mon Oct 30  1:45:50 2017,TestMessageBodyReader.java,John D. Ament
+Mon Oct 30  1:45:50 2017,TestMessageBodyWriter.java,John D. Ament
+Mon Oct 30  1:45:50 2017,TestParamConverter.java,John D. Ament
+Mon Oct 30  1:45:50 2017,TestParamConverterProvider.java,John D. Ament
+Mon Oct 30  1:45:50 2017,TestReaderInterceptor.java,John D. Ament
+Mon Oct 30  1:45:50 2017,TestWriterInterceptor.java,John D. Ament
+Mon Oct 30 23:45:31 2017,InvokeWithBuiltProvidersTest.java,John D. Ament
+Mon Oct 30 23:45:31 2017,InterfaceWithoutProvidersDefined.java,John D. Ament

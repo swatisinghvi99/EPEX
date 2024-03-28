@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Mon Sep 30 10:42:03 2013,RebaseOperation.java,Tobias Pfeifer
+Mon Sep 30 10:42:03 2013,AbortRebaseCommand.java,Tobias Pfeifer
+Mon Sep 30 10:42:03 2013,AbstractRebaseCommandHandler.java,Tobias Pfeifer
+Mon Sep 30 10:42:03 2013,ContinueRebaseCommand.java,Tobias Pfeifer
+Mon Sep 30 10:42:03 2013,RebaseCurrentRefCommand.java,Tobias Pfeifer
+Mon Sep 30 10:42:03 2013,SkipRebaseCommand.java,Tobias Pfeifer
+Mon Sep 30 10:42:03 2013,RebaseCurrentHandler.java,Tobias Pfeifer
+Mon Sep 30 10:42:03 2013,RebaseHelper.java,Tobias Pfeifer
+Mon Sep 30 14:32:55 2013,RebaseResultDialog.java,Tobias Pfeifer
+Mon Sep 30 14:32:55 2013,StagingView.java,Tobias Pfeifer

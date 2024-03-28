@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Thu Apr 22  9:17:13 2010,NavigationArgument.java,Heiko Barth
+Thu Apr 22  9:17:13 2010,NavigationNode.java,Heiko Barth
+Thu Apr 22  9:17:13 2010,NavigationNodeControllerTest.java,Heiko Barth
+Thu Apr 22  9:18:32 2010,NavigationNodeControllerTest.java,Heiko Barth
+Fri Apr 23 12:57:26 2010,UICallbackDispatcher.java,Heiko Barth
+Thu Apr 29  6:32:40 2010,SwtUISynchronizer.java,Heiko Barth
+Thu Apr 29  6:48:46 2010,ModuleGroupView.java,Heiko Barth
+Thu Apr 29  9:03:02 2010,NavigationProcessor.java,Heiko Barth
+Thu Apr 29  9:21:20 2010,ApplicationViewAdvisor.java,Heiko Barth
+Thu May  6  8:58:34 2010,SwtUISynchronizerTest.java,Heiko Barth
+Thu May  6  8:58:34 2010,SwtUISynchronizer.java,Heiko Barth
+Thu May  6  9:32:07 2010,SwtUISynchronizer.java,Heiko Barth
+Fri May  7  7:06:22 2010,RienaLocations.java,Heiko Barth
+Fri May  7  7:06:22 2010,JavaSystemPropertiesResolver.java,Heiko Barth
+Fri May  7 10:32:45 2010,ApplicationAdvisor.java,Heiko Barth
+Fri May  7 10:32:45 2010,SwtUISynchronizer.java,Heiko Barth
+Fri May  7 12:20:08 2010,plugin.xml,Heiko Barth
+Fri May  7 12:20:08 2010,DemoTargetNodeAssembler.java,Heiko Barth
+Fri May  7 12:20:08 2010,NavigationProcessor.java,Heiko Barth
+Fri May  7 12:20:08 2010,NavigationProcessorTest.java,Heiko Barth
+Fri May  7 12:39:07 2010,ApplicationAdvisor.java,Heiko Barth
+Fri May  7 12:39:07 2010,SwtUISynchronizer.java,Heiko Barth
+Fri May  7 13:03:02 2010,NavigationProcessor.java,Heiko Barth
+Mon May 10  9:41:30 2010,RienaLocationsTest.java,Heiko Barth

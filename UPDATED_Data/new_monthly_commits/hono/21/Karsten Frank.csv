@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Tue Oct 10  8:52:26 2017,CredentialsRestServerTest.java,Karsten Frank
+Tue Oct 10 12:07:40 2017,CredentialsRestServerTest.java,Karsten Frank
+Wed Oct 11 11:03:13 2017,CredentialsApiAuthProvider.java,Karsten Frank
+Wed Oct 11 12:35:08 2017,VertxBasedMqttProtocolAdapter.java,Karsten Frank
+Thu Oct 12 11:41:21 2017,FileBasedCredentialsService.java,Karsten Frank
+Thu Oct 12 11:41:21 2017,FileBasedRegistrationService.java,Karsten Frank
+Wed Oct 18 11:48:10 2017,UpstreamReceiverImpl.java,Karsten Frank
+Fri Oct 20 14:42:57 2017,AbstractRequestResponseClient.java,Karsten Frank
+Fri Oct 20 14:42:57 2017,AbstractRequestResponseClientTest.java,Karsten Frank
+Fri Oct 20 14:42:57 2017,RegistrationConstants.java,Karsten Frank
+Fri Oct 20 14:42:57 2017,RequestResponseApiConstants.java,Karsten Frank
+Fri Oct 20 14:42:57 2017,CredentialsHttpEndpoint.java,Karsten Frank
+Fri Oct 20 14:42:57 2017,RegistrationHttpEndpoint.java,Karsten Frank
+Fri Oct 20 14:42:57 2017,BaseCredentialsServiceTest.java,Karsten Frank
+Fri Oct 20 14:42:57 2017,RegistrationTestSupport.java,Karsten Frank

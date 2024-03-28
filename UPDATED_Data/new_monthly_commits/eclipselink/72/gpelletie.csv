@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Tue Jul 16 15:34:44 2013,ConverterClass.java,gpelletie
+Tue Jul 16 15:34:44 2013,persistence.xml,gpelletie
+Tue Jul 16 15:34:44 2013,AdvancedTableCreator.java,gpelletie
+Tue Jul 16 15:34:44 2013,Runner.java,gpelletie
+Tue Jul 16 15:34:44 2013,RunnerTag.java,gpelletie
+Tue Jul 16 15:34:44 2013,TagConverter.java,gpelletie
+Tue Jul 16 15:34:44 2013,ConverterTestSuite.java,gpelletie
+Tue Jul 16 15:34:44 2013,MetadataProject.java,gpelletie
+Tue Jul 16 15:34:44 2013,ConverterAccessor.java,gpelletie
+Tue Jul 16 15:34:44 2013,BasicAccessor.java,gpelletie
+Tue Jul 16 15:34:44 2013,BasicCollectionAccessor.java,gpelletie
+Tue Jul 16 15:34:44 2013,CollectionAccessor.java,gpelletie
+Tue Jul 16 15:34:44 2013,DirectCollectionAccessor.java,gpelletie
+Tue Jul 16 15:34:44 2013,ElementCollectionAccessor.java,gpelletie
+Tue Jul 16 15:34:44 2013,MappedKeyMapAccessor.java,gpelletie
+Tue Jul 16 15:34:44 2013,MappingAccessor.java,gpelletie
+Tue Jul 16 15:34:44 2013,MetadataAnnotatedElement.java,gpelletie
+Tue Jul 16 15:34:44 2013,MetadataClass.java,gpelletie
+Thu Jul 18 20:54:07 2013,DirectCollectionMapping.java,gpelletie
+Thu Jul 18 20:54:07 2013,DirectMapMapping.java,gpelletie

@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Wed Mar  9 17:34:44 2022,package-info.java,Emilie Robichaud
+Wed Mar  9 17:34:44 2022,primitiveBagsAPI.stg,Emilie Robichaud
+Wed Mar  9 17:34:44 2022,immutablePrimitiveBagFactoryImpl.stg,Emilie Robichaud
+Wed Mar  9 17:34:44 2022,mutablePrimitiveBagFactoryImpl.stg,Emilie Robichaud
+Wed Mar  9 17:34:44 2022,serviceImmutablePrimitiveBagFactory.stg,Emilie Robichaud
+Wed Mar  9 17:34:44 2022,serviceMutablePrimitiveBagFactory.stg,Emilie Robichaud
+Wed Mar  9 17:34:44 2022,primitiveBagsTest.stg,Emilie Robichaud
+Mon Mar 21 16:37:39 2022,Sets.java,Emilie Robichaud
+Mon Mar 21 16:37:39 2022,MultiReaderMutableSetFactory.java,Emilie Robichaud
+Mon Mar 21 16:37:39 2022,org.eclipse.collections.api.factory.set.MultiReaderSetFactory,Emilie Robichaud
+Mon Mar 21 16:37:39 2022,SetsTest.java,Emilie Robichaud
+Thu Mar 24 15:24:25 2022,MapIterable.java,Emilie Robichaud
+Thu Mar 24 15:24:25 2022,MapIterableTestCase.java,Emilie Robichaud
+Thu Mar 24 15:24:25 2022,MapIterableTestCase.java,Emilie Robichaud

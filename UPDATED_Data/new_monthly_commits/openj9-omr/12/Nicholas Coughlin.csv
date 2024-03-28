@@ -1,0 +1,7 @@
+date_time,file,committer_name
+Thu Feb  9 21:47:46 2017,OMRCompilation.cpp,Nicholas Coughlin
+Fri Feb 24 18:13:10 2017,OMROptions.cpp,Nicholas Coughlin
+Fri Feb 24 18:13:10 2017,OMROptimizer.cpp,Nicholas Coughlin
+Fri Feb 24 18:13:10 2017,Optimizations.enum,Nicholas Coughlin
+Fri Feb 24 18:13:10 2017,ValuePropagation.cpp,Nicholas Coughlin
+Fri Feb 24 18:13:10 2017,OMRResolvedMethodSymbol.cpp,Nicholas Coughlin

@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Tue Feb 13  9:39:58 2018,ClientSleepingException.java,Carlos Gonzalo
+Tue Feb 13  9:39:58 2018,LeshanServer.java,Carlos Gonzalo
+Tue Feb 13  9:39:58 2018,LwM2mServer.java,Carlos Gonzalo
+Tue Feb 13  9:39:58 2018,Presence.java,Carlos Gonzalo
+Tue Feb 13  9:39:58 2018,PresenceListener.java,Carlos Gonzalo
+Tue Feb 13  9:39:58 2018,PresenceService.java,Carlos Gonzalo
+Tue Feb 13  9:39:58 2018,PresenceServiceImpl.java,Carlos Gonzalo
+Tue Feb 13  9:39:58 2018,PresenceStateListener.java,Carlos Gonzalo
+Tue Feb 13  9:39:58 2018,PresenceStatus.java,Carlos Gonzalo
+Tue Feb 13  9:39:58 2018,QueueModeLwM2mRequestSender.java,Carlos Gonzalo
+Tue Feb 13  9:39:58 2018,Registration.java,Carlos Gonzalo
+Tue Feb 13  9:39:58 2018,PresenceServiceTest.java,Carlos Gonzalo
+Tue Feb 13  9:39:58 2018,ClientServlet.java,Carlos Gonzalo
+Thu Mar  1 17:05:47 2018,LeshanServerBuilder.java,Carlos Gonzalo
+Thu Mar  1 17:05:47 2018,LeshanServer.java,Carlos Gonzalo
+Thu Mar  1 17:05:47 2018,ClientAwakeTimeProvider.java,Carlos Gonzalo
+Thu Mar  1 17:05:47 2018,PresenceListener.java,Carlos Gonzalo
+Thu Mar  1 17:05:47 2018,PresenceServiceImpl.java,Carlos Gonzalo
+Thu Mar  1 17:05:47 2018,PresenceStatus.java,Carlos Gonzalo
+Thu Mar  1 17:05:47 2018,StaticClientAwakeTimeProvider.java,Carlos Gonzalo
+Thu Mar  1 17:05:47 2018,PresenceServiceTest.java,Carlos Gonzalo

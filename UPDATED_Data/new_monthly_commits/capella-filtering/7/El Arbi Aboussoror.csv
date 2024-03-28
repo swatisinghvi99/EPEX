@@ -1,0 +1,132 @@
+date_time,file,committer_name
+Thu May 16 13:58:42 2019,feature.xml,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,feature.xml,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,feature.xml,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,pom.xml,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MANIFEST.MF,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MANIFEST.MF,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,Filtering.vp,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MANIFEST.MF,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MANIFEST.MF,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MANIFEST.MF,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MANIFEST.MF,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MANIFEST.MF,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MANIFEST.MF,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,filtering.ecore,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,plugin.xml,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MANIFEST.MF,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,plugin.xml,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,FilteringItemProviderAdapterFactory.java,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MANIFEST.MF,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,filtering.ecore,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,plugin.xml,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,AssociatedFilteringCriterionSet.java,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,CreationDefaultFilteringCriterionSet.java,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,FilteringModel.java,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,FilteringPackage.java,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,FilteringResults.java,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,FilteringPackageImpl.java,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MANIFEST.MF,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,plugin.xml,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,CriteriaMultipleSemanticField.java,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,IndirectCapellaElementCriteriaMultipleSemanticField.java,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MANIFEST.MF,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MANIFEST.MF,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MANIFEST.MF,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,plugin.xml,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MANIFEST.MF,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,plugin.xml,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MANIFEST.MF,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,filtering.ecore,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,pom.xml,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,pom.xml,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,category.xml,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,pom.xml,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,capella.target-definition.targetplatform,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,pom.xml,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MANIFEST.MF,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,FilteringServicesTestModel.afm,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,FilteringServicesTestModel.aird,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,FilteringServicesTestModel.melodymodeller,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MyLib.afm,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MyLib.aird,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,MyLib.melodymodeller,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,TestLib.afm,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,TestLib.aird,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,TestLib.melodymodeller,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,DieselFilteringResult.afm,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,DieselFilteringResult.aird,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,DieselFilteringResult.melodymodeller,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,HybridFilteringResult.afm,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,HybridFilteringResult.aird,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,HybridFilteringResult.melodymodeller,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,PetrolFilteringResult.afm,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,PetrolFilteringResult.aird,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,PetrolFilteringResult.melodymodeller,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,TestSPLProject.afm,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,TestSPLProject.aird,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,TestSPLProject.melodymodeller,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,EmptyFilteringResult.afm,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,EmptyFilteringResult.aird,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,EmptyFilteringResult.melodymodeller,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,FilteringResult.afm,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,FilteringResult.aird,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,FilteringResult.melodymodeller,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,LA-Logical Functions-RLF-OA2-SysOA2_1.airdfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,LA-Logical Functions-RLF-OA2-SysOA2_1.melodyfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,LA-Logical System-LC2.airdfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,LA-Logical System-LC2.melodyfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,SA-Capabilities-OC1.airdfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,SA-Capabilities-OC1.melodyfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,SA-Data.airdfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,SA-Data.melodyfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,sysmodel.patterns,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,templatePattern.patterns,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,sysmodel.afm,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,sysmodel.aird,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,sysmodel.melodymodeller,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,.project,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,S_Empty_FR.afm,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,S_Empty_FR.aird,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,S_Empty_FR.melodymodeller,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,LA-Logical Functions-RLF-OA2-SysOA2_1.airdfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,LA-Logical Functions-RLF-OA2-SysOA2_1.melodyfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,LA-Logical System-LC2.airdfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,LA-Logical System-LC2.melodyfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,SA-Capabilities-OC1.airdfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,SA-Capabilities-OC1.melodyfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,SA-Data.airdfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,SA-Data.melodyfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,sysmodel.patterns,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,templatePattern.patterns,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,.project,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,S_FR1.afm,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,S_FR1.aird,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,S_FR1.melodymodeller,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,LA-Logical Functions-RLF-OA2-SysOA2_1.airdfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,LA-Logical Functions-RLF-OA2-SysOA2_1.melodyfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,LA-Logical System-LC2.airdfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,LA-Logical System-LC2.melodyfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,SA-Capabilities-OC1.airdfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,SA-Capabilities-OC1.melodyfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,SA-Data.airdfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,SA-Data.melodyfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,sysmodel.patterns,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,templatePattern.patterns,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,.project,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,S_FR2.afm,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,S_FR2.aird,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,S_FR2.melodymodeller,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,LA-Logical Functions-RLF-OA2-SysOA2_1.airdfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,LA-Logical Functions-RLF-OA2-SysOA2_1.melodyfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,LA-Logical System-LC2.airdfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,LA-Logical System-LC2.melodyfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,SA-Capabilities-OC1.airdfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,SA-Capabilities-OC1.melodyfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,SA-Data.airdfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,SA-Data.melodyfragment,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,sysmodel.patterns,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,templatePattern.patterns,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,pom.xml,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,DerivationTestCase.java,El Arbi Aboussoror
+Thu May 16 13:58:42 2019,feature.xml,El Arbi Aboussoror

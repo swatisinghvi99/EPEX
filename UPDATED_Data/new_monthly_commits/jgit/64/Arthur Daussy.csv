@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Wed Jan  7 18:52:06 2015,MANIFEST.MF,Arthur Daussy
+Wed Jan  7 18:52:06 2015,AttributeNodeTest.java,Arthur Daussy
+Wed Jan  7 18:52:06 2015,AttributeTest.java,Arthur Daussy
+Wed Jan  7 18:52:06 2015,AttributesMatcherTest.java,Arthur Daussy
+Wed Jan  7 18:52:06 2015,AttributesNodeDirCacheIteratorTest.java,Arthur Daussy
+Wed Jan  7 18:52:06 2015,AttributesNodeWorkingTreeIteratorTest.java,Arthur Daussy
+Wed Jan  7 18:52:06 2015,MANIFEST.MF,Arthur Daussy
+Wed Jan  7 18:52:06 2015,Attribute.java,Arthur Daussy
+Wed Jan  7 18:52:06 2015,AttributesNode.java,Arthur Daussy
+Wed Jan  7 18:52:06 2015,AttributesRule.java,Arthur Daussy
+Wed Jan  7 18:52:06 2015,package-info.java,Arthur Daussy
+Wed Jan  7 18:52:06 2015,DirCacheIterator.java,Arthur Daussy
+Wed Jan  7 18:52:06 2015,FastIgnoreRule.java,Arthur Daussy
+Wed Jan  7 18:52:06 2015,IMatcher.java,Arthur Daussy
+Wed Jan  7 18:52:06 2015,ConfigConstants.java,Arthur Daussy
+Wed Jan  7 18:52:06 2015,Constants.java,Arthur Daussy
+Wed Jan  7 18:52:06 2015,CoreConfig.java,Arthur Daussy
+Wed Jan  7 18:52:06 2015,WorkingTreeIterator.java,Arthur Daussy

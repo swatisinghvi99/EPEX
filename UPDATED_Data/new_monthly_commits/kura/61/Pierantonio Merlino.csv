@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Wed Dec 19 15:43:36 2018,BluetoothAdapter.java,Pierantonio Merlino
+Wed Dec 19 15:43:36 2018,BluetoothBeaconCommandListener.java,Pierantonio Merlino
+Wed Dec 19 15:43:36 2018,BluetoothBeaconData.java,Pierantonio Merlino
+Wed Dec 19 15:43:36 2018,BluetoothBeaconScanListener.java,Pierantonio Merlino
+Wed Dec 19 15:43:36 2018,BluetoothConnector.java,Pierantonio Merlino
+Wed Dec 19 15:43:36 2018,BluetoothDevice.java,Pierantonio Merlino
+Wed Dec 19 15:43:36 2018,BluetoothGatt.java,Pierantonio Merlino
+Wed Dec 19 15:43:36 2018,BluetoothGattCharacteristic.java,Pierantonio Merlino
+Wed Dec 19 15:43:36 2018,BluetoothGattSecurityLevel.java,Pierantonio Merlino
+Wed Dec 19 15:43:36 2018,BluetoothGattService.java,Pierantonio Merlino
+Wed Dec 19 15:43:36 2018,BluetoothLeNotificationListener.java,Pierantonio Merlino
+Wed Dec 19 15:43:36 2018,BluetoothLeScanListener.java,Pierantonio Merlino
+Wed Dec 19 15:43:36 2018,BluetoothService.java,Pierantonio Merlino
+Wed Dec 19 15:43:36 2018,AdvertisingReportRecord.java,Pierantonio Merlino
+Wed Dec 19 15:43:36 2018,BluetoothAdvertisementData.java,Pierantonio Merlino
+Wed Dec 19 15:43:36 2018,BluetoothAdvertisementScanListener.java,Pierantonio Merlino
+Mon Jan  7 16:52:39 2019,kura.build.properties,Pierantonio Merlino
+Mon Jan  7 16:52:39 2019,LinuxDns.java,Pierantonio Merlino

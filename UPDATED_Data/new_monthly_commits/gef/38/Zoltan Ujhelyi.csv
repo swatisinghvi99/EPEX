@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Tue Jan  7 19:25:06 2014,MANIFEST.MF,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,LayoutStyles.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,AlgorithmHelper.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,GridLayoutAlgorithm.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,HorizontalShiftAlgorithm.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,RadialLayoutAlgorithm.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,SpaceTreeLayoutAlgorithm.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,SpringLayoutAlgorithm.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,SugiyamaLayoutAlgorithm.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,TreeLayoutAlgorithm.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,DisplayIndependentDimension.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,DisplayIndependentPoint.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,DisplayIndependentRectangle.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,EntityLayout.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,LayoutContext.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,DefaultSubgraph.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,FigureSubgraph.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,Graph.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,GraphContainer.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,IContainer.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,InternalLayoutContext.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,InternalNodeLayout.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,CustomLayout.java,Zoltan Ujhelyi
+Tue Jan  7 19:25:06 2014,CustomLayout.java,Zoltan Ujhelyi

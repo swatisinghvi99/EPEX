@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Jun  4  2:48:01 2018,StubUtility.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,Checks.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,CollectingSearchRequestor.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,RefactoringAvailabilityTester.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,RefactoringScopeFactory.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,RefactoringSearchEngine.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,SearchResultGroup.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,ReferencesInBinaryContext.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,DynamicValidationRefactoringChange.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,DynamicValidationStateChange.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,WorkspaceTracker.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,AccessAnalyzer.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,SelfEncapsulateFieldRefactoring.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,TextChangeManager.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,SearchUtils.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,CUCorrectionProposal.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,GetterSetterCorrectionSubProcessor.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,LocalCorrectionsSubProcessor.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,SelfEncapsulateFieldProposal.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,CodeActionHandler.java,Yaohai Zheng
+Mon Jun  4  2:48:01 2018,LocalCorrectionQuickFixTest.java,Yaohai Zheng

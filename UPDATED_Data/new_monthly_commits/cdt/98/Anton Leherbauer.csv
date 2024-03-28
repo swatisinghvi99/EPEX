@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Tue Aug 10 10:45:07 2010,AbstractDebugTextHover.java,Anton Leherbauer
+Fri Aug 13  9:36:38 2010,DefaultMultilineCommentAutoEditStrategy.java,Anton Leherbauer
+Fri Aug 13  9:36:38 2010,DoxygenMultilineAutoEditStrategy.java,Anton Leherbauer
+Fri Aug 13  9:37:02 2010,ProblemsLabelDecorator.java,Anton Leherbauer
+Fri Aug 13 10:55:09 2010,MarkOccurrenceTest.java,Anton Leherbauer
+Fri Aug 13 10:55:44 2010,CodeFormatterVisitor.java,Anton Leherbauer
+Fri Aug 13 10:55:44 2010,CodeFormatterTest.java,Anton Leherbauer
+Fri Aug 13 10:55:44 2010,CodeFormatterUtil.java,Anton Leherbauer
+Fri Aug 13 11:32:49 2010,MANIFEST.MF,Anton Leherbauer
+Fri Aug 13 11:32:49 2010,DefaultMultilineCommentAutoEditStrategy.java,Anton Leherbauer
+Fri Aug 13 11:55:54 2010,TranslationUnitContextType.java,Anton Leherbauer
+Fri Aug 13 12:03:58 2010,CElementHyperlink.java,Anton Leherbauer
+Fri Aug 20  7:57:21 2010,DisassemblyDocument.java,Anton Leherbauer
+Fri Aug 20  8:06:11 2010,AbstractCachingVMProvider.java,Anton Leherbauer
+Fri Aug 20  8:06:11 2010,IVMUpdatePolicy.java,Anton Leherbauer
+Fri Aug 20  8:21:32 2010,ExclusivePositionUpdater.java,Anton Leherbauer
+Tue Aug 24 11:26:36 2010,CNavigatorDropAdapterAssistant.java,Anton Leherbauer
+Wed Aug 25 14:28:41 2010,DisassemblyBackendDsf.java,Anton Leherbauer
+Thu Aug 26  8:49:26 2010,DoxygenMultilineAutoEditStrategy.java,Anton Leherbauer
+Thu Aug 26  9:26:05 2010,DisassemblyBackendDsf.java,Anton Leherbauer

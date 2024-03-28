@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Fri Jul  5  9:14:13 2013,AbstractModelScope.java,Olivier Constant
+Fri Jul  5  9:14:13 2013,ModelScopeIterator.java,Olivier Constant
+Fri Jul  5  9:14:13 2013,MultiResourceTreeIterator.java,Olivier Constant
+Tue Jul 16 16:20:36 2013,EMFDiffMergeUIPlugin.java,Olivier Constant
+Tue Jul 16 16:20:36 2013,EObjectScopeSpecification.java,Olivier Constant
+Tue Jul 16 16:20:36 2013,ResourceScopeSpecification.java,Olivier Constant
+Tue Jul 16 16:20:36 2013,DiffMergeLabelProvider.java,Olivier Constant
+Tue Jul 16 16:20:36 2013,UIUtil.java,Olivier Constant

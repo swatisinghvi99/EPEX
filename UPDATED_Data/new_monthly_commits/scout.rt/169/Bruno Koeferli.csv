@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Fri Jan 12 14:59:30 2024,LegacySecurityProviderTest.java,Bruno Koeferli
+Fri Jan 12 14:59:30 2024,SecurityUtilityTest.java,Bruno Koeferli
+Fri Jan 12 14:59:30 2024,ILegacySecurityProvider.java,Bruno Koeferli
+Fri Jan 12 14:59:30 2024,ISecurityProvider.java,Bruno Koeferli
+Fri Jan 12 14:59:30 2024,SecurityUtility.java,Bruno Koeferli
+Fri Jan 12 14:59:30 2024,SunSecurityProvider.java,Bruno Koeferli
+Fri Jan 12 14:59:30 2024,UiNotificationRegistry.java,Bruno Koeferli
+Wed Jan 24 15:21:00 2024,pom.xml,Bruno Koeferli
+Wed Jan 24 15:21:00 2024,JvmMetricProvider.java,Bruno Koeferli
+Wed Jan 24 15:21:00 2024,pom.xml,Bruno Koeferli

@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Tue May 17 19:12:29 2011,PersistenceUnitProperties.java,David Minsky
+Tue May 17 19:12:29 2011,UnitOfWorkImpl.java,David Minsky
+Tue May 17 19:12:29 2011,EntityManagerFactoryImpl.java,David Minsky
+Tue May 24 16:08:15 2011,JUnitJPQLParameterTestSuite.java,David Minsky
+Tue May 31 18:22:35 2011,QueryHints.java,David Minsky
+Tue May 31 18:22:35 2011,CacheableModelJunitTest.java,David Minsky
+Tue May 31 18:22:35 2011,EntityManagerImpl.java,David Minsky
+Tue May 31 18:22:35 2011,QueryHintsHandler.java,David Minsky
+Wed Jun  1 19:53:57 2011,LockOnCloneDeadlockAvoidanceTest.java,David Minsky
+Tue Jun  7 17:32:39 2011,AbstractDirectMapping.java,David Minsky
+Tue Jun  7 17:32:39 2011,TestBasicFieldTypes.java,David Minsky
+Tue Jun  7 17:32:39 2011,TestBasicPropertyTypes.java,David Minsky

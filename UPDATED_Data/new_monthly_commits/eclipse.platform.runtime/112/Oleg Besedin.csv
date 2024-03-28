@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Fri Aug 20 18:52:18 2010,ContextObjectSupplier.java,Oleg Besedin
+Fri Aug 20 18:52:18 2010,IContextRecorder.java,Oleg Besedin
+Fri Aug 20 18:52:18 2010,RunAndTrackExt.java,Oleg Besedin
+Fri Aug 20 18:52:18 2010,TrackableComputationExt.java,Oleg Besedin
+Fri Aug 20 18:52:18 2010,PrimaryObjectSupplier.java,Oleg Besedin
+Fri Aug 20 18:52:18 2010,ConstructorRequestor.java,Oleg Besedin
+Fri Aug 20 18:52:18 2010,InjectorImpl.java,Oleg Besedin
+Fri Aug 20 18:52:18 2010,MethodRequestor.java,Oleg Besedin
+Fri Aug 20 18:52:18 2010,Requestor.java,Oleg Besedin
+Fri Aug 20 18:52:18 2010,InjectionUpdateTest.java,Oleg Besedin
+Fri Aug 20 18:52:18 2010,InvokeInRATTest.java,Oleg Besedin
+Mon Aug 23 15:01:08 2010,Computation.java,Oleg Besedin
+Mon Aug 23 15:01:08 2010,EclipseContext.java,Oleg Besedin
+Mon Aug 23 15:01:08 2010,ValueComputation.java,Oleg Besedin
+Mon Aug 23 15:01:08 2010,DependenciesLeakTest.java,Oleg Besedin
+Mon Aug 23 15:01:08 2010,CoreTestSuite.java,Oleg Besedin

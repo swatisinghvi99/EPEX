@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Thu Sep  9 11:11:24 2021,ExtendedLegendUI.java,Matthias Mailänder
+Thu Sep  9 11:11:24 2021,MappingsDialog.java,Matthias Mailänder
+Thu Sep  9 11:11:24 2021,MappingsSupport.java,Matthias Mailänder
+Thu Sep  9 11:11:24 2021,SeriesLabelProvider.java,Matthias Mailänder
+Thu Sep  9 11:11:24 2021,SeriesListUI.java,Matthias Mailänder
+Thu Sep  9 11:11:24 2021,SeriesMapper.java,Matthias Mailänder
+Thu Sep  9 11:11:24 2021,EmbeddedLegend.java,Matthias Mailänder
+Thu Sep  9 11:11:24 2021,MappingsIO.java,Matthias Mailänder
+Thu Sep  9 11:11:24 2021,SeriesComparator.java,Matthias Mailänder
+Thu Sep  9 11:11:24 2021,SeriesEditingSupport.java,Matthias Mailänder
+Thu Sep  9 11:11:24 2021,AbstractMenuListener.java,Matthias Mailänder
+Thu Sep  9 11:11:24 2021,HideInLegendAction.java,Matthias Mailänder
+Thu Sep  9 11:11:24 2021,HideSeriesAction.java,Matthias Mailänder
+Thu Sep  9 11:11:24 2021,SetColorAction.java,Matthias Mailänder
+Thu Sep  9 11:11:24 2021,SetDescriptionAction.java,Matthias Mailänder
+Thu Sep  9 11:11:24 2021,ShowInLegendAction.java,Matthias Mailänder
+Thu Sep  9 11:11:24 2021,ShowSeriesAction.java,Matthias Mailänder
+Thu Sep  9 11:51:30 2021,ExtendedLegendUI.java,Matthias Mailänder
+Thu Sep  9 11:51:30 2021,ResourceSupport.java,Matthias Mailänder

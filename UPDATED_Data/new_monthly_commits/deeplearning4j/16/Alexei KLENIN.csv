@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Tue Oct  6  2:25:01 2020,ReflectionUtils.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,OpValidation.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,BasicNDArrayCompressor.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,NormalizerSerializer.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,Nd4j.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,Nd4jBackend.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,BaseLegacyDeserializer.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,SystemInfo.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,VersionCheck.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,NativeOpsHolder.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,BaseNd4jTest.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,Nd4jTestSuite.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,Preconditions.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,ND4JClassLoading.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,ClassPathResource.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,ClassUtils.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,ReflectionUtils.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,ResourceUtils.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,Resources.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,ReflectionUtils.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,DriverFinder.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,HSqlLoaderTest.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,VoidMessage.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,TrainerProvider.java,Alexei KLENIN
+Tue Oct  6  2:25:01 2020,ParameterServerSubscriber.java,Alexei KLENIN

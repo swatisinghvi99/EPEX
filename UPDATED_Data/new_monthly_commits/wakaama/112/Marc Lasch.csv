@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Thu Nov  9 15:25:37 2023,internals.h,Marc Lasch
+Thu Nov  9 15:25:37 2023,registration.c,Marc Lasch
+Thu Nov  9 15:25:37 2023,utils.c,Marc Lasch
+Thu Nov  9 15:25:37 2023,cbor.c,Marc Lasch
+Thu Nov  9 15:25:37 2023,data.c,Marc Lasch
+Thu Nov  9 15:25:37 2023,senml_cbor.c,Marc Lasch
+Thu Nov  9 15:25:37 2023,senml_common.c,Marc Lasch
+Thu Nov  9 15:25:37 2023,commandline.c,Marc Lasch
+Thu Nov  9 15:25:37 2023,liblwm2m.h,Marc Lasch
+Thu Nov  9 15:25:37 2023,cbor_tests.c,Marc Lasch
+Thu Nov  9 15:25:37 2023,senml_cbor_tests.c,Marc Lasch
+Thu Nov  9 15:25:37 2023,wakaama.cmake,Marc Lasch
+Thu Nov  9 15:25:37 2023,tests.h,Marc Lasch
+Thu Nov  9 15:25:37 2023,cbor.c,Marc Lasch
+Thu Nov  9 15:25:37 2023,commandline.c,Marc Lasch
+Thu Nov  9 15:25:37 2023,cbor_tests.c,Marc Lasch
+Thu Nov  9 15:25:37 2023,cbor.c,Marc Lasch
+Thu Nov  9 15:25:37 2023,cbor_tests.c,Marc Lasch
+Thu Nov  9 15:25:37 2023,cbor.c,Marc Lasch
+Thu Nov  9 15:25:37 2023,senml_cbor.c,Marc Lasch
+Thu Nov  9 15:25:37 2023,cbor_tests.c,Marc Lasch
+Thu Nov  9 15:25:37 2023,senml_cbor_tests.c,Marc Lasch

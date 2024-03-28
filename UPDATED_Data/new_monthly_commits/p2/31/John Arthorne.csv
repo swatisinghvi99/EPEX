@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Mon Jul 14 13:51:10 2008,IUPropertyRemoval.java,John Arthorne
+Mon Jul 14 20:43:52 2008,ConfiguratorCommandProvider.java,John Arthorne
+Thu Aug  7 14:57:38 2008,GarbageCollector.java,John Arthorne
+Fri Aug  8 20:40:56 2008,EquinoxBundlesState.java,John Arthorne
+Fri Aug  8 20:44:06 2008,Util.java,John Arthorne
+Fri Aug  8 21:22:11 2008,MANIFEST.MF,John Arthorne
+Fri Aug  8 21:22:11 2008,Activator.java,John Arthorne
+Fri Aug  8 21:22:11 2008,SimpleConfiguratorManipulatorImpl.java,John Arthorne
+Fri Aug  8 21:22:11 2008,SimpleConfiguratorConstants.java,John Arthorne

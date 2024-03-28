@@ -1,0 +1,44 @@
+date_time,file,committer_name
+Thu Nov 11 19:58:32 2021,StyleComboProvider.java,Wim Jongman
+Thu Nov 11 19:58:32 2021,DualRadioButtonPropertyDescriptor.java,Wim Jongman
+Thu Nov 11 19:58:32 2021,GraphicalEditorWithFlyoutPalette.java,Wim Jongman
+Thu Nov 11 19:58:32 2021,StyleCombo.java,Wim Jongman
+Thu Nov 11 19:58:32 2021,TabbedPropertyList.java,Wim Jongman
+Thu Nov 11 19:58:32 2021,ImageCanvas.java,Wim Jongman
+Thu Nov 11 19:58:32 2021,UIUtil.java,Wim Jongman
+Sat Nov 13 14:02:25 2021,ci.yml,Wim Jongman
+Sat Nov 13 14:02:25 2021,BIRT.setup,Wim Jongman
+Sat Nov 13 14:02:25 2021,BIRT Chart Test.launch,Wim Jongman
+Sat Nov 13 14:02:25 2021,BIRT all-in-one.launch,Wim Jongman
+Sat Nov 13 14:02:25 2021,org.eclipse.birt.target.target,Wim Jongman
+Sat Nov 13 14:02:25 2021,MANIFEST.MF,Wim Jongman
+Sat Nov 13 14:02:25 2021,ImageOutputBaseTest.java,Wim Jongman
+Sat Nov 13 14:02:25 2021,MonthDateFormatTest.java,Wim Jongman
+Sat Nov 13 14:02:25 2021,ChartUtilTest.java,Wim Jongman
+Sat Nov 13 14:02:25 2021,.classpath,Wim Jongman
+Sat Nov 13 14:02:25 2021,.project,Wim Jongman
+Sat Nov 13 14:02:25 2021,org.eclipse.jdt.core.prefs,Wim Jongman
+Sat Nov 13 14:02:25 2021,MANIFEST.MF,Wim Jongman
+Sat Nov 13 14:02:25 2021,build.properties,Wim Jongman
+Sat Nov 13 14:02:25 2021,pom.xml,Wim Jongman
+Sat Nov 13 14:02:25 2021,empty.txt,Wim Jongman
+Sat Nov 13 14:02:25 2021,.classpath,Wim Jongman
+Sat Nov 13 14:02:25 2021,.project,Wim Jongman
+Sat Nov 13 14:02:25 2021,org.eclipse.jdt.core.prefs,Wim Jongman
+Sat Nov 13 14:02:25 2021,MANIFEST.MF,Wim Jongman
+Sat Nov 13 14:02:25 2021,build.properties,Wim Jongman
+Sat Nov 13 14:02:25 2021,pom.xml,Wim Jongman
+Sat Nov 13 14:02:25 2021,empty.txt,Wim Jongman
+Sat Nov 13 14:02:25 2021,pom.xml,Wim Jongman
+Sat Nov 13 14:02:25 2021,ErrorDialog.java,Wim Jongman
+Sat Nov 13 14:02:25 2021,feature.xml,Wim Jongman
+Sat Nov 13 14:02:25 2021,feature.xml,Wim Jongman
+Sat Nov 13 14:02:25 2021,feature.xml,Wim Jongman
+Wed Nov 24  0:01:41 2021,ci.yml,Wim Jongman
+Wed Nov 24  0:01:41 2021,BIRT all-in-one.launch,Wim Jongman
+Wed Nov 24  0:01:41 2021,MutipleThreadRenderTest.java,Wim Jongman
+Wed Nov 24  0:01:41 2021,ParameterConverterTest.java,Wim Jongman
+Wed Nov 24  0:01:41 2021,RenderTaskTest.java,Wim Jongman
+Wed Nov 24  0:01:41 2021,ReportletTest.java,Wim Jongman
+Wed Nov 24  0:01:41 2021,DocumentIRTransferTest.java,Wim Jongman
+Wed Nov 24  0:01:41 2021,EngineLoggerTest.java,Wim Jongman

@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Wed Nov 25 22:27:05 2020,k8s.go,SergeRadinovich
+Wed Nov 25 22:27:05 2020,k8s_microservices.go,SergeRadinovich
+Wed Nov 25 22:27:05 2020,k8s_util.go,SergeRadinovich
+Thu Nov 26 22:01:40 2020,microservices.go,SergeRadinovich
+Fri Nov 27  0:09:00 2020,go.mod,SergeRadinovich
+Fri Nov 27  0:09:00 2020,go.sum,SergeRadinovich
+Fri Nov 27  0:09:00 2020,k8s.go,SergeRadinovich
+Fri Nov 27  0:09:00 2020,execute.go,SergeRadinovich
+Fri Nov 27  0:09:00 2020,k8s_controlplane.go,SergeRadinovich
+Fri Nov 27  0:09:00 2020,types.go,SergeRadinovich
+Fri Nov 27  0:09:00 2020,k8s.go,SergeRadinovich
+Fri Nov 27  0:09:00 2020,types.go,SergeRadinovich
+Fri Nov 27  0:09:00 2020,LICENSE,SergeRadinovich
+Fri Nov 27  0:09:00 2020,control_plane_types.go,SergeRadinovich
+Fri Nov 27  0:09:00 2020,modules.txt,SergeRadinovich
+Fri Nov 27  1:47:22 2020,remote.go,SergeRadinovich
+Fri Nov 27  1:47:22 2020,remote_controller.go,SergeRadinovich
+Fri Nov 27  1:47:22 2020,controller.go,SergeRadinovich

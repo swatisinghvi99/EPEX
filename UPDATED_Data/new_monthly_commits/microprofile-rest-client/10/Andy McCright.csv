@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Wed Apr 11 15:57:26 2018,AsyncInvocationInterceptor.java,Andy McCright
+Wed Apr 11 15:57:26 2018,async.asciidoc,Andy McCright
+Wed Apr 11 15:57:26 2018,clientexamples.asciidoc,Andy McCright
+Wed Apr 11 15:57:26 2018,AsyncMethodTest.java,Andy McCright
+Wed Apr 11 15:57:26 2018,CDIInvokeSimpleGetOperationTest.java,Andy McCright
+Wed Apr 11 15:57:26 2018,InvocationCallbackClientAsync.java,Andy McCright
+Wed Apr 11 15:57:26 2018,SimpleGetApiAsync.java,Andy McCright
+Wed Apr 11 15:57:26 2018,StringResponseClientAsync.java,Andy McCright
+Wed Apr 11 15:57:26 2018,ThreadedClientResponseFilter.java,Andy McCright
+Thu Apr 12 14:29:29 2018,RestClientBuilder.java,Andy McCright
+Thu Apr 12 14:29:29 2018,AsyncMethodTest.java,Andy McCright
+Mon Apr 16 15:59:36 2018,async.asciidoc,Andy McCright
+Mon Apr 16 15:59:36 2018,AsyncMethodTest.java,Andy McCright
+Mon Apr 16 15:59:36 2018,CDIInvokeSimpleGetOperationTest.java,Andy McCright
+Mon Apr 16 15:59:36 2018,SimpleGetApiAsync.java,Andy McCright
+Mon Apr 16 15:59:36 2018,StringResponseClientAsync.java,Andy McCright
+Tue Apr 17 20:49:17 2018,RestClientBuilderListenerTest.java,Andy McCright
+Tue Apr 17 20:49:17 2018,AsyncMethodTest.java,Andy McCright

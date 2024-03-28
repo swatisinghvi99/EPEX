@@ -1,0 +1,427 @@
+[
+    [
+        "Pablo Alvarez Lopez",
+        "cpp",
+        251
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "h",
+        100
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "xpm",
+        30
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "netedit",
+        4691
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "py",
+        1754
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "xml",
+        217
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "neteditcheckoutput",
+        210
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "txt",
+        14
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "netccfg",
+        9
+    ],
+    [
+        "Pablo Alvarez Lopez",
+        "lanecalibrator",
+        1
+    ],
+    [
+        "namdre",
+        "cpp",
+        286
+    ],
+    [
+        "namdre",
+        "py",
+        43
+    ],
+    [
+        "namdre",
+        "h",
+        153
+    ],
+    [
+        "namdre",
+        "txt",
+        4
+    ],
+    [
+        "namdre",
+        "xml",
+        10
+    ],
+    [
+        "namdre",
+        "complex",
+        38
+    ],
+    [
+        "namdre",
+        "xsd",
+        8
+    ],
+    [
+        "namdre",
+        "sumo",
+        1
+    ],
+    [
+        "namdre",
+        "duarouter",
+        1
+    ],
+    [
+        "namdre",
+        "java",
+        1
+    ],
+    [
+        "namdre",
+        "sumocfg",
+        1
+    ],
+    [
+        "namdre",
+        "meso",
+        1
+    ],
+    [
+        "Angelo Banse",
+        "cpp",
+        886
+    ],
+    [
+        "Angelo Banse",
+        "zsh",
+        3
+    ],
+    [
+        "Angelo Banse",
+        "wflow",
+        3
+    ],
+    [
+        "Angelo Banse",
+        "h",
+        914
+    ],
+    [
+        "Angelo Banse",
+        "c",
+        2
+    ],
+    [
+        "Angelo Banse",
+        "activitygen",
+        3
+    ],
+    [
+        "Angelo Banse",
+        "py",
+        2934
+    ],
+    [
+        "Angelo Banse",
+        "java",
+        212
+    ],
+    [
+        "Angelo Banse",
+        "complex",
+        1
+    ],
+    [
+        "Angelo Banse",
+        "dfrouter",
+        3
+    ],
+    [
+        "Angelo Banse",
+        "duarouter",
+        3
+    ],
+    [
+        "Angelo Banse",
+        "jtrrouter",
+        3
+    ],
+    [
+        "Angelo Banse",
+        "marouter",
+        3
+    ],
+    [
+        "Angelo Banse",
+        "netconvert",
+        3
+    ],
+    [
+        "Angelo Banse",
+        "netgen",
+        3
+    ],
+    [
+        "Angelo Banse",
+        "od2trips",
+        3
+    ],
+    [
+        "Angelo Banse",
+        "polyconvert",
+        3
+    ],
+    [
+        "Angelo Banse",
+        "bat",
+        27
+    ],
+    [
+        "Angelo Banse",
+        "sh",
+        5
+    ],
+    [
+        "Angelo Banse",
+        "sumo",
+        3
+    ],
+    [
+        "Michael Behrisch",
+        "py",
+        21
+    ],
+    [
+        "Michael Behrisch",
+        "cpp",
+        223
+    ],
+    [
+        "Michael Behrisch",
+        "h",
+        81
+    ],
+    [
+        "Michael Behrisch",
+        "txt",
+        4
+    ],
+    [
+        "Michael Behrisch",
+        "unknown",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "md",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "TXT",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "wxs",
+        2
+    ],
+    [
+        "Michael Behrisch",
+        "rtf",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "tools",
+        27
+    ],
+    [
+        "Michael Behrisch",
+        "c",
+        2
+    ],
+    [
+        "Michael Behrisch",
+        "java",
+        1
+    ],
+    [
+        "Michael Behrisch",
+        "complex",
+        4
+    ],
+    [
+        "Dominik Salles",
+        "cpp",
+        6
+    ],
+    [
+        "Dominik Salles",
+        "h",
+        4
+    ],
+    [
+        "Qichao Wang",
+        "cpp",
+        2
+    ],
+    [
+        "Qichao Wang",
+        "h",
+        3
+    ],
+    [
+        "Qichao Wang",
+        "py",
+        1
+    ],
+    [
+        "Max Schrader",
+        "cpp",
+        19
+    ],
+    [
+        "Max Schrader",
+        "xml",
+        33
+    ],
+    [
+        "Max Schrader",
+        "sumo",
+        102
+    ],
+    [
+        "Max Schrader",
+        "h",
+        10
+    ],
+    [
+        "Max Schrader",
+        "md",
+        1
+    ],
+    [
+        "Max Schrader",
+        "complex",
+        3
+    ],
+    [
+        "Max Schrader",
+        "py",
+        2
+    ],
+    [
+        "Max Schrader",
+        "sumocfg",
+        1
+    ],
+    [
+        "Ioan-Alexandru Stef",
+        "md",
+        1
+    ],
+    [
+        "Ioan-Alexandru Stef",
+        "cpp",
+        5
+    ],
+    [
+        "Ioan-Alexandru Stef",
+        "h",
+        2
+    ],
+    [
+        "Matthias Schwamborn",
+        "c",
+        4
+    ],
+    [
+        "Matthias Schwamborn",
+        "cpp",
+        4
+    ],
+    [
+        "Matthias Schwamborn",
+        "h",
+        4
+    ],
+    [
+        "Matthias Schwamborn",
+        "xml",
+        3
+    ],
+    [
+        "Matthias Schwamborn",
+        "yml",
+        2
+    ],
+    [
+        "Matthias Schwamborn",
+        "complex",
+        11
+    ],
+    [
+        "Matthias Schwamborn",
+        "py",
+        2
+    ],
+    [
+        "sabrib",
+        "py",
+        2
+    ],
+    [
+        "sabrib",
+        "html",
+        1
+    ],
+    [
+        "sabrib",
+        "js",
+        1
+    ],
+    [
+        "sabrib",
+        "css",
+        1
+    ],
+    [
+        "Yun-Pang Fl\u00f6tter\u00f6d",
+        "py",
+        4
+    ],
+    [
+        "Yun-Pang Fl\u00f6tter\u00f6d",
+        "xml",
+        1
+    ],
+    [
+        "Yun-Pang Fl\u00f6tter\u00f6d",
+        "tools",
+        3
+    ]
+]

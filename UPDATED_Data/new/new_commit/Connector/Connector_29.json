@@ -1,0 +1,242 @@
+[
+    [
+        "Jim Marino",
+        "java",
+        90
+    ],
+    [
+        "Jim Marino",
+        "kts",
+        2
+    ],
+    [
+        "Enrico Risa",
+        "java",
+        97
+    ],
+    [
+        "Enrico Risa",
+        "yaml",
+        4
+    ],
+    [
+        "Enrico Risa",
+        "md",
+        1
+    ],
+    [
+        "Enrico Risa",
+        "kts",
+        1
+    ],
+    [
+        "Enrico Risa",
+        "sql",
+        1
+    ],
+    [
+        "ndr_brt",
+        "java",
+        712
+    ],
+    [
+        "ndr_brt",
+        "kts",
+        56
+    ],
+    [
+        "ndr_brt",
+        "yaml",
+        55
+    ],
+    [
+        "ndr_brt",
+        "md",
+        18
+    ],
+    [
+        "ndr_brt",
+        "txt",
+        1
+    ],
+    [
+        "ndr_brt",
+        "tpl",
+        1
+    ],
+    [
+        "ndr_brt",
+        "sh",
+        1
+    ],
+    [
+        "ndr_brt",
+        "ServiceExtension",
+        8
+    ],
+    [
+        "ndr_brt",
+        "json",
+        1
+    ],
+    [
+        "ndr_brt",
+        "unknown",
+        2
+    ],
+    [
+        "ndr_brt",
+        "toml",
+        2
+    ],
+    [
+        "ndr_brt",
+        "properties",
+        2
+    ],
+    [
+        "ndr_brt",
+        "env",
+        1
+    ],
+    [
+        "ndr_brt",
+        "yml",
+        1
+    ],
+    [
+        "ndr_brt",
+        "puml",
+        1
+    ],
+    [
+        "ndr_brt",
+        "sql",
+        3
+    ],
+    [
+        "Paul Latzelsperger",
+        "java",
+        261
+    ],
+    [
+        "Paul Latzelsperger",
+        "kts",
+        43
+    ],
+    [
+        "Paul Latzelsperger",
+        "json",
+        4
+    ],
+    [
+        "Paul Latzelsperger",
+        "yaml",
+        3
+    ],
+    [
+        "Paul Latzelsperger",
+        "gitignore",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "ServiceExtension",
+        21
+    ],
+    [
+        "Paul Latzelsperger",
+        "md",
+        17
+    ],
+    [
+        "Paul Latzelsperger",
+        "js",
+        2
+    ],
+    [
+        "Paul Latzelsperger",
+        "properties",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "txt",
+        2
+    ],
+    [
+        "Paul Latzelsperger",
+        "toml",
+        3
+    ],
+    [
+        "Paul Latzelsperger",
+        "example",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "sh",
+        5
+    ],
+    [
+        "Paul Latzelsperger",
+        "tf",
+        4
+    ],
+    [
+        "Paul Latzelsperger",
+        "unknown",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "MockMaker",
+        1
+    ],
+    [
+        "Julia Pampus",
+        "kts",
+        12
+    ],
+    [
+        "Julia Pampus",
+        "java",
+        72
+    ],
+    [
+        "Sascha Isele (ZF Friedrichshafen AG)",
+        "sql",
+        1
+    ],
+    [
+        "Sascha Isele (ZF Friedrichshafen AG)",
+        "java",
+        7
+    ],
+    [
+        "Benjamin Scholtes",
+        "java",
+        7
+    ],
+    [
+        "dependabot[bot]",
+        "kts",
+        1
+    ],
+    [
+        "dependabot[bot]",
+        "java",
+        8
+    ],
+    [
+        "dependabot[bot]",
+        "toml",
+        1
+    ],
+    [
+        "Lallu Anthoor",
+        "java",
+        2
+    ]
+]

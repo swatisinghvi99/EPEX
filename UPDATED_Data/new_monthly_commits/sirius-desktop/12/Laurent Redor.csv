@@ -1,0 +1,54 @@
+date_time,file,committer_name
+Mon Aug 11 12:41:34 2014,SetConnectionBendpointsAccordingToDraw2DCommand.java,Laurent Redor
+Mon Aug 11 12:41:34 2014,SiriusGraphicalNodeEditPolicy.java,Laurent Redor
+Mon Aug 11 12:41:34 2014,Release Notes.html,Laurent Redor
+Mon Aug 11 12:41:34 2014,Release Notes.textile,Laurent Redor
+Mon Aug 11 12:41:34 2014,GraphicalHelper.java,Laurent Redor
+Mon Aug 11 12:41:34 2014,SpecificBorderItemSelectionEditPolicy.java,Laurent Redor
+Mon Aug 11 12:41:34 2014,DBorderItemLocator.java,Laurent Redor
+Mon Aug 11 12:41:34 2014,FeedbackDBorderItemLocator.java,Laurent Redor
+Mon Aug 11 12:41:34 2014,Release Notes.html,Laurent Redor
+Mon Aug 11 12:41:34 2014,Release Notes.textile,Laurent Redor
+Mon Aug 18  9:36:23 2014,AirResizableEditPolicy.java,Laurent Redor
+Mon Aug 18  9:36:23 2014,SetConnectionBendpointsAccordingToDraw2DCommand.java,Laurent Redor
+Mon Aug 18  9:36:23 2014,SetConnectionBendpointsAccordingToExtremityMoveCommmand.java,Laurent Redor
+Mon Aug 18  9:36:23 2014,SiriusGraphicalNodeEditPolicy.java,Laurent Redor
+Mon Aug 18  9:36:23 2014,SpecificBorderItemSelectionEditPolicy.java,Laurent Redor
+Mon Aug 18  9:36:23 2014,ArrangeAllWithAutoSize.java,Laurent Redor
+Mon Aug 18  9:36:23 2014,AbstractCompositeLayoutProvider.java,Laurent Redor
+Mon Aug 18  9:36:23 2014,PinnedElementsLayoutProvider.java,Laurent Redor
+Mon Aug 18  9:36:23 2014,Release Notes.html,Laurent Redor
+Mon Aug 18  9:36:23 2014,Release Notes.textile,Laurent Redor
+Mon Aug 18  9:36:23 2014,GraphicalHelper.java,Laurent Redor
+Fri Aug 22  7:32:51 2014,InstanceRoleResizableEditPolicy.java,Laurent Redor
+Fri Aug 22  7:32:51 2014,MoveViewOperation.java,Laurent Redor
+Fri Aug 22  7:32:51 2014,AirResizableEditPolicy.java,Laurent Redor
+Fri Aug 22  7:32:51 2014,SiriusResizeTracker.java,Laurent Redor
+Fri Aug 22  7:32:51 2014,Release Notes.html,Laurent Redor
+Fri Aug 22  7:32:51 2014,Release Notes.textile,Laurent Redor
+Fri Aug 22  7:32:51 2014,Diagrams.html,Laurent Redor
+Fri Aug 22  7:32:51 2014,Diagrams.textile,Laurent Redor
+Fri Aug 22  7:32:51 2014,441090.html,Laurent Redor
+Fri Aug 22  7:32:51 2014,441090.textile,Laurent Redor
+Thu Aug 28 15:28:23 2014,RubberbandSelectionTool.java,Laurent Redor
+Fri Aug 29 10:23:37 2014,AirResizableEditPolicy.java,Laurent Redor
+Fri Aug 29 10:23:37 2014,SpecificBorderItemSelectionEditPolicy.java,Laurent Redor
+Fri Aug 29 10:23:37 2014,ChangeBendpointsOfEdgesCommand.java,Laurent Redor
+Fri Aug 29 10:24:48 2014,AirResizableEditPolicy.java,Laurent Redor
+Fri Aug 29 10:24:48 2014,ChildrenAdjustmentCommand.java,Laurent Redor
+Fri Aug 29 10:44:57 2014,TreeItemCreationToolItemProvider.java,Laurent Redor
+Mon Sep  1  7:54:58 2014,AirResizableEditPolicy.java,Laurent Redor
+Mon Sep  1  7:54:58 2014,SpecificBorderItemSelectionEditPolicy.java,Laurent Redor
+Mon Sep  1  7:54:58 2014,ChangeBendpointsOfEdgesCommand.java,Laurent Redor
+Mon Sep  1  7:58:28 2014,AirResizableEditPolicy.java,Laurent Redor
+Mon Sep  1  7:58:28 2014,ChildrenAdjustmentCommand.java,Laurent Redor
+Mon Sep  1  9:29:55 2014,AirResizableEditPolicy.java,Laurent Redor
+Mon Sep  1  9:29:55 2014,ChildrenAdjustmentCommand.java,Laurent Redor
+Fri Sep  5  7:45:13 2014,SiriusGraphicalNodeEditPolicy.java,Laurent Redor
+Fri Sep  5  8:58:31 2014,DiagramRulersAndGridPreferencePage.java,Laurent Redor
+Fri Sep  5  8:58:31 2014,Release Notes.html,Laurent Redor
+Fri Sep  5  8:58:31 2014,Release Notes.textile,Laurent Redor
+Fri Sep  5  8:58:31 2014,Sequence Diagrams.html,Laurent Redor
+Fri Sep  5  8:58:31 2014,Sequence Diagrams.textile,Laurent Redor
+Fri Sep  5 14:35:18 2014,AbstractSiriusSwtBotGefTestCase.java,Laurent Redor
+Fri Sep  5 14:35:18 2014,SWTBotSiriusDiagramEditor.java,Laurent Redor

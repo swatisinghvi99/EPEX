@@ -1,0 +1,457 @@
+[
+    [
+        "Igor Vinokur",
+        "java",
+        3
+    ],
+    [
+        "Tareq Sharafy",
+        "java",
+        9
+    ],
+    [
+        "Dmitry Kuleshov",
+        "java",
+        195
+    ],
+    [
+        "Dmitry Kuleshov",
+        "xml",
+        6
+    ],
+    [
+        "Vitalii Parfonov",
+        "java",
+        37
+    ],
+    [
+        "Vitalii Parfonov",
+        "xml",
+        9
+    ],
+    [
+        "Vitalii Parfonov",
+        "md",
+        1
+    ],
+    [
+        "Vitalii Parfonov",
+        "properties",
+        1
+    ],
+    [
+        "Vitalii Parfonov",
+        "svg",
+        2
+    ],
+    [
+        "Alexander Garagatyi",
+        "java",
+        250
+    ],
+    [
+        "Alexander Garagatyi",
+        "xml",
+        6
+    ],
+    [
+        "Alexander Garagatyi",
+        "js",
+        10
+    ],
+    [
+        "Alexander Garagatyi",
+        "html",
+        6
+    ],
+    [
+        "Alexander Garagatyi",
+        "styl",
+        2
+    ],
+    [
+        "Alexander Garagatyi",
+        "json",
+        4
+    ],
+    [
+        "Alexander Garagatyi",
+        "sh",
+        1
+    ],
+    [
+        "Alexander Garagatyi",
+        "properties",
+        1
+    ],
+    [
+        "Vladyslav Zhukovskii",
+        "java",
+        58
+    ],
+    [
+        "Roman Nikitenko",
+        "java",
+        77
+    ],
+    [
+        "Roman Nikitenko",
+        "xml",
+        1
+    ],
+    [
+        "Roman Nikitenko",
+        "properties",
+        1
+    ],
+    [
+        "Mykola Morhun",
+        "java",
+        1
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "html",
+        23
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "styl",
+        24
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "js",
+        39
+    ],
+    [
+        "Artem Zatsarynnyi",
+        "java",
+        119
+    ],
+    [
+        "Artem Zatsarynnyi",
+        "xml",
+        9
+    ],
+    [
+        "Artem Zatsarynnyi",
+        "svg",
+        1
+    ],
+    [
+        "Artem Zatsarynnyi",
+        "css",
+        6
+    ],
+    [
+        "Artem Zatsarynnyi",
+        "properties",
+        3
+    ],
+    [
+        "Artem Zatsarynnyi",
+        "html",
+        2
+    ],
+    [
+        "Artem Zatsarynnyi",
+        "js",
+        4
+    ],
+    [
+        "Artem Zatsarynnyi",
+        "diff",
+        5
+    ],
+    [
+        "Oleksii Orel",
+        "js",
+        41
+    ],
+    [
+        "Oleksii Orel",
+        "styl",
+        48
+    ],
+    [
+        "Oleksii Orel",
+        "html",
+        33
+    ],
+    [
+        "Oleksii Orel",
+        "java",
+        8
+    ],
+    [
+        "Oleksii Orel",
+        "xml",
+        2
+    ],
+    [
+        "Florent BENOIT",
+        "unknown",
+        4
+    ],
+    [
+        "Florent BENOIT",
+        "md",
+        3
+    ],
+    [
+        "Florent BENOIT",
+        "bat",
+        5
+    ],
+    [
+        "Florent BENOIT",
+        "sh",
+        5
+    ],
+    [
+        "Florent BENOIT",
+        "gitignore",
+        1
+    ],
+    [
+        "Florent BENOIT",
+        "json",
+        4
+    ],
+    [
+        "Florent BENOIT",
+        "ts",
+        48
+    ],
+    [
+        "Florent BENOIT",
+        "properties",
+        2
+    ],
+    [
+        "Florent BENOIT",
+        "js",
+        5
+    ],
+    [
+        "Florent BENOIT",
+        "java",
+        2
+    ],
+    [
+        "Tyler Jewell",
+        "unknown",
+        8
+    ],
+    [
+        "Tyler Jewell",
+        "md",
+        4
+    ],
+    [
+        "Tyler Jewell",
+        "bat",
+        5
+    ],
+    [
+        "Tyler Jewell",
+        "sh",
+        11
+    ],
+    [
+        "Tyler Jewell",
+        "properties",
+        3
+    ],
+    [
+        "Tyler Jewell",
+        "bats",
+        1
+    ],
+    [
+        "Tyler Jewell",
+        "gitignore",
+        1
+    ],
+    [
+        "Tyler Jewell",
+        "json",
+        5
+    ],
+    [
+        "Tyler Jewell",
+        "ts",
+        46
+    ],
+    [
+        "Ann Shumilova",
+        "html",
+        9
+    ],
+    [
+        "Ann Shumilova",
+        "js",
+        11
+    ],
+    [
+        "Ann Shumilova",
+        "json",
+        1
+    ],
+    [
+        "Ann Shumilova",
+        "styl",
+        6
+    ],
+    [
+        "Valeriy Svydenko",
+        "java",
+        11
+    ],
+    [
+        "Valeriy Svydenko",
+        "css",
+        1
+    ],
+    [
+        "Valeriy Svydenko",
+        "xml",
+        1
+    ],
+    [
+        "Vitaliy Guliy",
+        "java",
+        4
+    ],
+    [
+        "Vitaliy Guliy",
+        "xml",
+        1
+    ],
+    [
+        "Vitaliy Guliy",
+        "css",
+        1
+    ],
+    [
+        "Yevhenii Voevodin",
+        "xml",
+        2
+    ],
+    [
+        "Yevhenii Voevodin",
+        "java",
+        16
+    ],
+    [
+        "Yevhenii Voevodin",
+        "json",
+        14
+    ],
+    [
+        "Roman Iuvshin",
+        "java",
+        4
+    ],
+    [
+        "Roman Iuvshin",
+        "xml",
+        2
+    ],
+    [
+        "Roman Iuvshin",
+        "html",
+        2
+    ],
+    [
+        "Roman Iuvshin",
+        "js",
+        4
+    ],
+    [
+        "Roman Iuvshin",
+        "css",
+        4
+    ],
+    [
+        "Roman Iuvshin",
+        "diff",
+        5
+    ],
+    [
+        "Andrii Parfonov",
+        "java",
+        11
+    ],
+    [
+        "Andrii Parfonov",
+        "xml",
+        1
+    ],
+    [
+        "Anatoliy Bazko",
+        "xml",
+        13
+    ],
+    [
+        "Anatoliy Bazko",
+        "sh",
+        8
+    ],
+    [
+        "Anatoliy Bazko",
+        "unknown",
+        1
+    ],
+    [
+        "Anatoliy Bazko",
+        "java",
+        66
+    ],
+    [
+        "Anatoliy Bazko",
+        "properties",
+        1
+    ],
+    [
+        "Anatoliy Bazko",
+        "js",
+        2
+    ],
+    [
+        "Anatoliy Bazko",
+        "json",
+        5
+    ],
+    [
+        "Aleksandr Andrienko",
+        "java",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "js",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "svg",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "json",
+        2
+    ],
+    [
+        "RomanNikitenko",
+        "xml",
+        2
+    ],
+    [
+        "RomanNikitenko",
+        "java",
+        4
+    ]
+]

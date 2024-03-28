@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Thu Oct 21 12:40:36 2021,ModelPresentationTests.java,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,TestIJavaObjectValue.java,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,MANIFEST.MF,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,plugin.properties,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,plugin.xml,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,DebugUIMessages.java,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,DebugUIMessages.properties,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,IJDIPreferencesConstants.java,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,JDIModelPresentation.java,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,ActionMessages.java,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,ActionMessages.properties,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,SetObjectLabelAction.java,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,JavaVariableColumnPresentation.java,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,JavaVariableLabelProvider.java,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,VariableMessages.java,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,VariableMessages.properties,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,MANIFEST.MF,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,IJavaObject.java,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,LogicalObjectStructureValue.java,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,JDIDebugTarget.java,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,JDIObjectValue.java,Zsombor Gegesy
+Thu Oct 21 12:40:36 2021,pom.xml,Zsombor Gegesy
+Mon Nov  8 15:45:25 2021,JavaObjectValueEditor.java,Zsombor Gegesy
+Mon Nov  8 19:31:56 2021,EvaluationSourceGenerator.java,Zsombor Gegesy
+Mon Nov  8 19:31:56 2021,SourceBasedSourceGenerator.java,Zsombor Gegesy

@@ -1,0 +1,82 @@
+[
+    [
+        "Oliver Heger",
+        "kts",
+        15
+    ],
+    [
+        "Oliver Heger",
+        "kt",
+        80
+    ],
+    [
+        "Oliver Heger",
+        "toml",
+        2
+    ],
+    [
+        "Oliver Heger",
+        "conf",
+        4
+    ],
+    [
+        "Oliver Heger",
+        "StorageProviderFactory",
+        2
+    ],
+    [
+        "Oliver Heger",
+        "Dockerfile",
+        1
+    ],
+    [
+        "Oleksandr Yarosevych",
+        "kt",
+        60
+    ],
+    [
+        "Oleksandr Yarosevych",
+        "kts",
+        4
+    ],
+    [
+        "Oleksandr Yarosevych",
+        "SecretsProviderFactory",
+        1
+    ],
+    [
+        "Oleksandr Yarosevych",
+        "conf",
+        1
+    ],
+    [
+        "Martin Nonnenmacher",
+        "kt",
+        195
+    ],
+    [
+        "Martin Nonnenmacher",
+        "json",
+        2
+    ],
+    [
+        "Martin Nonnenmacher",
+        "kts",
+        5
+    ],
+    [
+        "Martin Nonnenmacher",
+        "toml",
+        1
+    ],
+    [
+        "Martin Nonnenmacher",
+        "conf",
+        1
+    ],
+    [
+        "Onur Demirci",
+        "kt",
+        42
+    ]
+]

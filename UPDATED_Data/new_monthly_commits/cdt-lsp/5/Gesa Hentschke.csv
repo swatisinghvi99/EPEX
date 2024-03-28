@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Sun Jun 11  6:04:10 2023,plugin.xml,Gesa Hentschke
+Sun Jun 11  6:04:10 2023,BaseClangdLanguageServerProvider.java,Gesa Hentschke
+Sun Jun 11  6:04:10 2023,ClangdLanguageServerProvider.java,Gesa Hentschke
+Sun Jun 11  6:04:10 2023,LspEditorPreferencesTester.java,Gesa Hentschke
+Sun Jun 11  6:04:10 2023,fragment.xml,Gesa Hentschke
+Sun Jun 11  6:04:10 2023,MockCLanguageServerProvider.java,Gesa Hentschke
+Sun Jun 11  6:04:10 2023,serverProvider.exsd,Gesa Hentschke
+Sun Jun 11  6:04:10 2023,CLanguageServerRegistry.java,Gesa Hentschke
+Sun Jun 11  6:04:10 2023,EnableExpression.java,Gesa Hentschke
+Sun Jun 11  6:04:10 2023,ICLanguageServerProvider.java,Gesa Hentschke
+Sun Jun 11  6:04:10 2023,HasLanguageServerPropertyTester.java,Gesa Hentschke
+Tue Jun 13  9:03:23 2023,ClangdPreferredOptions.java,Gesa Hentschke
+Wed Jun 14 14:26:29 2023,MANIFEST.MF,Gesa Hentschke
+Wed Jun 14 14:26:29 2023,CProjectChangeMonitor.java,Gesa Hentschke
+Wed Jun 14 14:26:29 2023,ClangdPlugin.java,Gesa Hentschke
+Wed Jun 14 14:26:29 2023,CompileCommandsMonitor.java,Gesa Hentschke
+Wed Jun 14 14:26:29 2023,ToggleSourceAndHeaderCommandHandler.java,Gesa Hentschke
+Wed Jun 14 17:32:03 2023,ClangdPlugin.java,Gesa Hentschke

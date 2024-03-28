@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Mon Oct 15 16:20:42 2007,LockTest.java,cdamus
+Mon Oct 15 16:20:42 2007,Lock.java,cdamus
+Mon Oct 22 21:27:16 2007,ValidationRollbackTest.java,cdamus
+Mon Oct 22 21:27:16 2007,ReadWriteValidatorImpl.java,cdamus
+Thu Oct 25  4:00:13 2007,WorkspaceSynchronizerTest.java,cdamus
+Thu Oct 25  4:00:13 2007,WorkspaceSynchronizer.java,cdamus
+Wed Oct 31 19:59:58 2007,UndoRedoTest.java,cdamus
+Wed Oct 31 19:59:58 2007,TransactionImpl.java,cdamus
+Wed Oct 31 19:59:58 2007,TransactionalEditingDomainImpl.java,cdamus

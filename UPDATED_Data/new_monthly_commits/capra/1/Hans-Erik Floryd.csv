@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Tue Sep 27  9:49:57 2016,TestCreateTrace.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,.gitignore,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,ArtifactWrapper.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,ArtifactWrapperContainer.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,GenericArtifactMetaModelFactory.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,GenericArtifactMetaModelPackage.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,ArtifactWrapperContainerImpl.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,ArtifactWrapperImpl.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,GenericArtifactMetaModelFactoryImpl.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,GenericArtifactMetaModelPackageImpl.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,GenericArtifactMetaModelAdapterFactory.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,GenericArtifactMetaModelSwitch.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,GenericTraceMetaModelFactory.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,GenericTraceMetaModelPackage.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,GenericTraceModel.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,RelatedTo.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,GenericTraceMetaModelFactoryImpl.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,GenericTraceMetaModelPackageImpl.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,GenericTraceModelImpl.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,RelatedToImpl.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,GenericTraceMetaModelAdapterFactory.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,GenericTraceMetaModelSwitch.java,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,.gitignore,Hans-Erik Floryd
+Tue Sep 27  9:50:14 2016,VisualizationHelper.java,Hans-Erik Floryd

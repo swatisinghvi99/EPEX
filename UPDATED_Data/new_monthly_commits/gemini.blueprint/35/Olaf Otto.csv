@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Tue Mar 19 15:19:07 2013,deployment.xml,Olaf Otto
+Tue Mar 19 15:19:07 2013,LifecycleManager.java,Olaf Otto
+Tue Mar 19 15:19:07 2013,ExtenderConfiguration.java,Olaf Otto
+Tue Mar 19 15:19:07 2013,LifecycleManagerTest.java,Olaf Otto
+Tue Mar 19 15:19:07 2013,ExtenderConfigurationCustomSettingsTest.java,Olaf Otto
+Tue Mar 19 15:19:07 2013,ExtenderConfigurationDefaultSettingsTest.java,Olaf Otto
+Tue Mar 19 15:19:07 2013,extender-custom-config.xml,Olaf Otto
+Wed Mar 20 13:51:58 2013,BundleDelegatingClassLoader.java,Olaf Otto
+Wed Mar 20 13:51:58 2013,BundleDelegatingClassLoaderTest.java,Olaf Otto
+Wed Mar 20 13:51:58 2013,resource.txt,Olaf Otto

@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Thu Feb 25 14:29:54 2016,IsComponentFilter.java,Aurelien Didier
+Fri Mar  4 16:54:37 2016,MANIFEST.MF,Aurelien Didier
+Fri Mar  4 16:54:37 2016,MDGenerateConnectionsAction.java,Aurelien Didier
+Thu Mar 10  9:42:52 2016,EStructuralFeatureProperty.java,Aurelien Didier
+Thu Mar 10  9:42:52 2016,CapellaElementsHelperForBusinessQueries.java,Aurelien Didier
+Thu Mar 10  9:42:52 2016,GetCurrent_Property_Type.java,Aurelien Didier
+Thu Mar 10  9:42:52 2016,GetCurrent_UnionProperty_Type.java,Aurelien Didier
+Thu Mar 10  9:42:52 2016,DiagramHelper.java,Aurelien Didier
+Thu Mar 10  9:42:52 2016,ComponentPortAllocationExt.java,Aurelien Didier
+Thu Mar 10  9:42:52 2016,CapellaModelDataListenerForPartsAndComponents.java,Aurelien Didier
+Thu Mar 10  9:42:52 2016,MDGenerateConnectionsAction.java,Aurelien Didier
+Thu Mar 10  9:42:52 2016,TigerRelationshipHelper.java,Aurelien Didier
+Mon Mar 14 16:26:22 2016,CapellaElementsHelperForBusinessQueries.java,Aurelien Didier

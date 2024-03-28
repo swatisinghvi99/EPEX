@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Wed Jul  7 13:20:03 2010,CompletionTests.java,Ayushman Jain
+Wed Jul  7 13:20:03 2010,buildnotes_jdt-core.html,Ayushman Jain
+Wed Jul  7 13:20:03 2010,CompletionEngine.java,Ayushman Jain
+Wed Jul  7 13:20:03 2010,CompletionParser.java,Ayushman Jain
+Wed Jul  7 13:39:03 2010,CompletionTests2.java,Ayushman Jain
+Wed Jul  7 13:39:03 2010,buildnotes_jdt-core.html,Ayushman Jain
+Wed Jul  7 13:39:03 2010,InternalCompletionProposal.java,Ayushman Jain
+Wed Jul 21  7:08:55 2010,InitializationTests.java,Ayushman Jain
+Wed Jul 21  7:08:55 2010,TestAll.java,Ayushman Jain
+Wed Jul 21  7:08:55 2010,messages.properties,Ayushman Jain
+Wed Jul 21  7:08:55 2010,buildnotes_jdt-core.html,Ayushman Jain
+Wed Jul 21  7:08:55 2010,IfStatement.java,Ayushman Jain
+Wed Jul 21  7:08:55 2010,FlowInfo.java,Ayushman Jain
+Thu Jul 29  7:41:12 2010,ASTRewritingInsertBoundTest.java,Ayushman Jain
+Thu Jul 29  7:41:12 2010,ASTRewritingModifyingRemoveTest.java,Ayushman Jain
+Thu Jul 29  7:41:12 2010,buildnotes_jdt-core.html,Ayushman Jain
+Thu Jul 29  7:41:12 2010,ASTRewriteAnalyzer.java,Ayushman Jain

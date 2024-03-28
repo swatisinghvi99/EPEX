@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Mon Mar 19 10:08:19 2018,plugin.xml,Yazid DAOUDI
+Mon Mar 19 10:08:19 2018,MDCHK_MSVAL_ComparisonCompleteness.java,Yazid DAOUDI
+Mon Mar 19 10:08:19 2018,MDCHK_MSVAL_ComparisonCorrectness.java,Yazid DAOUDI
+Mon Mar 19 10:08:19 2018,MDCHK_MSVAL_ComparisonIncl.java,Yazid DAOUDI
+Mon Mar 19 10:08:19 2018,MDCHK_MSVAL_ComparisonInclExcl.java,Yazid DAOUDI
+Mon Mar 19 10:08:19 2018,MDCHK_MSVAL_ResultCorrectness.java,Yazid DAOUDI
+Mon Mar 19 10:08:19 2018,MDCHK_MSVAL_SituationCompleteness.java,Yazid DAOUDI
+Mon Mar 19 10:08:19 2018,MDCHK_MSVAL_SituationInternalConsistency.java,Yazid DAOUDI
+Mon Mar 19 10:08:19 2018,MDHCK_ComparisonPort.java,Yazid DAOUDI
+Mon Mar 19 10:09:09 2018,CalculatedConfiguration.java,Yazid DAOUDI
+Mon Mar 19 10:09:09 2018,plugin.xml,Yazid DAOUDI
+Mon Mar 19 10:09:09 2018,MDCHK_Functional_Conflits.java,Yazid DAOUDI
+Mon Mar 19 10:09:09 2018,MDCHK_MSVAL_ComparisonCorrectness.java,Yazid DAOUDI
+Mon Mar 19 10:09:09 2018,MDCHK_MSVAL_ComparisonIncl.java,Yazid DAOUDI
+Mon Mar 19 10:09:09 2018,MDCHK_MSVAL_ComparisonInclExcl.java,Yazid DAOUDI
+Mon Mar 19 10:09:09 2018,MDCHK_MSVAL_ComparisonInclExcl_viaFC.java,Yazid DAOUDI
+Mon Mar 19 10:09:09 2018,MDCHK_MSVAL_ResultCorrectness.java,Yazid DAOUDI
+Mon Mar 19 10:09:09 2018,MDCHK_MSVAL_SituationInternalConsistency.java,Yazid DAOUDI

@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Thu Apr 30 14:06:17 2020,MetadataBuilder.java,Elliot Metsger
+Thu Apr 30 14:06:17 2020,PackageStream.java,Elliot Metsger
+Thu Apr 30 14:06:17 2020,FcrepoModelBuilderIT.java,Elliot Metsger
+Thu Apr 30 14:06:17 2020,Sword2TransportSessionIT.java,Elliot Metsger
+Thu Apr 30 14:06:17 2020,SwordV2Binding.java,Elliot Metsger
+Thu Apr 30 14:06:17 2020,SwordV2BindingTest.java,Elliot Metsger
+Thu Apr 30 14:06:17 2020,TransportConfigMappingTest.java,Elliot Metsger
+Thu Apr 30 14:06:17 2020,pom.xml,Elliot Metsger
+Thu Apr 30 14:06:17 2020,DepositSubmission.java,Elliot Metsger
+Thu Apr 30 14:06:17 2020,pom.xml,Elliot Metsger
+Thu Apr 30 14:06:17 2020,ModelBuilder.java,Elliot Metsger
+Thu Apr 30 14:06:17 2020,pom.xml,Elliot Metsger
+Thu Apr 30 14:06:17 2020,AbstractAssembler.java,Elliot Metsger
+Thu Apr 30 14:06:17 2020,MetadataBuilderImpl.java,Elliot Metsger
+Thu Apr 30 14:06:17 2020,SimpleMetadataImpl.java,Elliot Metsger
+Thu Apr 30 14:06:17 2020,PreassembledAssembler.java,Elliot Metsger
+Thu Apr 30 14:06:17 2020,Sword2TransportHints.java,Elliot Metsger
+Thu Apr 30 14:06:17 2020,Sword2TransportSession.java,Elliot Metsger
+Thu Apr 30 14:06:17 2020,Sword2TransportSessionTest.java,Elliot Metsger

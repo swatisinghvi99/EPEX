@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Thu Jul 10  6:54:30 2014,AbstractCalendarItemProvider.java,Matthias Nick
+Thu Jul 10  8:13:31 2014,OrganizeColumnsFormTest.java,Matthias Nick
+Thu Jul 10  8:13:31 2014,OrganizeColumnsForm.java,Matthias Nick
+Thu Jul 24  9:33:36 2014,IOUtilityTest.java,Matthias Nick
+Thu Jul 24  9:33:36 2014,FileUtility.java,Matthias Nick
+Thu Jul 24  9:33:36 2014,IOUtility.java,Matthias Nick
+Fri Jul 25  8:20:23 2014,AbstractActivityMap.java,Matthias Nick
+Mon Jul 28  9:50:18 2014,SwingScoutActivityMap.java,Matthias Nick
+Mon Jul 28  9:50:18 2014,JActivityMap.java,Matthias Nick
+Mon Jul 28  9:50:18 2014,JActivityMapHeader.java,Matthias Nick
+Mon Jul 28 11:18:26 2014,JActivityMap.java,Matthias Nick
+Tue Jul 29 13:47:02 2014,AbstractWizardTest.java,Matthias Nick
+Tue Jul 29 13:47:02 2014,AbstractWizard.java,Matthias Nick
+Tue Jul 29 14:05:48 2014,SwingScoutActivityMap.java,Matthias Nick
+Tue Jul 29 14:05:48 2014,SwingScoutPlannerField.java,Matthias Nick
+Tue Jul 29 14:29:50 2014,AbstractWizardTest.java,Matthias Nick
+Wed Jul 30  7:16:31 2014,RwtScoutButton.java,Matthias Nick
+Wed Jul 30  8:08:58 2014,RwtScoutTableCellEditor.java,Matthias Nick
+Wed Jul 30  8:08:58 2014,BrowserExtension.java,Matthias Nick
+Thu Jul 31 12:52:07 2014,AbstractGroupBoxTest.java,Matthias Nick
+Thu Jul 31 12:52:07 2014,AbstractListBoxTest.java,Matthias Nick
+Thu Jul 31 12:52:07 2014,AbstractRadioButtonGroupTest.java,Matthias Nick
+Thu Jul 31 12:52:07 2014,AbstractListBox.java,Matthias Nick
+Fri Aug  1  8:56:16 2014,RwtTableStatus.java,Matthias Nick

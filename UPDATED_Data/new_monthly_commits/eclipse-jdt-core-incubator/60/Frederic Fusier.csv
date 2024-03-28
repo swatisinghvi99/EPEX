@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Tue May  9 11:11:29 2006,messages.properties,Frederic Fusier
+Tue May  9 11:11:29 2006,buildnotes_jdt-core.html,Frederic Fusier
+Tue May  9 11:11:29 2006,CharOperation.java,Frederic Fusier
+Tue May  9 11:11:29 2006,SearchPattern.java,Frederic Fusier
+Wed May 10  9:20:34 2006,TypeDeclaration.java,Frederic Fusier
+Wed May 31 15:10:30 2006,TestCase.java,Frederic Fusier
+Wed May 31 15:10:30 2006,ASTConverterTest2.java,Frederic Fusier
+Wed May 31 15:10:30 2006,ASTConverterTestAST3_2.java,Frederic Fusier
+Wed May 31 15:10:30 2006,AbstractJavaModelTests.java,Frederic Fusier
+Wed May 31 15:10:30 2006,AbstractJavadocCompletionModelTest.java,Frederic Fusier
+Wed May 31 15:10:30 2006,CompletionTests.java,Frederic Fusier
+Wed May 31 15:10:30 2006,CreateMembersTests.java,Frederic Fusier
+Wed May 31 15:10:30 2006,JavaSearchBugsTests.java,Frederic Fusier
+Wed May 31 15:10:30 2006,JavaSearchGenericConstructorEquivalentTests.java,Frederic Fusier
+Wed May 31 15:10:30 2006,JavaSearchGenericConstructorExactTests.java,Frederic Fusier
+Wed May 31 15:10:30 2006,JavaSearchGenericMethodEquivalentTests.java,Frederic Fusier
+Wed May 31 15:10:30 2006,JavaSearchGenericMethodExactTests.java,Frederic Fusier
+Wed May 31 15:10:30 2006,JavaSearchGenericTypeEquivalentTests.java,Frederic Fusier
+Wed May 31 15:10:30 2006,JavaSearchGenericTypeExactTests.java,Frederic Fusier
+Wed May 31 15:10:30 2006,JavaSearchJavadocTests.java,Frederic Fusier
+Wed May 31 15:10:30 2006,JavadocFieldCompletionModelTest.java,Frederic Fusier
+Wed May 31 15:10:30 2006,WorkingCopySearchTests.java,Frederic Fusier
+Wed May 31 15:10:30 2006,buildnotes_jdt-core.html,Frederic Fusier

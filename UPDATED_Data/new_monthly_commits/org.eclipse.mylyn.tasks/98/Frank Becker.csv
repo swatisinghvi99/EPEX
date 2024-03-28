@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Sun Jul 28 19:55:11 2013,AbstractBugzillaTest.java,Frank Becker
+Sun Jul 28 19:55:11 2013,BugzillaAttachmentHandlerTest.java,Frank Becker
+Sun Jul 28 19:55:11 2013,BugzillaXmlRpcClientTest.java,Frank Becker
+Sun Jul 28 19:55:11 2013,BugzillaFixture.java,Frank Becker
+Sun Jul 28 19:55:11 2013,BugzillaHarness.java,Frank Becker
+Wed Jul 31 18:15:55 2013,DateAttributeEditor.java,Frank Becker
+Wed Jul 31 18:15:55 2013,LastCommentedAttributeEditor.java,Frank Becker
+Mon Aug 12 17:54:37 2013,BugzillaClient.java,Frank Becker
+Mon Aug 12 17:54:37 2013,Messages.java,Frank Becker
+Mon Aug 12 17:54:37 2013,UiLegendControl.java,Frank Becker
+Mon Aug 12 17:54:37 2013,messages.properties,Frank Becker
+Mon Aug 12 17:54:37 2013,TasksUiInternal.java,Frank Becker
+Mon Aug 12 17:54:37 2013,CustomTaskListDecorationDrawer.java,Frank Becker
+Mon Aug 12 17:54:37 2013,TaskListToolTip.java,Frank Becker

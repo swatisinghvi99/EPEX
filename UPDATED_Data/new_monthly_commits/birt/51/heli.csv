@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Tue Apr  7  4:01:12 2009,StandardChartDataSheet.java,heli
+Tue Apr  7  4:01:12 2009,MenuStylesDialog.java,heli
+Tue Apr  7  4:01:12 2009,MultipleHyperlinksComposite.java,heli
+Mon Apr 13  9:52:50 2009,EventHandlers.java,heli
+Mon Apr 13  9:52:50 2009,SVGInteractiveRenderer.java,heli
+Mon Apr 13 10:02:48 2009,SwingEventHandler.java,heli
+Thu Apr 16  3:44:24 2009,model.genmodel,heli
+Thu Apr 16  3:44:24 2009,model.xsd2ecore,heli
+Thu Apr 16  3:44:24 2009,org.eclipse.birt.chart.model.component.ecore,heli
+Thu Apr 16  3:44:24 2009,org.eclipse.birt.chart.model.ecore,heli
+Thu Apr 16  3:44:24 2009,ChartWithAxes.java,heli
+Thu Apr 16  3:44:24 2009,ModelPackage.java,heli
+Thu Apr 16  3:44:24 2009,Axis.java,heli
+Thu Apr 16  3:44:24 2009,ComponentPackage.java,heli
+Thu Apr 16  3:44:24 2009,AxisImpl.java,heli
+Thu Apr 16  3:44:24 2009,ComponentPackageImpl.java,heli
+Thu Apr 16  3:44:24 2009,ChartWithAxesImpl.java,heli
+Thu Apr 16  3:44:24 2009,ModelPackageImpl.java,heli
+Thu Apr 16  3:44:24 2009,component.xsd,heli
+Thu Apr 16  3:44:24 2009,model.xsd,heli
+Wed Apr 29  4:00:07 2009,ChartReportItemBuilderImpl.java,heli
+Wed Apr 29  4:00:07 2009,StandardChartDataSheet.java,heli
+Wed Apr 29  4:00:07 2009,ChartReportItemPresentationBase.java,heli
+Wed Apr 29  4:00:07 2009,ChartReportItemUtil.java,heli
+Thu Apr 30  2:08:01 2009,HyperlinkEditorDialog.java,heli

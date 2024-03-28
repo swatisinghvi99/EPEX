@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Fri Sep 30  9:27:20 2011,MANIFEST.MF,Mingxia Wu
+Fri Sep 30  9:27:20 2011,IBinding.java,Mingxia Wu
+Fri Sep 30  9:27:20 2011,Binding.java,Mingxia Wu
+Fri Sep 30  9:27:20 2011,IReferenceDate.java,Mingxia Wu
+Fri Sep 30  9:27:20 2011,ITimeFunction.java,Mingxia Wu
+Fri Sep 30  9:27:20 2011,ITimePeriod.java,Mingxia Wu
+Fri Sep 30  9:27:20 2011,ReferenceDate.java,Mingxia Wu
+Fri Sep 30  9:27:20 2011,TimeFunction.java,Mingxia Wu
+Fri Sep 30  9:27:20 2011,TimePeriod.java,Mingxia Wu
+Fri Sep 30  9:27:20 2011,TimePeriodType.java,Mingxia Wu
+Fri Sep 30  9:27:20 2011,TimeFunctionFactory.java,Mingxia Wu
+Fri Sep 30  9:27:20 2011,CubeAggrDefn.java,Mingxia Wu
+Fri Sep 30  9:27:20 2011,CubeAggrDefnOnMeasure.java,Mingxia Wu
+Fri Sep 30  9:27:20 2011,OlapExpressionUtil.java,Mingxia Wu
+Fri Sep 30  9:27:20 2011,ModelAdapter.java,Mingxia Wu
+Sat Oct  1  8:52:03 2011,MonthToDateFunction.java,Mingxia Wu
+Sat Oct  1  8:52:03 2011,TrailingFunction.java,Mingxia Wu
+Sat Oct  1  8:52:03 2011,WeekToDateFunciton.java,Mingxia Wu
+Sat Oct  1  8:52:03 2011,CubeQueryDefinitionUtil.java,Mingxia Wu
+Sat Oct  1  8:52:03 2011,CubeNestAggrDefn.java,Mingxia Wu
+Sat Oct  1  8:52:03 2011,ModelAdapter.java,Mingxia Wu

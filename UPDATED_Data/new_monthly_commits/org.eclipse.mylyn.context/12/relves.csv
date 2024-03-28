@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Fri May 19 20:07:16 2006,DateUtil.java,relves
+Thu Jun  1 18:30:24 2006,DateUtil.java,relves
+Tue Jun  6 17:04:23 2006,DegreeOfInterest.java,relves
+Tue Jun  6 17:04:23 2006,MylarContext.java,relves
+Tue Jun  6 17:04:23 2006,MylarContextManager.java,relves
+Tue Jun  6 17:04:23 2006,SaxContextWriter.java,relves
+Tue Jun  6 17:04:23 2006,AbstractUserInteractionMonitor.java,relves
+Tue Jun  6 17:04:23 2006,InteractionEvent.java,relves
+Tue Jun  6 17:04:23 2006,DomContextWriter.java,relves
+Tue Jun  6 17:04:23 2006,TestMonitor.java,relves
+Tue Jun  6 17:04:23 2006,ResourceInteractionMonitor.java,relves
+Tue Jun  6 17:04:23 2006,plugin.xml,relves
+Tue Jun  6 17:04:23 2006,JavaEditingMonitor.java,relves
+Tue Jun  6 17:04:23 2006,JavaStackTraceFileHyperlink.java,relves
+Tue Jun  6 17:04:23 2006,JavaStackTraceHyperlinkAdapter.java,relves
+Tue Jun  6 17:04:23 2006,JavaStackTraceHyperlinkDetector.java,relves
+Tue Jun  6 17:04:23 2006,AntEditingMonitor.java,relves
+Tue Jun  6 17:04:23 2006,PdeEditingMonitor.java,relves
+Tue Jun 13  3:29:47 2006,TaskListInterestSorter.java,relves
+Tue Jun 13 23:06:52 2006,JavaStackTraceHyperlinkDetector.java,relves

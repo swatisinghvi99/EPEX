@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Mon Apr 27 21:21:08 2020,ReportTest.java,Henrik Plate
+Mon Apr 27 21:21:08 2020,ApplicationControllerTest.java,Henrik Plate
+Mon Apr 27 21:21:08 2020,pom.xml,Henrik Plate
+Mon Apr 27 21:21:08 2020,ExemptionBug.java,Henrik Plate
+Mon Apr 27 21:21:08 2020,IExemptionTest.java,Henrik Plate
+Tue Apr 28 12:20:09 2020,ExemptionBug.java,Henrik Plate
+Tue Apr 28 12:20:09 2020,IExemptionTest.java,Henrik Plate
+Wed Apr 29 14:49:25 2020,CoreConfiguration.java,Henrik Plate
+Wed Apr 29 14:49:25 2020,ReportGoal.java,Henrik Plate
+Wed Apr 29 14:49:25 2020,Report.java,Henrik Plate
+Wed Apr 29 14:49:25 2020,AffectedLibrary.java,Henrik Plate
+Wed Apr 29 14:49:25 2020,ExemptionBug.java,Henrik Plate
+Wed Apr 29 14:49:25 2020,IExemptionTest.java,Henrik Plate
+Mon May  4  9:35:18 2020,Report.java,Henrik Plate
+Mon May 11  7:59:23 2020,ApplicationRepositoryImpl.java,Henrik Plate
+Wed May 13 14:38:07 2020,BasicHttpRequest.java,Henrik Plate
+Wed May 13 14:38:07 2020,VulasConfiguration.java,Henrik Plate
+Wed May 13 14:38:07 2020,VulasConfigurationTest.java,Henrik Plate
+Wed May 13 14:38:52 2020,VulasConfiguration.java,Henrik Plate
+Wed May 13 15:00:33 2020,VulasConfigurationTest.java,Henrik Plate

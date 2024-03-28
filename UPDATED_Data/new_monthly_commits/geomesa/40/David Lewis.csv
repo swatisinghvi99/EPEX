@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Tue May 23 17:09:04 2017,GeoJsonGtIndex.scala,David Lewis
+Tue May 23 17:09:04 2017,GeoMesaIndexPropertyTransformer.scala,David Lewis
+Tue May 23 17:09:04 2017,GeoJsonQuery.scala,David Lewis
+Tue May 23 17:09:04 2017,PropertyTransformer.scala,David Lewis
+Tue May 23 17:09:04 2017,GeoJsonQueryTest.scala,David Lewis
+Mon May 29 14:37:20 2017,HBaseSpatialRDDProvider.scala,David Lewis
+Mon May 29 14:37:20 2017,DataStoreConnector.scala,David Lewis

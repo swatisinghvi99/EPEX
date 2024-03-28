@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Sun Jun 12 15:52:44 2016,RuleRegistry.java,adimova
+Sun Jun 12 15:52:44 2016,Input.java,adimova
+Sun Jun 12 15:52:44 2016,Output.java,adimova
+Sun Jun 12 15:52:44 2016,RuleRegistryImpl.java,adimova
+Sun Jun 12 15:52:44 2016,build.properties,adimova
+Sun Jun 12 15:52:44 2016,AutomationIntegrationJsonTest.groovy,adimova
+Sun Jun 12 15:52:44 2016,HostFragmentSupportTest.groovy,adimova
+Sun Jun 12 15:52:44 2016,AbstractResourceBundleProvider.java,adimova
+Sun Jun 12 15:52:44 2016,AutomationResourceBundlesEventQueue.java,adimova
+Sun Jun 12 15:52:44 2016,MANIFEST.MF,adimova
+Sun Jun 12 15:52:44 2016,ResourceBundleClassLoader.java,adimova
+Sun Jun 12 15:52:44 2016,ResourceBundleTracker.java,adimova
+Wed Jun 22 13:55:03 2016,Printer.java,adimova
+Wed Jun 22 13:55:03 2016,RuleRegistryImpl.java,adimova
+Wed Jun 22 13:55:03 2016,MANIFEST.MF,adimova
+Wed Jun 22 13:55:03 2016,AbstractResourceBundleProvider.java,adimova
+Wed Jun 22 13:55:03 2016,AutomationResourceBundlesEventQueue.java,adimova
+Wed Jun 22 13:55:03 2016,ModuleTypeResourceBundleProvider.java,adimova
+Wed Jun 22 13:55:03 2016,TemplateResourceBundleProvider.java,adimova
+Wed Jun 22 13:55:03 2016,ConfigDescriptionParameterI18nUtil.java,adimova
+Wed Jun 22 13:55:03 2016,ModuleTypeI18nUtil.java,adimova
+Wed Jun 22 13:55:03 2016,RuleTemplateI18nUtil.java,adimova
+Wed Jun 22 13:55:03 2016,org.eclipse.core.resources.prefs,adimova
+Wed Jun 22 13:55:03 2016,resourceName_bg.properties,adimova

@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Thu Mar  6  1:24:55 2008,SQLQuerySourceWriter.java,Brian Payton
+Thu Mar  6  1:25:27 2008,SQLQueryParserFactory.java,Brian Payton
+Fri Mar  7  0:48:46 2008,SQLLexer.java,Brian Payton
+Fri Mar  7  0:48:46 2008,SQLLexerprs.java,Brian Payton
+Fri Mar  7  0:48:46 2008,SQLLexersym.java,Brian Payton
+Fri Mar  7  0:48:46 2008,SQLParsersym.java,Brian Payton
+Thu Mar 13 17:18:52 2008,plugin.properties,Brian Payton
+Thu Mar 13 17:18:52 2008,plugin.xml,Brian Payton
+Thu Mar 13 17:18:52 2008,PreferencePage.java,Brian Payton
+Thu Mar 13 20:11:13 2008,SQLBuilderDBProposal.java,Brian Payton
+Thu Mar 13 20:11:13 2008,SQLBuilderDBProposalsService.java,Brian Payton
+Thu Mar 13 20:13:00 2008,SQLDBProposal.java,Brian Payton
+Wed Mar 26 16:16:17 2008,StatementHelper.java,Brian Payton
+Wed Mar 26 16:17:13 2008,ParameterMarkers.java,Brian Payton

@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Tue Feb 14 14:39:48 2012,Constraint.java,Hardy Ferentschik
+Tue Feb 14 14:39:48 2012,ConstraintValidatorContext.java,Hardy Ferentschik
+Tue Feb 14 14:39:48 2012,MessageInterpolator.java,Hardy Ferentschik
+Tue Feb 14 14:39:48 2012,Validation.java,Hardy Ferentschik
+Tue Feb 14 14:39:48 2012,ValidatorContext.java,Hardy Ferentschik
+Tue Feb 14 14:39:48 2012,GenericBootstrap.java,Hardy Ferentschik
+Tue Feb 14 14:39:48 2012,ProviderSpecificBootstrap.java,Hardy Ferentschik
+Tue Feb 14 14:39:48 2012,DecimalMin.java,Hardy Ferentschik
+Tue Feb 14 14:39:48 2012,Pattern.java,Hardy Ferentschik
+Tue Feb 14 14:39:48 2012,Size.java,Hardy Ferentschik
+Tue Feb 14 14:39:48 2012,package-info.java,Hardy Ferentschik
+Tue Feb 14 14:39:48 2012,BeanDescriptor.java,Hardy Ferentschik
+Tue Feb 14 14:39:48 2012,ElementDescriptor.java,Hardy Ferentschik
+Tue Feb 14 14:39:48 2012,PropertyDescriptor.java,Hardy Ferentschik
+Tue Feb 14 14:39:48 2012,ValidationProvider.java,Hardy Ferentschik

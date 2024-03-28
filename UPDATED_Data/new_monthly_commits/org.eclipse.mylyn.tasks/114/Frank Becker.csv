@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Wed Nov 26 17:54:43 2014,BugzillaRestClientTest.java,Frank Becker
+Wed Nov 26 17:54:43 2014,BugzillaRestConnectorTest.java,Frank Becker
+Wed Nov 26 17:54:43 2014,configuration.json,Frank Becker
+Wed Nov 26 17:54:43 2014,parameters.json,Frank Becker
+Wed Nov 26 17:54:43 2014,BugzillaRestClient.java,Frank Becker
+Wed Nov 26 17:54:43 2014,BugzillaRestConfiguration.java,Frank Becker
+Wed Nov 26 17:54:43 2014,BugzillaRestRequest.java,Frank Becker
+Wed Nov 26 17:54:43 2014,ParameterResponse.java,Frank Becker
+Wed Nov 26 17:54:43 2014,Parameters.java,Frank Becker
+Thu Nov 27 18:53:59 2014,CustomTransitionManager.java,Frank Becker
+Thu Nov 27 18:53:59 2014,RepositoryConfiguration.java,Frank Becker
+Thu Nov 27 18:53:59 2014,defaultsites.pp,Frank Becker
+Thu Nov 27 18:53:59 2014,Extension.pm.erb,Frank Becker
+Thu Nov 27 18:53:59 2014,answers.erb,Frank Becker
+Thu Nov 27 18:53:59 2014,AllBugzillaTests.java,Frank Becker
+Thu Nov 27 18:53:59 2014,BugzillaCustomRepositoryTest.java,Frank Becker
+Thu Nov 27 18:53:59 2014,BugzillaXmlRpcClientTest.java,Frank Becker
+Thu Nov 27 18:53:59 2014,DescriptorFile-custom-wf-and-status.txt,Frank Becker

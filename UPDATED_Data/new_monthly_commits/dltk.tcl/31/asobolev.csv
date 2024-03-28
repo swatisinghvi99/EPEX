@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Wed Sep  2  9:48:38 2009,TclParser.java,asobolev
+Mon Sep  7  5:36:48 2009,DLTKIndexerApplication.java,asobolev
+Mon Sep  7  9:17:57 2009,TclProjectWizardFirstPage.java,asobolev
+Mon Sep  7  9:18:00 2009,TclCheckerType.java,asobolev
+Mon Sep  7 10:31:42 2009,DefaultTclSemanticHighlightingExtension.java,asobolev
+Tue Sep  8  8:37:25 2009,TclSourcesElement.java,asobolev
+Tue Sep  8  8:37:25 2009,TclSourcesFragment.java,asobolev
+Tue Sep  8  8:37:25 2009,TclSourcesPseudoSourceModule.java,asobolev
+Tue Sep 22 10:56:36 2009,TclPackageElement.java,asobolev
+Tue Sep 22 10:56:36 2009,TclSourcesElement.java,asobolev
+Tue Sep 22 10:56:36 2009,TclSourceElementRequestVisitor.java,asobolev

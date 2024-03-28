@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Wed Feb 25 23:24:04 2004,ChangeLog,Bogdan Gheorghe
+Wed Feb 25 23:24:04 2004,DependencyTests.java,Bogdan Gheorghe
+Wed Feb 25 23:24:04 2004,ChangeLog,Bogdan Gheorghe
+Wed Feb 25 23:24:04 2004,UpdateDependency.java,Bogdan Gheorghe
+Wed Feb 25 23:24:04 2004,ChangeLog-parser,Bogdan Gheorghe
+Wed Feb 25 23:24:04 2004,SelectionParser.java,Bogdan Gheorghe
+Wed Feb 25 23:24:04 2004,ChangeLog,Bogdan Gheorghe
+Wed Feb 25 23:24:04 2004,MainActionGroup.java,Bogdan Gheorghe
+Wed Feb 25 23:24:04 2004,CContentOutlinePage.java,Bogdan Gheorghe
+Wed Feb 25 23:24:04 2004,CEditor.java,Bogdan Gheorghe
+Wed Feb 25 23:24:04 2004,CSearchMessages.properties,Bogdan Gheorghe
+Wed Feb 25 23:24:04 2004,DeclarationsSearchGroup.java,Bogdan Gheorghe
+Wed Feb 25 23:24:04 2004,FindAction.java,Bogdan Gheorghe
+Wed Feb 25 23:24:04 2004,FindDeclarationsAction.java,Bogdan Gheorghe
+Wed Feb 25 23:24:04 2004,FindDeclarationsInWorkingSetAction.java,Bogdan Gheorghe
+Wed Feb 25 23:24:04 2004,FindRefsAction.java,Bogdan Gheorghe
+Wed Feb 25 23:24:04 2004,FindRefsInWorkingSetAction.java,Bogdan Gheorghe
+Wed Feb 25 23:24:04 2004,ReferencesSearchGroup.java,Bogdan Gheorghe
+Wed Feb 25 23:24:04 2004,SelectionSearchGroup.java,Bogdan Gheorghe

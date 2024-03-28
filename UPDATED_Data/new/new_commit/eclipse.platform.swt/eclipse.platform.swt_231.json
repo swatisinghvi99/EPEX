@@ -1,0 +1,212 @@
+[
+    [
+        "Alexander Kurtakov",
+        "c",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "h",
+        2
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        40
+    ],
+    [
+        "Eclipse Releng Bot",
+        "java",
+        18
+    ],
+    [
+        "Eclipse Releng Bot",
+        "mak",
+        18
+    ],
+    [
+        "Eclipse Releng Bot",
+        "toml",
+        14
+    ],
+    [
+        "Lakshmi Shanmugam",
+        "java",
+        7
+    ],
+    [
+        "Jonah Graham",
+        "java",
+        2
+    ],
+    [
+        "Carsten Hammer",
+        "java",
+        1
+    ],
+    [
+        "Paul D'Pong",
+        "java",
+        114
+    ],
+    [
+        "Paul D'Pong",
+        "c",
+        24
+    ],
+    [
+        "Paul D'Pong",
+        "h",
+        25
+    ],
+    [
+        "Guillermo Zunino",
+        "classpath_cocoa",
+        1
+    ],
+    [
+        "Guillermo Zunino",
+        "classpath_gtk",
+        1
+    ],
+    [
+        "Guillermo Zunino",
+        "classpath_win32",
+        1
+    ],
+    [
+        "Guillermo Zunino",
+        "gitignore",
+        1
+    ],
+    [
+        "Guillermo Zunino",
+        "project",
+        2
+    ],
+    [
+        "Guillermo Zunino",
+        "prefs",
+        3
+    ],
+    [
+        "Guillermo Zunino",
+        "MF",
+        2
+    ],
+    [
+        "Guillermo Zunino",
+        "inf",
+        1
+    ],
+    [
+        "Guillermo Zunino",
+        "html",
+        1
+    ],
+    [
+        "Guillermo Zunino",
+        "txt",
+        1
+    ],
+    [
+        "Guillermo Zunino",
+        "properties",
+        3
+    ],
+    [
+        "Guillermo Zunino",
+        "xml",
+        7
+    ],
+    [
+        "Guillermo Zunino",
+        "classpath",
+        1
+    ],
+    [
+        "Guillermo Zunino",
+        "java",
+        30
+    ],
+    [
+        "Guillermo Zunino",
+        "h",
+        8
+    ],
+    [
+        "Guillermo Zunino",
+        "c",
+        4
+    ],
+    [
+        "Guillermo Zunino",
+        "rc",
+        1
+    ],
+    [
+        "Guillermo Zunino",
+        "md",
+        1
+    ],
+    [
+        "Guillermo Zunino",
+        "unknown",
+        2
+    ],
+    [
+        "Guillermo Zunino",
+        "lock",
+        2
+    ],
+    [
+        "Guillermo Zunino",
+        "toml",
+        2
+    ],
+    [
+        "Guillermo Zunino",
+        "rs",
+        13
+    ],
+    [
+        "Guillermo Zunino",
+        "setup",
+        1
+    ],
+    [
+        "Guillermo Zunino",
+        "api_filters",
+        1
+    ],
+    [
+        "Guillermo Zunino",
+        "sh",
+        2
+    ],
+    [
+        "Guillermo Zunino",
+        "mak",
+        4
+    ],
+    [
+        "Guillermo Zunino",
+        "bat",
+        1
+    ],
+    [
+        "Lars Vogel",
+        "java",
+        11
+    ],
+    [
+        "Alexandr Miloslavskiy",
+        "java",
+        14
+    ],
+    [
+        "Thomas Singer",
+        "java",
+        3
+    ]
+]

@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Tue Dec  4 22:34:34 2012,MANIFEST.MF,Wim Jongman
+Tue Dec  4 22:34:34 2012,PatternFilter.java,Wim Jongman
+Tue Dec  4 22:34:34 2012,ModelEditor.java,Wim Jongman
+Wed Dec  5  9:26:02 2012,PatternFilter.java,Wim Jongman
+Wed Dec  5 11:20:33 2012,PatternFilter.java,Wim Jongman
+Thu Dec  6 22:38:11 2012,ModelEditor.java,Wim Jongman
+Sat Dec  8 20:59:41 2012,ViewerElement.java,Wim Jongman
+Sat Dec  8 21:07:04 2012,ModelFragmentsEditor.java,Wim Jongman
+Sat Dec  8 21:07:04 2012,VModelImportsEditor.java,Wim Jongman
+Sun Dec  9 16:47:39 2012,ModelEditor.java,Wim Jongman
+Sun Dec  9 23:41:33 2012,plugin.xml,Wim Jongman
+Sun Dec  9 23:41:33 2012,ClassRenameParticipant.java,Wim Jongman
+Sun Dec  9 23:41:33 2012,RefactorParticipantDelegate.java,Wim Jongman
+Sun Dec  9 23:41:33 2012,ApplicationModelEditor.java,Wim Jongman
+Mon Dec 10 15:24:14 2012,ApplicationModelEditor.java,Wim Jongman
+Sun Dec 16 16:05:29 2012,ModelEditor.java,Wim Jongman
+Sun Dec 16 16:05:29 2012,ApplicationModelEditor.java,Wim Jongman
+Sun Dec 16 16:08:14 2012,plugin.xml,Wim Jongman
+Sun Dec 16 16:08:14 2012,RenameParticipant.java,Wim Jongman
+Mon Dec 17  8:40:05 2012,PatternFilter.java,Wim Jongman
+Wed Dec 19  9:59:04 2012,ModelEditor.java,Wim Jongman
+Wed Dec 19 10:01:31 2012,plugin.xml,Wim Jongman
+Wed Dec 19 10:01:31 2012,ClassMoveParticipant.java,Wim Jongman
+Wed Dec 19 10:01:31 2012,ModelMoveParticipant.java,Wim Jongman
+Wed Dec 19 10:01:31 2012,ModelRenameParticipant.java,Wim Jongman
+Wed Dec 19 10:01:31 2012,ApplicationModelEditor.java,Wim Jongman

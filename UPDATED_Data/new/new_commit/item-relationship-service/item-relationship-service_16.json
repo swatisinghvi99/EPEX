@@ -1,0 +1,167 @@
+[
+    [
+        "ds-ext-abugajewski",
+        "java",
+        86
+    ],
+    [
+        "ds-ext-abugajewski",
+        "yaml",
+        1
+    ],
+    [
+        "ds-ext-abugajewski",
+        "json",
+        2
+    ],
+    [
+        "Jaro Hartmann",
+        "java",
+        199
+    ],
+    [
+        "Jaro Hartmann",
+        "json",
+        20
+    ],
+    [
+        "Jaro Hartmann",
+        "md",
+        5
+    ],
+    [
+        "Jaro Hartmann",
+        "py",
+        5
+    ],
+    [
+        "Jaro Hartmann",
+        "xml",
+        4
+    ],
+    [
+        "Jaro Hartmann",
+        "yml",
+        4
+    ],
+    [
+        "Jaro Hartmann",
+        "yaml",
+        2
+    ],
+    [
+        "ds-alexander-bulgakov",
+        "java",
+        4
+    ],
+    [
+        "ds-alexander-bulgakov",
+        "yaml",
+        4
+    ],
+    [
+        "ds-alexander-bulgakov",
+        "py",
+        5
+    ],
+    [
+        "Krzysztof Massalski (Extern)",
+        "yaml",
+        3
+    ],
+    [
+        "Krzysztof Massalski (Extern)",
+        "adoc",
+        4
+    ],
+    [
+        "Krzysztof Massalski (Extern)",
+        "java",
+        62
+    ],
+    [
+        "Krzysztof Massalski (Extern)",
+        "json",
+        3
+    ],
+    [
+        "Krzysztof Massalski (Extern)",
+        "md",
+        2
+    ],
+    [
+        "Krzysztof Massalski (Extern)",
+        "puml",
+        3
+    ],
+    [
+        "Krzysztof Massalski (Extern)",
+        "yml",
+        1
+    ],
+    [
+        "Krzysztof Massalski (Extern)",
+        "py",
+        1
+    ],
+    [
+        "Jan Kreutzfeld",
+        "unknown",
+        3
+    ],
+    [
+        "Jan Kreutzfeld",
+        "java",
+        254
+    ],
+    [
+        "Jan Kreutzfeld",
+        "xml",
+        32
+    ],
+    [
+        "Jan Kreutzfeld",
+        "config",
+        1
+    ],
+    [
+        "Jan Kreutzfeld",
+        "yml",
+        2
+    ],
+    [
+        "Jan Kreutzfeld",
+        "md",
+        5
+    ],
+    [
+        "Jan Kreutzfeld",
+        "yaml",
+        10
+    ],
+    [
+        "Jan Kreutzfeld",
+        "py",
+        4
+    ],
+    [
+        "Jan Kreutzfeld",
+        "json",
+        3
+    ],
+    [
+        "Jan Kreutzfeld",
+        "helmignore",
+        1
+    ],
+    [
+        "Jan Kreutzfeld",
+        "sh",
+        2
+    ],
+    [
+        "Jan Kreutzfeld",
+        "factories",
+        1
+    ]
+]

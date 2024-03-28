@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Mon Aug  2 19:24:50 2021,mp_checkstyle_rules.xml,Nathan Rauh
+Mon Aug  2 19:24:50 2021,builders.asciidoc,Nathan Rauh
+Mon Aug  2 19:24:50 2021,cdi.asciidoc,Nathan Rauh
+Mon Aug  2 19:24:50 2021,pom.xml,Nathan Rauh
+Mon Aug  2 19:24:50 2021,MPConfigBean.java,Nathan Rauh
+Mon Aug  2 19:24:50 2021,MPConfigTest.java,Nathan Rauh
+Mon Aug  2 19:24:50 2021,ManagedExecutorTest.java,Nathan Rauh
+Mon Aug  2 19:24:50 2021,ProducerBean.java,Nathan Rauh
+Mon Aug  2 19:24:50 2021,ThreadContextTest.java,Nathan Rauh
+Mon Aug  2 19:24:50 2021,BasicCDITest.java,Nathan Rauh
+Mon Aug  2 19:24:50 2021,CDIBean.java,Nathan Rauh
+Mon Aug  2 19:24:50 2021,CDIContextTest.java,Nathan Rauh
+Mon Aug  2 19:24:50 2021,CdiBeanProducer.java,Nathan Rauh
+Mon Aug  2 19:24:50 2021,ConversationScopedBean.java,Nathan Rauh
+Mon Aug  2 19:24:50 2021,JTACDITest.java,Nathan Rauh
+Mon Aug  2 19:24:50 2021,RequestScopedBean.java,Nathan Rauh
+Mon Aug  2 19:24:50 2021,SessionScopedBean.java,Nathan Rauh
+Mon Aug  2 19:24:50 2021,TransactionalBeanImpl.java,Nathan Rauh
+Mon Aug  2 19:24:50 2021,TransactionalService.java,Nathan Rauh

@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Thu Mar  2 12:02:54 2023,validation.yaml,Georgi Boyvalenkov
+Thu Mar  2 12:02:54 2023,lib_operation_status_test.go,Georgi Boyvalenkov
+Thu Mar  2 12:02:54 2023,software_updatable_config_test.go,Georgi Boyvalenkov
+Thu Mar  2 12:02:54 2023,software_updatable_test.go,Georgi Boyvalenkov
+Thu Mar  2 12:02:54 2023,feature_test.go,Georgi Boyvalenkov
+Thu Mar  2 12:02:54 2023,flags_test.go,Georgi Boyvalenkov
+Thu Mar  2 12:02:54 2023,logger_test.go,Georgi Boyvalenkov
+Thu Mar  2 12:02:54 2023,status_test.go,Georgi Boyvalenkov
+Thu Mar  2 12:02:54 2023,archive_test.go,Georgi Boyvalenkov
+Thu Mar  2 12:02:54 2023,download_test.go,Georgi Boyvalenkov
+Thu Mar  2 12:02:54 2023,http_test_util.go,Georgi Boyvalenkov
+Thu Mar  2 12:02:54 2023,storage_test.go,Georgi Boyvalenkov
+Thu Mar  2 12:02:54 2023,utils_test.go,Georgi Boyvalenkov
+Thu Mar  2 12:02:54 2023,utils_test.go,Georgi Boyvalenkov

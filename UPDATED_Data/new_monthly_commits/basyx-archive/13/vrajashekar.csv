@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Fri Feb  8  9:08:08 2019,WebServiceJSONClient.java,vrajashekar
+Fri Feb  8  9:08:08 2019,IBaSyxConnector.java,vrajashekar
+Fri Feb  8  9:08:08 2019,JSONConnector.java,vrajashekar
+Fri Feb  8  9:08:08 2019,BaSyxConnector.java,vrajashekar
+Fri Feb  8  9:08:08 2019,HTTPConnector.java,vrajashekar
+Fri Feb  8  9:08:08 2019,GSONTools.java,vrajashekar
+Fri Feb  8  9:08:08 2019,JSONProvider.java,vrajashekar
+Fri Feb  8  9:08:08 2019,pom.xml,vrajashekar
+Fri Feb  8  9:08:08 2019,SerializeArray.java,vrajashekar
+Fri Feb  8  9:08:08 2019,SerializeCollection.java,vrajashekar
+Fri Feb  8  9:08:08 2019,SerializeDeserializeArray.java,vrajashekar
+Fri Feb  8  9:08:08 2019,SerializeDeserializeCollection.java,vrajashekar
+Fri Feb  8  9:08:08 2019,SerializeDeserializeMap.java,vrajashekar
+Fri Feb  8  9:08:08 2019,SerializeDeserializePrimitives.java,vrajashekar
+Fri Feb  8  9:08:08 2019,SerializeMap.java,vrajashekar

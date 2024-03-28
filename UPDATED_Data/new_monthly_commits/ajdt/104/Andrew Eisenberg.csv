@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Wed May  1 19:41:16 2013,CoreBuildMessageHandler.java,Andrew Eisenberg
+Wed May  1 19:41:16 2013,org.eclipse.jdt.core.prefs,Andrew Eisenberg
+Mon May  6 22:29:18 2013,AspectPathTests.java,Andrew Eisenberg
+Mon May  6 22:29:18 2013,MANIFEST.MF,Andrew Eisenberg
+Mon May  6 22:29:18 2013,PushinRefactoringTests.java,Andrew Eisenberg
+Mon May  6 22:29:18 2013,AJDTContentProviderTest.java,Andrew Eisenberg
+Mon May  6 22:29:18 2013,AJDTContentProvider.java,Andrew Eisenberg
+Mon May  6 22:29:18 2013,JDTMember.java,Andrew Eisenberg
+Mon May  6 22:29:18 2013,SourceTransformerAspect.aj,Andrew Eisenberg
+Tue May  7  4:59:44 2013,AbstractAJDTRefactoringTest.java,Andrew Eisenberg
+Tue May  7  4:59:44 2013,AspectRenameRefactoringTests.java,Andrew Eisenberg
+Tue May  7  4:59:44 2013,MoveCURefactoringTests.java,Andrew Eisenberg
+Tue May  7  4:59:44 2013,PushinRefactoringTests.java,Andrew Eisenberg
+Tue May  7 15:45:39 2013,AspectRenameRefactoringTests.java,Andrew Eisenberg
+Tue May  7 15:45:39 2013,PushinRefactoringTests.java,Andrew Eisenberg
+Thu May  9 18:23:13 2013,CoreOutputLocationManager.java,Andrew Eisenberg
+Thu May  9 18:23:13 2013,PushinRefactoringTests.java,Andrew Eisenberg
+Thu May  9 18:23:13 2013,PushInRefactoring.java,Andrew Eisenberg
+Fri May 10 16:05:49 2013,PushinRefactoringTests.java,Andrew Eisenberg

@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Tue Feb 21 22:41:16 2017,pom.xml,Tom Kunicki
+Tue Feb 21 22:41:16 2017,IndexAdapter.scala,Tom Kunicki
+Wed Mar  1 17:59:16 2017,.gitignore,Tom Kunicki
+Wed Mar  1 17:59:16 2017,pom.xml,Tom Kunicki
+Wed Mar  1 17:59:16 2017,component.xml,Tom Kunicki
+Wed Mar  1 17:59:16 2017,AccumuloSpatialRDDProvider.scala,Tom Kunicki
+Wed Mar  1 17:59:16 2017,ConverterSpatialRDDProvider.scala,Tom Kunicki
+Wed Mar  1 17:59:16 2017,pom.xml,Tom Kunicki
+Wed Mar  1 17:59:16 2017,GeoMesaSpark.scala,Tom Kunicki
+Wed Mar  1 17:59:16 2017,GeoMesaSparkKryoRegistrator.scala,Tom Kunicki
+Wed Mar  1 17:59:16 2017,JavaGeoMesaSpark.scala,Tom Kunicki
+Wed Mar  1 17:59:16 2017,GeoToolsSpatialRDDProvider.scala,Tom Kunicki
+Wed Mar  1 17:59:16 2017,pom.xml,Tom Kunicki
+Wed Mar  1 17:59:16 2017,__init__.py,Tom Kunicki
+Wed Mar  1 17:59:16 2017,spark.py,Tom Kunicki
+Wed Mar  1 17:59:16 2017,setup.py,Tom Kunicki
+Wed Mar  1 17:59:16 2017,pom.xml,Tom Kunicki
+Wed Mar  1 17:59:16 2017,pom.xml,Tom Kunicki
+Mon Mar  6 20:28:06 2017,JavaGeoMesaSpark.scala,Tom Kunicki
+Tue Mar  7 21:16:01 2017,GeoMesaSparkKryoRegistratorEndpoint.scala,Tom Kunicki
+Tue Mar  7 21:16:01 2017,GeoMesaSpark.scala,Tom Kunicki
+Tue Mar  7 21:16:01 2017,GeoMesaSparkKryoRegistrator.scala,Tom Kunicki

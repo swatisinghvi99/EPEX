@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Fri Feb  5 12:49:26 2016,MANIFEST.MF,Esteban Dugueperoux
+Fri Feb  5 12:49:26 2016,HTTPServerConnector.java,Esteban Dugueperoux
+Fri Feb  5 12:49:26 2016,MANIFEST.MF,Esteban Dugueperoux
+Fri Feb  5 12:49:26 2016,JVMAcceptor.java,Esteban Dugueperoux
+Fri Feb  5 12:49:26 2016,JVMServerConnector.java,Esteban Dugueperoux
+Fri Feb  5 12:49:26 2016,TCPServerConnector.java,Esteban Dugueperoux
+Fri Feb  5 12:49:26 2016,Bugzilla_241463_Test.java,Esteban Dugueperoux
+Fri Feb  5 12:49:26 2016,.api_filters,Esteban Dugueperoux
+Fri Feb  5 12:49:26 2016,GZIPStreamWrapper.java,Esteban Dugueperoux
+Fri Feb  5 12:49:26 2016,IStreamWrapper.java,Esteban Dugueperoux
+Fri Feb  5 12:49:26 2016,.api_filters,Esteban Dugueperoux
+Fri Feb  5 12:49:26 2016,plugin.xml,Esteban Dugueperoux
+Fri Feb  5 12:49:26 2016,ContainerProtocolProvider.java,Esteban Dugueperoux
+Fri Feb  5 12:49:26 2016,Net4jUtil.java,Esteban Dugueperoux
+Fri Feb  5 12:49:26 2016,TransportConfigurator.java,Esteban Dugueperoux
+Fri Feb  5 12:49:26 2016,IServerConnector.java,Esteban Dugueperoux
+Fri Feb  5 12:49:26 2016,StreamWrapperInjector.java,Esteban Dugueperoux
+Fri Feb  5 12:49:26 2016,ChannelMultiplexer.java,Esteban Dugueperoux
+Fri Feb  5 12:49:26 2016,InternalChannelMultiplexer.java,Esteban Dugueperoux

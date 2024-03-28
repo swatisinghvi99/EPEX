@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Mon Aug 15 13:18:22 2022,MANIFEST.MF,Pierre-Charles David
+Mon Aug 15 13:18:22 2022,pom.xml,Pierre-Charles David
+Mon Aug 15 13:18:22 2022,StringMatcherTest.java,Pierre-Charles David
+Mon Aug 15 13:18:22 2022,MANIFEST.MF,Pierre-Charles David
+Mon Aug 15 13:18:22 2022,pom.xml,Pierre-Charles David
+Mon Aug 15 13:18:22 2022,MANIFEST.MF,Pierre-Charles David
+Mon Aug 15 13:18:22 2022,pom.xml,Pierre-Charles David
+Mon Aug 15 13:18:22 2022,ProviderDescriptor.java,Pierre-Charles David
+Mon Aug 15 13:18:22 2022,StringMatcher.java,Pierre-Charles David
+Mon Aug 15 13:18:22 2022,XmlConstraintFactory.java,Pierre-Charles David
+Mon Aug 15 13:18:22 2022,Category.java,Pierre-Charles David
+Mon Aug 15 13:18:22 2022,XmlConfig.java,Pierre-Charles David
+Sat Aug 27 16:03:11 2022,ConstraintDescriptorTest.java,Pierre-Charles David
+Sat Aug 27 16:03:11 2022,AbstractOCLModelConstraint.java,Pierre-Charles David
+Sat Aug 27 16:03:11 2022,ConstraintImpl.java,Pierre-Charles David
+Sat Aug 27 16:03:11 2022,ConstraintsBundleImpl.java,Pierre-Charles David
+Sat Aug 27 16:03:11 2022,MarkerUtil.java,Pierre-Charles David
+Sat Aug 27 16:03:11 2022,LogCapture.java,Pierre-Charles David
+Sat Aug 27 16:03:11 2022,LiveValidatorTest.java,Pierre-Charles David
+Sat Aug 27 16:03:11 2022,FilteredCollectionTest.java,Pierre-Charles David
+Sat Aug 27 17:10:30 2022,BatchValidationDelegate.java,Pierre-Charles David
+Sat Aug 27 17:10:30 2022,JavaConstraintParser.java,Pierre-Charles David
+Sat Aug 27 17:10:30 2022,XmlConstraintFactory.java,Pierre-Charles David
+Sat Aug 27 17:10:30 2022,AbstractXmlConstraintDescriptor.java,Pierre-Charles David
+Sat Aug 27 17:10:30 2022,XmlConstraintProvider.java,Pierre-Charles David
+Sat Aug 27 17:12:49 2022,ConstraintsSelectionBlock.java,Pierre-Charles David

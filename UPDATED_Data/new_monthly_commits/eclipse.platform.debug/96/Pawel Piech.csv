@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Wed May  6 19:14:48 2009,IDebugHelpContextIds.java,Pawel Piech
+Wed May  6 19:14:48 2009,NavigateModelAction.java,Pawel Piech
+Wed May  6 19:14:48 2009,IModelNavigateProxy.java,Pawel Piech
+Wed May  6 19:14:48 2009,IModelNavigateUpdate.java,Pawel Piech
+Wed May  6 19:14:48 2009,DebugTargetProxy.java,Pawel Piech
+Wed May  6 19:14:48 2009,LaunchView.java,Pawel Piech
+Wed May  6 19:14:48 2009,NextThreadNavAction.java,Pawel Piech
+Wed May  6 19:14:48 2009,PreviousThreadNavAction.java,Pawel Piech
+Wed May  6 19:14:48 2009,AbstractDebugView.java,Pawel Piech
+Wed May  6 22:19:57 2009,LaunchViewBreadcrumb.java,Pawel Piech
+Thu May  7 15:16:42 2009,BreadcrumbItemDropDown.java,Pawel Piech
+Fri May  8 17:08:19 2009,ToggleBreakpointObjectActionDelegate.java,Pawel Piech

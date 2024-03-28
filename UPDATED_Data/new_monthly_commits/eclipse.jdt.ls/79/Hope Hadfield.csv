@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Tue Aug 15 15:44:03 2023,FoldingRangeHandler.java,Hope Hadfield
+Tue Aug 15 15:44:03 2023,SimpleFoldingRange.java,Hope Hadfield
+Tue Aug 15 15:44:03 2023,FoldingRangeHandlerTest.java,Hope Hadfield
+Tue Aug 15 22:27:53 2023,FoldingRangeHandler.java,Hope Hadfield
+Tue Aug 15 22:27:53 2023,NestedSwitchFoldingRange.java,Hope Hadfield
+Tue Aug 15 22:27:53 2023,FoldingRangeHandlerTest.java,Hope Hadfield
+Wed Aug 16 19:44:47 2023,SemanticTokensVisitor.java,Hope Hadfield
+Wed Aug 16 19:44:47 2023,SemanticTokensHandlerTest.java,Hope Hadfield
+Wed Aug 23 16:25:21 2023,SemanticTokensVisitor.java,Hope Hadfield
+Wed Aug 23 16:25:21 2023,Constructors.java,Hope Hadfield
+Wed Aug 23 16:25:21 2023,SemanticTokensHandlerTest.java,Hope Hadfield
+Wed Aug 30  1:17:56 2023,Preferences.java,Hope Hadfield
+Wed Aug 30  1:17:56 2023,TestJDT.java,Hope Hadfield
+Wed Aug 30  1:17:56 2023,TestJavax.java,Hope Hadfield
+Wed Aug 30  1:17:56 2023,NullAnalysisTest.java,Hope Hadfield
+Thu Aug 31 20:47:46 2023,SnippetCompletionProposal.java,Hope Hadfield
+Thu Aug 31 20:47:46 2023,SnippetUtils.java,Hope Hadfield
+Thu Aug 31 20:47:46 2023,CodeSnippetTemplate.java,Hope Hadfield
+Thu Aug 31 20:47:46 2023,JavaContextType.java,Hope Hadfield
+Thu Aug 31 20:47:46 2023,JavaContextTypeRegistry.java,Hope Hadfield
+Thu Aug 31 20:47:46 2023,CompletionHandlerTest.java,Hope Hadfield

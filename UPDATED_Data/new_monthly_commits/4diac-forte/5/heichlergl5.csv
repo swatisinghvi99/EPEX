@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Thu Jun  9 18:02:36 2016,fileres.cpp,heichlergl5
+Thu Jun  9 18:02:36 2016,fileres.h,heichlergl5
+Thu Jun  9 18:02:36 2016,uncopyable.h,heichlergl5
+Fri Jun 10 13:30:41 2016,fileres.cpp,heichlergl5
+Fri Jun 10 13:30:41 2016,fileres.h,heichlergl5
+Fri Jun 10 13:30:41 2016,uncopyable.h,heichlergl5
+Fri Jun 10 14:01:27 2016,gpiopin.cpp,heichlergl5
+Fri Jun 10 14:01:27 2016,gpiopin.h,heichlergl5
+Fri Jun 10 14:03:43 2016,spidevice.cpp,heichlergl5
+Fri Jun 10 14:03:43 2016,spidevice.h,heichlergl5
+Fri Jun 10 14:05:16 2016,ads1018.cpp,heichlergl5
+Fri Jun 10 14:05:16 2016,ads1018.h,heichlergl5
+Fri Jun 10 14:06:32 2016,processinterface.cpp,heichlergl5
+Fri Jun 10 14:06:32 2016,processinterface.h,heichlergl5

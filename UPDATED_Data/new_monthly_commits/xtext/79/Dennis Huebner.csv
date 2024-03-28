@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Tue Nov 11 10:53:08 2014,ASTFlattenerUtils.xtend,Dennis Huebner
+Tue Nov 11 10:53:08 2014,JavaASTFlattener.xtend,Dennis Huebner
+Tue Nov 11 10:53:08 2014,JavaConverter.xtend,Dennis Huebner
+Tue Nov 11 10:53:08 2014,PasteJavaCodeHandler.java,Dennis Huebner
+Tue Nov 11 10:53:08 2014,JavaConverterTest.xtend,Dennis Huebner
+Tue Nov 11 10:53:08 2014,JavaFileConverterTest.xtend,Dennis Huebner
+Tue Nov 11 14:06:10 2014,RefactoringIntegrationTest.java,Dennis Huebner
+Fri Nov 21 13:19:21 2014,XtextProjectCreator.java,Dennis Huebner
+Wed Dec  3 10:06:53 2014,XtextResourceSet.java,Dennis Huebner
+Wed Dec  3 10:06:53 2014,JvmImplementationOpener.java,Dennis Huebner

@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Mon Jan 13 15:26:50 2020,InvokeWithBuiltProvidersTest.java,Andy McCright
+Mon Jan 13 15:26:50 2020,InvokeWithRegisteredProvidersTest.java,Andy McCright
+Mon Jan 13 15:26:50 2020,CDIInvokeWithRegisteredProvidersTest.java,Andy McCright
+Mon Jan 13 15:26:50 2020,InterfaceBase.java,Andy McCright
+Mon Jan 13 15:26:50 2020,InterfaceWithProvidersDefined.java,Andy McCright
+Mon Jan 13 15:26:50 2020,InterfaceWithoutProvidersDefined.java,Andy McCright
+Mon Jan 13 15:26:50 2020,InterfaceWithoutProvidersDefinedWithConfigKey.java,Andy McCright
+Mon Jan 13 15:26:50 2020,TestParamConverter.java,Andy McCright
+Mon Jan 13 15:26:50 2020,Widget.java,Andy McCright

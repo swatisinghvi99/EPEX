@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Mon Jul  6 13:39:10 2020,configuration.asciidoc,Sergey Beryozkin
+Mon Jul  6 13:39:10 2020,TokenUtils.java,Sergey Beryozkin
+Mon Jul  6 13:39:10 2020,RsaKeySignatureTest.java,Sergey Beryozkin
+Mon Jul  6 13:39:10 2020,TokenUtilsTest.java,Sergey Beryozkin
+Mon Jul  6 13:39:10 2020,microprofile-config-rsakey1024-location.properties,Sergey Beryozkin
+Mon Jul  6 13:39:10 2020,rsaPrivateKey1024bit.jwk,Sergey Beryozkin
+Mon Jul  6 13:39:10 2020,rsaPublicKey1024bit.jwk,Sergey Beryozkin
+Mon Jul  6 13:39:10 2020,tck-base-suite.xml,Sergey Beryozkin
+Fri Jul 10 13:35:58 2020,interoperability.asciidoc,Sergey Beryozkin
+Fri Jul 10 13:35:58 2020,TokenUtils.java,Sergey Beryozkin
+Fri Jul 10 13:35:58 2020,IssNoValidationBadIssTest.java,Sergey Beryozkin
+Fri Jul 10 13:35:58 2020,IssNoValidationNoIssTest.java,Sergey Beryozkin
+Fri Jul 10 13:35:58 2020,PublicKeyEndpoint.java,Sergey Beryozkin
+Fri Jul 10 13:35:58 2020,RequiredClaimsEndpoint.java,Sergey Beryozkin
+Fri Jul 10 13:35:58 2020,RequiredClaimsTest.java,Sergey Beryozkin
+Fri Jul 10 13:35:58 2020,TokenWithIatOlderThanExp.json,Sergey Beryozkin
+Fri Jul 10 13:35:58 2020,TokenWithoutExp.json,Sergey Beryozkin
+Fri Jul 10 13:35:58 2020,TokenWithoutName.json,Sergey Beryozkin
+Fri Jul 10 13:35:58 2020,tck-base-suite.xml,Sergey Beryozkin

@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Wed Mar  2 14:40:48 2022,launch.json,Camille Letavernier
+Wed Mar  2 14:40:48 2022,package.json,Camille Letavernier
+Wed Mar  2 14:40:48 2022,index.ts,Camille Letavernier
+Wed Mar  2 14:40:48 2022,model-server-client-api-v2.ts,Camille Letavernier
+Wed Mar  2 14:40:48 2022,model-server-client-v2-integration.spec.ts,Camille Letavernier
+Wed Mar  2 14:40:48 2022,model-server-client-v2.spec.ts,Camille Letavernier
+Wed Mar  2 14:40:48 2022,model-server-client-v2.ts,Camille Letavernier
+Wed Mar  2 14:40:48 2022,model-server-message.ts,Camille Letavernier
+Wed Mar  2 14:40:48 2022,model-server-notification.ts,Camille Letavernier
+Wed Mar  2 14:40:48 2022,base-model.ts,Camille Letavernier
+Wed Mar  2 14:40:48 2022,diagnostic.spec.ts,Camille Letavernier
+Wed Mar  2 14:40:48 2022,diagnostic.ts,Camille Letavernier
+Wed Mar  2 14:40:48 2022,subscription-listener.ts,Camille Letavernier
+Wed Mar  2 14:40:48 2022,patch-utils.ts,Camille Letavernier
+Wed Mar  2 14:40:48 2022,type-util.spec.ts,Camille Letavernier
+Wed Mar  2 14:40:48 2022,type-util.ts,Camille Letavernier
+Wed Mar  2 14:40:48 2022,frontend-module.ts,Camille Letavernier
+Wed Mar  2 14:40:48 2022,model-server-subscription-client.ts,Camille Letavernier
+Wed Mar  2 14:40:48 2022,yarn.lock,Camille Letavernier

@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Wed Apr 29 14:21:29 2020,README.md,Julie Stalley
+Wed Apr 29 14:21:29 2020,commands.go,Julie Stalley
+Wed Apr 29 14:21:29 2020,project.go,Julie Stalley
+Wed Apr 29 14:21:29 2020,bind.go,Julie Stalley
+Wed Apr 29 14:21:29 2020,projectConnection.go,Julie Stalley
+Wed Apr 29 14:21:29 2020,projectConnection_test.go,Julie Stalley
+Wed Apr 29 14:21:29 2020,remove.go,Julie Stalley
+Wed Apr 29 14:21:29 2020,sync.go,Julie Stalley
+Mon May  4 13:40:30 2020,projectConnection.go,Julie Stalley

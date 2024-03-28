@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Wed Aug 14 12:19:30 2019,UpdateManagerCompatibility.java,Lars Vogel
+Wed Aug 14 12:19:30 2019,AvailableIUsPage.java,Lars Vogel
+Wed Aug 14 12:19:30 2019,CopyUtils.java,Lars Vogel
+Wed Aug 14 12:19:30 2019,SelectableIUsPage.java,Lars Vogel
+Wed Aug 14 12:19:30 2019,UpdateSingleIUPage.java,Lars Vogel
+Wed Aug 14 12:19:30 2019,StringMatcher.java,Lars Vogel
+Wed Aug 14 12:19:30 2019,CategoryElement.java,Lars Vogel
+Wed Aug 14 12:19:30 2019,MetadataRepositoryElement.java,Lars Vogel
+Wed Aug 14 12:19:30 2019,IUDetailsLabelProvider.java,Lars Vogel
+Wed Aug 14 12:19:30 2019,IUDragAdapter.java,Lars Vogel
+Wed Aug 14 12:19:30 2019,RepositoryDetailsLabelProvider.java,Lars Vogel
+Wed Aug 14 12:19:30 2019,AcceptLicensesWizardPage.java,Lars Vogel
+Wed Aug 14 12:19:30 2019,RepositoryManipulationPage.java,Lars Vogel
+Wed Aug 14 14:59:41 2019,MANIFEST.MF,Lars Vogel
+Wed Aug 14 14:59:41 2019,InstalledIUGroup.java,Lars Vogel
+Thu Aug 15 14:28:33 2019,Pack200ProcessorStep.java,Lars Vogel
+Thu Aug 15 14:28:53 2019,Pack200ProcessorStep.java,Lars Vogel
+Thu Aug 15 14:28:53 2019,BlobStore.java,Lars Vogel
+Thu Aug 15 14:28:53 2019,Mapper.java,Lars Vogel
+Thu Aug 15 14:28:53 2019,SimpleArtifactRepository.java,Lars Vogel
+Thu Aug 15 14:28:53 2019,UniversalUniqueIdentifier.java,Lars Vogel

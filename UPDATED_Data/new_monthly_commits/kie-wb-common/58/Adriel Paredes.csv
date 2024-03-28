@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Wed Mar 14 14:52:22 2018,AddProjectPopUpPresenter.java,Adriel Paredes
+Mon Mar 26 12:54:52 2018,LibraryConstants.java,Adriel Paredes
+Mon Mar 26 12:54:52 2018,OrganizationalUnitsScreen.java,Adriel Paredes
+Mon Mar 26 12:54:52 2018,OrganizationalUnitsView.java,Adriel Paredes
+Mon Mar 26 12:54:52 2018,Library.properties,Adriel Paredes
+Tue Apr  3 16:26:32 2018,DMNDefinitionSetResourceType.java,Adriel Paredes
+Tue Apr  3 16:26:32 2018,FormResourceTypeDefinition.java,Adriel Paredes
+Tue Apr  3 16:26:32 2018,JavaResourceTypeDefinition.java,Adriel Paredes
+Tue Apr  3 16:26:32 2018,LibraryAssetTypeDefinition.java,Adriel Paredes
+Tue Apr  3 16:26:32 2018,LibraryIndexer.java,Adriel Paredes
+Tue Apr  3 16:26:32 2018,BaseLibraryIndexingTest.java,Adriel Paredes
+Tue Apr  3 16:26:32 2018,LibraryAssetTypeDefinitionTest.java,Adriel Paredes
+Tue Apr  3 16:26:32 2018,ProjectImportsResourceTypeDefinition.java,Adriel Paredes
+Tue Apr  3 16:26:32 2018,TestPropertiesFileTypeDefinition.java,Adriel Paredes
+Tue Apr  3 16:26:32 2018,TestDrlFileTypeDefinition.java,Adriel Paredes
+Tue Apr  3 16:26:32 2018,TestJavaResourceTypeDefinition.java,Adriel Paredes
+Tue Apr  3 16:26:32 2018,BPMNDefinitionSetResourceType.java,Adriel Paredes
+Tue Apr  3 16:26:32 2018,CaseManagementDefinitionSetResourceType.java,Adriel Paredes

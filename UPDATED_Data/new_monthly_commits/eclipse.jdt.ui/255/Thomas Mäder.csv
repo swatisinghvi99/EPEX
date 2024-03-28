@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Wed Jul 13 21:04:18 2022,CleanUpTest.java,Thomas Mäder
+Wed Jul 13 21:04:18 2022,OverriddenAssignmentCleanUp.java,Thomas Mäder
+Thu Jul 14  4:20:29 2022,CleanUpTest.java,Thomas Mäder
+Thu Jul 14  4:20:29 2022,OverriddenAssignmentCleanUp.java,Thomas Mäder
+Mon Jul 25 19:54:55 2022,CleanUpTest.java,Thomas Mäder
+Mon Jul 25 19:54:55 2022,OverriddenAssignmentCleanUp.java,Thomas Mäder
+Mon Jul 25 19:54:55 2022,CleanUpTabPage.java,Thomas Mäder
+Mon Jul 25 19:54:55 2022,UnnecessaryCodeTabPage.java,Thomas Mäder
+Tue Jul 26 20:24:00 2022,JavadocHover.java,Thomas Mäder
+Fri Jul 29  8:47:12 2022,CorrectionMessages.java,Thomas Mäder
+Fri Jul 29  8:47:12 2022,CorrectionMessages.properties,Thomas Mäder
+Fri Jul 29  8:47:12 2022,DoWhileRatherThanWhileFixCore.java,Thomas Mäder
+Fri Jul 29  8:47:12 2022,TypeParametersFixCore.java,Thomas Mäder
+Fri Jul 29  8:47:12 2022,DoWhileRatherThanWhileFix.java,Thomas Mäder
+Fri Jul 29  8:47:12 2022,LambdaExpressionsFix.java,Thomas Mäder
+Fri Jul 29  8:47:12 2022,PotentialProgrammingProblemsFix.java,Thomas Mäder
+Fri Jul 29  8:47:12 2022,SwitchExpressionsFix.java,Thomas Mäder
+Fri Jul 29  8:47:12 2022,TypeParametersFix.java,Thomas Mäder
+Fri Jul 29  8:47:12 2022,UnimplementedCodeFix.java,Thomas Mäder
+Fri Jul 29  8:47:12 2022,VariableDeclarationFix.java,Thomas Mäder
+Fri Jul 29  8:47:12 2022,TypeParametersCleanUp.java,Thomas Mäder
+Fri Jul 29  8:47:12 2022,UnimplementedCodeCleanUp.java,Thomas Mäder
+Fri Jul 29  8:47:12 2022,LocalCorrectionsSubProcessor.java,Thomas Mäder
+Fri Jul 29  8:47:12 2022,ModifierCorrectionSubProcessor.java,Thomas Mäder
+Fri Jul 29  8:47:12 2022,QuickAssistProcessor.java,Thomas Mäder
+Fri Jul 29  8:47:12 2022,TypeChangeCorrectionProposal.java,Thomas Mäder

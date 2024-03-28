@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Wed Dec 20 15:53:21 2023,DEPENDENCIES,Dorota Oeknigk-Urbanska
+Wed Dec 20 15:53:21 2023,S3BucketSchema.java,Dorota Oeknigk-Urbanska
+Wed Dec 20 15:53:21 2023,AbstractS3Test.java,Dorota Oeknigk-Urbanska
+Wed Dec 20 15:53:21 2023,S3DataSink.java,Dorota Oeknigk-Urbanska
+Wed Dec 20 15:53:21 2023,S3DataSinkFactory.java,Dorota Oeknigk-Urbanska
+Wed Dec 20 15:53:21 2023,S3DataSourceFactory.java,Dorota Oeknigk-Urbanska
+Wed Dec 20 15:53:21 2023,S3DataPlaneIntegrationTest.java,Dorota Oeknigk-Urbanska
+Wed Dec 20 15:53:21 2023,S3DataSinkTest.java,Dorota Oeknigk-Urbanska

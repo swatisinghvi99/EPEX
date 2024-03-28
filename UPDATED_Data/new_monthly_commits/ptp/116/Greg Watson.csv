@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Fri Jul 11  2:53:56 2014,JobStatusData.java,Greg Watson
+Fri Jul 11  2:53:56 2014,TableHandler.java,Greg Watson
+Fri Jul 11  2:53:56 2014,MonitorControl.java,Greg Watson
+Fri Jul 11  2:53:56 2014,IMonitorControl.java,Greg Watson
+Fri Jul 11  2:53:56 2014,MonitorControlManager.java,Greg Watson
+Fri Jul 11  2:53:56 2014,ActionUtils.java,Greg Watson
+Fri Jul 11  2:53:56 2014,RemoveJobHandler.java,Greg Watson
+Fri Jul 11  2:53:56 2014,MonitorPropertyTester.java,Greg Watson
+Fri Jul 11 12:20:11 2014,.classpath,Greg Watson
+Fri Jul 11 12:20:11 2014,org.eclipse.jdt.core.prefs,Greg Watson
+Fri Jul 11 12:20:11 2014,MANIFEST.MF,Greg Watson
+Fri Jul 11 12:20:11 2014,LaunchController.java,Greg Watson
+Fri Jul 11 12:20:11 2014,CommandJob.java,Greg Watson
+Fri Jul 11 12:20:11 2014,CommandJobStatus.java,Greg Watson
+Fri Jul 11 18:55:59 2014,RuntimeProcess.java,Greg Watson
+Fri Jul 11 18:55:59 2014,LaunchController.java,Greg Watson
+Tue Jul 15 20:58:24 2014,ParallelLaunchConfigurationDelegate.java,Greg Watson
+Tue Jul 15 20:58:24 2014,JobManager.java,Greg Watson
+Tue Jul 15 20:58:24 2014,AbstractParallelElementView.java,Greg Watson
+Tue Jul 15 20:58:24 2014,AbstractParallelView.java,Greg Watson
+Tue Jul 15 20:58:24 2014,ParallelJobsView.java,Greg Watson
+Tue Jul 15 20:58:24 2014,PTPDebugUIPlugin.java,Greg Watson
+Tue Jul 15 20:58:24 2014,ParallelDebugView.java,Greg Watson

@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Sat May  9  0:57:20 2020,MANIFEST.MF,Demetr Starshov
+Sat May  9  0:57:20 2020,FullConnectivityChecker.java,Demetr Starshov
+Sat May  9  0:57:20 2020,DelegatingSSLSocketFactory.java,Demetr Starshov
+Sat May  9  0:57:20 2020,ReceivePack.java,Demetr Starshov
+Sat May  9  0:57:20 2020,JDKHttpConnection.java,Demetr Starshov
+Sat May  9  0:57:20 2020,MANIFEST.MF,Demetr Starshov
+Sat May  9  0:57:20 2020,IterativeConnectivityCheckerTest.java,Demetr Starshov
+Sat May  9  0:57:20 2020,IterativeConnectivityChecker.java,Demetr Starshov

@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Sep  4  7:03:27 2023,PortalDbContextTests.cs,Norbert Truchsess
+Mon Sep  4  8:41:20 2023,CustodianServiceTests.cs,Norbert Truchsess
+Wed Sep  6  6:14:55 2023,20230905140332_CPLP-2897-AdjustTriggers-7.Designer.cs,Norbert Truchsess
+Wed Sep  6  6:14:55 2023,20230905140332_CPLP-2897-AdjustTriggers-7.cs,Norbert Truchsess
+Wed Sep  6  6:14:55 2023,PortalDbContextModelSnapshot.cs,Norbert Truchsess
+Wed Sep  6  6:14:55 2023,AuditExtensions.cs,Norbert Truchsess
+Wed Sep  6  6:14:55 2023,AuditPropertyInformation.cs,Norbert Truchsess
+Wed Sep  6  6:14:55 2023,EntityTypeBuilderV1Extension.cs,Norbert Truchsess
+Tue Sep 12 13:54:23 2023,IdentityProviderBusinessLogic.cs,Norbert Truchsess
+Tue Sep 12 13:54:23 2023,InvitationBusinessLogic.cs,Norbert Truchsess
+Tue Sep 12 13:54:23 2023,IIdentityProviderRepository.cs,Norbert Truchsess
+Tue Sep 12 13:54:23 2023,IdentityProviderRepository.cs,Norbert Truchsess
+Tue Sep 12 13:54:23 2023,20230911091628_CPLP-3165-SetIdpOwnerMandatory.Designer.cs,Norbert Truchsess
+Tue Sep 12 13:54:23 2023,20230911091628_CPLP-3165-SetIdpOwnerMandatory.cs,Norbert Truchsess
+Tue Sep 12 13:54:23 2023,PortalDbContextModelSnapshot.cs,Norbert Truchsess
+Tue Sep 12 13:54:23 2023,identity_providers.consortia.json,Norbert Truchsess
+Tue Sep 12 13:54:23 2023,IdentityProvider.cs,Norbert Truchsess
+Tue Sep 12 13:54:23 2023,IdentityProviderBusinessLogicTests.cs,Norbert Truchsess
+Tue Sep 12 13:54:23 2023,InvitationBusinessLogicTests.cs,Norbert Truchsess
+Tue Sep 12 13:54:23 2023,IdentityProviderRepositoryTests.cs,Norbert Truchsess
+Tue Sep 12 13:54:23 2023,identity_providers.test.json,Norbert Truchsess

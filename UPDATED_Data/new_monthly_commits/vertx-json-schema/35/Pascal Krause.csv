@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Fri Nov 25 10:19:09 2022,Draft.java,Pascal Krause
+Fri Nov 25 10:19:09 2022,SchemaRepository.java,Pascal Krause
+Fri Nov 25 10:19:09 2022,SchemaRepositoryImpl.java,Pascal Krause
+Fri Nov 25 10:19:09 2022,SchemaDefinitionValidationTest.java,Pascal Krause
+Fri Nov 25 10:19:09 2022,SchemaRepositoryImplTest.java,Pascal Krause
+Fri Nov 25 10:19:09 2022,OpenAPI3_0.json,Pascal Krause
+Fri Nov 25 10:19:09 2022,OpenAPI3_1.json,Pascal Krause
+Fri Nov 25 10:19:09 2022,angular_cli_workspace_schema.json,Pascal Krause
+Fri Nov 25 10:19:09 2022,compose_spec.json,Pascal Krause
+Fri Nov 25 12:27:08 2022,SchemaRepository.java,Pascal Krause
+Fri Nov 25 12:27:08 2022,SchemaRepositoryImpl.java,Pascal Krause
+Fri Nov 25 12:27:08 2022,SchemaRepositoryImplTest.java,Pascal Krause

@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Thu May 11 14:44:50 2017,AbstractVertxBasedHttpProtocolAdapter.java,ppatierno
+Wed May 24  9:36:45 2017,RegistrationClientImpl.java,ppatierno
+Wed May 24  9:36:45 2017,CredentialsConstants.java,ppatierno
+Wed May 24  9:36:45 2017,MessageHelper.java,ppatierno
+Wed May 24  9:36:45 2017,RegistrationConstants.java,ppatierno
+Wed May 24  9:36:45 2017,MessageForwardingEndpoint.java,ppatierno
+Wed May 24  9:36:45 2017,TelemetryMessageFilterTest.java,ppatierno
+Wed May 24  9:36:45 2017,BaseEndpoint.java,ppatierno
+Wed May 24  9:36:45 2017,RegistrationMessageFilterTest.java,ppatierno
+Wed May 24  9:36:45 2017,RegistrationTestSupport.java,ppatierno

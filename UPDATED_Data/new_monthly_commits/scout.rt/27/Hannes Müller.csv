@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Mon Apr  2  7:40:51 2012,AbstractTable.java,Hannes Müller
+Mon Apr  2  8:31:28 2012,BookmarkUtility.java,Hannes Müller
+Mon Apr  2  8:31:28 2012,OrganizeColumnsForm.java,Hannes Müller
+Wed Apr  4  8:10:11 2012,AbstractActivityMap.java,Hannes Müller
+Wed Apr  4  8:10:11 2012,IActivityMap.java,Hannes Müller
+Wed Apr  4  8:10:11 2012,SwingScoutActivityMap.java,Hannes Müller
+Wed Apr  4  8:10:11 2012,JSelector.java,Hannes Müller
+Wed Apr  4  9:11:47 2012,IBookmarkService.java,Hannes Müller
+Wed Apr  4  9:11:47 2012,BookmarkService.java,Hannes Müller
+Wed Apr  4  9:11:47 2012,AbstractBookmarkTreeField.java,Hannes Müller
+Wed Apr  4  9:11:47 2012,ScoutTexts.properties,Hannes Müller
+Wed Apr  4  9:11:47 2012,ScoutTexts_de.properties,Hannes Müller

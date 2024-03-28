@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Wed Feb  3 11:59:40 2021,che-github-main.ts,Igor Vinokur
+Wed Feb  3 11:59:40 2021,oauth-utils.ts,Igor Vinokur
+Wed Feb  3 11:59:40 2021,github-auth-plugin.ts,Igor Vinokur
+Wed Feb 24 12:01:40 2021,che-plugin-manager.ts,Igor Vinokur
+Wed Feb 24 12:01:40 2021,che-plugin-service-client.ts,Igor Vinokur
+Wed Feb 24 12:01:40 2021,che-plugin-protocol.ts,Igor Vinokur
+Wed Feb 24 12:01:40 2021,che-plugin-service.ts,Igor Vinokur

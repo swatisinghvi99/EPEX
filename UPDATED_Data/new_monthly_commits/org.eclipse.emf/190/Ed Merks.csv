@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Thu Apr 25 12:39:17 2019,URI.java,Ed Merks
+Thu Apr 25 12:39:17 2019,URITest.java,Ed Merks
+Mon May  6 12:34:15 2019,ItemProvider.java,Ed Merks
+Mon May  6 12:34:15 2019,ItemProvider.javajet,Ed Merks
+Tue May  7  4:08:33 2019,MANIFEST.MF,Ed Merks
+Tue May  7  4:08:33 2019,pom.xml,Ed Merks
+Tue May  7  4:08:33 2019,FormBuilder.java,Ed Merks
+Tue May  7  4:08:33 2019,CommitterShipDialog.java,Ed Merks
+Tue May  7  4:08:33 2019,PersonDialog.java,Ed Merks
+Tue May  7  4:08:33 2019,ProjectCommittersPart.java,Ed Merks
+Tue May  7  4:08:33 2019,ProjectExplorerPart.java,Ed Merks
+Tue May  7  4:08:33 2019,ProjectFormAreaPart.java,Ed Merks

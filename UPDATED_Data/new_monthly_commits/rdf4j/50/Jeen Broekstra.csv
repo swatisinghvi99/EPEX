@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Sun Mar  8  8:12:17 2020,GroupIterator.java,Jeen Broekstra
+Sun Mar  8  8:12:17 2020,GroupIteratorTest.java,Jeen Broekstra
+Sun Mar  8  8:12:17 2020,ComplexSPARQLQueryTest.java,Jeen Broekstra
+Tue Mar 10  7:48:53 2020,SPARQLConnection.java,Jeen Broekstra
+Tue Mar 10  7:48:53 2020,SPARQLConnectionTest.java,Jeen Broekstra
+Thu Mar 12 23:29:18 2020,SPARQL12QueryTest.java,Jeen Broekstra
+Thu Mar 12 23:29:18 2020,W3CApprovedSPARQL11QueryTest.java,Jeen Broekstra
+Thu Mar 12 23:29:18 2020,W3CApprovedSPARQL11UpdateTest.java,Jeen Broekstra
+Thu Mar 12 23:29:18 2020,FederationSPARQL11QueryTest.java,Jeen Broekstra
+Thu Mar 12 23:29:18 2020,NativeSPARQLQueryTest.java,Jeen Broekstra
+Thu Mar 12 23:29:18 2020,GroupIterator.java,Jeen Broekstra
+Thu Mar 12 23:29:18 2020,GroupIteratorTest.java,Jeen Broekstra
+Thu Mar 12 23:29:18 2020,ComplexSPARQLQueryTest.java,Jeen Broekstra
+Thu Mar 12 23:29:18 2020,SPARQL11ManifestTest.java,Jeen Broekstra
+Thu Mar 12 23:29:18 2020,manifest.ttl,Jeen Broekstra
+Thu Mar 12 23:29:18 2020,agg-empty-group-1.rq,Jeen Broekstra
+Thu Mar 12 23:29:18 2020,agg-empty-group-1.srx,Jeen Broekstra
+Thu Mar 12 23:29:18 2020,agg-empty-group-2.rq,Jeen Broekstra
+Thu Mar 12 23:29:18 2020,agg-empty-group-2.srx,Jeen Broekstra
+Thu Mar 12 23:29:18 2020,empty.ttl,Jeen Broekstra
+Thu Mar 12 23:29:18 2020,manifest.ttl,Jeen Broekstra
+Thu Mar 12 23:29:18 2020,manifest-all.ttl,Jeen Broekstra

@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Thu Aug 18 13:27:17 2016,ObjectBuilder.java,Dalia Abo Sheasha
+Thu Aug 18 13:27:17 2016,AggregateMapping.java,Dalia Abo Sheasha
+Thu Aug 18 13:27:17 2016,AdvancedJPAJunitTest.java,Dalia Abo Sheasha
+Wed Aug 31 19:03:45 2016,DynamicClassLoader.java,Dalia Abo Sheasha
+Wed Aug 31 19:03:45 2016,EclipseLinkException.java,Dalia Abo Sheasha
+Wed Aug 31 19:03:45 2016,ExceptionMessageGenerator.java,Dalia Abo Sheasha
+Wed Aug 31 19:03:45 2016,CoreHelper.java,Dalia Abo Sheasha
+Wed Aug 31 19:03:45 2016,Helper.java,Dalia Abo Sheasha
+Wed Aug 31 19:03:45 2016,Constants.java,Dalia Abo Sheasha
+Wed Aug 31 19:03:45 2016,PropertiesHandler.java,Dalia Abo Sheasha
+Wed Aug 31 19:03:45 2016,CollectionMapping.java,Dalia Abo Sheasha
+Wed Aug 31 19:03:45 2016,ServerPlatformBase.java,Dalia Abo Sheasha
+Wed Aug 31 19:03:45 2016,SAPNetWeaver_7_1_Platform.java,Dalia Abo Sheasha
+Wed Aug 31 19:03:45 2016,XMLPlatformFactory.java,Dalia Abo Sheasha
+Wed Aug 31 19:03:45 2016,PackageRenamer.java,Dalia Abo Sheasha
+Wed Aug 31 19:03:45 2016,FetchGroupMonitor.java,Dalia Abo Sheasha
+Wed Aug 31 19:03:45 2016,QueryMonitor.java,Dalia Abo Sheasha
+Wed Aug 31 19:03:45 2016,JPAInitializer.java,Dalia Abo Sheasha
+Wed Aug 31 19:03:45 2016,PersistenceUnitProcessor.java,Dalia Abo Sheasha
+Wed Aug 31 19:03:45 2016,FileBasedProjectCache.java,Dalia Abo Sheasha
+Wed Aug 31 19:03:45 2016,XMLMetadataSource.java,Dalia Abo Sheasha

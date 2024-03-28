@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Tue Jan 24  0:10:28 2023,cqs.tsv,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,eclipse-dependencies.list,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,log4j.xml,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,sparksql.rst,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,pom.xml,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,pom.xml,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,GeoMesaSparkKryoRegistrator.scala,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,package.scala,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,AbstractGeometryUDT.scala,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,package.scala,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,GeometryLiteral.scala,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,GeometryLiteralRules.scala,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,pom.xml,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,SedonaGeometryLiteralRules.scala,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,package.scala,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,SQLRules.scala,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,SQLTypes.scala,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,SparkSQLDataTest.scala,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,pom.xml,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,SparkSQLWithSedonaIT.scala,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,pom.xml,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,SparkSQLWithoutSedonaIT.scala,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,pom.xml,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,FastConverter.scala,Kristin Cowalcijk
+Tue Jan 24  0:10:28 2023,pom.xml,Kristin Cowalcijk

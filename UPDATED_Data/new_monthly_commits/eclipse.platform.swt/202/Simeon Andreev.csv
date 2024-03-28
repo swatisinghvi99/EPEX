@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Tue Feb 20  9:30:50 2018,GTK.java,Simeon Andreev
+Tue Feb 20  9:30:50 2018,Combo.java,Simeon Andreev
+Tue Feb 20  9:30:50 2018,Bug528498_Combo_dropDownMenu_is_too_short.java,Simeon Andreev
+Mon Mar  5 12:48:16 2018,GC.java,Simeon Andreev
+Mon Mar  5 12:48:16 2018,Control.java,Simeon Andreev
+Mon Mar  5 12:48:16 2018,Bug421127_Clipping_is_wrong.java,Simeon Andreev
+Mon Mar  5 12:48:16 2018,Bug531667_CanvasPrint_does_not_work.java,Simeon Andreev

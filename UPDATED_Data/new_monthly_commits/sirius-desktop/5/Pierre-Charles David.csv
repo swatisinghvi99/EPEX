@@ -1,0 +1,61 @@
+date_time,file,committer_name
+Tue Jan 21  9:48:56 2014,Release Notes.html,Pierre-Charles David
+Tue Jan 21  9:48:56 2014,Release Notes.textile,Pierre-Charles David
+Tue Jan 21  9:48:56 2014,DeprecatedIEditingSession.java,Pierre-Charles David
+Tue Jan 21  9:48:56 2014,IEditingSession.java,Pierre-Charles David
+Tue Jan 21  9:48:56 2014,RemoveRepresentationResourceAction.java,Pierre-Charles David
+Tue Jan 21 10:12:05 2014,EditingSession.java,Pierre-Charles David
+Tue Jan 21 14:13:40 2014,AbstractDTreeEditor.java,Pierre-Charles David
+Tue Jan 21 14:27:58 2014,ModelUtils.java,Pierre-Charles David
+Wed Jan 22  9:50:59 2014,AbstractDTreeEditor.java,Pierre-Charles David
+Tue Jan 28 10:48:23 2014,DesignerPropertySourceAdapter.java,Pierre-Charles David
+Tue Jan 28 10:48:23 2014,OpenedSessionsTab.java,Pierre-Charles David
+Tue Jan 28 15:53:27 2014,ViewpointURIConverter.java,Pierre-Charles David
+Tue Jan 28 15:53:27 2014,ViewpointsSelectionWizardPage.java,Pierre-Charles David
+Tue Jan 28 15:53:27 2014,ResourceDeltaQuery.java,Pierre-Charles David
+Tue Jan 28 15:53:27 2014,AbstractDNodeListCompartmentEditPart.java,Pierre-Charles David
+Tue Jan 28 15:53:27 2014,DumnySiriusCanonicalEditPolicy.java,Pierre-Charles David
+Tue Jan 28 15:53:27 2014,PrintAsImageCallback.java,Pierre-Charles David
+Tue Jan 28 15:53:27 2014,SWTUtil.java,Pierre-Charles David
+Tue Jan 28 15:53:27 2014,DNode2EditPart.java,Pierre-Charles David
+Tue Jan 28 15:53:27 2014,DNode3EditPart.java,Pierre-Charles David
+Tue Jan 28 15:53:27 2014,DNode4EditPart.java,Pierre-Charles David
+Tue Jan 28 15:53:27 2014,DNodeEditPart.java,Pierre-Charles David
+Tue Jan 28 15:53:27 2014,QuickOutlineControl.java,Pierre-Charles David
+Tue Jan 28 15:53:27 2014,FiltersPropertySection.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,ConnectionAnchorOperation.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,ShiftDescendantMessagesOperation.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,SequenceMessageEditPolicy.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,SequenceGraphicalHelper.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,FixBendpointsOnCreationCommand.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,BracketConnectionDecoratorLocator.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,TreeLayoutSetConnectionAnchorsCommand.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,ConnectionsFactory.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,SlidableAnchor.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,SnapCommand.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,SiriusScroller.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,GradientRoundedRectangle.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,ODesignEllipseFigure.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,PolygoneAndPolylineDecoraction.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,SiriusWrapLabel.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,NotificationFigure.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,ArrangeAllWithAutoSize.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,BorderItemAwareLayoutProvider.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,DTableContentAdapter.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,TableDialectServices.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,DTableViewerManager.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,DTreeViewerManager.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,DTreeItemDragListener.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,DTreeItemDropListener.java,Pierre-Charles David
+Wed Jan 29  8:57:54 2014,ModelDragTargetAdapter.java,Pierre-Charles David
+Wed Jan 29  9:14:16 2014,DelegatingDiagramCommandFactory.java,Pierre-Charles David
+Wed Jan 29  9:14:16 2014,DDiagramEditorImpl.java,Pierre-Charles David
+Wed Jan 29  9:14:16 2014,SiriusPreferenceChangeListener.java,Pierre-Charles David
+Wed Jan 29  9:14:16 2014,Release Notes.html,Pierre-Charles David
+Wed Jan 29  9:14:16 2014,Release Notes.textile,Pierre-Charles David
+Wed Jan 29  9:14:16 2014,IDiagramCommandFactory.java,Pierre-Charles David
+Wed Jan 29  9:14:16 2014,UndoRedoCapableEMFCommandFactory.java,Pierre-Charles David
+Thu Jan 30 14:09:53 2014,DAnalysisSessionImpl.java,Pierre-Charles David
+Mon Feb  3 14:42:55 2014,DAnalysisSessionImpl.java,Pierre-Charles David
+Mon Feb  3 14:42:55 2014,DAnalysisSessionImpl.java,Pierre-Charles David
+Tue Feb  4 14:37:41 2014,DAnalysisSessionImpl.java,Pierre-Charles David

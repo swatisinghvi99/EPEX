@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Fri Jun 16 11:19:03 2023,pom.xml,Christoph Läubrich
+Fri Jun 16 11:19:03 2023,AbstractReconcilerTest.java,Christoph Läubrich
+Fri Jun 16 12:04:37 2023,Activator.java,Christoph Läubrich
+Fri Jun 16 12:04:37 2023,MANIFEST.MF,Christoph Läubrich
+Fri Jun 16 12:04:37 2023,CompositeParser.java,Christoph Läubrich
+Fri Jun 16 12:04:37 2023,CompositeRepositoryIO.java,Christoph Läubrich
+Sat Jun 17  5:33:08 2023,org.eclipse.pde.ds.annotations.prefs,Christoph Läubrich
+Sat Jun 17  5:33:08 2023,MANIFEST.MF,Christoph Läubrich
+Sat Jun 17  5:33:08 2023,.gitignore,Christoph Läubrich
+Sat Jun 17  5:33:08 2023,agentProvider.xml,Christoph Läubrich
+Sat Jun 17  5:33:08 2023,eventBus.xml,Christoph Läubrich
+Sat Jun 17  5:33:08 2023,DefaultAgentProvider.java,Christoph Läubrich
+Sat Jun 17  5:33:08 2023,EventBusComponent.java,Christoph Läubrich
+Sat Jun 17  5:33:08 2023,IProvisioningEventBus.java,Christoph Läubrich
+Sat Jun 17 12:25:51 2023,Activator.java,Christoph Läubrich
+Sat Jun 17 12:25:51 2023,LogHelper.java,Christoph Läubrich
+Sat Jun 17 12:25:51 2023,Tracing.java,Christoph Läubrich
+Tue Jun 27  5:14:08 2023,MANIFEST.MF,Christoph Läubrich
+Tue Jun 27  5:14:08 2023,AbstractWizard.java,Christoph Läubrich
+Tue Jun 27  5:14:08 2023,StyledErrorDialog.java,Christoph Läubrich
+Tue Jun 27  5:14:08 2023,MANIFEST.MF,Christoph Läubrich
+Tue Jun 27  5:14:08 2023,SimpleLicenseManager.java,Christoph Läubrich
+Mon Jul 10  6:21:18 2023,Messages.java,Christoph Läubrich
+Mon Jul 10  6:21:18 2023,RepositoryHelper.java,Christoph Läubrich
+Mon Jul 10  6:21:18 2023,messages.properties,Christoph Läubrich

@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Mon Feb 27 18:59:08 2023,AST2TemplateTests.java,Igor V. Kovalenko
+Mon Feb 27 18:59:08 2023,GNUCPPSourceParser.java,Igor V. Kovalenko
+Mon Feb 27 18:59:08 2023,NameOrTemplateIDVariants.java,Igor V. Kovalenko
+Thu Mar 16 14:55:23 2023,CPPTemplates.java,Igor V. Kovalenko
+Thu Mar 16 14:55:23 2023,EvalFoldExpression.java,Igor V. Kovalenko
+Thu Mar 16 14:55:23 2023,FoldExpressionTests.java,Igor V. Kovalenko
+Thu Mar 16 14:55:23 2023,CPPASTFoldExpression.java,Igor V. Kovalenko
+Thu Mar 16 15:07:12 2023,AST2TemplateTests.java,Igor V. Kovalenko
+Thu Mar 16 15:07:12 2023,CPPSemantics.java,Igor V. Kovalenko
+Thu Mar 16 15:07:34 2023,AST2CPPTests.java,Igor V. Kovalenko
+Thu Mar 16 15:07:34 2023,ArithmeticConversion.java,Igor V. Kovalenko
+Thu Mar 16 15:07:34 2023,EvalBinary.java,Igor V. Kovalenko
+Thu Mar 16 15:07:34 2023,ValueFactory.java,Igor V. Kovalenko
+Thu Mar 16 15:08:24 2023,AST2Tests.java,Igor V. Kovalenko
+Thu Mar 16 15:08:24 2023,GCCBuiltinSymbolProvider.java,Igor V. Kovalenko
+Thu Mar 16 15:14:06 2023,FoldExpressionTests.java,Igor V. Kovalenko
+Thu Mar 16 15:14:06 2023,GNUCPPSourceParser.java,Igor V. Kovalenko
+Thu Mar 16 15:14:16 2023,IndexFileSet.java,Igor V. Kovalenko
+Thu Mar 16 15:44:28 2023,CompositeValue.java,Igor V. Kovalenko
+Thu Mar 16 15:44:28 2023,EvalConstructor.java,Igor V. Kovalenko

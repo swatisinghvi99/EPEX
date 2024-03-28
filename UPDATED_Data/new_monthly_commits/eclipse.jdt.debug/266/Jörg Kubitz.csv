@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Tue Jun 20 15:22:46 2023,LaunchingPlugin.java,Jörg Kubitz
+Wed Jun 21 11:13:30 2023,FinalBreakpointLocations.java,Jörg Kubitz
+Wed Jun 21 11:13:30 2023,JavaBreakpointImportParticipant.java,Jörg Kubitz
+Fri Jul 14  6:58:25 2023,ClasspathContentProvider.java,Jörg Kubitz
+Fri Jul 14  6:58:25 2023,ExceptionFilterEditor.java,Jörg Kubitz
+Fri Jul 14  6:59:27 2023,JavaUISourceLocator.java,Jörg Kubitz
+Fri Jul 14  6:59:27 2023,JavaConnectTab.java,Jörg Kubitz
+Fri Jul 14  6:59:27 2023,JavaDebugPreferencePage.java,Jörg Kubitz
+Fri Jul 14  6:59:27 2023,StandardJavaBreakpointEditor.java,Jörg Kubitz
+Fri Jul 14  6:59:27 2023,PlusOperator.java,Jörg Kubitz
+Fri Jul 14  6:59:27 2023,VerboseWriter.java,Jörg Kubitz
+Fri Jul 14  6:59:27 2023,ConnectorImpl.java,Jörg Kubitz
+Fri Jul 14  6:59:27 2023,JdwpID.java,Jörg Kubitz
+Fri Jul 14  6:59:27 2023,RequestID.java,Jörg Kubitz
+Fri Jul 14  7:01:50 2023,ReferenceTypeImpl.java,Jörg Kubitz
+Fri Jul 14  7:37:21 2023,FileHashing.java,Jörg Kubitz

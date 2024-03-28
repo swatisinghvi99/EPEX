@@ -1,0 +1,95 @@
+date_time,file,committer_name
+Mon Sep 18 11:21:08 2017,Interface_InheritedInterfaces.java,Felix Dorner
+Mon Sep 18 11:21:08 2017,Actor_InheritedActors.java,Felix Dorner
+Mon Sep 18 11:21:08 2017,BooleanType_InheritedBooleanType.java,Felix Dorner
+Mon Sep 18 11:21:08 2017,Class_InheritedClasses.java,Felix Dorner
+Mon Sep 18 11:21:08 2017,Collection_InheritedCollection.java,Felix Dorner
+Mon Sep 18 11:21:08 2017,Enumeration_InheritedEnumeration.java,Felix Dorner
+Mon Sep 18 11:21:08 2017,Exception_InheritedException.java,Felix Dorner
+Mon Sep 18 11:21:08 2017,ExchangeItem_InheritedExchangeItem.java,Felix Dorner
+Mon Sep 18 11:21:08 2017,Message_InheritedMessage.java,Felix Dorner
+Mon Sep 18 11:21:08 2017,NumericType_InheritedNumericType.java,Felix Dorner
+Mon Sep 18 11:21:08 2017,PhysicalQuantity_InheritedType.java,Felix Dorner
+Mon Sep 18 11:21:08 2017,Signal_InheritedSignals.java,Felix Dorner
+Mon Sep 18 11:21:08 2017,StringType_InheritedStringType.java,Felix Dorner
+Mon Sep 18 11:21:08 2017,Union_InheritedClasses.java,Felix Dorner
+Mon Sep 18 11:21:08 2017,LogicalActor_InheritedActors.java,Felix Dorner
+Mon Sep 18 11:21:08 2017,PhysicalActor_InheritedActors.java,Felix Dorner
+Mon Sep 18 11:21:08 2017,GeneralizableElementController.java,Felix Dorner
+Tue Sep 19 14:28:07 2017,plugin.xml,Felix Dorner
+Tue Sep 19 14:28:07 2017,CapellaWorkbenchPropertyTester.java,Felix Dorner
+Tue Sep 19 14:28:07 2017,StatusManagerExceptionHandler.java,Felix Dorner
+Tue Sep 19 14:28:07 2017,MANIFEST.MF,Felix Dorner
+Tue Sep 19 14:28:07 2017,plugin.xml,Felix Dorner
+Tue Sep 19 14:28:07 2017,Messages.java,Felix Dorner
+Tue Sep 19 14:28:07 2017,ReferentialConstraintsValidationRule.java,Felix Dorner
+Tue Sep 19 14:28:07 2017,messages.properties,Felix Dorner
+Tue Sep 19 14:28:07 2017,MoveStagingView.java,Felix Dorner
+Tue Sep 19 14:28:07 2017,ExplorerDropAdapterAssistant.java,Felix Dorner
+Tue Sep 19 14:28:07 2017,plugin.xml,Felix Dorner
+Tue Sep 19 14:28:07 2017,9.5. Moving Elements to a Library.html,Felix Dorner
+Tue Sep 19 14:28:07 2017,9.5. Moving Elements to a Library.mediawiki,Felix Dorner
+Tue Sep 19 14:28:07 2017,toc.xml,Felix Dorner
+Tue Sep 19 14:28:07 2017,ValidationRules.html,Felix Dorner
+Tue Sep 19 14:28:07 2017,ValidationRules.mediawiki,Felix Dorner
+Mon Oct  2 13:00:22 2017,CheckboxRenderer.java,Felix Dorner
+Mon Oct  2 13:00:22 2017,plugin.xml,Felix Dorner
+Mon Oct  2 13:00:22 2017,plugin.xml,Felix Dorner
+Mon Oct  2 13:00:22 2017,ReplicableElementHandler.java,Felix Dorner
+Mon Oct  2 13:00:22 2017,ReplicableElementExt.java,Felix Dorner
+Mon Oct  2 13:00:22 2017,MANIFEST.MF,Felix Dorner
+Mon Oct  2 13:00:22 2017,NotificationAnalysis.java,Felix Dorner
+Mon Oct  2 13:00:22 2017,MANIFEST.MF,Felix Dorner
+Mon Oct  2 13:00:22 2017,plugin.xml,Felix Dorner
+Mon Oct  2 13:00:22 2017,AbstractComplianceConstraint.java,Felix Dorner
+Mon Oct  2 13:00:22 2017,ComplianceValidationContext.java,Felix Dorner
+Mon Oct  2 13:00:22 2017,DefaultBlackBoxCompliance.java,Felix Dorner
+Mon Oct  2 13:00:22 2017,plugin.xml,Felix Dorner
+Mon Oct  2 13:00:22 2017,CapellaValidationListener.java,Felix Dorner
+Mon Oct  2 13:00:22 2017,8.5. RPL Validation.html,Felix Dorner
+Mon Oct  2 13:00:22 2017,8.5. RPL Validation.mediawiki,Felix Dorner
+Mon Oct  2 13:00:22 2017,.classpath,Felix Dorner
+Mon Oct  2 13:00:22 2017,org.eclipse.jdt.core.prefs,Felix Dorner
+Mon Oct  2 13:00:22 2017,MANIFEST.MF,Felix Dorner
+Mon Oct  2 13:00:22 2017,.project,Felix Dorner
+Mon Oct  2 13:00:22 2017,compliance.afm,Felix Dorner
+Mon Oct  2 13:00:22 2017,compliance.aird,Felix Dorner
+Mon Oct  2 13:00:22 2017,compliance.melodymodeller,Felix Dorner
+Mon Oct  2 13:00:22 2017,RecRplTestCase.java,Felix Dorner
+Mon Oct  2 13:00:22 2017,Compliance.java,Felix Dorner
+Mon Oct  2 13:00:22 2017,BlackboxComplianceTest1.java,Felix Dorner
+Mon Oct  2 13:00:22 2017,BlackboxComplianceTest2.java,Felix Dorner
+Mon Oct  2 13:00:22 2017,BlackboxComplianceTest3.java,Felix Dorner
+Mon Oct  2 13:00:22 2017,RecRplTestSuite.java,Felix Dorner
+Tue Oct  3 13:27:27 2017,plugin.xml,Felix Dorner
+Tue Oct  3 13:27:27 2017,AbstractComplianceConstraint.java,Felix Dorner
+Tue Oct  3 13:27:27 2017,BlackBoxComplianceWithExceptions.java,Felix Dorner
+Tue Oct  3 13:27:27 2017,BlackBoxComplianceWithRealizationLinks.java,Felix Dorner
+Tue Oct  3 13:27:27 2017,DefaultBlackBoxCompliance.java,Felix Dorner
+Tue Oct  3 13:27:27 2017,8.5. RPL Validation.html,Felix Dorner
+Tue Oct  3 13:27:27 2017,8.5. RPL Validation.mediawiki,Felix Dorner
+Tue Oct  3 20:13:43 2017,AbstractComplianceConstraint.java,Felix Dorner
+Wed Oct  4 13:23:39 2017,plugin.xml,Felix Dorner
+Wed Oct  4 13:23:39 2017,Compliance.java,Felix Dorner
+Wed Oct  4 13:23:50 2017,BlackBoxComplianceWithRealizationLinks.java,Felix Dorner
+Wed Oct  4 13:23:58 2017,AbstractComplianceConstraint.java,Felix Dorner
+Wed Oct  4 13:23:58 2017,BlackBoxComplianceWithExceptions.java,Felix Dorner
+Wed Oct  4 13:23:58 2017,ComplianceValidationContext.java,Felix Dorner
+Thu Oct  5 12:02:29 2017,plugin.xml,Felix Dorner
+Thu Oct  5 12:02:29 2017,plugin.xml,Felix Dorner
+Thu Oct  5 12:02:29 2017,IReConstants.java,Felix Dorner
+Thu Oct  5 12:02:29 2017,ReadOnlyProperty.java,Felix Dorner
+Thu Oct  5 12:02:29 2017,8.2. Basic Use Case.html,Felix Dorner
+Thu Oct  5 12:02:29 2017,8.2. Basic Use Case.mediawiki,Felix Dorner
+Fri Oct  6  8:36:35 2017,ReadOnlyProperty.java,Felix Dorner
+Fri Oct  6 11:17:04 2017,AbstractComplianceConstraint.java,Felix Dorner
+Fri Oct  6 11:17:04 2017,BlackBoxComplianceWithRealizationLinks.java,Felix Dorner
+Fri Oct  6 11:17:04 2017,MANIFEST.MF,Felix Dorner
+Fri Oct  6 11:17:04 2017,compliance.melodymodeller,Felix Dorner
+Fri Oct  6 11:17:04 2017,BatchBlackboxComplianceTest1.java,Felix Dorner
+Fri Oct  6 11:17:04 2017,RecRplTestSuite.java,Felix Dorner
+Mon Oct  9 10:30:44 2017,MANIFEST.MF,Felix Dorner
+Mon Oct  9 10:30:44 2017,plugin.xml,Felix Dorner
+Mon Oct  9 10:30:44 2017,CapellaValidationListener.java,Felix Dorner
+Mon Oct  9 11:21:42 2017,ExplorerLongRunningOperationsListener.java,Felix Dorner
+Mon Oct  9 11:21:42 2017,FastLinkerLongRunningOperationListener.java,Felix Dorner

@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Wed Dec  2 11:59:07 2020,ControlComponentConstants.h,Johannes Wendel
+Wed Dec  2 11:59:07 2020,ExecutionMode.h,Johannes Wendel
+Wed Dec  2 11:59:07 2020,OccupationState.h,Johannes Wendel
+Wed Dec  2 11:59:07 2020,ControlComponent.h,Johannes Wendel
+Wed Dec  2 11:59:07 2020,IControlComponent.h,Johannes Wendel
+Wed Dec  2 11:59:07 2020,IControlComponentChangeListener.h,Johannes Wendel
+Wed Dec  2 11:59:07 2020,ISimpleControlComponent.h,Johannes Wendel
+Wed Dec  2 11:59:07 2020,ISimpleProxyControlComponent.h,Johannes Wendel
+Wed Dec  2 11:59:07 2020,IStatusMap.h,Johannes Wendel
+Wed Dec  2 11:59:07 2020,CMakeLists.txt,Johannes Wendel
+Wed Dec  2 11:59:07 2020,ControlComponentConstants.cpp,Johannes Wendel
+Wed Dec  2 11:59:07 2020,ExecutionMode.cpp,Johannes Wendel
+Wed Dec  2 11:59:07 2020,OccupationState.cpp,Johannes Wendel
+Wed Dec  2 11:59:07 2020,ControlComponent.cpp,Johannes Wendel
+Wed Dec  2 11:59:07 2020,CMakeLists.txt,Johannes Wendel
+Wed Dec  2 11:59:07 2020,CMakeLists.txt,Johannes Wendel
+Wed Dec  2 11:59:07 2020,ControlComponentChangeListenerMock.hpp,Johannes Wendel
+Wed Dec  2 11:59:07 2020,test_ControlComponent.cpp,Johannes Wendel
+Wed Dec  2 11:59:07 2020,ExecutionMode,Johannes Wendel
+Wed Dec  2 11:59:07 2020,OccupationState,Johannes Wendel

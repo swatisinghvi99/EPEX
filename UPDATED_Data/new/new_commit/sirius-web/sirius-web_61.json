@@ -1,0 +1,207 @@
+[
+    [
+        "Pierre-Charles David",
+        "adoc",
+        5
+    ],
+    [
+        "Pierre-Charles David",
+        "tsx",
+        1
+    ],
+    [
+        "Pierre-Charles David",
+        "ts",
+        1
+    ],
+    [
+        "Pierre-Charles David",
+        "java",
+        77
+    ],
+    [
+        "Pierre-Charles David",
+        "genmodel",
+        1
+    ],
+    [
+        "Pierre-Charles David",
+        "xml",
+        1
+    ],
+    [
+        "Michael Charfadi",
+        "adoc",
+        4
+    ],
+    [
+        "Michael Charfadi",
+        "java",
+        35
+    ],
+    [
+        "Michael Charfadi",
+        "ts",
+        6
+    ],
+    [
+        "Michael Charfadi",
+        "tsx",
+        9
+    ],
+    [
+        "Michael Charfadi",
+        "css",
+        5
+    ],
+    [
+        "Michael Charfadi",
+        "yml",
+        1
+    ],
+    [
+        "Axel RICHARD",
+        "adoc",
+        3
+    ],
+    [
+        "Axel RICHARD",
+        "js",
+        1
+    ],
+    [
+        "Axel RICHARD",
+        "java",
+        1
+    ],
+    [
+        "Axel RICHARD",
+        "tsx",
+        3
+    ],
+    [
+        "Axel RICHARD",
+        "ts",
+        4
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "java",
+        37
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "yml",
+        1
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "adoc",
+        1
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "xml",
+        57
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "properties",
+        1
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "js",
+        1
+    ],
+    [
+        "frouene",
+        "adoc",
+        5
+    ],
+    [
+        "frouene",
+        "java",
+        305
+    ],
+    [
+        "frouene",
+        "json",
+        10
+    ],
+    [
+        "frouene",
+        "ts",
+        10
+    ],
+    [
+        "frouene",
+        "tsx",
+        53
+    ],
+    [
+        "frouene",
+        "js",
+        10
+    ],
+    [
+        "frouene",
+        "xml",
+        1
+    ],
+    [
+        "frouene",
+        "xmi",
+        1
+    ],
+    [
+        "frouene",
+        "svg",
+        2
+    ],
+    [
+        "frouene",
+        "properties",
+        1
+    ],
+    [
+        "frouene",
+        "ecore",
+        1
+    ],
+    [
+        "frouene",
+        "genmodel",
+        1
+    ],
+    [
+        "frouene",
+        "sql",
+        1
+    ],
+    [
+        "Florian Rou\u00ebn\u00e9",
+        "yml",
+        1
+    ],
+    [
+        "Florian Rou\u00ebn\u00e9",
+        "adoc",
+        3
+    ],
+    [
+        "Florian Rou\u00ebn\u00e9",
+        "js",
+        10
+    ],
+    [
+        "Florian Rou\u00ebn\u00e9",
+        "json",
+        4
+    ],
+    [
+        "Florian Rou\u00ebn\u00e9",
+        "java",
+        2
+    ]
+]

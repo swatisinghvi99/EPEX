@@ -1,0 +1,67 @@
+[
+    [
+        "Simon Marchi",
+        "json",
+        3
+    ],
+    [
+        "Simon Marchi",
+        "ts",
+        5
+    ],
+    [
+        "Simon Marchi",
+        "tsx",
+        2
+    ],
+    [
+        "vince-fugnitto",
+        "json",
+        2
+    ],
+    [
+        "vince-fugnitto",
+        "ts",
+        5
+    ],
+    [
+        "vince-fugnitto",
+        "tsx",
+        2
+    ],
+    [
+        "vince-fugnitto",
+        "css",
+        2
+    ],
+    [
+        "Rob Moran",
+        "json",
+        9
+    ],
+    [
+        "Rob Moran",
+        "gitignore",
+        3
+    ],
+    [
+        "Rob Moran",
+        "md",
+        1
+    ],
+    [
+        "Rob Moran",
+        "js",
+        3
+    ],
+    [
+        "Rob Moran",
+        "ts",
+        9
+    ],
+    [
+        "Rob Moran",
+        "lock",
+        1
+    ]
+]

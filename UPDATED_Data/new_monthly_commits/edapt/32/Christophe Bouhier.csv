@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Mon Sep 16 14:47:14 2013,edapt.target,Christophe Bouhier
+Mon Sep 16 14:47:14 2013,feature.xml,Christophe Bouhier
+Mon Sep 16 14:47:14 2013,.classpath,Christophe Bouhier
+Mon Sep 16 14:47:14 2013,MANIFEST.MF,Christophe Bouhier
+Mon Sep 16 14:47:14 2013,BreakingSwitch.java,Christophe Bouhier
+Mon Sep 16 14:47:14 2013,ReplaceCommand.java,Christophe Bouhier
+Mon Sep 16 14:47:14 2013,DiffModelFilterUtils.java,Christophe Bouhier
+Mon Sep 16 14:47:14 2013,DiffModelOrderFilter.java,Christophe Bouhier
+Mon Sep 16 14:47:14 2013,DiffModelResourceFilter.java,Christophe Bouhier
+Mon Sep 16 14:47:14 2013,IDiffModelFilter.java,Christophe Bouhier
+Mon Sep 16 14:47:14 2013,IntegrityChecker.java,Christophe Bouhier
+Mon Sep 16 14:47:14 2013,ModelAssert.java,Christophe Bouhier
+Mon Sep 16 14:47:14 2013,RepairMetamodelIntegrityCommand.java,Christophe Bouhier
+Mon Sep 16 14:47:14 2013,MANIFEST.MF,Christophe Bouhier
+Mon Sep 16 14:47:14 2013,ConvergenceView.java,Christophe Bouhier
+Mon Sep 16 14:47:14 2013,ReplaceDialog.java,Christophe Bouhier
+Mon Sep 16 14:47:14 2013,CheckIntegrityHandler.java,Christophe Bouhier
+Mon Sep 16 14:47:14 2013,ComparisonView.java,Christophe Bouhier
+Mon Sep 16 14:47:14 2013,DiffSelectionAdapter.java,Christophe Bouhier
+Tue Sep 17 12:43:35 2013,AddResourceHandler.java,Christophe Bouhier
+Fri Sep 20 12:11:30 2013,HistoryComparer2.java,Christophe Bouhier
+Fri Sep 20 12:11:30 2013,MANIFEST.MF,Christophe Bouhier
+Fri Sep 20 12:11:30 2013,ComparisonView.java,Christophe Bouhier
+Fri Sep 20 12:11:30 2013,history.ecorediag,Christophe Bouhier

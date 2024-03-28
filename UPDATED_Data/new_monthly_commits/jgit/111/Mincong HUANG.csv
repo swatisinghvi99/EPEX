@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Fri Dec 21  7:07:08 2018,OpenSshServerKeyVerifier.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,AttributesNodeDirCacheIteratorTest.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,GcConcurrentTest.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,MergerTest.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,RemoteSetUrlCommand.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,JGitInternalException.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,SequenceComparator.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,SimilarityIndex.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,RepoCommand.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,WindowCache.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,DeltaEncoder.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,SubmoduleValidator.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,Repository.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,MergeResult.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,NLS.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,ObjectWalk.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,RevWalk.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,WindowCacheConfig.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,PackConfig.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,InternalHttpServerGlue.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,NonceGenerator.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,PackParser.java,Mincong HUANG
+Fri Dec 21  7:07:08 2018,WalkRemoteObjectDatabase.java,Mincong HUANG

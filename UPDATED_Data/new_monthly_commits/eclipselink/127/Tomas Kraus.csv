@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Mon Feb 26  9:15:50 2018,LogCategory.java,Tomas Kraus
+Mon Feb 26  9:15:50 2018,LogLevel.java,Tomas Kraus
+Mon Feb 26  9:15:50 2018,SessionLog.java,Tomas Kraus
+Mon Feb 26  9:15:50 2018,TestProcessor.java,Tomas Kraus
+Mon Feb 26  9:15:50 2018,CanonicalModelProcessor.java,Tomas Kraus
+Mon Feb 26  9:15:50 2018,CanonicalModelProperties.java,Tomas Kraus
+Mon Feb 26  9:15:50 2018,LoggerContext.java,Tomas Kraus
+Mon Feb 26  9:15:50 2018,MetadataMirrorFactory.java,Tomas Kraus
+Mon Feb 26  9:15:50 2018,PersistenceUnit.java,Tomas Kraus
+Mon Feb 26  9:15:50 2018,PersistenceUnitReader.java,Tomas Kraus
+Mon Feb 26  9:15:50 2018,ElementVisitor.java,Tomas Kraus
+Mon Feb 26  9:15:50 2018,MetadataLogger.java,Tomas Kraus
+Thu Mar  1 13:48:06 2018,ObjectChangeSet.java,Tomas Kraus
+Thu Mar  1 13:48:06 2018,UnitOfWorkChangeSet.java,Tomas Kraus
+Thu Mar  1 13:48:06 2018,JPARCMLocalChangeSetTestSuite.java,Tomas Kraus

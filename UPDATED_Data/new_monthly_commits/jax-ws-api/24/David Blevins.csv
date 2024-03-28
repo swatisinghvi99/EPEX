@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Sat Aug 29 18:06:44 2020,Service.java,David Blevins
+Sat Aug 29 18:06:44 2020,WebServiceContext.java,David Blevins
+Sat Aug 29 18:06:44 2020,WebServiceRef.java,David Blevins
+Sat Aug 29 18:06:44 2020,MessageContext.java,David Blevins
+Sat Aug 29 18:06:44 2020,Addressing.java,David Blevins
+Sat Aug 29 18:06:44 2020,MTOM.java,David Blevins
+Sat Aug 29 18:06:44 2020,Invoker.java,David Blevins
+Sat Aug 29 18:06:44 2020,EnterpriseWebServices.adoc,David Blevins
+Sat Aug 29 18:06:44 2020,ch02-wsdl_to_java_mapping.adoc,David Blevins
+Sat Aug 29 18:06:44 2020,ch03-java_to_wsdl_mapping.adoc,David Blevins
+Sat Aug 29 18:06:44 2020,ch04-client_apis.adoc,David Blevins
+Sat Aug 29 18:06:44 2020,ch05-service_apis.adoc,David Blevins
+Sat Aug 29 18:06:44 2020,ch06-core_apis.adoc,David Blevins
+Sat Aug 29 18:06:44 2020,ch07-annotations.adoc,David Blevins
+Sat Aug 29 18:06:44 2020,ch08-customizations.adoc,David Blevins
+Sat Aug 29 18:06:44 2020,ch09-handler_framwork.adoc,David Blevins
+Sat Aug 29 18:06:44 2020,ch10-soap_binding.adoc,David Blevins
+Sat Aug 29 18:06:44 2020,ch11-http_binding.adoc,David Blevins

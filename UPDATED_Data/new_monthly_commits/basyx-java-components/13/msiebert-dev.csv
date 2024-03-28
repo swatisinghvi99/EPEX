@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Thu Nov 17  6:52:09 2022,AASServerComponent.java,msiebert-dev
+Thu Nov 17  6:52:09 2022,AASEventBackend.java,msiebert-dev
+Thu Nov 17  6:52:09 2022,BaSyxAASServerConfiguration.java,msiebert-dev
+Thu Nov 17  6:52:09 2022,MqttV2AASServerDecorator.java,msiebert-dev
+Thu Nov 17  6:52:09 2022,MqttV2AASServerFeature.java,msiebert-dev
+Thu Nov 17  6:52:09 2022,aas.properties,msiebert-dev
+Thu Nov 17  6:52:09 2022,mqtt.properties,msiebert-dev
+Thu Nov 17  6:52:09 2022,MqttAASServerSuite.java,msiebert-dev
+Thu Nov 17  6:52:09 2022,MqttV2AASServerSuite.java,msiebert-dev
+Thu Nov 17  6:52:09 2022,TestAASServerWithInMemoryMqttV2.java,msiebert-dev
+Thu Nov 17  6:52:09 2022,RegistryComponent.java,msiebert-dev
+Thu Nov 17  6:52:09 2022,BaSyxRegistryConfiguration.java,msiebert-dev
+Thu Nov 17  6:52:09 2022,RegistryEventBackend.java,msiebert-dev
+Thu Nov 17  6:52:09 2022,RegistryExecutable.java,msiebert-dev
+Thu Nov 17  6:52:09 2022,MqttRegistryFactory.java,msiebert-dev
+Thu Nov 17  6:52:09 2022,MqttV2RegistryFactory.java,msiebert-dev
+Thu Nov 17  6:52:09 2022,MqttV2TaggedDirectoryFactory.java,msiebert-dev
+Thu Nov 17  6:52:09 2022,mqtt.properties,msiebert-dev
+Thu Nov 17  6:52:09 2022,registry.properties,msiebert-dev
+Thu Nov 17  6:52:09 2022,BaSyxMqttConfiguration.java,msiebert-dev

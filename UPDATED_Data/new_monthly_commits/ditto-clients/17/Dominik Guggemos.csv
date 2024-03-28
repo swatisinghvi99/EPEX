@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Mon Nov 23 15:19:01 2020,pom.xml,Dominik Guggemos
+Mon Nov 23 15:19:01 2020,CommonManagementImpl.java,Dominik Guggemos
+Mon Nov 23 15:19:01 2020,ConcurrentConsumptionRequestException.java,Dominik Guggemos
+Mon Nov 23 15:19:01 2020,AdaptableBus.java,Dominik Guggemos
+Mon Nov 23 15:19:01 2020,DefaultAdaptableBus.java,Dominik Guggemos
+Mon Nov 23 15:19:01 2020,AbstractConsumptionDittoClientTest.java,Dominik Guggemos
+Mon Nov 23 15:19:01 2020,DittoClientLiveTest.java,Dominik Guggemos
+Mon Nov 23 15:19:01 2020,DittoClientPoliciesTest.java,Dominik Guggemos
+Mon Nov 23 15:19:01 2020,DittoClientTest.java,Dominik Guggemos
+Mon Nov 23 15:19:01 2020,DittoClientTwinTest.java,Dominik Guggemos
+Mon Nov 23 15:19:01 2020,AbstractDittoClientTest.java,Dominik Guggemos
+Mon Nov 23 15:19:01 2020,ActiveThreadsUtil.java,Dominik Guggemos
+Mon Nov 23 15:19:01 2020,ClientShutdownTest.java,Dominik Guggemos
+Mon Nov 23 15:19:01 2020,MockMessagingProvider.java,Dominik Guggemos
+Wed Nov 25 13:01:15 2020,CommonManagementImpl.java,Dominik Guggemos
+Wed Nov 25 13:01:15 2020,AdaptableBus.java,Dominik Guggemos
+Wed Nov 25 13:01:15 2020,DefaultAdaptableBus.java,Dominik Guggemos
+Wed Nov 25 13:01:15 2020,Entry.java,Dominik Guggemos
+Wed Nov 25 13:01:15 2020,UncompletedConsumptionRequestException.java,Dominik Guggemos
+Wed Nov 25 13:01:15 2020,DittoClientTwinTest.java,Dominik Guggemos
+Wed Nov 25 13:01:15 2020,MockMessagingProvider.java,Dominik Guggemos
+Wed Nov 25 13:20:58 2020,WebSocketMessagingProviderTest.java,Dominik Guggemos
+Tue Dec  1  9:01:29 2020,DittoClientPoliciesTest.java,Dominik Guggemos
+Tue Dec  1  9:18:55 2020,AbstractDittoClientTest.java,Dominik Guggemos

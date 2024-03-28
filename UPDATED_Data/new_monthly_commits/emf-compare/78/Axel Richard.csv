@@ -1,0 +1,221 @@
+date_time,file,committer_name
+Fri Sep  6  9:24:27 2013,plugin.properties,Axel Richard
+Fri Sep  6  9:24:27 2013,plugin.xml,Axel Richard
+Fri Sep  6  9:24:27 2013,ide_ui_messages.properties,Axel Richard
+Fri Sep  6  9:24:27 2013,DropDownAcceptRejectHandler.java,Axel Richard
+Fri Sep  6  9:24:27 2013,DropDownAcceptRejectLeftToRight.java,Axel Richard
+Fri Sep  6  9:24:27 2013,DropDownAcceptRejectRightToLeft.java,Axel Richard
+Mon Sep 23  7:46:34 2013,BasicDifferenceGroupImpl.java,Axel Richard
+Mon Sep 23  7:46:34 2013,ThreeWayComparisonGroupProvider.java,Axel Richard
+Mon Sep 23  7:47:27 2013,EMFCompareDiffTreeRuler.java,Axel Richard
+Mon Sep 23  7:47:27 2013,EMFCompareStructureMergeViewer.java,Axel Richard
+Mon Sep 23  7:51:29 2013,BasicDifferenceGroupImpl.java,Axel Richard
+Tue Sep 24  5:50:24 2013,EMFCompareUIHandlerUtil.java,Axel Richard
+Tue Sep 24  5:50:24 2013,plugin.xml,Axel Richard
+Tue Sep 24  5:50:24 2013,ConflictMergeTest.java,Axel Richard
+Tue Sep 24  5:50:24 2013,MultipleMergeTest.java,Axel Richard
+Tue Sep 24  5:50:24 2013,IndividualDiffInputData.java,Axel Richard
+Tue Sep 24  5:50:24 2013,left.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,origin.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,right.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,left.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,origin.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,right.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,left.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,origin.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,right.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,left.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,origin.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,right.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,left.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,origin.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,right.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,left.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,origin.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,right.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,left.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,origin.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,right.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,left.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,origin.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,right.ecore,Axel Richard
+Tue Sep 24  5:50:24 2013,AllTests.java,Axel Richard
+Tue Sep 24  5:50:24 2013,ConflictMerger.java,Axel Richard
+Tue Sep 24  5:50:24 2013,IMerger.java,Axel Richard
+Wed Sep 25  9:24:28 2013,.project,Axel Richard
+Wed Sep 25  9:24:28 2013,org.eclipse.core.resources.prefs,Axel Richard
+Wed Sep 25  9:24:28 2013,MANIFEST.MF,Axel Richard
+Wed Sep 25  9:24:28 2013,build-doc.xml,Axel Richard
+Wed Sep 25  9:24:28 2013,build.properties,Axel Richard
+Wed Sep 25  9:24:28 2013,antJavadoc.sh,Axel Richard
+Wed Sep 25  9:24:28 2013,javadoc.xml.template,Axel Richard
+Wed Sep 25  9:24:28 2013,overview.html,Axel Richard
+Wed Sep 25  9:24:28 2013,Architecture.html,Axel Richard
+Wed Sep 25  9:24:28 2013,Architecture.mediawiki,Axel Richard
+Wed Sep 25  9:24:28 2013,Core Concepts.html,Axel Richard
+Wed Sep 25  9:24:28 2013,Core Concepts.mediawiki,Axel Richard
+Wed Sep 25  9:24:28 2013,Default Behavior and Extensibility.html,Axel Richard
+Wed Sep 25  9:24:28 2013,Default Behavior and Extensibility.mediawiki,Axel Richard
+Wed Sep 25  9:24:28 2013,EMF Compare Developer Guide.html,Axel Richard
+Wed Sep 25  9:24:28 2013,EMF Compare Developer Guide.mediawiki,Axel Richard
+Wed Sep 25  9:24:28 2013,How To Open Compare Dialog With Comparison.html,Axel Richard
+Wed Sep 25  9:24:28 2013,How To Open Compare Dialog With Comparison.mediawiki,Axel Richard
+Wed Sep 25  9:24:28 2013,Logical Model.html,Axel Richard
+Wed Sep 25  9:24:28 2013,Logical Model.mediawiki,Axel Richard
+Wed Sep 25  9:24:28 2013,Using The Compare APIs.html,Axel Richard
+Wed Sep 25  9:24:28 2013,Using The Compare APIs.mediawiki,Axel Richard
+Wed Sep 25  9:24:28 2013,FAQ.html,Axel Richard
+Wed Sep 25  9:24:28 2013,FAQ.mediawiki,Axel Richard
+Wed Sep 25  9:24:28 2013,index.html,Axel Richard
+Wed Sep 25  9:24:28 2013,index.mediawiki,Axel Richard
+Wed Sep 25  9:24:28 2013,Overview.html,Axel Richard
+Wed Sep 25  9:24:28 2013,Overview.mediawiki,Axel Richard
+Wed Sep 25  9:24:28 2013,bootstrap.css,Axel Richard
+Wed Sep 25  9:24:28 2013,bootstrap.js,Axel Richard
+Wed Sep 25  9:24:28 2013,custom.css,Axel Richard
+Wed Sep 25  9:24:28 2013,toc.xml,Axel Richard
+Wed Sep 25  9:24:28 2013,EMF Compare User Guide.html,Axel Richard
+Wed Sep 25  9:24:28 2013,EMF Compare User Guide.mediawiki,Axel Richard
+Wed Sep 25  9:24:28 2013,Features.html,Axel Richard
+Wed Sep 25  9:24:28 2013,Features.mediawiki,Axel Richard
+Wed Sep 25  9:24:28 2013,Getting Started.html,Axel Richard
+Wed Sep 25  9:24:28 2013,Getting Started.mediawiki,Axel Richard
+Wed Sep 25  9:24:28 2013,Known Bugs and Limitations.html,Axel Richard
+Wed Sep 25  9:24:28 2013,Known Bugs and Limitations.mediawiki,Axel Richard
+Wed Sep 25  9:24:28 2013,Other Materials.html,Axel Richard
+Wed Sep 25  9:24:28 2013,Other Materials.mediawiki,Axel Richard
+Wed Sep 25  9:24:28 2013,Sample Use Case.html,Axel Richard
+Wed Sep 25  9:24:28 2013,Sample Use Case.mediawiki,Axel Richard
+Wed Sep 25  9:24:28 2013,plugin.xml,Axel Richard
+Wed Sep 25  9:24:28 2013,pom.xml,Axel Richard
+Wed Sep 25  9:24:28 2013,toc.xml,Axel Richard
+Wed Sep 25  9:24:28 2013,Adapting_Comparison_Process-toc.xml,Axel Richard
+Wed Sep 25  9:24:28 2013,Adapting_Comparison_Process.html,Axel Richard
+Wed Sep 25  9:24:28 2013,Adapting_Comparison_Process.textile,Axel Richard
+Wed Sep 25  9:24:28 2013,Architecture-toc.xml,Axel Richard
+Wed Sep 25  9:24:28 2013,Architecture.html,Axel Richard
+Wed Sep 25  9:24:28 2013,Architecture.textile,Axel Richard
+Wed Sep 25  9:24:28 2013,EMF_Compare_Export_Tutorial-toc.xml,Axel Richard
+Wed Sep 25  9:24:28 2013,EMF_Compare_Export_Tutorial.html,Axel Richard
+Wed Sep 25  9:24:28 2013,EMF_Compare_Export_Tutorial.textile,Axel Richard
+Wed Sep 25  9:24:28 2013,User_Guide-toc.xml,Axel Richard
+Wed Sep 25  9:24:28 2013,User_Guide.html,Axel Richard
+Wed Sep 25  9:24:28 2013,User_Guide.textile,Axel Richard
+Wed Sep 25  9:24:28 2013,Using_Compare_Services-toc.xml,Axel Richard
+Wed Sep 25  9:24:28 2013,Using_Compare_Services.html,Axel Richard
+Wed Sep 25  9:24:28 2013,Using_Compare_Services.textile,Axel Richard
+Thu Sep 26 14:39:40 2013,diagramCompare.gengapmodel,Axel Richard
+Thu Sep 26 14:39:40 2013,DiagramDiff.java,Axel Richard
+Thu Sep 26 14:39:40 2013,ExtensionsPackage.java,Axel Richard
+Thu Sep 26 14:39:40 2013,DiagramChangeImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,DiagramDiffImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,EdgeChangeImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,ExtensionsPackageImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,HideImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,NodeChangeImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,ShowImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,ExtensionsAdapterFactory.java,Axel Richard
+Thu Sep 26 14:39:40 2013,ExtensionsSwitch.java,Axel Richard
+Thu Sep 26 14:39:40 2013,DiagramDiffSpec.java,Axel Richard
+Thu Sep 26 14:39:40 2013,plugin.properties,Axel Richard
+Thu Sep 26 14:39:40 2013,ComparisonItemProvider.java,Axel Richard
+Thu Sep 26 14:39:40 2013,DiffItemProvider.java,Axel Richard
+Thu Sep 26 14:39:40 2013,BasicDifferenceGroupImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,DirectedRelationshipChangeItemProvider.java,Axel Richard
+Thu Sep 26 14:39:40 2013,UMLCompareItemProviderAdapterFactory.java,Axel Richard
+Thu Sep 26 14:39:40 2013,uml2compare.gengapmodel,Axel Richard
+Thu Sep 26 14:39:40 2013,uml2compare.genmodel,Axel Richard
+Thu Sep 26 14:39:40 2013,UMLComparePackage.java,Axel Richard
+Thu Sep 26 14:39:40 2013,UMLDiff.java,Axel Richard
+Thu Sep 26 14:39:40 2013,AssociationChangeImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,DirectedRelationshipChangeImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,ExecutionSpecificationChangeImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,ExtendChangeImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,GeneralizationSetChangeImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,IntervalConstraintChangeImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,MessageChangeImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,ProfileApplicationChangeImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,StereotypeApplicationChangeImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,StereotypePropertyChangeImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,StereotypeReferenceChangeImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,UMLCompareFactoryImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,UMLComparePackageImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,UMLDiffImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,UMLCompareAdapterFactory.java,Axel Richard
+Thu Sep 26 14:39:40 2013,UMLCompareSwitch.java,Axel Richard
+Thu Sep 26 14:39:40 2013,UMLDiffSpec.java,Axel Richard
+Thu Sep 26 14:39:40 2013,compare.ecore,Axel Richard
+Thu Sep 26 14:39:40 2013,compare.genmodel,Axel Richard
+Thu Sep 26 14:39:40 2013,ComparePackage.java,Axel Richard
+Thu Sep 26 14:39:40 2013,Comparison.java,Axel Richard
+Thu Sep 26 14:39:40 2013,Diff.java,Axel Richard
+Thu Sep 26 14:39:40 2013,CompareFactoryImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,ComparePackageImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,ComparisonImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,DiffImpl.java,Axel Richard
+Thu Sep 26 14:39:40 2013,CompareAdapterFactory.java,Axel Richard
+Thu Sep 26 14:39:40 2013,CompareSwitch.java,Axel Richard
+Fri Sep 27 12:23:56 2013,TreeContentMergeViewer.java,Axel Richard
+Fri Sep 27 12:23:56 2013,ContainmentReferenceChangeAccessorFactory.java,Axel Richard
+Fri Sep 27 12:23:56 2013,ManyStructuralFeatureAccessorFactory.java,Axel Richard
+Fri Sep 27 12:23:56 2013,SingleStructuralFeatureAccessorFactory.java,Axel Richard
+Fri Sep 27 12:23:56 2013,ManyStructuralFeatureAccessorImpl.java,Axel Richard
+Fri Sep 27 12:23:56 2013,TableOrTreeMergeViewer.java,Axel Richard
+Fri Sep 27 12:23:56 2013,MergeViewerItem.java,Axel Richard
+Fri Sep 27 12:23:56 2013,plugin.xml,Axel Richard
+Fri Sep 27 12:23:56 2013,UMLManyStructuralFeatureAccessor.java,Axel Richard
+Fri Sep 27 12:23:56 2013,UMLSingleStructuralFeatureAccessor.java,Axel Richard
+Fri Sep 27 12:23:56 2013,UMLStereotypeApplicationChangeFeatureAccessor.java,Axel Richard
+Fri Sep 27 12:23:56 2013,UMLManyStructuralFeatureAccessorFactory.java,Axel Richard
+Fri Sep 27 12:23:56 2013,UMLSingleStructuralFeatureAccessorFactory.java,Axel Richard
+Fri Sep 27 12:23:56 2013,DiffUtil.java,Axel Richard
+Wed Oct  2 14:47:07 2013,plugin.properties,Axel Richard
+Wed Oct  2 14:47:07 2013,plugin.xml,Axel Richard
+Wed Oct  2 14:47:07 2013,ide_ui_messages.properties,Axel Richard
+Wed Oct  2 14:47:07 2013,EMFCompareDiffTreeViewer.java,Axel Richard
+Wed Oct  2 14:47:07 2013,AbstractAcceptRejectAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,AbstractAcceptRejectAllAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,AbstractMergeAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,AbstractMergeAllAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,AcceptAllChangesAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,AcceptChangeAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,CollapseAllModelAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,DropDownAcceptAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,DropDownAcceptRejectMenuAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,DropDownLeftToRightAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,DropDownMergeMenuAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,DropDownRejectAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,DropDownRightToLeftAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,ExpandAllModelAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,MergeAllToLeftAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,MergeAllToRightAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,MergeToLeftAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,MergeToRightAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,RejectAllChangesAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,RejectChangeAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,SaveComparisonModelAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,SelectNextDiffAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,SelectPreviousDiffAction.java,Axel Richard
+Wed Oct  2 14:47:07 2013,EMFCompareUIActionUtil.java,Axel Richard
+Wed Oct  2 14:47:07 2013,DropDownAcceptRejectHandler.java,Axel Richard
+Wed Oct  2 14:47:07 2013,DropDownAcceptRejectLeftToRight.java,Axel Richard
+Wed Oct  2 14:47:07 2013,DropDownAcceptRejectRightToLeft.java,Axel Richard
+Wed Oct  2 14:47:07 2013,DropDownHandler.java,Axel Richard
+Wed Oct  2 14:47:07 2013,DropDownLeftToRight.java,Axel Richard
+Wed Oct  2 14:47:07 2013,DropDownRightToLeft.java,Axel Richard
+Wed Oct  2 14:47:07 2013,MergeAllToLeftHandler.java,Axel Richard
+Wed Oct  2 14:47:07 2013,MergeAllToRightHandler.java,Axel Richard
+Wed Oct  2 14:47:07 2013,SelectNextDiff.java,Axel Richard
+Wed Oct  2 14:47:07 2013,SelectPreviousDiff.java,Axel Richard
+Wed Oct  2 14:47:07 2013,AcceptRejectChangePropertyTester.java,Axel Richard
+Wed Oct  2 14:47:07 2013,DiffSelectedPropertyTester.java,Axel Richard
+Wed Oct  2 14:47:07 2013,MergedToPropertyTester.java,Axel Richard
+Wed Oct  2 14:47:07 2013,ModelSaveablePropertyTester.java,Axel Richard
+Wed Oct  2 14:47:07 2013,emfcomparercpuimessages.properties,Axel Richard
+Thu Oct  3 12:02:33 2013,AccessorAdapter.java,Axel Richard
+Thu Oct  3 12:02:33 2013,OSGIVersionUtil.java,Axel Richard
+Thu Oct  3 15:29:59 2013,EMFCompareContentMergeViewer.java,Axel Richard
+Thu Oct  3 15:29:59 2013,RedoAction.java,Axel Richard
+Thu Oct  3 15:29:59 2013,UndoAction.java,Axel Richard
+Thu Oct  3 15:29:59 2013,ide_ui_messages.properties,Axel Richard
+Thu Oct  3 15:29:59 2013,EMFCompareStructureMergeViewer.java,Axel Richard

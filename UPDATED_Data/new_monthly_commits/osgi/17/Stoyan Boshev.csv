@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Thu Nov 10 11:02:51 2005,MetaTypeProviderImpl.java,Stoyan Boshev
+Thu Nov 10 11:11:19 2005,ConditionalTestControl.java,Stoyan Boshev
+Thu Nov 10 14:42:01 2005,GetRequiringBundles.java,Stoyan Boshev
+Thu Nov 10 14:42:01 2005,GetVersion.java,Stoyan Boshev
+Thu Nov 10 14:44:55 2005,ResolveBundles.java,Stoyan Boshev
+Thu Nov 10 15:49:36 2005,GetResources.java,Stoyan Boshev
+Thu Nov 10 15:49:36 2005,tb14.mf,Stoyan Boshev
+Thu Nov 10 15:49:36 2005,tb23.mf,Stoyan Boshev
+Thu Nov 10 15:49:36 2005,tb9.mf,Stoyan Boshev
+Thu Nov 10 15:49:36 2005,tb9a.mf,Stoyan Boshev
+Tue Nov 15 13:26:34 2005,log.ref,Stoyan Boshev
+Tue Nov 15 13:26:34 2005,TBC.java,Stoyan Boshev
+Tue Nov 15 13:26:34 2005,log.ref,Stoyan Boshev
+Tue Nov 15 13:26:34 2005,TBC.java,Stoyan Boshev
+Tue Nov 15 13:26:34 2005,log.ref,Stoyan Boshev
+Tue Nov 15 13:26:34 2005,TBC.java,Stoyan Boshev
+Tue Nov 15 16:22:43 2005,Activator.java,Stoyan Boshev
+Tue Nov 15 16:22:43 2005,PermissionSignatureTBCService.java,Stoyan Boshev
+Tue Nov 15 16:22:43 2005,PermissionSignatureTestControl.java,Stoyan Boshev
+Tue Nov 15 16:22:43 2005,PermissionSignatureUtility.java,Stoyan Boshev
+Wed Nov 16 10:39:45 2005,DeclarativeServicesControl.java,Stoyan Boshev
+Wed Nov 16 11:39:01 2005,Activator.java,Stoyan Boshev
+Wed Nov 16 11:39:01 2005,PermissionSignatureTBCService.java,Stoyan Boshev
+Wed Nov 16 11:39:01 2005,PermissionSignatureTestControl.java,Stoyan Boshev
+Wed Nov 16 11:39:01 2005,PermissionSignatureUtility.java,Stoyan Boshev
+Wed Nov 30  8:44:34 2005,WireAdminControl.java,Stoyan Boshev

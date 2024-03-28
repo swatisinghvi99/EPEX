@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Fri Aug 10  8:00:05 2012,ValueFormatter.java,heli
+Fri Aug 10  8:25:41 2012,ValueFormatter.java,heli
+Fri Aug 10  8:36:36 2012,ValueFormatter.java,heli
+Fri Aug 10  9:17:47 2012,ValueFormatter.java,heli
+Tue Aug 14  4:40:27 2012,ValueFormatter.java,heli
+Wed Aug 22  6:43:45 2012,HyperlinkEditorDialog.java,heli
+Wed Aug 22  6:43:45 2012,MenuStylesDialog.java,heli
+Wed Aug 22  6:43:45 2012,ChartHelpContextIds.java,heli
+Thu Aug 23  4:00:44 2012,StockSeriesImpl.java,heli
+Thu Aug 23  4:09:55 2012,BaseRenderer.java,heli
+Thu Aug 23  6:47:44 2012,GanttLineAttributesComposite.java,heli
+Thu Aug 23  6:47:44 2012,LineAttributesComposite.java,heli
+Thu Aug 23  6:47:44 2012,LineStyleChooserComposite.java,heli
+Thu Aug 23  6:47:44 2012,LineWidthChooserComposite.java,heli
+Thu Aug 23  6:47:44 2012,ChartUIExtensionUtil.java,heli
+Thu Aug 23  6:47:44 2012,AbstractLineStyleChooserComposite.java,heli
+Thu Aug 23  6:47:44 2012,AbstractLineWidthChooserComposite.java,heli
+Thu Aug 23  7:50:14 2012,ChartItemUtil.java,heli
+Thu Aug 23  8:48:46 2012,SwingImageCache.java,heli
+Mon Aug 27  7:00:19 2012,AbstractPopupSheet.java,heli
+Mon Aug 27  7:00:21 2012,ChartValueUpdater.java,heli
+Mon Aug 27  7:00:21 2012,DefaultValueProvider.java,heli
+Mon Aug 27  7:00:21 2012,SeriesLabelSheet.java,heli
+Thu Aug 30  6:36:02 2012,PluginSettings.java,heli

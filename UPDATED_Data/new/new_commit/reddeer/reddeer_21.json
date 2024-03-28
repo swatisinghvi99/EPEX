@@ -1,0 +1,112 @@
+[
+    [
+        "Len DiMaggio",
+        "java",
+        5
+    ],
+    [
+        "Len DiMaggio",
+        "MF",
+        1
+    ],
+    [
+        "Len DiMaggio",
+        "xml",
+        1
+    ],
+    [
+        "Andrej Podhradsky",
+        "java",
+        24
+    ],
+    [
+        "Andrej Podhradsky",
+        "xml",
+        2
+    ],
+    [
+        "Andrej Podhradsky",
+        "exsd",
+        1
+    ],
+    [
+        "Andrej Podhradsky",
+        "MF",
+        1
+    ],
+    [
+        "rhopp",
+        "java",
+        15
+    ],
+    [
+        "rhopp",
+        "MF",
+        2
+    ],
+    [
+        "rhopp",
+        "classpath",
+        1
+    ],
+    [
+        "rhopp",
+        "project",
+        1
+    ],
+    [
+        "rawagner",
+        "java",
+        49
+    ],
+    [
+        "rawagner",
+        "MF",
+        2
+    ],
+    [
+        "rawagner",
+        "xml",
+        1
+    ],
+    [
+        "Jiri Peterka",
+        "java",
+        4
+    ],
+    [
+        "ljelinkova",
+        "java",
+        74
+    ],
+    [
+        "ljelinkova",
+        "xml",
+        1
+    ],
+    [
+        "ljelinkova",
+        "MF",
+        1
+    ],
+    [
+        "Tomas Sedmik",
+        "java",
+        1
+    ],
+    [
+        "jpeterka",
+        "java",
+        1
+    ],
+    [
+        "vpakan",
+        "java",
+        3
+    ],
+    [
+        "psrna",
+        "java",
+        1
+    ]
+]

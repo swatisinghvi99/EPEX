@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Fri Mar 19 10:38:14 2004,ComparePreviewer.java,Andrew Weinand
+Fri Mar 19 10:38:14 2004,TextChangePreviewViewer.java,Andrew Weinand
+Fri Mar 19 11:07:35 2004,TextBufferFactory.java,Andrew Weinand
+Fri Mar 19 17:54:30 2004,EncodingSupport.java,Andrew Weinand
+Fri Mar 19 17:54:30 2004,JavaCompareUtilities.java,Andrew Weinand
+Fri Mar 19 17:54:30 2004,JavaStructureCreator.java,Andrew Weinand
+Wed Mar 31 15:32:12 2004,JspIndexParser.java,Andrew Weinand
+Thu Apr  1 22:01:15 2004,JavaAddElementFromHistory.java,Andrew Weinand
+Thu Apr  1 22:01:15 2004,JavaHistoryAction.java,Andrew Weinand
+Thu Apr  1 22:01:15 2004,JavaReplaceWithEditionAction.java,Andrew Weinand
+Thu Apr  1 22:01:15 2004,JavaStructureCreator.java,Andrew Weinand
+Thu Apr  1 22:09:19 2004,CompareResultDialog.java,Andrew Weinand

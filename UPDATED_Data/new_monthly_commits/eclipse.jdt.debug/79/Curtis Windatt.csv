@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Fri Nov 23 14:32:53 2007,ChangeAnonymousTypeMethodSignatureUnitTests.java,Curtis Windatt
+Fri Nov 23 14:32:53 2007,ChangeMethodSignatureUnitTests.java,Curtis Windatt
+Fri Nov 23 14:32:53 2007,PushDownFieldUnitTests.java,Curtis Windatt
+Fri Nov 23 14:32:53 2007,PushDownMethodUnitTests.java,Curtis Windatt
+Tue Dec 18 21:33:37 2007,IJDIPreferencesConstants.java,Curtis Windatt
+Tue Dec 18 21:33:37 2007,JDIDebugUIPreferenceInitializer.java,Curtis Windatt
+Tue Dec 18 21:33:37 2007,ShowConstantsAction.java,Curtis Windatt
+Tue Dec 18 21:33:37 2007,ShowMonitorThreadInformation.java,Curtis Windatt
+Tue Dec 18 21:33:37 2007,ShowStaticVariablesAction.java,Curtis Windatt
+Tue Dec 18 21:33:37 2007,ShowThreadGroups.java,Curtis Windatt
+Tue Dec 18 21:33:37 2007,ToggleBooleanPreferenceAction.java,Curtis Windatt
+Tue Dec 18 21:33:37 2007,JavaContentProviderFilter.java,Curtis Windatt
+Tue Dec 18 21:33:37 2007,JavaExpressionContentProvider.java,Curtis Windatt
+Tue Dec 18 21:33:37 2007,JavaStackFrameContentProvider.java,Curtis Windatt
+Tue Dec 18 21:33:37 2007,JavaVariableContentProvider.java,Curtis Windatt

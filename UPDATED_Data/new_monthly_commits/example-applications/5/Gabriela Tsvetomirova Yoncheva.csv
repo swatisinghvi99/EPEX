@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Thu Feb  8 13:41:03 2024,validation.yaml,Gabriela Tsvetomirova Yoncheva
+Thu Feb  8 13:41:03 2024,Dockerfile,Gabriela Tsvetomirova Yoncheva
+Thu Feb  8 13:41:03 2024,README.md,Gabriela Tsvetomirova Yoncheva
+Thu Feb  8 13:41:03 2024,custom-update-agent.service,Gabriela Tsvetomirova Yoncheva
+Thu Feb  8 13:41:03 2024,deployment.json,Gabriela Tsvetomirova Yoncheva
+Thu Feb  8 13:41:03 2024,go.mod,Gabriela Tsvetomirova Yoncheva
+Thu Feb  8 13:41:03 2024,go.sum,Gabriela Tsvetomirova Yoncheva
+Thu Feb  8 13:41:03 2024,install.sh,Gabriela Tsvetomirova Yoncheva
+Thu Feb  8 13:41:03 2024,main.go,Gabriela Tsvetomirova Yoncheva
+Thu Feb  8 13:41:03 2024,internal_desired_state.go,Gabriela Tsvetomirova Yoncheva
+Thu Feb  8 13:41:03 2024,update_agent_init.go,Gabriela Tsvetomirova Yoncheva
+Thu Feb  8 13:41:03 2024,update_manager.go,Gabriela Tsvetomirova Yoncheva
+Thu Feb  8 13:41:03 2024,update_operation.go,Gabriela Tsvetomirova Yoncheva
+Thu Feb  8 13:41:03 2024,file.go,Gabriela Tsvetomirova Yoncheva
+Thu Feb  8 13:41:03 2024,files_compare.go,Gabriela Tsvetomirova Yoncheva
+Thu Feb  8 13:41:03 2024,from_files.go,Gabriela Tsvetomirova Yoncheva
+Thu Feb  8 13:41:03 2024,logger.go,Gabriela Tsvetomirova Yoncheva
+Thu Feb  8 13:41:03 2024,to_files.go,Gabriela Tsvetomirova Yoncheva

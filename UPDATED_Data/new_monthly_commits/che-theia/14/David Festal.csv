@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Wed Jan  8 12:01:16 2020,che-theia-init-sources.yml,David Festal
+Wed Jan  8 12:01:16 2020,package.json,David Festal
+Wed Jan  8 12:01:16 2020,activity-tracker-service.ts,David Festal
+Wed Jan  8 12:01:16 2020,package.json,David Festal
+Wed Jan  8 12:01:16 2020,che-api-provider.ts,David Festal
+Wed Jan  8 12:01:16 2020,che-telemetry-main.ts,David Festal
+Wed Jan  8 12:01:16 2020,che-protocol.ts,David Festal
+Wed Jan  8 12:01:16 2020,che-api-service.ts,David Festal
+Wed Jan  8 12:01:16 2020,che-api.ts,David Festal
+Wed Jan  8 12:01:16 2020,che-telemetry.ts,David Festal
+Wed Jan  8 12:01:16 2020,che-proposed.d.ts,David Festal
+Wed Jan  8 12:01:16 2020,project-path-variable-resolver.ts,David Festal
+Wed Jan  8 12:01:16 2020,.gitignore,David Festal
+Wed Jan  8 12:01:16 2020,README.md,David Festal
+Wed Jan  8 12:01:16 2020,package.json,David Festal
+Wed Jan  8 12:01:16 2020,telemetry-plugin.ts,David Festal
+Wed Jan  8 12:01:16 2020,tsconfig.json,David Festal
+Wed Jan  8 12:01:16 2020,tsfmt.json,David Festal
+Wed Jan  8 12:01:16 2020,webpack.configold..js,David Festal
+Wed Jan  8 12:01:16 2020,workspace-for-dev.theia-workspace,David Festal
+Wed Jan  8 12:01:16 2020,yarn.lock,David Festal

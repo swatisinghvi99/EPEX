@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Thu Feb 11  3:33:28 2010,DependencyGraphEvent.java,jsholl
+Thu Feb 11  3:33:28 2010,DependencyGraphImpl.java,jsholl
+Thu Feb 11  3:33:28 2010,IDependencyGraph.java,jsholl
+Thu Feb 11  3:33:28 2010,IDependencyGraphListener.java,jsholl
+Thu Feb 11  3:33:28 2010,IDependencyGraphUpdateEvent.java,jsholl
+Wed Feb 17 21:33:47 2010,DependencyGraphImpl.java,jsholl
+Thu Feb 18  2:58:33 2010,FlatFile.java,jsholl
+Wed Mar  3 18:44:28 2010,VirtualComponent.java,jsholl
+Wed Mar  3 19:55:47 2010,ComponentResolver.java,jsholl
+Wed Mar  3 20:07:11 2010,MANIFEST.MF,jsholl
+Wed Mar  3 20:07:11 2010,plugin.xml,jsholl
+Wed Mar  3 20:07:11 2010,menuEnabler.exsd,jsholl
+Wed Mar  3 20:07:11 2010,MenuEnablementPropertyTester.java,jsholl
+Wed Mar  3 20:07:11 2010,MenuEnablerExtension.java,jsholl
+Wed Mar  3 20:07:11 2010,MenuEnablerExtensionReader.java,jsholl

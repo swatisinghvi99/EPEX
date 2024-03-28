@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Mon Sep  8  9:29:51 2014,.classpath,Szymon Brandys
+Mon Sep  8  9:29:51 2014,MANIFEST.MF,Szymon Brandys
+Mon Sep  8  9:29:51 2014,build.properties,Szymon Brandys
+Mon Sep  8  9:29:51 2014,license-eplv10-aslv20.html,Szymon Brandys
+Mon Sep  8  9:29:51 2014,CFHandlerV1.java,Szymon Brandys
+Mon Sep  8  9:29:51 2014,LoggregatorHandlerV1.java,Szymon Brandys
+Mon Sep  8  9:29:51 2014,LoggregatorClient.java,Szymon Brandys
+Mon Sep  8  9:29:51 2014,LoggregatorListener.java,Szymon Brandys
+Mon Sep  8  9:29:51 2014,LoggregatorSocket.java,Szymon Brandys

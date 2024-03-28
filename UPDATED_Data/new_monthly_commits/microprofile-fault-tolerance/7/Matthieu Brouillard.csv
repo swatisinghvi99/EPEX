@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Wed Nov  8 11:02:36 2017,CircuitBreakerTest.java,Matthieu Brouillard
+Wed Nov  8 11:02:36 2017,Misc.java,Matthieu Brouillard
+Wed Nov  8 12:17:51 2017,CircuitBreakerTest.java,Matthieu Brouillard
+Tue Nov 21 14:57:00 2017,Utils.java,Matthieu Brouillard
+Wed Nov 22 13:24:59 2017,IncompatibleFallbackMethodTest.java,Matthieu Brouillard
+Wed Nov 22 13:24:59 2017,IncompatibleFallbackMethodWithArgsTest.java,Matthieu Brouillard
+Wed Nov 22 13:24:59 2017,IncompatibleFallbackPolicies.java,Matthieu Brouillard
+Wed Nov 22 13:24:59 2017,IncompatibleFallbackTest.java,Matthieu Brouillard
+Wed Nov 22 13:24:59 2017,InvalidBulkheadAsynchQueueTest.java,Matthieu Brouillard
+Wed Nov 22 13:24:59 2017,InvalidBulkheadValueTest.java,Matthieu Brouillard
+Wed Nov 22 13:24:59 2017,InvalidCircuitBreakerDelayTest.java,Matthieu Brouillard
+Wed Nov 22 13:24:59 2017,InvalidCircuitBreakerFailureRatioNegTest.java,Matthieu Brouillard
+Wed Nov 22 13:24:59 2017,InvalidCircuitBreakerFailureRatioPosTest.java,Matthieu Brouillard
+Wed Nov 22 13:24:59 2017,InvalidCircuitBreakerFailureReqVol0Test.java,Matthieu Brouillard
+Wed Nov 22 13:24:59 2017,InvalidCircuitBreakerFailureReqVolNegTest.java,Matthieu Brouillard
+Wed Nov 22 13:24:59 2017,InvalidCircuitBreakerFailureSuccess0Test.java,Matthieu Brouillard
+Wed Nov 22 13:24:59 2017,InvalidCircuitBreakerFailureSuccessNegTest.java,Matthieu Brouillard
+Wed Nov 22 13:24:59 2017,InvalidRetryDelayDurationTest.java,Matthieu Brouillard
+Wed Nov 22 13:24:59 2017,InvalidRetryDelayTest.java,Matthieu Brouillard
+Wed Nov 22 13:24:59 2017,InvalidRetryJitterTest.java,Matthieu Brouillard
+Wed Nov 22 13:24:59 2017,InvalidRetryMaxRetriesTest.java,Matthieu Brouillard
+Wed Nov 22 13:24:59 2017,InvalidTimeoutValueTest.java,Matthieu Brouillard

@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Thu Apr 19 14:55:53 2018,TreeResourceRevealer.java,Igor Vinokur
+Thu Apr 26 13:27:35 2018,GitChangesDetector.java,Igor Vinokur
+Tue May  8 11:11:27 2018,pom.xml,Igor Vinokur
+Tue May  8 11:11:27 2018,NodeJsDebugProcess.java,Igor Vinokur
+Tue May  8 11:11:27 2018,NodeJsDebugCommandsLibrary.java,Igor Vinokur
+Tue May  8 11:11:27 2018,NodeJsBreakpointsParser.java,Igor Vinokur
+Tue May  8 11:11:27 2018,NodeJsBreakpointsParserTest.java,Igor Vinokur
+Tue May  8 11:11:27 2018,NodeJsDebugTest.java,Igor Vinokur

@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Wed Apr 15 21:14:06 2015,AbstractIngestCommandLineDriver.java,Rich Fecher
+Wed Apr 15 21:14:06 2015,CLIOperation.java,Rich Fecher
+Wed Apr 15 21:14:06 2015,CLIOperationCategory.java,Rich Fecher
+Wed Apr 15 21:14:06 2015,CLIOperationDriver.java,Rich Fecher
+Wed Apr 15 21:14:06 2015,CLIOperationProviderSpi.java,Rich Fecher
+Wed Apr 15 21:14:06 2015,ClearNamespaceDriver.java,Rich Fecher
+Wed Apr 15 21:14:06 2015,CustomOperationCategory.java,Rich Fecher
+Wed Apr 15 21:14:06 2015,IngestCLIOperationProvider.java,Rich Fecher
+Wed Apr 15 21:14:06 2015,IngestMain.java,Rich Fecher
+Wed Apr 15 21:14:06 2015,IngestOperationCategory.java,Rich Fecher
+Wed Apr 15 21:14:06 2015,MultiStageCommandLineDriver.java,Rich Fecher
+Wed Apr 15 21:14:06 2015,OperationCommandLineOptions.java,Rich Fecher
+Wed Apr 15 21:14:06 2015,IngestFromHdfsDriver.java,Rich Fecher
+Wed Apr 15 21:14:06 2015,AbstractLocalFileDriver.java,Rich Fecher
+Wed Apr 15 21:14:06 2015,mil.nga.giat.geowave.ingest.CLIOperationProviderSpi,Rich Fecher
+Wed Apr 15 21:14:06 2015,eclipse-cleanup.xml,Rich Fecher

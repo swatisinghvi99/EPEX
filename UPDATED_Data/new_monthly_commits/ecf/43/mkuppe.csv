@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Fri Jun  6 13:51:09 2008,IDiscoveryService.java,mkuppe
+Thu Jun 12  9:01:47 2008,AbstractDiscoveryContainerAdapter.java,mkuppe
+Thu Jun 12  9:01:47 2008,IDiscoveryContainerAdapter.java,mkuppe
+Thu Jun 12  9:01:51 2008,SingletonDiscoveryContainer.java,mkuppe
+Thu Jun 12  9:06:47 2008,JMDNSDiscoveryContainer.java,mkuppe
+Thu Jun 12  9:29:50 2008,plugin.xml,mkuppe
+Thu Jun 12  9:29:50 2008,CompositeNamespace.java,mkuppe
+Thu Jun 12  9:29:50 2008,CompositeServiceID.java,mkuppe
+Thu Jun 12  9:33:27 2008,MANIFEST.MF,mkuppe
+Thu Jun 12  9:33:27 2008,Activator.java,mkuppe
+Thu Jun 12  9:33:27 2008,CompositeDiscoveryContainer.java,mkuppe
+Thu Jun 12  9:48:00 2008,Generic Remote EnvironmentInfo Server.launch,mkuppe
+Thu Jun 12  9:48:00 2008,Activator.java,mkuppe
+Thu Jun 12  9:51:44 2008,DiscoveryView.java,mkuppe
+Thu Jun 12  9:51:44 2008,Activator.java,mkuppe
+Thu Jun 12 10:26:57 2008,ServiceIDTest.java,mkuppe
+Thu Jun 12 10:26:57 2008,TestNamespace.java,mkuppe
+Thu Jun 12 10:26:57 2008,TestServiceID.java,mkuppe
+Thu Jun 12 10:26:59 2008,JSLPNamespace.java,mkuppe
+Fri Jun 13  6:34:55 2008,IDiscoveryContainerAdapter.java,mkuppe
+Fri Jun 13  6:34:57 2008,CompositeDiscoveryContainer.java,mkuppe
+Fri Jun 13  6:34:57 2008,SingletonDiscoveryContainer.java,mkuppe

@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Wed Mar 17 16:18:00 2021,.gitignore,andrei-cristea
+Wed Mar 17 16:18:00 2021,Jenkinsfile,andrei-cristea
+Wed Mar 17 16:18:00 2021,LICENSE,andrei-cristea
+Wed Mar 17 16:18:00 2021,NOTICE.md,andrei-cristea
+Wed Mar 17 16:18:00 2021,PUBLISHERS.yml,andrei-cristea
+Wed Mar 17 16:18:00 2021,build.gradle.kts,andrei-cristea
+Wed Mar 17 16:18:00 2021,gradle.properties,andrei-cristea
+Wed Mar 17 16:18:00 2021,gradle-wrapper.properties,andrei-cristea
+Wed Mar 17 16:18:00 2021,gradlew,andrei-cristea
+Wed Mar 17 16:18:00 2021,gradlew.bat,andrei-cristea
+Wed Mar 17 16:18:00 2021,settings.gradle.kts,andrei-cristea
+Wed Mar 17 16:18:00 2021,DistributedLocalApiProperties.java,andrei-cristea
+Wed Mar 17 16:18:00 2021,LocalServiceManager.java,andrei-cristea
+Wed Mar 17 16:18:00 2021,package-info.java,andrei-cristea
+Wed Mar 17 16:18:00 2021,LocalServiceFactorySpi.java,andrei-cristea
+Wed Mar 17 16:18:00 2021,LocalServiceSpi.java,andrei-cristea
+Wed Mar 17 16:18:00 2021,package-info.java,andrei-cristea
+Wed Mar 17 16:18:00 2021,overview.html,andrei-cristea
+Wed Mar 17 16:18:00 2021,DistributedLocalApiPropertiesTest.java,andrei-cristea

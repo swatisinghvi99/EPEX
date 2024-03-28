@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Sat Mar 21 16:52:26 2020,MANIFEST.MF,Alexander Kurtakov
+Sat Mar 21 16:52:26 2020,pom.xml,Alexander Kurtakov
+Sat Mar 21 16:52:26 2020,AssembleTests.java,Alexander Kurtakov
+Sat Mar 21 16:52:26 2020,FetchTests.java,Alexander Kurtakov
+Sat Mar 21 16:52:26 2020,ProductTests.java,Alexander Kurtakov
+Sat Mar 21 16:52:26 2020,ScriptGenerationTests.java,Alexander Kurtakov
+Sat Mar 21 16:52:26 2020,SourceTests.java,Alexander Kurtakov
+Sat Mar 21 16:52:26 2020,LicenseTests.java,Alexander Kurtakov
+Sat Mar 21 16:52:26 2020,P2TestCase.java,Alexander Kurtakov
+Sat Mar 21 16:52:26 2020,P2Tests.java,Alexander Kurtakov
+Sat Mar 21 16:52:26 2020,PublishingTests.java,Alexander Kurtakov
+Sat Mar 21 16:52:26 2020,PDETestCase.java,Alexander Kurtakov

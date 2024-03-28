@@ -1,0 +1,217 @@
+[
+    [
+        "Florian Reimold",
+        "cpp",
+        47
+    ],
+    [
+        "Florian Reimold",
+        "h",
+        19
+    ],
+    [
+        "Florian Reimold",
+        "ui",
+        3
+    ],
+    [
+        "Florian Reimold",
+        "txt",
+        11
+    ],
+    [
+        "Florian Reimold",
+        "cxx",
+        2
+    ],
+    [
+        "Florian Reimold",
+        "rst",
+        9
+    ],
+    [
+        "Florian Reimold",
+        "yaml",
+        1
+    ],
+    [
+        "Florian Reimold",
+        "unknown",
+        5
+    ],
+    [
+        "Florian Reimold",
+        "yml",
+        6
+    ],
+    [
+        "Florian Reimold",
+        "gitmodules",
+        1
+    ],
+    [
+        "Florian Reimold",
+        "json",
+        1
+    ],
+    [
+        "Florian Reimold",
+        "bat",
+        1
+    ],
+    [
+        "Florian Reimold",
+        "cmake",
+        2
+    ],
+    [
+        "Florian Reimold",
+        "in",
+        1
+    ],
+    [
+        "Florian Reimold",
+        "py",
+        4
+    ],
+    [
+        "Kerstin Keller",
+        "txt",
+        1
+    ],
+    [
+        "Kerstin Keller",
+        "cpp",
+        27
+    ],
+    [
+        "Kerstin Keller",
+        "h",
+        9
+    ],
+    [
+        "Kerstin Keller",
+        "py",
+        1
+    ],
+    [
+        "Kristof Hannemann",
+        "h",
+        7
+    ],
+    [
+        "Kristof Hannemann",
+        "cpp",
+        12
+    ],
+    [
+        "Kristof Hannemann",
+        "txt",
+        3
+    ],
+    [
+        "Kristof Hannemann",
+        "json",
+        1
+    ],
+    [
+        "Kristof Hannemann",
+        "ui",
+        1
+    ],
+    [
+        "Rex Schilasky",
+        "cpp",
+        24
+    ],
+    [
+        "Rex Schilasky",
+        "h",
+        13
+    ],
+    [
+        "Rex Schilasky",
+        "pyproj",
+        1
+    ],
+    [
+        "Rex Schilasky",
+        "py",
+        2
+    ],
+    [
+        "Rex Schilasky",
+        "proto",
+        1
+    ],
+    [
+        "Rex Schilasky",
+        "txt",
+        2
+    ],
+    [
+        "Rex Schilasky",
+        "cxx",
+        2
+    ],
+    [
+        "hassnaaHamdi",
+        "rst",
+        2
+    ],
+    [
+        "hassnaaHamdi",
+        "yaml",
+        1
+    ],
+    [
+        "hassnaaHamdi",
+        "unknown",
+        3
+    ],
+    [
+        "hassnaaHamdi",
+        "txt",
+        2
+    ],
+    [
+        "hassnaaHamdi",
+        "cpp",
+        2
+    ],
+    [
+        "Aleksandar Brakmi\u0107",
+        "h",
+        1
+    ],
+    [
+        "Emil Bic",
+        "h",
+        4
+    ],
+    [
+        "Emil Bic",
+        "cpp",
+        7
+    ],
+    [
+        "Emil Bic",
+        "ui",
+        1
+    ],
+    [
+        "Mihai Muraru",
+        "h",
+        1
+    ],
+    [
+        "Mihai Muraru",
+        "cpp",
+        2
+    ],
+    [
+        "Mihai Muraru",
+        "proto",
+        1
+    ]
+]

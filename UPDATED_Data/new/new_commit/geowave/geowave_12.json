@@ -1,0 +1,237 @@
+[
+    [
+        "Rich Fecher",
+        "yml",
+        1
+    ],
+    [
+        "Rich Fecher",
+        "xml",
+        86
+    ],
+    [
+        "Rich Fecher",
+        "java",
+        1189
+    ],
+    [
+        "Rich Fecher",
+        "IngestDimensionalityTypeProviderSpi",
+        1
+    ],
+    [
+        "Rich Fecher",
+        "FieldSerializationProviderSpi",
+        2
+    ],
+    [
+        "Rich Fecher",
+        "gitignore",
+        19
+    ],
+    [
+        "Rich Fecher",
+        "avsc",
+        6
+    ],
+    [
+        "Rich Fecher",
+        "CLIOperationProviderSpi",
+        4
+    ],
+    [
+        "Rich Fecher",
+        "sh",
+        28
+    ],
+    [
+        "Rich Fecher",
+        "txt",
+        4
+    ],
+    [
+        "Rich Fecher",
+        "hpp",
+        2
+    ],
+    [
+        "Rich Fecher",
+        "pp",
+        14
+    ],
+    [
+        "Rich Fecher",
+        "erb",
+        2
+    ],
+    [
+        "Rich Fecher",
+        "spec",
+        6
+    ],
+    [
+        "Rich Fecher",
+        "repo",
+        4
+    ],
+    [
+        "Rich Fecher",
+        "sld",
+        7
+    ],
+    [
+        "Rich Fecher",
+        "GridFormatFactorySpi",
+        2
+    ],
+    [
+        "Rich Fecher",
+        "AuthorizationFactorySPI",
+        2
+    ],
+    [
+        "Rich Fecher",
+        "LockingManagementFactory",
+        2
+    ],
+    [
+        "Rich Fecher",
+        "ColumnVisibilityManagement",
+        2
+    ],
+    [
+        "Rich Fecher",
+        "DataStoreFactorySpi",
+        2
+    ],
+    [
+        "Rich Fecher",
+        "ProcessFactory",
+        3
+    ],
+    [
+        "Rich Fecher",
+        "json",
+        2
+    ],
+    [
+        "Rich Fecher",
+        "IngestFormatPluginProviderSpi",
+        5
+    ],
+    [
+        "Rich Fecher",
+        "xsd",
+        4
+    ],
+    [
+        "Rich Fecher",
+        "gpx",
+        2
+    ],
+    [
+        "Rich Fecher",
+        "g",
+        1
+    ],
+    [
+        "Rich Fecher",
+        "properties",
+        5
+    ],
+    [
+        "Rich Fecher",
+        "m",
+        8
+    ],
+    [
+        "Rich Fecher",
+        "md",
+        3
+    ],
+    [
+        "Rich Fecher",
+        "IngestTypePluginProviderSpi",
+        1
+    ],
+    [
+        "Rich Fecher",
+        "unknown",
+        1
+    ],
+    [
+        "Derek Yeager",
+        "java",
+        22
+    ],
+    [
+        "Derek Yeager",
+        "txt",
+        2
+    ],
+    [
+        "rwgdrummer",
+        "java",
+        27
+    ],
+    [
+        "Whitney O'Meara",
+        "txt",
+        1
+    ],
+    [
+        "Whitney O'Meara",
+        "hpp",
+        1
+    ],
+    [
+        "Whitney O'Meara",
+        "sh",
+        1
+    ],
+    [
+        "Whitney O'Meara",
+        "xml",
+        1
+    ],
+    [
+        "Jprochazka",
+        "gitignore",
+        1
+    ],
+    [
+        "Jprochazka",
+        "xml",
+        3
+    ],
+    [
+        "Jprochazka",
+        "avsc",
+        1
+    ],
+    [
+        "Jprochazka",
+        "java",
+        25
+    ],
+    [
+        "Chris Bennight",
+        "java",
+        4
+    ],
+    [
+        "Andrew Spohn",
+        "adoc",
+        2
+    ],
+    [
+        "Andrew Spohn",
+        "txt",
+        1
+    ],
+    [
+        "Andrew Spohn",
+        "java",
+        1
+    ]
+]

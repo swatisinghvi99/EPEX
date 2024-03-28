@@ -1,0 +1,139 @@
+date_time,file,committer_name
+Sun Mar 18 16:00:11 2012,MergeTool.java,Mauricio Pazos
+Sun Mar 18 16:00:11 2012,Util.java,Mauricio Pazos
+Sun Mar 18 16:00:11 2012,BBoxSelection.java,Mauricio Pazos
+Sun Mar 18 16:01:55 2012,MergeTool.java,Mauricio Pazos
+Tue Mar 20 18:19:00 2012,MergeTool.java,Mauricio Pazos
+Tue Mar 20 18:19:00 2012,Util.java,Mauricio Pazos
+Tue Mar 20 18:19:00 2012,MergeComposite.java,Mauricio Pazos
+Mon Mar 26  7:58:51 2012,MergeContext.java,Mauricio Pazos
+Mon Mar 26  7:58:51 2012,MergeTool.java,Mauricio Pazos
+Mon Mar 26  7:58:51 2012,Util.java,Mauricio Pazos
+Mon Mar 26  7:58:51 2012,MergeFeatureBuilder.java,Mauricio Pazos
+Mon Mar 26  7:58:51 2012,SplitFeaturesCommand.java,Mauricio Pazos
+Mon Mar 26  7:58:51 2012,SplitGeometryBehaviour.java,Mauricio Pazos
+Mon Mar 26  7:58:51 2012,SplitTool.java,Mauricio Pazos
+Mon Mar 26  7:58:51 2012,.classpath,Mauricio Pazos
+Mon Mar 26  7:58:51 2012,UDIGSimpleFeatureStore.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,.classpath,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,.project,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,org.eclipse.jdt.core.prefs,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,MANIFEST.MF,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,build.properties,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,plugin.xml,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,ClosedSplitLineTest.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,RingExtractorTest.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitBuilderTest.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitMultiPolygonTest.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitStrategyTest.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitTestUtil.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Testcatalog_20100414.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Activator.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,.classpath,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,.project,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,org.eclipse.jdt.core.prefs,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,MANIFEST.MF,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,build.properties,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,.directory,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Arc Tool.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Editing Tools Users Guide.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Editing Tools.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Merge Tool.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Modes for Create Geometry Tools.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Ortho Mode.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Parallel Mode.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Parallel Tool.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Snap to Line Mode.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Snap to Vertex Mode.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Split Tool (Axios Tools).html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Split Tool.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Trim Line Tool.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,index.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,site.css,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,toc.xml,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,7962777.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,7962781.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,7962787.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Herramienta Arco.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Herramienta Dividir.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Herramienta Paralela.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,site.css,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,toc.xml,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Arku tresna.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Edizio tresnak.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Elkarketa tresna.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Lerro doiketa tresna.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Paralelo tresna.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Zatiketa tresna.html,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,site.css,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,toc.xml,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,plugin.properties,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,plugin.xml,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,plugin_es.properties,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,plugin_eu.properties,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Activator.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,CannotSplitException.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitFeatureBuilder.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitFeatureBuilderException.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitFeatureBuilderFailException.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,CoordSeqFactoryPreservingCoordinateSequenceTransformer.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,FeatureTypeUnionBuilder.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,FeatureUtil.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,GeoToolsUtils.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,UnitList.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Messages.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,messages.properties,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,messages_es.properties,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,messages_eu.properties,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,GeometryList.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,GeometrySet.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,GeometryUtil.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,MergeStrategy.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,AdaptedPolygon.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Graph.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,IntersectionStrategy.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,LineBoundaryIntersectionAssociation.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,RingExtractor.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,RingUtil.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitBuilder.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitClosedLines.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitEdge.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitEdgeStar.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitGraphBuilder.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitGraphNode.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitGraphNodeFactory.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitStrategy.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitUtil.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,UsefulSplitLine.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,UsefulSplitLineBuilder.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,VertexStrategy.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Messages.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,messages.properties,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,messages_es.properties,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,messages_eu.properties,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,AppGISAdapter.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,PlatformGISMediator.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,DialogUtil.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,InfoMessage.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,LayerUtil.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,MapUtil.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,StatusBar.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Messages.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,messages.properties,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,messages_es.properties,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,messages_eu.properties,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,MergeContext.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,MergeTool.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,MergeToolException.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Util.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,Message.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,MergeComposite.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,MergeFeatureBuilder.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,MergeFeaturesCommand.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,MergeView.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,AddSplitVertexBehaviour.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,ModifyGeometryFeatureCommand.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitFeaturesCommand.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitFeaturesCommandException.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitGeometryBehaviour.java,Mauricio Pazos
+Fri Mar 30 16:54:04 2012,SplitTool.java,Mauricio Pazos

@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Wed Jan 18 21:35:32 2023,AnnotationUtils.java,Maximillian Arruda
+Wed Jan 18 21:35:32 2023,CDIExtension.java,Maximillian Arruda
+Wed Jan 18 21:35:32 2023,CDIJUnitExtension.java,Maximillian Arruda
+Wed Jan 18 21:35:32 2023,ContainerSupplier.java,Maximillian Arruda
+Wed Jan 18 21:35:32 2023,Preconditions.java,Maximillian Arruda
+Wed Jan 18 21:35:32 2023,pom.xml,Maximillian Arruda
+Wed Jan 18 21:35:32 2023,ColumnTemplateValidationTest.java,Maximillian Arruda
+Wed Jan 18 21:35:32 2023,ConstructorValidationTest.java,Maximillian Arruda
+Wed Jan 18 21:35:32 2023,DocumentTemplateValidationTest.java,Maximillian Arruda
+Wed Jan 18 21:35:32 2023,KeyValueTemplateValidationTest.java,Maximillian Arruda
+Mon Feb  6 17:16:37 2023,MappingValidator.java,Maximillian Arruda
+Mon Feb  6 18:52:27 2023,MappingValidator.java,Maximillian Arruda
+Mon Feb  6 18:56:48 2023,MappingValidator.java,Maximillian Arruda
+Sat Feb 11  4:25:06 2023,QueryParserTest.java,Maximillian Arruda
+Sat Feb 11  4:26:44 2023,WhereTest.java,Maximillian Arruda
+Sat Feb 11  4:32:17 2023,WhereTest.java,Maximillian Arruda
+Sat Feb 11 14:05:47 2023,WhereTest.java,Maximillian Arruda
+Sat Feb 11 20:57:36 2023,WhereTest.java,Maximillian Arruda
+Sun Feb 12  1:14:05 2023,ParamsTest.java,Maximillian Arruda
+Sun Feb 12  1:23:02 2023,ColumnParamsTest.java,Maximillian Arruda
+Sun Feb 12  1:23:02 2023,DocumentParamsTest.java,Maximillian Arruda
+Sun Feb 12  1:23:02 2023,KeyValueEntityParamsTest.java,Maximillian Arruda

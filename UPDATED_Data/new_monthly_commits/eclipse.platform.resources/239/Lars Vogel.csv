@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Thu Mar 11  8:54:50 2021,CountResourcesAction.java,Lars Vogel
+Thu Mar 11  9:41:10 2021,LocalHistoryBrowserView.java,Lars Vogel
+Thu Mar 11 14:03:18 2021,IWorkspace.java,Lars Vogel
+Tue Mar 16  7:56:27 2021,FileSystemAccess.java,Lars Vogel
+Thu Apr  1 10:03:27 2021,AliasManager.java,Lars Vogel
+Thu Apr  1 10:03:27 2021,ContentDescriptionManager.java,Lars Vogel
+Thu Apr  1 10:03:27 2021,WorkManager.java,Lars Vogel
+Thu Apr  1 10:03:27 2021,ElementTree.java,Lars Vogel
+Thu Apr  1 10:03:27 2021,LocalHistoryBrowserView.java,Lars Vogel
+Thu Apr  1 10:03:27 2021,ResourceChangeView.java,Lars Vogel
+Thu Apr  1 10:03:27 2021,MarkerView.java,Lars Vogel
+Thu Apr  1 10:03:27 2021,HistoryStoreTest.java,Lars Vogel
+Thu Apr  1 10:03:27 2021,PropertyManagerTest.java,Lars Vogel
+Thu Apr  1 10:03:27 2021,ProjectPreferencesTest.java,Lars Vogel
+Thu Apr  1 10:03:27 2021,IPathVariableTest.java,Lars Vogel
+Thu Apr  1 10:03:27 2021,IResourceChangeListenerTest.java,Lars Vogel
+Thu Apr  1 10:03:27 2021,SpecificContextTest.java,Lars Vogel

@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Thu Nov 15 14:36:19 2012,EditableRevision.java,Robin Rosenberg
+Thu Nov 15 14:36:19 2012,GraphLabelProvider.java,Robin Rosenberg
+Thu Nov 15 14:36:19 2012,GitDecoratorPreferencePage.java,Robin Rosenberg
+Thu Nov 15 14:36:19 2012,PullOperationUI.java,Robin Rosenberg
+Thu Nov 15 14:36:19 2012,RefUpdateContentProvider.java,Robin Rosenberg
+Thu Nov 15 14:36:19 2012,RepositoriesViewLabelProvider.java,Robin Rosenberg
+Thu Nov 15 14:36:19 2012,CreateRepositoryCommand.java,Robin Rosenberg
+Thu Nov 15 14:36:19 2012,DeleteCommand.java,Robin Rosenberg
+Thu Nov 15 14:36:19 2012,RemoveCommand.java,Robin Rosenberg
+Thu Nov 15 14:36:19 2012,ResetCommand.java,Robin Rosenberg
+Thu Nov 15 14:36:19 2012,CommitResultLabelProvider.java,Robin Rosenberg
+Tue Nov 27 23:10:29 2012,RepositoriesViewSorter.java,Robin Rosenberg
+Wed Nov 28  6:40:36 2012,RevUtils.java,Robin Rosenberg
+Wed Nov 28  6:40:36 2012,CommitInfoBuilder.java,Robin Rosenberg

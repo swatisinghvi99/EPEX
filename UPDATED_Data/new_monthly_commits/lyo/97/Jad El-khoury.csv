@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Wed Nov 13 16:20:07 2019,pom.xml,Jad El-khoury
+Wed Nov 13 16:20:07 2019,IOslcClient.java,Jad El-khoury
+Wed Nov 13 16:20:07 2019,OslcClient.java,Jad El-khoury
+Wed Nov 13 16:20:07 2019,OslcClientBuilder.java,Jad El-khoury
+Wed Nov 13 16:20:07 2019,OslcClientFactory.java,Jad El-khoury
+Wed Nov 13 16:20:07 2019,OslcOAuthClient.java,Jad El-khoury
+Wed Nov 13 16:20:07 2019,OslcOAuthClientBuilder.java,Jad El-khoury
+Wed Nov 13 16:20:07 2019,RootServicesHelper.java,Jad El-khoury
+Wed Nov 13 16:20:07 2019,UnderlyingHttpClient.java,Jad El-khoury
+Wed Nov 13 16:20:07 2019,RmUtil.java,Jad El-khoury

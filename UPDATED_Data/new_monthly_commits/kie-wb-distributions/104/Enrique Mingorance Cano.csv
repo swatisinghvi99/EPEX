@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Wed Sep 29  9:22:25 2021,pom.xml,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,component-kie-wb-standalone-common-RHDM.xml,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,assembly-kie-wb-standalone-redhat-RHDM.xml,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,project-defaults.yml,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,AbstractHomeProducer.java,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,HomeProducer.java,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,Constants.properties,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,Constants_es.properties,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,Constants_fr.properties,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,Constants_ja.properties,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,HomeProducerDroolsPlannerProfileTest.java,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,AbstractHomeProducer.java,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,HomeProducer.java,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,AboutPopupConfigImpl.java,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,Constants.java,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,Constants.properties,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,Constants_es.properties,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,Constants_fr.properties,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,Constants_ja.properties,Enrique Mingorance Cano
+Wed Sep 29  9:22:25 2021,AboutPopupConfigImplTest.java,Enrique Mingorance Cano
+Sat Oct  9  5:32:52 2021,AbstractHomeProducer.java,Enrique Mingorance Cano
+Sat Oct  9  5:32:52 2021,HomeProducerDroolsPlannerProfileTest.java,Enrique Mingorance Cano
+Sat Oct  9  5:32:52 2021,AbstractHomeProducer.java,Enrique Mingorance Cano
+Sat Oct  9  5:32:52 2021,AboutPopupConfigImpl.java,Enrique Mingorance Cano
+Sat Oct  9  5:32:52 2021,HomeProducerDroolsPlannerProfileTest.java,Enrique Mingorance Cano

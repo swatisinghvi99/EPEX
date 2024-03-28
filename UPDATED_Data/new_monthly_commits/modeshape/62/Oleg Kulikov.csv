@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Mon Mar 11 16:28:12 2013,XPath.java,Oleg Kulikov
+Mon Mar 11 16:28:12 2013,XPathParser.java,Oleg Kulikov
+Mon Mar 11 16:28:12 2013,XPathToQueryTranslator.java,Oleg Kulikov
+Mon Mar 11 16:28:12 2013,XPathParserTest.java,Oleg Kulikov
+Mon Mar 11 16:28:12 2013,XPathToQueryTranslatorTest.java,Oleg Kulikov
+Mon Mar 11 16:28:12 2013,XPathParser.java,Oleg Kulikov
+Mon Mar 11 16:28:12 2013,XPathToQueryTranslator.java,Oleg Kulikov
+Mon Mar 11 16:28:12 2013,QueryProcessor.java,Oleg Kulikov
+Mon Mar 11 16:28:12 2013,SortValuesComponent.java,Oleg Kulikov
+Mon Mar 11 16:28:12 2013,JcrQueryManagerTest.java,Oleg Kulikov

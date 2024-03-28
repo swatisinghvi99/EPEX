@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Wed Dec  2 17:03:11 2020,cluster_role.yaml,Michal Vala
+Wed Dec  2 17:03:11 2020,org_v1_che_cr.yaml,Michal Vala
+Wed Dec  2 17:03:11 2020,org_v1_che_crd.yaml,Michal Vala
+Wed Dec  2 17:03:11 2020,che-operator.clusterserviceversion.yaml,Michal Vala
+Wed Dec  2 17:03:11 2020,org_v1_che_crd.yaml,Michal Vala
+Wed Dec  2 17:03:11 2020,che-operator.clusterserviceversion.yaml,Michal Vala
+Wed Dec  2 17:03:11 2020,org_v1_che_crd.yaml,Michal Vala
+Wed Dec  2 17:03:11 2020,che_types.go,Michal Vala
+Wed Dec  2 17:03:11 2020,che_controller.go,Michal Vala
+Wed Dec  2 17:03:11 2020,clusterrolebinding.go,Michal Vala
+Wed Dec  2 17:03:11 2020,rolebinding.go,Michal Vala

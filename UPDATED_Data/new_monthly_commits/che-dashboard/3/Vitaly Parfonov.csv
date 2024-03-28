@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Apr 18 12:22:57 2016,last-projects.styl,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,create-project.controller.js,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,project-item.html,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,project-item.styl,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,project-details.controller.js,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,project-details.html,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,project-repository.styl,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,export-workspace-dialog.controller.js,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,workspace-details-projects.controller.js,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,workspace-details-projects.directive.js,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,workspace-details-projects.html,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,che-workspace-builder.js,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,che-git.factory.js,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,che-git.spec.js,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,che-project-type.factory.js,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,che-project-type.spec.js,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,che-project.factory.js,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,che-project.spec.js,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,che-workspace.factory.js,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,che-remote-workspace.js,Vitaly Parfonov
+Mon Apr 18 12:22:57 2016,che-http-backend.js,Vitaly Parfonov

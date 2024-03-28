@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Wed May 26 10:24:11 2010,pom.xml,Simone Bordet
+Wed May 26 10:24:11 2010,ConnectionTest.java,Simone Bordet
+Wed May 26 10:24:11 2010,ExpireTest.java,Simone Bordet
+Wed May 26 10:24:11 2010,HttpHeadersTest.java,Simone Bordet
+Wed May 26 10:24:11 2010,SecurityResolverTest.java,Simone Bordet
+Wed May 26 12:37:56 2010,HttpDestination.java,Simone Bordet
+Wed May 26 12:37:56 2010,ConnectionTest.java,Simone Bordet
+Tue Jun  1 12:02:07 2010,VERSION.txt,Simone Bordet
+Tue Jun  1 12:02:07 2010,CrossOriginFilter.java,Simone Bordet

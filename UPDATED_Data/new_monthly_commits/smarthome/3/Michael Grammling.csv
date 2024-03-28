@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Thu Mar 13 10:52:32 2014,MANIFEST.MF,Michael Grammling
+Thu Mar 13 10:52:32 2014,AbstractEventSubscriber.java,Michael Grammling
+Thu Mar 13 10:52:32 2014,EventConstants.java,Michael Grammling
+Thu Mar 13 10:52:32 2014,EventPublisher.java,Michael Grammling
+Thu Mar 13 10:52:32 2014,EventSubscriber.java,Michael Grammling
+Thu Mar 13 10:52:32 2014,CoreActivator.java,Michael Grammling
+Thu Mar 13 10:52:32 2014,EventPublisherImpl.java,Michael Grammling
+Thu Mar 13 10:52:32 2014,ItemUtil.java,Michael Grammling
+Thu Mar 13 10:52:32 2014,EventType.java,Michael Grammling
+Tue Mar 18 17:02:12 2014,AbstractEventSubscriberTest.java,Michael Grammling

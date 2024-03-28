@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Thu Jun  6 12:03:05 2019,sw360-update-generator-step.md,Kalle Soranko
+Thu Jun  6 12:03:05 2019,sw360-enricher.md,Kalle Soranko
+Thu Jun  6 12:03:05 2019,ExampleTestProject.java,Kalle Soranko
+Thu Jun  6 12:03:05 2019,MavenTestProject.java,Kalle Soranko
+Thu Jun  6 12:03:05 2019,workflow.xml,Kalle Soranko
+Thu Jun  6 12:03:05 2019,workflow.xml,Kalle Soranko
+Thu Jun  6 12:03:05 2019,SW360MetaDataReceiver.java,Kalle Soranko
+Thu Jun  6 12:03:05 2019,SW360MetaDataUpdater.java,Kalle Soranko
+Thu Jun  6 12:03:05 2019,SW360ComponentClientAdapter.java,Kalle Soranko
+Thu Jun  6 12:03:05 2019,SW360LicenseClientAdapter.java,Kalle Soranko
+Thu Jun  6 12:03:05 2019,SW360ProjectClientAdapter.java,Kalle Soranko
+Thu Jun  6 12:03:05 2019,SW360ReleaseClientAdapter.java,Kalle Soranko
+Thu Jun  6 12:03:05 2019,SW360UserClientAdapter.java,Kalle Soranko
+Thu Jun  6 12:03:05 2019,SW360AuthenticationClient.java,Kalle Soranko
+Thu Jun  6 12:03:05 2019,SW360ComponentClient.java,Kalle Soranko
+Thu Jun  6 12:03:05 2019,SW360LicenseClient.java,Kalle Soranko
+Thu Jun  6 12:03:05 2019,SW360ProjectClient.java,Kalle Soranko
+Thu Jun  6 12:03:05 2019,SW360ReleaseClient.java,Kalle Soranko
+Thu Jun  6 12:03:05 2019,SW360UserClient.java,Kalle Soranko
+Thu Jun  6 12:03:05 2019,SW360Updater.java,Kalle Soranko
+Thu Jun  6 12:03:05 2019,SW360Enricher.java,Kalle Soranko
+Thu Jun  6 12:03:05 2019,SW360ProjectClientTest.java,Kalle Soranko
+Thu Jun  6 12:03:05 2019,SW360EnricherTest.java,Kalle Soranko

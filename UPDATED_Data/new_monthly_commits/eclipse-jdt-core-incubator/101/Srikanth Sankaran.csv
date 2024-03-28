@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Wed Oct  7 10:42:01 2009,CompletionTests.java,Srikanth Sankaran
+Wed Oct  7 10:42:01 2009,NamingConventionTests.java,Srikanth Sankaran
+Wed Oct  7 10:42:01 2009,buildnotes_jdt-core.html,Srikanth Sankaran
+Wed Oct  7 10:42:01 2009,NamingConventions.java,Srikanth Sankaran
+Wed Oct  7 10:42:01 2009,InternalNamingConventions.java,Srikanth Sankaran
+Fri Oct 16 11:29:50 2009,SelectionTest.java,Srikanth Sankaran
+Fri Oct 16 11:29:50 2009,InnerEmulationTest.java,Srikanth Sankaran
+Fri Oct 16 11:29:50 2009,buildnotes_jdt-core.html,Srikanth Sankaran
+Fri Oct 16 11:29:50 2009,CompletionParser.java,Srikanth Sankaran
+Fri Oct 16 11:29:50 2009,SelectionParser.java,Srikanth Sankaran
+Fri Oct 16 11:29:50 2009,Parser.java,Srikanth Sankaran
+Fri Oct 16 11:29:50 2009,MatchLocatorParser.java,Srikanth Sankaran
+Mon Nov  2 13:58:05 2009,GenericTypeTest.java,Srikanth Sankaran
+Mon Nov  2 13:58:05 2009,messages.properties,Srikanth Sankaran
+Mon Nov  2 13:58:05 2009,buildnotes_jdt-core.html,Srikanth Sankaran
+Mon Nov  2 13:58:05 2009,FieldBinding.java,Srikanth Sankaran
+Mon Nov  2 13:58:05 2009,MethodBinding.java,Srikanth Sankaran
+Mon Nov  2 13:58:05 2009,ReferenceBinding.java,Srikanth Sankaran
+Mon Nov  2 13:58:05 2009,CodeSnippetScope.java,Srikanth Sankaran
+Mon Nov  2 14:19:05 2009,AmbiguousMethodTest.java,Srikanth Sankaran
+Mon Nov  2 14:19:05 2009,buildnotes_jdt-core.html,Srikanth Sankaran
+Mon Nov  2 14:19:05 2009,Scope.java,Srikanth Sankaran

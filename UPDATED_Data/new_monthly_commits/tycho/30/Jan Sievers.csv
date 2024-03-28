@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Wed Feb 26 11:29:04 2014,TestMojo.java,Jan Sievers
+Thu Feb 27  9:08:39 2014,pom.xml,Jan Sievers
+Thu Feb 27  9:08:39 2014,DefaultEquinoxLauncher.java,Jan Sievers
+Thu Feb 27  9:08:39 2014,EquinoxLaunchConfiguration.java,Jan Sievers
+Thu Feb 27  9:08:39 2014,P2ApplicationLauncher.java,Jan Sievers
+Thu Feb 27  9:08:39 2014,TestMojo.java,Jan Sievers
+Thu Feb 27  9:08:39 2014,TestMojoTest.java,Jan Sievers
+Thu Feb 27  9:29:11 2014,EquinoxLaunchConfiguration.java,Jan Sievers
+Thu Feb 27  9:29:11 2014,TestMojo.java,Jan Sievers
+Thu Feb 27  9:29:11 2014,TestMojoTest.java,Jan Sievers
+Fri Feb 28 14:01:27 2014,EclipseRunMojo.java,Jan Sievers
+Mon Mar 17 10:12:31 2014,RemoteAgentMavenMirrorsTest.java,Jan Sievers

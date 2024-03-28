@@ -1,0 +1,292 @@
+[
+    [
+        "Sven Efftinge",
+        "java",
+        101
+    ],
+    [
+        "Sven Efftinge",
+        "xml",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "exsd",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "xtext",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "g",
+        16
+    ],
+    [
+        "Sven Efftinge",
+        "xmi",
+        6
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        925
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "properties",
+        5
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        32
+    ],
+    [
+        "Sebastian Zarnekow",
+        "mwe2",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xml_gen",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "g",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ecore",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "genmodel",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xmi",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "classpath",
+        8
+    ],
+    [
+        "Sebastian Zarnekow",
+        "gitignore",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "project",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "prefs",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "api_filters",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "html",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "target",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "launch",
+        17
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        14
+    ],
+    [
+        "Michael Clay",
+        "java",
+        30
+    ],
+    [
+        "Michael Clay",
+        "xtend",
+        2
+    ],
+    [
+        "Michael Clay",
+        "properties",
+        4
+    ],
+    [
+        "Michael Clay",
+        "xml",
+        2
+    ],
+    [
+        "dhubner",
+        "MF",
+        74
+    ],
+    [
+        "dhubner",
+        "xml",
+        25
+    ],
+    [
+        "dhubner",
+        "ant",
+        2
+    ],
+    [
+        "dhubner",
+        "api_filters",
+        1
+    ],
+    [
+        "dhubner",
+        "java",
+        2
+    ],
+    [
+        "dhubner",
+        "properties",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        226
+    ],
+    [
+        "Jan Koehnlein",
+        "MF",
+        6
+    ],
+    [
+        "Jan Koehnlein",
+        "ecore",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "xml_gen",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "xtend",
+        9
+    ],
+    [
+        "Jan Koehnlein",
+        "g",
+        6
+    ],
+    [
+        "Jan Koehnlein",
+        "tokens",
+        4
+    ],
+    [
+        "Jan Koehnlein",
+        "xmi",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "xtext",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "classpath",
+        1
+    ],
+    [
+        "Holger Schill",
+        "java",
+        46
+    ],
+    [
+        "Holger Schill",
+        "MF",
+        2
+    ],
+    [
+        "Holger Schill",
+        "MF_gen",
+        1
+    ],
+    [
+        "Holger Schill",
+        "xml",
+        1
+    ],
+    [
+        "Holger Schill",
+        "xml_gen",
+        1
+    ],
+    [
+        "Holger Schill",
+        "ecore",
+        1
+    ],
+    [
+        "Holger Schill",
+        "genmodel",
+        1
+    ],
+    [
+        "Holger Schill",
+        "xmi",
+        1
+    ],
+    [
+        "Holger Schill",
+        "g",
+        1
+    ],
+    [
+        "Holger Schill",
+        "tokens",
+        1
+    ],
+    [
+        "Holger Schill",
+        "mwe2",
+        2
+    ],
+    [
+        "Holger Schill",
+        "xtext",
+        1
+    ]
+]

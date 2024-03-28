@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Wed May  5  6:25:59 2010,CreateMultipleSourceFoldersDialog.java,Raksha Vasisht
+Wed May  5  6:25:59 2010,AddFolderToBuildpathAction.java,Raksha Vasisht
+Wed May  5  6:38:59 2010,TypeHierarchyViewPart.java,Raksha Vasisht
+Wed May  5  6:42:21 2010,TypeHierarchyLifeCycle.java,Raksha Vasisht
+Thu May  6 12:40:56 2010,NewContainerWizardPage.java,Raksha Vasisht
+Tue May 11 15:20:45 2010,PackageExplorerContentProvider.java,Raksha Vasisht
+Wed May 19 12:15:39 2010,MoveStaticMembersPerfTests1.java,Raksha Vasisht
+Wed May 19 12:15:39 2010,MoveStaticMembersPerfTests2.java,Raksha Vasisht
+Wed May 19 12:28:28 2010,CleanUpPerfTest.java,Raksha Vasisht
+Wed May 26 13:40:38 2010,FindImplementOccurrencesAction.java,Raksha Vasisht
+Wed May 26 13:40:38 2010,FindMethodExitOccurrencesAction.java,Raksha Vasisht
+Wed May 26 13:40:38 2010,FindOccurrencesInFileAction.java,Raksha Vasisht
+Wed May 26 13:40:38 2010,InferTypeArgumentsAction.java,Raksha Vasisht
+Wed May 26 13:40:38 2010,InlineTempAction.java,Raksha Vasisht
+Wed May 26 13:40:38 2010,IntroduceFactoryAction.java,Raksha Vasisht
+Wed May 26 13:40:38 2010,IntroduceIndirectionAction.java,Raksha Vasisht
+Wed May 26 13:40:38 2010,IntroduceParameterAction.java,Raksha Vasisht
+Wed May 26 13:40:38 2010,ModifyParametersAction.java,Raksha Vasisht
+Wed May 26 13:40:38 2010,PullUpAction.java,Raksha Vasisht
+Wed May 26 13:40:38 2010,PushDownAction.java,Raksha Vasisht
+Wed May 26 13:40:38 2010,RefactorActionGroup.java,Raksha Vasisht
+Wed May 26 13:40:38 2010,SelfEncapsulateFieldAction.java,Raksha Vasisht
+Wed May 26 13:40:38 2010,UseSupertypeAction.java,Raksha Vasisht
+Wed May 26 13:40:38 2010,NewTypeWizardPage.java,Raksha Vasisht
+Thu May 27  8:17:24 2010,NewTypeWizardPage.java,Raksha Vasisht

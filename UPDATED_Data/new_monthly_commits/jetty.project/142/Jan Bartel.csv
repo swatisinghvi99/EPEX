@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Thu Dec 24 14:29:31 2020,DOMLeakPreventer.java,Jan Bartel
+Thu Dec 24 14:29:31 2020,GCThreadLeakPreventer.java,Jan Bartel
+Thu Dec 24 14:29:31 2020,Java2DLeakPreventer.java,Jan Bartel
+Thu Dec 24 14:29:31 2020,LDAPLeakPreventer.java,Jan Bartel
+Thu Dec 24 14:29:31 2020,LoginConfigurationLeakPreventer.java,Jan Bartel
+Thu Dec 24 14:29:31 2020,SecurityProviderLeakPreventer.java,Jan Bartel
+Mon Jan 11  9:30:23 2021,ConstraintSecurityHandler.java,Jan Bartel
+Mon Jan 11  9:30:23 2021,ConstraintTest.java,Jan Bartel
+Tue Jan 12 10:30:04 2021,PathWatcher.java,Jan Bartel
+Tue Jan 12 10:44:56 2021,AnnotationConfiguration.java,Jan Bartel
+Tue Jan 12 10:44:56 2021,ResourceTest.java,Jan Bartel
+Tue Jan 12 11:14:56 2021,JdbcLoginServiceTest.java,Jan Bartel
+Tue Jan 12 11:20:28 2021,TestableJettyServer.java,Jan Bartel
+Tue Jan 12 14:45:08 2021,TestConfiguration.java,Jan Bartel
+Tue Jan 12 14:45:08 2021,TestConfiguration.java,Jan Bartel
+Tue Jan 12 15:13:50 2021,PathWatcherTest.java,Jan Bartel
+Tue Jan 12 16:48:37 2021,XmlConfigurationTest.java,Jan Bartel
+Wed Jan 13 21:35:36 2021,ServletRequestLogTest.java,Jan Bartel

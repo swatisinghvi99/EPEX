@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Fri Aug 24 18:36:09 2007,XSDElementDeclarationAdapter.java,kchong
+Fri Aug 24 18:36:09 2007,XSDSchemaEditPart.java,kchong
+Fri Aug 24 18:36:09 2007,XSDSchemaSection.java,kchong
+Fri Aug 24 18:55:18 2007,AbstractExtensionsSection.java,kchong
+Fri Aug 24 19:05:24 2007,ExtensionDetailsViewer.java,kchong
+Fri Aug 24 19:26:43 2007,AddXSDAnyElementAction.java,kchong
+Fri Aug 24 19:30:46 2007,AddXSDModelGroupDefinitionCommand.java,kchong
+Fri Aug 24 19:30:46 2007,XSDModelGroupDefinitionSection.java,kchong
+Fri Aug 24 19:33:14 2007,AddXSDModelGroupDefinitionCommand.java,kchong
+Fri Aug 24 19:33:14 2007,XSDModelGroupDefinitionSection.java,kchong
+Fri Aug 24 20:38:06 2007,XSDEditSchemaInfoDialog.java,kchong

@@ -1,0 +1,47 @@
+[
+    [
+        "Erik Jaegervall",
+        "json",
+        1
+    ],
+    [
+        "Erik Jaegervall",
+        "flake8",
+        1
+    ],
+    [
+        "Erik Jaegervall",
+        "yml",
+        4
+    ],
+    [
+        "Erik Jaegervall",
+        "pylintrc",
+        1
+    ],
+    [
+        "Erik Jaegervall",
+        "unknown",
+        1
+    ],
+    [
+        "Erik Jaegervall",
+        "md",
+        2
+    ],
+    [
+        "Erik Jaegervall",
+        "py",
+        6
+    ],
+    [
+        "Erik Jaegervall",
+        "sh",
+        1
+    ],
+    [
+        "Erik Jaegervall",
+        "txt",
+        2
+    ]
+]

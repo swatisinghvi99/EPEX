@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Wed May 17 18:16:30 2017,futex_analysis_lttng.xml,Jean-Christian Kouame
+Wed May 17 18:16:30 2017,irq_analysis_lttng.xml,Jean-Christian Kouame
+Wed May 17 18:16:30 2017,XmlPatternAnalysis.java,Jean-Christian Kouame
+Wed May 17 18:16:30 2017,TmfAnalysisModuleHelperXml.java,Jean-Christian Kouame
+Wed May 17 18:16:30 2017,TmfXmlStrings.java,Jean-Christian Kouame
+Wed May 17 18:16:30 2017,xmlPatternStateProvider.xsd,Jean-Christian Kouame
+Wed May 17 18:16:30 2017,MANIFEST.MF,Jean-Christian Kouame
+Wed May 17 18:16:30 2017,TmfXmlAnalysisOutputSource.java,Jean-Christian Kouame
+Wed May 17 18:16:30 2017,XmlLatencyViewInfo.java,Jean-Christian Kouame
+Wed May 17 18:16:30 2017,PatternDensityView.java,Jean-Christian Kouame
+Wed May 17 18:16:30 2017,PatternLatencyTableView.java,Jean-Christian Kouame
+Wed May 17 18:16:30 2017,PatternScatterGraphView.java,Jean-Christian Kouame
+Wed May 17 18:16:30 2017,PatternStatisticsView.java,Jean-Christian Kouame
+Wed May 17 18:16:39 2017,PatternStatisticsViewer.java,Jean-Christian Kouame

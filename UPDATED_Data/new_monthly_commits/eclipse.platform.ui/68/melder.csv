@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Sun Dec  3 21:10:01 2006,CommonViewer.java,melder
+Mon Dec  4  1:51:24 2006,EvalutationReference.java,melder
+Mon Dec  4  1:51:24 2006,NavigatorContentDescriptorManager.java,melder
+Mon Dec  4  1:59:17 2006,CommonViewerSorter.java,melder
+Mon Dec  4  2:16:12 2006,CommonNavigatorMessages.java,melder
+Mon Dec  4  2:16:12 2006,FilterDialogSelectionListener.java,melder
+Mon Dec  4  2:16:12 2006,messages.properties,melder
+Mon Dec  4  2:16:12 2006,plugin.xml,melder
+Mon Dec  4  3:01:11 2006,NavigatorContentService.java,melder
+Mon Dec  4  3:01:11 2006,CommonContentExtensionSite.java,melder
+Mon Dec  4  3:01:11 2006,CommonSorterDescriptorManager.java,melder
+Mon Dec  4  3:01:11 2006,NavigatorSorterService.java,melder
+Mon Dec  4  3:01:11 2006,ICommonContentExtensionSite.java,melder
+Mon Dec  4  3:01:11 2006,INavigatorContentService.java,melder
+Mon Dec  4  3:01:11 2006,INavigatorSorterService.java,melder
+Mon Dec  4  3:01:11 2006,plugin.xml,melder
+Mon Dec  4  3:01:11 2006,ProgrammaticOpenTest.java,melder
+Mon Dec  4  3:17:06 2006,NavigatorFilterService.java,melder
+Mon Dec  4  3:17:06 2006,INavigatorFilterService.java,melder

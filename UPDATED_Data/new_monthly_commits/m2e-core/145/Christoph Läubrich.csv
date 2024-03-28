@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Wed Dec 14 12:16:58 2022,MavenProjectFacade.java,Christoph Läubrich
+Fri Dec 16  9:37:55 2022,IMavenToolbox.java,Christoph Läubrich
+Sun Dec 18 14:52:44 2022,MANIFEST.MF,Christoph Läubrich
+Sun Dec 18 14:52:44 2022,ArtifactKey.java,Christoph Läubrich
+Sun Dec 18 14:52:44 2022,IMavenToolbox.java,Christoph Läubrich
+Sun Dec 18 14:52:44 2022,MavenArtifactIdentifier.java,Christoph Läubrich
+Sun Dec 18 14:52:44 2022,MetaInfMavenScanner.java,Christoph Läubrich
+Sun Dec 18 14:52:44 2022,MANIFEST.MF,Christoph Läubrich
+Sun Dec 18 14:52:44 2022,MANIFEST.MF,Christoph Läubrich
+Sun Dec 18 14:52:44 2022,PDEMavenBundlePluginConfigurator.java,Christoph Läubrich
+Sun Dec 18 14:52:44 2022,plugin.xml,Christoph Läubrich
+Sun Dec 18 14:52:44 2022,MavenPluginSourcePathLocator.java,Christoph Läubrich
+Sun Dec 18 14:52:44 2022,MavenTargetLocation.java,Christoph Läubrich
+Sun Dec 18 14:52:44 2022,TargetBundles.java,Christoph Läubrich
+Sun Dec 18 14:52:44 2022,MANIFEST.MF,Christoph Läubrich
+Sun Dec 18 14:52:44 2022,ImportBinaryProjectHandler.java,Christoph Läubrich
+Sun Dec 18 14:52:44 2022,OpenPomCommandHandler.java,Christoph Läubrich
+Sun Dec 18 14:52:44 2022,SourceLookupInfoDialog.java,Christoph Läubrich
+Sun Dec 18 14:52:44 2022,MANIFEST.MF,Christoph Läubrich
+Sun Dec 18 14:52:44 2022,MavenSourceContainerResolver.java,Christoph Läubrich
+Sun Dec 18 17:26:26 2022,lifecycle-mapping-metadata.xml,Christoph Läubrich
+Sun Dec 18 17:26:26 2022,plugin.xml,Christoph Läubrich
+Sun Dec 18 17:26:26 2022,PDEProjectHelper.java,Christoph Läubrich
+Sun Dec 18 17:26:26 2022,TychoDSConfigurator.java,Christoph Läubrich
+Sun Dec 18 17:26:26 2022,TychoLifecycleMapping.java,Christoph Läubrich

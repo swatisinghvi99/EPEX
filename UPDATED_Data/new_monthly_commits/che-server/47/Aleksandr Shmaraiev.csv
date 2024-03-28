@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Fri Dec 13 12:27:14 2019,README.md,Aleksandr Shmaraiev
+Fri Dec 13 12:27:14 2019,TestConstants.ts,Aleksandr Shmaraiev
+Fri Dec 13 12:27:14 2019,ContainerInitializer.ts,Aleksandr Shmaraiev
+Fri Dec 13 12:27:14 2019,index.ts,Aleksandr Shmaraiev
+Fri Dec 13 12:27:14 2019,inversify.types.ts,Aleksandr Shmaraiev
+Fri Dec 13 12:27:14 2019,package.json,Aleksandr Shmaraiev
+Fri Dec 13 12:27:14 2019,MultiUserLoginPage.ts,Aleksandr Shmaraiev
+Fri Dec 13 12:27:14 2019,OcpLoginByTempAdmin.ts,Aleksandr Shmaraiev
+Fri Dec 13 12:27:14 2019,RegularUserOcpCheLoginPage.ts,Aleksandr Shmaraiev
+Fri Dec 13 12:27:14 2019,CheLoginPage.ts,Aleksandr Shmaraiev
+Fri Dec 13 12:27:14 2019,OcpLoginPage.ts,Aleksandr Shmaraiev
+Fri Dec 13 12:27:14 2019,OcpWebConsolePage.ts,Aleksandr Shmaraiev
+Fri Dec 13 12:27:14 2019,InstallCheByOperatorHub.spec.ts,Aleksandr Shmaraiev
+Fri Dec 20 11:14:28 2019,TestConstants.ts,Aleksandr Shmaraiev
+Fri Dec 20 11:14:28 2019,ChromeDriver.ts,Aleksandr Shmaraiev
+Fri Dec 20 11:14:28 2019,ContainerInitializer.ts,Aleksandr Shmaraiev
+Fri Dec 20 11:14:28 2019,index.ts,Aleksandr Shmaraiev
+Fri Dec 20 11:14:28 2019,InstallCheByOperatorHub.spec.ts,Aleksandr Shmaraiev
+Fri Dec 27 11:14:41 2019,InstallCheByOperatorHub.spec.ts,Aleksandr Shmaraiev
+Sun Jan 12 16:08:09 2020,mocha-che-operatorhub.opts,Aleksandr Shmaraiev
+Sun Jan 12 16:08:09 2020,mocha-che-subscribe-operator.opts,Aleksandr Shmaraiev
+Sun Jan 12 16:08:09 2020,package.json,Aleksandr Shmaraiev
+Sun Jan 12 16:08:09 2020,OcpWebConsolePage.ts,Aleksandr Shmaraiev
+Sun Jan 12 16:08:09 2020,InstallCheByOperatorHub.spec.ts,Aleksandr Shmaraiev
+Sun Jan 12 16:08:09 2020,SubscribeCheByOperatorHub.spec.ts,Aleksandr Shmaraiev

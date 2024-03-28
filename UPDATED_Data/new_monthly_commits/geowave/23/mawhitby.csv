@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Tue Apr 19 20:30:41 2016,PersistentDataFormatter.java,mawhitby
+Wed Apr 20 18:45:17 2016,SpatialTemporalDimensionalityTypeProvider.java,mawhitby
+Wed Apr 20 18:45:17 2016,AddIndexCommand.java,mawhitby
+Wed Apr 20 18:45:17 2016,DimensionalityTypeRegistry.java,mawhitby
+Wed Apr 20 18:45:17 2016,IngestServiceClient.java,mawhitby
+Wed Apr 20 18:45:17 2016,IngestServiceImpl.java,mawhitby
+Wed Apr 20 18:45:17 2016,GeoWaveTestEnvironment.java,mawhitby
+Wed Apr 20 18:45:17 2016,KafkaTestEnvironment.java,mawhitby
+Wed Apr 20 18:45:17 2016,MapReduceTestEnvironment.java,mawhitby
+Wed Apr 20 18:45:17 2016,ServicesTestEnvironment.java,mawhitby
+Wed Apr 20 18:45:17 2016,GeoWaveBasicIT.java,mawhitby
+Wed Apr 20 18:45:17 2016,BasicMapReduceIT.java,mawhitby
+Wed Apr 20 18:45:17 2016,GeoWaveServicesIT.java,mawhitby

@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Fri Feb  7  9:40:18 2020,DateField.js,André Wegmüller
+Thu Feb 13 16:03:45 2020,scrollbars.js,André Wegmüller
+Fri Feb 14 15:04:55 2020,WidgetTile.js,André Wegmüller
+Fri Feb 14 15:04:55 2020,FormFieldTile.less,André Wegmüller
+Mon Feb 17 16:25:36 2020,SmartField.js,André Wegmüller
+Tue Feb 18 13:04:29 2020,UiThemeHelper.java,André Wegmüller
+Wed Feb 19 14:18:25 2020,Image.js,André Wegmüller
+Wed Feb 19 14:18:25 2020,Image.less,André Wegmüller
+Wed Feb 19 14:18:25 2020,Device.js,André Wegmüller
+Tue Feb 25 13:24:44 2020,Planner.js,André Wegmüller
+Tue Feb 25 13:24:44 2020,DisplayModeOptions.java,André Wegmüller
+Tue Feb 25 13:24:44 2020,IPlanner.java,André Wegmüller
+Thu Feb 27 14:15:31 2020,Tree.js,André Wegmüller
+Thu Feb 27 14:15:31 2020,TreeSpec.js,André Wegmüller
+Fri Feb 28 11:22:31 2020,UiSession.java,André Wegmüller
+Fri Feb 28 11:22:31 2020,UiThemeHelper.java,André Wegmüller
+Tue Mar  3 14:44:47 2020,DateFormat.js,André Wegmüller
+Tue Mar  3 14:44:47 2020,dates.js,André Wegmüller
+Tue Mar  3 14:44:47 2020,datesSpec.js,André Wegmüller
+Tue Mar  3 16:12:15 2020,DateFormat.js,André Wegmüller
+Wed Mar  4  8:51:59 2020,Desktop.js,André Wegmüller
+Wed Mar  4  8:51:59 2020,URL.js,André Wegmüller
+Wed Mar  4 14:12:23 2020,BrowserFieldLayout.js,André Wegmüller
+Wed Mar  4 14:12:23 2020,IBrowserField.java,André Wegmüller

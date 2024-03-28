@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Mon Oct 18 20:45:51 2010,LoggingLocalizationResource.java,Michael O'Brien
+Mon Oct 18 20:45:51 2010,TraceLocalizationResource.java,Michael O'Brien
+Mon Oct 18 20:45:51 2010,JMXServerPlatformBase.java,Michael O'Brien
+Mon Oct 18 20:45:51 2010,WebLogic_10_Platform.java,Michael O'Brien
+Mon Oct 18 20:45:51 2010,RuntimeServices.java,Michael O'Brien
+Mon Oct 18 20:45:51 2010,MetadataConstants.java,Michael O'Brien
+Wed Nov  3 20:38:08 2010,ManagedTypeImpl.java,Michael O'Brien
+Tue Nov  9 14:52:50 2010,HSQLPlatform.java,Michael O'Brien
+Fri Nov 12 16:37:12 2010,ParameterDelimiterType.java,Michael O'Brien
+Fri Nov 12 16:37:12 2010,PersistenceUnitProperties.java,Michael O'Brien
+Fri Nov 12 16:37:12 2010,QueryHints.java,Michael O'Brien
+Fri Nov 12 16:37:12 2010,DatasourceCall.java,Michael O'Brien
+Fri Nov 12 16:37:12 2010,CallQueryMechanism.java,Michael O'Brien
+Fri Nov 12 16:37:12 2010,DatabaseQuery.java,Michael O'Brien
+Fri Nov 12 16:37:12 2010,QueryHintsHandler.java,Michael O'Brien
+Fri Nov 12 16:39:34 2010,EJBQueryImpl.java,Michael O'Brien

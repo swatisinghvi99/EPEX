@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Tue Apr 21 19:14:36 2015,ModemMonitorServiceImpl.java,ibinshtok
+Tue Apr 21 19:15:26 2015,NetworkServiceImpl.java,ibinshtok
+Tue Apr 21 19:15:26 2015,GenericNetworkInterface.java,ibinshtok
+Tue Apr 21 19:15:26 2015,LinuxIfconfig.java,ibinshtok
+Tue Apr 21 19:15:26 2015,LinuxNetworkUtil.java,ibinshtok
+Tue Apr 21 19:15:26 2015,Ppp.java,ibinshtok
+Tue Apr 21 19:15:26 2015,IfcfgConfigReader.java,ibinshtok
+Wed Apr 29 20:49:46 2015,IfcfgConfigReader.java,ibinshtok
+Wed Apr 29 20:49:46 2015,IfcfgConfigWriter.java,ibinshtok
+Mon May  4 21:16:15 2015,NetworkConfiguration.java,ibinshtok
+Mon May  4 21:21:11 2015,NetworkServiceImpl.java,ibinshtok
+Wed May  6 18:48:25 2015,kura.build.properties,ibinshtok
+Wed May  6 18:48:25 2015,GwtNetworkServiceImpl.java,ibinshtok
+Wed May  6 18:48:25 2015,Messages.properties,ibinshtok
+Wed May  6 20:11:22 2015,NetworkServiceImpl.java,ibinshtok

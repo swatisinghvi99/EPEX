@@ -1,0 +1,82 @@
+[
+    [
+        "Greg Wilkins",
+        "java",
+        116
+    ],
+    [
+        "Greg Wilkins",
+        "properties",
+        2
+    ],
+    [
+        "Jan Bartel",
+        "java",
+        16
+    ],
+    [
+        "Jan Bartel",
+        "xml",
+        36
+    ],
+    [
+        "Jan Bartel",
+        "properties",
+        1
+    ],
+    [
+        "Jan Bartel",
+        "config",
+        1
+    ],
+    [
+        "Jan Bartel",
+        "providers",
+        1
+    ],
+    [
+        "Thomas Becker",
+        "java",
+        74
+    ],
+    [
+        "Thomas Becker",
+        "xml",
+        2
+    ],
+    [
+        "Thomas Becker",
+        "properties",
+        2
+    ],
+    [
+        "Simone Bordet",
+        "java",
+        26
+    ],
+    [
+        "Simone Bordet",
+        "properties",
+        1
+    ],
+    [
+        "Joakim Erdfelt",
+        "java",
+        313
+    ],
+    [
+        "Joakim Erdfelt",
+        "properties",
+        4
+    ],
+    [
+        "Joakim Erdfelt",
+        "ServerEndpointConfig$Configurator",
+        1
+    ],
+    [
+        "Jesse McConnell",
+        "java",
+        5
+    ]
+]

@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Thu Jul 22  5:44:36 2021,README-lite.adoc,starksm64
+Thu Jul 22  5:44:36 2021,SourceProcessor.java,starksm64
+Thu Jul 22  5:44:36 2021,ArchiveConverter.java,starksm64
+Thu Jul 22  5:44:36 2021,JarArchiveBuilder.java,starksm64
+Thu Jul 22  5:44:36 2021,DummySourceProcessor.java,starksm64
+Thu Jul 22  5:44:36 2021,MockConfiguration.java,starksm64
+Thu Jul 22  5:44:36 2021,MockContainer.java,starksm64
+Thu Jul 22  5:44:36 2021,MockExtension.java,starksm64
+Thu Jul 22  5:44:36 2021,VersionProcessor.java,starksm64
+Thu Jul 22  5:44:36 2021,SomeBean.java,starksm64
+Thu Jul 22  5:44:36 2021,SomeProducer.java,starksm64
+Thu Jul 22  5:44:36 2021,SourceProcessorTest.java,starksm64
+Thu Jul 22  5:44:36 2021,VersionInfo.java,starksm64
+Thu Jul 22  5:44:36 2021,org.jboss.arquillian.core.spi.LoadableExtension,starksm64
+Thu Jul 22  5:44:36 2021,arquillian.xml,starksm64
+Thu Jul 22  5:44:36 2021,BeanDiscoveryTest.java,starksm64
+Thu Jul 22  5:56:38 2021,Configuration.java,starksm64
+Thu Jul 22  5:56:38 2021,pom.xml,starksm64
+Thu Jul 22  5:56:38 2021,ConfigurationImpl.java,starksm64
+Thu Jul 22  5:56:38 2021,PropertiesBasedConfigurationBuilder.java,starksm64
+Thu Jul 22  5:56:38 2021,ArchiveBuilder.java,starksm64
+Thu Jul 22  5:56:38 2021,WebArchiveBuilderTest.java,starksm64
+Thu Jul 22  5:56:38 2021,pom.xml,starksm64

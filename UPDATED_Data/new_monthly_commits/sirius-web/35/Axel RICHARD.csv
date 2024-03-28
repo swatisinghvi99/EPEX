@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Thu Feb 18 10:22:38 2021,LabelStyleDescriptionConverter.java,Axel RICHARD
+Thu Feb 18 10:22:38 2021,AllSiriusWebCompatibilityTests.java,Axel RICHARD
+Thu Feb 18 10:22:38 2021,LabelStyleDescriptionConverterTestCases.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,ContainerMappingConverter.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,ContainerMappingStyleProvider.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,ContainerStyleDescriptionProvider.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,EdgeMappingConverter.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,EdgeMappingStyleProvider.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,EdgeStyleDescriptionProvider.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,LabelStyleDescriptionConverter.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,NodeMappingConverter.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,NodeMappingStyleProvider.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,NodeStyleDescriptionProvider.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,AllSiriusWebCompatibilityTests.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,BasicLabelStyleDescriptionPopulator.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,MappingConverterTestCases.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,TestDiagramDescriptionBuilder.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,LabelComponent.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,LabelDescription.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,DiagramRendererEdgeTestCases.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,DiagramRendererNodeTestCases.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,UnsynchronizedDiagramTestCases.java,Axel RICHARD
+Fri Feb 19 10:48:02 2021,EdgeMappingConverterTestCases.java,Axel RICHARD
+Tue Mar  2 10:31:25 2021,MultiValuedNonContainmentReferenceIfDescriptionProvider.java,Axel RICHARD
+Tue Mar  2 10:31:25 2021,ListComponent.java,Axel RICHARD

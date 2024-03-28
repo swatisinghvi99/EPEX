@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Wed Nov 23 15:30:41 2022,build-windows.yml,Florian Reimold
+Wed Nov 23 15:30:41 2022,.gitignore,Florian Reimold
+Wed Nov 23 15:30:41 2022,CMakeLists.txt,Florian Reimold
+Wed Nov 23 15:30:41 2022,LICENSE.md,Florian Reimold
+Wed Nov 23 15:30:41 2022,README.md,Florian Reimold
+Wed Nov 23 15:30:41 2022,CMakeLists.txt,Florian Reimold
+Wed Nov 23 15:30:41 2022,metadata.json,Florian Reimold
+Wed Nov 23 15:30:41 2022,plugin.cpp,Florian Reimold
+Wed Nov 23 15:30:41 2022,plugin.h,Florian Reimold
+Wed Nov 23 15:30:41 2022,plugin_widget.cpp,Florian Reimold
+Wed Nov 23 15:30:41 2022,plugin_widget.h,Florian Reimold
+Wed Nov 23 15:30:41 2022,plugin_widget.ui,Florian Reimold
+Wed Nov 23 15:30:41 2022,cmake_functions.cmake,Florian Reimold
+Wed Nov 23 15:30:41 2022,mon_functions.cmake,Florian Reimold
+Wed Nov 23 15:30:41 2022,qt_msvc_path.cmake,Florian Reimold
+Wed Nov 23 15:30:41 2022,qt_windeployqt.cmake,Florian Reimold
+Wed Nov 23 15:30:41 2022,qt_windeployqt_threadsafe_cmake.bat.in,Florian Reimold
+Wed Nov 23 15:30:41 2022,CMakeLists.txt,Florian Reimold
+Wed Nov 23 15:30:41 2022,camera_wrapper.cpp,Florian Reimold
+Wed Nov 23 15:30:41 2022,camera_wrapper.h,Florian Reimold
+Wed Nov 23 15:30:41 2022,camera_wrapper_with_fps_control.cpp,Florian Reimold
+Wed Nov 23 15:30:41 2022,camera_wrapper_with_fps_control.h,Florian Reimold
+Wed Nov 23 15:30:41 2022,main.cpp,Florian Reimold
+Wed Nov 23 15:30:41 2022,compressed_image.proto,Florian Reimold

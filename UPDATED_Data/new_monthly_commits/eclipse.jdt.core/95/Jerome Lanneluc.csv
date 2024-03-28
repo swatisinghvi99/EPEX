@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Mon Apr 20 15:11:05 2009,buildnotes_jdt-core.html,Jerome Lanneluc
+Mon Apr 20 15:11:05 2009,DeltaProcessingState.java,Jerome Lanneluc
+Mon Apr 20 15:11:05 2009,DeltaProcessor.java,Jerome Lanneluc
+Mon Apr 20 15:11:05 2009,JavaModelManager.java,Jerome Lanneluc
+Mon Apr 20 20:40:14 2009,NameLookupTests2.java,Jerome Lanneluc
+Mon Apr 20 20:40:14 2009,buildnotes_jdt-core.html,Jerome Lanneluc
+Mon Apr 20 20:40:14 2009,NameLookup.java,Jerome Lanneluc
+Mon Apr 20 20:45:29 2009,NameLookupTests2.java,Jerome Lanneluc
+Tue Apr 21 15:34:37 2009,messages.properties,Jerome Lanneluc
+Tue Apr 21 15:34:37 2009,buildnotes_jdt-core.html,Jerome Lanneluc
+Tue Apr 21 15:34:37 2009,JavaCore.java,Jerome Lanneluc
+Thu Apr 23 15:32:17 2009,buildnotes_jdt-core.html,Jerome Lanneluc
+Thu Apr 23 15:32:17 2009,ChangeClasspathOperation.java,Jerome Lanneluc
+Thu Apr 23 15:32:17 2009,ClasspathChange.java,Jerome Lanneluc
+Thu Apr 23 15:32:17 2009,DeltaProcessingState.java,Jerome Lanneluc
+Thu Apr 23 15:32:17 2009,DeltaProcessor.java,Jerome Lanneluc
+Thu Apr 23 15:32:17 2009,JavaModelManager.java,Jerome Lanneluc
+Thu Apr 23 15:32:17 2009,JavaProject.java,Jerome Lanneluc

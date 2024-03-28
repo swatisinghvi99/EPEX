@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Thu Oct  8 22:17:27 2015,GcBasicPackingTest.java,Terry Parker
+Thu Oct  8 22:17:27 2015,GC.java,Terry Parker
+Thu Oct  8 22:17:27 2015,PackBitmapIndex.java,Terry Parker
+Thu Oct  8 22:17:27 2015,PackBitmapIndexBuilder.java,Terry Parker
+Thu Oct  8 22:17:27 2015,PackBitmapIndexRemapper.java,Terry Parker
+Thu Oct  8 22:17:27 2015,PackBitmapIndexV1.java,Terry Parker
+Thu Oct  8 22:17:27 2015,PackWriter.java,Terry Parker
+Thu Oct  8 22:17:27 2015,PackWriterBitmapPreparer.java,Terry Parker
+Thu Oct  8 22:17:27 2015,PackConfig.java,Terry Parker
+Tue Oct 20 22:57:31 2015,LocalDiskRepositoryTestCase.java,Terry Parker
+Tue Oct 20 22:57:31 2015,MockSystemReader.java,Terry Parker
+Tue Oct 20 22:57:31 2015,TestRepository.java,Terry Parker
+Tue Oct 20 22:57:31 2015,TestRepositoryTest.java,Terry Parker
+Tue Oct 20 22:57:31 2015,RevWalkFilterTest.java,Terry Parker
+Tue Oct 20 22:57:31 2015,RevWalkTestCase.java,Terry Parker
+Wed Oct 21 21:53:37 2015,GcBasicPackingTest.java,Terry Parker
+Wed Oct 21 21:53:37 2015,GcTestCase.java,Terry Parker
+Wed Oct 21 21:53:37 2015,PackWriter.java,Terry Parker
+Wed Oct 21 21:53:37 2015,PackWriterBitmapPreparer.java,Terry Parker
+Wed Oct 21 21:53:37 2015,PackConfig.java,Terry Parker
+Thu Oct 22  5:12:52 2015,PackWriterBitmapPreparerTest.java,Terry Parker
+Thu Oct 22  5:12:52 2015,PackWriter.java,Terry Parker
+Thu Oct 22  5:12:52 2015,PackWriterBitmapPreparer.java,Terry Parker
+Thu Oct 22  5:12:52 2015,PackConfig.java,Terry Parker
+Thu Oct 22 22:29:11 2015,TestRepository.java,Terry Parker
+Wed Oct 28 22:17:40 2015,PackWriterBitmapPreparer.java,Terry Parker

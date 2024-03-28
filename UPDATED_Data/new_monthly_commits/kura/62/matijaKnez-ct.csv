@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Fri Jan 18 16:32:36 2019,kura.build.properties,matijaKnez-ct
+Fri Jan 18 16:32:36 2019,org.eclipse.kura.example.beacon.BeaconExample.xml,matijaKnez-ct
+Fri Jan 18 16:32:36 2019,BeaconExample.java,matijaKnez-ct
+Fri Jan 18 16:32:36 2019,org.eclipse.kura.example.eddystone.advertiser.EddystoneAdvertiser.xml,matijaKnez-ct
+Fri Jan 18 16:32:36 2019,EddystoneAdvertiserOptions.java,matijaKnez-ct
+Fri Jan 18 16:32:36 2019,org.eclipse.kura.example.ibeacon.advertiser.IBeaconAdvertiser.xml,matijaKnez-ct
+Fri Jan 18 16:32:36 2019,IBeaconAdvertiser.java,matijaKnez-ct
+Fri Jan 18 16:32:36 2019,IBeaconAdvertiserOptions.java,matijaKnez-ct
+Fri Jan 18 16:32:36 2019,BluetoothLeEddystoneEncoderImpl.java,matijaKnez-ct
+Fri Jan 18 16:32:36 2019,BluetoothLeIBeaconEncoderImpl.java,matijaKnez-ct
+Fri Jan 18 16:32:36 2019,BluetoothAdvertisingData.java,matijaKnez-ct
+Fri Jan 18 16:32:36 2019,BluetoothLeEddystoneEncoderDecoderImplTest.java,matijaKnez-ct
+Fri Jan 18 16:32:36 2019,BluetoothLeIBeaconEncoderDecoderImplTest.java,matijaKnez-ct
+Fri Jan 18 16:32:36 2019,BluetoothLeIBeaconServiceImplTest.java,matijaKnez-ct
+Fri Feb  8  9:29:31 2019,kura.build.properties,matijaKnez-ct
+Fri Feb  8  9:29:31 2019,org.eclipse.kura.example.beacon.scanner.BeaconScannerExample.xml,matijaKnez-ct
+Fri Feb  8  9:29:31 2019,BeaconScannerExample.java,matijaKnez-ct
+Fri Feb  8  9:29:31 2019,org.eclipse.kura.example.eddystone.scanner.EddystoneScanner.xml,matijaKnez-ct
+Fri Feb  8  9:29:31 2019,org.eclipse.kura.example.ibeacon.scanner.IBeaconScanner.xml,matijaKnez-ct
+Fri Feb  8  9:29:31 2019,BluetoothUtil.java,matijaKnez-ct

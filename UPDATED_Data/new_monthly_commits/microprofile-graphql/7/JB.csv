@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Mon Oct 14 19:18:17 2019,.gitignore,JB
+Mon Oct 14 19:18:17 2019,Union.java,JB
+Mon Oct 14 19:18:17 2019,pom.xml,JB
+Mon Oct 14 19:18:17 2019,HeroFinder.java,JB
+Mon Oct 14 19:18:17 2019,DuplicateSidekickException.java,JB
+Mon Oct 14 19:18:17 2019,HeroDatabase.java,JB
+Mon Oct 14 19:18:17 2019,SidekickDatabase.java,JB
+Mon Oct 14 19:18:17 2019,UnknownSidekickException.java,JB
+Mon Oct 14 19:18:17 2019,Character.java,JB
+Mon Oct 14 19:18:17 2019,Sidekick.java,JB
+Mon Oct 14 19:18:17 2019,SuperHero.java,JB
+Mon Oct 14 19:18:17 2019,UnknownCharacterException.java,JB
+Mon Oct 14 19:18:17 2019,input.graphql,JB
+Mon Oct 14 19:18:17 2019,output.json,JB
+Mon Oct 14 19:18:17 2019,test.properties,JB

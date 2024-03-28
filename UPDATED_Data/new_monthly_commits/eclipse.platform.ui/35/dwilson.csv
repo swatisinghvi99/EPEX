@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Mon Mar 15 20:54:39 2004,ExtensionEventHandler.java,dwilson
+Mon Mar 15 20:54:39 2004,Category.java,dwilson
+Mon Mar 15 20:54:39 2004,PerspectiveRegistry.java,dwilson
+Mon Mar 15 20:54:39 2004,PerspectiveRegistryReader.java,dwilson
+Mon Mar 15 20:54:39 2004,RegistryManager.java,dwilson
+Mon Mar 15 20:54:39 2004,ViewRegistry.java,dwilson
+Mon Mar 15 20:54:39 2004,ViewRegistryReader.java,dwilson
+Thu Mar 18 15:44:26 2004,RegistryManager.java,dwilson
+Tue Mar 23 17:23:16 2004,PropertyParser.java,dwilson
+Thu Mar 25 18:44:57 2004,BasicStackPresentation.java,dwilson
+Thu Mar 25 18:44:57 2004,NativeStackPresentation.java,dwilson
+Mon Mar 29 19:41:19 2004,RegistryManager.java,dwilson
+Tue Mar 30 16:17:12 2004,TestPlugin.java,dwilson
+Tue Mar 30 16:17:12 2004,UiTestSuite.java,dwilson
+Tue Mar 30 16:17:12 2004,DynamicPluginsTestSuite.java,dwilson
+Tue Mar 30 16:17:12 2004,Perspectives.java,dwilson
+Tue Mar 30 16:17:12 2004,TestInstallUtil.java,dwilson
+Tue Mar 30 16:17:12 2004,build.properties,dwilson
+Tue Mar 30 16:17:12 2004,.classpath,dwilson
+Tue Mar 30 16:17:12 2004,.project,dwilson
+Tue Mar 30 16:17:12 2004,plugin.xml,dwilson
+Wed Mar 31 21:12:45 2004,UiTestSuite.java,dwilson
+Thu Apr  1 14:18:35 2004,UiTestSuite.java,dwilson

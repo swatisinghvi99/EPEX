@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Mon Oct 16  4:50:47 2023,CompletionProposalUtils.java,Jinbo Wang
+Mon Oct 16  4:50:47 2023,BaseDocumentLifeCycleHandler.java,Jinbo Wang
+Mon Oct 16  4:50:47 2023,CompletionHandler.java,Jinbo Wang
+Mon Oct 16  4:50:47 2023,Preferences.java,Jinbo Wang
+Mon Oct 16  4:50:47 2023,CompletionHandlerChainTest.java,Jinbo Wang
+Mon Oct 16  4:50:47 2023,CompletionHandlerTest.java,Jinbo Wang
+Wed Oct 18  2:19:10 2023,BasicFileDetector.java,Jinbo Wang
+Wed Oct 18  2:19:10 2023,BasicFileDetectorTest.java,Jinbo Wang
+Wed Oct 18  6:14:45 2023,EclipseProjectImporter.java,Jinbo Wang
+Thu Oct 19  4:04:01 2023,EclipseProjectImporter.java,Jinbo Wang
+Thu Oct 19  4:04:01 2023,GradleProjectImporter.java,Jinbo Wang
+Thu Oct 19  4:04:01 2023,MavenProjectImporter.java,Jinbo Wang
+Thu Oct 19  4:04:01 2023,EclipseProjectImporterTest.java,Jinbo Wang
+Thu Oct 19  4:04:01 2023,GradleProjectImporterTest.java,Jinbo Wang
+Thu Oct 19  4:04:01 2023,MavenProjectImporterTest.java,Jinbo Wang
+Mon Oct 23  7:44:27 2023,CodeSnippetTemplate.java,Jinbo Wang
+Mon Oct 23  7:44:27 2023,JavaLanguageServerTemplateStoreTest.java,Jinbo Wang
+Mon Oct 23  7:44:27 2023,CompletionHandlerTest.java,Jinbo Wang

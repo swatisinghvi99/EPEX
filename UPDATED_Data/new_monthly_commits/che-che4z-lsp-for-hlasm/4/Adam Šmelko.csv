@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Thu Mar  5 15:23:09 2020,cached_statement.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,hlasm_context.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,address.cpp,Adam Šmelko
+Thu Mar  5 15:23:09 2020,address.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,dependant.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,dependency_collector.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,symbol_dependency_tables.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,processing_context.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,sequence_symbol.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,source_snapshot.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,evaluation_context.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,expression_analyzer.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,expression_evaluator.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,parser_impl.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,attribute_provider.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,instruction_processor.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,low_language_processor.cpp,Adam Šmelko
+Thu Mar  5 15:23:09 2020,low_language_processor.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,processing_format.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,operand.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,range_provider.h,Adam Šmelko
+Thu Mar  5 15:23:09 2020,statement.h,Adam Šmelko

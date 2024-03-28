@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Thu Feb 26 10:55:35 2015,ProxyUtil.java,Alexander Kurtakov
+Thu Feb 26 12:54:19 2015,TocLinkChecker.java,Alexander Kurtakov
+Thu Feb 26 13:03:18 2015,MANIFEST.MF,Alexander Kurtakov
+Thu Feb 26 13:03:18 2015,AdaptableHelpResource.java,Alexander Kurtakov
+Thu Feb 26 13:03:18 2015,AdaptableSelectedToc.java,Alexander Kurtakov
+Thu Feb 26 13:03:18 2015,AdaptableSelectedTopic.java,Alexander Kurtakov
+Thu Feb 26 13:03:18 2015,AdaptableToc.java,Alexander Kurtakov
+Thu Feb 26 13:03:18 2015,AdaptableTocsArray.java,Alexander Kurtakov
+Thu Feb 26 13:03:18 2015,AdaptableTopic.java,Alexander Kurtakov
+Thu Feb 26 15:42:10 2015,Analyzer_en.java,Alexander Kurtakov
+Thu Feb 26 15:42:10 2015,DefaultAnalyzer.java,Alexander Kurtakov
+Thu Feb 26 15:42:10 2015,LowerCaseAndDigitsTokenizer.java,Alexander Kurtakov
+Thu Feb 26 15:42:10 2015,SearchIndex.java,Alexander Kurtakov
+Thu Feb 26 15:42:10 2015,PrebuiltIndexCompatibility.java,Alexander Kurtakov
+Thu Feb 26 21:29:46 2015,WorkingSetData.java,Alexander Kurtakov

@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Thu Jan  7 12:39:17 2016,plugin.xml,Kaloyan Raev
+Thu Jan  7 12:39:17 2016,CorrectionMarkerResolutionGenerator.java,Kaloyan Raev
+Thu Jan  7 12:39:17 2016,IProblemLocation.java,Kaloyan Raev
+Thu Jan  7 12:39:17 2016,ProblemLocation.java,Kaloyan Raev
+Thu Jan  7 13:43:05 2016,UnusedUseStatementProcessor.java,Kaloyan Raev
+Mon Jan 11 10:05:49 2016,AbstractAnnotationHover.java,Kaloyan Raev
+Mon Jan 11 10:05:49 2016,PHPAnnotationTextHover.java,Kaloyan Raev
+Mon Jan 11 10:05:49 2016,PHPHoverMessages.java,Kaloyan Raev
+Mon Jan 11 10:05:49 2016,PHPHoverMessages.properties,Kaloyan Raev
+Mon Jan 11 10:05:49 2016,ProblemHover.java,Kaloyan Raev
+Mon Jan 11 10:05:49 2016,ProblemHoverProcessor.java,Kaloyan Raev
+Mon Jan 11 10:05:49 2016,AssistContext.java,Kaloyan Raev
+Mon Jan 11 10:05:49 2016,PHPPluginImages.java,Kaloyan Raev
+Mon Jan 11 19:29:26 2016,org.eclipse.jdt.core.prefs,Kaloyan Raev
+Mon Jan 11 19:29:26 2016,Messages.java,Kaloyan Raev
+Mon Jan 11 19:29:26 2016,VarCommentQuickAssistProcessor.java,Kaloyan Raev
+Mon Jan 11 19:29:26 2016,messages.properties,Kaloyan Raev
+Tue Jan 19 12:22:30 2016,ASTRewriteFlattener.java,Kaloyan Raev
+Thu Jan 21  9:00:17 2016,ASTRewriteFormatter.java,Kaloyan Raev

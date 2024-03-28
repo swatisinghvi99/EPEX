@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Mon Nov  7 14:35:00 2022,LSPEclipseUtils.java,azerr
+Mon Nov  7 14:35:00 2022,LanguageClientImpl.java,azerr
+Mon Nov  7 14:35:00 2022,LSBasedHyperlink.java,azerr
+Mon Nov  7 14:35:00 2022,DocumentLinkDetector.java,azerr
+Mon Nov  7 14:35:00 2022,FocusableBrowserInformationControl.java,azerr
+Mon Nov  7 14:35:00 2022,LSPSymbolInWorkspaceHandler.java,azerr
+Mon Nov  7 14:35:00 2022,WorkspaceSymbolQuickAccessElement.java,azerr
+Tue Nov  8 13:23:33 2022,LSPCodeMining.java,azerr
+Wed Nov  9  9:24:06 2022,LSPEclipseUtils.java,azerr
+Wed Nov  9  9:24:06 2022,DocumentLinkDetector.java,azerr
+Wed Nov  9  9:24:06 2022,Messages.java,azerr
+Wed Nov  9  9:24:06 2022,messages.properties,azerr
+Mon Nov 14 20:23:29 2022,LSFindReferences.java,azerr
+Mon Nov 14 20:23:29 2022,LSSearchQuery.java,azerr
+Wed Nov 23 14:40:07 2022,LanguageServerWrapper.java,azerr

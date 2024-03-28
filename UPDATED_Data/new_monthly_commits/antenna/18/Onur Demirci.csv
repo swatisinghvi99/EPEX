@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Tue Dec 10 15:36:47 2019,AttributionDocumentGenerator.java,Onur Demirci
+Thu Dec 19 11:10:36 2019,SW360ComponentClientAdapter.java,Onur Demirci
+Thu Dec 19 11:10:36 2019,SW360ComponentAdapterUtils.java,Onur Demirci
+Thu Dec 19 11:10:36 2019,SW360UpdaterImpl.java,Onur Demirci
+Thu Dec 19 11:10:36 2019,SW360ComponentAdapterUtilsTest.java,Onur Demirci
+Thu Dec 19 11:10:36 2019,SW360UpdaterTest.java,Onur Demirci
+Thu Dec 19 13:26:57 2019,ort-downloader.md,Onur Demirci
+Thu Dec 19 13:26:57 2019,ExampleTestProject.java,Onur Demirci
+Thu Dec 19 13:26:57 2019,pom.xml,Onur Demirci
+Thu Dec 19 13:26:57 2019,ArtifactVcsInfo.java,Onur Demirci
+Thu Dec 19 13:26:57 2019,workflow.xml,Onur Demirci
+Thu Dec 19 13:26:57 2019,workflow.xml,Onur Demirci
+Thu Dec 19 13:26:57 2019,pom.xml,Onur Demirci
+Thu Dec 19 13:26:57 2019,OrtResultArtifactResolver.kt,Onur Demirci
+Thu Dec 19 13:26:57 2019,ArtifactToPackageMapper.kt,Onur Demirci
+Thu Dec 19 13:26:57 2019,OrtDownloaderProcessor.kt,Onur Demirci
+Thu Dec 19 13:26:57 2019,OrtResultAnalyzerTest.java,Onur Demirci
+Thu Dec 19 13:26:57 2019,pom.xml,Onur Demirci

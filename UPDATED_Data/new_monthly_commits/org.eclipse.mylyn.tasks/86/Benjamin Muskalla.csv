@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Mon Jul 30 10:35:24 2012,TestFixture.java,Benjamin Muskalla
+Tue Jul 31  8:33:05 2012,AllTasksTests.java,Benjamin Muskalla
+Tue Jul 31  8:33:05 2012,AssertionProgressMonitor.java,Benjamin Muskalla
+Tue Jul 31  8:33:05 2012,SynchronizeTasksJobTest.java,Benjamin Muskalla
+Tue Jul 31  8:33:11 2012,MockRepositoryConnectorWithTaskDataHandler.java,Benjamin Muskalla
+Tue Jul 31  8:33:11 2012,MockTaskDataHandler.java,Benjamin Muskalla
+Tue Jul 31  8:33:11 2012,SynchronizeTasksJobTest.java,Benjamin Muskalla
+Tue Jul 31  8:33:11 2012,SynchronizeTasksJobTest.java,Benjamin Muskalla
+Tue Jul 31  8:33:11 2012,SynchronizeTasksJobTest.java,Benjamin Muskalla
+Fri Aug 10 14:59:43 2012,TracTaskDataHandler.java,Benjamin Muskalla
+Fri Aug 10 14:59:43 2012,TracTaskDataHandlerXmlRpcTest.java,Benjamin Muskalla

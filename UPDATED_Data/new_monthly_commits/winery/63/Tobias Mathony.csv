@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Fri Jun 14 12:43:39 2019,NOTICE,Tobias Mathony
+Fri Jun 14 12:43:39 2019,enricher.component.css,Tobias Mathony
+Fri Jun 14 12:43:39 2019,enricher.component.html,Tobias Mathony
+Fri Jun 14 12:43:39 2019,enricher.component.ts,Tobias Mathony
+Fri Jun 14 12:43:39 2019,enricher.service.ts,Tobias Mathony
+Fri Jun 14 12:43:39 2019,enrichmentEntity.ts,Tobias Mathony
+Fri Jun 14 12:43:39 2019,navbar.component.html,Tobias Mathony
+Fri Jun 14 12:43:39 2019,navbar.component.ts,Tobias Mathony
+Fri Jun 14 12:43:39 2019,topologyRenderer.actions.ts,Tobias Mathony
+Fri Jun 14 12:43:39 2019,topologyRenderer.reducer.ts,Tobias Mathony
+Fri Jun 14 12:43:39 2019,winery.component.html,Tobias Mathony
+Fri Jun 14 12:43:39 2019,winery.module.ts,Tobias Mathony

@@ -1,0 +1,177 @@
+[
+    [
+        "Bogdan Gheorghe",
+        "java",
+        52
+    ],
+    [
+        "Bogdan Gheorghe",
+        "properties",
+        3
+    ],
+    [
+        "Bogdan Gheorghe",
+        "xml",
+        1
+    ],
+    [
+        "Vladimir Hirsl",
+        "unknown",
+        6
+    ],
+    [
+        "Vladimir Hirsl",
+        "java",
+        31
+    ],
+    [
+        "Vladimir Hirsl",
+        "properties",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "properties",
+        18
+    ],
+    [
+        "Doug Schaefer",
+        "java",
+        947
+    ],
+    [
+        "Doug Schaefer",
+        "htm",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "html",
+        7
+    ],
+    [
+        "Doug Schaefer",
+        "unknown",
+        1
+    ],
+    [
+        "Doug Schaefer",
+        "xml",
+        1
+    ],
+    [
+        "Mikhail Sennikovsky",
+        "java",
+        19
+    ],
+    [
+        "Mikhail Sennikovsky",
+        "properties",
+        2
+    ],
+    [
+        "Alain Magloire",
+        "unknown",
+        41
+    ],
+    [
+        "Alain Magloire",
+        "java",
+        444
+    ],
+    [
+        "Alain Magloire",
+        "properties",
+        6
+    ],
+    [
+        "Andrew Niefer",
+        "java",
+        80
+    ],
+    [
+        "Andrew Niefer",
+        "xml",
+        1
+    ],
+    [
+        "John Camelon",
+        "java",
+        155
+    ],
+    [
+        "John Camelon",
+        "xml",
+        1
+    ],
+    [
+        "John Camelon",
+        "properties",
+        1
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "unknown",
+        19
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "java",
+        42
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "xml",
+        2
+    ],
+    [
+        "Mikhail Khodjaiants",
+        "properties",
+        3
+    ],
+    [
+        "Leo Treggiari",
+        "java",
+        38
+    ],
+    [
+        "Leo Treggiari",
+        "xml",
+        1
+    ],
+    [
+        "Leo Treggiari",
+        "properties",
+        1
+    ],
+    [
+        "Chris Recoskie",
+        "java",
+        6
+    ],
+    [
+        "David Inglis",
+        "java",
+        16
+    ],
+    [
+        "David Inglis",
+        "unknown",
+        3
+    ],
+    [
+        "David Inglis",
+        "xml",
+        1
+    ],
+    [
+        "Chris Wiebe",
+        "unknown",
+        3
+    ],
+    [
+        "Chris Wiebe",
+        "java",
+        5
+    ]
+]

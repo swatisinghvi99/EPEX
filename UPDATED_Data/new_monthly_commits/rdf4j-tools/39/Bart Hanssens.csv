@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Sun Mar 17 20:27:23 2019,CmdLineParser.java,Bart Hanssens
+Sun Mar 17 20:27:23 2019,ConsoleParameters.java,Bart Hanssens
+Sun Mar 17 20:27:23 2019,ConsoleCommand.java,Bart Hanssens
+Sun Mar 17 20:27:23 2019,QueryEvaluator.java,Bart Hanssens
+Sun Mar 17 20:27:23 2019,Serql.java,Bart Hanssens
+Sun Mar 17 20:27:23 2019,SetParameters.java,Bart Hanssens
+Sun Mar 17 20:27:23 2019,Sparql.java,Bart Hanssens
+Sun Mar 17 20:27:23 2019,TupleAndGraphQueryEvaluator.java,Bart Hanssens
+Sun Mar 17 20:46:16 2019,CmdLineParser.java,Bart Hanssens
+Sun Mar 17 20:55:24 2019,CmdLineParser.java,Bart Hanssens
+Thu Apr  4 12:33:37 2019,QueryEvaluator.java,Bart Hanssens
+Thu Apr  4 12:33:37 2019,Sparql.java,Bart Hanssens
+Thu Apr  4 12:33:37 2019,ConsoleSetting.java,Bart Hanssens
+Thu Apr  4 12:33:37 2019,FederateTest.java,Bart Hanssens
+Thu Apr  4 12:33:37 2019,SparqlTest.java,Bart Hanssens
+Thu Apr  4 12:33:37 2019,select-prefix.qr,Bart Hanssens
+Thu Apr  4 13:53:49 2019,SparqlTest.java,Bart Hanssens

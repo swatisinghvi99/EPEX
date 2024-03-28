@@ -1,0 +1,282 @@
+[
+    [
+        "Guillaume Coutable",
+        "adoc",
+        4
+    ],
+    [
+        "Guillaume Coutable",
+        "java",
+        84
+    ],
+    [
+        "Guillaume Coutable",
+        "graphqls",
+        2
+    ],
+    [
+        "Guillaume Coutable",
+        "ts",
+        21
+    ],
+    [
+        "Guillaume Coutable",
+        "tsx",
+        10
+    ],
+    [
+        "Guillaume Coutable",
+        "unknown",
+        1
+    ],
+    [
+        "Laurent Fasani",
+        "adoc",
+        8
+    ],
+    [
+        "Laurent Fasani",
+        "java",
+        100
+    ],
+    [
+        "Laurent Fasani",
+        "graphqls",
+        1
+    ],
+    [
+        "Laurent Fasani",
+        "ts",
+        4
+    ],
+    [
+        "Laurent Fasani",
+        "tsx",
+        3
+    ],
+    [
+        "Laurent Fasani",
+        "svg",
+        3
+    ],
+    [
+        "Laurent Fasani",
+        "properties",
+        1
+    ],
+    [
+        "Laurent Fasani",
+        "xml",
+        1
+    ],
+    [
+        "Laurent Fasani",
+        "ecore",
+        1
+    ],
+    [
+        "Laurent Fasani",
+        "genmodel",
+        1
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "adoc",
+        11
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "xml",
+        18
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "classpath",
+        8
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "gitignore",
+        2
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "project",
+        8
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "prefs",
+        57
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "checkstyle",
+        7
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "java",
+        260
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "properties",
+        12
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "unknown",
+        8
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "cmd",
+        6
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "graphqls",
+        1
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "sql",
+        1
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "flow",
+        2
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "txt",
+        2
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "svg",
+        5
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "json",
+        20
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "xmi",
+        1
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "jsh",
+        1
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "yml",
+        2
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "js",
+        5
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "ts",
+        44
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "css",
+        19
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "tsx",
+        41
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "development",
+        1
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "prettierrc",
+        2
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "html",
+        1
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "npmrc",
+        1
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "vscodeignore",
+        1
+    ],
+    [
+        "Th\u00e9o Giraudet",
+        "md",
+        1
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "adoc",
+        2
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "java",
+        19
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "json",
+        3
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "properties",
+        1
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "ecore",
+        1
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "genmodel",
+        1
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "unknown",
+        1
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "ts",
+        2
+    ],
+    [
+        "St\u00e9phane B\u00e9gaudeau",
+        "tsx",
+        2
+    ],
+    [
+        "Pierre-Charles David",
+        "java",
+        1
+    ]
+]

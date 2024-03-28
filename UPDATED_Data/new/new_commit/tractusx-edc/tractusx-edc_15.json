@@ -1,0 +1,257 @@
+[
+    [
+        "Enrico Risa",
+        "java",
+        54
+    ],
+    [
+        "Enrico Risa",
+        "kts",
+        16
+    ],
+    [
+        "Enrico Risa",
+        "yaml",
+        17
+    ],
+    [
+        "Enrico Risa",
+        "json",
+        2
+    ],
+    [
+        "Enrico Risa",
+        "md",
+        5
+    ],
+    [
+        "Enrico Risa",
+        "ServiceExtension",
+        3
+    ],
+    [
+        "Enrico Risa",
+        "sql",
+        2
+    ],
+    [
+        "Enrico Risa",
+        "properties",
+        2
+    ],
+    [
+        "Enrico Risa",
+        "toml",
+        2
+    ],
+    [
+        "Enrico Risa",
+        "unknown",
+        5
+    ],
+    [
+        "dependabot[bot]",
+        "kts",
+        7
+    ],
+    [
+        "dependabot[bot]",
+        "toml",
+        3
+    ],
+    [
+        "dependabot[bot]",
+        "java",
+        1
+    ],
+    [
+        "github-actions[bot]",
+        "yml",
+        4
+    ],
+    [
+        "github-actions[bot]",
+        "yaml",
+        125
+    ],
+    [
+        "github-actions[bot]",
+        "md",
+        52
+    ],
+    [
+        "github-actions[bot]",
+        "kts",
+        48
+    ],
+    [
+        "github-actions[bot]",
+        "helmignore",
+        6
+    ],
+    [
+        "github-actions[bot]",
+        "tpl",
+        8
+    ],
+    [
+        "github-actions[bot]",
+        "java",
+        294
+    ],
+    [
+        "github-actions[bot]",
+        "json",
+        20
+    ],
+    [
+        "github-actions[bot]",
+        "unknown",
+        10
+    ],
+    [
+        "github-actions[bot]",
+        "ServiceExtension",
+        10
+    ],
+    [
+        "github-actions[bot]",
+        "sql",
+        5
+    ],
+    [
+        "github-actions[bot]",
+        "gitignore",
+        1
+    ],
+    [
+        "github-actions[bot]",
+        "properties",
+        3
+    ],
+    [
+        "github-actions[bot]",
+        "toml",
+        3
+    ],
+    [
+        "github-actions[bot]",
+        "config",
+        1
+    ],
+    [
+        "github-actions[bot]",
+        "xml",
+        1
+    ],
+    [
+        "github-actions[bot]",
+        "gotmpl",
+        6
+    ],
+    [
+        "github-actions[bot]",
+        "txt",
+        1
+    ],
+    [
+        "github-actions[bot]",
+        "jsonld",
+        2
+    ],
+    [
+        "github-actions[bot]",
+        "sh",
+        1
+    ],
+    [
+        "bcronin90",
+        "yaml",
+        1
+    ],
+    [
+        "bcronin90",
+        "md",
+        1
+    ],
+    [
+        "bcronin90",
+        "java",
+        2
+    ],
+    [
+        "Paul Latzelsperger",
+        "kts",
+        24
+    ],
+    [
+        "Paul Latzelsperger",
+        "md",
+        13
+    ],
+    [
+        "Paul Latzelsperger",
+        "java",
+        95
+    ],
+    [
+        "Paul Latzelsperger",
+        "json",
+        19
+    ],
+    [
+        "Paul Latzelsperger",
+        "toml",
+        3
+    ],
+    [
+        "Paul Latzelsperger",
+        "ServiceExtension",
+        6
+    ],
+    [
+        "Paul Latzelsperger",
+        "yaml",
+        47
+    ],
+    [
+        "Paul Latzelsperger",
+        "jsonld",
+        2
+    ],
+    [
+        "Paul Latzelsperger",
+        "properties",
+        2
+    ],
+    [
+        "Paul Latzelsperger",
+        "gotmpl",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "txt",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "tpl",
+        4
+    ],
+    [
+        "Paul Latzelsperger",
+        "helmignore",
+        3
+    ],
+    [
+        "Paul Latzelsperger",
+        "unknown",
+        1
+    ],
+    [
+        "Paul Latzelsperger",
+        "sh",
+        1
+    ]
+]

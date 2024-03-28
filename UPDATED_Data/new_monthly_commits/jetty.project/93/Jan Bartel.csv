@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Fri Nov 18  2:50:30 2016,Runner.java,Jan Bartel
+Fri Nov 18  3:17:43 2016,Runner.java,Jan Bartel
+Thu Nov 24  3:04:37 2016,JettyEffectiveWebXml.java,Jan Bartel
+Thu Nov 24  3:04:37 2016,JettyWebAppContext.java,Jan Bartel
+Thu Nov 24  3:04:37 2016,QuickStartDescriptorGenerator.java,Jan Bartel
+Thu Nov 24  3:04:37 2016,QuickStartWebApp.java,Jan Bartel
+Thu Nov 24  3:04:37 2016,MetaData.java,Jan Bartel
+Wed Nov 30  4:55:40 2016,Descriptor.java,Jan Bartel
+Wed Nov 30  4:55:40 2016,MetaData.java,Jan Bartel
+Wed Nov 30  4:55:40 2016,WebAppContext.java,Jan Bartel
+Wed Nov 30  4:55:40 2016,WebDescriptor.java,Jan Bartel
+Thu Dec  1  0:57:54 2016,QuickStartDescriptorGenerator.java,Jan Bartel
+Thu Dec  1  0:57:54 2016,QuickStartDescriptorProcessor.java,Jan Bartel
+Thu Dec  1  1:09:49 2016,DefaultSessionIdManager.java,Jan Bartel
+Sun Dec  4 22:42:44 2016,WebSocketServletFactory.java,Jan Bartel
+Thu Dec  8  0:29:13 2016,DefaultSessionIdManager.java,Jan Bartel
+Thu Dec  8  6:16:27 2016,SessionData.java,Jan Bartel
+Thu Dec  8  6:25:18 2016,WebSocketServletFactory.java,Jan Bartel
+Thu Dec  8  9:15:49 2016,SessionData.java,Jan Bartel
+Mon Dec 12  9:24:54 2016,SessionIdManager.java,Jan Bartel
+Mon Dec 12  9:24:54 2016,DefaultSessionIdManager.java,Jan Bartel
+Mon Dec 12  9:24:54 2016,Session.java,Jan Bartel
+Mon Dec 12  9:24:54 2016,SessionCookieTest.java,Jan Bartel
+Mon Dec 12  9:24:54 2016,NullCacheRenewSessionTest.java,Jan Bartel

@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Wed Jan 15 17:34:59 2020,Constants.java,Enri Ozuni
+Wed Jan 15 17:34:59 2020,StaticAnalyzerPreferences.java,Enri Ozuni
+Thu Jan 16 20:26:10 2020,ArtifactUtils.java,Enri Ozuni
+Thu Jan 16 20:29:21 2020,.classpath,Enri Ozuni
+Thu Jan 16 20:29:21 2020,MANIFEST.MF,Enri Ozuni
+Thu Jan 16 20:29:21 2020,SootRunner.java,Enri Ozuni
+Thu Jan 16 22:25:28 2020,Utils.java,Enri Ozuni
+Thu Jan 16 22:26:55 2020,Utils.java,Enri Ozuni
+Sat Jan 25 19:52:44 2020,AltConfigWizard.java,Enri Ozuni
+Sat Jan 25 19:58:18 2020,QuestionsToTemplateTests.java,Enri Ozuni
+Sun Jan 26 13:52:17 2020,QuestionsToTemplateTests.java,Enri Ozuni
+Sun Jan 26 13:54:10 2020,QuestionsToTemplateTests.java,Enri Ozuni
+Sun Jan 26 14:07:46 2020,QuestionsToTemplateTests.java,Enri Ozuni
+Sun Jan 26 14:14:19 2020,QuestionsToTemplateTests.java,Enri Ozuni
+Sun Jan 26 15:51:35 2020,QuestionsToTemplateTests.java,Enri Ozuni
+Sun Jan 26 15:51:35 2020,AltConfigWizard.java,Enri Ozuni
+Sun Jan 26 16:20:15 2020,DigitalSignaturesCodeGenTest.java,Enri Ozuni
+Sun Jan 26 16:20:15 2020,EncryptionCodeGenTest.java,Enri Ozuni
+Sun Jan 26 16:20:15 2020,SecurePasswordCodeGenTest.java,Enri Ozuni
+Sun Jan 26 16:31:09 2020,XSLCodeGenTest.java,Enri Ozuni

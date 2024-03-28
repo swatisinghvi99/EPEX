@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Wed Apr  5 15:15:23 2006,BaseRenderer.java,dmichonneau
+Fri Apr  7 16:21:19 2006,EventHandlers.java,dmichonneau
+Fri Apr  7 16:21:19 2006,SVGInteractiveRenderer.java,dmichonneau
+Tue Apr 18 16:20:35 2006,plugin.xml,dmichonneau
+Tue Apr 18 16:20:35 2006,GifRendererImpl.java,dmichonneau
+Tue Apr 18 16:20:35 2006,PngRendererImpl.java,dmichonneau
+Tue Apr 18 16:20:35 2006,devicerenderers.exsd,dmichonneau
+Tue Apr 18 16:20:35 2006,RunTimeContext.java,dmichonneau
+Tue Apr 18 16:20:35 2006,PluginSettings.java,dmichonneau
+Tue Apr 18 16:20:35 2006,ChartReportItemBuilderImpl.java,dmichonneau
+Tue Apr 18 16:20:35 2006,ChartReportItemPresentationImpl.java,dmichonneau
+Tue Apr 18 16:20:35 2006,TaskSelectType.java,dmichonneau
+Fri Apr 21 21:34:50 2006,MANIFEST.MF,dmichonneau
+Fri Apr 21 21:34:50 2006,ChartEnginePlugin.java,dmichonneau

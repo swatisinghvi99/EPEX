@@ -1,0 +1,6 @@
+date_time,file,committer_name
+Thu Mar 19 11:14:50 2015,MANIFEST.MF,Benedikt Niehues
+Thu Mar 19 11:14:50 2015,TestHueThingHandlerFactoryX.java,Benedikt Niehues
+Thu Mar 19 11:14:50 2015,TestHueThingTypeProvider.java,Benedikt Niehues
+Thu Mar 19 11:14:50 2015,GenericThingProviderTest2.groovy,Benedikt Niehues
+Thu Mar 19 11:14:50 2015,GenericThingProvider.xtend,Benedikt Niehues

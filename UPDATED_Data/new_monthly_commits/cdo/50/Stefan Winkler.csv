@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Sat May  8 12:45:25 2010,DBStore.java,Stefan Winkler
+Sat May  8 12:45:25 2010,messages.properties,Stefan Winkler
+Sun May  9 12:03:45 2010,TypeMapping.java,Stefan Winkler
+Sun May  9 12:03:45 2010,AllTestsAllConfigs.java,Stefan Winkler
+Sun May  9 12:03:45 2010,Bugzilla_308895_Test.java,Stefan Winkler
+Tue May 18 14:13:58 2010,TypeMapping.java,Stefan Winkler
+Tue May 18 14:13:58 2010,messages.properties,Stefan Winkler
+Tue May 18 14:13:58 2010,AllTestsAllConfigs.java,Stefan Winkler
+Tue May 18 14:13:58 2010,Bugzilla_306998_Test.java,Stefan Winkler
+Tue May 18 20:47:25 2010,Bugzilla_306998_Test.java,Stefan Winkler
+Tue May 18 20:57:11 2010,Bugzilla_306998_Test.java,Stefan Winkler
+Wed May 19 10:00:11 2010,CDODBSchema.java,Stefan Winkler
+Thu May 20 12:28:30 2010,PostgreSQLAdapter.java,Stefan Winkler

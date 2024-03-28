@@ -1,0 +1,207 @@
+[
+    [
+        "Stefan Oehme",
+        "java",
+        73
+    ],
+    [
+        "Stefan Oehme",
+        "xpt",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "MF",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "xtend",
+        12
+    ],
+    [
+        "Stefan Oehme",
+        "mwe2",
+        9
+    ],
+    [
+        "Stefan Oehme",
+        "xtext",
+        4
+    ],
+    [
+        "Stefan Oehme",
+        "ecore",
+        1
+    ],
+    [
+        "Stefan Oehme",
+        "launch",
+        1
+    ],
+    [
+        "Sebastian Zarnekow",
+        "java",
+        192
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtend",
+        52
+    ],
+    [
+        "Sebastian Zarnekow",
+        "ecore",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "xtext",
+        3
+    ],
+    [
+        "Sebastian Zarnekow",
+        "genmodel",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "classpath",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "MF",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "properties",
+        2
+    ],
+    [
+        "Sebastian Zarnekow",
+        "txt",
+        4
+    ],
+    [
+        "Sebastian Zarnekow",
+        "list",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "java",
+        75
+    ],
+    [
+        "Jan Koehnlein",
+        "api_filters",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "MF",
+        1
+    ],
+    [
+        "Jan Koehnlein",
+        "ecore",
+        3
+    ],
+    [
+        "Jan Koehnlein",
+        "xtext",
+        2
+    ],
+    [
+        "Jan Koehnlein",
+        "xtend",
+        15
+    ],
+    [
+        "akosyakov",
+        "api_filters",
+        1
+    ],
+    [
+        "akosyakov",
+        "java",
+        19
+    ],
+    [
+        "akosyakov",
+        "xtend",
+        4
+    ],
+    [
+        "Holger Schill",
+        "xml",
+        3
+    ],
+    [
+        "Holger Schill",
+        "xml_gen",
+        2
+    ],
+    [
+        "Holger Schill",
+        "xtend",
+        6
+    ],
+    [
+        "Holger Schill",
+        "java",
+        31
+    ],
+    [
+        "Holger Schill",
+        "xpt",
+        1
+    ],
+    [
+        "Holger Schill",
+        "properties",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        12
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        5
+    ],
+    [
+        "Sven Efftinge",
+        "prefs",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "java",
+        36
+    ],
+    [
+        "Moritz Eysholdt",
+        "MF",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "mwe2",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtend",
+        1
+    ],
+    [
+        "Moritz Eysholdt",
+        "xtext",
+        3
+    ]
+]

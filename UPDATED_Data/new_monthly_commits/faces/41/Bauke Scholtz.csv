@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Wed Nov 30 19:14:08 2022,spec1102.xhtml,Bauke Scholtz
+Wed Nov 30 19:14:08 2022,Spec1102IT.java,Bauke Scholtz
+Wed Nov 30 19:23:24 2022,InjectExternalContextBean.java,Bauke Scholtz
+Wed Nov 30 19:23:24 2022,InjectFacesContextBean.java,Bauke Scholtz
+Wed Nov 30 19:23:24 2022,injectExternalContext.xhtml,Bauke Scholtz
+Wed Nov 30 19:23:24 2022,injectFacesContext.xhtml,Bauke Scholtz
+Wed Nov 30 19:23:24 2022,Spec1309IT.java,Bauke Scholtz
+Wed Nov 30 19:23:24 2022,Spec527IT.java,Bauke Scholtz
+Sat Dec 10 11:03:02 2022,spec1238.xhtml,Bauke Scholtz
+Sat Dec 10 11:03:02 2022,Spec1238IT.java,Bauke Scholtz
+Sat Dec 10 11:47:27 2022,InjectConverter.java,Bauke Scholtz
+Sat Dec 10 11:47:27 2022,injectConverter.xhtml,Bauke Scholtz
+Sat Dec 10 11:47:27 2022,Spec1349IT.java,Bauke Scholtz
+Sat Dec 10 19:00:14 2022,Spec790WithNamespacedViewIT.java,Bauke Scholtz
+Tue Dec 13 17:24:12 2022,Spec790WithNamespacedViewIT.java,Bauke Scholtz
+Tue Dec 13 17:27:08 2022,Spec1555IT.java,Bauke Scholtz

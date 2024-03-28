@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Fri Sep  6  1:57:01 2019,DatatemplateEditPlugin.java,Christian W. Damus
+Fri Sep  6  1:57:01 2019,datatemplate.ecore,Christian W. Damus
+Fri Sep  6  1:57:01 2019,datatemplate.genmodel,Christian W. Damus
+Fri Sep  6  1:57:01 2019,DataTemplatePackageImpl.java,Christian W. Damus
+Fri Sep  6  1:57:01 2019,pom.xml,Christian W. Damus
+Fri Sep  6  1:57:01 2019,.classpath,Christian W. Damus
+Fri Sep  6  1:57:01 2019,.project,Christian W. Damus
+Fri Sep  6  1:57:01 2019,org.eclipse.core.resources.prefs,Christian W. Damus
+Fri Sep  6  1:57:01 2019,org.eclipse.core.runtime.prefs,Christian W. Damus
+Fri Sep  6  1:57:01 2019,org.eclipse.jdt.core.prefs,Christian W. Damus
+Fri Sep  6  1:57:01 2019,org.eclipse.jdt.launching.prefs,Christian W. Damus
+Fri Sep  6  1:57:01 2019,org.eclipse.jdt.ui.prefs,Christian W. Damus
+Fri Sep  6  1:57:01 2019,org.eclipse.ltk.core.refactoring.prefs,Christian W. Damus
+Fri Sep  6  1:57:01 2019,org.eclipse.pde.api.tools.prefs,Christian W. Damus
+Fri Sep  6  1:57:01 2019,org.eclipse.pde.prefs,Christian W. Damus
+Fri Sep  6  1:57:01 2019,MANIFEST.MF,Christian W. Damus
+Fri Sep  6  1:57:01 2019,build.properties,Christian W. Damus
+Fri Sep  6  1:57:01 2019,pom.xml,Christian W. Damus
+Fri Sep  6  1:57:01 2019,DataTemplateAllTests.java,Christian W. Damus
+Fri Sep  6  1:57:01 2019,DataTemplateTests.java,Christian W. Damus
+Fri Sep  6  1:57:01 2019,TemplateCollectionTest.java,Christian W. Damus
+Fri Sep  6  1:57:01 2019,TemplateTest.java,Christian W. Damus
+Wed Sep 11 12:56:42 2019,DiagnosticView.java,Christian W. Damus
+Sat Sep 14 13:36:09 2019,ControlRevealProvider.java,Christian W. Damus
+Sat Sep 14 13:36:09 2019,CategorizationRevealProvider_PTest.java,Christian W. Damus
+Thu Sep 26 14:49:23 2019,DataTemplateEObjectSelectionStrategyProvider.java,Christian W. Damus

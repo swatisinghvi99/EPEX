@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Sun Mar 25 21:39:12 2018,TEntityTemplateResource.java,Tino Stadelmaier
+Sun Mar 25 21:39:12 2018,ArtifactTemplateResource.java,Tino Stadelmaier
+Sun Mar 25 21:39:12 2018,PolicyTemplateResource.java,Tino Stadelmaier
+Sun Mar 25 21:39:12 2018,PropertyConstraintsResource.java,Tino Stadelmaier
+Sun Mar 25 21:39:12 2018,instance.service.ts,Tino Stadelmaier
+Sun Mar 25 21:39:12 2018,boundaryDefinitions.module.ts,Tino Stadelmaier
+Sun Mar 25 21:39:12 2018,propertyConstraints.component.html,Tino Stadelmaier
+Sun Mar 25 21:39:12 2018,propertyConstraints.component.ts,Tino Stadelmaier
+Sun Mar 25 21:39:12 2018,propertyConstraints.service.ts,Tino Stadelmaier
+Sun Mar 25 21:39:12 2018,artifactTemplateRouter.module.ts,Tino Stadelmaier
+Sun Mar 25 21:39:12 2018,policyTemplateRouter.module.ts,Tino Stadelmaier
+Mon Mar 26  8:18:34 2018,wineryNamespaceSelector.component.css,Tino Stadelmaier
+Mon Mar 26  8:18:34 2018,wineryNamespaceSelector.component.html,Tino Stadelmaier
+Mon Mar 26  8:18:34 2018,wineryNamespaceSelector.component.ts,Tino Stadelmaier
+Mon Mar 26  8:18:34 2018,wineryNamespaceSelector.module.ts,Tino Stadelmaier

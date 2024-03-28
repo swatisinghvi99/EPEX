@@ -1,0 +1,87 @@
+[
+    [
+        "Gabriel Roldan",
+        "xml",
+        40
+    ],
+    [
+        "Gabriel Roldan",
+        "java",
+        356
+    ],
+    [
+        "Gabriel Roldan",
+        "rst",
+        1
+    ],
+    [
+        "Gabriel Roldan",
+        "CommandHook",
+        1
+    ],
+    [
+        "Gabriel Roldan",
+        "RemoteResolver",
+        1
+    ],
+    [
+        "Gabriel Roldan",
+        "CommandRepresentationFactory",
+        2
+    ],
+    [
+        "Gabriel Roldan",
+        "DataStoreImportContextService",
+        1
+    ],
+    [
+        "Gabriel Roldan",
+        "StreamingWriterService",
+        1
+    ],
+    [
+        "Gabriel Roldan",
+        "css",
+        1
+    ],
+    [
+        "Gabriel Roldan",
+        "js",
+        2
+    ],
+    [
+        "Gabriel Roldan",
+        "html",
+        1
+    ],
+    [
+        "Gabriel Roldan",
+        "CLICommand",
+        1
+    ],
+    [
+        "Gabriel Roldan",
+        "properties",
+        1
+    ],
+    [
+        "Gabriel Roldan",
+        "feature",
+        57
+    ],
+    [
+        "Gabriel Roldan",
+        "sh",
+        1
+    ],
+    [
+        "Gabriel Roldan",
+        "yaml",
+        3
+    ],
+    [
+        "Gabriel Roldan",
+        "yml",
+        1
+    ]
+]

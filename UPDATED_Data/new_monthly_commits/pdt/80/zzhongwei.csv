@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Tue Dec  4  2:44:39 2012,PHPCompletionProposal.java,zzhongwei
+Tue Dec  4  2:44:39 2012,ParameterGuessingProposal.java,zzhongwei
+Tue Dec  4  6:57:26 2012,ASTRewriteAnalyzer.java,zzhongwei
+Tue Dec  4  9:04:20 2012,PHPMatchLocator.java,zzhongwei
+Wed Dec  5  8:12:46 2012,PHPModelUtils.java,zzhongwei
+Thu Dec  6  8:54:51 2012,ASTRewriteAnalyzer.java,zzhongwei
+Thu Dec  6  9:02:26 2012,InternalFunctionHighlighting.java,zzhongwei
+Tue Dec 11  3:33:40 2012,StructuredDocumentDamagerRepairer.java,zzhongwei
+Tue Dec 11  5:13:11 2012,PHPCompletionProposalCollector.java,zzhongwei
+Tue Dec 11  5:23:09 2012,PHPCompletionProposalCollector.java,zzhongwei
+Tue Dec 11  9:06:38 2012,PHPCompletionProposalCollector.java,zzhongwei
+Wed Dec 12  8:21:35 2012,PHPCompletionProposalCollector.java,zzhongwei
+Wed Dec 12  8:21:35 2012,ParameterGuessingProposal.java,zzhongwei
+Wed Dec 12  8:21:35 2012,extend.pdtt,zzhongwei
+Wed Dec 12  8:21:35 2012,instanceof1.pdtt,zzhongwei
+Wed Dec 12  8:21:35 2012,thrownew.pdtt,zzhongwei
+Tue Dec 18  8:17:43 2012,PHPMatchLocator.java,zzhongwei
+Tue Dec 18 14:48:09 2012,PHPToggleLineCommentHandler.java,zzhongwei
+Tue Dec 18 14:48:09 2012,PHPStructuredEditor.java,zzhongwei
+Fri Dec 21  1:14:09 2012,ContentMergeViewer.java,zzhongwei
+Fri Dec 21  1:14:09 2012,TextMergeViewer.java,zzhongwei
+Wed Dec 26 13:51:07 2012,DBGpStackFrame.java,zzhongwei
+Wed Dec 26 13:51:07 2012,XDebugModelPresentation.java,zzhongwei

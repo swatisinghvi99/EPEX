@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Mon Nov  3 13:34:11 2014,JvmModelGenerator.xtend,Jan Koehnlein
+Mon Nov  3 13:34:11 2014,JvmModelGenerator.java,Jan Koehnlein
+Mon Nov  3 13:34:11 2014,AnnotationCompilerTest.xtend,Jan Koehnlein
+Mon Nov  3 13:34:11 2014,JvmModelTests.xtend,Jan Koehnlein
+Mon Nov  3 13:34:11 2014,AnnotationCompilerTest.java,Jan Koehnlein
+Mon Nov  3 13:34:11 2014,JvmModelTests.java,Jan Koehnlein
+Tue Nov  4 14:43:01 2014,XbaseJavaValidator.java,Jan Koehnlein
+Tue Nov  4 14:43:01 2014,ValidationTests.java,Jan Koehnlein
+Tue Nov  4 14:43:01 2014,XbaseValidationTest.xtend,Jan Koehnlein
+Tue Nov  4 14:43:01 2014,XbaseValidationTest.java,Jan Koehnlein
+Thu Nov  6  8:59:50 2014,.api_filters,Jan Koehnlein
+Thu Nov  6  8:59:50 2014,JvmModelAssociator.java,Jan Koehnlein
+Thu Nov  6  8:59:50 2014,Case_14.xtend,Jan Koehnlein
+Thu Nov  6  8:59:50 2014,Case_14.java,Jan Koehnlein
+Thu Nov  6  8:59:50 2014,JvmModelAssociaterTest.xtend,Jan Koehnlein
+Thu Nov  6  8:59:50 2014,JvmModelAssociaterTest.java,Jan Koehnlein
+Thu Nov  6 12:43:09 2014,HighlightingReconciler.java,Jan Koehnlein
+Thu Nov  6 19:23:33 2014,HighlightingReconcilerTest.xtend,Jan Koehnlein
+Thu Nov  6 19:23:33 2014,HighlightingReconcilerTest.java,Jan Koehnlein
+Fri Nov  7  9:37:03 2014,XtextDocumentProvider.java,Jan Koehnlein
+Fri Nov  7  9:37:03 2014,HighlightingReconcilerTest.xtend,Jan Koehnlein
+Fri Nov  7  9:37:03 2014,HighlightingReconcilerTest.java,Jan Koehnlein
+Fri Nov  7  9:37:03 2014,WorkbenchTestHelper.java,Jan Koehnlein

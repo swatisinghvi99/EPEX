@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Mon Jun 10 18:28:29 2013,AnnotatableType.java,Markus Keller
+Mon Jun 10 18:28:29 2013,CreationReference.java,Markus Keller
+Mon Jun 10 18:28:29 2013,LambdaExpression.java,Markus Keller
+Mon Jun 10 18:28:29 2013,PackageQualifiedType.java,Markus Keller
+Mon Jun 10 18:28:29 2013,TypeMethodReference.java,Markus Keller
+Mon Jun 17 12:08:18 2013,ASTConverter18Test.java,Markus Keller
+Mon Jun 17 12:08:18 2013,ASTMatcherTest.java,Markus Keller
+Mon Jun 17 12:08:18 2013,ASTVisitorTest.java,Markus Keller
+Mon Jun 17 12:08:18 2013,AST.java,Markus Keller
+Mon Jun 17 12:08:18 2013,ASTConverter.java,Markus Keller
+Mon Jun 17 12:08:18 2013,ASTMatcher.java,Markus Keller
+Mon Jun 17 12:08:18 2013,CreationReference.java,Markus Keller
+Mon Jun 17 12:08:18 2013,ExpressionMethodReference.java,Markus Keller
+Mon Jun 17 12:08:18 2013,MethodReference.java,Markus Keller
+Mon Jun 17 12:08:18 2013,SuperMethodReference.java,Markus Keller
+Mon Jun 17 12:08:18 2013,TypeMethodReference.java,Markus Keller
+Mon Jun 17 12:08:18 2013,NaiveASTFlattener.java,Markus Keller
+Wed Jun 19 17:23:28 2013,Modifier.java,Markus Keller
+Wed Jun 19 17:23:28 2013,Flags.java,Markus Keller
+Wed Jun 19 17:23:28 2013,IMember.java,Markus Keller
+Wed Jun 26 14:49:48 2013,org.eclipse.core.resources.prefs,Markus Keller
+Wed Jun 26 14:49:48 2013,TestBug394382.txt,Markus Keller
+Wed Jun 26 14:49:48 2013,JavadocConstants.java,Markus Keller
+Wed Jun 26 14:49:48 2013,JavadocContents.java,Markus Keller

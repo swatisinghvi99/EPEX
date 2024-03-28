@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Thu Dec 21 21:12:41 2006,GlobalRedoActionTest.java,crevells
+Tue Jan  2 15:11:24 2007,GlobalUndoActionTest.java,crevells
+Wed Jan 10 15:12:51 2007,VisibilityComponentEditPolicy.java,crevells
+Wed Jan 10 15:13:06 2007,DiagramPopupBarEditPolicy.java,crevells
+Wed Jan 10 15:13:24 2007,AbstractBorderedShapeEditPart.java,crevells
+Wed Jan 10 15:13:24 2007,BorderedBorderItemEditPart.java,crevells
+Wed Jan 10 15:15:52 2007,DefaultPaletteProvider.java,crevells
+Wed Jan 10 15:15:52 2007,plugin.xml,crevells
+Wed Jan 10 15:15:52 2007,PaletteServiceTests.java,crevells
+Wed Jan 10 22:07:50 2007,CreateShapeViewAction.java,crevells
+Wed Jan 10 22:07:50 2007,CreateViewAction.java,crevells
+Wed Jan 10 22:07:50 2007,DiagramAction.java,crevells
+Fri Jan 12 16:44:57 2007,CreateShapeViewAction.java,crevells
+Fri Jan 12 16:44:57 2007,CreateViewAction.java,crevells
+Fri Jan 12 16:44:57 2007,DefaultPaletteProvider.java,crevells
+Fri Jan 12 16:44:57 2007,DiagramAction.java,crevells
+Fri Jan 12 16:44:57 2007,AbstractBorderedShapeEditPart.java,crevells
+Fri Jan 12 16:44:57 2007,BorderedBorderItemEditPart.java,crevells
+Fri Jan 12 16:44:57 2007,DiagramPopupBarEditPolicy.java,crevells
+Fri Jan 12 16:44:57 2007,VisibilityComponentEditPolicy.java,crevells
+Fri Jan 12 16:44:57 2007,plugin.xml,crevells
+Fri Jan 12 16:44:57 2007,PaletteServiceTests.java,crevells

@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Tue Aug 11 10:59:58 2009,ISynchronizeParticipant.java,Tomasz Zarna
+Tue Aug 11 12:40:10 2009,Subscriber.java,Tomasz Zarna
+Tue Aug 11 13:16:02 2009,plugin.xml,Tomasz Zarna
+Tue Aug 11 13:16:02 2009,CopyRepositoryNameAction.java,Tomasz Zarna
+Tue Aug 11 13:46:28 2009,SynchronizationScopeManager.java,Tomasz Zarna
+Tue Aug 11 14:25:42 2009,SyncInfo.java,Tomasz Zarna
+Wed Aug 12 15:26:23 2009,ModelSynchronizeParticipant.java,Tomasz Zarna
+Fri Aug 14 10:19:57 2009,SynchronizationCompareAdapter.java,Tomasz Zarna
+Fri Aug 14 13:30:41 2009,ModelNavigatorLabelProvider.java,Tomasz Zarna
+Fri Aug 14 13:30:41 2009,ModelSyncLabelProvider.java,Tomasz Zarna
+Tue Aug 25  8:55:46 2009,ModelElementSelectionPage.java,Tomasz Zarna
+Tue Aug 25 13:15:35 2009,AbstractSynchronizeModelProvider.java,Tomasz Zarna
+Tue Aug 25 13:15:35 2009,CompositeModelProvider.java,Tomasz Zarna
+Wed Aug 26  8:36:33 2009,GlobalRefreshResourceSelectionPage.java,Tomasz Zarna
+Wed Aug 26  8:36:33 2009,GlobalRefreshWizardSelectionPage.java,Tomasz Zarna
+Wed Aug 26  9:12:59 2009,PatchWizard.java,Tomasz Zarna
+Wed Aug 26  9:12:59 2009,ApplyPatchOperation.java,Tomasz Zarna
+Wed Aug 26  9:12:59 2009,PatchUITest.java,Tomasz Zarna

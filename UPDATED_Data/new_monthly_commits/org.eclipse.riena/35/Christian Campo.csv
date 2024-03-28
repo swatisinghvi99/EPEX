@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Wed Nov 24 15:15:51 2010,ImageButton.java,Christian Campo
+Wed Dec  8 10:50:59 2010,RemoteServiceFactory.java,Christian Campo
+Wed Dec  8 10:50:59 2010,RemoteServiceFactoryHessian.java,Christian Campo
+Wed Dec  8 10:50:59 2010,MANIFEST.MF,Christian Campo
+Wed Dec  8 10:50:59 2010,ITestObjectsOverRemoteService.java,Christian Campo
+Wed Dec  8 10:50:59 2010,Riena Sample App Server.launch,Christian Campo
+Wed Dec  8 10:50:59 2010,Activator.java,Christian Campo
+Wed Dec  8 10:50:59 2010,TestObject.java,Christian Campo
+Wed Dec  8 10:50:59 2010,TestObjectsOverRemoteService.java,Christian Campo
+Wed Dec  8 10:50:59 2010,Test4TestObjectsOverRemoteService.java,Christian Campo
+Wed Dec  8 11:23:43 2010,Messages.java,Christian Campo
+Wed Dec  8 11:25:05 2010,Messages.java,Christian Campo
+Wed Dec  8 11:25:05 2010,Messages.java,Christian Campo
+Wed Dec  8 11:25:05 2010,Messages.java,Christian Campo
+Wed Dec  8 14:05:02 2010,Activator.java,Christian Campo
+Wed Dec  8 14:05:02 2010,RemoteServiceFactoryHessian.java,Christian Campo
+Wed Dec  8 14:05:02 2010,RienaHessianWatchDog.java,Christian Campo
+Wed Dec  8 14:05:02 2010,ITestObjectsOverRemoteService.java,Christian Campo
+Wed Dec  8 14:05:02 2010,Riena Sample App Server.launch,Christian Campo
+Wed Dec  8 14:05:02 2010,TestObjectsOverRemoteService.java,Christian Campo
+Wed Dec  8 14:05:02 2010,Test4TestObjectsOverRemoteService.java,Christian Campo
+Wed Dec  8 14:05:02 2010,TestClientObject.java,Christian Campo

@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Wed Feb 28 16:14:54 2018,quick-search-in-workspace.ts,Simon Marchi
+Wed Feb 28 16:14:54 2018,search-in-workspace-frontend-module.ts,Simon Marchi
+Wed Feb 28 16:14:54 2018,search-in-workspace-service.ts,Simon Marchi
+Wed Feb 28 16:14:54 2018,search-in-workspace-interface.ts,Simon Marchi
+Wed Feb 28 16:14:54 2018,ripgrep-search-in-workspace-server.slow-spec.ts,Simon Marchi
+Wed Feb 28 16:14:54 2018,ripgrep-search-in-workspace-server.ts,Simon Marchi
+Wed Feb 28 16:14:54 2018,search-in-workspace-backend-module.ts,Simon Marchi
+Wed Mar  7 21:03:43 2018,monaco-quick-open-service.ts,Simon Marchi
+Thu Mar  8 13:08:07 2018,quick-open-service.ts,Simon Marchi
+Thu Mar  8 13:08:07 2018,workspace-symbols.ts,Simon Marchi
+Thu Mar  8 13:08:07 2018,monaco-quick-open-service.ts,Simon Marchi
+Fri Mar 23 14:47:14 2018,file-search-service-impl.ts,Simon Marchi

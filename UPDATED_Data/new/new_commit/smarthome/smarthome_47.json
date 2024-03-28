@@ -1,0 +1,357 @@
+[
+    [
+        "Chris Jackson",
+        "java",
+        3
+    ],
+    [
+        "Chris Jackson",
+        "js",
+        2
+    ],
+    [
+        "Stefan Triller",
+        "java",
+        58
+    ],
+    [
+        "ivivanov-bg",
+        "java",
+        9
+    ],
+    [
+        "ivivanov-bg",
+        "xml",
+        1
+    ],
+    [
+        "ivivanov-bg",
+        "md",
+        1
+    ],
+    [
+        "Simon Kaufmann",
+        "java",
+        120
+    ],
+    [
+        "Simon Kaufmann",
+        "xtend",
+        2
+    ],
+    [
+        "Simon Kaufmann",
+        "MF",
+        4
+    ],
+    [
+        "Simon Kaufmann",
+        "launch",
+        2
+    ],
+    [
+        "Simon Kaufmann",
+        "gitignore",
+        1
+    ],
+    [
+        "Simon Kaufmann",
+        "xml",
+        16
+    ],
+    [
+        "Simon Kaufmann",
+        "classpath",
+        1
+    ],
+    [
+        "Simon Kaufmann",
+        "project",
+        1
+    ],
+    [
+        "Simon Kaufmann",
+        "prefs",
+        1
+    ],
+    [
+        "Simon Kaufmann",
+        "html",
+        1
+    ],
+    [
+        "Simon Kaufmann",
+        "properties",
+        1
+    ],
+    [
+        "Simon Kaufmann",
+        "groovy",
+        2
+    ],
+    [
+        "Simon Kaufmann",
+        "md",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "java",
+        43
+    ],
+    [
+        "Kai Kreuzer",
+        "groovy",
+        10
+    ],
+    [
+        "Kai Kreuzer",
+        "classpath",
+        2
+    ],
+    [
+        "Kai Kreuzer",
+        "project",
+        2
+    ],
+    [
+        "Kai Kreuzer",
+        "prefs",
+        2
+    ],
+    [
+        "Kai Kreuzer",
+        "MF",
+        4
+    ],
+    [
+        "Kai Kreuzer",
+        "gitignore",
+        3
+    ],
+    [
+        "Kai Kreuzer",
+        "html",
+        3
+    ],
+    [
+        "Kai Kreuzer",
+        "properties",
+        2
+    ],
+    [
+        "Kai Kreuzer",
+        "xml",
+        26
+    ],
+    [
+        "Kai Kreuzer",
+        "md",
+        3
+    ],
+    [
+        "Kai Kreuzer",
+        "target",
+        2
+    ],
+    [
+        "Kai Kreuzer",
+        "launch",
+        4
+    ],
+    [
+        "Jason Jones",
+        "js",
+        1
+    ],
+    [
+        "Jason Jones",
+        "java",
+        1
+    ],
+    [
+        "Jason Jones",
+        "xtend",
+        1
+    ],
+    [
+        "Wouter Born",
+        "groovy",
+        1
+    ],
+    [
+        "Wouter Born",
+        "java",
+        12
+    ],
+    [
+        "Wouter Born",
+        "MF",
+        19
+    ],
+    [
+        "Markus Rathgeb",
+        "java",
+        12
+    ],
+    [
+        "Henning Treu",
+        "js",
+        3
+    ],
+    [
+        "Henning Treu",
+        "html",
+        19
+    ],
+    [
+        "Henning Treu",
+        "unknown",
+        1
+    ],
+    [
+        "Henning Treu",
+        "MF",
+        26
+    ],
+    [
+        "Henning Treu",
+        "xml",
+        191
+    ],
+    [
+        "Henning Treu",
+        "java",
+        1678
+    ],
+    [
+        "Henning Treu",
+        "groovy",
+        104
+    ],
+    [
+        "Henning Treu",
+        "xtend",
+        100
+    ],
+    [
+        "Henning Treu",
+        "mwe2",
+        6
+    ],
+    [
+        "Henning Treu",
+        "properties",
+        19
+    ],
+    [
+        "Henning Treu",
+        "txt",
+        1
+    ],
+    [
+        "kungfoolfighting",
+        "properties",
+        1
+    ],
+    [
+        "kungfoolfighting",
+        "java",
+        6
+    ],
+    [
+        "kungfoolfighting",
+        "md",
+        1
+    ],
+    [
+        "David Gr\u00e4ff",
+        "java",
+        6
+    ],
+    [
+        "David Gr\u00e4ff",
+        "launch",
+        1
+    ],
+    [
+        "David Gr\u00e4ff",
+        "xml",
+        1
+    ],
+    [
+        "lolodomo",
+        "html",
+        3
+    ],
+    [
+        "lolodomo",
+        "java",
+        6
+    ],
+    [
+        "lolodomo",
+        "js",
+        1
+    ],
+    [
+        "Andre Fuechsel",
+        "java",
+        1
+    ],
+    [
+        "VelinYordanov",
+        "java",
+        7
+    ],
+    [
+        "adimova",
+        "MF",
+        2
+    ],
+    [
+        "adimova",
+        "java",
+        10
+    ],
+    [
+        "adimova",
+        "json",
+        5
+    ],
+    [
+        "Florian",
+        "groovy",
+        1
+    ],
+    [
+        "Florian",
+        "java",
+        1
+    ],
+    [
+        "Florian",
+        "js",
+        1
+    ],
+    [
+        "Florian",
+        "html",
+        11
+    ],
+    [
+        "Erdoan Hadzhiyusein",
+        "java",
+        11
+    ],
+    [
+        "Erdoan Hadzhiyusein",
+        "groovy",
+        2
+    ],
+    [
+        "Thomas Dietrich",
+        "java",
+        1
+    ]
+]

@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Mon Aug  2 11:52:04 2021,build.include,Roman Nikitenko
+Mon Aug  2 11:52:04 2021,about-che-theia-dialog.tsx,Roman Nikitenko
+Mon Aug  2 11:52:04 2021,container-picker.ts,Roman Nikitenko
+Mon Aug  2 11:52:04 2021,che-plugin-command-contribution.ts,Roman Nikitenko
+Mon Aug  2 11:52:04 2021,exec-terminal-contribution.ts,Roman Nikitenko
+Mon Aug  2 11:52:04 2021,terminal-quick-open.ts,Roman Nikitenko
+Mon Aug  2 11:52:04 2021,terminal-frontend-module.ts,Roman Nikitenko
+Mon Aug  2 11:52:04 2021,theme-synchronizer.ts,Roman Nikitenko
+Mon Aug  2 11:52:04 2021,che-quick-open-workspace.ts,Roman Nikitenko
+Mon Aug  2 11:52:04 2021,resource-monitor.ts,Roman Nikitenko
+Mon Aug  2 11:52:04 2021,resource-monitor.spec.ts,Roman Nikitenko
+Mon Aug  2 11:52:04 2021,ssh-plugin.ts,Roman Nikitenko
+Mon Aug  2 11:52:04 2021,util.ts,Roman Nikitenko
+Mon Aug  2 11:52:04 2021,yarn.lock,Roman Nikitenko
+Fri Aug  6 17:21:21 2021,util.ts,Roman Nikitenko
+Fri Aug  6 17:42:26 2021,devfile-attributes.yaml,Roman Nikitenko
+Fri Aug  6 17:42:26 2021,workspace-status-runtime.json,Roman Nikitenko
+Fri Aug  6 17:42:26 2021,che-workspace-server.ts,Roman Nikitenko
+Fri Aug  6 17:42:26 2021,workspace-projects-manager.ts,Roman Nikitenko
+Fri Aug  6 17:42:26 2021,workspace-projects-manager.spec.ts,Roman Nikitenko

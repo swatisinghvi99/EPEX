@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Wed Dec 18 14:55:11 2019,plugin.xml,yugansan
+Wed Dec 18 14:55:11 2019,MigrationRunnable.java,yugansan
+Wed Dec 18 14:55:11 2019,AirdMigrationRunnable.java,yugansan
+Wed Dec 18 14:55:11 2019,InvalidAirdReferenceMigrationContribution.java,yugansan
+Wed Dec 18 14:55:11 2019,ModelMigrationRunnable.java,yugansan
+Wed Dec 18 14:55:11 2019,CapellaResourceHelper.java,yugansan
+Wed Dec 18 14:55:11 2019,MANIFEST.MF,yugansan
+Wed Dec 18 14:55:11 2019,.project,yugansan
+Wed Dec 18 14:55:11 2019,InvalidAirdElement.afm,yugansan
+Wed Dec 18 14:55:11 2019,InvalidAirdElement.aird,yugansan
+Wed Dec 18 14:55:11 2019,InvalidAirdElement.melodymodeller,yugansan
+Wed Dec 18 14:55:11 2019,InvalidAirdReferenceMigrationTest.java,yugansan
+Wed Dec 18 14:55:11 2019,MigrationTestSuite.java,yugansan

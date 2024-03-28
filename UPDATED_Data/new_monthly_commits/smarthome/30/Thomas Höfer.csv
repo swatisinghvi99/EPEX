@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Tue Jun 14 17:11:22 2016,PersistentInbox.java,Thomas Höfer
+Tue Jun 14 17:11:22 2016,ThingFactoryHelper.java,Thomas Höfer
+Tue Jun 14 17:11:22 2016,ChannelType.java,Thomas Höfer
+Tue Jun 14 17:11:22 2016,ThingType.java,Thomas Höfer
+Tue Jun 14 17:11:22 2016,BindingInfo.java,Thomas Höfer
+Tue Jun 14 17:11:22 2016,ChannelTypeResource.java,Thomas Höfer
+Tue Jun 14 17:11:22 2016,ThingTypeResource.java,Thomas Höfer
+Wed Jun 22 10:12:50 2016,MANIFEST.MF,Thomas Höfer
+Wed Jun 22 10:12:50 2016,MANIFEST.MF,Thomas Höfer
+Wed Jun 22 10:12:50 2016,ThingSetupManager.java,Thomas Höfer
+Wed Jun 22 10:12:50 2016,MANIFEST.MF,Thomas Höfer
+Wed Jun 22 10:12:50 2016,MANIFEST.MF,Thomas Höfer
+Wed Jun 22 10:12:50 2016,MANIFEST.MF,Thomas Höfer
+Wed Jun 22 11:20:09 2016,RESTActivator.java,Thomas Höfer
+Wed Jun 22 12:53:12 2016,GroupItem.java,Thomas Höfer
+Thu Jun 23  5:47:14 2016,CoreTests.launch,Thomas Höfer
+Thu Jun 23  5:47:14 2016,I18nProviderOSGiTest.groovy,Thomas Höfer
+Thu Jun 23  5:47:14 2016,LocaleProviderOSGiTest.groovy,Thomas Höfer
+Thu Jun 23  5:47:14 2016,LocaleProviderImpl.java,Thomas Höfer
+Fri Jun 24 10:48:41 2016,CoreTests.launch,Thomas Höfer
+Fri Jun 24 10:48:41 2016,MANIFEST.MF,Thomas Höfer
+Fri Jun 24 10:48:41 2016,pom.xml,Thomas Höfer
+Fri Jun 24 10:48:41 2016,LocaleProviderOSGiTest.groovy,Thomas Höfer
+Fri Jun 24 10:48:41 2016,localeprovider.xml,Thomas Höfer
+Fri Jun 24 10:48:41 2016,LocaleProviderImpl.java,Thomas Höfer
+Mon Jun 27 12:02:26 2016,LocaleProviderOSGiTest.groovy,Thomas Höfer

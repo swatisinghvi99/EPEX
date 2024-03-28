@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Wed Aug 15 11:37:57 2018,HonoConsumerBase.java,Karsten Frank
+Wed Aug 15 11:37:57 2018,HonoExampleConstants.java,Karsten Frank
+Wed Aug 15 13:28:51 2018,HonoConsumerBase.java,Karsten Frank
+Wed Aug 15 13:28:51 2018,logback.xml,Karsten Frank
+Wed Aug 15 13:28:51 2018,java_client_consumer.md,Karsten Frank
+Wed Aug 15 13:28:51 2018,java_client_sender.md,Karsten Frank
+Wed Aug 15 15:55:01 2018,HonoExampleConstants.java,Karsten Frank
+Wed Aug 15 15:55:01 2018,HonoSenderBase.java,Karsten Frank
+Wed Aug 15 15:55:01 2018,java_client_consumer.md,Karsten Frank
+Wed Aug 15 16:59:39 2018,HonoConsumerBase.java,Karsten Frank
+Thu Aug 16  8:37:00 2018,AbstractProtocolAdapterBase.java,Karsten Frank
+Thu Aug 16  8:37:00 2018,CommandConnectionImpl.java,Karsten Frank
+Mon Aug 20 13:18:30 2018,AbstractHonoClient.java,Karsten Frank
+Mon Aug 20 16:34:58 2018,AbstractHonoClient.java,Karsten Frank
+Wed Aug 22  8:56:50 2018,AbstractHonoClient.java,Karsten Frank
+Wed Aug 22  8:56:50 2018,HonoProtonHelper.java,Karsten Frank
+Fri Sep  7 15:04:33 2018,CommandClient.java,Karsten Frank
+Fri Sep  7 15:04:33 2018,CommandClientImpl.java,Karsten Frank
+Fri Sep  7 15:04:33 2018,CommandClientImplTest.java,Karsten Frank
+Fri Sep  7 15:04:33 2018,HonoConsumerBase.java,Karsten Frank
+Fri Sep  7 15:04:33 2018,IntegrationTestSupport.java,Karsten Frank
+Fri Sep  7 15:04:33 2018,HttpTestBase.java,Karsten Frank
+Fri Sep  7 15:04:33 2018,CommandAndControlMqttIT.java,Karsten Frank

@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Wed May 13  0:32:05 2020,BitmapIndexImpl.java,Yunjie Li
+Wed May 13  0:32:05 2020,PackBitmapIndexBuilder.java,Yunjie Li
+Wed May 13  0:32:05 2020,BitmapIndex.java,Yunjie Li
+Wed May 13  0:32:15 2020,GcCommitSelectionTest.java,Yunjie Li
+Wed May 13  0:32:15 2020,BitmapCommit.java,Yunjie Li
+Wed May 13  0:32:15 2020,PackWriter.java,Yunjie Li
+Wed May 13  0:32:15 2020,PackWriterBitmapPreparer.java,Yunjie Li
+Wed May 13  0:32:15 2020,BitmapCommit.java,Yunjie Li
+Wed May 13  0:32:15 2020,AddToBitmapWithCacheFilter.java,Yunjie Li
+Wed May 13  0:32:15 2020,PackBitmapIndexBuilder.java,Yunjie Li
+Wed May 13  0:32:15 2020,PackWriter.java,Yunjie Li
+Wed May 13  0:32:15 2020,PackWriterBitmapPreparer.java,Yunjie Li
+Wed May 13  0:32:15 2020,BitmapWalker.java,Yunjie Li
+Wed May 13  0:32:15 2020,PackBitmapIndexRemapper.java,Yunjie Li
+Wed May 13  0:32:15 2020,BasePackBitmapIndex.java,Yunjie Li
+Wed May 13  0:32:15 2020,PackWriterBitmapPreparer.java,Yunjie Li
+Wed May 27 17:31:54 2020,BasePackBitmapIndex.java,Yunjie Li

@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Mon Aug 19 16:58:05 2019,DTDErrorCode.java,NikolasKomonen
+Mon Aug 19 16:58:05 2019,XMLSchemaErrorCode.java,NikolasKomonen
+Mon Aug 19 16:58:05 2019,XMLSyntaxErrorCode.java,NikolasKomonen
+Mon Aug 19 16:58:05 2019,XSDErrorCode.java,NikolasKomonen
+Mon Aug 19 16:58:05 2019,LSPMessageFormatter.java,NikolasKomonen
+Mon Aug 19 16:58:05 2019,StringUtils.java,NikolasKomonen
+Mon Aug 19 16:58:05 2019,XMLPositionUtility.java,NikolasKomonen
+Mon Aug 19 16:58:05 2019,XMLSchemaDiagnosticsTest.java,NikolasKomonen
+Mon Aug 19 16:58:05 2019,StringUtilsTest.java,NikolasKomonen

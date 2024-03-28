@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Tue Nov 13 20:03:59 2012,TmfStatisticsTest.java,Alexandre Montplaisir
+Tue Nov 13 20:03:59 2012,ITmfStatistics.java,Alexandre Montplaisir
+Tue Nov 13 20:03:59 2012,TmfEventsStatistics.java,Alexandre Montplaisir
+Tue Nov 13 20:03:59 2012,TmfStateStatistics.java,Alexandre Montplaisir
+Tue Nov 13 20:03:59 2012,TmfStatisticsViewer.java,Alexandre Montplaisir
+Fri Nov 16 21:41:46 2012,TmfStatisticsTest.java,Alexandre Montplaisir
+Fri Nov 16 21:41:46 2012,ITmfStatistics.java,Alexandre Montplaisir
+Fri Nov 16 21:41:46 2012,TmfEventsStatistics.java,Alexandre Montplaisir
+Fri Nov 16 21:41:46 2012,TmfStateStatistics.java,Alexandre Montplaisir
+Tue Nov 20 18:21:42 2012,ControlFlowView.java,Alexandre Montplaisir
+Tue Nov 20 18:21:42 2012,ResourcesView.java,Alexandre Montplaisir
+Tue Nov 20 18:21:42 2012,TmfProjectElement.java,Alexandre Montplaisir
+Tue Nov 20 18:21:42 2012,TmfEnvironmentView.java,Alexandre Montplaisir
+Tue Nov 20 18:21:42 2012,HistogramView.java,Alexandre Montplaisir
+Tue Nov 20 18:21:42 2012,TmfStatisticsView.java,Alexandre Montplaisir
+Tue Nov 20 18:21:42 2012,TmfUml2SDSyncLoader.java,Alexandre Montplaisir
+Thu Dec  6 15:49:37 2012,TmfDataProvider.java,Alexandre Montplaisir

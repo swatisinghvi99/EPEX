@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Wed Jul  7  2:22:49 2010,.classpath,Ted Williams
+Wed Jul  7  2:22:49 2010,org.eclipse.jdt.core.prefs,Ted Williams
+Wed Jul  7  2:22:49 2010,MANIFEST.MF,Ted Williams
+Wed Jul  7  2:22:49 2010,plugin.properties,Ted Williams
+Wed Jul  7  2:22:49 2010,plugin.xml,Ted Williams
+Wed Jul  7  2:22:49 2010,Activator.java,Ted Williams
+Wed Jul  7  2:22:49 2010,RSEHelper.java,Ted Williams
+Wed Jul  7  2:22:49 2010,RemoteCDSFDebuggerTab.java,Ted Williams
+Wed Jul  7  2:22:49 2010,RemoteCDSFMainTab.java,Ted Williams
+Wed Jul  7  2:22:49 2010,RemoteCDebuggerTab.java,Ted Williams
+Wed Jul  7  2:22:49 2010,RemoteCMainTab.java,Ted Williams
+Wed Jul  7  2:22:49 2010,RemoteDSFGDBDebuggerPage.java,Ted Williams
+Wed Jul  7  2:22:49 2010,RemoteGdbLaunchDelegate.java,Ted Williams
+Wed Jul  7  2:22:49 2010,RemoteLaunchConfigurationTabGroup.java,Ted Williams
+Wed Jul  7  2:22:49 2010,RemoteRunLaunchDelegate.java,Ted Williams
+Mon Jul 19 16:11:24 2010,RemoteCDSFMainTab.java,Ted Williams
+Mon Jul 19 16:11:24 2010,RemoteCMainTab.java,Ted Williams

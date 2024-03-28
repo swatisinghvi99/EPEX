@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Mon Oct 13 13:50:25 2014,ConfigurableComparisonMethod.java,Olivier Constant
+Mon Oct 13 13:50:25 2014,DefaultComparisonMethod.java,Olivier Constant
+Mon Oct 13 13:50:25 2014,AbstractComparisonViewer.java,Olivier Constant
+Mon Oct 13 13:50:25 2014,ComparisonViewer.java,Olivier Constant
+Tue Oct 14 13:55:25 2014,FragmentedModelScope.java,Olivier Constant
+Tue Oct 14 13:55:25 2014,MultiResourceTreeIterator.java,Olivier Constant
+Tue Oct 14 15:21:19 2014,EnhancedComparisonSideViewer.java,Olivier Constant
+Fri Oct 17 14:35:45 2014,GMFDiffPolicy.java,Olivier Constant
+Fri Oct 17 14:35:45 2014,EMFDiffMergeEditorInput.java,Olivier Constant
+Fri Oct 17 14:35:45 2014,DefaultDiffPolicy.java,Olivier Constant
+Wed Oct 22 17:29:50 2014,EMFDiffMergeEditorInput.java,Olivier Constant
+Wed Oct 22 17:29:50 2014,AbstractComparisonViewer.java,Olivier Constant
+Wed Oct 22 17:29:50 2014,HeaderViewer.java,Olivier Constant
+Thu Oct 23  7:05:57 2014,AbstractComparisonViewer.java,Olivier Constant
+Thu Oct 23 11:55:01 2014,EMFDiffMergeUIPlugin.java,Olivier Constant
+Thu Oct 23 11:55:01 2014,FragmentedModelScope.java,Olivier Constant

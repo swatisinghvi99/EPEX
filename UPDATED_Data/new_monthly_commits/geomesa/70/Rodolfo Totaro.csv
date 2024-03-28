@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Wed Nov 27 15:27:46 2019,memory.rst,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,AbstractGeoIndex.java,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,BucketGeoIndex.java,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,GeoIndex.java,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,GeoIndexType.java,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,QuadTreeGeoIndex.java,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,STRtreeGeoIndex.java,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,BucketIndexParam.java,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,GeoIndexParams.java,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,STRtreeIndexParam.java,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,GeoCQEngine.scala,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,GeoIndexFactory.scala,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,CQIndexingOptionsTest.scala,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,GeoCQEngineIndexChoiseTest.scala,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,GeoCQEngineTest.scala,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,SampleFeatures.scala,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,WrappedQuadtree.scala,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,WrappedSTRtree.scala,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,WrapperIndex.scala,Rodolfo Totaro
+Wed Nov 27 15:27:46 2019,pom.xml,Rodolfo Totaro

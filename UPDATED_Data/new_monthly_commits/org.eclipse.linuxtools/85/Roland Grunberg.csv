@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Tue Jan 19 21:43:43 2016,AddBoxPage.java,Roland Grunberg
+Tue Jan 19 21:43:43 2016,CreateVMAdvancedComposite.java,Roland Grunberg
+Tue Jan 19 21:43:43 2016,CreateVMPage.java,Roland Grunberg
+Tue Jan 19 21:43:43 2016,PackageVMPage.java,Roland Grunberg
+Thu Feb  4 13:19:49 2016,DockerMachine.java,Roland Grunberg
+Thu Feb  4 20:51:42 2016,VagrantConnection.java,Roland Grunberg
+Thu Feb  4 20:51:42 2016,plugin.xml,Roland Grunberg
+Thu Feb  4 20:51:42 2016,Messages.java,Roland Grunberg
+Thu Feb  4 20:51:42 2016,PreferenceInitializer.java,Roland Grunberg
+Thu Feb  4 20:51:42 2016,VagrantPreferencePage.java,Roland Grunberg
+Thu Feb  4 20:51:42 2016,messages.properties,Roland Grunberg

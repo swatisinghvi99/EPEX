@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Wed Apr 23 16:04:36 2014,CompilerHelper.java,bergmann
+Wed Apr 23 16:04:36 2014,RecursionCutoffPoint.java,bergmann
+Wed Apr 23 16:04:36 2014,ReteRecipeCompiler.java,bergmann
+Wed Apr 23 16:04:36 2014,ReteEngine.java,bergmann
+Wed Apr 23 16:04:36 2014,PlanningTrace.java,bergmann
+Wed Apr 23 16:04:36 2014,RecipeTraceInfo.java,bergmann
+Wed Apr 23 16:04:36 2014,IncQueryEngineImpl.java,bergmann
+Mon Apr 28  9:40:32 2014,org.eclipse.core.resources.prefs,bergmann
+Mon Apr 28  9:40:32 2014,build.properties,bergmann
+Mon Apr 28  9:40:32 2014,recipes.ecore,bergmann
+Mon Apr 28  9:40:32 2014,recipes.ecorediag,bergmann
+Mon Apr 28  9:40:32 2014,rete-recipes.genmodel,bergmann
+Mon Apr 28  9:40:32 2014,plugin.properties,bergmann
+Mon Apr 28  9:40:32 2014,RecipesHelper.java,bergmann
+Thu May 15 14:24:30 2014,EMFPatternTypeProvider.java,bergmann
+Thu May 15 14:24:30 2014,IEMFTypeProvider.java,bergmann
+Thu May 15 14:24:30 2014,EMFPatternLanguageJavaValidator.java,bergmann
+Thu May 15 14:24:32 2014,EMFPatternTypeProvider.java,bergmann
+Thu May 15 14:24:33 2014,EMFPatternTypeProvider.java,bergmann
+Thu May 15 14:24:33 2014,IEMFTypeProvider.java,bergmann
+Thu May 15 14:24:33 2014,EMFPatternLanguageJavaValidator.java,bergmann

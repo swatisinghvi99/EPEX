@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Fri Sep 16 22:01:51 2005,GenTypedElement.java,davidms
+Fri Sep 16 22:01:51 2005,GenTypedElementImpl.java,davidms
+Fri Sep 16 22:01:51 2005,Class.java,davidms
+Fri Sep 16 22:01:51 2005,Class.javajet,davidms
+Fri Sep 23 22:07:48 2005,plugin.properties,davidms
+Fri Sep 23 22:07:48 2005,ValidateAction.java,davidms
+Fri Sep 30 19:56:26 2005,GenPackageImpl.java,davidms
+Fri Sep 30 21:42:37 2005,GenClassImpl.java,davidms
+Fri Sep 30 21:43:37 2005,ItemProvider.java,davidms
+Fri Sep 30 21:43:37 2005,ItemProvider.javajet,davidms
+Fri Sep 30 22:48:03 2005,FactoryClass.java,davidms
+Fri Sep 30 22:48:03 2005,FactoryClass.javajet,davidms
+Fri Sep 30 23:31:35 2005,elements.ecore,davidms
+Fri Sep 30 23:31:35 2005,library.genmodel,davidms
+Fri Sep 30 23:31:35 2005,libraryPart1.xsd,davidms
+Fri Sep 30 23:31:35 2005,Book.java,davidms
+Fri Sep 30 23:31:35 2005,ElementsPackage.java,davidms
+Fri Sep 30 23:31:35 2005,BookImpl.java,davidms
+Fri Sep 30 23:31:35 2005,ElementsFactoryImpl.java,davidms
+Fri Sep 30 23:31:35 2005,ElementsPackageImpl.java,davidms
+Fri Sep 30 23:31:35 2005,ElementsValidator.java,davidms

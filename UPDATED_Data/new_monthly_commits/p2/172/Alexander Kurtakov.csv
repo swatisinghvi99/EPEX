@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Mon May 11 15:30:19 2020,DirectorApplication.java,Alexander Kurtakov
+Mon May 11 15:30:19 2020,OperationGenerator.java,Alexander Kurtakov
+Mon May 11 15:30:19 2020,OptimizationFunction.java,Alexander Kurtakov
+Mon May 11 15:30:19 2020,Projector.java,Alexander Kurtakov
+Mon May 11 15:30:19 2020,UserDefinedOptimizationFunction.java,Alexander Kurtakov
+Mon May 11 15:30:19 2020,ProfileWriter.java,Alexander Kurtakov
+Mon May 11 15:30:19 2020,Expression.java,Alexander Kurtakov
+Mon May 11 15:30:19 2020,org.eclipse.jdt.core.prefs,Alexander Kurtakov
+Mon May 11 15:30:19 2020,org.eclipse.jdt.ui.prefs,Alexander Kurtakov
+Mon May 11 15:30:19 2020,AdviceFileParser.java,Alexander Kurtakov
+Mon May 11 15:30:19 2020,ProfileSynchronizer.java,Alexander Kurtakov
+Mon May 11 15:30:19 2020,TestLicenseConsistency.java,Alexander Kurtakov
+Mon May 11 15:30:19 2020,AggregateQueryTest.java,Alexander Kurtakov
+Mon May 11 15:30:19 2020,CleanupzipAction.java,Alexander Kurtakov
+Mon May 11 15:30:19 2020,PreviousConfigurationFinder.java,Alexander Kurtakov
+Mon May 11 15:30:19 2020,SiteXMLAction.java,Alexander Kurtakov

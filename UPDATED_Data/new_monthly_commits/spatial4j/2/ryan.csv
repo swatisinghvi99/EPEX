@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Fri Aug 28 20:36:43 2015,FORMATS.md,ryan
+Fri Aug 28 20:36:43 2015,SpatialContextFactory.java,ryan
+Fri Aug 28 20:36:43 2015,JtsSpatialContextFactory.java,ryan
+Fri Aug 28 20:36:43 2015,PolyshapeReader.java,ryan
+Fri Aug 28 20:36:43 2015,PolyshapeWriter.java,ryan
+Fri Aug 28 20:36:43 2015,ShapeIO.java,ryan
+Fri Aug 28 20:36:43 2015,JtsPolyshapeReader.java,ryan
+Fri Aug 28 20:36:43 2015,JtsPolyshapeWriter.java,ryan
+Fri Aug 28 20:36:43 2015,GeneralGeoJSONTest.java,ryan
+Fri Aug 28 20:36:43 2015,GeneralPolyshapeTest.java,ryan
+Fri Aug 28 20:36:43 2015,GeneralReadWriteShapeTest.java,ryan
+Fri Aug 28 20:36:43 2015,GeneralWktTest.java,ryan
+Fri Aug 28 21:35:23 2015,FORMATS.md,ryan
+Fri Aug 28 21:35:23 2015,ShapeBenchmarks.java,ryan
+Fri Aug 28 21:35:23 2015,samples.txt,ryan
+Sat Aug 29  0:05:48 2015,BaseRoundTripTest.java,ryan
+Sat Aug 29  0:05:48 2015,BinaryCodecTest.java,ryan
+Sat Aug 29  0:05:48 2015,GeneralReadWriteShapeTest.java,ryan
+Sat Aug 29  0:05:48 2015,JtsBinaryCodecTest.java,ryan
+Sat Aug 29  1:30:13 2015,GeoJSONReader.java,ryan
+Sat Aug 29  1:30:13 2015,GeoJSONWriter.java,ryan
+Sat Aug 29  1:30:13 2015,PolyshapeReader.java,ryan
+Sat Aug 29  1:30:13 2015,PolyshapeWriter.java,ryan
+Sat Aug 29  1:30:13 2015,GeneralGeoJSONTest.java,ryan
+Sat Aug 29  1:30:13 2015,GeneralPolyshapeTest.java,ryan
+Sat Aug 29  1:30:13 2015,GeneralReadWriteShapeTest.java,ryan

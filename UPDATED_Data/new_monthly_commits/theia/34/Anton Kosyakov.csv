@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Sun Dec  1  3:37:33 2019,terminal-linkmatcher.ts,Anton Kosyakov
+Sun Dec  1  3:37:57 2019,file-download-endpoint.ts,Anton Kosyakov
+Sun Dec  1  3:37:57 2019,text-editors-main.ts,Anton Kosyakov
+Wed Dec  4  5:35:17 2019,tree-test-container.ts,Anton Kosyakov
+Wed Dec  4  5:35:17 2019,tree-consistency.spec.ts,Anton Kosyakov
+Wed Dec  4  5:35:17 2019,tree-expansion.spec.ts,Anton Kosyakov
+Wed Dec  4  5:35:17 2019,tree-expansion.ts,Anton Kosyakov
+Wed Dec  4  5:35:17 2019,tree-model.ts,Anton Kosyakov
+Wed Dec  4  5:35:17 2019,tree.spec.ts,Anton Kosyakov
+Wed Dec  4  5:35:17 2019,tree.ts,Anton Kosyakov
+Wed Dec  4  5:35:17 2019,navigator-model.ts,Anton Kosyakov
+Wed Dec  4  5:35:17 2019,navigator-model.spec.ts,Anton Kosyakov
+Wed Dec  4  5:35:17 2019,navigator-model.ts,Anton Kosyakov
+Wed Dec  4  5:35:17 2019,navigator-widget.tsx,Anton Kosyakov

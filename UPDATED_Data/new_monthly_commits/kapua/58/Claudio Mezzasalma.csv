@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Tue Jul 20  9:01:27 2021,DataChannels.java,Claudio Mezzasalma
+Tue Jul 20  9:01:27 2021,dataChannel-scopeId.yaml,Claudio Mezzasalma
+Tue Jul 20  9:01:30 2021,DeviceEvents.java,Claudio Mezzasalma
+Tue Jul 20  9:01:30 2021,JobExecutions.java,Claudio Mezzasalma
+Wed Jul 21 10:35:07 2021,kapua-broker.xml,Claudio Mezzasalma
+Wed Jul 21 10:35:07 2021,pom.xml,Claudio Mezzasalma
+Wed Jul 21 10:35:07 2021,pom.xml,Claudio Mezzasalma
+Wed Jul 21 10:35:07 2021,AbstractEntityManagerFactory.java,Claudio Mezzasalma
+Wed Jul 21 10:35:07 2021,JpaSessionCustomizer.java,Claudio Mezzasalma
+Wed Jul 21 10:35:07 2021,pom.xml,Claudio Mezzasalma
+Fri Jul 23 13:13:14 2021,DataChannels.java,Claudio Mezzasalma
+Fri Jul 23 13:13:14 2021,dataChannel-scopeId.yaml,Claudio Mezzasalma
+Wed Aug  4 15:59:16 2021,DeviceEvents.java,Claudio Mezzasalma
+Wed Aug  4 15:59:16 2021,deviceEvent-scopeId-deviceId.yaml,Claudio Mezzasalma
+Thu Aug 12 11:06:25 2021,DeviceTabAssets.java,Claudio Mezzasalma
+Thu Aug 12 11:06:25 2021,DeviceTabBundles.java,Claudio Mezzasalma
+Thu Aug 12 11:06:25 2021,DeviceTabCommand.java,Claudio Mezzasalma
+Thu Aug 12 11:06:25 2021,DeviceTabConfiguration.java,Claudio Mezzasalma
+Thu Aug 12 11:06:25 2021,DeviceTabInventory.java,Claudio Mezzasalma
+Thu Aug 12 11:06:25 2021,DeviceTabKeystore.java,Claudio Mezzasalma
+Thu Aug 12 11:06:25 2021,DeviceTabPackages.java,Claudio Mezzasalma

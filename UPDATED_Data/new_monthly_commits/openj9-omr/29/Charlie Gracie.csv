@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Wed Jul  4  3:36:56 2018,CompileMethod.cpp,Charlie Gracie
+Wed Jul  4  3:36:56 2018,OMRMethodBuilder.hpp,Charlie Gracie
+Wed Jul  4  3:55:39 2018,OMRTypeDictionary.hpp,Charlie Gracie
+Wed Jul  4 15:54:52 2018,OMRMethodBuilder.cpp,Charlie Gracie
+Wed Jul  4 15:54:52 2018,OMRMethodBuilder.hpp,Charlie Gracie
+Thu Jul 26 12:34:25 2018,OMRVirtualMachineOperandArray.cpp,Charlie Gracie
+Thu Jul 26 12:34:25 2018,OMRVirtualMachineOperandArray.hpp,Charlie Gracie
+Thu Jul 26 12:34:25 2018,OMRVirtualMachineOperandStack.cpp,Charlie Gracie
+Thu Jul 26 12:34:25 2018,OMRVirtualMachineOperandStack.hpp,Charlie Gracie

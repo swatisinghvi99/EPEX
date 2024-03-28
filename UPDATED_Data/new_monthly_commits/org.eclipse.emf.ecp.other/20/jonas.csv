@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Wed Jan 30 18:03:34 2013,EMFStoreProvider.java,jonas
+Wed Jan 30 18:03:34 2013,EMFStoreDirtyDecorator.java,jonas
+Wed Jan 30 18:03:34 2013,EMFStoreDirtyDecoratorCachedTree.java,jonas
+Mon Feb 18 13:25:32 2013,Perspective.java,jonas
+Mon Feb 18 13:29:36 2013,WriterImpl.java,jonas
+Mon Feb 18 13:48:41 2013,DefaultFilter.java,jonas
+Mon Feb 18 13:56:43 2013,MEClassLabelProvider.java,jonas
+Mon Feb 18 15:04:13 2013,ModelExplorerView.java,jonas
+Mon Feb 18 15:04:13 2013,TreeView.java,jonas
+Mon Feb 18 15:07:50 2013,AbstractEClassTreeSelectionComposite.java,jonas
+Mon Feb 18 15:07:50 2013,HandlerHelper.java,jonas
+Mon Feb 18 15:12:53 2013,MultiControl.java,jonas
+Tue Feb 19 21:44:03 2013,.project,jonas
+Tue Feb 19 21:44:03 2013,.api_filters,jonas
+Tue Feb 19 21:44:03 2013,org.eclipse.jdt.core.prefs,jonas
+Tue Feb 19 21:44:03 2013,org.eclipse.pde.api.tools.prefs,jonas
+Tue Feb 19 21:44:03 2013,org.eclipse.pde.prefs,jonas
+Tue Feb 19 21:44:03 2013,ECPProject.java,jonas
+Tue Feb 19 21:44:03 2013,ECPProjectManager.java,jonas
+Tue Feb 19 21:44:03 2013,ECPProvider.java,jonas
+Tue Feb 19 21:44:03 2013,ECPProviderRegistry.java,jonas
+Tue Feb 19 21:44:03 2013,ECPRepository.java,jonas
+Tue Feb 19 21:44:03 2013,ECPRepositoryManager.java,jonas
+Tue Feb 19 21:44:03 2013,ProjectWithNameExistsException.java,jonas
+Tue Feb 19 22:16:47 2013,FormEditorComposite.java,jonas
+Wed Feb 27 21:46:41 2013,ApplicationWorkbenchAdvisor.java,jonas

@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Mon Mar  4  7:38:41 2024,DEPENDENCIES,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,LICENSE,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,NOTICE.md,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,README.md,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,SECURITY.md,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,build.gradle.kts,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,checkstyle.xml,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,suppressions.xml,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,build.gradle.kts,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,ExampleExtension.java,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,org.eclipse.edc.spi.system.ServiceExtension,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,banner.txt,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,gradle.properties,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,libs.versions.toml,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,gradle-wrapper.properties,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,gradlew,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,gradlew.bat,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,build.gradle.kts,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,notice.md,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,Dockerfile,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,build.gradle.kts,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,notice.md,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,Dockerfile,Paul Latzelsperger
+Mon Mar  4  7:38:41 2024,settings.gradle.kts,Paul Latzelsperger

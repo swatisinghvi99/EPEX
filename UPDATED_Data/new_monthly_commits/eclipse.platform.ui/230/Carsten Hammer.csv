@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Tue Jun  9  5:55:37 2020,TitleRegion.java,Carsten Hammer
+Wed Jun 10  8:05:42 2020,ActionContributionItem.java,Carsten Hammer
+Wed Jun 10  8:40:20 2020,SizeCache.java,Carsten Hammer
+Wed Jun 10  8:40:20 2020,SizeCache.java,Carsten Hammer
+Wed Jun 10  9:28:27 2020,BindingModel.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,DecoratingStyledCellLabelProvider.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,ChooseWorkspaceDialog.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,ExportPage.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,ImportPage.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,ProgressCanvasViewer.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,HandlerTest.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,SideEffectTest.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,ObservableTrackerTest.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,FieldAssistTestCase.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,ColumnLabelProviderLambdaTest.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,LabelProviderLambdaTest.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,FileProviderMock.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,AdaptedResourceNavigator.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,EditorIconTest.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,MenuContributionHarness.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,BackgroundColorDecorator.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,FontDecorator.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,ForegroundColorDecorator.java,Carsten Hammer
+Fri Jun 12  6:46:56 2020,SaveablesView.java,Carsten Hammer

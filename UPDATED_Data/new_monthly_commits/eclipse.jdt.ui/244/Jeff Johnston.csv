@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Thu Aug  5 18:08:01 2021,RefactoringCoreMessages.java,Jeff Johnston
+Thu Aug  5 18:08:01 2021,refactoring.properties,Jeff Johnston
+Thu Aug  5 18:08:01 2021,A_test097.java,Jeff Johnston
+Thu Aug  5 18:08:01 2021,A_test198.java,Jeff Johnston
+Thu Aug  5 18:08:01 2021,A_test199.java,Jeff Johnston
+Thu Aug  5 18:08:01 2021,ExtractMethodTests.java,Jeff Johnston
+Thu Aug  5 18:08:01 2021,ExtractMethodAnalyzer.java,Jeff Johnston
+Tue Aug 10 22:07:25 2021,ExtractSupertypeProcessor.java,Jeff Johnston
+Fri Aug 13 18:05:47 2021,plugin.properties,Jeff Johnston
+Fri Aug 13 18:05:47 2021,plugin.xml,Jeff Johnston
+Fri Aug 13 18:05:47 2021,BasicJavaEditorActionContributor.java,Jeff Johnston
+Fri Aug 13 18:05:47 2021,ClipboardOperationAction.java,Jeff Johnston
+Fri Aug 13 18:05:47 2021,ConstructedJavaEditorMessages.properties,Jeff Johnston
+Fri Aug 13 18:05:47 2021,IJavaEditorActionConstants.java,Jeff Johnston
+Fri Aug 13 18:05:47 2021,JavaEditor.java,Jeff Johnston
+Fri Aug 13 18:05:47 2021,IJavaEditorActionDefinitionIds.java,Jeff Johnston

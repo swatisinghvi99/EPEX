@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Wed Sep  5  1:50:47 2018,AddTechnicalUserInit.java,Erle Czar Mantos
+Wed Sep  5  1:50:47 2018,AuthorizationTokenFilter.java,Erle Czar Mantos
+Wed Sep  5  1:50:47 2018,JwtToken.java,Erle Czar Mantos
+Wed Sep  5  1:50:47 2018,JwtTokenUserInfoServices.java,Erle Czar Mantos
+Wed Sep  5  1:50:47 2018,JwtVerifyAndIdStrategy.java,Erle Czar Mantos
+Wed Sep  5  1:50:47 2018,AbstractVerifyAndIdStrategy.java,Erle Czar Mantos
+Wed Sep  5  1:50:47 2018,CiamUserStrategy.java,Erle Czar Mantos
+Wed Sep  5  1:50:47 2018,KeycloakUserStrategy.java,Erle Czar Mantos
+Wed Sep  5  1:50:47 2018,PublicKeyHelper.java,Erle Czar Mantos
+Wed Sep  5  1:50:47 2018,VerificationHelper.java,Erle Czar Mantos
+Wed Sep  5  1:50:47 2018,Key.java,Erle Czar Mantos
+Wed Sep  5  1:50:47 2018,Keys.java,Erle Czar Mantos
+Wed Sep  5  1:50:47 2018,PublicKeyHelperTest.java,Erle Czar Mantos
+Wed Sep  5  1:50:47 2018,VerificationHelperTest.java,Erle Czar Mantos
+Wed Sep  5  3:57:33 2018,AddTechnicalUserInit.java,Erle Czar Mantos
+Fri Sep  7 13:21:03 2018,HomeController.java,Erle Czar Mantos
+Fri Sep  7 13:21:03 2018,application-local.yml,Erle Czar Mantos
+Fri Sep  7 13:21:03 2018,index.html,Erle Czar Mantos

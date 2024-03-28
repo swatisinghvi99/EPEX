@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Tue Apr 23 13:33:24 2019,GwtKapuaErrorCode.java,ct-anaalbic
+Tue Apr 23 13:33:24 2019,KapuaExceptionHandler.java,ct-anaalbic
+Tue Apr 23 13:33:24 2019,ValidationMessages.properties,ct-anaalbic
+Tue Apr 23 13:33:24 2019,KapuaErrorCodes.java,ct-anaalbic
+Tue Apr 23 13:33:24 2019,kapua-service-error-messages.properties,ct-anaalbic
+Tue Apr 23 13:33:24 2019,RoleServiceImpl.java,ct-anaalbic
+Thu Apr 25 13:17:41 2019,pom.xml,ct-anaalbic
+Thu Apr 25 13:17:41 2019,SplitTooltipStringUtil.java,ct-anaalbic
+Thu Apr 25 13:17:41 2019,SplitTooltipStringTest.java,ct-anaalbic
+Thu Apr 25 13:17:41 2019,DeviceEditDialog.java,ct-anaalbic
+Thu Apr 25 13:17:41 2019,UserEditDialog.java,ct-anaalbic
+Thu Apr 25 13:46:02 2019,DeviceConfigComponents.java,ct-anaalbic
+Thu Apr 25 13:46:02 2019,DeviceTabConfiguration.java,ct-anaalbic
+Mon May  6 13:28:10 2019,DeviceEditDialog.java,ct-anaalbic
+Mon May  6 13:28:10 2019,UserEditDialog.java,ct-anaalbic
+Wed May  8 13:24:13 2019,DeviceTabPackagesHistory.java,ct-anaalbic
+Wed May  8 13:24:13 2019,GwtKapuaDeviceModelConverter.java,ct-anaalbic
+Fri May 10 13:21:33 2019,LoginDialog.java,ct-anaalbic
+Fri May 10 13:21:33 2019,ConsoleInfo.java,ct-anaalbic

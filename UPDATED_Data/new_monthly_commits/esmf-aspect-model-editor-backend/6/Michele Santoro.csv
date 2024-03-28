@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Fri Sep  2 12:43:32 2022,pom.xml,Michele Santoro
+Fri Sep  2 12:43:32 2022,UrnNotFoundException.java,Michele Santoro
+Fri Sep  2 12:43:32 2022,LocalFolderResolverStrategy.java,Michele Santoro
+Fri Sep  2 12:43:32 2022,ModelResolverStrategy.java,Michele Santoro
+Fri Sep  2 12:43:32 2022,LocalFolderResolverUtils.java,Michele Santoro
+Fri Sep  2 12:43:32 2022,InMemoryStrategy.java,Michele Santoro
+Fri Sep  2 12:43:32 2022,GenerateService.java,Michele Santoro
+Fri Sep  2 12:43:32 2022,ModelService.java,Michele Santoro
+Fri Sep  2 12:43:32 2022,PackageService.java,Michele Santoro
+Fri Sep  2 12:43:32 2022,ModelUtils.java,Michele Santoro
+Fri Sep  2 12:43:32 2022,PackageResource.java,Michele Santoro
+Fri Sep  2 12:43:32 2022,LocalFolderResolverStrategyTest.java,Michele Santoro
+Fri Sep  2 12:43:32 2022,InMemoryOmpStrategyTest.java,Michele Santoro

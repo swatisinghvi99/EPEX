@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Fri Oct 13 19:53:22 2006,CommonUIPlugin.java,ahunter
+Fri Oct 13 19:53:22 2006,FileModificationValidator.java,ahunter
+Fri Oct 13 19:53:22 2006,UIModificationValidator.java,ahunter
+Fri Oct 13 19:54:26 2006,MANIFEST.MF,ahunter
+Fri Oct 13 19:54:26 2006,FontNameContributionItem.java,ahunter
+Fri Oct 13 19:54:26 2006,FontSizeContributionItem.java,ahunter
+Fri Oct 13 19:54:26 2006,PropertyChangeContributionItem.java,ahunter
+Fri Oct 13 21:44:24 2006,MANIFEST.MF,ahunter
+Fri Oct 13 21:44:24 2006,FileModificationApprover.java,ahunter
+Fri Oct 13 21:44:24 2006,ICommandWithSettableResult.java,ahunter
+Fri Oct 13 21:44:24 2006,MANIFEST.MF,ahunter
+Fri Oct 13 21:44:24 2006,AbstractTransactionalCommand.java,ahunter
+Fri Oct 13 21:44:24 2006,CompositeTransactionalCommand.java,ahunter
+Fri Oct 13 21:44:24 2006,MANIFEST.MF,ahunter
+Fri Oct 13 21:44:24 2006,FileModificationApproverTest.java,ahunter
+Fri Oct 13 21:56:22 2006,AbstractCommand.java,ahunter
+Wed Oct 18  0:14:53 2006,DiagramPrinter.java,ahunter
+Wed Oct 18  0:14:53 2006,CopyToImageUtil.java,ahunter

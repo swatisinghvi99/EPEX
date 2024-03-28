@@ -1,0 +1,77 @@
+[
+    [
+        "Lukas Jungmann",
+        "xml",
+        28
+    ],
+    [
+        "Lukas Jungmann",
+        "java",
+        1411
+    ],
+    [
+        "Lukas Jungmann",
+        "ManagedEndpointFactory",
+        2
+    ],
+    [
+        "Lukas Jungmann",
+        "TubelineAssemblerFactory",
+        2
+    ],
+    [
+        "Lukas Jungmann",
+        "PolicyResolverFactory",
+        2
+    ],
+    [
+        "Lukas Jungmann",
+        "EndpointReferenceExtensionContributor",
+        2
+    ],
+    [
+        "Lukas Jungmann",
+        "MetadataResolverFactory",
+        2
+    ],
+    [
+        "Lukas Jungmann",
+        "PolicyFeatureConfigurator",
+        2
+    ],
+    [
+        "Lukas Jungmann",
+        "PolicyMapConfigurator",
+        2
+    ],
+    [
+        "Lukas Jungmann",
+        "LoggingProvider",
+        2
+    ],
+    [
+        "Lukas Jungmann",
+        "PolicyAssertionCreator",
+        2
+    ],
+    [
+        "Lukas Jungmann",
+        "PolicyAssertionValidator",
+        2
+    ],
+    [
+        "Lukas Jungmann",
+        "PrefixMapper",
+        2
+    ],
+    [
+        "Lukas Jungmann",
+        "AlternativeSelector",
+        2
+    ],
+    [
+        "Lukas Jungmann",
+        "BindingContextFactory",
+        1
+    ]
+]

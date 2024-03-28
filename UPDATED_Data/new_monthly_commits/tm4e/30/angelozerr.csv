@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Tue Aug 21  2:06:38 2018,TextUtils.java,angelozerr
+Thu Aug 23 15:31:44 2018,plugin.xml,angelozerr
+Thu Aug 23 15:31:44 2018,LanguageConfigurationBracketMatchingReconciler.java,angelozerr
+Thu Aug 23 15:31:44 2018,LanguageConfigurationCharacterPairMatcher.java,angelozerr
+Fri Aug 24 10:32:23 2018,plugin.xml,angelozerr
+Fri Aug 24 10:32:23 2018,LanguageConfigurationBracketMatchingReconciler.java,angelozerr
+Fri Aug 24 10:32:23 2018,LanguageConfigurationBracketMatchingReconcilingStrategy.java,angelozerr
+Fri Aug 24 10:46:37 2018,ToggleLineCommentHandler.java,angelozerr

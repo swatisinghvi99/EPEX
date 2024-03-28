@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Wed Oct 19 20:42:14 2011,plugin.xml,Pawel Piech
+Wed Oct 19 20:42:14 2011,DebugCommandActionDelegate.java,Pawel Piech
+Wed Oct 19 20:42:14 2011,DisconnectCommandAction.java,Pawel Piech
+Wed Oct 19 20:42:14 2011,DropToFrameCommandAction.java,Pawel Piech
+Wed Oct 19 20:42:14 2011,SuspendCommandAction.java,Pawel Piech
+Thu Nov  3 22:36:51 2011,DebugUIPlugin.java,Pawel Piech
+Thu Nov  3 22:36:51 2011,RetargetBreakpointAction.java,Pawel Piech
+Fri Nov  4 21:13:48 2011,InternalTreeModelViewer.java,Pawel Piech
+Fri Nov  4 21:33:25 2011,Breakpoint.java,Pawel Piech
+Fri Nov  4 21:33:25 2011,BreakpointManager.java,Pawel Piech
+Tue Nov 15  6:24:16 2011,ColumnPresentationTests.java,Pawel Piech
+Tue Nov 15  6:24:16 2011,InternalTreeModelViewer.java,Pawel Piech

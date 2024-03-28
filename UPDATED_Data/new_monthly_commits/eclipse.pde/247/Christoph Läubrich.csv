@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Mon Nov 29 16:54:53 2021,MANIFEST.MF,Christoph Läubrich
+Mon Nov 29 16:54:53 2021,plugin.xml,Christoph Läubrich
+Mon Nov 29 16:54:53 2021,pom.xml,Christoph Läubrich
+Mon Nov 29 16:54:53 2021,Messages.java,Christoph Läubrich
+Mon Nov 29 16:54:53 2021,Messages.properties,Christoph Läubrich
+Mon Nov 29 16:54:53 2021,P2TargetUtils.java,Christoph Läubrich
+Mon Nov 29 16:54:53 2021,RemoteTargetHandle.java,Christoph Läubrich
+Mon Nov 29 16:54:53 2021,TargetPlatformService.java,Christoph Läubrich
+Mon Nov 29 16:54:53 2021,TargetReferenceBundleContainer.java,Christoph Läubrich
+Mon Nov 29 16:54:53 2021,TargetRefrenceLocationFactory.java,Christoph Läubrich
+Mon Nov 29 16:54:53 2021,plugin.xml,Christoph Läubrich
+Mon Nov 29 16:54:53 2021,PDEPlugin.java,Christoph Läubrich
+Mon Nov 29 16:54:53 2021,EditTargetContainerPage.java,Christoph Läubrich
+Mon Nov 29 16:54:53 2021,Messages.java,Christoph Läubrich
+Mon Nov 29 16:54:53 2021,TargetReferenceBundleContainerAdapterFactory.java,Christoph Läubrich
+Mon Nov 29 16:54:53 2021,TargetReferenceLocationWizard.java,Christoph Läubrich
+Mon Nov 29 16:54:53 2021,messages.properties,Christoph Läubrich
+Fri Dec 10  5:56:52 2021,ManifestEditor.java,Christoph Läubrich
+Fri Dec 17 10:10:44 2021,AddBundleContainerSelectionPage.java,Christoph Läubrich
+Tue Dec 21 16:22:07 2021,TargetWeaver.java,Christoph Läubrich
+Wed Dec 22 12:12:24 2021,Messages.properties,Christoph Läubrich
+Wed Dec 22 12:12:24 2021,TargetPlatformService.java,Christoph Läubrich

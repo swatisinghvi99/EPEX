@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Thu Jun 15  8:48:55 2017,MANIFEST.MF,Matthias Becker
+Thu Jun 15  8:48:55 2017,TabbedPropertyViewPlugin.java,Matthias Becker
+Thu Jun 15  8:48:55 2017,SectionDescriptor.java,Matthias Becker
+Thu Jun 15  8:48:55 2017,TabDescriptor.java,Matthias Becker
+Thu Jun 15  8:48:55 2017,TabbedPropertyRegistry.java,Matthias Becker
+Thu Jun 15  8:48:55 2017,AbstractTabDescriptor.java,Matthias Becker
+Wed Jun 21 12:47:04 2017,MANIFEST.MF,Matthias Becker
+Wed Jun 21 12:47:04 2017,MANIFEST.MF,Matthias Becker
+Wed Jun 21 12:47:04 2017,e4-dark_globalstyle.css,Matthias Becker
+Wed Jun 21 12:47:04 2017,MANIFEST.MF,Matthias Becker
+Wed Jun 21 12:47:04 2017,plugin.xml,Matthias Becker
+Wed Jun 21 12:47:04 2017,TabbedPropertyElementProvider.java,Matthias Becker
+Wed Jun 21 12:47:04 2017,TabbedPropertyListAdapter.java,Matthias Becker
+Wed Jun 21 12:47:04 2017,TabbedPropertyListCssPropertyHandler.java,Matthias Becker
+Wed Jun 21 12:47:04 2017,TabbedPropertyTitleAdapter.java,Matthias Becker
+Wed Jun 21 12:47:04 2017,TabbedPropertyTitleCssPropertyHandler.java,Matthias Becker
+Wed Jun 21 12:47:04 2017,TabbedPropertyList.java,Matthias Becker
+Wed Jun 21 12:47:04 2017,TabbedPropertyTitle.java,Matthias Becker
+Wed Jun 21 12:47:04 2017,MANIFEST.MF,Matthias Becker
+Wed Jun 21 12:47:04 2017,CssSwtTestSuite.java,Matthias Becker
+Wed Jun 21 12:47:04 2017,TabbedPropertiesListTest.java,Matthias Becker
+Wed Jun 21 12:47:04 2017,TabbedPropertiesTitleTest.java,Matthias Becker

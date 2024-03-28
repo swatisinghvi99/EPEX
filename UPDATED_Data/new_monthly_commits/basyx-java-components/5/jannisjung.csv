@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Thu Mar 17  7:24:39 2022,BaSyxAASServerConfiguration.java,jannisjung
+Thu Mar 17  7:24:39 2022,aas.properties,jannisjung
+Thu Mar 17  7:24:39 2022,aas_multiple_different_source.properties,jannisjung
+Thu Mar 17  7:24:39 2022,aas_single_json_source.properties,jannisjung
+Thu Mar 17  7:24:39 2022,aas_single_source.properties,jannisjung
+Thu Mar 17  7:24:39 2022,BaSyxRegistryConfiguration.java,jannisjung
+Thu Mar 17  7:24:39 2022,registry.properties,jannisjung
+Thu Mar 17  7:24:39 2022,TestTaggedDirectoryComponent.java,jannisjung
+Thu Mar 17  7:24:39 2022,TestTaggedDirectoryRaw.java,jannisjung

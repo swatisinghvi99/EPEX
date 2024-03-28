@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Tue Jul 31 14:31:22 2007,WebServiceViewerSynchronization.java,cbridgha
+Tue Jul 31 14:31:22 2007,WebServicesManager.java,cbridgha
+Thu Aug  9  0:44:12 2007,EnterpriseArtifactEdit.java,cbridgha
+Thu Aug  9  0:44:24 2007,JEE5LegacyModelTest.java,cbridgha
+Thu Aug  9  0:50:48 2007,ModelProviderTest.java,cbridgha
+Thu Aug  9  0:51:00 2007,J2EEConstants.java,cbridgha
+Thu Aug  9  0:51:00 2007,Web25ModelProvider.java,cbridgha
+Thu Aug  9  0:51:00 2007,AppClient5ModelProvider.java,cbridgha
+Thu Aug  9  0:51:00 2007,EAR5ModelProvider.java,cbridgha
+Thu Aug  9  0:51:00 2007,JEE5ModelProvider.java,cbridgha
+Thu Aug  9  0:51:11 2007,Ejb3ModelProvider.java,cbridgha
+Sat Aug 11 15:27:09 2007,ConnectorComponentLoadStrategyImpl.java,cbridgha
+Sat Aug 11 15:27:09 2007,WebComponentLoadStrategyImpl.java,cbridgha
+Sat Aug 11 15:27:09 2007,AppClientComponentLoadStrategyImpl.java,cbridgha
+Sat Aug 11 15:27:09 2007,ComponentLoadStrategyImpl.java,cbridgha
+Sat Aug 11 15:27:09 2007,EARComponentLoadStrategyImpl.java,cbridgha
+Sat Aug 11 15:27:09 2007,EnterpriseArtifactEdit.java,cbridgha
+Sat Aug 11 15:27:09 2007,JEE5ModelProvider.java,cbridgha
+Sat Aug 11 15:27:21 2007,EJBComponentLoadStrategyImpl.java,cbridgha
+Sat Aug 11 15:27:21 2007,EJBArtifactEdit.java,cbridgha
+Sat Aug 11 15:27:32 2007,JEEProjectCreationDataModelVerifier.java,cbridgha

@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Wed Aug  9 11:45:50 2017,MANIFEST.MF,Roland Bary
+Wed Aug  9 11:45:50 2017,build.properties,Roland Bary
+Wed Aug  9 11:45:50 2017,log4j.properties,Roland Bary
+Wed Aug  9 11:45:50 2017,plugin.xml,Roland Bary
+Wed Aug  9 11:45:50 2017,UsageMonitoringFileAppender.java,Roland Bary
+Wed Aug  9 11:45:50 2017,UsageFormatter.java,Roland Bary
+Wed Aug  9 11:45:50 2017,UsageLogger.java,Roland Bary
+Wed Aug  9 11:45:50 2017,UsageMonitoring.java,Roland Bary
+Wed Aug  9 11:45:50 2017,ReportManagerConstants.java,Roland Bary
+Wed Aug  9 11:45:50 2017,CreateXmlConfiguration.java,Roland Bary
+Wed Aug  9 11:45:50 2017,ReportManagerRegistry.java,Roland Bary
+Wed Aug  9 11:45:50 2017,IReportManagerDefaultComponents.java,Roland Bary

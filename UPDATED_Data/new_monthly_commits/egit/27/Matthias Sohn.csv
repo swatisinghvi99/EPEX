@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Tue Nov 29  0:34:07 2011,CommitGraphTable.java,Matthias Sohn
+Wed Nov 30 14:51:18 2011,UIText.java,Matthias Sohn
+Wed Nov 30 14:51:18 2011,EGitCredentialsProvider.java,Matthias Sohn
+Wed Nov 30 14:51:18 2011,uitext.properties,Matthias Sohn
+Thu Dec  1 23:18:15 2011,GitURITest.java,Matthias Sohn
+Thu Dec  1 23:18:15 2011,GitURI.java,Matthias Sohn
+Sun Dec  4 17:13:06 2011,UIText.java,Matthias Sohn
+Sun Dec  4 17:13:06 2011,ReflogView.java,Matthias Sohn
+Sun Dec  4 17:13:06 2011,uitext.properties,Matthias Sohn
+Sun Dec  4 17:13:07 2011,ReflogView.java,Matthias Sohn
+Thu Dec  8 23:00:47 2011,CoreText.java,Matthias Sohn
+Thu Dec  8 23:00:47 2011,coretext.properties,Matthias Sohn
+Thu Dec  8 23:00:47 2011,MergeOperation.java,Matthias Sohn
+Fri Dec  9  0:41:38 2011,AbstractReflogCommandHandler.java,Matthias Sohn
+Fri Dec  9  0:41:38 2011,CheckoutHandler.java,Matthias Sohn
+Fri Dec  9 16:49:49 2011,plugin.properties,Matthias Sohn
+Fri Dec  9 16:49:49 2011,plugin.xml,Matthias Sohn
+Fri Dec  9 16:49:49 2011,OpenInCommitViewerHandler.java,Matthias Sohn
+Mon Dec 12 23:30:45 2011,ProjectUtil.java,Matthias Sohn

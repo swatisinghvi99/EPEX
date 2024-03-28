@@ -1,0 +1,312 @@
+date_time,file,committer_name
+Tue Sep 10  7:58:47 2019,AbstractStateSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ChangeEventSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,StateEventSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,StateSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,StateTransitionSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,TimeEventSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,AbstractTraceSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,BooleanPropertyValueSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,CapellaElementSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ConstraintSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,EnumerationPropertyValueSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,FloatPropertyValueSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,GeneralizableElementSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,IntegerPropertyValueSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,KeyValueSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,NamedElementSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,StringPropertyValueSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,TypedElementSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ComponentSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ExchangeItemAllocationSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,InterfaceImplementationSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,InterfaceSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,InterfaceUseSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,PartSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,PhysicalLinkCategorySection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,PhysicalLinkSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,PhysicalPathSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,PhysicalPortSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,CapabilitySection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,MissionSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,SystemComponentSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ConfigurationItemSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,AbstractFunctionSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ComponentExchangeAllocatorSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ComponentExchangeCategorySection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ComponentExchangeSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ComponentPortSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ControlNodeSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ExchangeCategorySection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,FunctionInputPortSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,FunctionOutputPortSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,FunctionalChainInvolvementLinkSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,FunctionalChainReferenceSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,FunctionalChainSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,FunctionalExchangeSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,SequenceLinkSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,CommunicationItemSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,CommunicationLinkSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,BooleanTypeSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,DataTypeSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,EnumerationSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,NumericTypeSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,PhysicalQuantitySection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,StringTypeSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,BinaryExpressionSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,DataValueReferenceSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,DataValueSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,EnumerationLiteralSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,LiteralBooleanValueSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,LiteralNumericValueSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,LiteralStringValueSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,NumericReferenceSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,OpaqueExpressionSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,UnaryExpressionSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ValuePartSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,AssociationSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ClassSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,CollectionSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ExchangeItemElementSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ExchangeItemSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,MultiplicityElementSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ParameterSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,PortSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,PropertySection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ServiceSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,UnionPropertySection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,UnionSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,AbstractCapabilitySection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,CombinedFragmentSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ConstraintDurationSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,InstanceRoleSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,InteractionOperandSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,InteractionUseSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,ScenarioSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,SequenceMessageSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,StateFragmentSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,CapabilityRealizationSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,LogicalComponentSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,CommunicationMeanSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,EntitySection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,OperationalCapabilitySection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,RoleSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,PhysicalComponentSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,RequirementSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,RequirementsPkgSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,DescriptionPropertySection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,DiagramDescriptionPropertySection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,AbstractSection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,CapellaExtensionsPropertySection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,CapellaManagementPropertySection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,DiagramManagementPropertySection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,DiagramRepresentationPropertySection.java,Felix Dorner
+Tue Sep 10  7:58:47 2019,CapellaDescriptionPropertySectionMock.java,Felix Dorner
+Tue Sep 10  7:59:07 2019,NamedElementSection.java,Felix Dorner
+Tue Sep 10  8:36:56 2019,FixedTabDescriptorProvider.java,Felix Dorner
+Tue Sep 10  9:03:49 2019,plugin.properties,Felix Dorner
+Tue Sep 10  9:03:49 2019,plugin.properties,Felix Dorner
+Tue Sep 10  9:03:49 2019,ActivityExplorerActionProvider.java,Felix Dorner
+Tue Sep 10  9:03:49 2019,messages.properties,Felix Dorner
+Tue Sep 10  9:03:49 2019,CapellaEmbeddedLinkedTextEditor.java,Felix Dorner
+Tue Sep 10  9:03:49 2019,ISemanticModelPreferences.java,Felix Dorner
+Tue Sep 10  9:03:49 2019,plugin.properties,Felix Dorner
+Tue Sep 10  9:03:49 2019,plugin.xml,Felix Dorner
+Tue Sep 10  9:03:49 2019,LocateInCapellaExplorerAction.java,Felix Dorner
+Tue Sep 10  9:03:49 2019,messages.properties,Felix Dorner
+Tue Sep 10  9:03:49 2019,LocateInCapellaExplorerHandler.java,Felix Dorner
+Tue Sep 10  9:03:49 2019,ExplorerLongRunningOperationsListener.java,Felix Dorner
+Tue Sep 10  9:03:49 2019,messages.properties,Felix Dorner
+Tue Sep 10  9:03:49 2019,CapellaCommonNavigator.java,Felix Dorner
+Tue Sep 10  9:03:49 2019,CapellaSaveSessionRunnable.java,Felix Dorner
+Tue Sep 10  9:03:49 2019,CapellaPerspective.java,Felix Dorner
+Tue Sep 10  9:03:49 2019,messages.properties,Felix Dorner
+Tue Sep 10  9:03:49 2019,plugin.properties,Felix Dorner
+Tue Sep 10  9:03:49 2019,API_1.3.x_to_1.4.x.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,API_1.3.x_to_1.4.x.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,GitAdapter.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,GitAdapter.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,8.3. Update REC-RPL.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,8.3. Update REC-RPL.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,Functional Analysis to Interface Engineering.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,Functional Analysis to Interface Engineering.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,Basic Constructs.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,Basic Constructs.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,Interfaces and Data Modeling.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,Performance Recommandations.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,Performance Recommandations.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,15_Navigation Menu.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,15_Navigation Menu.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,16_Mass Editing and Visualization.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,16_Mass Editing and Visualization.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,6_Diagram exploration.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,6_Diagram exploration.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,2.1. Definitions.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,2.1. Definitions.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,6.1. Configurability and Validation Profile.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,6.1. Configurability and Validation Profile.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,3.2. How to create a new Capella Project.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,3.2. How to create a new Capella Project.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,3.3. How to import an existing Capella Project.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,3.3. How to import an existing Capella Project.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,4.01. Capella Perspective.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,4.01. Capella Perspective.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,4.04. Project Explorer.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,4.04. Project Explorer.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,4.11. FastLinker.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,4.11. FastLinker.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,4.12.TransferView.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,4.12.TransferView.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,Status Line.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,Status Line.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,5.1. Diagram concepts.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,5.1. Diagram concepts.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,7.3. Modeling Wizards.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,7.3. Modeling Wizards.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,20.1. Basic Search and Replace.html,Felix Dorner
+Tue Sep 10  9:03:49 2019,20.1. Basic Search and Replace.mediawiki,Felix Dorner
+Tue Sep 10  9:03:49 2019,toc.xml,Felix Dorner
+Tue Sep 10  9:03:49 2019,messages.properties,Felix Dorner
+Tue Sep 10  9:03:49 2019,CapellaUIExtender.java,Felix Dorner
+Tue Sep 10  9:03:49 2019,migration1.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,migration2.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,migration3.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,migration4.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,migration5.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,migration6.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,NavigatorFilterClasses.java,Felix Dorner
+Tue Sep 10  9:03:49 2019,PartIcon.java,Felix Dorner
+Tue Sep 10  9:03:49 2019,DiagramCreation.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,DiagramViewer.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,MoveRepresentationInActivityExplorer.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,OpenClose.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,PreferenceModification.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,SessionCloseAfterRestart.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,SessionSwitch.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,ViewPointSelection.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,ConstraintCtrlSpace.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,Guard_MSM_diagram.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,Guard_Operand_FS_diagram.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,NamedConstraint.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,NoConstraint.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,NoLinkedText.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,NoOpaqueExpression.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,Pre_Post_Conditions_FS_diagram.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,Sequence_Message_Exchange_Context.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,CopyPasteNoDuplicatedElements.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,CopyPasteWithZoom.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,CutDiagramElements.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,DiffMergeOptions.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,DiffMergeTwoFragmentedModels.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,DiffMergeTwoImportedModels.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,LocalFragmentedModel.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,DragnDropCapellaElement.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,DragnDropClassDiagram.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,ExchangeItemScenario.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,FastLinker.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,DeleteSystemFunction.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,ProgressMonitoringOverview.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,ShowHide_HideAll_SystemFunctions.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,ShowHide_ShowAll_SystemFunctions.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,ShowImpactAnalysis.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,CheckFilters.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,InterfaceDelegation.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,SequenceMessageProtocol.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,AccessPolicyRecRpl.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,CloseDelete.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,MEDragAndDrop.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,MVDragAndDrop.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,MESendToFromDiagram.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,MESendToFromProjectExplorer.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,MVSendToFromDiagram.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,MVSendToFromProjectExplorer.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,MoveRepresentation.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,NavigationMenu.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,ShowInDiagramEditor.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,CheckAFMFilePresenceAfterMigration.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,TriggerEvent.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,ApplyPattern.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,CheckAndUpdatePattern.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,CreatePattern.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,FoldUnfoldPattern.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,MultiApplyPatternFromAnotherProject.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,CheckClosedEditorsWithSessionClose.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,DiagramVisibileInExplorerAfterCreation.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,LocatedElementIsFilteredInCapellaExplorer.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,LocatedElementIsFilteredInCapellaExplorer_GoTo.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,OpenDiagramRepresentationPerCategory.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,QuickFiltersMenuTest.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,RenameAirdFile.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,RenameCapellaProject.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,DescriptionSearchStep1.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,DescriptionSearchStep2.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,DoNotMatchSearch.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,FocusSearch.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,SearchWithOptions.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,SimpleSearchStep1.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,SimpleSearchStep2.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,FragmentedModel.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,RecRpl.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,RecRplSetSuffix.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,RepresentationElementsOfInterest.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,RepresentationPackage.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,SearchAndReplace.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,SemanticBrowserDoubleClickOnElement.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,SemanticBrowserHistory.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,SemanticBrowserSelection.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,SemanticBrowserShowIn.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,FunctionalExchangeWhenAllocationWithoutTarget.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,LifelineDeletion.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,PrePostConditionDeletionImpactAnalysis.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,RefreshAllSubRepresentations_Complex.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,RefreshAllSubRepresentations_Empty.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,RefreshAllSubRepresentations_Simple.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,TransitionUI.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,ProjectConfiguration.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,DetachVP.test,Felix Dorner
+Tue Sep 10  9:03:49 2019,PropertyValuesDetachment.test,Felix Dorner
+Wed Sep 11  8:01:51 2019,PropertiesSection.java,Felix Dorner
+Wed Sep 11  8:01:51 2019,CapellaDescriptionPropertySection.java,Felix Dorner
+Wed Sep 11  8:01:51 2019,DiagramDescriptionPropertySection.java,Felix Dorner
+Wed Sep 11  8:01:51 2019,DescriptionPropertySection.java,Felix Dorner
+Wed Sep 11  8:01:51 2019,AbstractSection.java,Felix Dorner
+Wed Sep 11  8:01:51 2019,CapellaExtensionsPropertySection.java,Felix Dorner
+Wed Sep 11  8:01:51 2019,CapellaManagementPropertySection.java,Felix Dorner
+Wed Sep 11  8:01:51 2019,DiagramManagementPropertySection.java,Felix Dorner
+Wed Sep 11  8:01:51 2019,DiagramRepresentationPropertySection.java,Felix Dorner
+Wed Sep 11  8:01:51 2019,AbstractDelegatedViewer.java,Felix Dorner
+Wed Sep 11  8:01:51 2019,EditCapellaCustomPropertyWizardPage.java,Felix Dorner
+Wed Sep 11 12:18:01 2019,plugin.xml,Felix Dorner
+Wed Sep 11 12:18:01 2019,JustificationLinkSection.java,Felix Dorner
+Wed Sep 11 12:18:01 2019,StateEventRealizationSection.java,Felix Dorner
+Wed Sep 11 12:18:01 2019,plugin.xml,Felix Dorner
+Wed Sep 11 12:18:01 2019,plugin.xml,Felix Dorner
+Wed Sep 11 12:18:01 2019,PhysicalLinkRealizationSection.java,Felix Dorner
+Wed Sep 11 12:18:01 2019,PhysicalPathRealizationSection.java,Felix Dorner
+Wed Sep 11 12:18:01 2019,PhysicalPortRealizationSection.java,Felix Dorner
+Wed Sep 11 12:18:01 2019,plugin.xml,Felix Dorner
+Wed Sep 11 12:18:01 2019,plugin.xml,Felix Dorner
+Wed Sep 11 12:18:01 2019,plugin.xml,Felix Dorner
+Wed Sep 11 12:18:01 2019,plugin.xml,Felix Dorner
+Wed Sep 11 12:18:01 2019,plugin.xml,Felix Dorner
+Wed Sep 11 12:18:01 2019,plugin.xml,Felix Dorner
+Wed Sep 11 12:18:01 2019,OpaqueExpressionSection.java,Felix Dorner
+Wed Sep 11 12:18:01 2019,plugin.xml,Felix Dorner
+Wed Sep 11 12:18:01 2019,plugin.xml,Felix Dorner
+Wed Sep 11 12:18:01 2019,plugin.xml,Felix Dorner
+Wed Sep 11 12:18:01 2019,plugin.xml,Felix Dorner
+Wed Sep 11 12:18:01 2019,ProjectSection.java,Felix Dorner
+Wed Sep 11 12:18:01 2019,plugin.xml,Felix Dorner
+Wed Sep 11 12:18:01 2019,plugin.xml,Felix Dorner
+Wed Sep 11 12:18:01 2019,plugin.xml,Felix Dorner
+Wed Sep 11 12:18:01 2019,plugin.xml,Felix Dorner
+Wed Sep 11 12:18:01 2019,plugin.xml,Felix Dorner
+Wed Sep 11 12:18:01 2019,CapellaUIPropertiesPlugin.java,Felix Dorner
+Wed Sep 11 12:18:01 2019,AbstractSection.java,Felix Dorner
+Wed Sep 11 12:18:01 2019,CustomPropertyHelper.java,Felix Dorner
+Wed Sep 11 12:18:01 2019,CustomWizardHandler.java,Felix Dorner
+Wed Sep 11 12:18:01 2019,EditCapellaCustomPropertyWizard.java,Felix Dorner
+Wed Sep 11 12:18:01 2019,EditCapellaCustomPropertyWizardPage.java,Felix Dorner
+Wed Sep 11 12:18:01 2019,OpenCustomWizardCommand.java,Felix Dorner
+Wed Sep 11 12:18:01 2019,PropertyViewsTest.java,Felix Dorner
+Wed Sep 11 12:18:01 2019,FinishOnPropertyWizard.java,Felix Dorner

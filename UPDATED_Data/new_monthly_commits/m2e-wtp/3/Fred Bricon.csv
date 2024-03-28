@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Fri Aug 17 14:05:41 2012,AppClientProjectConverter.java,Fred Bricon
+Fri Aug 17 14:05:41 2012,ConnectorProjectConverter.java,Fred Bricon
+Fri Aug 17 14:05:41 2012,EarProjectConverter.java,Fred Bricon
+Fri Aug 17 14:05:41 2012,EjbProjectConverter.java,Fred Bricon
+Fri Aug 17 14:05:41 2012,WebProjectConverter.java,Fred Bricon
+Thu Sep  6 17:09:07 2012,plugin.xml,Fred Bricon
+Thu Sep  6 17:09:07 2012,MavenWtpPreferencePage.java,Fred Bricon
+Fri Sep  7 13:57:17 2012,fixupdate.groovy,Fred Bricon

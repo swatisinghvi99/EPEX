@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Fri Apr  5 19:50:56 2019,DepositIT.java,Jim Martino
+Fri Apr  5 19:50:56 2019,JarRunner.java,Jim Martino
+Fri Apr  5 19:50:56 2019,BatchJournalFinder.java,Jim Martino
+Fri Apr  5 19:50:56 2019,JournalFinder.java,Jim Martino
+Fri Apr  5 19:50:56 2019,JournalReader.java,Jim Martino
+Fri Apr  5 19:50:56 2019,JournalRecord.java,Jim Martino
+Fri Apr  5 19:50:56 2019,LoaderEngine.java,Jim Martino
+Fri Apr  5 19:50:56 2019,LogUtil.java,Jim Martino
+Fri Apr  5 19:50:56 2019,Main.java,Jim Martino
+Fri Apr  5 19:50:56 2019,MedlineReader.java,Jim Martino
+Fri Apr  5 19:50:56 2019,NihTypeAReader.java,Jim Martino
+Fri Apr  5 19:50:56 2019,PMCSource.java,Jim Martino
+Fri Apr  5 19:50:56 2019,BatchJournalFinderTest.java,Jim Martino
+Fri Apr  5 19:50:56 2019,LoaderEngineTest.java,Jim Martino
+Fri Apr  5 19:50:56 2019,MedlineReaderTest.java,Jim Martino
+Fri Apr  5 19:50:56 2019,NihTypeAReaderTest.java,Jim Martino
+Fri Apr  5 19:50:56 2019,journals.nt,Jim Martino
+Fri Apr  5 19:50:56 2019,moreJournals.nt,Jim Martino
+Fri Apr  5 19:50:56 2019,pom.xml,Jim Martino

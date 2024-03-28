@@ -1,0 +1,40 @@
+date_time,file,committer_name
+Sun Oct  4 22:51:36 2020,HttpClientGetPortFromURLTest.java,slewis
+Sun Oct  4 22:51:36 2020,ECF Filetransfer Tests- Httpclient45.launch,slewis
+Sun Oct  4 22:51:36 2020,FileBrowseTest.java,slewis
+Sun Oct  4 22:51:36 2020,URLRetrieveTestWithCustomJob.java,slewis
+Mon Oct  5  0:22:12 2020,HttpClientGetPortFromURLTest.java,slewis
+Mon Oct  5  0:22:12 2020,ECF Filetransfer Tests- Httpclient45.launch,slewis
+Sun Oct 25 22:26:58 2020,ChannelEndpointImpl.java,slewis
+Sun Oct 25 22:26:58 2020,MANIFEST.MF,slewis
+Sun Oct 25 22:26:58 2020,pom.xml,slewis
+Sun Oct 25 22:26:58 2020,R_OSGiRemoteServiceContainer.java,slewis
+Mon Oct 26 20:20:03 2020,MANIFEST.MF,slewis
+Mon Oct 26 20:20:03 2020,pom.xml,slewis
+Mon Oct 26 20:20:03 2020,EndpointDescriptionReader.java,slewis
+Mon Oct 26 23:56:06 2020,.api_filters,slewis
+Mon Oct 26 23:56:06 2020,MANIFEST.MF,slewis
+Mon Oct 26 23:56:06 2020,pom.xml,slewis
+Mon Oct 26 23:56:06 2020,EndpointDescriptionLocator.java,slewis
+Mon Oct 26 23:56:06 2020,EndpointDescriptionReader.java,slewis
+Mon Oct 26 23:56:06 2020,IEndpointDescriptionReader.java,slewis
+Tue Oct 27  0:18:55 2020,IEndpointDescriptionReader.java,slewis
+Tue Oct 27  0:35:45 2020,.classpath,slewis
+Tue Oct 27  0:35:45 2020,.api_filters,slewis
+Tue Oct 27  0:35:45 2020,org.eclipse.jdt.core.prefs,slewis
+Tue Oct 27  0:35:45 2020,MANIFEST.MF,slewis
+Tue Oct 27  0:35:45 2020,EndpointDescriptionLocator.java,slewis
+Tue Oct 27  0:35:45 2020,EndpointDescriptionWriter.java,slewis
+Tue Oct 27  0:35:45 2020,ITopologyManager.java,slewis
+Tue Oct 27  0:35:45 2020,RemoteServiceAdmin.java,slewis
+Tue Oct 27  0:35:45 2020,TopologyManagerImpl.java,slewis
+Tue Oct 27  5:47:25 2020,.api_filters,slewis
+Tue Oct 27  5:47:25 2020,IDFactory.java,slewis
+Tue Oct 27  5:47:25 2020,LongID.java,slewis
+Tue Oct 27  5:47:25 2020,.project,slewis
+Tue Oct 27  5:47:25 2020,ClassResolverObjectInputStream.java,slewis
+Tue Oct 27  5:50:12 2020,Trace.java,slewis
+Sun Nov  1  6:14:42 2020,MANIFEST.MF,slewis
+Sun Nov  1  6:14:42 2020,pom.xml,slewis
+Sun Nov  1  6:14:42 2020,EndpointDescriptionLocator.java,slewis
+Mon Nov  2  4:20:03 2020,PropertiesUtil.java,slewis

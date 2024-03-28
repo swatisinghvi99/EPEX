@@ -1,0 +1,602 @@
+[
+    [
+        "Ha\u030avard Ottestad",
+        "java",
+        443
+    ],
+    [
+        "Ha\u030avard Ottestad",
+        "rq",
+        191
+    ],
+    [
+        "Ha\u030avard Ottestad",
+        "ttl",
+        25
+    ],
+    [
+        "Ha\u030avard Ottestad",
+        "xml",
+        10
+    ],
+    [
+        "Jerven Bolleman",
+        "java",
+        2
+    ],
+    [
+        "Andreas Schwarte",
+        "xml",
+        1
+    ],
+    [
+        "Andreas Schwarte",
+        "java",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "java",
+        3622
+    ],
+    [
+        "Jeen Broekstra",
+        "json",
+        2356
+    ],
+    [
+        "Jeen Broekstra",
+        "md",
+        1827
+    ],
+    [
+        "Jeen Broekstra",
+        "toml",
+        6
+    ],
+    [
+        "Jeen Broekstra",
+        "html",
+        150
+    ],
+    [
+        "Jeen Broekstra",
+        "unknown",
+        1269
+    ],
+    [
+        "Jeen Broekstra",
+        "js",
+        12827
+    ],
+    [
+        "Jeen Broekstra",
+        "bowerrc",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "npmignore",
+        190
+    ],
+    [
+        "Jeen Broekstra",
+        "txt",
+        4498
+    ],
+    [
+        "Jeen Broekstra",
+        "css",
+        1817
+    ],
+    [
+        "Jeen Broekstra",
+        "map",
+        3015
+    ],
+    [
+        "Jeen Broekstra",
+        "svg",
+        282
+    ],
+    [
+        "Jeen Broekstra",
+        "less",
+        853
+    ],
+    [
+        "Jeen Broekstra",
+        "jade",
+        4
+    ],
+    [
+        "Jeen Broekstra",
+        "scss",
+        225
+    ],
+    [
+        "Jeen Broekstra",
+        "styl",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "whitelist",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "jshintrc",
+        27
+    ],
+    [
+        "Jeen Broekstra",
+        "jst",
+        101
+    ],
+    [
+        "Jeen Broekstra",
+        "ts",
+        93
+    ],
+    [
+        "Jeen Broekstra",
+        "def",
+        20
+    ],
+    [
+        "Jeen Broekstra",
+        "yml",
+        199
+    ],
+    [
+        "Jeen Broekstra",
+        "editorconfig",
+        27
+    ],
+    [
+        "Jeen Broekstra",
+        "eslintrc",
+        34
+    ],
+    [
+        "Jeen Broekstra",
+        "DOCS",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "lock",
+        4
+    ],
+    [
+        "Jeen Broekstra",
+        "sh",
+        7
+    ],
+    [
+        "Jeen Broekstra",
+        "flow",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "mkd",
+        3
+    ],
+    [
+        "Jeen Broekstra",
+        "coffee",
+        20
+    ],
+    [
+        "Jeen Broekstra",
+        "opts",
+        5
+    ],
+    [
+        "Jeen Broekstra",
+        "markdown",
+        24
+    ],
+    [
+        "Jeen Broekstra",
+        "md~",
+        4
+    ],
+    [
+        "Jeen Broekstra",
+        "ls",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "patch",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "BSD",
+        7
+    ],
+    [
+        "Jeen Broekstra",
+        "1",
+        7
+    ],
+    [
+        "Jeen Broekstra",
+        "lint",
+        7
+    ],
+    [
+        "Jeen Broekstra",
+        "in",
+        3
+    ],
+    [
+        "Jeen Broekstra",
+        "jscsrc",
+        4
+    ],
+    [
+        "Jeen Broekstra",
+        "buildpath",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "project",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "prefs",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "xml",
+        6
+    ],
+    [
+        "Jeen Broekstra",
+        "nycrc",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "babelrc",
+        4
+    ],
+    [
+        "Jeen Broekstra",
+        "testignore",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "pem",
+        7
+    ],
+    [
+        "Jeen Broekstra",
+        "targ",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "conf",
+        5
+    ],
+    [
+        "Jeen Broekstra",
+        "bak",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "eslintignore",
+        7
+    ],
+    [
+        "Jeen Broekstra",
+        "nvmrc",
+        4
+    ],
+    [
+        "Jeen Broekstra",
+        "jshintignore",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "jsbeautifyrc",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "info",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "el",
+        3
+    ],
+    [
+        "Jeen Broekstra",
+        "tmpl",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "test",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "h",
+        50
+    ],
+    [
+        "Jeen Broekstra",
+        "gypi",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "py",
+        49
+    ],
+    [
+        "Jeen Broekstra",
+        "settings",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "cc",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "bat",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "pbfilespec",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "xclangspec",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "gyp",
+        3
+    ],
+    [
+        "Jeen Broekstra",
+        "fontified",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "cs",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "bnf",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "crt",
+        3
+    ],
+    [
+        "Jeen Broekstra",
+        "key",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "prettierrc",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "plist",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "rtf",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "cpp",
+        67
+    ],
+    [
+        "Jeen Broekstra",
+        "gitattributes",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "am",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "ac",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "spec",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "rb",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "m4",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "rc",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "pl",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "hpp",
+        51
+    ],
+    [
+        "Jeen Broekstra",
+        "c",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "sln",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "DotSettings",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "targets",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "vcxproj",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "filters",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "sass",
+        3
+    ],
+    [
+        "Jeen Broekstra",
+        "priv",
+        21
+    ],
+    [
+        "Jeen Broekstra",
+        "pub",
+        17
+    ],
+    [
+        "Jeen Broekstra",
+        "cert",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "tm_properties",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "hbs",
+        4
+    ],
+    [
+        "Jeen Broekstra",
+        "jsm",
+        4
+    ],
+    [
+        "Jeen Broekstra",
+        "cfg",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "template",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "json5",
+        2
+    ],
+    [
+        "Jeen Broekstra",
+        "log",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "disabled",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "APACHE2",
+        1
+    ],
+    [
+        "Jeen Broekstra",
+        "MIT",
+        2
+    ],
+    [
+        "Richard Eckart de Castilho",
+        "java",
+        6
+    ],
+    [
+        "Richard Eckart de Castilho",
+        "xml",
+        1
+    ],
+    [
+        "Megan Mercer",
+        "java",
+        2
+    ],
+    [
+        "Megan Mercer",
+        "json",
+        3
+    ],
+    [
+        "Freddy Tuxworth",
+        "java",
+        1
+    ],
+    [
+        "Bart Hanssens",
+        "java",
+        2
+    ]
+]

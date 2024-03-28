@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Thu Dec 12 12:43:41 2019,glsp-graph.ecore,Martin Fleck
+Thu Dec 12 12:43:41 2019,glsp-graph.genmodel,Martin Fleck
+Thu Dec 12 12:43:41 2019,GGraph.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,GLayouting.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,GraphFactory.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,GraphPackage.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,GCompartmentImpl.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,GGraphImpl.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,GLayoutOptionsImpl.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,GNodeImpl.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,GraphFactoryImpl.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,GraphPackageImpl.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,StringToObjectMapEntryImpl.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,GraphAdapterFactory.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,GraphSwitch.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,AbstractGCompartmentBuilder.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,AbstractGGraphBuilder.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,AbstractGNodeBuilder.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,GLayoutOptions.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,GLayoutOptionsBuilder.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,EMapTypeAdapter.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,GGraphGsonConfigurator.java,Martin Fleck
+Thu Dec 12 12:43:41 2019,GModelElementTypeAdapter.java,Martin Fleck

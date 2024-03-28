@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Thu Nov 27 23:02:45 2014,MANIFEST.MF,slewis
+Thu Nov 27 23:02:45 2014,RestClientService.java,slewis
+Fri Nov 28  7:19:28 2014,MANIFEST.MF,slewis
+Fri Nov 28  7:19:28 2014,StringParameterSerializer.java,slewis
+Wed Dec  3  2:27:14 2014,.options,slewis
+Wed Dec  3  2:27:14 2014,DebugOptions.java,slewis
+Wed Dec  3  2:27:14 2014,RestClientService.java,slewis
+Wed Dec  3  2:27:14 2014,MANIFEST.MF,slewis
+Wed Dec  3  2:27:14 2014,AbstractClientContainer.java,slewis
+Wed Dec  3  2:27:14 2014,RemoteCallParametersBuilder.java,slewis
+Wed Dec  3  2:27:14 2014,RemoteCallableBuilder.java,slewis

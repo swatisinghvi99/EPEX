@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Mon Mar 14 12:59:34 2016,DiscoveryResultImplTest.groovy,Simon Kaufmann
+Mon Mar 14 12:59:34 2016,DiscoveryResultImpl.java,Simon Kaufmann
+Thu Mar 17 10:10:28 2016,AbstractFileTransformationService.java,Simon Kaufmann
+Thu Mar 17 10:10:28 2016,MapTransformationServiceTest.java,Simon Kaufmann
+Tue Mar 22 22:32:33 2016,InboxOSGITest.groovy,Simon Kaufmann
+Wed Mar 30 17:10:59 2016,pom.xml,Simon Kaufmann
+Wed Mar 30 17:10:59 2016,ChangeThingTypeOSGiTest.groovy,Simon Kaufmann
+Thu Mar 31 11:55:25 2016,BindingBaseClassesOSGiTest.groovy,Simon Kaufmann
+Thu Mar 31 11:56:57 2016,HueLightHandlerOSGiTest.groovy,Simon Kaufmann
+Mon Apr  4 11:42:12 2016,ConfigurationTest.groovy,Simon Kaufmann
+Mon Apr  4 11:42:12 2016,Configuration.java,Simon Kaufmann
+Mon Apr  4 15:47:46 2016,ChangeThingTypeOSGiTest.groovy,Simon Kaufmann
+Mon Apr  4 15:47:46 2016,ThingManager.java,Simon Kaufmann
+Mon Apr  4 16:36:31 2016,HueLightHandlerOSGiTest.groovy,Simon Kaufmann

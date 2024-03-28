@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Tue Feb 17 19:36:15 2009,EMOFHelperImpl.java,emerks
+Thu Feb 19 19:28:12 2009,ResourceImpl.java,emerks
+Thu Feb 19 19:38:42 2009,XSDConcreteComponentImpl.java,emerks
+Fri Feb 20 12:44:50 2009,plugin.properties,emerks
+Fri Feb 20 12:44:50 2009,Diagnostician.java,emerks
+Fri Feb 20 12:44:50 2009,EObjectValidator.java,emerks
+Fri Feb 20 12:44:50 2009,EcoreUtil.java,emerks
+Thu Feb 26 19:48:36 2009,ResourceFactoryClass.java,emerks
+Thu Feb 26 19:48:36 2009,ResourceFactoryClass.javajet,emerks
+Sat Feb 28 18:21:07 2009,JavaEcoreBuilder.java,emerks
+Sat Feb 28 18:45:07 2009,JavaEcoreBuilder.java,emerks
+Sun Mar  1 21:56:50 2009,JavaEcoreBuilder.java,emerks
+Fri Mar  6 21:24:57 2009,ChangePackageImpl.java,emerks
+Sat Mar  7 11:48:07 2009,ChangePackageImpl.java,emerks
+Fri Mar 13 12:35:13 2009,XMLTypeUtil.java,emerks
+Fri Mar 13 14:45:37 2009,XMLTypeUtil.java,emerks
+Sat Mar 14 16:26:47 2009,XSDComplexTypeDefinitionImpl.java,emerks
+Sun Mar 15 11:01:15 2009,XSDParticleImpl.java,emerks

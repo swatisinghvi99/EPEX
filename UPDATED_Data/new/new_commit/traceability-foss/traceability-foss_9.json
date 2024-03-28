@@ -1,0 +1,212 @@
+[
+    [
+        "dependabot[bot]",
+        "kts",
+        10
+    ],
+    [
+        "dblankevia",
+        "kts",
+        4
+    ],
+    [
+        "dblankevia",
+        "groovy",
+        1
+    ],
+    [
+        "Dirk Blank",
+        "kts",
+        3
+    ],
+    [
+        "Dirk Blank",
+        "json",
+        1
+    ],
+    [
+        "Dirk Blank",
+        "ts",
+        1
+    ],
+    [
+        "Gregor Stelzer",
+        "json",
+        13
+    ],
+    [
+        "Gregor Stelzer",
+        "java",
+        8
+    ],
+    [
+        "Gregor Stelzer",
+        "groovy",
+        1
+    ],
+    [
+        "ds-ext-jserwa",
+        "json",
+        8
+    ],
+    [
+        "ds-ext-jserwa",
+        "groovy",
+        15
+    ],
+    [
+        "ds-ext-jserwa",
+        "java",
+        61
+    ],
+    [
+        "ds-ext-jserwa",
+        "yaml",
+        9
+    ],
+    [
+        "ds-ext-jserwa",
+        "sql",
+        1
+    ],
+    [
+        "ds-ext-jserwa",
+        "yml",
+        3
+    ],
+    [
+        "ds-ext-jserwa",
+        "md",
+        1
+    ],
+    [
+        "Fabian Bedarf",
+        "md",
+        4
+    ],
+    [
+        "Fabian Bedarf",
+        "properties",
+        1
+    ],
+    [
+        "Fabian Bedarf",
+        "ts",
+        144
+    ],
+    [
+        "Fabian Bedarf",
+        "html",
+        20
+    ],
+    [
+        "Fabian Bedarf",
+        "scss",
+        4
+    ],
+    [
+        "Fabian Bedarf",
+        "json",
+        7
+    ],
+    [
+        "Fabian Bedarf",
+        "js",
+        5
+    ],
+    [
+        "Fabian Bedarf",
+        "unknown",
+        1
+    ],
+    [
+        "Fabian Bedarf",
+        "conf",
+        2
+    ],
+    [
+        "Fabian Bedarf",
+        "yaml",
+        6
+    ],
+    [
+        "Fabian Bedarf",
+        "yml",
+        1
+    ],
+    [
+        "Fabian Bedarf",
+        "sh",
+        1
+    ],
+    [
+        "Laszlo Graf",
+        "json",
+        4
+    ],
+    [
+        "Laszlo Graf",
+        "java",
+        10
+    ],
+    [
+        "Laszlo Graf",
+        "groovy",
+        3
+    ],
+    [
+        "Laszlo Graf",
+        "sql",
+        1
+    ],
+    [
+        "Darek Skrzypczak",
+        "yml",
+        3
+    ],
+    [
+        "Darek Skrzypczak",
+        "ts",
+        1
+    ],
+    [
+        "Darek Skrzypczak",
+        "dockerignore",
+        1
+    ],
+    [
+        "Darek Skrzypczak",
+        "unknown",
+        1
+    ],
+    [
+        "Darek Skrzypczak",
+        "md",
+        1
+    ],
+    [
+        "Darek Skrzypczak",
+        "json",
+        1
+    ],
+    [
+        "Darek Skrzypczak",
+        "lock",
+        1
+    ],
+    [
+        "ds-ext-bkepa",
+        "yaml",
+        1
+    ],
+    [
+        "ds-ext-bkepa",
+        "java",
+        2
+    ],
+    [
+        "ds-ext-bkepa",
+        "yml",
+        1
+    ]
+]

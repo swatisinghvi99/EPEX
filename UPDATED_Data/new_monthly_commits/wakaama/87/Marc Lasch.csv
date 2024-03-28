@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Tue Oct  5 11:57:44 2021,er-coap-13.c,Marc Lasch
+Tue Oct  5 11:57:44 2021,er-coap-13.h,Marc Lasch
+Tue Oct  5 11:57:44 2021,transaction.c,Marc Lasch
+Tue Oct  5 11:57:44 2021,internals.h,Marc Lasch
+Tue Oct  5 11:57:44 2021,management.c,Marc Lasch
+Tue Oct  5 11:57:44 2021,packet.c,Marc Lasch
+Tue Oct  5 11:57:44 2021,registration.c,Marc Lasch
+Tue Oct  5 11:57:44 2021,bootstrap_server.c,Marc Lasch
+Tue Oct  5 11:57:44 2021,lwm2mclient.c,Marc Lasch
+Tue Oct  5 11:57:44 2021,lightclient.c,Marc Lasch
+Tue Oct  5 11:57:44 2021,lwm2mserver.c,Marc Lasch
+Tue Oct  5 11:57:44 2021,commandline.c,Marc Lasch
+Tue Oct  5 11:57:44 2021,commandline.h,Marc Lasch
+Tue Oct  5 11:57:44 2021,liblwm2m.h,Marc Lasch

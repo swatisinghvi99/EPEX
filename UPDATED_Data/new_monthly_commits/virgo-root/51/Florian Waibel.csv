@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Fri Jul 18  8:31:29 2014,DeployerConfiguration.java,Florian Waibel
+Fri Jul 18  8:31:29 2014,HotDeployer.java,Florian Waibel
+Fri Jul 18  8:31:29 2014,WatchTask.java,Florian Waibel
+Fri Jul 18  8:31:29 2014,StandardApplicationDeployer.java,Florian Waibel
+Fri Jul 18  8:31:29 2014,StandardDeployerConfiguration.java,Florian Waibel
+Fri Jul 18  8:31:45 2014,HotDeployerTests.java,Florian Waibel
+Fri Jul 18  8:34:17 2014,org.eclipse.virgo.kernel.properties,Florian Waibel
+Fri Jul 18  8:34:17 2014,org.eclipse.virgo.kernel.properties,Florian Waibel
+Fri Jul 18  8:34:17 2014,StandardDeployerConfiguration.java,Florian Waibel
+Fri Jul 18  8:34:17 2014,deployer-context.xml,Florian Waibel
+Fri Jul 18  8:34:17 2014,DeployerBlockingSignalTests.java,Florian Waibel
+Fri Jul 18  8:34:17 2014,org.eclipse.virgo.kernel.properties,Florian Waibel
+Fri Jul 18  8:34:17 2014,kernel.properties,Florian Waibel
+Fri Jul 18  8:34:23 2014,HotDeployerTests.java,Florian Waibel
+Fri Jul 18  8:34:28 2014,HotDeployerTests.java,Florian Waibel

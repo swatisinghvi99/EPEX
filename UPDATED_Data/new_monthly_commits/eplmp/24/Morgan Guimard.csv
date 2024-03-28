@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Tue Feb 27 10:38:30 2018,BeanLocator.java,Morgan Guimard
+Tue Feb 27 10:38:30 2018,ConverterBean.java,Morgan Guimard
+Tue Feb 27 10:38:30 2018,GeometryParser.java,Morgan Guimard
+Tue Feb 27 10:38:30 2018,NOTICE.txt,Morgan Guimard
+Tue Feb 27 10:38:30 2018,pom.xml,Morgan Guimard
+Tue Feb 27 10:38:30 2018,ConverterBean.java,Morgan Guimard
+Tue Feb 27 10:38:30 2018,GeometryParser.java,Morgan Guimard
+Tue Feb 27 10:38:30 2018,box-calculator.js,Morgan Guimard
+Tue Feb 27 10:38:30 2018,ConverterBeanTest.java,Morgan Guimard
+Tue Feb 27 10:38:30 2018,GeometryParserTest.java,Morgan Guimard
+Tue Feb 27 11:18:23 2018,LocalStrings_en.properties,Morgan Guimard
+Tue Feb 27 11:18:23 2018,LocalStrings_fr.properties,Morgan Guimard
+Tue Feb 27 11:18:23 2018,LocalStrings_ru.properties,Morgan Guimard
+Tue Feb 27 11:18:23 2018,DocumentManagerBean.java,Morgan Guimard
+Tue Feb 27 11:18:23 2018,ProductManagerBean.java,Morgan Guimard
+Tue Feb 27 12:00:03 2018,DocumentBinaryResourceTest.java,Morgan Guimard
+Tue Feb 27 12:00:03 2018,PartBinaryResourceTest.java,Morgan Guimard
+Tue Feb 27 12:00:03 2018,PartTemplateBinaryResourceTest.java,Morgan Guimard
+Tue Feb 27 12:00:03 2018,ResourceUtil.java,Morgan Guimard
+Tue Feb 27 12:16:37 2018,LanguagesResource.java,Morgan Guimard
+Tue Feb 27 12:16:37 2018,TimeZoneResource.java,Morgan Guimard
+Fri Mar 16  9:20:34 2018,AccountResource.java,Morgan Guimard

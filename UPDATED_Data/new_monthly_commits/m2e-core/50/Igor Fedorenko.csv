@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Thu Jan  8 19:41:33 2015,LifecycleMappingDiscoveryHelper.java,Igor Fedorenko
+Thu Jan  8 19:41:33 2015,DiscoveryWizardProposal.java,Igor Fedorenko
+Thu Jan  8 19:41:33 2015,MavenDiscoveryMarkerResolutionGenerator.java,Igor Fedorenko
+Thu Jan  8 19:41:33 2015,MavenMarkerResolutionGenerator.java,Igor Fedorenko
+Thu Jan  8 19:41:33 2015,WorkspaceHelpers.java,Igor Fedorenko
+Fri Jan  9  0:53:21 2015,AggregateMappingLabelProvider.java,Igor Fedorenko
+Fri Jan  9  0:53:21 2015,LifecycleMappingDiscoveryHelper.java,Igor Fedorenko
+Fri Jan  9  0:53:21 2015,LifecycleMappingPage.java,Igor Fedorenko
+Fri Jan  9  0:53:21 2015,LifecycleMappingFactory.java,Igor Fedorenko
+Fri Jan  9  0:53:21 2015,MissingConfiguratorProblemInfo.java,Igor Fedorenko
+Fri Jan  9  0:53:21 2015,MojoExecutionMappingConfiguration.java,Igor Fedorenko
+Fri Jan  9  0:53:21 2015,messages.properties,Igor Fedorenko
+Fri Jan  9  3:07:39 2015,MavenCatalogViewer.java,Igor Fedorenko
+Fri Jan  9  3:21:45 2015,MavenMarkerResolutionGenerator.java,Igor Fedorenko
+Thu Jan 22 14:24:32 2015,ClasspathHelpers.java,Igor Fedorenko
+Thu Jan 22 14:28:43 2015,AbstractCreateMavenProjectJob.java,Igor Fedorenko
+Thu Jan 22 14:28:43 2015,MavenModuleWizard.java,Igor Fedorenko
+Thu Jan 22 14:28:43 2015,MavenProjectWizard.java,Igor Fedorenko

@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Thu May 11  6:13:23 2017,HueBridgeHandlerOSGiTest.groovy,Kai Kreuzer
+Thu May 11  6:13:23 2017,HueBridgeHandler.java,Kai Kreuzer
+Thu May 11  6:13:23 2017,HueConfigStatusMessage.java,Kai Kreuzer
+Thu May 11 11:51:20 2017,README.md,Kai Kreuzer
+Thu May 11 11:51:20 2017,FSInternetRadioDiscoveryParticipant.java,Kai Kreuzer
+Fri May 12  6:50:15 2017,RuleEngine.java,Kai Kreuzer
+Fri May 12  6:50:15 2017,SimpleActionHandlerDelegate.java,Kai Kreuzer
+Fri May 12  6:50:15 2017,ScriptFileWatcher.java,Kai Kreuzer
+Fri May 12  6:50:15 2017,ScriptedAutomationManager.java,Kai Kreuzer
+Fri May 12  6:50:15 2017,ScriptEngineManagerImpl.java,Kai Kreuzer
+Fri May 12  6:56:13 2017,JsonStorage.java,Kai Kreuzer
+Wed May 17  8:40:05 2017,ScriptFileWatcher.java,Kai Kreuzer
+Tue May 30  7:35:12 2017,ScriptedAutomationManager.java,Kai Kreuzer
+Thu Jun  1 12:43:16 2017,AbstractResourceBundleProvider.java,Kai Kreuzer
+Fri Jun  9  6:51:40 2017,.classpath,Kai Kreuzer
+Fri Jun  9  6:51:40 2017,FolderObserverTest.launch,Kai Kreuzer
+Fri Jun  9  6:51:40 2017,FolderObserverTestsConfiguration.launch,Kai Kreuzer
+Fri Jun  9  6:51:40 2017,MANIFEST.MF,Kai Kreuzer
+Fri Jun  9  6:51:40 2017,build.properties,Kai Kreuzer
+Fri Jun  9  6:51:40 2017,FolderObserverTest.groovy,Kai Kreuzer
+Fri Jun  9  6:51:40 2017,FolderObserverTest.java,Kai Kreuzer
+Fri Jun  9  6:51:40 2017,MANIFEST.MF,Kai Kreuzer
+Fri Jun  9  6:51:40 2017,folderobserver.xml,Kai Kreuzer
+Fri Jun  9  6:51:40 2017,FolderObserver.java,Kai Kreuzer

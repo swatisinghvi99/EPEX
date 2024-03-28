@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Wed Feb 15  9:17:07 2017,TriqFeatureProvider.java,Erwin De Ley
+Wed Feb 15  9:17:07 2017,PortAddFeature.java,Erwin De Ley
+Wed Feb 15  9:17:07 2017,Actor.view,Erwin De Ley
+Wed Feb 15  9:17:07 2017,CompositeActor.view,Erwin De Ley
+Wed Feb 15  9:17:46 2017,plugin.properties,Erwin De Ley
+Wed Feb 15  9:17:46 2017,PortItemProvider.java,Erwin De Ley
+Wed Feb 15  9:17:46 2017,triquetrum.ecore,Erwin De Ley
+Wed Feb 15  9:17:46 2017,triquetrum.genmodel,Erwin De Ley
+Wed Feb 15  9:17:46 2017,Direction.java,Erwin De Ley
+Wed Feb 15  9:17:46 2017,Port.java,Erwin De Ley
+Wed Feb 15  9:17:46 2017,TriqPackage.java,Erwin De Ley
+Wed Feb 15  9:17:46 2017,PortImpl.java,Erwin De Ley
+Wed Feb 15  9:17:46 2017,TriqFactoryImpl.java,Erwin De Ley
+Wed Feb 15  9:17:46 2017,TriqPackageImpl.java,Erwin De Ley
+Wed Feb 22 18:54:23 2017,BoCategory.java,Erwin De Ley
+Wed Feb 22 18:54:23 2017,Category.java,Erwin De Ley
+Wed Feb 22 18:54:23 2017,PortCategory.java,Erwin De Ley
+Wed Feb 22 18:54:23 2017,ActorAddFeature.java,Erwin De Ley
+Wed Feb 22 18:54:23 2017,ActorUpdateFeature.java,Erwin De Ley
+Wed Feb 22 18:54:23 2017,CompositeActorCollapseExpandFeature.java,Erwin De Ley
+Wed Feb 22 18:54:23 2017,ModelElementLayoutFeature.java,Erwin De Ley
+Wed Feb 22 18:54:23 2017,PortUpdateFeature.java,Erwin De Ley
+Wed Feb 22 18:54:23 2017,EditorUtils.java,Erwin De Ley
+Wed Mar  1  8:44:23 2017,TaskProcessingBroker.java,Erwin De Ley
+Wed Mar  1  8:44:23 2017,DefaultTaskProcessingBroker.java,Erwin De Ley
+Wed Mar  1  8:44:23 2017,MANIFEST.MF,Erwin De Ley

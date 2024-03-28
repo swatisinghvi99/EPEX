@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Tue Oct 31 23:17:29 2017,HTMLHeadTokenizer.java,Nitin Dahyabhai
+Tue Oct 31 23:17:29 2017,HTMLHeadTokenizer.jFlex,Nitin Dahyabhai
+Tue Oct 31 23:17:29 2017,HTMLHeadTokenizer.java,Nitin Dahyabhai
+Tue Oct 31 23:23:40 2017,MANIFEST.MF,Nitin Dahyabhai
+Tue Oct 31 23:23:40 2017,pom.xml,Nitin Dahyabhai
+Tue Oct 31 23:23:40 2017,TestHTMLResourceEncodingDetector.java,Nitin Dahyabhai
+Tue Nov  7 14:04:41 2017,DefaultXMLPartitionFormatter.java,Nitin Dahyabhai
+Tue Nov  7 14:04:41 2017,CleanupTester.java,Nitin Dahyabhai
+Tue Nov  7 14:04:41 2017,formatbug124070-fmt.jspx,Nitin Dahyabhai
+Tue Nov  7 14:04:41 2017,TestPartitionFormatterXML.java,Nitin Dahyabhai
+Tue Nov  7 14:04:41 2017,simple-standalone-newfmt.xml,Nitin Dahyabhai
+Tue Nov  7 15:07:10 2017,MANIFEST.MF,Nitin Dahyabhai
+Tue Nov  7 15:07:10 2017,JSPIndexManager.java,Nitin Dahyabhai
+Tue Nov  7 15:07:10 2017,MANIFEST.MF,Nitin Dahyabhai
+Tue Nov  7 15:07:10 2017,pom.xml,Nitin Dahyabhai
+Tue Nov  7 15:07:10 2017,AbstractIndexManager.java,Nitin Dahyabhai
+Tue Nov  7 15:16:24 2017,AttributeValueRegion.java,Nitin Dahyabhai
+Tue Nov  7 21:03:32 2017,XMLJSPRegionHelper.java,Nitin Dahyabhai
+Tue Nov  7 21:03:32 2017,MANIFEST.MF,Nitin Dahyabhai
+Tue Nov  7 21:03:32 2017,pom.xml,Nitin Dahyabhai
+Tue Nov  7 21:03:32 2017,XSDSelectIncludeFileWizard.java,Nitin Dahyabhai
+Wed Nov  8  0:31:04 2017,HedMediaElement.java,Nitin Dahyabhai
+Wed Nov  8  0:31:04 2017,HTML50Namespace.java,Nitin Dahyabhai
+Wed Nov  8  2:22:52 2017,CMDocumentLoader.java,Nitin Dahyabhai
+Thu Nov 23  5:17:59 2017,MANIFEST.MF,Nitin Dahyabhai
+Thu Nov 23  5:17:59 2017,DelegateConfigurationElement.java,Nitin Dahyabhai

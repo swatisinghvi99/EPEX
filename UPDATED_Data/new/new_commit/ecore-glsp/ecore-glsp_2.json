@@ -1,0 +1,72 @@
+[
+    [
+        "Simon Graband",
+        "unknown",
+        1
+    ],
+    [
+        "Simon Graband",
+        "json",
+        2
+    ],
+    [
+        "Simon Graband",
+        "ts",
+        4
+    ],
+    [
+        "Simon Graband",
+        "ecore",
+        5
+    ],
+    [
+        "Simon Graband",
+        "enotation",
+        3
+    ],
+    [
+        "Nina Doschek",
+        "editorconfig",
+        1
+    ],
+    [
+        "Nina Doschek",
+        "json",
+        10
+    ],
+    [
+        "Nina Doschek",
+        "js",
+        2
+    ],
+    [
+        "Nina Doschek",
+        "ts",
+        13
+    ],
+    [
+        "Nina Doschek",
+        "tsx",
+        2
+    ],
+    [
+        "Nina Doschek",
+        "lock",
+        1
+    ],
+    [
+        "Camille Letavernier",
+        "json",
+        8
+    ],
+    [
+        "Camille Letavernier",
+        "ts",
+        4
+    ],
+    [
+        "Camille Letavernier",
+        "lock",
+        2
+    ]
+]

@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Thu Jul 23 11:06:20 2020,AbstractInformationControl.java,Lars Vogel
+Thu Jul 23 13:31:27 2020,.classpath,Lars Vogel
+Thu Jul 23 13:31:27 2020,org.eclipse.jdt.core.prefs,Lars Vogel
+Thu Jul 23 13:31:27 2020,org.eclipse.jdt.ui.prefs,Lars Vogel
+Thu Jul 23 13:31:27 2020,MANIFEST.MF,Lars Vogel
+Thu Jul 23 13:31:27 2020,ReplaceRefactoring.java,Lars Vogel
+Fri Jul 24  7:58:41 2020,IncrementalAsyncContentAssistTests.java,Lars Vogel
+Fri Jul 24  7:58:41 2020,CompletionProposalPopup.java,Lars Vogel
+Fri Jul 24  7:58:41 2020,SearchManager.java,Lars Vogel
+Fri Jul 24 12:19:27 2020,ISharedTextColors.java,Lars Vogel
+Mon Jul 27 20:17:29 2020,.classpath,Lars Vogel
+Mon Jul 27 20:17:29 2020,.api_filters,Lars Vogel
+Mon Jul 27 20:17:29 2020,org.eclipse.jdt.core.prefs,Lars Vogel
+Mon Jul 27 20:17:29 2020,org.eclipse.jdt.ui.prefs,Lars Vogel
+Mon Jul 27 20:17:29 2020,MANIFEST.MF,Lars Vogel
+Mon Jul 27 20:17:29 2020,ReplaceRefactoring.java,Lars Vogel
+Fri Jul 31  9:31:52 2020,CodeMiningProjectionViewerTest.java,Lars Vogel
+Fri Jul 31  9:31:52 2020,SharedTextColors.java,Lars Vogel
+Fri Jul 31  9:52:08 2020,SourceViewerInformationControl.java,Lars Vogel
+Fri Jul 31  9:52:08 2020,SourceViewerInformationControl.java,Lars Vogel
+Fri Jul 31  9:52:08 2020,AbstractTextEditor.java,Lars Vogel
+Fri Jul 31  9:52:08 2020,InfoForm.java,Lars Vogel

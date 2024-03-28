@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Sat Apr 28  1:28:14 2012,.api_filters,nitind
+Sat Apr 28  1:28:14 2012,JsTranslator.java,nitind
+Sat Apr 28  1:28:14 2012,FormattingStrategyJSDT.java,nitind
+Sat Apr 28  1:28:18 2012,TestHtmlTranslation.java,nitind
+Sat Apr 28  1:28:18 2012,org.eclipse.jdt.core.prefs,nitind
+Sat Apr 28  1:28:18 2012,FormattingTests.java,nitind
+Sat Apr 28  1:28:18 2012,test15-fmt.html,nitind
+Sat Apr 28  1:28:18 2012,test15.html,nitind
+Sat Apr 28  1:54:26 2012,JsTranslator.java,nitind
+Wed May  2 15:16:06 2012,FormattingStrategyJSDT.java,nitind
+Wed May  2 15:16:06 2012,JFaceNodeAdapterForJs.java,nitind
+Wed May  2 15:16:06 2012,JFaceNodeAdapterForJs.java,nitind
+Thu May  3 18:02:38 2012,.api_filters,nitind
+Thu May  3 18:02:38 2012,JsTranslation.java,nitind
+Thu May  3 18:02:38 2012,JSDTCompletionProposal.java,nitind
+Thu May  3 18:02:38 2012,JSDTContentAssistantProcessor.java,nitind
+Thu May  3 18:02:38 2012,JSDTProposalCollector.java,nitind
+Thu May  3 18:02:38 2012,JSDTHyperlinkDetector.java,nitind
+Thu May  3 18:02:38 2012,JsFindOccurrencesProcessor.java,nitind
+Thu May  3 18:02:38 2012,JSDTHoverProcessor.java,nitind
+Thu May 17  4:16:27 2012,SimpleNodeOperator.java,nitind
+Wed May 23 19:15:30 2012,IModelManager.java,nitind
+Wed May 23 19:15:32 2012,ModelTest.java,nitind
+Thu May 24 18:07:31 2012,MANIFEST.MF,nitind
+Thu May 24 18:07:31 2012,JsTranslator.java,nitind
+Thu May 24 18:07:31 2012,MANIFEST.MF,nitind

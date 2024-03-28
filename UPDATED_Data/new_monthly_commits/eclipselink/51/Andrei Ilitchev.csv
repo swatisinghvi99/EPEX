@@ -1,0 +1,5 @@
+date_time,file,committer_name
+Mon Oct 17 20:58:47 2011,BasicIndirectionPolicy.java,Andrei Ilitchev
+Wed Nov  9 16:08:09 2011,SQLDeleteAllStatementForTempTable.java,Andrei Ilitchev
+Wed Nov  9 16:08:09 2011,SQLModifyAllStatementForTempTable.java,Andrei Ilitchev
+Wed Nov  9 16:08:09 2011,ExpressionQueryMechanism.java,Andrei Ilitchev

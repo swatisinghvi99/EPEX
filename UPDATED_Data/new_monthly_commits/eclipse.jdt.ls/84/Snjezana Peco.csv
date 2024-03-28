@@ -1,0 +1,7 @@
+date_time,file,committer_name
+Mon Jan 29  3:46:28 2024,QuickFixProcessor.java,Snjezana Peco
+Mon Jan 29  3:46:28 2024,UnInitializedFinalFieldSubProcessor.java,Snjezana Peco
+Mon Jan 29  3:46:28 2024,BaseDiagnosticsHandler.java,Snjezana Peco
+Mon Jan 29  3:46:28 2024,CodeActionHandler.java,Snjezana Peco
+Mon Jan 29  3:46:28 2024,org.eclipse.jdt.ls.tp.target,Snjezana Peco
+Mon Jan 29  3:46:28 2024,UnInitializedFinalFieldQuickFixTest.java,Snjezana Peco

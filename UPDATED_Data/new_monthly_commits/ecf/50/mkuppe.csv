@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Tue Jan 20 12:37:25 2009,ServiceResource.java,mkuppe
+Wed Jan 21 11:51:40 2009,ServiceIDFactory.java,mkuppe
+Wed Jan 21 11:52:13 2009,DiscoveryHandlerUtil.java,mkuppe
+Wed Jan 21 11:52:13 2009,DiscoveryPropertyTesterUtil.java,mkuppe
+Wed Jan 21 11:54:13 2009,MANIFEST.MF,mkuppe
+Wed Jan 21 11:54:13 2009,SOContainer.java,mkuppe
+Wed Jan 21 11:56:38 2009,IRemoteService.java,mkuppe
+Wed Jan 21 12:00:53 2009,RegistrySharedObject.java,mkuppe
+Wed Jan 21 12:00:53 2009,RemoteServiceContainer.java,mkuppe
+Wed Jan 21 12:00:53 2009,RemoteServiceImpl.java,mkuppe
+Wed Jan 21 12:06:21 2009,IRemoteServiceReferenceRetrievedEvent.java,mkuppe
+Wed Jan 21 12:06:21 2009,RemoteFilterImpl.java,mkuppe
+Wed Jan 21 12:06:21 2009,IRemoteServiceTrackerCustomizer.java,mkuppe
+Thu Jan 22  7:41:55 2009,MANIFEST.MF,mkuppe
+Thu Jan 22  7:41:55 2009,ServiceResource.java,mkuppe
+Mon Jan 26 19:59:00 2009,JSLPDiscoveryTest.java,mkuppe

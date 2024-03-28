@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Tue Jun 27  8:09:46 2017,ProvCommandProvider.java,Karsten Thoms
+Tue Jun 27  8:09:46 2017,InstructionParser.java,Karsten Thoms
+Tue Jun 27  8:09:46 2017,SimpleProfileRegistry.java,Karsten Thoms
+Tue Jun 27  8:09:46 2017,TouchpointManager.java,Karsten Thoms
+Tue Jun 27  8:09:46 2017,MetadataParser.java,Karsten Thoms
+Tue Jun 27  8:09:46 2017,RangeFunction.java,Karsten Thoms
+Tue Jun 27  8:09:46 2017,Version.java,Karsten Thoms
+Tue Jun 27  8:09:46 2017,VersionRange.java,Karsten Thoms
+Tue Jun 27  8:09:46 2017,FeatureManifestParser.java,Karsten Thoms
+Tue Jun 27  8:09:46 2017,FeaturesAction.java,Karsten Thoms
+Tue Jun 27  8:09:46 2017,AdviceFileParser.java,Karsten Thoms
+Tue Jun 27  8:09:46 2017,MirrorApplication.java,Karsten Thoms
+Tue Jun 27  8:09:46 2017,ArtifactDescription.java,Karsten Thoms
+Tue Jun 27  8:09:46 2017,XMLParser.java,Karsten Thoms
+Tue Jun 27  8:09:46 2017,SiteXMLAction.java,Karsten Thoms

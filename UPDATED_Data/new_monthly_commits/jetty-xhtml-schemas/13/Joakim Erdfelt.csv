@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Wed Oct 25 21:53:18 2023,pom.xml,Joakim Erdfelt
+Wed Oct 25 21:53:18 2023,CatalogXHTML.java,Joakim Erdfelt
+Wed Oct 25 21:53:18 2023,InvalidXHTMLException.java,Joakim Erdfelt
+Wed Oct 25 21:53:18 2023,XHTMLValidator.java,Joakim Erdfelt
+Wed Oct 25 21:53:18 2023,catalog-xhtml.xml,Joakim Erdfelt
+Wed Oct 25 21:53:18 2023,xhtml-arch-1.mod,Joakim Erdfelt
+Wed Oct 25 21:53:18 2023,xhtml-form-1.mod,Joakim Erdfelt
+Wed Oct 25 21:53:18 2023,xhtml-frames-1.mod,Joakim Erdfelt
+Wed Oct 25 21:53:18 2023,xhtml-iframe-1.mod,Joakim Erdfelt
+Wed Oct 25 21:53:18 2023,xhtml-notations-1.mod,Joakim Erdfelt
+Wed Oct 25 21:53:18 2023,xhtml-redecl-1.mod,Joakim Erdfelt
+Wed Oct 25 21:53:18 2023,xhtml1-transitional.dtd,Joakim Erdfelt
+Wed Oct 25 21:53:18 2023,xhtml11-arch.dtd,Joakim Erdfelt
+Wed Oct 25 21:53:18 2023,XHTMLValidationTest.java,Joakim Erdfelt
+Wed Oct 25 21:53:18 2023,example.xhtml,Joakim Erdfelt

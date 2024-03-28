@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Tue Feb 14 10:40:26 2012,git-repository.js,Szymon Brandys
+Tue Feb 14 10:40:26 2012,gitCommands.js,Szymon Brandys
+Tue Feb 14 10:40:26 2012,gitRepositoryExplorer.js,Szymon Brandys
+Wed Feb 15 13:58:37 2012,gitCommands.js,Szymon Brandys
+Thu Feb 16 11:34:08 2012,git-commit.css,Szymon Brandys
+Thu Feb 16 11:34:08 2012,gitCommitExplorer.js,Szymon Brandys
+Thu Feb 16 11:52:50 2012,git.css,Szymon Brandys
+Thu Feb 16 11:52:50 2012,git-repository.css,Szymon Brandys
+Thu Feb 16 11:52:50 2012,gitRepositoryExplorer.js,Szymon Brandys
+Thu Feb 16 13:34:37 2012,gitCommitExplorer.js,Szymon Brandys
+Tue Feb 21 19:38:41 2012,gitCommands.js,Szymon Brandys
+Wed Feb 22 13:23:40 2012,gitCommands.js,Szymon Brandys
+Wed Feb 22 18:05:42 2012,gitCommands.js,Szymon Brandys
+Fri Mar  2 11:35:08 2012,git-clone.css,Szymon Brandys
+Fri Mar  2 11:35:08 2012,git-clone.html,Szymon Brandys
+Fri Mar  2 11:35:08 2012,git-clone.js,Szymon Brandys
+Fri Mar  2 11:35:08 2012,git-clone-details.js,Szymon Brandys
+Fri Mar  2 11:35:08 2012,git-clones-explorer.js,Szymon Brandys
+Fri Mar  2 11:35:08 2012,RemotePrompterDialog.js,Szymon Brandys
+Fri Mar  2 12:54:26 2012,gitCommands.js,Szymon Brandys
+Fri Mar  2 12:54:26 2012,InitGitRepositoryDialog.js,Szymon Brandys
+Fri Mar  2 12:54:26 2012,InitGitRepositoryDialog.html,Szymon Brandys
+Mon Mar  5 17:24:19 2012,RemotePrompterDialog.js,Szymon Brandys

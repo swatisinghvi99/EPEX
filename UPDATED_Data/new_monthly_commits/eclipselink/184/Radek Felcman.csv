@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Tue Dec  6 14:04:50 2022,OracleNoSQLConnectionFactory.java,Radek Felcman
+Mon Dec 12  9:49:01 2022,DataTypesEntity.java,Radek Felcman
+Mon Dec 12  9:49:01 2022,NoSQLJPADataTypesTest.java,Radek Felcman
+Mon Dec 12  9:49:01 2022,NoSQLJPATestSuite.java,Radek Felcman
+Mon Dec 12  9:49:01 2022,persistence.xml,Radek Felcman
+Mon Dec 12  9:49:01 2022,OracleNoSQLPlatform.java,Radek Felcman
+Mon Dec 12 12:13:35 2022,PersistenceUnitProperties.java,Radek Felcman
+Mon Dec 12 12:13:35 2022,QueryHints.java,Radek Felcman
+Mon Dec 12 12:13:35 2022,LoggingLocalizationResource.java,Radek Felcman
+Mon Dec 12 12:13:35 2022,UnitOfWorkImpl.java,Radek Felcman
+Mon Dec 12 12:13:35 2022,ReadQuery.java,Radek Felcman
+Mon Dec 12 12:13:35 2022,Project.java,Radek Felcman
+Mon Dec 12 12:13:35 2022,pom.xml,Radek Felcman
+Mon Dec 12 12:13:35 2022,BranchADiagnostic.java,Radek Felcman
+Mon Dec 12 12:13:35 2022,BranchBDiagnostic.java,Radek Felcman
+Mon Dec 12 12:13:35 2022,DiagnosticTableCreator.java,Radek Felcman
+Mon Dec 12 12:13:35 2022,persistence.xml,Radek Felcman
+Mon Dec 12 12:13:35 2022,DiagnosticTest.java,Radek Felcman
+Mon Dec 12 12:13:35 2022,LogWrapper.java,Radek Felcman
+Mon Dec 12 12:13:35 2022,pom.xml,Radek Felcman
+Mon Dec 12 12:13:35 2022,EntityManagerSetupImpl.java,Radek Felcman
+Mon Dec 12 12:13:35 2022,QueryHintsHandler.java,Radek Felcman
+Mon Dec 12 12:24:43 2022,JsonPlatformManager.java,Radek Felcman

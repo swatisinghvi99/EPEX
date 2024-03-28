@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Mon Oct 26 16:24:51 2020,ReassignmentValue.java,Kirill Gaevskii
+Mon Oct 26 16:24:51 2020,ReassignmentValueTest.java,Kirill Gaevskii
+Tue Oct 27 14:26:59 2020,AssignmentsInfo.java,Kirill Gaevskii
+Tue Oct 27 14:26:59 2020,AssociationDeclaration.java,Kirill Gaevskii
+Tue Oct 27 14:26:59 2020,DeclarationList.java,Kirill Gaevskii
+Tue Oct 27 14:26:59 2020,ParsedAssignmentsInfo.java,Kirill Gaevskii
+Tue Oct 27 14:26:59 2020,AssociationDeclarationTest.java,Kirill Gaevskii
+Tue Oct 27 14:26:59 2020,ActivityPropertyWriterTest.java,Kirill Gaevskii
+Tue Oct 27 14:26:59 2020,ParsedAssignmentsInfoTest.java,Kirill Gaevskii
+Tue Oct 27 14:26:59 2020,UserTaskTest.java,Kirill Gaevskii
+Tue Oct 27 14:26:59 2020,multipleDefinitionsUserTask.bpmn,Kirill Gaevskii
+Tue Oct 27 14:26:59 2020,AssociationDeclaration.java,Kirill Gaevskii
+Tue Oct 27 14:26:59 2020,ParsedAssignmentsInfo.java,Kirill Gaevskii
+Tue Oct 27 14:26:59 2020,AssociationDeclarationTest.java,Kirill Gaevskii
+Tue Oct 27 14:26:59 2020,ActivityPropertyReaderTest.java,Kirill Gaevskii
+Mon Nov  2 15:36:00 2020,PermissionTreeSetup.java,Kirill Gaevskii
+Mon Nov  2 15:36:00 2020,DefaultWorkbenchConstants.java,Kirill Gaevskii
+Mon Nov  2 15:36:00 2020,DefaultWorkbenchConstants.properties,Kirill Gaevskii
+Mon Nov  2 15:36:00 2020,DefaultWorkbenchConstants_es.properties,Kirill Gaevskii
+Mon Nov  2 15:36:00 2020,DefaultWorkbenchConstants_fr.properties,Kirill Gaevskii
+Mon Nov  2 15:36:00 2020,DefaultWorkbenchConstants_ja.properties,Kirill Gaevskii
+Mon Nov  2 15:36:00 2020,PermissionTreeSetupTest.java,Kirill Gaevskii
+Mon Nov  2 15:36:00 2020,CaseManagementDiagramNewResourceHandler.java,Kirill Gaevskii
+Mon Nov  2 15:36:00 2020,CaseManagementDiagramNewResourceHandlerTest.java,Kirill Gaevskii

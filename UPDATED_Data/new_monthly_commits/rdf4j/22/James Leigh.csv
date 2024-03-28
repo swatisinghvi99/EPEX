@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Tue Oct 17 20:16:12 2017,BackgroundResultExecutor.java,James Leigh
+Tue Oct 17 20:16:12 2017,SPARQLProtocolSession.java,James Leigh
+Tue Oct 17 20:16:12 2017,SharedHttpClientSessionManager.java,James Leigh
+Tue Oct 17 20:16:12 2017,HTTPRepositoryConnection.java,James Leigh
+Thu Oct 26 15:08:26 2017,Connect.java,James Leigh
+Fri Oct 27  2:45:59 2017,RDF4JProtocolSession.java,James Leigh
+Fri Oct 27  2:45:59 2017,SesameClientImpl.java,James Leigh
+Fri Oct 27  2:45:59 2017,SesameSession.java,James Leigh
+Fri Oct 27  2:45:59 2017,SharedHttpClientSessionManager.java,James Leigh
+Fri Oct 27  2:45:59 2017,Protocol.java,James Leigh
+Fri Oct 27  2:51:31 2017,HTTPRepositoryTransactionTest.java,James Leigh
+Fri Oct 27  2:51:31 2017,ActiveTransactionRegistry.java,James Leigh
+Fri Oct 27  2:51:31 2017,TransactionController.java,James Leigh
+Fri Oct 27 19:44:23 2017,TurtleWriter.java,James Leigh
+Fri Oct 27 19:44:23 2017,RDFWriterTest.java,James Leigh
+Mon Oct 30 19:42:07 2017,HTTPRepository.java,James Leigh
+Thu Nov  2  0:53:55 2017,XMLDatatypeUtil.java,James Leigh
+Thu Nov  2  0:53:55 2017,XMLDatatypeUtilTest.java,James Leigh
+Thu Nov  2  1:10:37 2017,SPARQLParser.java,James Leigh
+Thu Nov  2  1:10:37 2017,SPARQLUpdateTest.java,James Leigh
+Thu Nov  2  2:32:31 2017,RepositoryFederatedService.java,James Leigh
+Thu Nov  2  2:32:31 2017,ServiceFallbackIteration.java,James Leigh
+Fri Nov 10  2:13:30 2017,ServiceFallbackIteration.java,James Leigh

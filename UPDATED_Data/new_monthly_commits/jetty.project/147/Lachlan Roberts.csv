@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Tue May 18  7:51:26 2021,CoreClientUpgradeRequest.java,Lachlan Roberts
+Tue May 18  7:51:26 2021,WebSocketCoreClient.java,Lachlan Roberts
+Tue May 18  7:51:26 2021,WebSocketCoreSession.java,Lachlan Roberts
+Tue May 18  7:51:26 2021,AbstractHandshaker.java,Lachlan Roberts
+Tue May 18  7:51:26 2021,WSServer.java,Lachlan Roberts
+Tue May 18  7:51:26 2021,ClientClassLoaderTest.java,Lachlan Roberts
+Wed May 19  1:24:15 2021,WebSocketCoreClient.java,Lachlan Roberts
+Wed May 19  1:24:15 2021,JavaxClientClassLoaderTest.java,Lachlan Roberts
+Wed May 19  1:24:15 2021,JettyClientClassLoaderTest.java,Lachlan Roberts
+Wed May 19  1:24:15 2021,WebAppTester.java,Lachlan Roberts
+Wed May 19 15:17:42 2021,JettyClientClassLoaderTest.java,Lachlan Roberts
+Wed May 19 15:17:42 2021,WebAppTester.java,Lachlan Roberts
+Fri Jun  4 13:05:07 2021,CustomRequestLog.java,Lachlan Roberts
+Wed Jun  9  5:13:31 2021,DefaultAuthenticatorFactory.java,Lachlan Roberts
+Wed Jun  9  5:13:31 2021,ClientCertAuthenticator.java,Lachlan Roberts
+Wed Jun  9  5:13:31 2021,SslClientCertAuthenticator.java,Lachlan Roberts
+Tue Jun 15  8:47:20 2021,CoreClientUpgradeRequest.java,Lachlan Roberts
+Tue Jun 15  8:47:20 2021,Negotiated.java,Lachlan Roberts
+Tue Jun 15  8:47:20 2021,WSURI.java,Lachlan Roberts
+Tue Jun 15  8:47:20 2021,ClientUpgradeRequest.java,Lachlan Roberts
+Tue Jun 15 14:40:35 2021,WSURI.java,Lachlan Roberts
+Tue Jun 15 14:40:35 2021,ClientUpgradeRequest.java,Lachlan Roberts
+Tue Jun 15 15:00:45 2021,ClientUpgradeRequest.java,Lachlan Roberts
+Wed Jun 16  1:11:13 2021,BufferedResponseHandler.java,Lachlan Roberts
+Wed Jun 16  1:11:13 2021,FileBufferedResponseHandler.java,Lachlan Roberts
+Wed Jun 16  1:11:13 2021,FileBufferedResponseHandlerTest.java,Lachlan Roberts

@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Mon Aug 21 15:50:00 2017,OpenRepresentationsAction.java,Florian Barbin
+Thu Aug 31 17:55:05 2017,BorderItemAwareLayoutProvider.java,Florian Barbin
+Thu Aug 31 17:55:08 2017,BorderItemAwareLayoutProvider.java,Florian Barbin
+Fri Sep  1 12:25:54 2017,SiriusContainerEditPolicy.java,Florian Barbin
+Fri Sep  1 12:25:54 2017,GMFRuntimeCompatibility.java,Florian Barbin
+Fri Sep  1 12:25:57 2017,SiriusContainerEditPolicy.java,Florian Barbin
+Fri Sep  1 12:25:57 2017,SnapCommand.java,Florian Barbin
+Fri Sep  1 14:11:10 2017,SiriusContainerDropPolicy.java,Florian Barbin
+Fri Sep  1 14:11:10 2017,SiriusPaletteToolDropTargetListener.java,Florian Barbin
+Fri Sep  1 14:11:10 2017,EditPartQuery.java,Florian Barbin
+Fri Sep  1 14:11:13 2017,AbstractCanonicalSynchronizer.java,Florian Barbin

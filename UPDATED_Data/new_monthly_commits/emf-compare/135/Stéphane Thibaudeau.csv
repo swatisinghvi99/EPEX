@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Fri Jun 22  8:02:06 2018,SynchronizedResourceSet.java,Stéphane Thibaudeau
+Fri Jun 22  8:02:06 2018,DisposableResourceSet.java,Stéphane Thibaudeau
+Fri Jun 22  8:02:06 2018,NotLoadingResourceSet.java,Stéphane Thibaudeau
+Fri Jun 22  8:54:44 2018,.classpath,Stéphane Thibaudeau
+Fri Jun 22  8:54:44 2018,org.eclipse.jdt.core.prefs,Stéphane Thibaudeau
+Fri Jun 22  8:54:44 2018,MANIFEST.MF,Stéphane Thibaudeau
+Fri Jun 22  8:54:44 2018,LogicalModels.java,Stéphane Thibaudeau
+Fri Jun 22  8:55:05 2018,IdenticalResourceMinimizer.java,Stéphane Thibaudeau
+Fri Jun 22 11:33:07 2018,URIDistance.java,Stéphane Thibaudeau
+Fri Jun 22 11:46:11 2018,EGitMatchEngineFactory.java,Stéphane Thibaudeau
+Fri Jun 22 11:46:11 2018,AbstractCompareHandler.java,Stéphane Thibaudeau
+Fri Jun 22 11:46:11 2018,plugin.xml,Stéphane Thibaudeau
+Fri Jun 22 11:46:11 2018,equalityHelperExtensionProvider.exsd,Stéphane Thibaudeau
+Fri Jun 22 11:46:11 2018,EMFCompareRCPPlugin.java,Stéphane Thibaudeau
+Fri Jun 22 11:46:11 2018,DefaultRCPMatchEngineFactory.java,Stéphane Thibaudeau
+Fri Jun 22 11:46:11 2018,EqualityHelperExtensionProviderDescriptorRCPImpl.java,Stéphane Thibaudeau
+Fri Jun 22 11:46:11 2018,EqualityHelperExtensionProviderDescriptorRegistryListener.java,Stéphane Thibaudeau
+Fri Jun 22 11:46:11 2018,DefaultMatchEngine.java,Stéphane Thibaudeau
+Fri Jun 22 11:46:11 2018,EditionDistance.java,Stéphane Thibaudeau
+Fri Jun 22 11:46:11 2018,EqualityHelperExtensionProvider.java,Stéphane Thibaudeau
+Fri Jun 22 11:46:11 2018,EqualityHelperExtensionProviderDescriptorRegistryImpl.java,Stéphane Thibaudeau
+Fri Jun 22 11:46:11 2018,MatchEngineFactoryImpl.java,Stéphane Thibaudeau
+Fri Jun 22 11:46:11 2018,EqualityHelper.java,Stéphane Thibaudeau

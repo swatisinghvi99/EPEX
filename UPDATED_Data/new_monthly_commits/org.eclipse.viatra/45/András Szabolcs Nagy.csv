@@ -1,0 +1,5 @@
+date_time,file,committer_name
+Mon Oct 10 12:41:29 2016,DesignSpaceExplorer.java,András Szabolcs Nagy
+Thu Oct 13 13:31:39 2016,ConstraintsObjective.java,András Szabolcs Nagy
+Thu Oct 13 13:41:09 2016,MinimalDepthHardObjective.java,András Szabolcs Nagy
+Thu Oct 13 13:41:09 2016,NoRuleActivationsHardObjective.java,András Szabolcs Nagy

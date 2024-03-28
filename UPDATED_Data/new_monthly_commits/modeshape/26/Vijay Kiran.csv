@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Thu Mar  4 15:39:48 2010,MavenRepository.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,JcrMavenUrlProvider.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,JdbcMetadataRepository.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,JdbcMetadataSource.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,LuceneSearchProcessor.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,MSOfficeMetadata.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,JaasSecurityContext.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,RepositoryConnectionPool.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,FederatedRepositoryConnection.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,Projection.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,ProjectionParser.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,ChangeObserver.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,ObservationBus.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,RuleBasedOptimizer.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,LoggingRequestProcessor.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,JcrEngine.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,JcrObservationManager.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,JcrRepository.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,RepositoryQueryManager.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,SessionCache.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,ModeShapeEngine.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,RepositoryService.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,JsonRestClient.java,Vijay Kiran
+Thu Mar  4 15:39:48 2010,ServerNode.java,Vijay Kiran

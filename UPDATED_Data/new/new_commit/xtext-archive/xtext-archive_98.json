@@ -1,0 +1,442 @@
+[
+    [
+        "Miro Spo\u0308nemann",
+        "gradle",
+        16
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "prefs",
+        1
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "xtend",
+        1
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "java",
+        3
+    ],
+    [
+        "Miro Spo\u0308nemann",
+        "launch",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "gitignore",
+        106
+    ],
+    [
+        "Sven Efftinge",
+        "prefs",
+        721
+    ],
+    [
+        "Sven Efftinge",
+        "gradle",
+        110
+    ],
+    [
+        "Sven Efftinge",
+        "classpath",
+        111
+    ],
+    [
+        "Sven Efftinge",
+        "project",
+        165
+    ],
+    [
+        "Sven Efftinge",
+        "MF",
+        132
+    ],
+    [
+        "Sven Efftinge",
+        "launch",
+        79
+    ],
+    [
+        "Sven Efftinge",
+        "html",
+        169
+    ],
+    [
+        "Sven Efftinge",
+        "properties",
+        272
+    ],
+    [
+        "Sven Efftinge",
+        "jardesc",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "mwe2",
+        79
+    ],
+    [
+        "Sven Efftinge",
+        "setup",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "def",
+        5
+    ],
+    [
+        "Sven Efftinge",
+        "txt",
+        987
+    ],
+    [
+        "Sven Efftinge",
+        "epf",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "css",
+        29
+    ],
+    [
+        "Sven Efftinge",
+        "xml",
+        301
+    ],
+    [
+        "Sven Efftinge",
+        "cspec",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "xtend",
+        2277
+    ],
+    [
+        "Sven Efftinge",
+        "java",
+        16449
+    ],
+    [
+        "Sven Efftinge",
+        "csv",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "g",
+        506
+    ],
+    [
+        "Sven Efftinge",
+        "tokens",
+        414
+    ],
+    [
+        "Sven Efftinge",
+        "xml_gen",
+        31
+    ],
+    [
+        "Sven Efftinge",
+        "ecore",
+        196
+    ],
+    [
+        "Sven Efftinge",
+        "genmodel",
+        179
+    ],
+    [
+        "Sven Efftinge",
+        "xtext",
+        206
+    ],
+    [
+        "Sven Efftinge",
+        "TXT",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "xbase",
+        20
+    ],
+    [
+        "Sven Efftinge",
+        "inf",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "cspex",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "ext",
+        30
+    ],
+    [
+        "Sven Efftinge",
+        "ant",
+        13
+    ],
+    [
+        "Sven Efftinge",
+        "index",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "xsl",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "unknown",
+        8
+    ],
+    [
+        "Sven Efftinge",
+        "bat",
+        5
+    ],
+    [
+        "Sven Efftinge",
+        "ISetup",
+        10
+    ],
+    [
+        "Sven Efftinge",
+        "ft",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "sdomain",
+        18
+    ],
+    [
+        "Sven Efftinge",
+        "md",
+        57
+    ],
+    [
+        "Sven Efftinge",
+        "xcore",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "nojdt",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "target",
+        15
+    ],
+    [
+        "Sven Efftinge",
+        "api_filters",
+        22
+    ],
+    [
+        "Sven Efftinge",
+        "xpt",
+        65
+    ],
+    [
+        "Sven Efftinge",
+        "flex",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "incl",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "ini",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "mappings",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "exsd",
+        7
+    ],
+    [
+        "Sven Efftinge",
+        "options",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "svg",
+        12
+    ],
+    [
+        "Sven Efftinge",
+        "MF_gen",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "cvsignore",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "b3aggrcon",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "b3aggr",
+        12
+    ],
+    [
+        "Sven Efftinge",
+        "sh",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "cquery",
+        5
+    ],
+    [
+        "Sven Efftinge",
+        "mspec",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "rmap",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "json",
+        10
+    ],
+    [
+        "Sven Efftinge",
+        "result",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "list",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "keyboard",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "buildertestlanguage",
+        5
+    ],
+    [
+        "Sven Efftinge",
+        "vscodeignore",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "ts",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "tmLanguage",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "importuritestlanguage",
+        9
+    ],
+    [
+        "Sven Efftinge",
+        "xtexterror",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "indextestlanguage",
+        5
+    ],
+    [
+        "Sven Efftinge",
+        "epatch",
+        26
+    ],
+    [
+        "Sven Efftinge",
+        "tst",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "chk",
+        3
+    ],
+    [
+        "Sven Efftinge",
+        "testlanguage",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "jsdtscope",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "container",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "name",
+        2
+    ],
+    [
+        "Sven Efftinge",
+        "js",
+        57
+    ],
+    [
+        "Sven Efftinge",
+        "entities",
+        1
+    ],
+    [
+        "Sven Efftinge",
+        "statemachine",
+        4
+    ],
+    [
+        "Sven Efftinge",
+        "yml",
+        2
+    ]
+]

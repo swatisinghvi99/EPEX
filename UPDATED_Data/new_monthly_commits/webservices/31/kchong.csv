@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Wed May  3 15:12:08 2006,WSDLXSDElementReferenceEditManager.java,kchong
+Wed May  3 15:12:08 2006,W11ParameterSection.java,kchong
+Wed May  3 17:28:21 2006,W11AddOperationCommand.java,kchong
+Wed May  3 17:31:00 2006,InternalWSDLMultiPageEditor.java,kchong
+Wed May  3 17:31:00 2006,W11MessageReferenceSection.java,kchong
+Fri May 26 17:56:12 2006,W11OpenExternalEditorHelper.java,kchong
+Fri May 26 21:27:40 2006,DefinitionsEditPart.java,kchong
+Fri May 26 21:27:40 2006,messages.properties,kchong
+Sat May 27 18:39:28 2006,WSDLEditorPlugin.java,kchong
+Sat May 27 18:39:28 2006,W11Binding.java,kchong
+Sat May 27 18:39:28 2006,W11BindingMessageReference.java,kchong
+Sat May 27 18:39:28 2006,W11BindingOperation.java,kchong
+Sat May 27 18:39:28 2006,W11CategoryAdapter.java,kchong
+Sat May 27 18:39:28 2006,W11Description.java,kchong
+Sat May 27 18:39:28 2006,W11EndPoint.java,kchong
+Sat May 27 18:39:28 2006,W11Import.java,kchong
+Sat May 27 18:39:28 2006,W11Interface.java,kchong
+Sat May 27 18:39:28 2006,W11Message.java,kchong
+Sat May 27 18:39:28 2006,W11MessageReference.java,kchong
+Sat May 27 18:39:28 2006,W11Operation.java,kchong
+Sat May 27 18:39:28 2006,W11ParameterForPart.java,kchong
+Sat May 27 18:39:28 2006,W11Service.java,kchong
+Sat May 27 18:39:28 2006,W11Type.java,kchong
+Sat May 27 18:39:28 2006,ASDMultiPageEditor.java,kchong
+Sat May 27 18:39:28 2006,ShowPropertiesViewAction.java,kchong
+Sat May 27 18:39:28 2006,messages.properties,kchong

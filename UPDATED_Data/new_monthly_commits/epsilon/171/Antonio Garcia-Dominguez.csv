@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Dec  5 19:43:44 2022,Egx.tokens,Antonio Garcia-Dominguez
+Mon Dec  5 19:43:44 2022,EgxLexer.java,Antonio Garcia-Dominguez
+Mon Dec  5 19:43:44 2022,EgxParser.java,Antonio Garcia-Dominguez
+Mon Dec  5 19:43:44 2022,EgxParserRules.g,Antonio Garcia-Dominguez
+Mon Dec  5 19:43:44 2022,EgxParserRules.tokens,Antonio Garcia-Dominguez
+Mon Dec  5 19:43:44 2022,Egx_EgxParserRules.java,Antonio Garcia-Dominguez
+Mon Dec  5 19:43:44 2022,Egx_EolLexerRules.java,Antonio Garcia-Dominguez
+Mon Dec  5 19:43:44 2022,Egx_EolParserRules.java,Antonio Garcia-Dominguez
+Mon Dec  5 19:43:44 2022,Egx_ErlParserRules.java,Antonio Garcia-Dominguez
+Mon Dec  5 19:43:44 2022,EolLexerRules.tokens,Antonio Garcia-Dominguez
+Mon Dec  5 19:43:44 2022,EolParserRules.tokens,Antonio Garcia-Dominguez
+Mon Dec  5 19:43:44 2022,ErlParserRules.tokens,Antonio Garcia-Dominguez
+Mon Dec  5 19:44:01 2022,EgxModule.java,Antonio Garcia-Dominguez
+Mon Dec  5 19:44:01 2022,GenerationRule.java,Antonio Garcia-Dominguez
+Mon Dec  5 19:44:01 2022,EgxUnparser.java,Antonio Garcia-Dominguez
+Tue Dec  6  9:12:55 2022,EgxAcceptanceTestSuite.java,Antonio Garcia-Dominguez
+Tue Dec  6  9:12:55 2022,FormatterTests.java,Antonio Garcia-Dominguez
+Tue Dec  6  9:12:55 2022,xml.egl,Antonio Garcia-Dominguez
+Tue Dec  6  9:12:55 2022,xml.egx,Antonio Garcia-Dominguez
+Tue Dec  6  9:12:55 2022,test.egx,Antonio Garcia-Dominguez
+Tue Dec  6 13:32:11 2022,EgxEditor.java,Antonio Garcia-Dominguez

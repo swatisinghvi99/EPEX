@@ -1,0 +1,287 @@
+[
+    [
+        "Tim Ward",
+        "java",
+        2581
+    ],
+    [
+        "Tim Ward",
+        "bndrun",
+        59
+    ],
+    [
+        "Tim Ward",
+        "xml",
+        322
+    ],
+    [
+        "Tim Ward",
+        "yml",
+        8
+    ],
+    [
+        "Tim Ward",
+        "yaml",
+        2
+    ],
+    [
+        "Tim Ward",
+        "unknown",
+        15
+    ],
+    [
+        "Tim Ward",
+        "md",
+        63
+    ],
+    [
+        "Tim Ward",
+        "gitignore",
+        42
+    ],
+    [
+        "Tim Ward",
+        "json",
+        288
+    ],
+    [
+        "Tim Ward",
+        "ecore",
+        7
+    ],
+    [
+        "Tim Ward",
+        "genmodel",
+        5
+    ],
+    [
+        "Tim Ward",
+        "bnd",
+        161
+    ],
+    [
+        "Tim Ward",
+        "sh",
+        7
+    ],
+    [
+        "Tim Ward",
+        "jar",
+        16
+    ],
+    [
+        "Tim Ward",
+        "bundle",
+        8
+    ],
+    [
+        "Tim Ward",
+        "feature",
+        6
+    ],
+    [
+        "Tim Ward",
+        "html",
+        13
+    ],
+    [
+        "Tim Ward",
+        "xsd",
+        5
+    ],
+    [
+        "Tim Ward",
+        "cfg",
+        2
+    ],
+    [
+        "Tim Ward",
+        "policy",
+        7
+    ],
+    [
+        "Tim Ward",
+        "properties",
+        7
+    ],
+    [
+        "Tim Ward",
+        "config",
+        20
+    ],
+    [
+        "Tim Ward",
+        "txt",
+        4
+    ],
+    [
+        "Tim Ward",
+        "bat",
+        1
+    ],
+    [
+        "Tim Ward",
+        "header",
+        1
+    ],
+    [
+        "Tim Ward",
+        "MD",
+        5
+    ],
+    [
+        "Tim Ward",
+        "DynamicParameterValueFactory",
+        1
+    ],
+    [
+        "Tim Ward",
+        "AccessMethodTriggerFactory",
+        1
+    ],
+    [
+        "Tim Ward",
+        "xmi",
+        1
+    ],
+    [
+        "Tim Ward",
+        "SensinactCoreBaseIFaceManagerFactory",
+        1
+    ],
+    [
+        "Tim Ward",
+        "sql",
+        5
+    ],
+    [
+        "Tim Ward",
+        "UserKeyBuilderFactory",
+        2
+    ],
+    [
+        "Tim Ward",
+        "MF",
+        1
+    ],
+    [
+        "Tim Ward",
+        "SF",
+        2
+    ],
+    [
+        "Tim Ward",
+        "bis",
+        2
+    ],
+    [
+        "Tim Ward",
+        "java_",
+        2
+    ],
+    [
+        "Tim Ward",
+        "csv",
+        26
+    ],
+    [
+        "Tim Ward",
+        "ca",
+        1
+    ],
+    [
+        "Tim Ward",
+        "js",
+        5
+    ],
+    [
+        "Tim Ward",
+        "PacketReaderFactory",
+        1
+    ],
+    [
+        "Tim Ward",
+        "g4",
+        6
+    ],
+    [
+        "Tim Ward",
+        "browserslistrc",
+        2
+    ],
+    [
+        "Tim Ward",
+        "editorconfig",
+        3
+    ],
+    [
+        "Tim Ward",
+        "eslintignore",
+        2
+    ],
+    [
+        "Tim Ward",
+        "eslintrc",
+        2
+    ],
+    [
+        "Tim Ward",
+        "npmignore",
+        2
+    ],
+    [
+        "Tim Ward",
+        "openapi-generator-ignore",
+        2
+    ],
+    [
+        "Tim Ward",
+        "ts",
+        22
+    ],
+    [
+        "Tim Ward",
+        "vue",
+        16
+    ],
+    [
+        "Tim Ward",
+        "scss",
+        2
+    ],
+    [
+        "Thomas Calmant",
+        "java",
+        63
+    ],
+    [
+        "Thomas Calmant",
+        "bndrun",
+        12
+    ],
+    [
+        "Thomas Calmant",
+        "xml",
+        4
+    ],
+    [
+        "Thomas Calmant",
+        "json",
+        2
+    ],
+    [
+        "Thomas Calmant",
+        "md",
+        3
+    ],
+    [
+        "Thomas Calmant",
+        "jar",
+        2
+    ],
+    [
+        "Thomas Calmant",
+        "bundle",
+        1
+    ]
+]

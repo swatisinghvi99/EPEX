@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Mon Jan 15 13:51:00 2024,MANIFEST.MF,Laurent Redor
+Mon Jan 15 13:51:00 2024,DiagramElkPlugin.java,Laurent Redor
+Mon Jan 15 13:51:00 2024,ELKLayoutNodeProvider.java,Laurent Redor
+Mon Jan 15 13:51:00 2024,ElkDiagramLayoutConnector.java,Laurent Redor
+Mon Jan 15 13:51:00 2024,Messages.java,Laurent Redor
+Mon Jan 15 13:51:00 2024,MANIFEST.MF,Laurent Redor
+Mon Jan 15 13:51:00 2024,plugin.properties,Laurent Redor
+Mon Jan 15 13:51:00 2024,plugin.xml,Laurent Redor
+Mon Jan 15 13:51:00 2024,Messages.java,Laurent Redor
+Mon Jan 15 13:51:00 2024,ELK090MigrationParticipant.java,Laurent Redor
+Mon Jan 15 13:51:00 2024,MANIFEST.MF,Laurent Redor
+Mon Jan 15 13:51:00 2024,ELK0.7.1-0.9.0-changes.odesign,Laurent Redor
+Mon Jan 15 13:51:00 2024,AllCommonPluginTests.java,Laurent Redor
+Mon Jan 15 13:51:00 2024,ELK090VSMMigrationTest.java,Laurent Redor
+Mon Jan 15 13:51:00 2024,ElkDiagramLayoutConnector.java,Laurent Redor
+Tue Jan 16 15:53:14 2024,LayoutOptionsTests.java,Laurent Redor
+Thu Jan 18  7:51:04 2024,tc1041.aird,Laurent Redor
+Thu Jan 18  7:51:04 2024,tc1041.odesign,Laurent Redor
+Thu Jan 18  7:51:04 2024,DragNDropTest.java,Laurent Redor
+Thu Jan 18  7:51:04 2024,DragAndDropValidator.java,Laurent Redor

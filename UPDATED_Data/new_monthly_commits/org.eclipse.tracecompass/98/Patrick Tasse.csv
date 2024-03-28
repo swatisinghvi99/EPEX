@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Fri Jul  6 13:28:10 2018,TmfOpenTraceHelper.java,Patrick Tasse
+Fri Jul  6 19:09:34 2018,ControlFlowPresentationProvider.java,Patrick Tasse
+Fri Jul  6 19:09:34 2018,ResourcesPresentationProvider.java,Patrick Tasse
+Fri Jul  6 19:09:34 2018,CallStackPresentationProvider.java,Patrick Tasse
+Fri Jul  6 19:09:34 2018,CallStackPresentationProvider.java,Patrick Tasse
+Fri Jul  6 19:09:34 2018,StateSystemEvent.java,Patrick Tasse
+Fri Jul  6 19:09:34 2018,StateSystemPresentationProvider.java,Patrick Tasse
+Fri Jul  6 19:09:34 2018,IMarkerEvent.java,Patrick Tasse
+Fri Jul  6 19:09:34 2018,ITimeEvent.java,Patrick Tasse
+Fri Jul  6 19:09:34 2018,ITimeEventStyleStrings.java,Patrick Tasse
+Fri Jul  6 19:09:34 2018,NamedTimeEvent.java,Patrick Tasse
+Fri Jul  6 19:09:34 2018,TimeGraphControl.java,Patrick Tasse
+Fri Jul  6 19:09:34 2018,Utils.java,Patrick Tasse
+Fri Jul  6 20:19:58 2018,ITimeEvent.java,Patrick Tasse
+Fri Jul  6 21:20:27 2018,User-Guide.mediawiki,Patrick Tasse
+Fri Jul  6 21:20:27 2018,TimeGraphControl.java,Patrick Tasse
+Wed Jul 11 20:17:12 2018,SWTBotTimeGraph.java,Patrick Tasse
+Fri Jul 13 12:41:02 2018,ImageHelper.java,Patrick Tasse
+Fri Jul 13 12:41:02 2018,TimeGraphViewTest.java,Patrick Tasse
+Mon Jul 16 14:20:42 2018,MANIFEST.MF,Patrick Tasse
+Mon Jul 16 14:20:42 2018,IYAppearance.java,Patrick Tasse
+Mon Jul 16 14:20:42 2018,ITmfStateProvider.java,Patrick Tasse
+Mon Jul 16 17:29:47 2018,CtfTmfExperimentTrimmingTest.java,Patrick Tasse

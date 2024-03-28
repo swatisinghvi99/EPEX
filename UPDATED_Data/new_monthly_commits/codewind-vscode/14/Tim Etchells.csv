@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Tue Jun 30 17:19:08 2020,sources-registries-tables.css,Tim Etchells
+Tue Jun 30 17:19:08 2020,InputUtil.ts,Tim Etchells
+Tue Jun 30 17:19:08 2020,TemplateSourceWizard.ts,Tim Etchells
+Tue Jun 30 17:19:08 2020,CreateUserProjectCmd.ts,Tim Etchells
+Tue Jun 30 17:19:08 2020,SourcesPageWrapper.ts,Tim Etchells
+Tue Jun 30 17:19:08 2020,vsce-package.js,Tim Etchells
+Mon Jul  6 12:15:44 2020,CWExtensionContext.ts,Tim Etchells
+Mon Jul  6 12:15:44 2020,MCLogManager.ts,Tim Etchells
+Mon Jul  6 12:15:44 2020,ManageLogsCmd.ts,Tim Etchells

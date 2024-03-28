@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Mon Sep 23 19:36:26 2013,MinimalState.java,Curtis Windatt
+Tue Sep 24 18:34:26 2013,LoadTargetDefinitionJob.java,Curtis Windatt
+Tue Sep 24 18:34:26 2013,TargetPlatformPreferencePage.java,Curtis Windatt
+Tue Sep 24 18:34:26 2013,TargetLocationContentProvider.java,Curtis Windatt
+Tue Sep 24 18:34:26 2013,TargetLocationsGroup.java,Curtis Windatt
+Tue Sep 24 18:34:26 2013,TargetStatus.java,Curtis Windatt
+Tue Sep 24 20:36:53 2013,ManifestUtils.java,Curtis Windatt
+Wed Sep 25 18:24:35 2013,TargetPlatformPreferencePage.java,Curtis Windatt
+Tue Oct  1 21:25:27 2013,LoadTargetDefinitionJob.java,Curtis Windatt
+Tue Oct  1 21:25:27 2013,ExternalFeatureModelManager.java,Curtis Windatt
+Tue Oct  1 21:25:27 2013,PDECoreMessages.java,Curtis Windatt
+Tue Oct  1 21:25:27 2013,PluginModelManager.java,Curtis Windatt
+Tue Oct  1 21:25:27 2013,RequiredPluginsInitializer.java,Curtis Windatt
+Tue Oct  1 21:25:27 2013,TargetPlatformHelper.java,Curtis Windatt
+Tue Oct  1 21:25:27 2013,pderesources.properties,Curtis Windatt
+Tue Oct  1 21:25:27 2013,pderesources.properties,Curtis Windatt
+Tue Oct  1 21:25:27 2013,NewFeatureProjectWizard.java,Curtis Windatt
+Tue Oct  1 21:25:27 2013,PluginListPage.java,Curtis Windatt
+Tue Oct  1 21:25:27 2013,FragmentContentPage.java,Curtis Windatt
+Tue Oct  1 21:25:27 2013,NewPluginProjectWizard.java,Curtis Windatt
+Tue Oct  1 21:25:27 2013,NewProjectCreationPage.java,Curtis Windatt
+Tue Oct  1 21:25:27 2013,NewPluginProjectFromTemplateWizard.java,Curtis Windatt
+Tue Oct 15 15:44:31 2013,WorkspaceBundleModel.java,Curtis Windatt
+Tue Oct 15 15:44:31 2013,ManifestUtils.java,Curtis Windatt
+Wed Oct 16 18:22:13 2013,ProjectCreationTests.java,Curtis Windatt

@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Fri Aug 31 11:57:43 2012,MANIFEST.MF,dkolovos
+Fri Aug 31 11:57:43 2012,EmfaticPreferencePage.java,dkolovos
+Fri Aug 31 11:57:43 2012,PreferenceConstants.java,dkolovos
+Fri Aug 31 11:57:43 2012,PreferenceInitializer.java,dkolovos
+Tue Sep  4 23:35:46 2012,Connector.java,dkolovos
+Wed Sep  5  2:09:13 2012,EmfaticEditor.java,dkolovos
+Wed Sep  5  2:44:14 2012,Emfatic2.jj,dkolovos
+Wed Sep  5  2:44:14 2012,EmfaticParser.java,dkolovos
+Wed Sep  5  2:44:14 2012,EmfaticParserConstants.java,dkolovos
+Wed Sep  5  2:44:14 2012,EmfaticParserTokenManager.java,dkolovos
+Wed Sep  5  2:53:39 2012,EmfaticParserDriver.java,dkolovos
+Wed Sep  5  2:53:39 2012,EmfaticParserDriver.java,dkolovos
+Wed Sep  5  2:53:39 2012,EmfaticParserDriver.java,dkolovos
+Wed Sep  5  2:53:39 2012,EmfaticAnnotationMap.java,dkolovos
+Wed Sep  5  2:53:39 2012,DebugPartitioner.java,dkolovos
+Wed Sep  5  2:53:39 2012,ASTNodeImpl.java,dkolovos
+Sun Sep  9 16:59:17 2012,EmfaticCSTChangeListener.java,dkolovos
+Sun Sep  9 16:59:17 2012,EmfaticTemplateCompletionProcessor.java,dkolovos
+Sun Sep  9 22:55:49 2012,EmfaticEditor.java,dkolovos
+Sun Sep  9 23:00:47 2012,GenerateEcore.java,dkolovos
+Sun Sep  9 23:00:47 2012,GenerateEmfatic.java,dkolovos

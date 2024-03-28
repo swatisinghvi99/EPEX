@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Sun Jul 29 13:43:50 2012,org.eclipse.jgit.pgm.TextBuiltin,Christian Halstrick
+Sun Jul 29 13:43:50 2012,Gc.java,Christian Halstrick
+Sun Jul 29 13:43:50 2012,GCTest.java,Christian Halstrick
+Sun Jul 29 13:43:50 2012,RefDirectoryTest.java,Christian Halstrick
+Sun Jul 29 13:43:50 2012,JGitText.properties,Christian Halstrick
+Sun Jul 29 13:43:50 2012,JGitText.java,Christian Halstrick
+Sun Jul 29 13:43:50 2012,GC.java,Christian Halstrick
+Sun Jul 29 13:43:50 2012,PackFile.java,Christian Halstrick
+Sun Jul 29 13:43:50 2012,RefDirectory.java,Christian Halstrick
+Tue Aug 21 13:10:02 2012,RefDirectoryTest.java,Christian Halstrick
+Tue Aug 21 13:10:02 2012,RefDirectory.java,Christian Halstrick
+Tue Aug 28  9:33:42 2012,GitDateParserTest.java,Christian Halstrick
+Tue Aug 28  9:33:42 2012,GitDateParser.java,Christian Halstrick
+Tue Aug 28  9:33:42 2012,SystemReader.java,Christian Halstrick

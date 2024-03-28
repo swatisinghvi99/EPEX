@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Wed Dec 14 10:04:54 2016,WidgetIsFound.java,mlabuda
+Wed Dec 14 10:04:54 2016,ConsoleHasText.java,mlabuda
+Wed Dec 14 10:04:54 2016,ConsoleView.java,mlabuda
+Wed Dec 14 10:04:54 2016,ConsoleViewTest.java,mlabuda
+Wed Dec 14 11:18:18 2016,MANIFEST.MF,mlabuda
+Wed Dec 14 11:18:18 2016,ExactNumberOfProblemsExists.java,mlabuda
+Wed Dec 14 11:18:18 2016,ProblemExists.java,mlabuda
+Wed Dec 14 11:18:18 2016,ProblemsViewIsEmpty.java,mlabuda
+Wed Dec 14 11:18:18 2016,AbstractMarker.java,mlabuda
+Wed Dec 14 11:18:18 2016,Marker.java,mlabuda
+Wed Dec 14 11:18:18 2016,AbstractMarkerMatcher.java,mlabuda
+Wed Dec 14 11:18:18 2016,MarkerCreationTimeMatcher.java,mlabuda
+Wed Dec 14 11:18:18 2016,MarkerDescriptionMatcher.java,mlabuda
+Wed Dec 14 11:18:18 2016,MarkerIDMatcher.java,mlabuda
+Wed Dec 14 11:18:18 2016,MarkerLocationMatcher.java,mlabuda
+Wed Dec 14 11:18:18 2016,MarkerPathMatcher.java,mlabuda
+Wed Dec 14 11:18:18 2016,MarkerResourceMatcher.java,mlabuda
+Wed Dec 14 11:18:18 2016,MarkerTypeMatcher.java,mlabuda
+Wed Dec 14 11:18:18 2016,Problem.java,mlabuda
+Wed Dec 14 11:18:18 2016,AbstractMarkersSupportView.java,mlabuda
+Wed Dec 14 11:18:18 2016,MarkersView.java,mlabuda
+Wed Dec 14 11:18:18 2016,ProblemsView.java,mlabuda
+Wed Dec 14 11:18:18 2016,ProblemsViewTest.java,mlabuda
+Wed Dec 14 11:18:18 2016,ToolItemMenuTest.java,mlabuda
+Wed Dec 14 11:18:18 2016,EditorTest.java,mlabuda

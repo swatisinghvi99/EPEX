@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Tue Jan 30  8:11:36 2024,grammar.ts,Johannes Meier
+Tue Jan 30  8:11:36 2024,internal-grammar-util.ts,Johannes Meier
+Tue Jan 30  8:11:36 2024,langium-grammar.langium,Johannes Meier
+Tue Jan 30  8:11:36 2024,grammar-scope.ts,Johannes Meier
+Tue Jan 30  8:11:36 2024,validator.ts,Johannes Meier
+Tue Jan 30  8:11:36 2024,ast.ts,Johannes Meier
+Tue Jan 30  8:11:36 2024,grammar-utils.ts,Johannes Meier
+Tue Jan 30  8:11:36 2024,grammar-validator.test.ts,Johannes Meier
+Tue Jan 30  8:11:36 2024,type-validator.test.ts,Johannes Meier

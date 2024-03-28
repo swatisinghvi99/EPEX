@@ -1,0 +1,132 @@
+[
+    [
+        "Tomasz Zarna",
+        "java",
+        64
+    ],
+    [
+        "Tomasz Zarna",
+        "properties",
+        1
+    ],
+    [
+        "Tomasz Zarna",
+        "MF",
+        1
+    ],
+    [
+        "Tomasz Zarna",
+        "json",
+        3
+    ],
+    [
+        "Steffen Pingel",
+        "java",
+        66
+    ],
+    [
+        "Steffen Pingel",
+        "MF",
+        5
+    ],
+    [
+        "Steffen Pingel",
+        "classpath",
+        1
+    ],
+    [
+        "Steffen Pingel",
+        "properties",
+        6
+    ],
+    [
+        "Steffen Pingel",
+        "xml",
+        8
+    ],
+    [
+        "Steffen Pingel",
+        "exsd",
+        2
+    ],
+    [
+        "Steffen Pingel",
+        "api_filters",
+        1
+    ],
+    [
+        "Steffen Pingel",
+        "pp",
+        1
+    ],
+    [
+        "Caitlin Matthew",
+        "java",
+        7
+    ],
+    [
+        "Benjamin Muskalla",
+        "java",
+        3
+    ],
+    [
+        "Marc-Andre Laperle",
+        "java",
+        1
+    ],
+    [
+        "cthompsonvjc",
+        "java",
+        1
+    ],
+    [
+        "Frank Becker",
+        "target",
+        1
+    ],
+    [
+        "Frank Becker",
+        "MF",
+        1
+    ],
+    [
+        "Frank Becker",
+        "java",
+        10
+    ],
+    [
+        "Sam Davis",
+        "java",
+        10
+    ],
+    [
+        "Sam Davis",
+        "properties",
+        1
+    ],
+    [
+        "David Green",
+        "java",
+        1
+    ],
+    [
+        "Krzysztof Daniel",
+        "target",
+        1
+    ],
+    [
+        "Krzysztof Daniel",
+        "xml",
+        3
+    ],
+    [
+        "Krzysztof Daniel",
+        "MF",
+        3
+    ],
+    [
+        "Krzysztof Daniel",
+        "java",
+        7
+    ]
+]

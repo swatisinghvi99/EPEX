@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Tue Jul  6 19:23:39 2010,UIEventObjectSupplier.java,Oleg Besedin
+Tue Jul  6 19:23:39 2010,InjectionEventTest.java,Oleg Besedin
+Thu Jul  8 15:45:13 2010,WorkbenchPage.java,Oleg Besedin
+Wed Jul 14 15:44:33 2010,EditorReference.java,Oleg Besedin
+Fri Jul 16 19:26:23 2010,MANIFEST.MF,Oleg Besedin
+Fri Jul 16 19:26:23 2010,SWTRenderersActivator.java,Oleg Besedin
+Fri Jul 16 19:26:23 2010,SWTRenderersMessages.java,Oleg Besedin
+Fri Jul 16 19:26:23 2010,messages.properties,Oleg Besedin
+Fri Jul 16 19:26:23 2010,StackRenderer.java,Oleg Besedin
+Wed Jul 21 16:09:11 2010,WorkbenchPage.java,Oleg Besedin
+Wed Jul 21 17:31:23 2010,WorkbenchWindowConfigurer.java,Oleg Besedin
+Thu Jul 22 18:14:50 2010,IServiceConstants.java,Oleg Besedin
+Thu Jul 22 18:19:45 2010,Workbench.java,Oleg Besedin
+Thu Jul 22 18:19:45 2010,ModeledPageLayout.java,Oleg Besedin
+Thu Jul 22 18:19:45 2010,ModeledPlaceholderFolderLayout.java,Oleg Besedin
+Thu Jul 22 18:19:45 2010,ModeledViewLayout.java,Oleg Besedin
+Thu Jul 22 18:19:45 2010,PerspectiveRegistry.java,Oleg Besedin
+Fri Jul 23 15:41:02 2010,PerspectiveSwitcher.java,Oleg Besedin
+Fri Jul 23 15:41:02 2010,ModelServiceImpl.java,Oleg Besedin
+Fri Jul 23 15:41:02 2010,.options,Oleg Besedin
+Fri Jul 23 15:41:02 2010,WorkbenchPlugin.java,Oleg Besedin
+Fri Jul 23 15:41:02 2010,E4Util.java,Oleg Besedin
+Fri Jul 23 15:41:02 2010,LegacyHandlerService.java,Oleg Besedin
+Fri Jul 23 15:41:02 2010,EvaluationService.java,Oleg Besedin

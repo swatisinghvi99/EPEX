@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Thu Mar  3  2:08:35 2011,CommitIntegrityCheck.java,Caspar De Groot
+Wed Mar  9  6:37:56 2011,AllConfigs.java,Caspar De Groot
+Wed Mar  9  6:37:56 2011,Bugzilla_338884_Test.java,Caspar De Groot
+Wed Mar  9  6:37:56 2011,CDOPushTransaction.java,Caspar De Groot
+Wed Mar  9  6:37:56 2011,CDOTransaction.java,Caspar De Groot
+Wed Mar  9  6:37:56 2011,CDOTransactionImpl.java,Caspar De Groot
+Wed Mar  9  6:37:56 2011,CommitIntegrityCheck.java,Caspar De Groot
+Wed Mar  9  6:40:54 2011,CommitIntegrityCheck.java,Caspar De Groot
+Wed Mar  9  7:39:32 2011,CDOSessionImpl.java,Caspar De Groot
+Wed Mar  9  8:55:10 2011,AllConfigs.java,Caspar De Groot
+Wed Mar  9  8:55:10 2011,Bugzilla_338779_Test.java,Caspar De Groot
+Wed Mar  9  8:55:10 2011,CDOStateMachine.java,Caspar De Groot
+Thu Mar 10  5:42:08 2011,CDOSession.java,Caspar De Groot
+Thu Mar 10  8:05:18 2011,Bugzilla_338884_Test.java,Caspar De Groot
+Thu Mar 10  8:05:18 2011,CommitIntegrityCheck.java,Caspar De Groot
+Thu Mar 10  8:12:36 2011,AllConfigs.java,Caspar De Groot
+Thu Mar 10  8:12:36 2011,Bugzilla_339461_Test.java,Caspar De Groot
+Thu Mar 10  8:12:36 2011,CDOTransactionImpl.java,Caspar De Groot
+Wed Mar 23  2:50:27 2011,LoadRevisionsIndication.java,Caspar De Groot
+Wed Mar 23  2:50:27 2011,AllConfigs.java,Caspar De Groot
+Wed Mar 23  2:50:27 2011,Bugzilla_339313_Test.java,Caspar De Groot

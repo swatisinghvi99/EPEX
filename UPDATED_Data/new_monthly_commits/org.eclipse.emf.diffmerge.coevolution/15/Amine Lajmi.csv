@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Thu Mar  9 17:06:38 2017,MANIFEST.MF,Amine Lajmi
+Thu Mar  9 17:06:38 2017,Messages.java,Amine Lajmi
+Thu Mar  9 17:06:38 2017,TransposerBridgeExecution.java,Amine Lajmi
+Thu Mar  9 17:06:38 2017,TransposerBridgeOperation.java,Amine Lajmi
+Thu Mar  9 17:06:38 2017,TransposerTraceLoggingMessage.java,Amine Lajmi
+Thu Mar  9 17:06:38 2017,messages.properties,Amine Lajmi
+Thu Mar  9 17:11:07 2017,BridgeJob.java,Amine Lajmi
+Thu Mar  9 17:11:07 2017,Messages.java,Amine Lajmi
+Thu Mar  9 17:11:07 2017,messages.properties,Amine Lajmi
+Thu Mar  9 17:11:07 2017,MANIFEST.MF,Amine Lajmi
+Thu Mar  9 17:11:07 2017,build.properties,Amine Lajmi
+Thu Mar  9 17:11:07 2017,BridgeConsole.java,Amine Lajmi
+Thu Mar  9 17:11:07 2017,BridgeLogger.java,Amine Lajmi
+Thu Mar  9 17:11:07 2017,BaseTraceLoggingMessage.java,Amine Lajmi
+Thu Mar  9 17:12:28 2017,Messages.java,Amine Lajmi
+Thu Mar  9 17:12:28 2017,messages.properties,Amine Lajmi
+Thu Mar  9 17:12:28 2017,MappingBridgeOperation.java,Amine Lajmi
+Thu Mar  9 17:12:28 2017,QueryLoggingMessage.java,Amine Lajmi
+Thu Mar  9 17:12:28 2017,RuleLoggingMessage.java,Amine Lajmi
+Thu Mar  9 17:12:28 2017,TraceLoggingMessage.java,Amine Lajmi
+Tue Mar 14 16:04:59 2017,BridgeJob.java,Amine Lajmi
+Tue Mar 14 16:04:59 2017,BridgeConsole.java,Amine Lajmi
+Tue Mar 14 16:04:59 2017,BridgeLogger.java,Amine Lajmi
+Tue Mar 14 16:04:59 2017,QueryLoggingMessage.java,Amine Lajmi

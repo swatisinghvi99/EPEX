@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Fri Jan 19 22:04:45 2024,ConfigurationStore.java,Jörg Kubitz
+Fri Jan 19 22:04:45 2024,CloseableURLClassLoader.java,Jörg Kubitz
+Fri Jan 19 22:04:45 2024,TestHookConfigurator.java,Jörg Kubitz
+Fri Jan 19 22:04:45 2024,ClassLoadingBundleTests.java,Jörg Kubitz
+Fri Jan 19 22:05:38 2024,UserTest.java,Jörg Kubitz
+Fri Jan 19 22:05:38 2024,ResolverHookTests.java,Jörg Kubitz
+Fri Jan 19 22:09:31 2024,Activator.java,Jörg Kubitz
+Fri Jan 19 22:09:31 2024,ClassLoadingBundleTests.java,Jörg Kubitz
+Fri Jan 19 22:09:31 2024,SystemBundleTests.java,Jörg Kubitz
+Fri Jan 19 22:09:31 2024,AbstractFrameworkHookTests.java,Jörg Kubitz

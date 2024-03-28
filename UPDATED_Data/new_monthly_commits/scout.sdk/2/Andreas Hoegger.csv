@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Wed Jan 12 17:41:44 2011,plugin.xml,Andreas Hoegger
+Wed Jan 12 17:41:44 2011,NlsProposal.java,Andreas Hoegger
+Wed Jan 12 17:41:44 2011,NlsTextCompletionProposalComputer.java,Andreas Hoegger
+Wed Jan 12 17:43:16 2011,NlsTextCompletionProposalComputer.java,Andreas Hoegger
+Wed Jan 12 22:36:01 2011,NlsTableModel.java,Andreas Hoegger
+Wed Jan 12 22:36:01 2011,RemoveAction.java,Andreas Hoegger
+Wed Jan 12 22:36:01 2011,NlsTable.java,Andreas Hoegger
+Wed Jan 12 22:36:01 2011,NlsTablePage.java,Andreas Hoegger
+Wed Jan 12 22:36:01 2011,NlsUtil.java,Andreas Hoegger
+Thu Jan 13  9:36:11 2011,NlsTableCursor.java,Andreas Hoegger
+Mon Jan 17 14:44:43 2011,plugin.xml,Andreas Hoegger
+Mon Jan 17 14:44:43 2011,outlineCopyAndPaste.exsd,Andreas Hoegger
+Mon Jan 17 14:44:43 2011,ICopySourceDelegator.java,Andreas Hoegger
+Mon Jan 17 14:44:43 2011,IPasteTargetDelegator.java,Andreas Hoegger
+Mon Jan 17 14:44:43 2011,CopyAndPasteExtensionPoint.java,Andreas Hoegger
+Mon Jan 17 14:44:43 2011,ScoutExplorerPart.java,Andreas Hoegger
+Mon Jan 17 14:44:43 2011,ExplorerCopyAndPasteSupport.java,Andreas Hoegger
+Mon Jan 17 14:44:43 2011,TableColumnWidthsPasteTargetDelegator.java,Andreas Hoegger
+Mon Jan 17 14:44:43 2011,OutlineCopySourceEvent.java,Andreas Hoegger
+Mon Jan 17 14:44:43 2011,OutlinePasteTargetEvent.java,Andreas Hoegger
+Mon Jan 17 14:44:43 2011,Texts.properties,Andreas Hoegger
+Mon Jan 17 14:44:43 2011,RuntimeClasses.java,Andreas Hoegger
+Mon Jan 17 14:44:43 2011,RuntimeConstants.java,Andreas Hoegger

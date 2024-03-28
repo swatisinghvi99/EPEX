@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Fri Feb 26 14:11:56 2010,Main.java,Thomas Watson
+Fri Feb 26 14:11:56 2010,EclipseEnvironmentInfo.java,Thomas Watson
+Fri Feb 26 15:31:57 2010,EclipseLog.java,Thomas Watson
+Fri Feb 26 16:00:43 2010,StreamHandlerFactory.java,Thomas Watson
+Mon Mar  1 14:11:30 2010,EnvironmentInfoTest.java,Thomas Watson
+Mon Mar  1 15:14:01 2010,CachedManifest.java,Thomas Watson
+Tue Mar  2 23:15:20 2010,ApplicationAdminTest.java,Thomas Watson
+Tue Mar  2 23:15:20 2010,ExitValueApp.java,Thomas Watson
+Wed Mar 17 20:47:05 2010,PermissionInfoCollection.java,Thomas Watson
+Thu Mar 18 21:14:48 2010,.classpath,Thomas Watson
+Thu Mar 18 21:14:48 2010,.project,Thomas Watson
+Thu Mar 18 21:14:48 2010,All OSGi Tests.launch,Thomas Watson
+Thu Mar 18 21:14:48 2010,build.properties,Thomas Watson
+Thu Mar 18 21:14:48 2010,MANIFEST.MF,Thomas Watson
+Thu Mar 18 21:14:48 2010,Activator.java,Thomas Watson
+Thu Mar 18 21:14:48 2010,MANIFEST.MF,Thomas Watson
+Thu Mar 18 21:14:48 2010,component.xml,Thomas Watson
+Thu Mar 18 21:14:48 2010,Component.java,Thomas Watson
+Thu Mar 18 21:14:48 2010,AbstractBundleTests.java,Thomas Watson
+Thu Mar 18 21:14:48 2010,ClassLoadingBundleTests.java,Thomas Watson
+Thu Mar 18 21:14:48 2010,AbstractBundle.java,Thomas Watson
+Thu Mar 18 21:14:48 2010,StartLevelManager.java,Thomas Watson

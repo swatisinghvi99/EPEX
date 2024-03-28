@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Fri Sep 20 20:05:25 2019,config.json,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,configuration.yml,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,plugins-list,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,Dockerfile,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,config.json,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,configuration.yml,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,permissions.hbs,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,plugins-list,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,quicksilver.css.override,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,title.js,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,configmap-jenkins-config.yml,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,known-hosts.yml,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,limit-range.yml,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,m2-dir.yml,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,namespace.yml,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,resource-quotas.yml,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,role-binding.yml,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,role.yml,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,route.yml,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,service-account.yml,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,service-jenkins-discovery.yml,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,service-jenkins-ui.yml,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,statefulset.yml,Mikaël Barbero
+Fri Sep 20 20:05:25 2019,tools-pv.yml,Mikaël Barbero

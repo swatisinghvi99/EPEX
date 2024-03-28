@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Mon Jun  2  8:24:57 2014,E4Application.java,Christoph Keimel
+Mon Jun  2  8:51:57 2014,E4Application.java,Christoph Keimel
+Mon Jun  2 11:17:45 2014,AbstractE4Application.java,Christoph Keimel
+Tue Jun  3  8:50:01 2014,MANIFEST.MF,Christoph Keimel
+Tue Jun  3  8:50:01 2014,RestartService.java,Christoph Keimel
+Tue Jun  3  8:50:01 2014,MANIFEST.MF,Christoph Keimel
+Tue Jun  3  8:50:01 2014,AbstractE4Application.java,Christoph Keimel
+Tue Jun  3  8:50:01 2014,RestartPreferenceUtil.java,Christoph Keimel
+Tue Jun  3  8:50:01 2014,RestartServiceImpl.java,Christoph Keimel
+Wed Jun  4  7:59:18 2014,Constants.java,Christoph Keimel
+Wed Jun  4  7:59:18 2014,E4Application.java,Christoph Keimel
+Wed Jun 11  6:07:02 2014,Constants.java,Christoph Keimel
+Thu Jun 12 10:45:57 2014,Application.e4xmi,Christoph Keimel
+Thu Jun 12 10:45:57 2014,org.eclipse.fx.testcases.e4.product,Christoph Keimel
+Thu Jun 12 10:45:57 2014,CleanRestartHandler.java,Christoph Keimel
+Thu Jun 12 10:45:57 2014,ExitHandler.java,Christoph Keimel
+Thu Jun 12 10:45:57 2014,RestartHandler.java,Christoph Keimel
+Thu Jun 12 10:45:57 2014,StartCountPart.java,Christoph Keimel

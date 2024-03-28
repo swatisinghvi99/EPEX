@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Thu Apr 12  8:55:31 2018,MANIFEST.MF,Florian Barbin
+Thu Apr 12  8:55:31 2018,CreateConnectionRequestHelper.java,Florian Barbin
+Thu Apr 12  8:55:31 2018,SiriusGraphicalNodeEditPolicy.java,Florian Barbin
+Thu Apr 12  8:55:31 2018,GenericConnectionCreationTool.java,Florian Barbin
+Thu Apr 12  9:01:55 2018,AirXYLayoutEditPolicy.java,Florian Barbin
+Thu Apr 12  9:02:58 2018,ExportAction.java,Florian Barbin
+Thu Apr 12  9:02:58 2018,AbstractExportRepresentationsAction.java,Florian Barbin
+Thu Apr 12  9:02:58 2018,ExportRepresentationsFromFileAction.java,Florian Barbin
+Thu Apr 26  8:01:25 2018,AirXYLayoutEditPolicy.java,Florian Barbin
+Fri Apr 27 13:05:15 2018,AbstractTabbarContributor.java,Florian Barbin
+Fri Apr 27 13:05:15 2018,Release_Notes.html,Florian Barbin
+Fri Apr 27 13:05:15 2018,Release_Notes.textile,Florian Barbin
+Fri Apr 27 13:05:15 2018,TabbarContributorExtensionTest.java,Florian Barbin
+Fri Apr 27 13:05:15 2018,TabbarContributorSample.java,Florian Barbin
+Fri May  4 14:30:58 2018,GoToMarkerTraceabilityWithUserInteractionTest.java,Florian Barbin

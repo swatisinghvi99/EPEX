@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Fri Sep 25 10:06:36 2015,GradleRunConfigurationAttributesTest.groovy,Donat Csikos
+Fri Sep 25 13:27:20 2015,ResourceFilterTest.groovy,Donat Csikos
+Fri Sep 25 13:27:20 2015,DefaultWorkspaceGradleOperations.java,Donat Csikos
+Fri Sep 25 13:27:20 2015,ResourceFilter.java,Donat Csikos
+Fri Sep 25 13:27:20 2015,StringSetProjectProperty.java,Donat Csikos
+Fri Sep 25 14:39:41 2015,DefaultWorkspaceGradleOperations.java,Donat Csikos
+Fri Sep 25 14:40:30 2015,StringSetProjectProperty.java,Donat Csikos
+Fri Sep 25 14:41:23 2015,SynchronizeJavaWorkspaceProjectJobTest.groovy,Donat Csikos
+Wed Sep 30 15:53:38 2015,build.gradle,Donat Csikos
+Wed Sep 30 15:53:38 2015,MANIFEST.MF,Donat Csikos
+Wed Sep 30 15:53:38 2015,RunGradleJvmTestLaunchRequestJob.java,Donat Csikos
+Wed Sep 30 15:53:38 2015,RunGradleJvmTestMethodLaunchRequestJob.java,Donat Csikos
+Wed Sep 30 15:53:38 2015,plugin.xml,Donat Csikos
+Wed Sep 30 15:53:38 2015,EditorJavaElementResolver.java,Donat Csikos
+Wed Sep 30 15:53:38 2015,JavaElementNameCollector.java,Donat Csikos
+Wed Sep 30 15:53:38 2015,JavaElementResolver.java,Donat Csikos
+Wed Sep 30 15:53:38 2015,SelectionJavaElementResolver.java,Donat Csikos
+Wed Sep 30 15:53:38 2015,TestLaunchShortcut.java,Donat Csikos
+Wed Sep 30 15:53:38 2015,TestlaunchShortcutValidator.java,Donat Csikos
+Wed Sep 30 15:53:38 2015,ProjectPropertyTester.java,Donat Csikos
+Thu Oct  8 14:36:05 2015,SynchronizeGradleProjectJobTest.groovy,Donat Csikos
+Thu Oct  8 14:36:05 2015,SynchronizeJavaWorkspaceProjectJobTest.groovy,Donat Csikos
+Thu Oct  8 14:36:05 2015,ProjectConfigurationPersistence.java,Donat Csikos
+Fri Oct  9 11:18:48 2015,GradleProjectBuilderTest.groovy,Donat Csikos
+Fri Oct  9 11:18:48 2015,GradleProjectBuilder.java,Donat Csikos
+Mon Oct 12 12:00:39 2015,GradleProjectBuilderTest.groovy,Donat Csikos

@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Tue Nov  5 18:19:13 2013,PartServiceImpl.java,Eric Moffatt
+Wed Nov  6 14:23:35 2013,StackRenderer.java,Eric Moffatt
+Wed Nov  6 14:55:48 2013,StackRenderer.java,Eric Moffatt
+Wed Nov  6 16:00:12 2013,BasicPartList.java,Eric Moffatt
+Thu Nov 14 19:54:41 2013,SWTPartRenderer.java,Eric Moffatt
+Thu Nov 14 19:54:41 2013,StackRenderer.java,Eric Moffatt
+Thu Nov 14 19:54:41 2013,ResourceUtility.java,Eric Moffatt
+Thu Nov 14 19:54:41 2013,ISWTResourceUtilities.java,Eric Moffatt
+Thu Nov 14 19:54:41 2013,IPresentationEngine.java,Eric Moffatt
+Thu Nov 14 19:54:41 2013,EditorReference.java,Eric Moffatt
+Thu Nov 14 19:54:41 2013,ViewReference.java,Eric Moffatt
+Thu Nov 14 19:54:41 2013,WorkbenchPartReference.java,Eric Moffatt
+Thu Nov 14 19:54:41 2013,CompatibilityEditor.java,Eric Moffatt
+Thu Nov 14 19:54:41 2013,CompatibilityPart.java,Eric Moffatt
+Thu Nov 14 19:54:41 2013,CompatibilityView.java,Eric Moffatt
+Thu Nov 14 19:54:41 2013,MenuHelper.java,Eric Moffatt
+Tue Nov 19 18:01:56 2013,SWTPartRenderer.java,Eric Moffatt
+Tue Nov 19 18:01:56 2013,IPresentationEngine.java,Eric Moffatt
+Fri Nov 22 15:46:17 2013,PartServiceImpl.java,Eric Moffatt
+Mon Nov 25 15:48:27 2013,PartActivationHistory.java,Eric Moffatt
+Wed Nov 27 19:09:32 2013,DnDInfo.java,Eric Moffatt
+Wed Nov 27 19:09:32 2013,DnDManager.java,Eric Moffatt
+Wed Nov 27 19:09:32 2013,SplitDropAgent.java,Eric Moffatt
+Wed Nov 27 19:09:32 2013,StackDropAgent.java,Eric Moffatt
+Wed Nov 27 19:26:15 2013,PartDragAgent.java,Eric Moffatt

@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Mon Sep 12 16:03:48 2022,XMLLanguageServer.java,azerr
+Mon Sep 12 16:03:48 2022,XMLTextDocumentService.java,azerr
+Mon Sep 12 16:03:48 2022,XMLValidator.java,azerr
+Mon Sep 12 16:03:48 2022,ContentModelSettings.java,azerr
+Mon Sep 12 16:03:48 2022,XMLValidationFilter.java,azerr
+Mon Sep 12 16:03:48 2022,XMLValidationRootSettings.java,azerr
+Mon Sep 12 16:03:48 2022,XMLValidationSettings.java,azerr
+Mon Sep 12 16:03:48 2022,XMLLanguageService.java,azerr
+Mon Sep 12 16:03:48 2022,SharedSettings.java,azerr
+Mon Sep 12 16:03:48 2022,reflect-config.json,azerr
+Mon Sep 12 16:03:48 2022,XMLAssert.java,azerr
+Mon Sep 12 16:03:48 2022,DTDDiagnosticsTest.java,azerr
+Mon Sep 12 16:03:48 2022,DTDDoctypeDiagnosticsTest.java,azerr
+Mon Sep 12 16:03:48 2022,DTDEntityDiagnosticsTest.java,azerr
+Mon Sep 12 16:03:48 2022,XMLProblemsTest.java,azerr
+Mon Sep 12 16:03:48 2022,XMLSchemaDiagnosticsTest.java,azerr
+Mon Sep 12 16:03:48 2022,XMLSyntaxRelatedInfoFinderTest.java,azerr
+Mon Sep 12 16:03:48 2022,XMLValidationExternalResourcesBasedOnDTDTest.java,azerr
+Mon Sep 12 16:03:48 2022,XMLValidationExternalResourcesBasedOnXSDTest.java,azerr
+Mon Sep 12 16:03:48 2022,XMLValidationFilterTest.java,azerr
+Mon Sep 12 16:03:48 2022,DTDValidationExternalResourcesTest.java,azerr
+Mon Sep 12 16:03:48 2022,XSDValidationExternalResourcesTest.java,azerr
+Mon Sep 12 16:03:48 2022,ErrorParticipantLanguageServiceTest.java,azerr
+Mon Sep 12 16:03:48 2022,SettingsMergeTest.java,azerr

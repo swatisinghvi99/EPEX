@@ -1,0 +1,107 @@
+date_time,file,committer_name
+Thu May  7  7:09:38 2015,AbstractFrameResizableEditPolicy.java,Maxime Porhel
+Thu May  7  7:09:38 2015,OperandResizableEditPolicy.java,Maxime Porhel
+Thu May  7  7:09:38 2015,RegionResizableEditPolicy.java,Maxime Porhel
+Thu May  7  7:09:40 2015,AbstractDiagramContainerEditPart.java,Maxime Porhel
+Thu May  7  7:09:40 2015,AbstractDiagramElementContainerEditPart.java,Maxime Porhel
+Thu May  7  7:09:40 2015,AbstractDiagramListEditPart.java,Maxime Porhel
+Thu May  7  7:09:40 2015,AbstractDNodeContainerCompartmentEditPart.java,Maxime Porhel
+Thu May  7  7:09:40 2015,AbstractDNodeListCompartmentEditPart.java,Maxime Porhel
+Thu May  7  7:09:40 2015,ContainerWithTitleBlockFigure.java,Maxime Porhel
+Thu May  7  7:09:53 2015,DiagramContainerEditPartOperation.java,Maxime Porhel
+Thu May  7  7:09:53 2015,AirXYLayoutEditPolicy.java,Maxime Porhel
+Thu May  7  7:09:53 2015,AbstractDNodeContainerCompartmentEditPart.java,Maxime Porhel
+Thu May  7  7:09:53 2015,AbstractDNodeListCompartmentEditPart.java,Maxime Porhel
+Thu May  7 10:38:56 2015,MANIFEST.MF,Maxime Porhel
+Thu May  7 10:38:56 2015,license.txt,Maxime Porhel
+Thu May  7 10:38:56 2015,DiagramElementsSelectionDialog.java,Maxime Porhel
+Thu May  7 10:38:56 2015,OutlineContentResourceSetListener.java,Maxime Porhel
+Thu May  7 10:38:56 2015,OutlineLabelProvider.java,Maxime Porhel
+Thu May  7 10:38:56 2015,DDiagramElementContainerLabelItemProvider.java,Maxime Porhel
+Thu May  7 10:38:56 2015,DiagramImagesPath.java,Maxime Porhel
+Thu May  7 10:38:56 2015,Release Notes.html,Maxime Porhel
+Thu May  7 10:38:56 2015,Release Notes.textile,Maxime Porhel
+Thu May  7 10:38:56 2015,DiagramElementSelectionDialogTest.java,Maxime Porhel
+Thu May  7 10:38:59 2015,MANIFEST.MF,Maxime Porhel
+Thu May  7 10:38:59 2015,plugin.xml,Maxime Porhel
+Thu May  7 10:38:59 2015,ResetOriginEditPolicy.java,Maxime Porhel
+Thu May  7 10:38:59 2015,ResetOriginHandler.java,Maxime Porhel
+Thu May  7 10:38:59 2015,CanResetOrigin.java,Maxime Porhel
+Thu May  7 10:39:01 2015,SiriusContainerEditPolicy.java,Maxime Porhel
+Mon May 11  9:19:14 2015,DeleteHookTests.java,Maxime Porhel
+Mon May 11  9:19:14 2015,TabBarTest.java,Maxime Porhel
+Wed May 13 11:16:13 2015,AbstractDiagramContainerEditPart.java,Maxime Porhel
+Wed May 13 11:16:13 2015,AbstractDiagramElementContainerEditPart.java,Maxime Porhel
+Wed May 13 11:16:13 2015,AbstractDNodeContainerCompartmentEditPart.java,Maxime Porhel
+Wed May 13 11:16:13 2015,AbstractDNodeListCompartmentEditPart.java,Maxime Porhel
+Wed May 13 11:16:13 2015,ContainerWithTitleBlockFigure.java,Maxime Porhel
+Wed May 13 11:16:13 2015,LabelBorderStyleIds.java,Maxime Porhel
+Wed May 13 11:16:13 2015,Environment.odesign,Maxime Porhel
+Wed May 13 11:21:08 2015,plugin.properties,Maxime Porhel
+Wed May 13 11:21:08 2015,Release Notes.html,Maxime Porhel
+Wed May 13 11:21:08 2015,Release Notes.textile,Maxime Porhel
+Wed May 13 11:21:08 2015,Sirius Developer Manual.html,Maxime Porhel
+Wed May 13 11:21:08 2015,Specifying_Viewpoints.html,Maxime Porhel
+Wed May 13 11:21:08 2015,Specifying_Viewpoints.textile,Maxime Porhel
+Wed May 13 11:21:08 2015,MANIFEST.MF,Maxime Porhel
+Wed May 13 11:21:08 2015,ContainerMappingChildrenPresentationPropertySectionSpec.java,Maxime Porhel
+Wed May 13 11:21:08 2015,plugin.properties,Maxime Porhel
+Wed May 13 11:30:05 2015,AbstractDiagramElementContainerEditPart.java,Maxime Porhel
+Wed May 13 11:30:05 2015,AbstractDNodeContainerCompartmentEditPart.java,Maxime Porhel
+Wed May 13 15:00:32 2015,useCase.aird,Maxime Porhel
+Wed May 13 15:00:32 2015,tc1479.aird,Maxime Porhel
+Wed May 13 15:00:32 2015,ReplaceModelsBySemanticResources.java,Maxime Porhel
+Wed May 13 15:26:48 2015,plugin.xml,Maxime Porhel
+Wed May 13 15:26:48 2015,CollapseSupportOnRegionMigrationParticipant.java,Maxime Porhel
+Wed May 13 15:26:48 2015,DNodeContainerViewNodeContainerCompartment2ViewFactory.java,Maxime Porhel
+Wed May 13 15:26:48 2015,DNodeListViewNodeListCompartmentViewFactory.java,Maxime Porhel
+Wed May 13 15:29:40 2015,diagram.genmodel,Maxime Porhel
+Wed May 13 15:29:40 2015,ContainerMappingChildrenPresentationPropertySection.java,Maxime Porhel
+Wed May 13 15:29:40 2015,ContainerMappingChildrenPresentationPropertySectionSpec.java,Maxime Porhel
+Wed May 13 15:39:41 2015,CollapseSupportOnRegionMigrationParticipant.java,Maxime Porhel
+Wed May 13 15:39:41 2015,DNodeContainerQuery.java,Maxime Porhel
+Wed May 13 15:39:41 2015,AbstractDiagramContainerEditPart.java,Maxime Porhel
+Wed May 13 15:39:41 2015,AbstractDiagramElementContainerEditPart.java,Maxime Porhel
+Wed May 13 15:39:41 2015,AirXYLayoutEditPolicy.java,Maxime Porhel
+Wed May 13 15:39:41 2015,RegionContainerResizableEditPolicy.java,Maxime Porhel
+Wed May 13 15:39:41 2015,RegionResizableEditPolicy.java,Maxime Porhel
+Wed May 13 15:39:41 2015,AbstractDNodeContainerCompartmentEditPart.java,Maxime Porhel
+Wed May 13 15:39:41 2015,RegionContainerUpdateLayoutOperation.java,Maxime Porhel
+Wed May 13 15:39:41 2015,AbstractCanonicalSynchronizer.java,Maxime Porhel
+Wed May 13 15:39:41 2015,GMFHelper.java,Maxime Porhel
+Wed May 13 15:39:41 2015,DNodeContainerViewNodeContainerCompartment2ViewFactory.java,Maxime Porhel
+Wed May 13 15:39:41 2015,DNodeListViewNodeListCompartmentViewFactory.java,Maxime Porhel
+Wed May 13 15:39:41 2015,HideDDiagramElementAction.java,Maxime Porhel
+Wed May 13 15:39:41 2015,ArrangeAllWithAutoSize.java,Maxime Porhel
+Wed May 13 15:39:41 2015,AutoSizeAndRegionAwareGraphLayout.java,Maxime Porhel
+Wed May 13 15:39:41 2015,BorderItemAwareLayoutProvider.java,Maxime Porhel
+Wed May 13 15:39:41 2015,ContainerMappingQuery.java,Maxime Porhel
+Wed May 13 15:39:41 2015,DDiagramSynchronizer.java,Maxime Porhel
+Wed May 13 15:39:41 2015,ContainerMappingExperimentalQuery.java,Maxime Porhel
+Wed May 13 15:39:41 2015,DDiagramElementContainerQuery.java,Maxime Porhel
+Wed May 13 15:39:41 2015,DNodeContainerQuery.java,Maxime Porhel
+Wed May 13 15:39:41 2015,PinHelper.java,Maxime Porhel
+Wed May 13 15:39:41 2015,Release Notes.html,Maxime Porhel
+Wed May 13 15:39:41 2015,Release Notes.textile,Maxime Porhel
+Wed May 13 15:39:41 2015,ContainerMappingChildrenPresentationPropertySectionSpec.java,Maxime Porhel
+Mon May 18  7:41:58 2015,ContainerMappingQuery.java,Maxime Porhel
+Mon May 18  7:41:58 2015,ContainerMappingExperimentalQuery.java,Maxime Porhel
+Mon May 18  7:41:58 2015,Release Notes.html,Maxime Porhel
+Mon May 18  7:41:58 2015,Release Notes.textile,Maxime Porhel
+Mon May 18  7:41:58 2015,ContainerMappingChildrenPresentationPropertySectionSpec.java,Maxime Porhel
+Tue May 19 13:06:54 2015,TreeItemLabelFontFormatQuery.java,Maxime Porhel
+Tue May 19 13:06:54 2015,SWTBotUtils.java,Maxime Porhel
+Tue May 19 13:06:54 2015,TreeItemStyleDescriptionTest.java,Maxime Porhel
+Fri May 22 11:31:02 2015,TreeItemStyleDescriptionTest.java,Maxime Porhel
+Fri May 22 15:57:32 2015,plugin.xml,Maxime Porhel
+Fri May 22 15:57:32 2015,FontFormatMigrationParticipant.java,Maxime Porhel
+Fri May 22 15:57:32 2015,FontFormatMigrationParticipant.java,Maxime Porhel
+Tue May 26 14:58:29 2015,fontFormat.aird,Maxime Porhel
+Tue May 26 14:58:29 2015,fontFormat.ecore,Maxime Porhel
+Tue May 26 14:58:29 2015,fontFormat.odesign,Maxime Porhel
+Tue May 26 14:58:29 2015,AllCommonPluginTests.java,Maxime Porhel
+Tue May 26 14:58:29 2015,FontFormatMigrationTest.java,Maxime Porhel
+Tue May 26 14:58:29 2015,FontFormatMigrationParticipant.java,Maxime Porhel
+Thu May 28 15:49:40 2015,ViewpointSelection.java,Maxime Porhel
+Thu May 28 15:49:50 2015,ViewpointSelectionDialog.java,Maxime Porhel
+Fri May 29 12:38:07 2015,OperandEditPart.java,Maxime Porhel

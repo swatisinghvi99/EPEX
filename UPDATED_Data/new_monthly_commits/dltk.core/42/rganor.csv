@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Sun Aug  1  8:32:25 2010,IElementResolver.java,rganor
+Sun Aug  1  8:32:25 2010,IIndexingRequestor.java,rganor
+Sun Aug  1  8:32:25 2010,ISearchRequestor.java,rganor
+Sun Aug  1  8:32:25 2010,ModelAccess.java,rganor
+Sun Aug  1  8:32:25 2010,NewSearchEngine.java,rganor
+Sun Aug  1  8:32:34 2010,Element.java,rganor
+Sun Aug  1  8:32:34 2010,IElementDao.java,rganor
+Sun Aug  1  8:32:34 2010,SqlIndexer.java,rganor
+Sun Aug  1  8:32:34 2010,SqlSearchEngine.java,rganor
+Sun Aug  1  8:32:44 2010,element_decl.sql,rganor
+Sun Aug  1  8:32:44 2010,insert_decl.sql,rganor
+Sun Aug  1  8:32:44 2010,H2ElementDao.java,rganor
+Sun Aug  1  8:32:44 2010,Schema.java,rganor
+Mon Aug 16  6:08:04 2010,ProblemsLabelDecorator.java,rganor

@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Mon Jan  2 11:59:05 2012,JGitText.properties,Tomasz Zarna
+Mon Jan  2 11:59:05 2012,JGitText.java,Tomasz Zarna
+Mon Jan  2 12:24:36 2012,RepositorySetupWorkDirTest.java,Tomasz Zarna
+Mon Jan  2 12:24:36 2012,T0003_BasicTest.java,Tomasz Zarna
+Mon Jan  2 12:24:36 2012,OpenSshConfigTest.java,Tomasz Zarna
+Mon Jan  2 12:24:36 2012,BaseRepositoryBuilder.java,Tomasz Zarna
+Mon Jan  2 12:24:36 2012,Constants.java,Tomasz Zarna
+Mon Jan  2 12:24:36 2012,FileRepository.java,Tomasz Zarna
+Mon Jan  2 12:24:36 2012,OpenSshConfig.java,Tomasz Zarna
+Mon Jan  2 12:24:36 2012,WalkPushConnection.java,Tomasz Zarna
+Mon Jan  2 16:40:02 2012,LogCommandTest.java,Tomasz Zarna
+Mon Jan  2 16:40:02 2012,SkipRevFilterTest.java,Tomasz Zarna
+Mon Jan  2 16:40:02 2012,JGitText.properties,Tomasz Zarna
+Mon Jan  2 16:40:02 2012,JGitText.java,Tomasz Zarna
+Mon Jan  2 16:40:02 2012,LogCommand.java,Tomasz Zarna
+Mon Jan  2 16:40:02 2012,SkipRevFilter.java,Tomasz Zarna
+Mon Jan  9 11:13:30 2012,DiffCommandTest.java,Tomasz Zarna
+Mon Jan  9 11:13:30 2012,DiffCommand.java,Tomasz Zarna
+Mon Jan  9 14:48:16 2012,DiffCommand.java,Tomasz Zarna

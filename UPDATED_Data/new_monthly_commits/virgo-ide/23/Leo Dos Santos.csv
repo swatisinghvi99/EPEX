@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Wed Feb  6  2:38:53 2013,MavenPropertiesSource.java,Leo Dos Santos
+Wed Feb  6  4:09:42 2013,BundlorProjectBuilder.java,Leo Dos Santos
+Thu Feb  7  0:53:13 2013,BundleManifestManager.java,Leo Dos Santos
+Thu Feb  7  1:23:31 2013,BundleManifestManager.java,Leo Dos Santos
+Thu Feb  7 20:09:00 2013,JmxServer35UndeployCommand.java,Leo Dos Santos
+Thu Feb  7 20:09:00 2013,Virgo35Provider.java,Leo Dos Santos
+Thu Feb  7 21:59:29 2013,JmxServerShutdownCommand.java,Leo Dos Santos
+Thu Feb  7 22:49:17 2013,JmxServer35UndeployCommand.java,Leo Dos Santos
+Thu Feb  7 22:49:17 2013,JmxServerUndeployCommand.java,Leo Dos Santos
+Thu Feb  7 22:49:17 2013,Virgo35Provider.java,Leo Dos Santos
+Thu Feb  7 22:49:17 2013,VirgoRuntimeProvider.java,Leo Dos Santos
+Fri Feb  8  4:23:30 2013,BundlorCorePlugin.java,Leo Dos Santos
+Fri Feb  8 19:28:01 2013,Virgo35Provider.java,Leo Dos Santos
+Thu Feb 21 21:13:37 2013,IServer.java,Leo Dos Santos
+Thu Feb 21 21:13:37 2013,IServerWorkingCopy.java,Leo Dos Santos
+Thu Feb 21 21:13:37 2013,Server.java,Leo Dos Santos
+Thu Feb 21 21:13:37 2013,ModifyMaxPermSizeCommand.java,Leo Dos Santos
+Thu Feb 21 21:13:37 2013,VirgoRuntimeProvider.java,Leo Dos Santos
+Thu Feb 21 21:13:37 2013,StartupEditorSection.java,Leo Dos Santos

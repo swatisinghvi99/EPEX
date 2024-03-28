@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Wed Aug 31 12:56:35 2016,FloatDecorator.java,Matt Gerring
+Wed Aug 31 16:06:43 2016,BoundsDecorator.java,Matt Gerring
+Thu Sep  1 10:02:51 2016,BoundsDecorator.java,Matt Gerring
+Thu Sep  8 12:39:34 2016,MANIFEST.MF,Matt Gerring
+Thu Sep  8 12:39:34 2016,CheckableActionGroup.java,Matt Gerring
+Thu Sep  8 12:39:34 2016,MenuAction.java,Matt Gerring
+Mon Sep 12 11:01:03 2016,FileSelectionDialog.java,Matt Gerring
+Mon Sep 12 11:01:03 2016,SelectorWidget.java,Matt Gerring
+Tue Sep 13  8:37:35 2016,CComboCellEditor.java,Matt Gerring
+Tue Sep 13  8:37:35 2016,BoundsDecorator.java,Matt Gerring
+Tue Sep 13 16:18:57 2016,SeriesTable.java,Matt Gerring
+Thu Sep 15 11:07:26 2016,MANIFEST.MF,Matt Gerring
+Thu Sep 15 11:07:26 2016,SeriesEditingSupport.java,Matt Gerring
+Thu Sep 15 11:07:26 2016,SeriesItemContentProposal.java,Matt Gerring
+Thu Sep 15 11:07:26 2016,SeriesTable.java,Matt Gerring
+Thu Sep 15 11:07:26 2016,SeriesEventDelegate.java,Matt Gerring
+Thu Sep 15 11:07:26 2016,SeriesItemEvent.java,Matt Gerring
+Thu Sep 15 11:07:26 2016,SeriesItemListener.java,Matt Gerring

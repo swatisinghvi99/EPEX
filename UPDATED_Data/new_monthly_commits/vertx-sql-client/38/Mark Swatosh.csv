@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Wed Jun 22  8:25:03 2022,DB2SocketConnection.java,Mark Swatosh
+Wed Jun 22  8:25:03 2022,InitialHandshakeCommandCodec.java,Mark Swatosh
+Wed Jun 22  8:25:03 2022,ConnectionMetaData.java,Mark Swatosh
+Wed Jun 22  8:25:03 2022,DRDAConnectResponse.java,Mark Swatosh
+Wed Jun 22  8:25:03 2022,DB2ErrorMessageTest.java,Mark Swatosh
+Wed Jun 22  8:25:03 2022,DB2TransactionTest.java,Mark Swatosh
+Wed Jun 22  8:25:03 2022,init.zos.sql,Mark Swatosh

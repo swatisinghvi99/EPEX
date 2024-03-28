@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Mon Aug 30  7:34:17 2010,ReadTreeTest.java,Christian Halstrick
+Mon Aug 30 23:21:54 2010,MergeCommandTest.java,Christian Halstrick
+Mon Aug 30 23:21:54 2010,MergeCommand.java,Christian Halstrick
+Mon Aug 30 23:21:54 2010,MergeResult.java,Christian Halstrick
+Mon Aug 30 23:21:54 2010,DirCacheCheckout.java,Christian Halstrick
+Mon Aug 30 23:21:54 2010,MergeStrategy.java,Christian Halstrick
+Mon Aug 30 23:21:54 2010,ResolveMerger.java,Christian Halstrick
+Mon Aug 30 23:21:54 2010,StrategyResolve.java,Christian Halstrick
+Mon Aug 30 23:29:49 2010,MergeCommand.java,Christian Halstrick
+Tue Aug 31 15:14:07 2010,MergeAlgorithmTest.java,Christian Halstrick
+Tue Aug 31 15:14:07 2010,MergeAlgorithm.java,Christian Halstrick
+Tue Sep 14 16:19:44 2010,PlotCommitListTest.java,Christian Halstrick
+Tue Sep 14 16:19:44 2010,PlotCommitList.java,Christian Halstrick
+Thu Sep 16  8:36:43 2010,RevWalkTextBuiltin.java,Christian Halstrick

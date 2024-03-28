@@ -1,0 +1,6 @@
+date_time,file,committer_name
+Thu Jun  7  9:24:24 2018,pom.xml,Andrej Nussdorfer
+Thu Jun  7  9:24:24 2018,JobServiceImpl.java,Andrej Nussdorfer
+Thu Jun  7  9:24:24 2018,job_engine_drop.sql,Andrej Nussdorfer
+Thu Jun  7  9:24:24 2018,JobServiceTestSteps.java,Andrej Nussdorfer
+Thu Jun  7  9:24:24 2018,locator.xml,Andrej Nussdorfer

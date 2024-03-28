@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Tue Mar 10  0:33:13 2020,remote.xml,Mattias Andersson
+Tue Mar 10  0:33:13 2020,session-store-hazelcast-embedded.mod,Mattias Andersson
+Tue Mar 10  0:33:13 2020,session-store-hazelcast-remote.mod,Mattias Andersson
+Tue Mar 10  0:33:13 2020,HazelcastSessionDataStoreFactory.java,Mattias Andersson
+Tue Mar 10  0:35:48 2020,remote.xml,Mattias Andersson
+Tue Mar 10  0:35:48 2020,session-store-hazelcast-embedded.mod,Mattias Andersson
+Tue Mar 10  0:35:48 2020,session-store-hazelcast-remote.mod,Mattias Andersson
+Tue Mar 10  0:35:48 2020,HazelcastSessionDataStoreFactory.java,Mattias Andersson

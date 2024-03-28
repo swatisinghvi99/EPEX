@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Wed Nov 16  9:21:09 2022,IAASAggregatorObserverV2.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,ObservableAASAggregatorV2.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,IAASRegistryServiceObserverV2.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,ObservableAASRegistryServiceV2.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,MqttV2AASAggregatorHelper.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,MqttV2AASAggregatorObserver.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,MqttV2DecoratingAASAggregatorFactory.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,ObservableAASTaggedDirectoryServiceV2.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,MqttV2AASRegistryHelper.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,MqttV2AASRegistryServiceObserver.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,MqttV2DecoratingSubmodelAggregatorFactory.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,MqttV2SubmodelAggregatorHelper.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,MqttV2SubmodelAggregatorObserver.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,MqttV2DecoratingSubmodelAPIFactory.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,MqttV2SubmodelAPIHelper.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,MqttV2SubmodelAPIObserver.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,ISubmodelAggregator.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,ISubmodelAggregatorObserverV2.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,ObservableSubmodelAggregatorV2.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,ISubmodelAPI.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,ISubmodelAPIObserverV2.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,ObservableSubmodelAPIV2.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,TestMqttV2AASAggregatorObserver.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,TestMqttV2AASRegistryServiceObserver.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,TestMqttV2SubmodelAggregatorObserver.java,Alexander Gordt
+Wed Nov 16  9:21:09 2022,MqttV2SubmodelAPIObserverTest.java,Alexander Gordt

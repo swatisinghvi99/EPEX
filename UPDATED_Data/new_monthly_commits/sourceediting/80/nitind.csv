@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Tue Jun  1 14:03:26 2010,StructuredModelManager.java,nitind
+Tue Jun  1 14:03:26 2010,ModelManagerImpl.java,nitind
+Tue Jun  1 14:03:26 2010,IModelManager.java,nitind
+Thu Jun  3  6:59:15 2010,JSDTCompletionProposal.java,nitind
+Thu Jun  3  7:05:55 2010,HTMLStructuredContentAssistProcessor.java,nitind
+Thu Jun  3  7:05:55 2010,HTMLTagsCompletionProposalComputer.java,nitind
+Thu Jun  3  7:17:36 2010,StructuredContentAssistProcessor.java,nitind
+Thu Jun  3  7:17:36 2010,ContextInformationValidator.java,nitind
+Thu Jun  3  7:24:16 2010,JSPStructuredContentAssistProcessor.java,nitind
+Thu Jun  3  7:24:16 2010,LibraryTagsCompletionProposalComputer.java,nitind
+Thu Jun  3  7:24:16 2010,AbstractContentAssistProcessor.java,nitind
+Thu Jun  3  7:24:16 2010,AbstractXMLCompletionProposalComputer.java,nitind
+Thu Jun  3  7:24:16 2010,AttributeContextInformationPresenter.java,nitind
+Thu Jun  3  7:24:16 2010,ContextInfoModelUtil.java,nitind
+Thu Jun  3  7:24:16 2010,XMLStructuredContentAssistProcessor.java,nitind
+Thu Jun  3  7:24:16 2010,XMLTagsCompletionProposalComputer.java,nitind

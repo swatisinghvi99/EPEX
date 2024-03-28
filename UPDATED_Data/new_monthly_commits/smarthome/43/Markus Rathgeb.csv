@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Wed Jul 19 15:48:49 2017,AbstractScriptModuleHandler.java,Markus Rathgeb
+Tue Aug  1  8:31:13 2017,WelcomeHomeModuleTypeProvider.java,Markus Rathgeb
+Tue Aug  1  8:31:13 2017,ChannelTriggeredEvent.java,Markus Rathgeb
+Tue Aug  1  8:31:13 2017,StringListType.java,Markus Rathgeb
+Tue Aug  1  8:31:34 2017,WelcomeHomeCommands.java,Markus Rathgeb
+Tue Aug  1  8:31:34 2017,AbstractWatchServiceTest.groovy,Markus Rathgeb
+Tue Aug  1 11:03:48 2017,ExpressionThreadPoolManager.java,Markus Rathgeb
+Tue Aug  1 11:06:52 2017,HttpClient.java,Markus Rathgeb

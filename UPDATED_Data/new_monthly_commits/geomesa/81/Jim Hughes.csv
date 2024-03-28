@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Mon Oct 26 19:12:14 2020,ArrowDataStoreTest.scala,Jim Hughes
+Mon Oct 26 19:12:14 2020,ConcatenatedFileWriter.scala,Jim Hughes
+Mon Oct 26 19:12:14 2020,DeltaWriter.scala,Jim Hughes
+Mon Oct 26 19:12:14 2020,DictionaryBuildingWriter.scala,Jim Hughes
+Mon Oct 26 19:12:14 2020,SimpleFeatureArrowFileWriter.scala,Jim Hughes
+Mon Oct 26 19:12:14 2020,package.scala,Jim Hughes
+Mon Oct 26 19:12:14 2020,ArrowDictionary.scala,Jim Hughes
+Mon Oct 26 19:12:14 2020,SimpleFeatureVector.scala,Jim Hughes
+Mon Oct 26 19:12:14 2020,SimpleFeatureArrowFileTest.scala,Jim Hughes
+Mon Oct 26 19:12:14 2020,SimpleFeatureVectorTest.scala,Jim Hughes
+Mon Oct 26 19:12:14 2020,ArrowScan.scala,Jim Hughes
+Mon Oct 26 19:12:14 2020,ArrowConversionProcess.scala,Jim Hughes
+Mon Oct 26 19:12:14 2020,ArrowConversionProcessTest.scala,Jim Hughes
+Mon Oct 26 19:12:14 2020,ArrowExporter.scala,Jim Hughes

@@ -1,0 +1,5 @@
+date_time,file,committer_name
+Fri Apr 17 14:50:44 2009,EntityManagerSetupImpl.java,Peter Krogh
+Thu Apr 30 20:06:56 2009,ExpressionOperator.java,Peter Krogh
+Mon May  4 19:41:00 2009,ConversionManager.java,Peter Krogh
+Thu May  7 20:35:09 2009,RepeatableWriteUnitOfWork.java,Peter Krogh

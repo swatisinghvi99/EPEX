@@ -1,0 +1,126 @@
+date_time,file,committer_name
+Fri May 29  8:14:52 2015,Glossary.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Release_Notes.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Release_Notes.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,Release_Notes_Previous.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Release_Notes_Previous.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,Architecture.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Architecture.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,Architecture_Overview.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Architecture_Overview.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,Meta-models.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Meta-models.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,Sirius Developer Manual.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Sirius Developer Manual.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_celleditor.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_celleditor.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_custom-arrange-all.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_custom-arrange-all.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_custom_permission_authority.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_custom_permission_authority.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_custom_style.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_custom_style.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_migrate_contribution.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_migrate_contribution.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_repair_contribution.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_repair_contribution.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_save_dialog.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_save_dialog.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_tabbar_extensions.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_tabbar_extensions.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,Sirius - High-Level Architecture Overview.svg,Pierre-Charles David
+Fri May 29  8:14:52 2015,Sirius - Representation Refresh-Sync.svg,Pierre-Charles David
+Fri May 29  8:14:52 2015,integration-modeler_description_file_deployment.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,integration-modeler_description_file_deployment.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,integration-plm.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,integration-plm.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_custom_extender.txt,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_custom_representation.txt,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_custom_representations_export.txt,Pierre-Charles David
+Fri May 29  8:14:52 2015,extensions-provide_custom_specific_editor.txt,Pierre-Charles David
+Fri May 29  8:14:52 2015,integration-model_access.txt,Pierre-Charles David
+Fri May 29  8:14:52 2015,siriusCrossReferenceAdapter.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,siriusCrossReferenceAdapter.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,index.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,release_notes_vp.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,release_notes_vp.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,bootstrap.css,Pierre-Charles David
+Fri May 29  8:14:52 2015,bootstrap.js,Pierre-Charles David
+Fri May 29  8:14:52 2015,custom.css,Pierre-Charles David
+Fri May 29  8:14:52 2015,Sirius Specifier Manual.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Sirius Specifier Manual.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,CreatingViewpointSpecification.xml,Pierre-Charles David
+Fri May 29  8:14:52 2015,Diagrams.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Diagrams.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,Colors.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Colors.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,Model_Operations.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Model_Operations.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,Specifying_Viewpoints.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Specifying_Viewpoints.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,Writing_Queries.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Writing_Queries.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,.directory,Pierre-Charles David
+Fri May 29  8:14:52 2015,Sequence Diagrams.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Sequence Diagrams.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,Tables.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Tables.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,Trees.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Trees.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,toc.xml,Pierre-Charles David
+Fri May 29  8:14:52 2015,Sirius User Manual.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Sirius User Manual.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,Diagrams.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Diagrams.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,Modeling Project.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Modeling Project.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,Sequence Diagrams.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Sequence Diagrams.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,Tables.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Tables.textile,Pierre-Charles David
+Fri May 29  8:14:52 2015,Trees.html,Pierre-Charles David
+Fri May 29  8:14:52 2015,Trees.textile,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Sequence Diagrams.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Tables.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Trees.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,viewpoint-eef.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Release_Notes.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Release_Notes_Previous.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Architecture.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Architecture_Overview.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Meta-models.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Sirius Developer Manual.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,extensions-provide_celleditor.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,extensions-provide_custom-arrange-all.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,extensions-provide_custom_permission_authority.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,extensions-provide_custom_style.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,extensions-provide_migrate_contribution.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,extensions-provide_repair_contribution.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,extensions-provide_save_dialog.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,extensions-provide_tabbar_extensions.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,integration-modeler_description_file_deployment.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,integration-plm.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,siriusCrossReferenceAdapter.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,index.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,release_notes_vp.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,example.basicfamily,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Sirius Specifier Manual.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Diagrams.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Colors.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Model_Operations.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Specifying_Viewpoints.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Writing_Queries.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Sequence Diagrams.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Tables.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Trees.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Sirius User Manual.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Diagrams.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Modeling Project.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Sequence Diagrams.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Tables.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Trees.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,viewpoint-eef.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Sequence Diagrams.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Tables.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,Trees.html,Pierre-Charles David
+Mon Jun  8 12:29:25 2015,viewpoint-eef.html,Pierre-Charles David

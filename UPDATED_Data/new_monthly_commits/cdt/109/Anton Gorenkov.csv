@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Wed Jul  6  6:34:49 2011,bundle.properties,Anton Gorenkov
+Wed Jul  6  6:34:49 2011,plugin.xml,Anton Gorenkov
+Wed Jul  6  6:34:49 2011,CheckersMessages.java,Anton Gorenkov
+Wed Jul  6  6:34:49 2011,CheckersMessages.properties,Anton Gorenkov
+Wed Jul  6  6:34:49 2011,ClassMembersInitializationChecker.java,Anton Gorenkov
+Wed Jul  6  6:34:49 2011,ClassMembersInitializationCheckerTest.java,Anton Gorenkov
+Wed Jul  6  6:34:49 2011,AutomatedIntegrationSuite.java,Anton Gorenkov

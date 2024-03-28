@@ -1,0 +1,182 @@
+[
+    [
+        "John Arthorne",
+        "java",
+        30
+    ],
+    [
+        "John Arthorne",
+        "properties",
+        2
+    ],
+    [
+        "John Arthorne",
+        "launch",
+        1
+    ],
+    [
+        "John Arthorne",
+        "xml",
+        3
+    ],
+    [
+        "Simon Kaegi",
+        "java",
+        78
+    ],
+    [
+        "Simon Kaegi",
+        "properties",
+        4
+    ],
+    [
+        "Simon Kaegi",
+        "profile",
+        2
+    ],
+    [
+        "Simon Kaegi",
+        "MF",
+        2
+    ],
+    [
+        "Simon Kaegi",
+        "xml",
+        1
+    ],
+    [
+        "Susan Franklin",
+        "java",
+        81
+    ],
+    [
+        "Susan Franklin",
+        "properties",
+        3
+    ],
+    [
+        "DJ Houghton",
+        "java",
+        47
+    ],
+    [
+        "DJ Houghton",
+        "classpath",
+        3
+    ],
+    [
+        "DJ Houghton",
+        "launch",
+        3
+    ],
+    [
+        "DJ Houghton",
+        "project",
+        3
+    ],
+    [
+        "DJ Houghton",
+        "properties",
+        3
+    ],
+    [
+        "DJ Houghton",
+        "xml",
+        8
+    ],
+    [
+        "DJ Houghton",
+        "cvsignore",
+        1
+    ],
+    [
+        "DJ Houghton",
+        "prefs",
+        2
+    ],
+    [
+        "DJ Houghton",
+        "MF",
+        3
+    ],
+    [
+        "Andrew Niefer",
+        "launch",
+        1
+    ],
+    [
+        "Andrew Niefer",
+        "cvsignore",
+        1
+    ],
+    [
+        "Andrew Niefer",
+        "properties",
+        1
+    ],
+    [
+        "Andrew Niefer",
+        "xml",
+        4
+    ],
+    [
+        "Andrew Niefer",
+        "java",
+        56
+    ],
+    [
+        "Andrew Niefer",
+        "prefs",
+        2
+    ],
+    [
+        "Andrew Niefer",
+        "product",
+        2
+    ],
+    [
+        "Andrew Niefer",
+        "ini",
+        1
+    ],
+    [
+        "Andrew Niefer",
+        "MF",
+        1
+    ],
+    [
+        "Jeff McAffer",
+        "java",
+        72
+    ],
+    [
+        "Jeff McAffer",
+        "properties",
+        2
+    ],
+    [
+        "Jeff McAffer",
+        "MF",
+        1
+    ],
+    [
+        "Jeff McAffer",
+        "xml",
+        2
+    ],
+    [
+        "Pascal Rapicault",
+        "java",
+        77
+    ],
+    [
+        "Pascal Rapicault",
+        "properties",
+        2
+    ],
+    [
+        "Pascal Rapicault",
+        "xml",
+        3
+    ]
+]

@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Fri Jul 14 18:31:45 2023,MANIFEST.MF,Christoph Läubrich
+Fri Jul 14 18:31:45 2023,CoreASTProvider.java,Christoph Läubrich
+Fri Jul 14 18:31:45 2023,JavaElementLabelComposerCore.java,Christoph Läubrich
+Fri Jul 14 18:31:45 2023,JavaManipulationPlugin.java,Christoph Läubrich
+Fri Jul 14 18:31:45 2023,SemanticHighlightingPresenterCore.java,Christoph Läubrich
+Fri Jul 14 18:31:45 2023,SerialVersionHashOperationDisplayCore.java,Christoph Läubrich
+Fri Jul 14 18:31:45 2023,JavaRefactoringDescriptor.java,Christoph Läubrich
+Fri Jul 14 18:31:45 2023,MANIFEST.MF,Christoph Läubrich
+Fri Jul 14 18:31:45 2023,TestRunnerViewPart.java,Christoph Läubrich
+Fri Jul 14 18:31:45 2023,MANIFEST.MF,Christoph Läubrich
+Fri Jul 14 18:31:45 2023,CodeMiningTriggerTest.java,Christoph Läubrich

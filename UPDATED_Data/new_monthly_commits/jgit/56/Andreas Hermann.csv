@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Thu May 22 20:58:44 2014,ReflogWriterTest.java,Andreas Hermann
+Thu May 22 20:58:44 2014,ReflogWriter.java,Andreas Hermann
+Thu May 22 21:56:08 2014,StashApplyCommandTest.java,Andreas Hermann
+Thu May 22 21:56:08 2014,StashCreateCommandTest.java,Andreas Hermann
+Thu May 22 21:56:08 2014,JGitText.properties,Andreas Hermann
+Thu May 22 21:56:08 2014,StashApplyCommand.java,Andreas Hermann
+Thu May 22 21:56:08 2014,StashCreateCommand.java,Andreas Hermann
+Thu May 22 21:56:08 2014,JGitText.java,Andreas Hermann

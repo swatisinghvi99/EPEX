@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Mon Dec  2 14:52:45 2013,AST2TemplateTests.java,Marc-Andre Laperle
+Mon Dec  2 14:52:45 2013,CPPEnumerationSpecialization.java,Marc-Andre Laperle
+Mon Dec  2 14:52:45 2013,PDOMCPPEnumerationSpecialization.java,Marc-Andre Laperle
+Mon Dec  9 19:34:00 2013,AST2CPPTests.java,Marc-Andre Laperle
+Mon Dec  9 19:34:00 2013,BuiltinOperators.java,Marc-Andre Laperle
+Tue Dec 10 19:48:56 2013,IndexBasedFileContentProvider.java,Marc-Andre Laperle
+Tue Dec 10 19:48:56 2013,CPreprocessor.java,Marc-Andre Laperle
+Tue Dec 10 19:48:56 2013,InternalFileContentProvider.java,Marc-Andre Laperle
+Tue Dec 10 19:48:56 2013,AbstractIndexerTask.java,Marc-Andre Laperle
+Tue Dec 10 19:48:56 2013,AbstractPDOMIndexer.java,Marc-Andre Laperle
+Tue Dec 10 19:48:56 2013,IndexerPreferences.java,Marc-Andre Laperle
+Tue Dec 10 19:48:56 2013,PDOMIndexerTask.java,Marc-Andre Laperle
+Tue Dec 10 19:48:56 2013,AbstractIndexerPage.java,Marc-Andre Laperle
+Tue Dec 10 19:48:56 2013,DialogsMessages.java,Marc-Andre Laperle
+Tue Dec 10 19:48:56 2013,DialogsMessages.properties,Marc-Andre Laperle
+Wed Dec 11 14:23:59 2013,MIGDBShowLanguageInfo.java,Marc-Andre Laperle
+Thu Dec 12  4:03:06 2013,BoostXmlLogHandler.java,Marc-Andre Laperle
+Thu Dec 12  4:03:06 2013,BoostTestCase.java,Marc-Andre Laperle
+Thu Dec 12  4:03:06 2013,TestModelManager.java,Marc-Andre Laperle
+Sat Dec 21  1:33:20 2013,BasicCompletionTest.java,Marc-Andre Laperle
+Sat Dec 21  1:33:20 2013,CVisitor.java,Marc-Andre Laperle
+Sat Dec 21  1:33:20 2013,LRCompletionBasicTest.java,Marc-Andre Laperle

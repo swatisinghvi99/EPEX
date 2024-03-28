@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Thu Jul 14  7:52:53 2016,ClassFactBuilder.java,Pere Fernández
+Thu Jul 14  7:52:53 2016,ClassFieldInspector.java,Pere Fernández
+Thu Jul 14  7:52:53 2016,AnnotationUtils.java,Pere Fernández
+Thu Jul 14  7:52:53 2016,ProjectDataModelFactFieldsAnnotationsTest.java,Pere Fernández
+Thu Jul 14  7:52:53 2016,SmurfFieldDescriptor.java,Pere Fernández
+Thu Jul 14  7:52:53 2016,SmurfFieldPositionDescriptor.java,Pere Fernández
+Thu Jul 14  7:52:53 2016,SmurfHouse.java,Pere Fernández
+Thu Jul 14  7:52:53 2016,SmurfMajorHouse.java,Pere Fernández
+Thu Jul 14  7:52:53 2016,SmurfHouse.java,Pere Fernández
+Thu Jul 14  7:52:53 2016,SmurfValidation1.java,Pere Fernández
+Thu Jul 14  7:52:53 2016,SmurfValidation2.java,Pere Fernández
+Fri Jul 22 22:26:14 2016,ClassFactBuilder.java,Pere Fernández
+Fri Jul 22 22:26:14 2016,ClassFieldInspector.java,Pere Fernández
+Fri Jul 22 22:26:14 2016,ProjectDataModelFactFieldsGenericsTest.java,Pere Fernández
+Fri Jul 22 22:26:14 2016,ProductOrder.java,Pere Fernández

@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Mon Feb 12 20:24:12 2018,HeadlessBuilder.java,William Riley
+Mon Feb 12 20:25:29 2018,ErrorParserManager.java,William Riley
+Mon Feb 12 20:25:29 2018,BuildRunnerHelper.java,William Riley
+Mon Feb 12 20:25:29 2018,CCorePluginResources.properties,William Riley
+Tue Feb 13  9:34:41 2018,ErrorParserManager.java,William Riley
+Tue Feb 13 14:13:37 2018,plugin.xml,William Riley
+Tue Feb 13 14:13:37 2018,OptionStringListValueTests.java,William Riley
+Tue Feb 13 14:13:37 2018,Option.java,William Riley
+Tue Feb 13 16:42:33 2018,CMakeBuildConfiguration.java,William Riley
+Tue Feb 13 16:42:33 2018,messages.properties,William Riley
+Tue Feb 13 16:42:33 2018,StandardBuildConfiguration.java,William Riley
+Tue Feb 13 16:42:33 2018,messages.properties,William Riley
+Wed Feb 14  9:18:08 2018,Configuration.java,William Riley
+Wed Feb 14  9:18:08 2018,Tool.java,William Riley
+Wed Feb 14  9:18:08 2018,ToolChain.java,William Riley

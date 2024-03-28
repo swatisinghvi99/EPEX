@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Sun Sep 10 15:07:28 2017,JavascriptEvalFunction.java,omeili
+Fri Sep 15  2:10:13 2017,JavascriptFunctions.java,omeili
+Fri Sep 15  2:10:13 2017,DittoMapper.java,omeili
+Fri Sep 15  2:10:13 2017,RemoteMappingSpecification.java,omeili
+Fri Sep 15  2:10:13 2017,JsonMappingTest.java,omeili
+Sun Sep 17  1:32:01 2017,Readme.md,omeili
+Sun Sep 17  1:32:01 2017,BleGattCharacteristic.java,omeili
+Sun Sep 17  1:32:01 2017,BleGattDevice.java,omeili
+Sun Sep 17  1:32:01 2017,BleGattDeviceBuilder.java,omeili
+Sun Sep 17  1:32:01 2017,BleGattInitSequenceElement.java,omeili
+Sun Sep 17  1:32:01 2017,BleGattService.java,omeili
+Sun Sep 17  1:32:01 2017,BleGattMappingTest.java,omeili
+Sun Oct  1  4:45:10 2017,BleGattCharacteristic.java,omeili
+Sun Oct  1  4:45:10 2017,BleGattDeviceBuilder.java,omeili
+Sun Oct  1  4:45:10 2017,RemoteMappingSpecification.java,omeili
+Sun Oct  1  4:45:10 2017,BleGattMappingTest.java,omeili

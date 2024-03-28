@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Wed Apr 11 14:43:04 2018,I18nProviderImpl.java,Stefan Triller
+Thu Apr 19 14:41:26 2018,HSBTypeTest.java,Stefan Triller
+Thu Apr 19 14:41:26 2018,PointTypeTest.java,Stefan Triller
+Thu Apr 19 14:41:26 2018,HSBType.java,Stefan Triller
+Thu Apr 19 14:41:26 2018,PointType.java,Stefan Triller
+Fri Apr 20  9:25:52 2018,XmlDocumentBundleTracker.java,Stefan Triller
+Fri Apr 20  9:25:52 2018,ZoneTemperatureControlHandler.java,Stefan Triller
+Fri Apr 20  9:25:52 2018,DeviceStatusManagerImpl.java,Stefan Triller
+Fri Apr 20  9:25:52 2018,DeviceStateUpdate.java,Stefan Triller
+Fri Apr 20  9:25:52 2018,DeviceImpl.java,Stefan Triller
+Fri Apr 20  9:25:52 2018,SceneDiscovery.java,Stefan Triller
+Fri Apr 20 21:22:44 2018,RuleEngineImpl.java,Stefan Triller
+Fri Apr 20 21:25:56 2018,MANIFEST.MF,Stefan Triller
+Fri Apr 20 21:25:56 2018,__bindingIdCamelCase__HandlerTest.java,Stefan Triller
+Fri Apr 20 21:25:56 2018,__bindingIdCamelCase__OSGiTest.java,Stefan Triller
+Fri Apr 20 21:25:56 2018,MANIFEST.MF,Stefan Triller
+Fri Apr 20 21:25:56 2018,__bindingIdCamelCase__BindingConstants.java,Stefan Triller
+Fri Apr 20 21:25:56 2018,__bindingIdCamelCase__Handler.java,Stefan Triller
+Fri Apr 20 21:25:56 2018,__bindingIdCamelCase__HandlerFactory.java,Stefan Triller

@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Sun Jan  7 15:55:29 2024,PostConstruct.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,PreDestroy.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,LifecycleBuilder.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,BaseTests.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,DefaultBeanLocatorTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,ImplementationsTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,LocatedBeansTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,LogsTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,MildElementsTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,MildKeysTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,MildValuesTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,TypeArgumentsTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,WatchedBeansTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,BeanWatcherTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,BundleClassSpaceTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,DeferredClassTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,FileEntryIteratorTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,QualifiedScanningTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,QualifiedTypesTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,ResourceEnumerationTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,URLClassSpaceTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,ZipEntryIteratorTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,BeanImportTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,EntryListAdapterTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,EntryMapAdapterTest.java,Stuart McCulloch
+Sun Jan  7 15:55:29 2024,ParametersTest.java,Stuart McCulloch

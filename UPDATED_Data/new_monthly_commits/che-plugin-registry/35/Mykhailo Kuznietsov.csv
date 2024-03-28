@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Tue Jun  8 17:21:29 2021,happy-path.yaml,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,image-build-pr-check.yml,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,next-build.yml,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,publish-content-push-main.yml,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,CONTRIBUTE.md,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,README.md,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,RELEASE.md,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,build.sh,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,publish-plugin-registry-to-gh-pages.sh,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,che-editors.yaml,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,cico_build_ci.sh,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,cico_build_nightly.sh,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,cico_build_release.sh,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,cico_functions.sh,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,values.yaml,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,che-plugin-registry.yml,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,devfile.yaml,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,che-plugins-meta-yaml-generator.ts,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,che-editors-meta-yaml-generator.ts,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,machine-exec-plugin-meta.yaml,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,che-plugins-meta-yaml-generator.spec.ts,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,meta-yaml-to-devfile-yaml.spec.ts,Mykhailo Kuznietsov
+Tue Jun  8 17:21:29 2021,che-editor-meta-yaml-generator.spec.ts,Mykhailo Kuznietsov

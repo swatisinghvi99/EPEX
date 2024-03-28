@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Sat Feb  2 22:23:46 2019,FS_POSIX.java,Thomas Wolf
+Tue Feb 26  7:18:27 2019,RebaseCommand.java,Thomas Wolf
+Tue Feb 26  7:18:27 2019,AddCommandTest.java,Thomas Wolf
+Tue Feb 26  7:18:27 2019,CommitCommandTest.java,Thomas Wolf
+Tue Feb 26  7:18:27 2019,RawTextTest.java,Thomas Wolf
+Tue Feb 26  7:18:27 2019,RawText.java,Thomas Wolf
+Tue Feb 26  7:18:27 2019,WorkingTreeIterator.java,Thomas Wolf
+Tue Feb 26  7:18:27 2019,AutoCRLFInputStream.java,Thomas Wolf
+Tue Feb 26  7:18:27 2019,AutoLFInputStream.java,Thomas Wolf
+Tue Feb 26  7:18:27 2019,RebaseCommand.java,Thomas Wolf
+Tue Feb 26  7:18:27 2019,RebaseCommand.java,Thomas Wolf
+Tue Feb 26  7:18:27 2019,RebaseCommand.java,Thomas Wolf
+Tue Feb 26 10:53:49 2019,JGitText.properties,Thomas Wolf
+Tue Feb 26 10:53:49 2019,JGitText.java,Thomas Wolf
+Tue Feb 26 10:53:49 2019,FS_POSIX.java,Thomas Wolf
+Tue Feb 26 11:49:59 2019,BouncyCastleGpgKeyLocator.java,Thomas Wolf

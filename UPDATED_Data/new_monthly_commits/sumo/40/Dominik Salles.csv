@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Wed Aug  4 14:10:25 2021,routeTypes.xsd,Dominik Salles
+Wed Aug  4 14:10:25 2021,MSVehicleType.cpp,Dominik Salles
+Wed Aug  4 14:10:25 2021,CMakeLists.txt,Dominik Salles
+Wed Aug  4 14:10:25 2021,MSCFModel_EIDM.cpp,Dominik Salles
+Wed Aug  4 14:10:25 2021,MSCFModel_EIDM.h,Dominik Salles
+Wed Aug  4 14:10:25 2021,GNEVehicleTypeDialog.cpp,Dominik Salles
+Wed Aug  4 14:10:25 2021,GNEVehicleTypeDialog.h,Dominik Salles
+Wed Aug  4 14:10:25 2021,GNEAttributeCarrier.cpp,Dominik Salles
+Wed Aug  4 14:10:25 2021,GNEVehicleType.cpp,Dominik Salles
+Wed Aug  4 14:10:25 2021,SUMOVehicleParserHelper.cpp,Dominik Salles
+Wed Aug  4 14:10:25 2021,SUMOXMLDefinitions.cpp,Dominik Salles
+Wed Aug  4 14:10:25 2021,SUMOXMLDefinitions.h,Dominik Salles
+Mon Aug  9  6:43:13 2021,routeTypes.xsd,Dominik Salles
+Mon Aug  9  6:43:13 2021,MSCFModel_EIDM.cpp,Dominik Salles
+Mon Aug  9  6:43:13 2021,MSCFModel_EIDM.h,Dominik Salles
+Mon Aug  9  6:43:13 2021,GNEVehicleTypeDialog.cpp,Dominik Salles
+Mon Aug  9  6:43:13 2021,SUMOVehicleParserHelper.cpp,Dominik Salles

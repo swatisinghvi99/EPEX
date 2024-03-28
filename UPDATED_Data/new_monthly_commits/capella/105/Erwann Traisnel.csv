@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Mon Jul 17  7:54:08 2023,MigrationConstants.java,Erwann Traisnel
+Mon Jul 17  7:54:08 2023,CapellaMigrationContribution.java,Erwann Traisnel
+Mon Jul 17  7:54:08 2023,CapabilityRealizationInvolvement__involvedCapabilityRealizationInvolvedElement.java,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,EPBS.odesign,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,common.odesign,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,context.odesign,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,logical.odesign,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,oa.odesign,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,physical.odesign,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,CapellaServices.java,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,.project,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,org.eclipse.core.resources.prefs,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,DndTestModel.afm,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,DndTestModel.aird,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,DndTestModel.capella,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,.project,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,org.eclipse.core.resources.prefs,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,Library1.afm,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,Library1.aird,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,Library1.capella,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,LibraryDragAndDropTest.java,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,IDDiagramToolsTestSuite.java,Erwann Traisnel
+Tue Jul 18 12:27:18 2023,ModelProvider.java,Erwann Traisnel

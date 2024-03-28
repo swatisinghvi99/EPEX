@@ -1,0 +1,48 @@
+date_time,file,committer_name
+Mon Jun 30 13:01:26 2014,NodeCreationEditPolicy.java,Laurent Redor
+Mon Jun 30 13:01:32 2014,FigureUtilities.java,Laurent Redor
+Mon Jun 30 13:01:32 2014,Release Notes.html,Laurent Redor
+Mon Jun 30 13:01:32 2014,Release Notes.textile,Laurent Redor
+Mon Jun 30 13:01:32 2014,AbstractSiriusSwtBotGefTestCase.java,Laurent Redor
+Mon Jun 30 13:01:32 2014,UINewRepresentationBuilder.java,Laurent Redor
+Mon Jun 30 13:01:32 2014,SWTBotSiriusDiagramEditor.java,Laurent Redor
+Mon Jun 30 13:01:32 2014,ConnectionCreationTool.java,Laurent Redor
+Mon Jun 30 13:01:32 2014,CreationTool.java,Laurent Redor
+Mon Jun 30 13:01:33 2014,AbstractFrameResizableEditPolicy.java,Laurent Redor
+Mon Jun 30 13:01:33 2014,ExecutionSelectionEditPolicy.java,Laurent Redor
+Mon Jun 30 13:01:33 2014,ExecutionSemanticEditPolicy.java,Laurent Redor
+Mon Jun 30 13:01:33 2014,SequenceMessageEditPolicy.java,Laurent Redor
+Mon Jun 30 13:01:33 2014,SiriusContainerDropPolicy.java,Laurent Redor
+Mon Jun 30 13:01:33 2014,GraphicalHelper.java,Laurent Redor
+Mon Jun 30 13:01:33 2014,InstanceRoleSiriusGraphicalNodeEditPolicy.java,Laurent Redor
+Mon Jun 30 13:01:33 2014,SequenceSiriusGraphicalNodeEditPolicy.java,Laurent Redor
+Mon Jun 30 13:01:33 2014,SiriusGraphicalNodeEditPolicy.java,Laurent Redor
+Mon Jun 30 13:01:33 2014,Release Notes.html,Laurent Redor
+Mon Jun 30 13:01:33 2014,Release Notes.textile,Laurent Redor
+Mon Jun 30 13:01:33 2014,MANIFEST.MF,Laurent Redor
+Mon Jun 30 13:01:33 2014,GraphicalHelper.java,Laurent Redor
+Wed Jul  2 15:26:11 2014,DNodeContainerQuery.java,Laurent Redor
+Wed Jul  2 15:26:11 2014,AbstractDiagramContainerEditPart.java,Laurent Redor
+Wed Jul  2 15:26:11 2014,AbstractDiagramListEditPart.java,Laurent Redor
+Wed Jul  2 15:26:11 2014,GMFHelper.java,Laurent Redor
+Wed Jul  2 15:26:11 2014,LayoutUtils.java,Laurent Redor
+Wed Jul  2 15:26:11 2014,Release Notes.html,Laurent Redor
+Wed Jul  2 15:26:11 2014,Release Notes.textile,Laurent Redor
+Wed Jul  2 15:26:27 2014,CanonicalDBorderItemLocator.java,Laurent Redor
+Wed Jul  2 15:26:27 2014,DBorderItemLocator.java,Laurent Redor
+Wed Jul  2 15:26:27 2014,Release Notes.html,Laurent Redor
+Wed Jul  2 15:26:27 2014,Release Notes.textile,Laurent Redor
+Wed Jul  2 15:26:27 2014,SWTBotSiriusDiagramEditor.java,Laurent Redor
+Fri Jul  4  9:40:57 2014,CreateDEdgeTask.java,Laurent Redor
+Fri Jul  4  9:41:54 2014,RubberbandSelectionTool.java,Laurent Redor
+Fri Jul  4  9:41:54 2014,Release Notes.html,Laurent Redor
+Fri Jul  4  9:41:54 2014,Release Notes.textile,Laurent Redor
+Fri Jul  4  9:41:54 2014,Diagrams.html,Laurent Redor
+Fri Jul  4  9:41:54 2014,Diagrams.textile,Laurent Redor
+Fri Jul  4 10:11:21 2014,MANIFEST.MF,Laurent Redor
+Fri Jul  4 10:11:21 2014,AbstractDDiagramEditPart.java,Laurent Redor
+Fri Jul  4 10:11:21 2014,ViewportUtilities.java,Laurent Redor
+Fri Jul  4 10:11:21 2014,MANIFEST.MF,Laurent Redor
+Fri Jul  4 10:11:21 2014,RubberbandDragTracker.java,Laurent Redor
+Fri Jul  4 10:11:21 2014,RubberbandSelectionTool.java,Laurent Redor
+Fri Jul  4 10:11:30 2014,RubberbandSelectionTool.java,Laurent Redor

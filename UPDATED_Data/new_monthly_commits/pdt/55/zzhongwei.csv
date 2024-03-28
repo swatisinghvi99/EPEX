@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Wed Nov  3 10:44:07 2010,PHPExplorerActionGroup.java,zzhongwei
+Fri Nov  5  4:59:28 2010,TypeReferenceEvaluator.java,zzhongwei
+Fri Nov  5  7:18:14 2010,UseStatementInjector.java,zzhongwei
+Fri Nov  5  7:43:43 2010,PHPDocReturnTypeStrategy.java,zzhongwei
+Fri Nov  5  7:45:51 2010,PHPSelectionEngine.java,zzhongwei
+Fri Nov  5 16:32:29 2010,ICommunicationDaemon.java,zzhongwei
+Sun Nov  7 13:22:58 2010,PHPSelectionEngine.java,zzhongwei
+Sun Nov  7 14:38:08 2010,PhpElementResolver.java,zzhongwei
+Mon Nov  8  6:51:19 2010,IncludeStatementStrategy.java,zzhongwei
+Mon Nov  8  6:51:19 2010,PHPSearchEngine.java,zzhongwei
+Thu Nov 11  7:28:35 2010,PHPStructuredPresentationReconciler.java,zzhongwei
+Thu Nov 11 10:30:31 2010,PHPStructuredPresentationReconciler.java,zzhongwei
+Wed Nov 24  7:30:39 2010,ProcessCrashDetector.java,zzhongwei
+Fri Nov 26  4:13:36 2010,MANIFEST.MF,zzhongwei
+Fri Nov 26  4:13:36 2010,CUCorrectionProposal.java,zzhongwei
+Tue Nov 30  8:39:24 2010,Bindings.java,zzhongwei
+Tue Nov 30 10:27:54 2010,ArrayDeclaration.java,zzhongwei
+Tue Nov 30 10:27:54 2010,DeclarationScope.java,zzhongwei
+Tue Nov 30 10:27:54 2010,ArrayDeclarationGoalEvaluator.java,zzhongwei
+Tue Nov 30 10:27:54 2010,DefaultPHPGoalEvaluatorFactory.java,zzhongwei
+Tue Nov 30 10:27:54 2010,VariableReferenceEvaluator.java,zzhongwei
+Tue Nov 30 10:27:54 2010,ArrayDeclarationGoal.java,zzhongwei

@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Sun Sep 22 11:14:09 2019,ReturnStyleChecker.java,Marco Stornelli
+Sun Sep 22 11:14:09 2019,QuickFixSuppressProblemTest.java,Marco Stornelli
+Sun Sep 22 11:14:09 2019,CodanProblemMarkerResolutionGenerator.java,Marco Stornelli
+Mon Sep 23  5:10:46 2019,bundle.properties,Marco Stornelli
+Mon Sep 23  5:10:46 2019,plugin.xml,Marco Stornelli
+Mon Sep 23  5:10:46 2019,BlacklistChecker.java,Marco Stornelli
+Mon Sep 23  5:10:46 2019,CheckersMessages.java,Marco Stornelli
+Mon Sep 23  5:10:46 2019,CheckersMessages.properties,Marco Stornelli
+Mon Sep 23  5:10:46 2019,BlacklistCheckerTest.java,Marco Stornelli

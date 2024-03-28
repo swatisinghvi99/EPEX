@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Wed Jan 13  0:26:16 2016,SpaceFillingCurveProvider.scala,Anthony Fox
+Wed Jan 13  0:26:16 2016,SpaceFillingCurves.scala,Anthony Fox
+Wed Jan 13  0:26:16 2016,Z3.scala,Anthony Fox
+Wed Jan 13  0:26:16 2016,Z3Range.scala,Anthony Fox
+Wed Jan 13  0:26:16 2016,Z3RangeSpec.scala,Anthony Fox
+Wed Jan 13  0:26:16 2016,org.locationtech.sfcurve.SpaceFillingCurveProvider,Anthony Fox
+Wed Jan 13  0:26:16 2016,HilbertCurve2D.scala,Anthony Fox
+Wed Jan 13  0:26:16 2016,HilbertCurveSpec.scala,Anthony Fox
+Wed Jan 13  0:26:16 2016,Build.scala,Anthony Fox
+Wed Jan 13  0:26:16 2016,build.properties,Anthony Fox
+Wed Jan 13  0:26:16 2016,plugins.sbt,Anthony Fox
+Wed Jan 13  0:26:16 2016,sbt,Anthony Fox
+Wed Jan 13  0:26:16 2016,org.locationtech.sfcurve.SpaceFillingCurveProvider,Anthony Fox
+Wed Jan 13  0:26:16 2016,Z2Range.scala,Anthony Fox
+Wed Jan 13  0:26:16 2016,Z3.scala,Anthony Fox
+Wed Jan 13  0:26:16 2016,Z3Range.scala,Anthony Fox
+Wed Jan 13  0:26:16 2016,ZOrderSFCProvider.scala,Anthony Fox
+Wed Jan 13  0:26:16 2016,Z2IteratorSpec.scala,Anthony Fox
+Wed Jan 13  0:26:16 2016,Z2Spec.scala,Anthony Fox
+Wed Jan 13  0:26:16 2016,Z3RangeSpec.scala,Anthony Fox
+Wed Jan 13  0:26:16 2016,ZCurve2DSpec.scala,Anthony Fox

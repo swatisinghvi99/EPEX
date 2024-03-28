@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Tue Aug 27 10:08:16 2019,BindingLabelProvider.java,Sheng Chen
+Tue Aug 27 10:08:16 2019,ExtractMethodAnalyzer.java,Sheng Chen
+Tue Aug 27 10:08:16 2019,ExtractMethodRefactoring.java,Sheng Chen
+Tue Aug 27 10:08:16 2019,ExtractTempRefactoring.java,Sheng Chen
+Tue Aug 27 10:08:16 2019,SelfEncapsulateFieldRefactoring.java,Sheng Chen
+Tue Aug 27 10:08:16 2019,ASTResolving.java,Sheng Chen
+Tue Aug 27 10:08:16 2019,ReturnTypeSubProcessor.java,Sheng Chen
+Tue Aug 27 10:08:16 2019,TypeChangeCorrectionProposal.java,Sheng Chen
+Tue Aug 27 10:08:16 2019,TypeMismatchSubProcessor.java,Sheng Chen
+Tue Aug 27 10:08:16 2019,UnresolvedElementsSubProcessor.java,Sheng Chen

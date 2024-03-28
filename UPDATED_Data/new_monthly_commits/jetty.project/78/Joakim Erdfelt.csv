@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Thu Aug 27  0:08:14 2015,AbstractWebSocketConnection.java,Joakim Erdfelt
+Thu Aug 27  0:08:14 2015,WebSocketCloseTest.java,Joakim Erdfelt
+Thu Aug 27 16:27:28 2015,WebSocketSession.java,Joakim Erdfelt
+Thu Aug 27 16:27:28 2015,AbstractWebSocketConnection.java,Joakim Erdfelt
+Thu Aug 27 16:33:28 2015,AbstractWebSocketConnection.java,Joakim Erdfelt
+Thu Aug 27 16:33:28 2015,WebSocketCloseTest.java,Joakim Erdfelt
+Thu Aug 27 16:33:44 2015,WebSocketSession.java,Joakim Erdfelt
+Thu Aug 27 16:33:44 2015,AbstractWebSocketConnection.java,Joakim Erdfelt
+Thu Aug 27 18:12:51 2015,CloseStatus.java,Joakim Erdfelt
+Thu Aug 27 18:12:51 2015,CloseInfo.java,Joakim Erdfelt
+Thu Aug 27 18:12:51 2015,WebSocketSession.java,Joakim Erdfelt
+Thu Aug 27 18:12:51 2015,IOState.java,Joakim Erdfelt
+Thu Aug 27 19:52:52 2015,WebSocketSession.java,Joakim Erdfelt
+Thu Aug 27 21:53:21 2015,RemoteEndpoint.java,Joakim Erdfelt
+Thu Aug 27 21:53:21 2015,WebSocket.java,Joakim Erdfelt
+Thu Aug 27 21:53:21 2015,WebSocketRemoteEndpoint.java,Joakim Erdfelt
+Thu Aug 27 21:53:21 2015,WebSocketSession.java,Joakim Erdfelt
+Thu Aug 27 21:53:21 2015,AbstractEventDriver.java,Joakim Erdfelt
+Thu Aug 27 21:53:21 2015,EventDriver.java,Joakim Erdfelt
+Thu Aug 27 21:53:21 2015,JettyAnnotatedEventDriver.java,Joakim Erdfelt
+Thu Aug 27 22:36:57 2015,WebSocketServerFactory.java,Joakim Erdfelt
+Wed Sep  2 16:26:12 2015,SecureRequestCustomizer.java,Joakim Erdfelt
+Wed Sep  9 23:01:57 2015,JsrBasicRemote.java,Joakim Erdfelt

@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Tue Aug 12  1:21:34 2008,SQLPartitionScanner.java,hcao
+Wed Aug 13 22:34:46 2008,GenericSQLParser.java,hcao
+Wed Aug 13 22:34:46 2008,GenericSQLParserTreeConstants.java,hcao
+Wed Aug 13 22:34:46 2008,GenericSQLParserVisitor.java,hcao
+Tue Aug 26 10:27:37 2008,SQLService.java,hcao
+Tue Aug 26 10:28:10 2008,SQLBuilderDialog.java,hcao
+Tue Aug 26 10:29:06 2008,PreferenceMessages.java,hcao
+Tue Aug 26 10:29:06 2008,PreferenceMessages.properties,hcao
+Tue Aug 26 10:29:06 2008,SyntaxColoringPage.java,hcao
+Tue Aug 26 10:29:06 2008,SyntaxItem.java,hcao
+Tue Aug 26 10:30:54 2008,plugin.properties,hcao
+Tue Aug 26 10:30:54 2008,plugin.xml,hcao
+Tue Aug 26 10:30:54 2008,OpenScrapbookAction.java,hcao
+Tue Aug 26 10:34:13 2008,ResultSetObject.java,hcao
+Wed Aug 27  5:12:22 2008,OpenScrapbookAction.java,hcao
+Wed Aug 27  5:44:58 2008,SQLFileUtil.java,hcao
+Wed Aug 27  5:44:58 2008,OpenScrapbookAction.java,hcao

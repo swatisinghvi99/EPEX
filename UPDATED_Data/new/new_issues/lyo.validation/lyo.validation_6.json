@@ -1,0 +1,37 @@
+[
+    [
+        "berezovskyi",
+        "yashkhatri",
+        1
+    ],
+    [
+        "yashkhatri",
+        "jadelkhoury",
+        3
+    ],
+    [
+        "yashkhatri",
+        "berezovskyi",
+        3
+    ],
+    [
+        "yashkhatri",
+        "berezovskyi",
+        1
+    ],
+    [
+        "jadelkhoury",
+        "berezovskyi",
+        1
+    ],
+    [
+        "jadelkhoury",
+        "jadelkhoury",
+        1
+    ],
+    [
+        "jadelkhoury",
+        "yashkhatri",
+        1
+    ]
+]

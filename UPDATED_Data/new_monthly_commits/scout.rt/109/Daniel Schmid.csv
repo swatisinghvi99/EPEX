@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Tue Jan 29  9:46:45 2019,NumberFieldSpec.js,Daniel Schmid
+Tue Jan 29  9:46:45 2019,NumberField.js,Daniel Schmid
+Tue Jan 29  9:46:45 2019,DecimalFormat.js,Daniel Schmid
+Fri Feb  1 10:01:17 2019,NumberFieldSpec.js,Daniel Schmid
+Fri Feb  1 10:01:17 2019,NumberColumnSpec.js,Daniel Schmid
+Fri Feb  1 10:01:17 2019,DecimalFormat.js,Daniel Schmid
+Fri Feb  1 10:01:45 2019,NumberColumn.js,Daniel Schmid
+Tue Feb  5 18:04:41 2019,DateColumnSpec.js,Daniel Schmid
+Tue Feb  5 18:04:41 2019,DateColumn.js,Daniel Schmid
+Tue Feb  5 18:04:41 2019,NumberColumn.js,Daniel Schmid

@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Thu Nov 21 15:29:52 2019,deployment.yaml,Vitalii Parfonov
+Thu Nov 21 15:29:52 2019,values.yaml,Vitalii Parfonov
+Thu Nov 21 15:29:52 2019,che-server-template.yaml,Vitalii Parfonov
+Thu Nov 21 15:29:52 2019,KubernetesEnvironmentProvisioner.java,Vitalii Parfonov
+Thu Nov 21 15:29:52 2019,GitConfigProvisioner.java,Vitalii Parfonov
+Thu Nov 21 15:29:52 2019,VcsSslCertificateProvisioner.java,Vitalii Parfonov
+Thu Nov 21 15:29:52 2019,KubernetesEnvironmentProvisionerTest.java,Vitalii Parfonov
+Thu Nov 21 15:29:52 2019,GitConfigProvisionerTest.java,Vitalii Parfonov
+Thu Nov 21 15:29:52 2019,VcsSslCertificateProvisionerTest.java,Vitalii Parfonov
+Thu Nov 21 15:29:52 2019,OpenShiftEnvironmentProvisioner.java,Vitalii Parfonov
+Thu Nov 21 15:29:52 2019,OpenShiftEnvironmentProvisionerTest.java,Vitalii Parfonov

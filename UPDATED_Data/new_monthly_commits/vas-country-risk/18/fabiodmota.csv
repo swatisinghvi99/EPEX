@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Wed Dec  6 10:29:46 2023,build.yml,fabiodmota
+Wed Dec  6 10:29:46 2023,docker-hub-build.yml,fabiodmota
+Wed Dec  6 10:29:46 2023,CHANGELOG.md,fabiodmota
+Wed Dec  6 10:29:46 2023,DEPENDENCIES,fabiodmota
+Wed Dec  6 10:29:46 2023,package-lock.json,fabiodmota
+Wed Dec  6 10:29:46 2023,package.json,fabiodmota
+Wed Dec  6 10:29:46 2023,index.html,fabiodmota
+Wed Dec  6 10:29:46 2023,orange-background-full.svg.license,fabiodmota
+Wed Dec  6 10:29:46 2023,orange-background-head.svg.license,fabiodmota
+Wed Dec  6 10:29:46 2023,inject-dynamic-env.sh,fabiodmota
+Wed Dec  6 10:29:46 2023,legal-notice.sh,fabiodmota
+Wed Dec  6 10:29:46 2023,App.js,fabiodmota
+Wed Dec  6 10:29:46 2023,AboutPage.js,fabiodmota
+Wed Dec  6 10:29:46 2023,about.scss,fabiodmota
+Wed Dec  6 10:29:46 2023,Constants.js,fabiodmota
+Wed Dec  6 10:29:46 2023,Footer.js,fabiodmota
+Wed Dec  6 10:29:46 2023,Footer.scss,fabiodmota
+Wed Dec  6 10:29:46 2023,FooterPortal.js,fabiodmota
+Wed Dec  6 10:29:46 2023,orange-background-full.svg,fabiodmota
+Wed Dec  6 10:29:46 2023,orange-background-head.svg,fabiodmota
+Wed Dec  6 10:29:46 2023,NavigationBar.js,fabiodmota
+Wed Dec  6 10:29:46 2023,UserInfo.js,fabiodmota
+Wed Dec  6 10:29:46 2023,PageBreadcrumb.js,fabiodmota
+Wed Dec  6 10:29:46 2023,styles.scss,fabiodmota
+Wed Dec  6 10:29:46 2023,EnvironmentService.js,fabiodmota
+Wed Dec  6 10:29:46 2023,legal-notice.json,fabiodmota

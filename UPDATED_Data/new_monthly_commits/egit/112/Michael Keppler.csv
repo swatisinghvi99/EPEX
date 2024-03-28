@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Sat Dec 29 13:05:26 2018,CleanRepositoryPage.java,Michael Keppler
+Sat Dec 29 13:05:26 2018,MergeTargetSelectionDialog.java,Michael Keppler
+Sat Dec 29 13:05:26 2018,ResetTargetSelectionDialog.java,Michael Keppler
+Sat Dec 29 13:36:38 2018,Activator.java,Michael Keppler
+Sat Dec 29 13:36:38 2018,PullOperation.java,Michael Keppler
+Sat Dec 29 15:45:17 2018,RepositoriesView.java,Michael Keppler
+Sat Dec 29 18:14:06 2018,UIIcons.java,Michael Keppler
+Sat Dec 29 18:14:06 2018,StagingView.java,Michael Keppler
+Sat Dec 29 19:31:21 2018,AbstractBranchSelectionDialog.java,Michael Keppler
+Sat Dec 29 19:31:21 2018,BranchConfigurationDialog.java,Michael Keppler
+Sat Dec 29 19:31:21 2018,PullResultDialog.java,Michael Keppler
+Sat Dec 29 20:28:50 2018,GitMergeEditorInput.java,Michael Keppler
+Tue Jan  1 13:40:45 2019,CommitFileRevisionTest.java,Michael Keppler
+Tue Jan  1 13:40:45 2019,DynamicVariablesTest.java,Michael Keppler
+Thu Jan  3  0:46:52 2019,ResourceUtilTest.java,Michael Keppler
+Thu Jan  3  0:46:52 2019,RebaseOperationTest.java,Michael Keppler
+Fri Jan  4  1:32:06 2019,CreatePatchOperation.java,Michael Keppler
+Fri Jan  4  1:32:06 2019,CommitGraphTable.java,Michael Keppler
+Fri Jan  4  1:32:06 2019,GitCreatePatchWizard.java,Michael Keppler
+Fri Jan  4  2:13:06 2019,plugin.properties,Michael Keppler
+Fri Jan  4  2:13:06 2019,plugin.xml,Michael Keppler
+Fri Jan  4  2:13:06 2019,UIText.java,Michael Keppler
+Fri Jan  4  2:13:06 2019,ShowInSystemExplorerActionHandler.java,Michael Keppler
+Fri Jan  4  2:13:06 2019,uitext.properties,Michael Keppler
+Sun Jan  6 15:31:19 2019,RepositoryUtil.java,Michael Keppler

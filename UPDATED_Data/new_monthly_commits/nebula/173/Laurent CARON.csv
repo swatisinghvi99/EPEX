@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Wed Sep 30 19:46:54 2020,PWFontChooser.java,Laurent CARON
+Wed Sep 30 19:54:35 2020,ResourceManager.java,Laurent CARON
+Wed Sep 30 19:54:35 2020,opal.properties,Laurent CARON
+Wed Sep 30 19:54:35 2020,opal_de_DE.properties,Laurent CARON
+Wed Sep 30 19:54:35 2020,opal_es_ES.properties,Laurent CARON
+Wed Sep 30 19:54:35 2020,opal_fr_FR.properties,Laurent CARON
+Wed Sep 30 19:54:35 2020,opal_it_IT.properties,Laurent CARON
+Wed Sep 30 19:54:35 2020,opal_nl_NL.properties,Laurent CARON
+Wed Sep 30 19:54:35 2020,opal_pl_PL.properties,Laurent CARON
+Wed Sep 30 19:54:35 2020,opal_pt_BR.properties,Laurent CARON
+Wed Sep 30 19:54:35 2020,opal_zh_CN.properties,Laurent CARON
+Wed Sep 30 19:54:35 2020,PreferenceWindow.java,Laurent CARON
+Wed Sep 30 20:02:25 2020,SWTGraphicUtil.java,Laurent CARON

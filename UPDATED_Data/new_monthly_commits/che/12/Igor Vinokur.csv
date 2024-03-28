@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Thu Feb  2 11:20:03 2017,GitLocalizationConstant.java,Igor Vinokur
+Thu Feb  2 11:20:03 2017,PushToRemotePresenter.java,Igor Vinokur
+Thu Feb  2 11:20:03 2017,GitLocalizationConstant.properties,Igor Vinokur
+Wed Feb  8  8:37:52 2017,GitServiceClientImpl.java,Igor Vinokur
+Wed Feb  8  8:37:52 2017,GitExtension.java,Igor Vinokur
+Wed Feb  8  8:37:52 2017,CompareWithLatestAction.java,Igor Vinokur
+Wed Feb  8  8:37:52 2017,HistoryAction.java,Igor Vinokur
+Wed Feb  8  8:37:52 2017,ComparePresenter.java,Igor Vinokur
+Wed Feb  8  8:37:52 2017,CompareView.java,Igor Vinokur
+Wed Feb  8  8:37:52 2017,CompareViewImpl.java,Igor Vinokur
+Wed Feb  8  8:37:52 2017,CompareViewImpl.ui.xml,Igor Vinokur
+Wed Feb  8  8:37:52 2017,BranchListPresenter.java,Igor Vinokur
+Wed Feb  8  8:37:52 2017,ChangedListPresenter.java,Igor Vinokur
+Wed Feb  8  8:37:52 2017,RevisionListPresenter.java,Igor Vinokur
+Wed Feb  8  8:37:52 2017,HistoryPresenter.java,Igor Vinokur
+Wed Feb  8  8:37:52 2017,HistoryView.java,Igor Vinokur
+Wed Feb  8  8:37:52 2017,HistoryViewImpl.java,Igor Vinokur
+Wed Feb  8  8:37:52 2017,HistoryViewImpl.ui.xml,Igor Vinokur
+Wed Feb  8  8:37:52 2017,ResetToCommitPresenter.java,Igor Vinokur
+Wed Feb  8  8:37:52 2017,GitLocalizationConstant.properties,Igor Vinokur
+Wed Feb  8  8:37:52 2017,BaseTest.java,Igor Vinokur
+Wed Feb  8  8:37:52 2017,HistoryPresenterTest.java,Igor Vinokur
+Wed Feb  8  8:37:52 2017,JGitDiffPage.java,Igor Vinokur
+Sat Feb 11  8:19:08 2017,CheBootstrap.java,Igor Vinokur
+Sat Feb 11  8:19:08 2017,DestroyErrorHandler.java,Igor Vinokur
+Sat Feb 11  8:19:08 2017,LifecycleTest.java,Igor Vinokur

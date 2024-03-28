@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Wed May  8  8:38:36 2013,AbstractCalendar.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,ICalendar.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,AbstractCalendarDocumentBuilder.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,CalendarDayBuilder.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,CalendarMonthBuilder.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,CalendarWeekBuilder.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,CalendarWorkWeekBuilder.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,TimeLineComponentElementFactory.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,TimeLineTextComponentElementFactory.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,SwingScoutCalendar.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,AbstractCalendarCell.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,DateChooser.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,LargeCalendarCell.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,SmallCalendarCell.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,CalendarItemContainer.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,SwtScoutCalendar.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,WeekItemLayout.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,AbstractCell.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,CentralPanel.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,SwtCalendar.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,TimelineColumn.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,WeekCell.java,Bertin Kiekebosch
+Wed May  8  8:38:36 2013,RwtScoutCalendarField.java,Bertin Kiekebosch

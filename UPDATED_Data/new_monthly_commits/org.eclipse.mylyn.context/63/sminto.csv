@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Thu Sep  2 17:09:19 2010,CDTStructureBridge.java,sminto
+Thu Sep  2 21:18:33 2010,InteractionContextManager.java,sminto
+Thu Sep  2 21:18:33 2010,AbstractInterestManipulationAction.java,sminto
+Wed Sep  8 21:34:00 2010,ResourceChangeMonitorTest.java,sminto
+Wed Sep  8 21:34:00 2010,ResourceChangeMonitor.java,sminto
+Wed Sep  8 21:34:00 2010,FocusedResourcesPreferencePage.java,sminto
+Wed Sep  8 21:34:00 2010,CvsContextChangeSet.java,sminto
+Wed Sep  8 22:23:40 2010,ContextChangeSet.java,sminto
+Wed Sep  8 23:11:10 2010,InteractionContextManager.java,sminto
+Wed Sep  8 23:11:10 2010,InteractionContextManagerTest.java,sminto

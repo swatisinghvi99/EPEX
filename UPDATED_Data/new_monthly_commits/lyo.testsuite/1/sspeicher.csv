@@ -1,0 +1,91 @@
+date_time,file,committer_name
+Mon Oct 17 12:49:26 2011,.project,sspeicher
+Mon Oct 17 12:49:26 2011,org.eclipse.jdt.core.prefs,sspeicher
+Mon Oct 17 12:49:26 2011,org.eclipse.m2e.core.prefs,sspeicher
+Mon Oct 17 12:49:26 2011,org.maven.ide.eclipse.prefs,sspeicher
+Mon Oct 17 12:49:26 2011,LICENSE.txt,sspeicher
+Mon Oct 17 12:49:26 2011,README.txt,sspeicher
+Mon Oct 17 12:49:26 2011,about.html,sspeicher
+Mon Oct 17 12:49:26 2011,OSLC V1 CQ.launch,sspeicher
+Mon Oct 17 12:49:26 2011,OSLC V2 CQ.launch,sspeicher
+Mon Oct 17 12:49:26 2011,cq-json-template.json,sspeicher
+Mon Oct 17 12:49:26 2011,cq-json-template2.json,sspeicher
+Mon Oct 17 12:49:26 2011,cq-json-update.json,sspeicher
+Mon Oct 17 12:49:26 2011,cq-json-update2.json,sspeicher
+Mon Oct 17 12:49:26 2011,cq-setupv1.properties,sspeicher
+Mon Oct 17 12:49:26 2011,cq-setupv2.properties,sspeicher
+Mon Oct 17 12:49:26 2011,cq-template.xml,sspeicher
+Mon Oct 17 12:49:26 2011,cq-template2.xml,sspeicher
+Mon Oct 17 12:49:26 2011,cq-update.xml,sspeicher
+Mon Oct 17 12:49:26 2011,cq-update2.xml,sspeicher
+Mon Oct 17 12:49:26 2011,OSLC V1 FusionForge.launch,sspeicher
+Mon Oct 17 12:49:26 2011,fusionforge-setupv1.properties,sspeicher
+Mon Oct 17 12:49:26 2011,Test RIO-RM.launch,sspeicher
+Mon Oct 17 12:49:26 2011,create.xml,sspeicher
+Mon Oct 17 12:49:26 2011,rio-rm-setup.properties,sspeicher
+Mon Oct 17 12:49:26 2011,update.xml,sspeicher
+Mon Oct 17 12:49:26 2011,Test RIO-CM.launch,sspeicher
+Mon Oct 17 12:49:26 2011,create.xml,sspeicher
+Mon Oct 17 12:49:26 2011,rio-cm-setup.properties,sspeicher
+Mon Oct 17 12:49:26 2011,update.xml,sspeicher
+Mon Oct 17 12:49:26 2011,OSLC V2 RQM.launch,sspeicher
+Mon Oct 17 12:49:26 2011,rqm-setupv2.properties,sspeicher
+Mon Oct 17 12:49:26 2011,rqm-template2.xml,sspeicher
+Mon Oct 17 12:49:26 2011,rqm-update2.xml,sspeicher
+Mon Oct 17 12:49:26 2011,OSLC V2 RRC.launch,sspeicher
+Mon Oct 17 12:49:26 2011,rrc-setupv2.properties,sspeicher
+Mon Oct 17 12:49:26 2011,rrc-template2.xml,sspeicher
+Mon Oct 17 12:49:26 2011,rrc-update2.xml,sspeicher
+Mon Oct 17 12:49:26 2011,OSLC V1 RTC.launch,sspeicher
+Mon Oct 17 12:49:26 2011,OSLC V2 RTC.launch,sspeicher
+Mon Oct 17 12:49:26 2011,rtc-json-template.json,sspeicher
+Mon Oct 17 12:49:26 2011,rtc-json-template2.json,sspeicher
+Mon Oct 17 12:49:26 2011,rtc-json-update.json,sspeicher
+Mon Oct 17 12:49:26 2011,rtc-json-update2.json,sspeicher
+Mon Oct 17 12:49:26 2011,rtc-setupv1.properties,sspeicher
+Mon Oct 17 12:49:26 2011,rtc-setupv2.properties,sspeicher
+Mon Oct 17 12:49:26 2011,rtc-template.xml,sspeicher
+Mon Oct 17 12:49:26 2011,rtc-template2.xml,sspeicher
+Mon Oct 17 12:49:26 2011,rtc-update.xml,sspeicher
+Mon Oct 17 12:49:26 2011,rtc-update2.xml,sspeicher
+Mon Oct 17 12:49:26 2011,sample-setup.properties,sspeicher
+Mon Oct 17 12:49:26 2011,pom.xml,sspeicher
+Mon Oct 17 12:49:26 2011,DynamicSuiteBuilder.java,sspeicher
+Mon Oct 17 12:49:26 2011,OslcTestSuite.java,sspeicher
+Mon Oct 17 12:49:26 2011,CreationAndUpdateTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,OAuthTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,QueryTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,ServiceDescriptionTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,ServiceProviderCatalogTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,ChangeRequestRdfXmlTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,ChangeRequestXmlTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,CreationAndUpdateBaseTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,CreationAndUpdateJsonTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,CreationAndUpdateRdfXmlTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,CreationAndUpdateXmlTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,OAuthTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,QueryTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,ServiceProviderCatalogBaseTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,ServiceProviderCatalogRdfXmlTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,ServiceProviderCatalogXmlTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,ServiceProviderRdfXmlTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,ServiceProviderXmlTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,SimplifiedQueryBaseTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,SimplifiedQueryRdfXmlTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,SimplifiedQueryXmlTests.java,sspeicher
+Mon Oct 17 12:49:26 2011,TestsBase.java,sspeicher
+Mon Oct 17 12:49:26 2011,EasySSLProtocolSocketFactory.java,sspeicher
+Mon Oct 17 12:49:26 2011,EasyX509TrustManager.java,sspeicher
+Mon Oct 17 12:49:26 2011,OSLCConstants.java,sspeicher
+Mon Oct 17 12:49:26 2011,OSLCNamespaceContext.java,sspeicher
+Mon Oct 17 12:49:26 2011,OSLCUtils.java,sspeicher
+Mon Oct 17 12:49:26 2011,RDFUtils.java,sspeicher
+Mon Oct 17 12:49:26 2011,SSLProtocolSocketFactory.java,sspeicher
+Mon Oct 17 12:49:26 2011,SetupProperties.java,sspeicher
+Fri Oct 21 18:35:14 2011,ServiceProviderCatalogBaseTests.java,sspeicher
+Fri Oct 21 18:35:14 2011,ServiceProviderRdfXmlTests.java,sspeicher
+Fri Oct 21 19:03:10 2011,LICENSE.txt,sspeicher
+Fri Oct 21 19:03:10 2011,TestsBase.java,sspeicher
+Fri Oct 21 19:05:18 2011,TestsBase.java,sspeicher
+Fri Oct 21 19:50:19 2011,update.xml,sspeicher
+Fri Oct 21 19:50:19 2011,CreationAndUpdateBaseTests.java,sspeicher

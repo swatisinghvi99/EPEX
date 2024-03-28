@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Mon Aug  5 21:12:00 2013,feature.xml,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,feature.xml,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,MANIFEST.MF,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,plugin.properties,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,GenModelItemProvider.java,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,GenModel.ecore,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,GenModel.genmodel,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,GenModel.java,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,GenModelPackage.java,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,GenModelImpl.java,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,GenModelPackageImpl.java,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,GenPackageImpl.java,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,ItemProvider.java,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,Editor.java,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,ItemProvider.javajet,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,Editor.javajet,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,MANIFEST.MF,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,IStyledLabelDecorator.java,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,AdapterFactoryLabelProvider.java,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,DecoratingColumLabelProvider.java,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,DelegatingStyledCellLabelProvider.java,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,DiagnosticDecorator.java,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,IItemStyledLabelProvider.java,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,ItemProvider.java,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,ItemProviderAdapter.java,Mikaël Barbero
+Mon Aug  5 21:12:00 2013,StyledString.java,Mikaël Barbero

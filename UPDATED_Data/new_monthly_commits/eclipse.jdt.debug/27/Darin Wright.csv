@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Jul 21 19:17:56 2003,DuplicateRequestException.java,Darin Wright
+Mon Jul 21 19:20:46 2003,buildnotes_jdt-debug.html,Darin Wright
+Mon Jul 21 19:20:46 2003,IllegalConnectorArgumentsException.java,Darin Wright
+Thu Jul 24 15:18:30 2003,AddFolderAction.java,Darin Wright
+Thu Jul 24 18:16:23 2003,StandardVMDebugger.java,Darin Wright
+Thu Jul 24 18:16:23 2003,SocketUtil.java,Darin Wright
+Thu Jul 24 18:47:24 2003,SocketUtil.java,Darin Wright
+Fri Jul 25 15:25:50 2003,JavaClasspathTab.java,Darin Wright
+Fri Jul 25 16:12:53 2003,JavaStratumLineBreakpoint.java,Darin Wright
+Wed Jul 30 20:33:41 2003,SourceLookupBlock.java,Darin Wright
+Wed Jul 30 20:42:12 2003,JavaRuntime.java,Darin Wright
+Tue Aug  5 19:16:40 2003,JavaDebugHover.java,Darin Wright
+Wed Aug  6 18:30:53 2003,JavaDebugHover.java,Darin Wright
+Wed Aug  6 21:11:28 2003,JavaSnippetEditor.java,Darin Wright
+Wed Aug  6 21:25:12 2003,JavaSnippetEditor.java,Darin Wright
+Wed Aug  6 21:25:12 2003,ShowInPackageViewAction.java,Darin Wright
+Wed Aug  6 21:25:12 2003,SnippetMessages.properties,Darin Wright
+Thu Aug  7 17:51:59 2003,ZipContentProvider.java,Darin Wright
+Thu Aug  7 17:51:59 2003,ZipLabelProvider.java,Darin Wright
+Thu Aug  7 17:51:59 2003,ZipTreeNode.java,Darin Wright
+Thu Aug 14 15:15:02 2003,JDIThread.java,Darin Wright

@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Mon Jul 29 13:02:24 2019,PropertyValuePropagation.java,David Kral
+Mon Jul 29 13:21:42 2019,CollectionDeserializer.java,David Kral
+Mon Jul 29 13:21:42 2019,CollectionsTest.java,David Kral
+Tue Jul 30  9:05:33 2019,PropertyOrdering.java,David Kral
+Tue Jul 30  9:05:33 2019,PropertyOrderTest.java,David Kral
+Thu Aug  1 13:07:55 2019,PropertyValuePropagation.java,David Kral
+Thu Aug  1 13:07:55 2019,ClassModifiersTest.java,David Kral
+Thu Aug  1 13:07:55 2019,ChildOfPackagePrivateParent.java,David Kral
+Thu Aug  1 13:07:55 2019,PackagePrivateParent.java,David Kral

@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Fri Mar  6 16:19:40 2015,plugin.xml,vrubezhny
+Fri Mar  6 16:19:40 2015,HTMLUIMessages.java,vrubezhny
+Fri Mar  6 16:19:40 2015,HTMLUIPluginResources.properties,vrubezhny
+Fri Mar  6 16:19:40 2015,HTMLValidationPreferencePage.java,vrubezhny
+Fri Mar  6 16:19:40 2015,HTMLSyntaxValidationQuickFixProcessor.java,vrubezhny
+Fri Mar  6 16:19:40 2015,IgnoreAttributeNameCompletionProposal.java,vrubezhny
+Fri Mar  6 16:19:40 2015,IgnoreElementNameCompletionProposal.java,vrubezhny

@@ -1,0 +1,4 @@
+date_time,file,committer_name
+Mon Apr 27 16:10:57 2020,TfidfVectorizer.java,Benjamin Possolo
+Mon Apr 27 16:10:57 2020,LabelAwareIteratorWrapper.java,Benjamin Possolo
+Mon Apr 27 16:10:57 2020,TfidfVectorizerTest.java,Benjamin Possolo

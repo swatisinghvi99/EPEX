@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Mon Aug 10  8:30:08 2020,ASTParserFactory.xtend,Christian Dietrich
+Mon Aug 10  8:30:08 2020,ASTParserFactory.java,Christian Dietrich
+Wed Aug 12 16:17:21 2020,JdtToBeBuiltComputer.java,Christian Dietrich
+Mon Aug 17 11:34:18 2020,StratumBreakpointAdapterFactory.java,Christian Dietrich
+Mon Aug 17 11:34:18 2020,XbaseLineBreakpoint.java,Christian Dietrich
+Mon Aug 17 11:34:18 2020,plugin.xml,Christian Dietrich
+Mon Aug 17 12:48:19 2020,XbaseIntegrationTest.java,Christian Dietrich
+Mon Aug 17 12:48:19 2020,Amount.java,Christian Dietrich
+Mon Aug 17 12:48:19 2020,AbstractXbaseEvaluationTest.java,Christian Dietrich
+Mon Aug 17 12:48:19 2020,AbstractXbaseEvaluationTest.java,Christian Dietrich
+Mon Aug 17 12:48:19 2020,AbstractXbaseEvaluationTest.java,Christian Dietrich
+Mon Aug 17 12:48:19 2020,ValueConverterTest.java,Christian Dietrich
+Mon Aug 17 12:55:32 2020,PolymorphicDispatcherTest.java,Christian Dietrich
+Mon Aug 17 12:55:32 2020,INTValueConverterTest.java,Christian Dietrich
+Mon Aug 17 13:00:24 2020,DefaultEObjectLabelProviderTest.java,Christian Dietrich
+Mon Aug 17 13:00:24 2020,ParameterContextInformation.java,Christian Dietrich
+Mon Aug 17 13:00:24 2020,Amount.java,Christian Dietrich
+Mon Aug 24  7:51:17 2020,ContentAssistFragment2.xtend,Christian Dietrich
+Mon Aug 24  7:51:17 2020,ContentAssistFragment2.java,Christian Dietrich
+Mon Aug 24  8:07:13 2020,AbstractHighlightingTest.java,Christian Dietrich
+Mon Aug 24  8:07:13 2020,AbstractWorkbenchTest.java,Christian Dietrich
+Fri Aug 28  6:43:04 2020,ValidateActionHandler.java,Christian Dietrich

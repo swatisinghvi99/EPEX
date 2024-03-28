@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Fri Oct 16  7:30:18 2009,ChartReportItemBuilderImpl.java,heli
+Fri Oct 16  7:30:18 2009,ReportDataServiceProvider.java,heli
+Fri Oct 16  8:23:35 2009,ReportDataServiceProvider.java,heli
+Thu Oct 22  6:35:22 2009,MultiActionValuesScriptGenerator.java,heli
+Thu Oct 22  6:35:22 2009,IScriptMenuHelper.java,heli
+Thu Oct 22  6:35:22 2009,ScriptMenuHelper.java,heli
+Thu Oct 22  6:35:22 2009,ChartEnginePlugin.java,heli
+Wed Oct 28  3:31:42 2009,ReportDataServiceProvider.java,heli
+Wed Oct 28  3:31:42 2009,StandardChartDataSheet.java,heli
+Wed Oct 28  3:31:42 2009,BaseDataDefinitionComponent.java,heli
+Fri Oct 30  2:50:34 2009,BaseDataDefinitionComponent.java,heli
+Fri Oct 30  6:43:35 2009,MANIFEST.MF,heli
+Fri Oct 30  6:43:35 2009,nls.properties,heli
+Fri Oct 30  6:43:35 2009,TaskFormatChart.java,heli
+Fri Oct 30  6:43:35 2009,TaskSelectData.java,heli
+Fri Oct 30  6:43:35 2009,TaskSelectType.java,heli
+Fri Oct 30  6:43:35 2009,ChartLivePreviewThread.java,heli
+Fri Oct 30  6:43:35 2009,ImageViewer.java,heli
+Fri Oct 30  6:43:35 2009,LivePreviewTask.java,heli
+Fri Oct 30  6:43:35 2009,ChartWizardContext.java,heli
+Fri Oct 30  6:45:54 2009,ChartReportItemBuilderImpl.java,heli
+Fri Oct 30  6:45:54 2009,ReportDataServiceProvider.java,heli

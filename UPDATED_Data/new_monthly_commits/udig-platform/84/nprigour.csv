@@ -1,0 +1,28 @@
+date_time,file,committer_name
+Fri Mar 10 12:30:10 2017,Catalog Preferences.rst,nprigour
+Fri Mar 10 12:30:10 2017,plugin.properties,nprigour
+Fri Mar 10 12:30:10 2017,plugin.xml,nprigour
+Fri Mar 10 12:30:10 2017,WMSServiceImpl.java,nprigour
+Fri Mar 10 12:30:10 2017,Messages.java,nprigour
+Fri Mar 10 12:30:10 2017,messages.properties,nprigour
+Fri Mar 10 12:30:10 2017,WmsPreferenceConstants.java,nprigour
+Fri Mar 10 12:30:10 2017,WmsPreferenceInitializer.java,nprigour
+Fri Mar 10 12:30:10 2017,WmsPreferencePage.java,nprigour
+Fri Mar 10 13:04:55 2017,Mapscale Decoration.rst,nprigour
+Fri Mar 10 13:04:55 2017,Style Pages.rst,nprigour
+Fri Mar 10 13:04:55 2017,Messages.java,nprigour
+Fri Mar 10 13:04:55 2017,messages.properties,nprigour
+Fri Mar 10 13:04:55 2017,ScaleDenomMapGraphic.java,nprigour
+Fri Mar 10 13:04:55 2017,ScaleDenomStyle.java,nprigour
+Fri Mar 10 13:04:55 2017,ScaleDenomStyleConfigurator.java,nprigour
+Fri Mar 10 13:04:55 2017,ScaleDenomStyleContent.java,nprigour
+Fri Mar 10 13:04:55 2017,ScalebarMapGraphic.java,nprigour
+Mon Mar 13  8:10:35 2017,Layer to Shapefile Wizard.rst,nprigour
+Mon Mar 13  8:10:35 2017,Resource to Shapefile Wizard.rst,nprigour
+Mon Mar 13  8:10:35 2017,ShpPlugin.java,nprigour
+Mon Mar 13  8:10:35 2017,ShpServiceExtension.java,nprigour
+Mon Mar 13  8:10:35 2017,CatalogExportWizard.java,nprigour
+Mon Mar 13  8:10:35 2017,Data.java,nprigour
+Mon Mar 13  8:10:35 2017,ExportResourceSelectionPage.java,nprigour
+Mon Mar 13  8:10:35 2017,ServiceFactoryImpl.java,nprigour
+Mon Mar 13  8:10:35 2017,CharsetDialogCellEditor.java,nprigour

@@ -1,0 +1,8 @@
+date_time,file,committer_name
+Fri Jul  8  7:13:50 2022,CodeTypeTest.java,Matthias Otterbach
+Fri Jul  8  7:13:50 2022,AbstractCodeTypeWithGeneric.java,Matthias Otterbach
+Tue Jul 19  6:25:02 2022,FinalValueTest.java,Matthias Otterbach
+Tue Jul 19  6:25:02 2022,LazyValueTest.java,Matthias Otterbach
+Tue Jul 19  6:25:02 2022,FinalValue.java,Matthias Otterbach
+Tue Jul 19  6:25:02 2022,LazyValue.java,Matthias Otterbach
+Wed Aug  3 12:44:55 2022,MockConfigPropertyRule.java,Matthias Otterbach

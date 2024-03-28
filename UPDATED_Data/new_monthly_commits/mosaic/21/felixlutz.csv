@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Tue Mar 22 13:27:29 2022,CentralNavigationComponent.java,felixlutz
+Tue Mar 22 13:27:29 2022,OriginDestinationVehicleFlowGenerator.java,felixlutz
+Tue Mar 22 13:27:29 2022,VehicleFlowGenerator.java,felixlutz
+Tue Mar 22 13:27:29 2022,COriginDestinationMatrixMapper.java,felixlutz
+Tue Mar 22 13:27:29 2022,CVehicle.java,felixlutz
+Tue Mar 22 13:27:29 2022,CMappingAmbassadorScheme.json,felixlutz
+Tue Mar 22 13:27:29 2022,DepartSpeedTest.java,felixlutz
+Tue Mar 22 13:27:29 2022,SumoAmbassador.java,felixlutz
+Tue Mar 22 13:27:29 2022,SumoAmbassadorTest.java,felixlutz
+Tue Mar 22 13:27:29 2022,VehicleDeparture.java,felixlutz

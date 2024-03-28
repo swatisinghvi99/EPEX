@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Wed Jan  4 13:26:15 2023,main.yml,philipreimer
+Wed Jan  4 13:26:15 2023,README.md,philipreimer
+Wed Jan  4 13:26:15 2023,pom.xml,philipreimer
+Wed Jan  4 13:26:15 2023,BaseTemplate.java,philipreimer
+Wed Jan  4 13:26:15 2023,DockerfileTemplate.java,philipreimer
+Wed Jan  4 13:26:15 2023,PipelineTemplate.java,philipreimer
+Wed Jan  4 13:26:15 2023,BaseTemplateResource.java,philipreimer
+Wed Jan  4 13:26:15 2023,DockerTemplateResource.java,philipreimer
+Wed Jan  4 13:26:15 2023,PipelineTemplateResource.java,philipreimer
+Wed Jan  4 13:26:15 2023,DockerTemplateService.java,philipreimer
+Wed Jan  4 13:26:15 2023,PipelineTemplateService.java,philipreimer
+Wed Jan  4 13:26:15 2023,TemplateService.java,philipreimer
+Wed Jan  4 13:26:15 2023,Application.java,philipreimer
+Wed Jan  4 13:26:15 2023,Configuration.java,philipreimer
+Wed Jan  4 13:26:15 2023,DockerTemplateServiceTest.java,philipreimer
+Wed Jan  4 13:26:15 2023,PipelineTemplateServiceTest.java,philipreimer
+Wed Jan  4 13:26:15 2023,TemplateProvider.java,philipreimer

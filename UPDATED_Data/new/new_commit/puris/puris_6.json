@@ -1,0 +1,82 @@
+[
+    [
+        "Ernst-Christoph Schrewe",
+        "java",
+        127
+    ],
+    [
+        "Pascal Marzec",
+        "unknown",
+        2
+    ],
+    [
+        "Pascal Marzec",
+        "json",
+        2
+    ],
+    [
+        "Pascal Marzec",
+        "vue",
+        2
+    ],
+    [
+        "Pascal Marzec",
+        "js",
+        1
+    ],
+    [
+        "--show-origin",
+        "js",
+        9
+    ],
+    [
+        "--show-origin",
+        "java",
+        108
+    ],
+    [
+        "--show-origin",
+        "vue",
+        18
+    ],
+    [
+        "--show-origin",
+        "env",
+        3
+    ],
+    [
+        "--show-origin",
+        "gitignore",
+        1
+    ],
+    [
+        "--show-origin",
+        "md",
+        1
+    ],
+    [
+        "--show-origin",
+        "yaml",
+        7
+    ],
+    [
+        "--show-origin",
+        "dockerbuild",
+        2
+    ],
+    [
+        "--show-origin",
+        "json",
+        3
+    ],
+    [
+        "--show-origin",
+        "properties",
+        1
+    ],
+    [
+        "Martin Fitzke",
+        "java",
+        17
+    ]
+]

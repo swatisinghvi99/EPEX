@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Thu Nov 10  4:59:50 2005,ValidationInfoImpl.java,david_williams
+Thu Nov 10  4:59:50 2005,DefaultXMLValidator.java,david_williams
+Thu Nov 10  5:06:20 2005,OperationImpl.java,david_williams
+Sat Nov 12  4:54:07 2005,SOAPBodyImpl.java,david_williams
+Sat Nov 12  4:55:00 2005,ValidateOAGISWSDLTestcase.java,david_williams
+Sat Nov 12  4:55:00 2005,ValidateOAGISWSITestcase.java,david_williams
+Sat Nov 12  4:55:00 2005,ValidateStockQuoteWSDLTestCase.java,david_williams
+Sat Nov 12  4:55:00 2005,ValidateStockQuoteWSITestCase.java,david_williams

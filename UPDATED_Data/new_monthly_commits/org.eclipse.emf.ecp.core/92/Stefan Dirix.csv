@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Tue Feb 26 12:52:49 2019,JsonGenerationController.xtend,Stefan Dirix
+Tue Feb 26 12:52:49 2019,ViewCleaner.xtend,Stefan Dirix
+Tue Feb 26 12:52:49 2019,EcoreJsonGenerator.xtend,Stefan Dirix
+Tue Feb 26 12:52:49 2019,FormsJsonGenerator.xtend,Stefan Dirix
+Tue Feb 26 12:52:49 2019,JsonGenerator.xtend,Stefan Dirix
+Tue Feb 26 12:52:49 2019,ExportJSONFormsHandler.java,Stefan Dirix
+Tue Feb 26 12:52:49 2019,MANIFEST.MF,Stefan Dirix
+Tue Feb 26 12:52:49 2019,ViewCleaner_Test.xtend,Stefan Dirix
+Tue Feb 26 12:52:49 2019,EcoreJsonExporter_Test.xtend,Stefan Dirix
+Tue Feb 26 12:52:49 2019,FormsJsonExporter_Test.xtend,Stefan Dirix
+Tue Feb 26 12:52:49 2019,JsonGenerator_Test.xtend,Stefan Dirix

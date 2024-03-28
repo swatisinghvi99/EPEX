@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Wed Jun 10  3:41:40 2020,DefaultModulepathFixProcessor.java,Carsten Hammer
+Thu Jun 11 16:53:28 2020,VarCleanUp.java,Carsten Hammer
+Tue Jun 23  4:43:26 2020,TypeTuple.java,Carsten Hammer
+Tue Jun 23  4:43:26 2020,TypeTest.java,Carsten Hammer
+Tue Jun 23 14:02:18 2020,JavaEditorHoverConfigurationBlock.java,Carsten Hammer
+Wed Jun 24 18:22:21 2020,ConvertIterableLoopQuickFixTest.java,Carsten Hammer
+Thu Jun 25  4:03:33 2020,TypeConstraintTests.java,Carsten Hammer
+Thu Jun 25  4:03:33 2020,org.eclipse.pde.prefs,Carsten Hammer
+Thu Jun 25  4:03:33 2020,TypeTest.java,Carsten Hammer
+Mon Jun 29 14:35:47 2020,HelloWorld.java,Carsten Hammer
+Mon Jun 29 14:35:47 2020,JavaTestCase.java,Carsten Hammer
+Thu Jul  2 17:46:27 2020,TemplateCompletionTests.java,Carsten Hammer
+Thu Jul  2 17:46:27 2020,TemplateContributionTest.java,Carsten Hammer
+Thu Jul  2 17:46:27 2020,TemplatesTestSuite.java,Carsten Hammer

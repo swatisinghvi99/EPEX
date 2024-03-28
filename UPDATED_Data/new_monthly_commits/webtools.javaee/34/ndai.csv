@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Thu Aug 24 12:42:19 2006,plugin.properties,ndai
+Thu Aug 24 12:42:19 2006,plugin.xml,ndai
+Thu Aug 24 12:42:19 2006,XDocletBuilder.java,ndai
+Thu Aug 24 12:42:19 2006,XDocletBuilderValidator.java,ndai
+Thu Aug 24 12:42:19 2006,XDocletFacetUninstallDelegate.java,ndai
+Thu Aug 24 12:42:19 2006,Messages.java,ndai
+Thu Aug 24 12:42:19 2006,preferences.properties,ndai
+Thu Aug 24 13:54:09 2006,EjbBuilder.java,ndai
+Thu Aug 24 13:54:09 2006,EjbEmitter.java,ndai
+Thu Aug 24 14:16:16 2006,XDocletAnnotationProvider.java,ndai
+Sat Aug 26  8:11:10 2006,RunXDocletAction.java,ndai
+Sat Aug 26 10:01:24 2006,XDocletEjbAntProjectBuilder.java,ndai
+Sat Aug 26 10:01:24 2006,XDocletWebAntProjectBuilder.java,ndai
+Sat Aug 26 10:01:24 2006,xdoclet.xml,ndai
+Sat Aug 26 10:01:24 2006,xdocletweb.xml,ndai
+Sat Aug 26 10:18:56 2006,IEJBUIContextIds.java,ndai

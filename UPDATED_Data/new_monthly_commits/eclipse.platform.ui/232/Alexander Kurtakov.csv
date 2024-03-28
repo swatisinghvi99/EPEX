@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Thu Aug  6  7:36:34 2020,MultiStringMatcherTest.java,Alexander Kurtakov
+Fri Aug  7 10:55:10 2020,MANIFEST.MF,Alexander Kurtakov
+Fri Aug  7 10:55:10 2020,pom.xml,Alexander Kurtakov
+Fri Aug  7 10:55:10 2020,DialogCheck.java,Alexander Kurtakov
+Sat Aug  8  6:22:49 2020,ProgressManager.java,Alexander Kurtakov
+Sat Aug  8  6:22:49 2020,ProgressMonitorFocusJobDialog.java,Alexander Kurtakov
+Sat Aug  8  6:22:49 2020,ProgressMonitorJobsDialog.java,Alexander Kurtakov
+Sat Aug  8  6:22:49 2020,StatusLineManager.java,Alexander Kurtakov
+Sat Aug  8  6:22:49 2020,IDialogBlockedHandler.java,Alexander Kurtakov
+Sat Aug  8  6:22:49 2020,ProgressMonitorDialog.java,Alexander Kurtakov
+Sat Aug  8  6:22:49 2020,ProgressMonitorUtil.java,Alexander Kurtakov
+Sat Aug  8  6:22:49 2020,DelegateProgressMonitorInUIThreadAndPreservingFocus.java,Alexander Kurtakov
+Sat Aug  8  6:22:49 2020,EventLoopProgressMonitor.java,Alexander Kurtakov
+Sat Aug  8  6:22:49 2020,ProgressManager.java,Alexander Kurtakov
+Sat Aug  8  6:22:49 2020,ProgressMonitorJobsDialog.java,Alexander Kurtakov
+Sat Aug  8  6:22:49 2020,Snippet058VistaProgressBars.java,Alexander Kurtakov
+Sat Aug  8  6:22:49 2020,ApplicationWindowTest.java,Alexander Kurtakov
+Sat Aug  8 13:13:13 2020,MANIFEST.MF,Alexander Kurtakov
+Sat Aug  8 13:13:13 2020,pom.xml,Alexander Kurtakov
+Sat Aug  8 13:13:13 2020,FileDocumentProviderTest.java,Alexander Kurtakov
+Sat Aug  8 13:13:13 2020,TextFileDocumentProviderTest.java,Alexander Kurtakov

@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Thu Jul 28 12:28:35 2022,Dockerfile,Faisal
+Thu Jul 28 12:28:35 2022,Dockerfile.noBuild,Faisal
+Thu Jul 28 12:28:35 2022,NOTICE,Faisal
+Thu Jul 28 12:28:35 2022,winery.yml.tpl,Faisal
+Thu Jul 28 12:28:35 2022,winery.yml,Faisal
+Thu Jul 28 12:28:35 2022,configuration.component.html,Faisal
+Thu Jul 28 12:28:35 2022,instanceHeader.component.html,Faisal
+Thu Jul 28 12:28:35 2022,WineryRepositoryConfiguration.service.ts,Faisal
+Thu Jul 28 12:28:35 2022,wineryRepository.feature.direct.ts,Faisal
+Thu Jul 28 12:28:35 2022,LicenseEngineApiData.ts,Faisal
+Thu Jul 28 12:28:35 2022,licenseEngine.service.ts,Faisal
+Thu Jul 28 12:28:35 2022,wineryLicense.component.css,Faisal
+Thu Jul 28 12:28:35 2022,wineryLicense.component.html,Faisal
+Thu Jul 28 12:28:35 2022,wineryLicense.component.ts,Faisal
+Thu Jul 28 12:28:35 2022,wineryLicense.module.ts,Faisal
+Thu Jul 28 12:28:35 2022,wineryLicense.service.ts,Faisal
+Thu Jul 28 12:28:35 2022,package-lock.json,Faisal
+Thu Jul 28 12:28:35 2022,package.json,Faisal

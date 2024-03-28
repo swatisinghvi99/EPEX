@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Fri Sep 15 10:25:39 2017,CorrectionMessages.java,KalyanPrasadTatavart
+Fri Sep 15 10:25:39 2017,CorrectionMessages.properties,KalyanPrasadTatavart
+Fri Sep 15 10:25:39 2017,DefaultClasspathFixProcessor.java,KalyanPrasadTatavart
+Fri Sep 15 10:25:39 2017,IProposalRelevance.java,KalyanPrasadTatavart
+Fri Sep 15 10:25:39 2017,ReorgCorrectionsSubProcessor.java,KalyanPrasadTatavart
+Fri Sep 15 10:25:39 2017,UnresolvedElementsSubProcessor.java,KalyanPrasadTatavart
+Fri Sep 15 10:25:39 2017,AddImportCorrectionProposal.java,KalyanPrasadTatavart
+Fri Sep 15 10:25:39 2017,AddModuleRequiresCorrectionProposal.java,KalyanPrasadTatavart

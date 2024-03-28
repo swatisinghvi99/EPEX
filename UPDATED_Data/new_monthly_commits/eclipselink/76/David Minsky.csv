@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Fri Nov 22 16:19:11 2013,HashPartitioningPolicy.java,David Minsky
+Fri Nov 22 16:19:11 2013,partitioned-orm.xml,David Minsky
+Fri Nov 22 16:19:11 2013,Office.java,David Minsky
+Fri Nov 22 16:19:11 2013,PartitionedTableCreator.java,David Minsky
+Fri Nov 22 16:19:11 2013,PartitionedTestSuite.java,David Minsky
+Wed Nov 27 19:10:17 2013,TimestampInAggregateObject.java,David Minsky
+Wed Nov 27 19:10:17 2013,OptimisticLockingTestModel.java,David Minsky
+Wed Nov 27 19:10:17 2013,WriteNullAggregateWithTimestampLockingTest.java,David Minsky
+Wed Nov 27 19:10:17 2013,ObjectBuilder.java,David Minsky
+Fri Nov 29 20:56:27 2013,AggregateObjectMapping.java,David Minsky
+Fri Nov 29 20:56:27 2013,AdvancedTableCreator.java,David Minsky
+Fri Nov 29 20:56:27 2013,BarCode.java,David Minsky
+Fri Nov 29 20:56:27 2013,Product.java,David Minsky
+Fri Nov 29 20:56:27 2013,AdvancedJPAJunitTest.java,David Minsky
+Thu Dec  5 20:42:02 2013,BasicIndirectionPolicy.java,David Minsky
+Thu Dec  5 20:42:02 2013,Employee.java,David Minsky
+Thu Dec  5 20:42:02 2013,EmployeePopulator.java,David Minsky
+Thu Dec  5 20:42:02 2013,AdvancedJPAJunitTest.java,David Minsky
+Tue Dec 10 16:27:16 2013,Employee.java,David Minsky

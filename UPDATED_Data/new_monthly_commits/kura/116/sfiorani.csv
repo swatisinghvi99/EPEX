@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Fri Jul 28 15:08:32 2023,KuraIp6AddressGenerationMode.java,sfiorani
+Fri Jul 28 15:08:32 2023,KuraIp6ConfigurationMethod.java,sfiorani
+Fri Jul 28 15:08:32 2023,KuraIp6Privacy.java,sfiorani
+Fri Jul 28 15:08:32 2023,KuraIpStatus.java,sfiorani
+Fri Jul 28 15:08:32 2023,NMDbusConnector.java,sfiorani
+Fri Jul 28 15:08:32 2023,NMSettingsConverter.java,sfiorani
+Fri Jul 28 15:08:32 2023,NMSettingIP6ConfigAddrGenMode.java,sfiorani
+Fri Jul 28 15:08:32 2023,NMSettingIP6ConfigPrivacy.java,sfiorani
+Fri Jul 28 15:08:32 2023,NMSettingsConverterTest.java,sfiorani
+Wed Aug  9 15:09:17 2023,NetworkConfigurationPropertyNames.java,sfiorani
+Wed Aug  9 15:09:17 2023,NetworkConfigurationServiceCommon.java,sfiorani
+Wed Aug  9 15:09:17 2023,NetworkConfigurationMessagesBundle.properties,sfiorani
+Wed Aug  9 15:09:17 2023,NetworkConfigurationServiceImplTest.java,sfiorani
+Wed Aug  9 15:09:17 2023,NetworkConfigurationServiceCommonTest.java,sfiorani
+Wed Aug  9 15:09:17 2023,NMConfigurationServiceImplTest.java,sfiorani

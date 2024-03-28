@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Mon Mar  7 14:33:25 2016,.gitignore,Martin Kouba
+Mon Mar  7 14:33:25 2016,ApplicationScoped.java,Martin Kouba
+Mon Mar  7 14:33:25 2016,ConversationScoped.java,Martin Kouba
+Mon Mar  7 14:33:25 2016,Dependent.java,Martin Kouba
+Mon Mar  7 14:33:25 2016,Destroyed.java,Martin Kouba
+Mon Mar  7 14:33:25 2016,Initialized.java,Martin Kouba
+Mon Mar  7 14:33:25 2016,RequestScoped.java,Martin Kouba
+Mon Mar  7 14:33:25 2016,SessionScoped.java,Martin Kouba
+Mon Mar  7 14:33:25 2016,Alternative.java,Martin Kouba
+Mon Mar  7 14:33:25 2016,Any.java,Martin Kouba
+Mon Mar  7 14:33:25 2016,Default.java,Martin Kouba
+Mon Mar  7 14:33:25 2016,New.java,Martin Kouba
+Mon Mar  7 14:33:25 2016,Typed.java,Martin Kouba
+Mon Mar  7 14:33:25 2016,NamedLiteral.java,Martin Kouba
+Mon Mar  7 14:33:25 2016,QualifierLiteral.java,Martin Kouba
+Mon Mar  7 14:33:25 2016,SingletonLiteral.java,Martin Kouba
+Mon Mar  7 14:33:25 2016,Nonbinding.java,Martin Kouba
+Mon Mar  7 14:33:25 2016,AnnotationLiteralTest.java,Martin Kouba

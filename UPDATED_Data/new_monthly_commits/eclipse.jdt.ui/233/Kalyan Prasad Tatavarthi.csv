@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Thu Sep  3 10:17:22 2020,.api_filters,Kalyan Prasad Tatavarthi
+Thu Sep  3 10:17:22 2020,ImportReferencesCollector.java,Kalyan Prasad Tatavarthi
+Thu Sep  3 10:17:22 2020,OccurrencesFinder.java,Kalyan Prasad Tatavarthi
+Thu Sep  3 10:17:22 2020,JavaElementLinks.java,Kalyan Prasad Tatavarthi
+Tue Sep  8  7:40:33 2020,.api_filters,Kalyan Prasad Tatavarthi
+Tue Sep  8  7:40:33 2020,RenameVirtualMethodProcessor.java,Kalyan Prasad Tatavarthi
+Fri Sep 11 13:07:08 2020,JavaElementLinks.java,Kalyan Prasad Tatavarthi
+Thu Sep 17  7:17:56 2020,HierarchicalASTVisitor.java,Kalyan Prasad Tatavarthi
+Thu Sep 17  7:17:56 2020,QuickFixTest.java,Kalyan Prasad Tatavarthi
+Thu Sep 17  7:17:56 2020,QuickFixTest15.java,Kalyan Prasad Tatavarthi
+Thu Sep 17  7:17:56 2020,QuickFixTestPreview.java,Kalyan Prasad Tatavarthi
+Thu Sep 17  7:17:56 2020,QuickFixTestSuite.java,Kalyan Prasad Tatavarthi

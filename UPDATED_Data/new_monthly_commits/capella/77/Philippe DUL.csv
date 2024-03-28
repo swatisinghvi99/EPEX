@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Mon Mar 29  7:20:38 2021,MANIFEST.MF,Philippe DUL
+Mon Mar 29  7:20:38 2021,PropertyViewsTest.java,Philippe DUL
+Mon Mar 29 16:11:08 2021,RefreshDiagramsCommandHandler.java,Philippe DUL
+Mon Mar 29 16:11:08 2021,SessionHelper.java,Philippe DUL
+Mon Mar 29 16:11:08 2021,RefreshAllOnDisabledProject.java,Philippe DUL
+Mon Mar 29 16:11:08 2021,RefreshAllOnNonCustomizedProject.java,Philippe DUL
+Mon Mar 29 16:11:08 2021,SpecificSettings.java,Philippe DUL
+Wed Apr  7  9:33:39 2021,CapellaResourceHelper.java,Philippe DUL
+Wed Apr  7  9:33:39 2021,GitConflictHelper.java,Philippe DUL
+Wed Apr  7  9:33:39 2021,.project,Philippe DUL
+Wed Apr  7  9:33:39 2021,SA.airdfragment,Philippe DUL
+Wed Apr  7  9:33:39 2021,SA.capellafragment,Philippe DUL
+Wed Apr  7  9:33:39 2021,gch-library.afm,Philippe DUL
+Wed Apr  7  9:33:39 2021,gch-library.aird,Philippe DUL
+Wed Apr  7  9:33:39 2021,gch-library.capella,Philippe DUL
+Wed Apr  7  9:33:39 2021,.project,Philippe DUL
+Wed Apr  7  9:33:39 2021,SA.airdfragment,Philippe DUL
+Wed Apr  7  9:33:39 2021,SA.capellafragment,Philippe DUL
+Wed Apr  7  9:33:39 2021,gch-project.afm,Philippe DUL
+Wed Apr  7  9:33:39 2021,gch-project.aird,Philippe DUL
+Wed Apr  7  9:33:39 2021,gch-project.capella,Philippe DUL
+Wed Apr  7  9:33:39 2021,GitConflictHelperTest.java,Philippe DUL
+Wed Apr  7  9:33:39 2021,ModelTestSuite.java,Philippe DUL

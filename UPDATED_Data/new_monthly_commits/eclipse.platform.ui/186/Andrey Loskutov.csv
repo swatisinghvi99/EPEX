@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Mon Oct  3 17:32:24 2016,StatusManager.java,Andrey Loskutov
+Mon Oct  3 17:32:24 2016,WorkbenchErrorHandler.java,Andrey Loskutov
+Mon Oct  3 17:32:24 2016,FreezeMonitor.java,Andrey Loskutov
+Mon Oct  3 17:32:24 2016,StatusDialogManagerTest.java,Andrey Loskutov
+Mon Oct  3 17:32:24 2016,StatusDialogUtil.java,Andrey Loskutov
+Mon Oct  3 18:25:56 2016,EditorRegistry.java,Andrey Loskutov
+Sat Oct 15  6:54:06 2016,ApiTestSuite.java,Andrey Loskutov
+Tue Oct 18  6:52:50 2016,UILockListener.java,Andrey Loskutov
+Tue Oct 18  6:52:50 2016,UISynchronizer.java,Andrey Loskutov
+Tue Oct 18  6:52:50 2016,SyncExecWhileUIThreadWaitsForLock.java,Andrey Loskutov
+Tue Oct 18 17:50:17 2016,PartServiceImpl.java,Andrey Loskutov
+Thu Oct 20 11:38:47 2016,ISourceViewer.java,Andrey Loskutov
+Thu Oct 20 11:38:47 2016,AbstractDecoratedTextEditor.java,Andrey Loskutov
+Mon Oct 24 19:16:14 2016,UILockListener.java,Andrey Loskutov

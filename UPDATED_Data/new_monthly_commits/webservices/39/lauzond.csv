@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Wed Jan 24 16:50:51 2007,MANIFEST.MF,lauzond
+Wed Jan 24 16:50:51 2007,LogReaderImpl.java,lauzond
+Wed Jan 24 17:11:25 2007,MessageAnalyzer.java,lauzond
+Wed Jan 24 17:11:25 2007,WSDLAnalyzer.java,lauzond
+Wed Jan 24 18:23:08 2007,CoreMessageLogConformanceTest.java,lauzond
+Wed Jan 24 18:23:08 2007,MessageLogConformanceSecureWSTest.java,lauzond
+Wed Jan 24 18:23:08 2007,RegressionBucket.java,lauzond
+Wed Jan 24 18:23:08 2007,Encryption.wsimsg,lauzond
+Wed Jan 24 18:23:08 2007,testcase.xml,lauzond
+Wed Jan 24 18:23:08 2007,NoSecurity.wsimsg,lauzond
+Wed Jan 24 18:23:08 2007,testcase.xml,lauzond
+Wed Jan 24 18:23:08 2007,Signature.wsimsg,lauzond
+Wed Jan 24 18:23:08 2007,testcase.xml,lauzond
+Wed Jan 24 18:23:08 2007,SignatureAndEncryption.wsimsg,lauzond
+Wed Jan 24 18:23:08 2007,testcase.xml,lauzond
+Wed Jan 24 18:23:08 2007,Encryption.wsdl,lauzond
+Wed Jan 24 18:23:08 2007,NoSecurity.wsdl,lauzond
+Wed Jan 24 18:23:08 2007,Signature.wsdl,lauzond
+Wed Jan 24 18:23:08 2007,SignatureAndEncryption.wsdl,lauzond
+Thu Jan 25  2:09:25 2007,LogReaderImpl.java,lauzond

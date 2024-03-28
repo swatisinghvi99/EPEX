@@ -1,0 +1,76 @@
+date_time,file,committer_name
+Tue Mar 12 10:34:42 2024,Glossary.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Release_Notes.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Release_Notes_Previous.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Architecture.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Architecture_Overview.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Meta-models.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Sirius Developer Manual.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,copy_paste_format_new_semantic.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,deprecated_extensions-provide_custom_bundled_image_shape.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,export_svg_traceability.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-properties_provide_custom_widget.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-properties_provide_custom_widget_advanced.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-properties_provide_custom_widget_basic.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-provide_celleditor.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-provide_custom-arrange-all.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-provide_custom_aird_editor_pages.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-provide_custom_bundled_image_shape.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-provide_custom_model_operation.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-provide_custom_permission_authority.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-provide_custom_style.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-provide_migrate_contribution.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-provide_repair_contribution.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-provide_resource_strategy.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-provide_save_dialog.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-provide_tabbar_extensions.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-provide_toolfilter.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Sirius_High-Level_Architecture_Overview.svg,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Sirius_Representation_Refresh-Sync.svg,Pierre-Charles
+Tue Mar 12 10:34:42 2024,integration-modeler_description_file_deployment.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,integration-plm.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-provide_custom_extender.txt,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-provide_custom_representation.txt,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-provide_custom_representations_export.txt,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-provide_custom_specific_editor.txt,Pierre-Charles
+Tue Mar 12 10:34:42 2024,integration-model_access.txt,Pierre-Charles
+Tue Mar 12 10:34:42 2024,representations_lazy_loading.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,siriusCrossReferenceAdapter.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,trigger-refresh-graphical-changes.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,i18n_changes.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,index.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,release_notes_vp.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,bootstrap.css,Pierre-Charles
+Tue Mar 12 10:34:42 2024,bootstrap.js,Pierre-Charles
+Tue Mar 12 10:34:42 2024,custom.css,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Sirius Specifier Manual.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,CreatingViewpointSpecification.xml,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Diagrams.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Colors.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Model_Operations.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Specifying_Viewpoints.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,ToolsSpecification.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Writing_Queries.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Properties_View_Description.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Sequence Diagrams.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Tables.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Trees.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Sirius User Manual.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Diagrams.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Aird_Editor.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Aird_Preferences.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Modeling Project.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,SiriusSessionDetailedInformation.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Properties View.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Sequence Diagrams.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Tables.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Trees.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Release_Notes.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Sirius Developer Manual.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,extensions-provide_custom-arrange-all.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,i18n_changes.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,index.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Diagrams.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Diagrams.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,Sequence Diagrams.html,Pierre-Charles
+Tue Mar 12 10:34:42 2024,download.html,Pierre-Charles

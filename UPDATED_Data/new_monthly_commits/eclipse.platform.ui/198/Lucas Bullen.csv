@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Wed Oct 11 19:01:59 2017,plugin.xml,Lucas Bullen
+Wed Oct 11 19:01:59 2017,ContextInfoTest.java,Lucas Bullen
+Wed Oct 11 19:01:59 2017,HoverTest.java,Lucas Bullen
+Wed Oct 11 19:01:59 2017,WorldHoverProvider.java,Lucas Bullen
+Mon Oct 16 19:06:22 2017,IWorkbenchGraphicConstants.java,Lucas Bullen
+Mon Oct 16 19:06:22 2017,WorkbenchImages.java,Lucas Bullen
+Mon Oct 16 19:06:22 2017,FilteredPreferenceDialog.java,Lucas Bullen
+Tue Oct 17 13:36:03 2017,plugin.xml,Lucas Bullen
+Tue Oct 17 13:36:03 2017,BracketMatchingReconciler.java,Lucas Bullen
+Tue Oct 17 13:36:03 2017,CompositeReconciler.java,Lucas Bullen
+Tue Oct 17 13:36:03 2017,CompositeReconcilerStrategy.java,Lucas Bullen
+Tue Oct 17 21:08:40 2017,PreferencesImportWizard.java,Lucas Bullen
+Tue Oct 17 21:08:40 2017,PreferencesMessages.java,Lucas Bullen
+Tue Oct 17 21:08:40 2017,messages.properties,Lucas Bullen
+Wed Oct 18  7:53:34 2017,FilteredResourcesSelectionDialog.java,Lucas Bullen
+Wed Oct 18  7:53:34 2017,UiTestSuite.java,Lucas Bullen
+Wed Oct 18  7:53:34 2017,FilteredResourcesSelectionDialogTestSuite.java,Lucas Bullen
+Wed Oct 18  7:53:34 2017,ResourceItemLabelTest.java,Lucas Bullen
+Fri Oct 20  9:09:58 2017,PatternFilter.java,Lucas Bullen
+Fri Oct 20  9:09:58 2017,StringMatcher.java,Lucas Bullen
+Sun Oct 22 12:04:45 2017,StringMatcher.java,Lucas Bullen
+Tue Oct 31 13:47:58 2017,FilteredResourcesSelectionDialog.java,Lucas Bullen

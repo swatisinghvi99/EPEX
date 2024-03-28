@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Wed Aug 24 17:42:20 2022,BuildPathsPropertyPage.java,Ondrej Dockal
+Wed Aug 24 17:42:20 2022,MANIFEST.MF,Ondrej Dockal
+Wed Aug 24 17:42:20 2022,plugin.xml,Ondrej Dockal
+Wed Aug 24 17:42:20 2022,OomphRecorderRequirement.java,Ondrej Dockal
+Wed Aug 24 17:42:20 2022,BuildPathsPropertyPageTest.java,Ondrej Dockal
+Wed Aug 24 17:42:20 2022,OomphRecorderRequirementTest.java,Ondrej Dockal
+Wed Aug 24 17:42:20 2022,TaskList.java,Ondrej Dockal
+Wed Aug 24 17:42:20 2022,TaskListView.java,Ondrej Dockal
+Wed Aug 24 17:42:20 2022,TaskRepositoriesView.java,Ondrej Dockal
+Wed Aug 24 17:42:20 2022,TaskRepository.java,Ondrej Dockal
+Wed Aug 24 17:42:20 2022,NewRepositoryWizard.java,Ondrej Dockal
+Wed Aug 24 17:42:20 2022,TaskRepositoryWizardDialog.java,Ondrej Dockal
+Wed Aug 24 17:42:20 2022,TaskListViewTest.java,Ondrej Dockal
+Wed Aug 24 17:42:20 2022,TaskRepositoriesViewTest.java,Ondrej Dockal
+Wed Aug 24 17:42:20 2022,ExplorerItemPropertyDialogTest.java,Ondrej Dockal

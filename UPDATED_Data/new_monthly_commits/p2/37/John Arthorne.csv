@@ -1,0 +1,37 @@
+date_time,file,committer_name
+Mon Jan 12  5:16:20 2009,Activator.java,John Arthorne
+Mon Jan 12  5:16:20 2009,SimpleConfiguratorManipulatorImpl.java,John Arthorne
+Mon Jan 12  5:16:20 2009,SimpleConfiguratorManipulatorUtils.java,John Arthorne
+Mon Jan 12  5:16:20 2009,SimpleConfiguratorUtils.java,John Arthorne
+Mon Jan 12 22:04:24 2009,ElementUtils.java,John Arthorne
+Wed Jan 14 20:13:38 2009,MetadataFactory.java,John Arthorne
+Fri Jan 16 14:27:36 2009,CompoundQuery.java,John Arthorne
+Mon Jan 19  4:58:40 2009,Activator.java,John Arthorne
+Tue Jan 20 21:46:19 2009,DownloadManager.java,John Arthorne
+Wed Jan 21 20:22:03 2009,MetadataFactory.java,John Arthorne
+Wed Jan 21 20:22:03 2009,IUPersistenceTest.java,John Arthorne
+Wed Jan 21 21:19:19 2009,VersionRange.java,John Arthorne
+Wed Jan 21 21:19:19 2009,VersionRange.java,John Arthorne
+Wed Jan 21 21:19:25 2009,OSGiRangeTest.java,John Arthorne
+Wed Feb 11 18:48:57 2009,CompositeArtifactRepositoryFactory.java,John Arthorne
+Wed Feb 11 18:48:57 2009,Messages.java,John Arthorne
+Wed Feb 11 18:48:57 2009,messages.properties,John Arthorne
+Wed Feb 11 18:48:57 2009,SimpleArtifactRepository.java,John Arthorne
+Wed Feb 11 18:48:57 2009,SimpleArtifactRepositoryFactory.java,John Arthorne
+Wed Feb 11 18:48:57 2009,SimpleArtifactRepositoryTest.java,John Arthorne
+Wed Feb 11 18:51:28 2009,CompositeArtifactRepositoryFactory.java,John Arthorne
+Wed Feb 11 21:05:47 2009,MetadataRepositoryManagerTest.java,John Arthorne
+Wed Feb 11 21:59:46 2009,Messages.java,John Arthorne
+Wed Feb 11 21:59:46 2009,ProfileMetadataRepository.java,John Arthorne
+Wed Feb 11 21:59:46 2009,messages.properties,John Arthorne
+Wed Feb 11 22:00:35 2009,UpdateSiteTest.java,John Arthorne
+Wed Feb 11 22:28:08 2009,ArtifactRepositoryFactory.java,John Arthorne
+Wed Feb 11 22:28:08 2009,AbstractRepositoryManager.java,John Arthorne
+Wed Feb 11 22:28:08 2009,MetadataRepositoryFactory.java,John Arthorne
+Wed Feb 11 22:28:08 2009,All p2 Tests.launch,John Arthorne
+Wed Feb 11 22:28:08 2009,MetadataRepositoryManagerTest.java,John Arthorne
+Wed Feb 11 22:28:08 2009,content.xml,John Arthorne
+Wed Feb 11 22:28:08 2009,site.xml,John Arthorne
+Wed Feb 11 22:44:23 2009,AbstractRepositoryManager.java,John Arthorne
+Wed Feb 11 22:44:32 2009,plugin.xml,John Arthorne
+Wed Feb 11 22:44:32 2009,FailingMetadataRepositoryFactory.java,John Arthorne

@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Fri May  9 14:06:29 2008,ServicePublishEventDispatcher.java,Christian Campo
+Fri May  9 14:07:56 2008,RemoteServicePublisher.java,Christian Campo
+Fri May  9 14:07:56 2008,ServicePublishingDaemon.java,Christian Campo
+Mon May 12 20:33:38 2008,IServicePublishBinder.java,Christian Campo
+Mon May 12 20:33:38 2008,MultiServicePublisher.java,Christian Campo
+Mon May 12 20:33:38 2008,Publish.java,Christian Campo
+Mon May 12 20:33:38 2008,RemoteServicePublisher.java,Christian Campo
+Mon May 12 20:33:38 2008,ServicePublishBinder.java,Christian Campo
+Mon May 12 20:33:38 2008,SingleServicePublisher.java,Christian Campo

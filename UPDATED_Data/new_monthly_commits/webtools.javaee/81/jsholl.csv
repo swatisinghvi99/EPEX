@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Mon Jun 28 20:45:33 2010,EjbClientJarCreationOperation.java,jsholl
+Mon Jun 28 20:51:41 2010,Messages.java,jsholl
+Mon Jun 28 20:51:41 2010,ExternalJarReferenceWizardFragment.java,jsholl
+Mon Jun 28 20:51:41 2010,JarReferenceWizardFragment.java,jsholl
+Mon Jun 28 20:51:41 2010,VariableReferenceWizardFragment.java,jsholl
+Mon Jun 28 20:51:41 2010,messages.properties,jsholl
+Thu Jul  1 19:35:54 2010,UpdateManifestOperation.java,jsholl
+Thu Jul  1 19:35:54 2010,JEEManifestDiscerner.java,jsholl
+Thu Jul  1 19:36:03 2010,ManifestModuleDependencyControl.java,jsholl
+Wed Jul  7 15:34:54 2010,ClasspathContainerVirtualComponent.java,jsholl
+Tue Jul 13 16:07:34 2010,EarLibDirContainerTests.java,jsholl
+Tue Jul 13 16:07:34 2010,DependencyCreationUtil.java,jsholl
+Tue Jul 13 16:07:34 2010,DependencyVerificationUtil.java,jsholl
+Tue Jul 13 16:07:38 2010,AddComponentToEnterpriseApplicationDataModelProvider.java,jsholl
+Tue Jul 13 16:07:38 2010,EarUtilities.java,jsholl
+Tue Jul 13 16:07:38 2010,ProjectRefactoringListener.java,jsholl
+Tue Jul 13 16:08:37 2010,EarValidator.java,jsholl
+Tue Jul 13 19:10:41 2010,JavaEEPreferencesInitializer.java,jsholl
+Tue Jul 13 19:10:41 2010,IProductConstants.java,jsholl
+Wed Jul 14 14:36:09 2010,AddReferenceToEnterpriseApplicationDataModelProvider.java,jsholl
+Wed Jul 14 16:17:00 2010,AddComponentToEnterpriseApplicationDataModelProvider.java,jsholl
+Wed Jul 14 16:17:00 2010,EJBUtilities.java,jsholl
+Wed Jul 14 16:38:05 2010,ManifestModuleDependencyControl.java,jsholl
+Wed Jul 14 20:51:23 2010,EARComponentImportOptionsPage.java,jsholl
+Wed Jul 14 21:59:12 2010,WebFragmentFacetInstallDelegate.java,jsholl
+Thu Jul 15 20:55:04 2010,EJBUtilities.java,jsholl

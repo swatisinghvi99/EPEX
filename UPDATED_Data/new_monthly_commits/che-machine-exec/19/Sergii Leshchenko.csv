@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Mon Mar  2 13:02:13 2020,kubernetes_filter.go,Sergii Leshchenko
+Tue Mar  3  8:34:22 2020,handlers.go,Sergii Leshchenko
+Tue Mar  3  8:34:22 2020,kubernetes_exec_manager.go,Sergii Leshchenko
+Tue Mar  3  8:34:22 2020,event_bus.go,Sergii Leshchenko
+Tue Mar  3  8:34:22 2020,handlers.go,Sergii Leshchenko
+Tue Mar  3  8:34:22 2020,attach.go,Sergii Leshchenko
+Tue Mar  3  8:34:22 2020,command_resolver.go,Sergii Leshchenko
+Tue Mar  3  8:34:22 2020,exec-manager-provider.go,Sergii Leshchenko
+Tue Mar  3  8:34:22 2020,kubernetes_exec_manager.go,Sergii Leshchenko
+Tue Mar  3  8:34:22 2020,namespace_provider.go,Sergii Leshchenko
+Tue Mar  3  8:34:22 2020,main.go,Sergii Leshchenko
+Tue Mar  3  8:34:22 2020,shell_detector.go,Sergii Leshchenko
+Tue Mar  3  8:34:22 2020,ws-connection-handler.go,Sergii Leshchenko
+Tue Mar  3  8:34:22 2020,kubernetes_info_exec.go,Sergii Leshchenko
+Tue Mar  3  8:34:22 2020,command_resolver.go,Sergii Leshchenko
+Tue Mar  3  8:34:22 2020,command_resolver_test.go,Sergii Leshchenko

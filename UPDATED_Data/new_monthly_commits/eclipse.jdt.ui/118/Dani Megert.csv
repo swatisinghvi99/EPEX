@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Fri Feb  4 13:17:26 2011,ActionMessages.java,Dani Megert
+Fri Feb  4 13:17:26 2011,ActionMessages.properties,Dani Megert
+Fri Feb  4 13:17:26 2011,JavaEditor.java,Dani Megert
+Fri Feb  4 13:17:26 2011,JavaEditorMessages.java,Dani Megert
+Fri Feb  4 13:17:26 2011,JavaEditorMessages.properties,Dani Megert
+Fri Feb  4 13:17:26 2011,JavaOutlinePage.java,Dani Megert
+Fri Feb 11 14:39:39 2011,CopyQualifiedNameAction.java,Dani Megert
+Fri Feb 11 14:47:35 2011,ASTProvider.java,Dani Megert
+Fri Feb 11 15:02:22 2011,CompilationUnitAnnotationModelEvent.java,Dani Megert
+Mon Feb 14 17:04:27 2011,CodeAssistConfigurationBlock.java,Dani Megert
+Tue Feb 22  7:12:14 2011,SurroundWithTestSetup.java,Dani Megert
+Tue Feb 22  7:12:27 2011,RefactoringTest.java,Dani Megert
+Tue Feb 22  7:12:27 2011,JavaProjectHelper.java,Dani Megert
+Tue Feb 22  7:12:57 2011,RippleMethodFinderTests.java,Dani Megert
+Tue Feb 22  8:08:52 2011,AbstractCompletionTest.java,Dani Megert
+Tue Feb 22  8:22:31 2011,RenamePackageTests.java,Dani Megert
+Tue Feb 22  8:27:12 2011,RefactoringTest.java,Dani Megert
+Wed Feb 23  9:23:32 2011,JavaSourceViewer.java,Dani Megert
+Tue Mar  1 12:36:43 2011,WorkingSetDropAdapterTest.java,Dani Megert
+Tue Mar  1 12:39:37 2011,WorkingSetModel.java,Dani Megert
+Tue Mar  1 12:41:10 2011,PackageExplorerPart.java,Dani Megert
+Tue Mar  1 12:47:34 2011,PackageExplorerPart.java,Dani Megert
+Tue Mar  1 12:49:35 2011,WorkingSetModel.java,Dani Megert
+Wed Mar  2 13:55:41 2011,WorkingSetModel.java,Dani Megert

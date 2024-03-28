@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Fri Aug  9 13:30:18 2019,ProjectImportServiceImpl.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,LibraryInfo.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,LibraryAssetUpdateNotifier.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,LibraryServiceImpl.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,LibraryScreen.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,PopulatedLibraryScreen.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,PopulatedLibraryView.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,LibraryPlaces.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,TileView.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,TileWidget.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,AddProjectButtonPresenter.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,LibraryScreenTest.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,PopulatedLibraryScreenTest.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,LibraryPlacesTest.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,TileWidgetTest.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,DefaultApplicationScopedProducer.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,DefaultBatchIndexListener.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,DefaultBatchIndexListenerTest.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,BaseIndexingEvent.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,IndexingFinishedEvent.java,Pere Fernández
+Fri Aug  9 13:30:18 2019,IndexingStartedEvent.java,Pere Fernández

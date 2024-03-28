@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Sun May 19 14:57:34 2019,VControl.java,Laurent Caron
+Sun May 19 14:57:34 2019,VControlPainter.java,Laurent Caron
+Sun May 19 18:22:32 2019,CDateTime.java,Laurent Caron
+Sun May 19 18:22:32 2019,messages_fr.properties,Laurent Caron
+Sun May 19 20:21:35 2019,CDateTime.java,Laurent Caron
+Mon Jun  3 19:16:10 2019,Legend.java,Laurent Caron
+Sun Jun  9  9:01:19 2019,AnnotationConfigPage.java,Laurent Caron
+Sun Jun  9  9:01:19 2019,AxisConfigPage.java,Laurent Caron
+Sun Jun  9  9:01:19 2019,GraphConfigPage.java,Laurent Caron
+Sun Jun  9 16:16:06 2019,MaskFormatter.java,Laurent Caron
+Mon Jun 10 15:36:33 2019,AbstractGroupStrategy.java,Laurent Caron
+Mon Jun 10 15:36:33 2019,AbstractRenderer.java,Laurent Caron
+Mon Jun 10 15:36:33 2019,ChevronsToggleRenderer.java,Laurent Caron
+Mon Jun 10 15:36:33 2019,FormGroupStrategy.java,Laurent Caron
+Mon Jun 10 15:36:33 2019,MinMaxToggleRenderer.java,Laurent Caron
+Mon Jun 10 15:36:33 2019,PGroup.java,Laurent Caron
+Mon Jun 10 15:36:33 2019,RectangleGroupStrategy.java,Laurent Caron
+Mon Jun 10 15:36:33 2019,SimpleGroupStrategy.java,Laurent Caron
+Mon Jun 10 15:36:33 2019,TreeNodeToggleRenderer.java,Laurent Caron
+Mon Jun 10 15:36:33 2019,TwisteToggleRenderer.java,Laurent Caron
+Mon Jun 10 15:36:33 2019,GraphicUtils.java,Laurent Caron
+Mon Jun 10 16:00:39 2019,PGroupExampleTab.java,Laurent Caron
+Mon Jun 10 16:00:39 2019,FormGroupStrategy.java,Laurent Caron
+Mon Jun 10 16:00:39 2019,RectangleGroupStrategy.java,Laurent Caron
+Mon Jun 10 16:00:39 2019,SimpleGroupStrategy.java,Laurent Caron
+Mon Jun 10 16:11:51 2019,PGroup.java,Laurent Caron

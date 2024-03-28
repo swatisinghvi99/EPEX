@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Wed Feb 12  9:11:46 2020,BasicSteps.java,Ana Albic
+Wed Feb 12  9:11:46 2020,JobEngineServiceRestartOfflineDeviceI9n.feature,Ana Albic
+Wed Feb 12  9:11:46 2020,JobEngineServiceRestartOnlineDeviceI9n.feature,Ana Albic
+Wed Feb 12  9:11:46 2020,JobEngineServiceRestartOnlineDeviceSecondPartI9n.feature,Ana Albic
+Wed Feb 12  9:11:46 2020,JobEngineServiceStartOfflineDeviceI9n.feature,Ana Albic
+Wed Feb 12  9:11:46 2020,JobEngineServiceStartOnlineDeviceI9n.feature,Ana Albic
+Wed Feb 12  9:11:46 2020,JobEngineServiceStopOnlineDeviceI9n.feature,Ana Albic
+Wed Feb 12  9:11:46 2020,KapuaPoolClient-id_DEPLOY_V2_REPLY_package_list_after_uninstall.mqtt,Ana Albic
+Wed Feb 12  9:11:46 2020,BrokerSteps.java,Ana Albic
+Wed Feb 12  9:11:46 2020,DeviceRegistrySteps.java,Ana Albic
+Wed Feb 12  9:11:46 2020,KuraDevice.java,Ana Albic
+Wed Feb 12  9:11:46 2020,DeviceRegistry.feature,Ana Albic
+Wed Feb 12  9:11:46 2020,JobServiceSteps.java,Ana Albic

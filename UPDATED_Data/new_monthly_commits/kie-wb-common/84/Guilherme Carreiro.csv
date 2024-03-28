@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Mon May 11 17:34:34 2020,DMNMarshallerStandalone.java,Guilherme Carreiro
+Mon May 11 17:34:34 2020,DMNMarshallerImportsHelperStandaloneImpl.java,Guilherme Carreiro
+Mon May 11 17:34:34 2020,HrefBuilder.java,Guilherme Carreiro
+Mon May 11 17:34:34 2020,DMNIncludedNodeFactory.java,Guilherme Carreiro
+Mon May 11 17:34:34 2020,DMNMarshallerStandaloneTest.java,Guilherme Carreiro
+Mon May 11 17:34:34 2020,DMNMarshallerImportsHelperStandaloneImplTest.java,Guilherme Carreiro
+Mon May 11 17:34:34 2020,HrefBuilderTest.java,Guilherme Carreiro
+Mon May 11 17:34:34 2020,DMNIncludedNodeFactoryTest.java,Guilherme Carreiro
+Mon May 11 17:34:34 2020,DecisionComponentsItemView.java,Guilherme Carreiro
+Mon May 11 17:34:34 2020,DecisionComponentsItemViewTest.java,Guilherme Carreiro
+Mon May 11 17:34:34 2020,DMNMarshallerKogitoMarshaller.java,Guilherme Carreiro
+Mon May 11 17:34:34 2020,HrefBuilder.java,Guilherme Carreiro
+Mon May 11 17:34:34 2020,WrapperUtils.java,Guilherme Carreiro
+Mon May 11 17:34:34 2020,HrefBuilderTest.java,Guilherme Carreiro
+Mon May 11 17:34:34 2020,WrapperUtilsTest.java,Guilherme Carreiro

@@ -1,0 +1,347 @@
+[
+    [
+        "Benoit Langlois",
+        "properties",
+        640
+    ],
+    [
+        "Benoit Langlois",
+        "html",
+        341
+    ],
+    [
+        "Benoit Langlois",
+        "xml",
+        278
+    ],
+    [
+        "Benoit Langlois",
+        "classpath",
+        240
+    ],
+    [
+        "Benoit Langlois",
+        "gitignore",
+        228
+    ],
+    [
+        "Benoit Langlois",
+        "project",
+        302
+    ],
+    [
+        "Benoit Langlois",
+        "prefs",
+        201
+    ],
+    [
+        "Benoit Langlois",
+        "MF",
+        254
+    ],
+    [
+        "Benoit Langlois",
+        "txt",
+        25
+    ],
+    [
+        "Benoit Langlois",
+        "java",
+        2718
+    ],
+    [
+        "Benoit Langlois",
+        "ecore",
+        35
+    ],
+    [
+        "Benoit Langlois",
+        "genmodel",
+        35
+    ],
+    [
+        "Benoit Langlois",
+        "directory",
+        9
+    ],
+    [
+        "Benoit Langlois",
+        "ocl",
+        5
+    ],
+    [
+        "Benoit Langlois",
+        "exsd",
+        34
+    ],
+    [
+        "Benoit Langlois",
+        "acceleo",
+        9
+    ],
+    [
+        "Benoit Langlois",
+        "odesign",
+        7
+    ],
+    [
+        "Benoit Langlois",
+        "vp",
+        1
+    ],
+    [
+        "Benoit Langlois",
+        "fcore",
+        50
+    ],
+    [
+        "Benoit Langlois",
+        "pt",
+        628
+    ],
+    [
+        "Benoit Langlois",
+        "generationchain",
+        21
+    ],
+    [
+        "Benoit Langlois",
+        "xml_gen",
+        14
+    ],
+    [
+        "Benoit Langlois",
+        "g",
+        16
+    ],
+    [
+        "Benoit Langlois",
+        "tokens",
+        16
+    ],
+    [
+        "Benoit Langlois",
+        "xmi",
+        9
+    ],
+    [
+        "Benoit Langlois",
+        "xtext",
+        9
+    ],
+    [
+        "Benoit Langlois",
+        "mwe2",
+        9
+    ],
+    [
+        "Benoit Langlois",
+        "xtend",
+        12
+    ],
+    [
+        "Benoit Langlois",
+        "aird",
+        3
+    ],
+    [
+        "Benoit Langlois",
+        "mtl",
+        11
+    ],
+    [
+        "Benoit Langlois",
+        "ant",
+        62
+    ],
+    [
+        "Benoit Langlois",
+        "cspec",
+        62
+    ],
+    [
+        "Benoit Langlois",
+        "cquery",
+        62
+    ],
+    [
+        "Benoit Langlois",
+        "mspec",
+        62
+    ],
+    [
+        "Benoit Langlois",
+        "rmap",
+        62
+    ],
+    [
+        "Benoit Langlois",
+        "target",
+        62
+    ],
+    [
+        "Benoit Langlois",
+        "egfbuild",
+        2
+    ],
+    [
+        "Benoit Langlois",
+        "launch",
+        2
+    ],
+    [
+        "Benoit Langlois",
+        "uml",
+        1
+    ],
+    [
+        "Benoit Langlois",
+        "simplecomponent",
+        1
+    ],
+    [
+        "Thomas Guiu",
+        "fcore",
+        1
+    ],
+    [
+        "Thomas Guiu",
+        "java",
+        18
+    ],
+    [
+        "Thomas Guiu",
+        "xml",
+        6
+    ],
+    [
+        "Thomas Guiu",
+        "ant",
+        2
+    ],
+    [
+        "Thomas Guiu",
+        "cspec",
+        2
+    ],
+    [
+        "Thomas Guiu",
+        "cquery",
+        2
+    ],
+    [
+        "Thomas Guiu",
+        "mspec",
+        2
+    ],
+    [
+        "Thomas Guiu",
+        "rmap",
+        2
+    ],
+    [
+        "Thomas Guiu",
+        "target",
+        2
+    ],
+    [
+        "Thomas Guiu",
+        "properties",
+        2
+    ],
+    [
+        "Thomas Guiu",
+        "prefs",
+        2
+    ],
+    [
+        "Thomas Guiu",
+        "egfbuild",
+        3
+    ],
+    [
+        "Boubekeur Zendagui",
+        "MF",
+        2
+    ],
+    [
+        "Boubekeur Zendagui",
+        "java",
+        30
+    ],
+    [
+        "Boubekeur Zendagui",
+        "pt",
+        2
+    ],
+    [
+        "Boubekeur Zendagui",
+        "odesign",
+        3
+    ],
+    [
+        "Faycal Abka",
+        "java",
+        120
+    ],
+    [
+        "Faycal Abka",
+        "MF",
+        8
+    ],
+    [
+        "Faycal Abka",
+        "xtend",
+        1
+    ],
+    [
+        "Faycal Abka",
+        "gitignore",
+        7
+    ],
+    [
+        "Faycal Abka",
+        "xml_gen",
+        4
+    ],
+    [
+        "Faycal Abka",
+        "xml",
+        2
+    ],
+    [
+        "Faycal Abka",
+        "g",
+        8
+    ],
+    [
+        "Faycal Abka",
+        "tokens",
+        8
+    ],
+    [
+        "Faycal Abka",
+        "ecore",
+        4
+    ],
+    [
+        "Faycal Abka",
+        "genmodel",
+        4
+    ],
+    [
+        "Faycal Abka",
+        "xmi",
+        4
+    ],
+    [
+        "Faycal Abka",
+        "xtext",
+        4
+    ],
+    [
+        "Faycal Abka",
+        "properties",
+        1
+    ]
+]

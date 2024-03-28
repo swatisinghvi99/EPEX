@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Fri Apr 13 14:11:42 2018,pom.xml,Mykhailo Kuznietsov
+Fri Apr 13 14:11:42 2018,WsMasterModule.java,Mykhailo Kuznietsov
+Fri Apr 13 14:11:42 2018,che.properties,Mykhailo Kuznietsov
+Fri Apr 13 14:11:42 2018,che_aliases.properties,Mykhailo Kuznietsov
+Fri Apr 13 14:11:42 2018,che.env,Mykhailo Kuznietsov
+Fri Apr 13 14:11:42 2018,pom.xml,Mykhailo Kuznietsov
+Fri Apr 13 14:11:42 2018,MultiUserWorkspaceActivityManager.java,Mykhailo Kuznietsov
+Fri Apr 13 14:11:42 2018,MultiUserWorkspaceActivityModule.java,Mykhailo Kuznietsov
+Fri Apr 13 14:11:42 2018,MultiUserWorkspaceActivityManagerTest.java,Mykhailo Kuznietsov
+Fri Apr 13 14:11:42 2018,pom.xml,Mykhailo Kuznietsov
+Fri Apr 13 14:11:42 2018,pom.xml,Mykhailo Kuznietsov
+Fri Apr 13 14:11:42 2018,WorkspaceActivityManager.java,Mykhailo Kuznietsov
+Fri Apr 13 14:11:42 2018,WorkspaceActivityManagerTest.java,Mykhailo Kuznietsov
+Fri Apr 27  7:51:25 2018,WsMasterModule.java,Mykhailo Kuznietsov
+Fri Apr 27  7:51:25 2018,che.env,Mykhailo Kuznietsov
+Fri Apr 27  7:51:25 2018,DockerCheApiExternalEnvVarProvider.java,Mykhailo Kuznietsov
+Fri Apr 27  7:51:25 2018,DockerCheApiInternalEnvVarProvider.java,Mykhailo Kuznietsov
+Fri Apr 27  7:51:25 2018,DockerInfraModule.java,Mykhailo Kuznietsov
+Fri Apr 27  7:51:25 2018,KubernetesInfraModule.java,Mykhailo Kuznietsov
+Fri Apr 27  7:51:25 2018,KubernetesCheApiExternalEnvVarProvider.java,Mykhailo Kuznietsov
+Fri Apr 27  7:51:25 2018,KubernetesCheApiInternalEnvVarProvider.java,Mykhailo Kuznietsov
+Fri Apr 27  7:51:25 2018,KubernetesCheApiEnvVarProviderTest.java,Mykhailo Kuznietsov
+Fri Apr 27  7:51:25 2018,OpenShiftInfraModule.java,Mykhailo Kuznietsov
+Fri Apr 27  7:51:25 2018,CheApiEnvVarProvider.java,Mykhailo Kuznietsov
+Fri Apr 27  7:51:25 2018,CheApiExternalEnvVarProvider.java,Mykhailo Kuznietsov
+Fri Apr 27  7:51:25 2018,CheApiInternalEnvVarProvider.java,Mykhailo Kuznietsov

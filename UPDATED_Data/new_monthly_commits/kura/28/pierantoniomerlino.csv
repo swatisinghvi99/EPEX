@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Thu Mar 24 14:48:26 2016,MANIFEST.MF,pierantoniomerlino
+Thu Mar 24 14:48:26 2016,org.eclipse.kura.example.sensehat.SenseHat.xml,pierantoniomerlino
+Thu Mar 24 14:48:26 2016,org.eclipse.kura.example.sensehat.xml,pierantoniomerlino
+Thu Mar 24 14:48:26 2016,build.properties,pierantoniomerlino
+Thu Mar 24 14:48:26 2016,pom.xml,pierantoniomerlino
+Thu Mar 24 14:48:26 2016,SenseHat.java,pierantoniomerlino
+Thu Mar 24 14:48:26 2016,Joystick.java,pierantoniomerlino
+Thu Mar 24 14:48:26 2016,JoystickEvent.java,pierantoniomerlino
+Thu Mar 24 14:48:26 2016,Alphabet.java,pierantoniomerlino
+Thu Mar 24 14:48:26 2016,Colors.java,pierantoniomerlino
+Thu Mar 24 14:48:26 2016,FrameBuffer.java,pierantoniomerlino
+Thu Mar 24 14:48:26 2016,HTS221.java,pierantoniomerlino
+Thu Mar 24 14:48:26 2016,KuraI2CDevice.java,pierantoniomerlino
+Thu Mar 24 14:48:26 2016,LPS25H.java,pierantoniomerlino
+Thu Mar 24 14:48:26 2016,LSM9DS1.java,pierantoniomerlino
+Thu Mar 24 14:48:26 2016,sense_hat_text.pbm,pierantoniomerlino
+Thu Mar 24 14:48:26 2016,pom.xml,pierantoniomerlino
+Fri Mar 25 10:31:47 2016,build.properties,pierantoniomerlino
+Fri Mar 25 10:31:47 2016,FrameBuffer.java,pierantoniomerlino
+Fri Mar 25 10:31:47 2016,LSM9DS1.java,pierantoniomerlino

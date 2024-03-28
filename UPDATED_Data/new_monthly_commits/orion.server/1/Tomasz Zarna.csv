@@ -1,0 +1,185 @@
+date_time,file,committer_name
+Mon Jan 24 11:14:41 2011,.classpath,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,.gitignore,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,.project,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,org.eclipse.jdt.core.prefs,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,org.eclipse.jdt.ui.prefs,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,org.eclipse.pde.core.prefs,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,MANIFEST.MF,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,build.properties,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,Activator.java,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,SecureStorageUserAdmin.java,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,IOrionUserAdminRegistry.java,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,UserServiceHelper.java,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,.project,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,build.properties,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,feature.xml,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,Filesystem Performance Tests.launch,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,Git AllTests.launch,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,Git Filesystem Tests.launch,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,Jackrabbit AllTests.launch,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,Jackrabbit Filesystem Tests.launch,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,resources-tests-patch.txt,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,GitFileStorePerformanceTest.java,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,GitPerformanceTest.java,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,PerformanceTest.java,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,AllPerformanceTests.java,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,LocalPerformanceTest.java,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,PerformanceTest.java,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,Files Plug-in Tests.launch,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,Server Performance Tests.launch,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,Server Tests.launch,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,AllPerformanceTests.java,Tomasz Zarna
+Mon Jan 24 11:14:41 2011,GitPerformanceTest.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,MANIFEST.MF,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,component.xml,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,Activator.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,BasicAuthenticationService.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,component.xml,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,FormAuthHelper.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,LoginFormServlet.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,createUser.html,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,htmlAuth.js,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,xhrAuth.js,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,MANIFEST.MF,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,AuthorizationFilter.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,GitFileStore.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,ProtocolConstants.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,DirectoryHandlerV1.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,WorkspaceResourceHandler.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,WorkspaceServlet.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,AuthorizationService.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,users.xml,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,component.xml,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,User.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,UserAdminActivator.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,UserAuthFilter.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,UserServlet.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,MANIFEST.MF,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,CreateDirectoryTest.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,DeleteTest.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,GitFileStoreTest.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,OpenOutputStreamTest.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,PutInfoTest.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,CreateDirectoryTest.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,DeleteTest.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,OpenOutputStreamTest.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,PutInfoTest.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,MANIFEST.MF,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,AbstractServerTest.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,FileSystemTest.java,Tomasz Zarna
+Mon Jan 24 11:18:45 2011,WorkspaceServiceTest.java,Tomasz Zarna
+Mon Jan 24 15:13:03 2011,ConfigurationFormat.java,Tomasz Zarna
+Mon Jan 24 15:13:03 2011,GitFileStore.java,Tomasz Zarna
+Mon Jan 24 15:13:03 2011,Git Filesystem Tests.launch,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,.project,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,MANIFEST.MF,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,component.xml,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,build.properties,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,Activator.java,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,OrionSshSessionFactory.java,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,OrionUserCredentialsProvider.java,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,SshConfigManager.java,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,Utils.java,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,GitFileStore.java,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,ISshConfig.java,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,KeysCredentials.java,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,UserPasswordCredentials.java,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,.classpath,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,.gitignore,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,.project,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,MANIFEST.MF,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,component.xml,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,build.properties,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,bundle.properties,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,Activator.java,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,HomeSshConfig.java,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,UsernameCredentialsProvider.java,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,.classpath,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,.gitignore,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,.project,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,MANIFEST.MF,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,component.xml,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,build.properties,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,bundle.properties,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,Activator.java,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,SecureStorageSshConfig.java,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,feature.xml,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,feature.xml,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,MANIFEST.MF,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,Git Filesystem Tests.launch,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,One Filesystem Test.launch,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,Activator.java,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,GitFileStoreTest.java,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,SshTest.java,Tomasz Zarna
+Tue Feb  1 11:44:23 2011,sshtest.properties,Tomasz Zarna
+Thu Feb  3 13:35:43 2011,Utils.java,Tomasz Zarna
+Thu Feb  3 13:35:43 2011,GitFileStore.java,Tomasz Zarna
+Thu Feb  3 13:35:43 2011,GitFileSystem.java,Tomasz Zarna
+Thu Feb  3 13:35:43 2011,Filesystem Performance Tests.launch,Tomasz Zarna
+Thu Feb  3 13:35:43 2011,Git Filesystem Tests.launch,Tomasz Zarna
+Thu Feb  3 13:35:43 2011,One Filesystem Test.launch,Tomasz Zarna
+Thu Feb  3 13:35:43 2011,ConcurrentModificationsTest.java,Tomasz Zarna
+Thu Feb  3 13:35:43 2011,CreateDirectoryTest.java,Tomasz Zarna
+Thu Feb  3 13:35:43 2011,DeleteTest.java,Tomasz Zarna
+Thu Feb  3 13:35:43 2011,GitFileStoreTest.java,Tomasz Zarna
+Thu Feb  3 13:35:43 2011,GitFileSystemTest.java,Tomasz Zarna
+Thu Feb  3 13:35:43 2011,OpenOutputStreamTest.java,Tomasz Zarna
+Thu Feb  3 13:35:43 2011,PutInfoTest.java,Tomasz Zarna
+Thu Feb  3 13:35:43 2011,GitFileStorePerformanceTest.java,Tomasz Zarna
+Thu Feb  3 13:35:43 2011,GitPerformanceTest.java,Tomasz Zarna
+Thu Feb  3 13:35:43 2011,GitPerformanceTest.java,Tomasz Zarna
+Thu Feb  3 15:48:48 2011,GitFileStore.java,Tomasz Zarna
+Thu Feb  3 15:48:48 2011,CreateDirectoryTest.java,Tomasz Zarna
+Thu Feb  3 15:48:48 2011,DeleteTest.java,Tomasz Zarna
+Thu Feb  3 15:48:48 2011,OpenOutputStreamTest.java,Tomasz Zarna
+Thu Feb  3 15:48:48 2011,PutInfoTest.java,Tomasz Zarna
+Thu Feb  3 16:15:44 2011,SshConfigManager.java,Tomasz Zarna
+Thu Feb  3 16:15:44 2011,Utils.java,Tomasz Zarna
+Thu Feb  3 16:15:44 2011,GitFileStore.java,Tomasz Zarna
+Thu Feb  3 16:15:44 2011,MANIFEST.MF,Tomasz Zarna
+Thu Feb  3 16:15:44 2011,Git Filesystem Tests.launch,Tomasz Zarna
+Thu Feb  3 16:15:44 2011,One Filesystem Test.launch,Tomasz Zarna
+Thu Feb  3 16:15:44 2011,AllTests.java,Tomasz Zarna
+Thu Feb  3 16:15:44 2011,SshTest.java,Tomasz Zarna
+Thu Feb  3 16:15:44 2011,UtilsTest.java,Tomasz Zarna
+Tue Feb  8  9:43:42 2011,MANIFEST.MF,Tomasz Zarna
+Tue Feb  8  9:43:42 2011,GitFileStore.java,Tomasz Zarna
+Tue Feb  8  9:43:42 2011,Git Filesystem Tests.launch,Tomasz Zarna
+Tue Feb  8 12:40:49 2011,MANIFEST.MF,Tomasz Zarna
+Tue Feb  8 12:40:49 2011,GitFileStore.java,Tomasz Zarna
+Tue Feb  8 12:40:49 2011,feature.xml,Tomasz Zarna
+Tue Feb  8 12:40:49 2011,orion.map,Tomasz Zarna
+Tue Feb  8 12:40:49 2011,Filesystem Performance Tests.launch,Tomasz Zarna
+Tue Feb  8 12:40:49 2011,Git Filesystem Tests.launch,Tomasz Zarna
+Tue Feb  8 12:40:49 2011,Jackrabbit Filesystem Tests.launch,Tomasz Zarna
+Tue Feb  8 12:40:49 2011,One Filesystem Test.launch,Tomasz Zarna
+Tue Feb  8 12:58:23 2011,GitFileStore.java,Tomasz Zarna
+Tue Feb  8 16:32:40 2011,MANIFEST.MF,Tomasz Zarna
+Tue Feb  8 16:32:40 2011,frameworkLog.xml,Tomasz Zarna
+Tue Feb  8 16:32:40 2011,LogHelper.java,Tomasz Zarna
+Tue Feb  8 16:32:40 2011,GitFileStore.java,Tomasz Zarna
+Wed Feb  9 12:48:33 2011,GitFileStore.java,Tomasz Zarna
+Wed Feb  9 12:48:33 2011,GitFileSystem.java,Tomasz Zarna
+Wed Feb  9 12:48:33 2011,GitFileStoreTest.java,Tomasz Zarna
+Thu Feb 10 12:49:26 2011,.project,Tomasz Zarna
+Thu Feb 10 12:49:26 2011,MANIFEST.MF,Tomasz Zarna
+Thu Feb 10 12:49:26 2011,component.xml,Tomasz Zarna
+Thu Feb 10 12:49:26 2011,Activator.java,Tomasz Zarna
+Thu Feb 10 12:49:26 2011,UserProfileSshConfig.java,Tomasz Zarna
+Thu Feb 10 12:49:26 2011,.project,Tomasz Zarna
+Thu Feb 10 12:49:26 2011,MANIFEST.MF,Tomasz Zarna
+Thu Feb 10 12:49:26 2011,build.properties,Tomasz Zarna
+Thu Feb 10 12:49:26 2011,Filesystem Performance Tests.launch,Tomasz Zarna
+Thu Feb 10 12:49:26 2011,Git Filesystem Tests.launch,Tomasz Zarna
+Thu Feb 10 12:49:26 2011,Jackrabbit Filesystem Tests.launch,Tomasz Zarna
+Thu Feb 10 12:49:26 2011,One Filesystem Test.launch,Tomasz Zarna
+Thu Feb 10 12:49:26 2011,Activator.java,Tomasz Zarna
+Thu Feb 10 12:49:26 2011,SshTest.java,Tomasz Zarna
+Thu Feb 10 16:10:36 2011,build.properties,Tomasz Zarna
+Thu Feb 10 16:10:36 2011,Git Filesystem Tests.launch,Tomasz Zarna
+Thu Feb 10 16:10:36 2011,AllTests.java,Tomasz Zarna
+Thu Feb 10 16:10:36 2011,ConcurrentModificationsTest.java,Tomasz Zarna
+Thu Feb 10 16:10:36 2011,GitFileStoreTest.java,Tomasz Zarna
+Thu Feb 10 16:10:36 2011,GitFileSystemTest.java,Tomasz Zarna
+Thu Feb 10 16:10:36 2011,PutInfoTest.java,Tomasz Zarna

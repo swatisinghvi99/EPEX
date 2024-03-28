@@ -1,0 +1,342 @@
+[
+    [
+        "J-N-K",
+        "xml",
+        3
+    ],
+    [
+        "J-N-K",
+        "java",
+        8
+    ],
+    [
+        "lolodomo",
+        "java",
+        17
+    ],
+    [
+        "Wouter Born",
+        "classpath",
+        5
+    ],
+    [
+        "Wouter Born",
+        "project",
+        5
+    ],
+    [
+        "Wouter Born",
+        "prefs",
+        5
+    ],
+    [
+        "Wouter Born",
+        "MF",
+        5
+    ],
+    [
+        "Wouter Born",
+        "groovy",
+        13
+    ],
+    [
+        "Wouter Born",
+        "java",
+        21
+    ],
+    [
+        "Wouter Born",
+        "properties",
+        4
+    ],
+    [
+        "Wouter Born",
+        "launch",
+        4
+    ],
+    [
+        "Wouter Born",
+        "xml",
+        14
+    ],
+    [
+        "Wouter Born",
+        "gitignore",
+        2
+    ],
+    [
+        "Kai Kreuzer",
+        "java",
+        13
+    ],
+    [
+        "Kai Kreuzer",
+        "items",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "persist",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "launch",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "MF",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "md",
+        1
+    ],
+    [
+        "Kai Kreuzer",
+        "xml",
+        1
+    ],
+    [
+        "Henning Treu",
+        "html",
+        3
+    ],
+    [
+        "Henning Treu",
+        "js",
+        8
+    ],
+    [
+        "Henning Treu",
+        "java",
+        39
+    ],
+    [
+        "Henning Treu",
+        "xml",
+        6
+    ],
+    [
+        "Henning Treu",
+        "launch",
+        3
+    ],
+    [
+        "Henning Treu",
+        "xtext",
+        1
+    ],
+    [
+        "Henning Treu",
+        "md",
+        2
+    ],
+    [
+        "Henning Treu",
+        "gitignore",
+        1
+    ],
+    [
+        "Henning Treu",
+        "css",
+        2
+    ],
+    [
+        "Henning Treu",
+        "MF",
+        1
+    ],
+    [
+        "Christoph Weitkamp",
+        "java",
+        14
+    ],
+    [
+        "Markus Rathgeb",
+        "classpath",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "project",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "prefs",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "MF",
+        8
+    ],
+    [
+        "Markus Rathgeb",
+        "properties",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "java",
+        10
+    ],
+    [
+        "Markus Rathgeb",
+        "xml",
+        3
+    ],
+    [
+        "Markus Rathgeb",
+        "setup",
+        1
+    ],
+    [
+        "Markus Rathgeb",
+        "target",
+        1
+    ],
+    [
+        "ivivanov-bg",
+        "java",
+        4
+    ],
+    [
+        "Florian Stolte",
+        "java",
+        4
+    ],
+    [
+        "Yordan",
+        "java",
+        10
+    ],
+    [
+        "Yordan",
+        "md",
+        1
+    ],
+    [
+        "David Gr\u00e4ff",
+        "html",
+        1
+    ],
+    [
+        "David Gr\u00e4ff",
+        "classpath",
+        2
+    ],
+    [
+        "David Gr\u00e4ff",
+        "project",
+        2
+    ],
+    [
+        "David Gr\u00e4ff",
+        "MF",
+        2
+    ],
+    [
+        "David Gr\u00e4ff",
+        "unknown",
+        2
+    ],
+    [
+        "David Gr\u00e4ff",
+        "properties",
+        3
+    ],
+    [
+        "David Gr\u00e4ff",
+        "launch",
+        1
+    ],
+    [
+        "David Gr\u00e4ff",
+        "xml",
+        9
+    ],
+    [
+        "David Gr\u00e4ff",
+        "java",
+        66
+    ],
+    [
+        "David Gr\u00e4ff",
+        "gitignore",
+        1
+    ],
+    [
+        "David Gr\u00e4ff",
+        "md",
+        1
+    ],
+    [
+        "\u0141ukasz Dywicki",
+        "gitignore",
+        6
+    ],
+    [
+        "\u0141ukasz Dywicki",
+        "xml",
+        11
+    ],
+    [
+        "\u0141ukasz Dywicki",
+        "java",
+        41
+    ],
+    [
+        "\u0141ukasz Dywicki",
+        "MF",
+        12
+    ],
+    [
+        "\u0141ukasz Dywicki",
+        "classpath",
+        4
+    ],
+    [
+        "\u0141ukasz Dywicki",
+        "project",
+        5
+    ],
+    [
+        "\u0141ukasz Dywicki",
+        "unknown",
+        4
+    ],
+    [
+        "\u0141ukasz Dywicki",
+        "properties",
+        6
+    ],
+    [
+        "\u0141ukasz Dywicki",
+        "launch",
+        7
+    ],
+    [
+        "\u0141ukasz Dywicki",
+        "orig",
+        1
+    ],
+    [
+        "\u0141ukasz Dywicki",
+        "target",
+        1
+    ],
+    [
+        "Martin Herbst",
+        "java",
+        1
+    ],
+    [
+        "msteigenberger",
+        "java",
+        2
+    ]
+]

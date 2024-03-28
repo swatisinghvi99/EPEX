@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Wed Apr 11  8:30:42 2018,PerspectiveIds.java,Jozef Marko
+Wed Apr 11  8:30:42 2018,PermissionTreeSetup.java,Jozef Marko
+Wed Apr 11  8:30:42 2018,DefaultWorkbenchConstants.java,Jozef Marko
+Wed Apr 11  8:30:42 2018,DefaultWorkbenchConstants.properties,Jozef Marko
+Wed Apr 11  8:30:42 2018,PermissionTreeSetupTest.java,Jozef Marko
+Wed Apr 11  8:30:42 2018,HomeProducer.java,Jozef Marko
+Wed Apr 11  9:03:54 2018,LibraryPreferences.java,Jozef Marko
+Wed Apr 11  9:03:54 2018,Library.properties,Jozef Marko
+Wed Apr 11  9:03:54 2018,DefaultAdminPageHelper.java,Jozef Marko
+Wed Apr 11  9:03:54 2018,PreferencesConstants.java,Jozef Marko
+Wed Apr 11  9:03:54 2018,ProjectPreferences.java,Jozef Marko
+Wed Apr 11  9:03:54 2018,PreferencesConstants.properties,Jozef Marko
+Wed Apr 11  9:03:54 2018,DefaultWorkbenchConstants.properties,Jozef Marko
+Wed Apr 11  9:03:54 2018,DefaultAdminPageHelperTest.java,Jozef Marko
+Wed Apr 11 18:43:40 2018,AddInputClauseCommandTest.java,Jozef Marko
+Wed Apr 11 18:43:40 2018,AddOutputClauseCommandTest.java,Jozef Marko
+Wed Apr 11 18:43:40 2018,DeleteDecisionRuleCommandTest.java,Jozef Marko
+Wed Apr 11 18:43:40 2018,DeleteInputClauseCommandTest.java,Jozef Marko
+Wed Apr 11 18:43:40 2018,DeleteOutputClauseCommandTest.java,Jozef Marko
+Wed Apr 25 18:39:37 2018,AssigneeLiveSearchEntryCreationEditorTest.java,Jozef Marko
+Wed Apr 25 18:39:37 2018,AssigneeLiveSearchServiceTest.java,Jozef Marko

@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Wed May 19 20:33:38 2004,IIntroConstants.java,kdkelley
+Wed May 19 20:33:38 2004,AbstractIntroPartImplementation.java,kdkelley
+Wed May 19 20:33:38 2004,IntroModelRoot.java,kdkelley
+Wed May 19 20:33:38 2004,IntroPartPresentation.java,kdkelley
+Wed May 19 20:33:38 2004,StandbyPart.java,kdkelley
+Wed May 19 20:33:38 2004,BrowserIntroPartImplementation.java,kdkelley
+Wed May 19 20:33:38 2004,FormIntroPartImplementation.java,kdkelley
+Wed May 19 20:33:38 2004,PageForm.java,kdkelley
+Wed May 19 20:33:38 2004,CustomizableIntroPart.java,kdkelley

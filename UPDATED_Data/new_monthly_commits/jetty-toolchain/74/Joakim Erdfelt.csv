@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Sat Apr 25  0:33:27 2015,pom.xml,Joakim Erdfelt
+Sat Apr 25  0:33:27 2015,JmxServiceConnection.java,Joakim Erdfelt
+Sat Apr 25  0:33:27 2015,FS.java,Joakim Erdfelt
+Sat Apr 25  0:33:27 2015,JAR.java,Joakim Erdfelt
+Sat Apr 25  0:33:27 2015,JettyDistro.java,Joakim Erdfelt
+Sat Apr 25  0:33:27 2015,MavenTestingUtils.java,Joakim Erdfelt
+Sat Apr 25  0:33:27 2015,PathAssert.java,Joakim Erdfelt
+Sat Apr 25  0:33:27 2015,PropertyFlag.java,Joakim Erdfelt
+Sat Apr 25  0:33:27 2015,TestingDir.java,Joakim Erdfelt
+Sat Apr 25  0:33:27 2015,JettyDistroTest.java,Joakim Erdfelt
+Sat Apr 25  0:39:57 2015,FS.java,Joakim Erdfelt
+Sat Apr 25  0:43:34 2015,FSTest.java,Joakim Erdfelt
+Sat Apr 25  0:43:34 2015,OSTest.java,Joakim Erdfelt
+Sat Apr 25  0:43:34 2015,TestingDirTest.java,Joakim Erdfelt
+Thu May 14 18:11:29 2015,pom.xml,Joakim Erdfelt
+Thu May 14 18:11:29 2015,IncludeDirectoryTransformer.java,Joakim Erdfelt

@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Fri May 13 11:36:06 2016,SourceStorageParametersValidator.java,Max Shaposhnik
+Fri May 13 11:36:06 2016,SourceProjectParametersValidatorTest.java,Max Shaposhnik
+Wed Jun  1 15:02:09 2016,MachineManager.java,Max Shaposhnik
+Wed Jun  1 15:02:09 2016,MachineService.java,Max Shaposhnik
+Thu Jun  9  9:27:19 2016,pom.xml,Max Shaposhnik
+Thu Jun  9  9:27:19 2016,DashboardRedirectionFilter.java,Max Shaposhnik
+Thu Jun  9  9:27:19 2016,web.xml,Max Shaposhnik
+Thu Jun  9  9:27:19 2016,DashboardRedirectionFilterTest.java,Max Shaposhnik
+Thu Jun  9  9:27:19 2016,WorkspaceServiceClient.java,Max Shaposhnik
+Thu Jun  9  9:27:19 2016,WorkspaceServiceClientImpl.java,Max Shaposhnik
+Thu Jun  9  9:27:19 2016,BrowserQueryFieldRenderer.java,Max Shaposhnik
+Thu Jun  9  9:27:19 2016,DefaultWorkspaceComponent.java,Max Shaposhnik
+Thu Jun  9  9:27:19 2016,WorkspaceComponent.java,Max Shaposhnik
+Thu Jun  9  9:27:19 2016,workspace-item.html,Max Shaposhnik
+Thu Jun  9  9:27:19 2016,WorkspaceManager.java,Max Shaposhnik
+Thu Jun  9  9:27:19 2016,WorkspaceService.java,Max Shaposhnik
+Thu Jun  9  9:27:19 2016,WorkspaceServiceLinksInjector.java,Max Shaposhnik
+Thu Jun  9  9:27:19 2016,WorkspaceManagerTest.java,Max Shaposhnik

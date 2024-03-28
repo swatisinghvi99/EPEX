@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Mon Jul 11  7:49:52 2016,PapyrusResourceAttachmentChangeMerger.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,AbstractTooltipProvider.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,EMFCompareTestConfiguration.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,EMFComparisonSourceActionHandler.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,EnginesPreferencePage.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,FiltersPreferencePage.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,BasicDifferenceGroupImpl.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,TreeNodeItemProviderSpec.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,ComplexMergeTest.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,AudioVisualItemItemProvider.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,BookItemProvider.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,BookOnTapeItemProvider.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,BorrowerItemProvider.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,CirculatingItemItemProvider.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,EXTLibraryEditPlugin.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,EXTLibraryItemProviderAdapterFactory.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,EmployeeItemProvider.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,ItemItemProvider.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,LibraryItemProvider.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,PeriodicalItemProvider.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,PersonItemProvider.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,VideoCassetteItemProvider.java,Mathieu Cartaud
+Mon Jul 11  7:49:52 2016,WriterItemProvider.java,Mathieu Cartaud

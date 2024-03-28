@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Sat Oct 24 18:54:35 2009,plugin.xml,bhunt
+Sat Oct 24 18:54:35 2009,RunWorkflowHandler.java,bhunt
+Sat Oct 24 20:01:26 2009,workflow.ecore,bhunt
+Sat Oct 24 20:01:26 2009,OrchestrationPackage.java,bhunt
+Sat Oct 24 20:01:26 2009,WorkflowComponentOrchestrationStrategy.java,bhunt
+Sat Oct 24 20:01:26 2009,OrchestrationAdapterFactory.java,bhunt
+Sat Oct 24 20:01:26 2009,OrchestrationSwitch.java,bhunt
+Sat Oct 24 20:01:26 2009,StateAdapterFactory.java,bhunt
+Sat Oct 24 20:01:26 2009,StateSwitch.java,bhunt
+Sat Oct 24 20:01:26 2009,RuntimeAdapterFactory.java,bhunt
+Sat Oct 24 20:01:26 2009,RuntimeSwitch.java,bhunt
+Sat Oct 24 20:01:26 2009,WorkflowAdapterFactory.java,bhunt
+Sat Oct 24 20:01:26 2009,WorkflowSwitch.java,bhunt
+Sat Oct 24 20:01:26 2009,plugin.properties,bhunt
+Sat Oct 24 20:01:26 2009,WorkflowComponentOrchestrationStrategyItemProvider.java,bhunt
+Sat Oct 24 20:01:26 2009,WorkflowParameterMapItemProvider.java,bhunt

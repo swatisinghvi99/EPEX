@@ -1,0 +1,102 @@
+[
+    [
+        "Emilio",
+        "scala",
+        170
+    ],
+    [
+        "Emilio",
+        "tsv",
+        2
+    ],
+    [
+        "Emilio",
+        "py",
+        1
+    ],
+    [
+        "Emilio",
+        "rst",
+        20
+    ],
+    [
+        "Emilio",
+        "DataStoreFactorySpi",
+        2
+    ],
+    [
+        "Emilio",
+        "java",
+        16
+    ],
+    [
+        "Emilio",
+        "xml",
+        8
+    ],
+    [
+        "Emilio",
+        "PartitionSchemeFactory",
+        1
+    ],
+    [
+        "Emilio",
+        "StorageMetadataFactory",
+        2
+    ],
+    [
+        "Emilio",
+        "sh",
+        1
+    ],
+    [
+        "Tom Kunicki",
+        "rst",
+        1
+    ],
+    [
+        "Tom Kunicki",
+        "py",
+        1
+    ],
+    [
+        "Rebecca Pledger",
+        "rst",
+        3
+    ],
+    [
+        "Rebecca Pledger",
+        "xml",
+        5
+    ],
+    [
+        "Rebecca Pledger",
+        "SimpleFeatureConverterFactory",
+        1
+    ],
+    [
+        "Rebecca Pledger",
+        "scala",
+        4
+    ],
+    [
+        "Rebecca Pledger",
+        "avsc",
+        2
+    ],
+    [
+        "Rebecca Pledger",
+        "conf",
+        1
+    ],
+    [
+        "Emilio Lahr-Vivaz",
+        "scala",
+        1
+    ],
+    [
+        "Weidong",
+        "scala",
+        16
+    ]
+]

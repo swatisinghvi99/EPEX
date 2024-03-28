@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Tue Mar 31 22:09:24 2009,ExtendedLogEntry.java,Simon Kaegi
+Tue Mar 31 22:09:24 2009,ExtendedLogReaderService.java,Simon Kaegi
+Tue Mar 31 22:09:24 2009,ExtendedLogService.java,Simon Kaegi
+Tue Mar 31 22:09:24 2009,LogFilter.java,Simon Kaegi
+Tue Mar 31 22:09:24 2009,LogPermission.java,Simon Kaegi
+Tue Mar 31 22:09:24 2009,LogPermissionCollection.java,Simon Kaegi
+Tue Mar 31 22:09:24 2009,Logger.java,Simon Kaegi
+Tue Mar 31 22:09:24 2009,SynchronousLogListener.java,Simon Kaegi
+Fri Apr 17 20:24:43 2009,MANIFEST.MF,Simon Kaegi
+Fri Apr 17 20:24:43 2009,Logger.java,Simon Kaegi
+Fri Apr 17 21:58:58 2009,JettyConstants.java,Simon Kaegi
+Fri Apr 17 21:58:58 2009,JettyCustomizer.java,Simon Kaegi

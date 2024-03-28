@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Fri Nov 12 16:57:20 2010,ContextObjectSupplier.java,Oleg Besedin
+Fri Nov 12 16:57:20 2010,EventObjectSupplier.java,Oleg Besedin
+Fri Nov 12 16:57:20 2010,PreferencesObjectSupplier.java,Oleg Besedin
+Fri Nov 12 16:57:20 2010,ExtendedObjectSupplier.java,Oleg Besedin
+Fri Nov 12 16:57:20 2010,IRequestor.java,Oleg Besedin
+Fri Nov 12 16:57:20 2010,PrimaryObjectSupplier.java,Oleg Besedin
+Fri Nov 12 16:57:20 2010,InjectorImpl.java,Oleg Besedin
+Fri Nov 12 16:57:20 2010,Requestor.java,Oleg Besedin
+Fri Nov 12 16:57:20 2010,CoreTestSuite.launch,Oleg Besedin
+Fri Nov 12 20:11:55 2010,RunAndTrack.java,Oleg Besedin
+Fri Nov 12 20:11:55 2010,TrackableComputationExt.java,Oleg Besedin
+Fri Nov 12 20:11:55 2010,IDisposable.java,Oleg Besedin
+Thu Nov 25 21:13:47 2010,ContextInjectionFactory.java,Oleg Besedin
+Thu Nov 25 21:13:47 2010,IInjector.java,Oleg Besedin
+Thu Nov 25 21:13:47 2010,InjectorImpl.java,Oleg Besedin
+Thu Nov 25 21:13:47 2010,LogHelper.java,Oleg Besedin
+Thu Nov 25 21:13:47 2010,AnnotationsInjectionTest.java,Oleg Besedin
+Thu Nov 25 21:13:47 2010,ContextInjectionDisposeTest.java,Oleg Besedin
+Thu Nov 25 21:13:47 2010,ExtraDependenciesTest.java,Oleg Besedin
+Thu Nov 25 21:13:47 2010,InjectStaticContextTest.java,Oleg Besedin
+Thu Nov 25 21:13:47 2010,ObjectBasic.java,Oleg Besedin
+Thu Nov 25 21:13:47 2010,DisposeClassLinkTest.java,Oleg Besedin
+Thu Nov 25 21:13:47 2010,InjectBaseTypeTest.java,Oleg Besedin
+Wed Dec  1 21:21:08 2010,InjectorImpl.java,Oleg Besedin

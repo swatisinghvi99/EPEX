@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Tue Dec  8 11:09:17 2020,StorageAgent.java,Christophe Munilla
+Tue Dec  8 11:09:17 2020,InfluxDBStorageAgent.java,Christophe Munilla
+Tue Dec  8 11:09:17 2020,InfluxDBStorageConnection.java,Christophe Munilla
+Tue Dec  8 11:12:12 2020,WebSocketCallbackContext.java,Christophe Munilla
+Tue Dec  8 11:12:12 2020,Activator.java,Christophe Munilla
+Tue Dec  8 11:13:42 2020,InfluxDBStorageConnection.java,Christophe Munilla
+Tue Dec  8 14:46:23 2020,InfluxDbDatabase.java,Christophe Munilla
+Fri Dec 18 10:18:27 2020,DefaultResourceConfigBuilder.java,Christophe Munilla
+Fri Dec 18 10:18:27 2020,ModelInstance.java,Christophe Munilla
+Fri Dec 18 10:18:27 2020,RequirementBuilder.java,Christophe Munilla
+Fri Dec 18 10:18:27 2020,ResourceConfig.java,Christophe Munilla
+Fri Dec 18 10:18:27 2020,SensiNact.java,Christophe Munilla
+Fri Dec 18 10:18:27 2020,ServiceImpl.java,Christophe Munilla
+Fri Dec 18 10:18:27 2020,ServiceProviderImpl.java,Christophe Munilla
+Fri Dec 18 10:22:20 2020,StorageAgent.java,Christophe Munilla
+Fri Dec 18 10:22:20 2020,InfluxDBStorageConnection.java,Christophe Munilla
+Fri Dec 18 10:27:36 2020,TemperaturesGeneratorDiscoveryPacketReader.java,Christophe Munilla
+Fri Dec 18 10:27:36 2020,Activator.java,Christophe Munilla
+Fri Dec 18 10:27:36 2020,DataParser.java,Christophe Munilla
+Fri Dec 18 10:27:36 2020,temperature-resource.xml,Christophe Munilla

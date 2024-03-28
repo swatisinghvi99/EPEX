@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Wed Sep  2 23:14:07 2009,FocusCommonNavigatorAction.java,sminto
+Thu Sep 10 18:18:57 2009,InteractionContextManager.java,sminto
+Thu Sep 10 20:10:05 2009,FocusedViewerManager.java,sminto
+Thu Sep 10 23:24:16 2009,ContextChangeEvent.java,sminto
+Thu Sep 10 23:24:16 2009,InteractionContextManager.java,sminto
+Thu Sep 10 23:24:16 2009,AbstractInterestManipulationAction.java,sminto
+Thu Sep 10 23:24:16 2009,InvisibleContextElementsPart.java,sminto
+Thu Sep 10 23:24:16 2009,InteractionContextManagerTest.java,sminto
+Fri Sep 11 17:38:49 2009,CvsContextChangeSet.java,sminto

@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Thu Mar 31  9:24:10 2011,RemoveCommand.java,Stefan Lay
+Thu Mar 31  9:24:10 2011,uitext.properties,Stefan Lay
+Wed Apr  6 12:16:43 2011,CloneOperation.java,Stefan Lay
+Thu Apr  7 21:39:40 2011,BranchOperationUI.java,Stefan Lay
+Wed Apr 13 14:03:11 2011,UIUtils.java,Stefan Lay
+Wed Apr 13 14:03:11 2011,RepositorySelectionPage.java,Stefan Lay
+Wed Apr 13 23:02:56 2011,CloneOperationTest.java,Stefan Lay
+Wed Apr 13 23:02:56 2011,CloneOperation.java,Stefan Lay
+Wed Apr 13 23:02:56 2011,ConfigurePushAfterCloneTask.java,Stefan Lay
+Wed Apr 13 23:02:56 2011,UIText.java,Stefan Lay
+Wed Apr 13 23:02:56 2011,GerritConfigurationPage.java,Stefan Lay
+Wed Apr 13 23:02:56 2011,GitCloneWizard.java,Stefan Lay
+Wed Apr 13 23:02:56 2011,uitext.properties,Stefan Lay
+Wed Apr 20 13:41:10 2011,SetChangeIdTask.java,Stefan Lay
+Wed Apr 20 13:41:10 2011,CommitActionTest.java,Stefan Lay
+Wed Apr 20 13:41:10 2011,PluginPreferenceInitializer.java,Stefan Lay
+Wed Apr 20 13:41:10 2011,UIPreferences.java,Stefan Lay
+Wed Apr 20 13:41:10 2011,UIText.java,Stefan Lay
+Wed Apr 20 13:41:10 2011,GitCloneWizard.java,Stefan Lay
+Wed Apr 20 13:41:10 2011,CommitDialog.java,Stefan Lay
+Wed Apr 20 13:41:10 2011,CommitDialogPreferencePage.java,Stefan Lay
+Wed Apr 20 13:41:10 2011,uitext.properties,Stefan Lay
+Wed Apr 27 13:47:39 2011,CloneOperation.java,Stefan Lay
+Wed Apr 27 13:47:39 2011,GitCloneWizard.java,Stefan Lay

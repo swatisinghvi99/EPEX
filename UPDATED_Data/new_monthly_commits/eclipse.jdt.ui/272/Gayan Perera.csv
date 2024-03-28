@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Fri Dec  8  0:19:21 2023,InvertEqualsExpressionFixCore.java,Gayan Perera
+Fri Dec  8  0:19:21 2023,QuickAssistProcessor.java,Gayan Perera
+Fri Dec  8  1:14:42 2023,AddInferredLambdaParameterTypesFixCore.java,Gayan Perera
+Fri Dec  8  1:14:42 2023,AddVarLambdaParameterTypesFixCore.java,Gayan Perera
+Fri Dec  8  1:14:42 2023,ChangeLambdaBodyToBlockFixCore.java,Gayan Perera
+Fri Dec  8  1:14:42 2023,ChangeLambdaBodyToExpressionFixCore.java,Gayan Perera
+Fri Dec  8  1:14:42 2023,ConvertLambdaToMethodReferenceFixCore.java,Gayan Perera
+Fri Dec  8  1:14:42 2023,RemoveVarOrInferredLambdaParameterTypesFixCore.java,Gayan Perera
+Fri Dec  8  1:14:42 2023,LambdaQueries.java,Gayan Perera
+Fri Dec  8  1:14:42 2023,QuickAssistProcessor.java,Gayan Perera
+Tue Jan  2 22:34:37 2024,ConvertToMessageFormatFixCore.java,Gayan Perera
+Tue Jan  2 22:34:37 2024,ConvertToStringBufferFixCore.java,Gayan Perera
+Tue Jan  2 22:34:37 2024,ConvertToStringFormatFixCore.java,Gayan Perera
+Tue Jan  2 22:34:37 2024,ConvertStringConcatenationProposals.java,Gayan Perera

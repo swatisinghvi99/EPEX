@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Wed Sep 21  8:37:02 2016,StyledTextSkin.java,Christoph Caks
+Wed Sep 21 13:42:23 2016,StyledTextBehavior.java,Christoph Caks
+Tue Sep 27 10:30:54 2016,DefaultHoverWindowPresenter.java,Christoph Caks
+Fri Oct  7 10:56:34 2016,DefaultUndoManager.java,Christoph Caks
+Fri Oct  7 10:56:34 2016,TextViewer.java,Christoph Caks
+Fri Oct  7 10:56:34 2016,TextViewerHoverManager.java,Christoph Caks
+Fri Oct  7 10:56:34 2016,LineNode.java,Christoph Caks
+Fri Oct  7 12:00:19 2016,TextViewer.java,Christoph Caks
+Fri Oct  7 12:10:10 2016,TextEditor.java,Christoph Caks
+Fri Oct  7 12:10:10 2016,TextViewer.java,Christoph Caks
+Fri Oct  7 12:45:07 2016,DefaultUndoManager.java,Christoph Caks
+Fri Oct  7 16:45:51 2016,SimpleHtmlViewer.java,Christoph Caks
+Tue Oct 11 13:05:35 2016,TextEditor.java,Christoph Caks
+Tue Oct 11 13:05:35 2016,DelegatingEditingContext.java,Christoph Caks

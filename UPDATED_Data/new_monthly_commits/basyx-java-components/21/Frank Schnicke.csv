@@ -1,0 +1,13 @@
+date_time,file,committer_name
+Mon Jul  3 13:21:12 2023,AASServerComponent.java,Frank Schnicke
+Mon Jul  3 13:21:12 2023,BaSyxAASServerConfiguration.java,Frank Schnicke
+Mon Jul  3 13:21:12 2023,TestAASXPackageManager.java,Frank Schnicke
+Mon Jul  3 13:21:12 2023,BaSyxRegistryConfiguration.java,Frank Schnicke
+Mon Jul  3 13:21:12 2023,BaSyxConfiguration.java,Frank Schnicke
+Mon Jul  3 13:21:12 2023,BaSyxContextConfiguration.java,Frank Schnicke
+Mon Jul  3 13:21:12 2023,BaSyxDockerConfiguration.java,Frank Schnicke
+Mon Jul  3 13:21:12 2023,BaSyxMongoDBConfiguration.java,Frank Schnicke
+Mon Jul  3 13:21:12 2023,BaSyxMqttConfiguration.java,Frank Schnicke
+Mon Jul  3 13:21:12 2023,BaSyxSQLConfiguration.java,Frank Schnicke
+Mon Jul  3 13:21:12 2023,BaSyxSecurityConfiguration.java,Frank Schnicke
+Mon Jul  3 13:21:12 2023,DummyBaSyxConfiguration.java,Frank Schnicke

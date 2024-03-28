@@ -1,0 +1,25 @@
+date_time,file,committer_name
+Mon Aug 20 15:23:25 2018,runtime_config.rst,Emilio
+Mon Aug 20 15:23:25 2018,QueryProperties.scala,Emilio
+Mon Aug 20 15:23:25 2018,XZ2IndexKeySpace.scala,Emilio
+Mon Aug 20 15:23:25 2018,Z2IndexKeySpace.scala,Emilio
+Mon Aug 20 15:23:25 2018,XZ3IndexKeySpace.scala,Emilio
+Mon Aug 20 15:23:25 2018,Z3IndexKeySpace.scala,Emilio
+Mon Aug 20 15:23:25 2018,geomesa-site.xml.template,Emilio
+Mon Aug 20 15:23:25 2018,GeohashUtils.scala,Emilio
+Mon Aug 20 15:23:25 2018,GeometryUtils.scala,Emilio
+Mon Sep  3 15:54:02 2018,GeometricAccessorFunctions.scala,Emilio
+Wed Sep 12  1:40:09 2018,CassandraDataStore.scala,Emilio
+Wed Sep 12  1:40:09 2018,CassandraFeatureCollection.scala,Emilio
+Wed Sep 12  1:40:58 2018,JavaTimeConverterFactory.scala,Emilio
+Wed Sep 12  1:40:58 2018,ConverterFactoriesTest.scala,Emilio
+Mon Sep 17 15:28:22 2018,runtime_config.rst,Emilio
+Mon Sep 17 15:28:22 2018,upgrade.rst,Emilio
+Mon Sep 17 15:28:22 2018,AccumuloDataStore.scala,Emilio
+Mon Sep 17 15:28:22 2018,HBaseDataStore.scala,Emilio
+Mon Sep 17 15:28:22 2018,HBaseDataStoreTest.scala,Emilio
+Mon Sep 17 15:28:22 2018,SchemaProperties.scala,Emilio
+Mon Sep 17 15:28:22 2018,GeoMesaDataStore.scala,Emilio
+Mon Sep 17 15:28:22 2018,GeoMesaSystemProperties.scala,Emilio
+Wed Sep 19 14:57:29 2018,OrcFileSystemReader.scala,Emilio
+Wed Sep 19 14:57:29 2018,OrcFileSystemWriterTest.scala,Emilio

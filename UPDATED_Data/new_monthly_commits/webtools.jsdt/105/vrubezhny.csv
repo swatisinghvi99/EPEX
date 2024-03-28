@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Wed Nov 18 14:51:59 2015,MethodOverrideTester.java,vrubezhny
+Wed Nov 18 14:54:27 2015,InferEngine.java,vrubezhny
+Wed Nov 18 14:56:47 2015,DeltaProcessor.java,vrubezhny
+Wed Nov 18 14:59:35 2015,JavaUIHelp.java,vrubezhny
+Wed Nov 18 15:04:48 2015,JavaProject.java,vrubezhny
+Wed Nov 18 15:06:22 2015,LookupEnvironment.java,vrubezhny
+Wed Nov 18 15:08:06 2015,ToggleCommentAction.java,vrubezhny
+Wed Nov 18 15:20:19 2015,SelectionRequestor.java,vrubezhny
+Wed Nov 18 15:22:52 2015,ParameterGuesser.java,vrubezhny
+Wed Nov 18 15:24:27 2015,QuickAssistProcessor.java,vrubezhny
+Wed Nov 18 15:25:24 2015,CallerMethodWrapper.java,vrubezhny
+Wed Nov 18 15:27:03 2015,CommentFormattingStrategy.java,vrubezhny
+Wed Nov 18 15:29:14 2015,Scope.java,vrubezhny
+Wed Nov 18 15:30:42 2015,RefactoringCoreMessages.java,vrubezhny
+Wed Nov 18 15:30:42 2015,refactoring.properties,vrubezhny
+Wed Nov 18 15:30:42 2015,ChangeSignatureRefactoring.java,vrubezhny

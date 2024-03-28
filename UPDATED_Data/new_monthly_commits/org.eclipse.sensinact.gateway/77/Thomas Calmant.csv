@@ -1,0 +1,19 @@
+date_time,file,committer_name
+Mon Nov  6 19:06:13 2023,pom.xml,Thomas Calmant
+Mon Nov  6 19:06:13 2023,MqttClientConfiguration.java,Thomas Calmant
+Mon Nov  6 19:06:13 2023,MqttClientHandler.java,Thomas Calmant
+Mon Nov  6 19:06:13 2023,SSLUtils.java,Thomas Calmant
+Mon Nov  6 19:06:13 2023,MqttSslAuthTest.java,Thomas Calmant
+Mon Nov  6 19:06:13 2023,.gitignore,Thomas Calmant
+Wed Nov  8 17:47:13 2023,.gitignore,Thomas Calmant
+Wed Nov  8 17:47:13 2023,MqttClientConfiguration.java,Thomas Calmant
+Wed Nov  8 17:47:13 2023,MqttClientHandler.java,Thomas Calmant
+Wed Nov  8 17:47:13 2023,PEMUtils.java,Thomas Calmant
+Wed Nov  8 17:47:13 2023,SSLUtils.java,Thomas Calmant
+Wed Nov  8 17:47:13 2023,MqttSslAuthTest.java,Thomas Calmant
+Wed Nov  8 17:47:13 2023,.gitignore,Thomas Calmant
+Fri Nov 10 16:22:58 2023,ChainedTrustManagers.java,Thomas Calmant
+Fri Nov 10 16:22:58 2023,MqttClientConfiguration.java,Thomas Calmant
+Fri Nov 10 16:22:58 2023,MqttClientHandler.java,Thomas Calmant
+Fri Nov 10 16:22:58 2023,SSLUtils.java,Thomas Calmant
+Fri Nov 10 16:22:58 2023,MqttSslAuthTest.java,Thomas Calmant

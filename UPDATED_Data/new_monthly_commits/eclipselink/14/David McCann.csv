@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Tue Sep 16 14:01:17 2008,XMLConversionManager.java,David McCann
+Tue Sep 16 19:38:17 2008,DateAndTimeTestCases.java,David McCann
+Wed Sep 17 15:23:27 2008,DataHelperConvertFromStringTest.java,David McCann
+Wed Sep 17 15:23:27 2008,DataHelperToMonthTest.java,David McCann
+Wed Sep 17 15:23:27 2008,DataHelperToMonthWithCalnTest.java,David McCann
+Fri Sep 19 16:46:47 2008,AbstractHelperDelegator.java,David McCann
+Tue Sep 23 19:01:37 2008,XMLConversionManager.java,David McCann
+Tue Sep 23 19:01:37 2008,DateAndTimeTestCases.java,David McCann
+Mon Oct  6 18:57:51 2008,AbstractHelperDelegator.java,David McCann
+Mon Oct  6 18:57:51 2008,SDOTypeHelperDelegator.java,David McCann
+Mon Oct  6 18:57:51 2008,SDOXMLHelperDelegator.java,David McCann
+Mon Oct  6 18:57:51 2008,SDOXSDHelperDelegator.java,David McCann
+Wed Oct  8 15:16:53 2008,DataHelperToCalendarTest.java,David McCann
+Wed Oct  8 15:16:53 2008,DataHelperToCalendarWithLocale.java,David McCann
+Wed Oct  8 15:16:53 2008,DataHelperToDateTest.java,David McCann
+Fri Oct 10 17:50:52 2008,SDOXSDHelperDelegate.java,David McCann
+Fri Oct 10 17:50:52 2008,SDOXSDHelperDelegator.java,David McCann

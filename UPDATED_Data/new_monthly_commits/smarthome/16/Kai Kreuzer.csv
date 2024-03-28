@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Fri Apr 24  9:19:14 2015,ThingSetupManager.java,Kai Kreuzer
+Tue Apr 28 19:33:17 2015,PointType.java,Kai Kreuzer
+Thu Apr 30 11:07:16 2015,BaseThingHandler.java,Kai Kreuzer
+Tue May  5 20:02:12 2015,itemregistry.xml,Kai Kreuzer
+Tue May  5 20:02:12 2015,ItemRegistryImpl.java,Kai Kreuzer
+Tue May  5 20:02:12 2015,GenericItem.java,Kai Kreuzer
+Tue May  5 20:02:12 2015,genericitemprovider.xml,Kai Kreuzer
+Tue May  5 20:02:12 2015,GenericItemProvider.java,Kai Kreuzer
+Thu May  7 15:18:06 2015,MDNSClientImpl.java,Kai Kreuzer

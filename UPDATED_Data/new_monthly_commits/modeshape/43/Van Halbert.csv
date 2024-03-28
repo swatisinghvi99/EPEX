@@ -1,0 +1,6 @@
+date_time,file,committer_name
+Thu Aug 25  0:05:47 2011,JcrVersionManager.java,Van Halbert
+Thu Aug 25 22:13:41 2011,FileSystemSource.java,Van Halbert
+Thu Aug 25 22:13:41 2011,FileSystemRepositoryIntegrationTest.java,Van Halbert
+Thu Aug 25 22:13:41 2011,configRepositoryForFileSystemPropValidation.xml,Van Halbert
+Thu Aug 25 22:13:41 2011,configRepositoryForModifiableFileSystem.xml,Van Halbert

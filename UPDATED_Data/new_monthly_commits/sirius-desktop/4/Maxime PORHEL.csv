@@ -1,0 +1,37 @@
+date_time,file,committer_name
+Wed Dec 11 13:12:19 2013,SequenceDiagramRepresentationsFileMigrationParticipant.java,Maxime PORHEL
+Wed Dec 11 13:12:19 2013,DiagramRepresentationsFileMigrationParticipant.java,Maxime PORHEL
+Wed Dec 11 13:12:19 2013,DiagramRepresentationsFileMigrationParticipantV670.java,Maxime PORHEL
+Wed Dec 11 13:12:19 2013,Specifying_Viewpoints.html,Maxime PORHEL
+Wed Dec 11 13:12:19 2013,Specifying_Viewpoints.textile,Maxime PORHEL
+Wed Dec 11 13:12:19 2013,Modeling Project.html,Maxime PORHEL
+Wed Dec 11 13:12:19 2013,Modeling Project.textile,Maxime PORHEL
+Wed Dec 11 13:12:19 2013,DescriptionModelWizardSpec.java,Maxime PORHEL
+Wed Dec 11 13:12:19 2013,plugin.xml,Maxime PORHEL
+Wed Dec 11 13:12:19 2013,AbstractSiriusMigrationService.java,Maxime PORHEL
+Wed Dec 11 13:12:19 2013,DefaultRepresentationsFileMigrationParticipant.java,Maxime PORHEL
+Wed Dec 11 13:12:19 2013,RepresentationsFileResourceHandler.java,Maxime PORHEL
+Wed Dec 11 13:12:19 2013,DefaultVSMMigrationParticipant.java,Maxime PORHEL
+Wed Dec 11 13:12:19 2013,VSMResourceHandler.java,Maxime PORHEL
+Wed Dec 11 13:27:59 2013,Release Notes.html,Maxime PORHEL
+Wed Dec 11 13:27:59 2013,Release Notes.textile,Maxime PORHEL
+Wed Dec 11 13:27:59 2013,contexts.xml,Maxime PORHEL
+Wed Dec 11 13:27:59 2013,viewpoint.ecore,Maxime PORHEL
+Wed Dec 11 13:27:59 2013,StylePackageImpl.java,Maxime PORHEL
+Wed Dec 11 13:27:59 2013,ToolPackageImpl.java,Maxime PORHEL
+Wed Dec 11 13:27:59 2013,DDiagramElementSynchronizer.java,Maxime PORHEL
+Thu Dec 12  8:11:49 2013,pom.xml,Maxime PORHEL
+Thu Dec 12  8:11:49 2013,feature.xml,Maxime PORHEL
+Thu Dec 12  8:11:49 2013,Release Notes.html,Maxime PORHEL
+Thu Dec 12  8:11:49 2013,Release Notes.textile,Maxime PORHEL
+Thu Dec 12  8:11:49 2013,.project,Maxime PORHEL
+Thu Dec 12  8:11:49 2013,MANIFEST.MF,Maxime PORHEL
+Thu Dec 12  8:11:49 2013,ecore.odesign,Maxime PORHEL
+Thu Dec 12  8:11:49 2013,ecore_extension.odesign,Maxime PORHEL
+Thu Dec 12  8:11:49 2013,plugin.xml,Maxime PORHEL
+Thu Dec 12  8:11:49 2013,pom.xml,Maxime PORHEL
+Thu Dec 12  8:11:49 2013,EcoreSamplePlugin.java,Maxime PORHEL
+Thu Dec 12  8:11:49 2013,CreateDynamicInstanceAction.java,Maxime PORHEL
+Thu Dec 12  8:11:49 2013,EcoreEntitiesMatchingStrategy.java,Maxime PORHEL
+Thu Dec 12  8:11:49 2013,EcoreEntitiesReadOnlyEditor.java,Maxime PORHEL
+Thu Dec 12  8:11:49 2013,SpecificContributor.java,Maxime PORHEL

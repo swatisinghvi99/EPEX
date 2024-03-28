@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Wed Jun 30  8:55:31 2010,PDECore.java,Ankur Sharma
+Wed Jun 30  8:55:31 2010,PluginModelManager.java,Ankur Sharma
+Wed Jun 30 11:31:53 2010,BuildErrorReporter.java,Ankur Sharma
+Wed Jun 30 11:31:53 2010,AddBuildEntryResolution.java,Ankur Sharma
+Wed Jun 30 11:31:53 2010,ResolutionGenerator.java,Ankur Sharma
+Wed Jun 30 11:31:53 2010,PDEQuickAssistAssistant.java,Ankur Sharma
+Wed Jun 30 18:12:27 2010,AllPDETests.java,Ankur Sharma
+Wed Jun 30 18:12:27 2010,AbstractBuildValidationTest.java,Ankur Sharma
+Wed Jun 30 18:12:27 2010,BuildPropertiesValidationTest.java,Ankur Sharma
+Wed Jun 30 19:36:39 2010,ExtensionPointsSection.java,Ankur Sharma
+Thu Jul  1  9:09:22 2010,ExtensionPointsSection.java,Ankur Sharma
+Wed Jul 14  8:02:38 2010,BuildErrorReporter.java,Ankur Sharma
+Thu Jul 15  6:04:01 2010,AbstractPluginBlock.java,Ankur Sharma
+Thu Jul 15  6:04:01 2010,FeatureBlock.java,Ankur Sharma
+Tue Jul 20 10:48:39 2010,ExtensionPointDetails.java,Ankur Sharma

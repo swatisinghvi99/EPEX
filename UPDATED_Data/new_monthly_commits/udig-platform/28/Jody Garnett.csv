@@ -1,0 +1,599 @@
+date_time,file,committer_name
+Tue Jul 10 10:34:41 2012,0 What is an Extension Point.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,00 Working with Plugins.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,01 GIS Application.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,01 Working With Features.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,02 Making a Branding Plugin.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,02 Project Map and Layer.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,03 GeoSelectionService.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,03 Making a Product and Executable.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,04 Commands.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,04 Using UDIGApplication.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,05 Style.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,06 Tools.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,06 Traditional Menus using Actions and ActionSets.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,07 Edit Tools.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,"07 New Menus based on Commands, Handlers and Key Bindings.rst",Jody Garnett
+Tue Jul 10 10:34:41 2012,08 Operations.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,09 Renderers.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,09 uDig menus using Operations and Tools.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,1 Actions.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,1 CSVService Tutorial.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,1 Code Examples.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,1 Coordinate MapGraphic.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,1 Creating a Plugin.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,1 Creating and Using Extension Points.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,1 GIS Platform.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,1 Getting Started.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,1 IAdaptable and Operations.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,1 Javadocs.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,1 SDK Quickstart.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,1 Simple Commands.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,1 UDIG Guidelines.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,1 Welcome to the Programmer's Guide.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,1 Writing JUnit Test Plugins.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,10 Adding History to Dialogs and Wizards.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,10 Interceptors.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,10 Service and GeoResource Interceptors.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,11 Adding new Format.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,11 Workbench Services.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,11 Working with SWT and JFace.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,12 Map Decorator.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,12 Working with Extension Points.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,13 Testing.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,14 Bundle a JAR up as a Plugin.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,15 How to turn stuff off.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,2 Catalog.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,2 Eclipse House Rules.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,2 Extension Point Reference.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,2 Feature Editor.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,2 NavCommand Example.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,2 Plugin Setup.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,2 Plugin Tutorial.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,2 Programmer's Guide.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,2 Shapefile Export.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,2 Support Classes.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,2 Testing.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,2 Training Materials.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,2 Why a platform.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,2 Wizards.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,2 uDig extension points list.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,3 Components and Layouts.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,3 Custom Application Tutorial.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,3 Draw Command.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,3 Edit Tool Example.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,3 Example of creating a view.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,3 Platform Architecture.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,3 Plugin Activator.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,3 Render.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,3 Tracking Changes.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,3 User Interface Guidelines.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,4 Drag and Drop.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,4 Edit Commands.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,4 Example of extending an existing perspective.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,4 Export SLD Plugin Tutorial.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,4 Guidelines and Rules.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,4 Naming Conventions.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,4 Other Reference Information.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,4 Plugin Internationalization with ResourceBundles.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,4 Style.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,4 Workbench Tutorial.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,4 Working with Eclipse RCP.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,5 Coding Conventions.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,5 Composite Commands.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,5 Example of creating a new perspective.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,5 GIS Platform Tutorials.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,5 Image Cache and Images.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,5 Operations.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,5 Reading List.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,5 Working with the GIS Platform.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,5529.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,5530.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,5531.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,6 Dependencies.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,6 GIS Application Tutorials.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,6 How to add a New Kind of DataStore.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,6 Plugin Help.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,6 Working with GIS Application.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,7 Debugging Tips.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,7 Disk to Screen Tutorials.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,7 GISPlatform Utility Classes.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,7 Plugin Classloader Use.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,7 Printing.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,8 Adding Debug Tracing Support to Your Plugin.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,9 How to Ensure a Server exists on Startup.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,API rules of engagement.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Adding Control Decorations.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Adding a Menu to uDig 1.0.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Common Plugin Files.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Community Questions.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Contents.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Coverage Tool.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Creating Singleton extensions.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Developer Questions.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Development Questions.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Drag and Drop Design.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,EMF Annotations.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Eclipse RCP Questions.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Examples.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,FAQ.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,FeatureSourceOp Tutorial.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Fonts and Imagery.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,GIS Application Questions.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,GeoTools 2.5 for uDig Developers.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Guide To EMF.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Guide to MigLayout.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Home.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How can I avoid startup dialogs when developing.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How can I display my views by default.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How can I find what maps and projects are currently available.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How can I programmatically commit changes.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How can I set up a custom splash screen.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How do I add a layer programmatically.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How do I add default key bindings to my IWorkbenchPart.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How do I configure keyboard shortcuts.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How do I create a map programmatically.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How do I get an SWT layout to display properly.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How do I make a new type of layer.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How do I turn off menus.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How is udig rendering different from geotools rendering.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How should I use a Progress Monitor.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How the heck do features and datastores fit into the picture.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How to Getting Started with Plugin Development.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How to copy an existing Plugin.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How to get geometries from layer.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How to tell when something changes.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,How to wait in the display thread.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,IAdaptable.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Icons.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Issues Framework Design.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Key Components.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Layer Summary Operation.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Login Example.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,MapInterceptor and LayerInterceptor.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,My plugins export but don't work in uDig..rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Operations Design.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Other Tutorials.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,PlugIn Structure.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Plugin Dependency.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Plugin Internationalization.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Preferred Zoom Level Application.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Providing Visual Feedback from a View.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,RCP Tutorials.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Reference.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,RenderCreation.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Requirements.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Shutdown Tasks.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Targets.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Tool View Application.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Tracking Animation.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Upgrade from 1.0 to 1.1.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Upgrade from uDig 1.1 to uDig 1.2.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,User Interface Workflow.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Using UDIGMenuBuilder.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Using WorkbenchConfigurations.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Using the UDIGWorkbenchAdvisor.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Using uDig 1.0 Application.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Welcome New Eclipse RCP Developers.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,What should I put in as the target for my operation.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Which branch to choose.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Why a platform.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,Working with Cheat Sheets.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,lcl16.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.catalog.grid.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.catalog.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.catalog.wms.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.core.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.help.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.libs.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.printing.context.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.printing.page.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.printing.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.printing.template.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.printing.wizard.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.project.context.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.project.layer.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.project.selection.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.project.ui.layerManager.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.project.ui.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.registry.ui.featureType.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.render.decorator.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.render.features.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.render.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.render.stack.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.style.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,net.refractions.udig.wms.ui.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,obj16.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,ovr16.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,tool16.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,view16.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,wizban.rst,Jody Garnett
+Tue Jul 10 10:34:41 2012,toc.xml,Jody Garnett
+Tue Jul 10 10:34:41 2012,BulkConvert.java,Jody Garnett
+Tue Jul 10 10:34:41 2012,toc.xml,Jody Garnett
+Tue Jul 10 10:34:41 2012,build.properties,Jody Garnett
+Tue Jul 10 10:34:41 2012,MANIFEST.MF,Jody Garnett
+Tue Jul 10 10:34:41 2012,GeoToolsTest.java,Jody Garnett
+Tue Jul 10 10:34:41 2012,LibsTest.java,Jody Garnett
+Tue Jul 10 10:34:41 2012,MANIFEST.MF,Jody Garnett
+Tue Jul 10 10:34:41 2012,Activator.java,Jody Garnett
+Tue Jul 10 10:34:41 2012,AddToCatalog.java,Jody Garnett
+Tue Jul 10 10:34:41 2012,MapGraphicService.java,Jody Garnett
+Thu Jul 12  8:07:01 2012,IService.java,Jody Garnett
+Thu Jul 12  8:07:01 2012,ResolveLabelProviderSimple.java,Jody Garnett
+Thu Jul 12  8:07:01 2012,IGeoResource.java,Jody Garnett
+Thu Jul 12  8:07:01 2012,IService.java,Jody Garnett
+Thu Jul 12  8:07:02 2012,CatalogUIPlugin.java,Jody Garnett
+Thu Jul 12  8:07:02 2012,CatalogPlugin.java,Jody Garnett
+Thu Jul 12  8:07:02 2012,ICatalog.java,Jody Garnett
+Thu Jul 12  8:07:02 2012,CatalogImpl.java,Jody Garnett
+Thu Jul 12  8:07:02 2012,UDIGApplication.java,Jody Garnett
+Thu Jul 12  8:07:02 2012,OffThreadProgressMonitor.java,Jody Garnett
+Thu Jul 12  8:07:02 2012,PlatformGIS.java,Jody Garnett
+Thu Jul 12  8:07:02 2012,GeoToolsDataStoreServiceTest.java,Jody Garnett
+Thu Jul 12  8:07:02 2012,ServiceExtension.java,Jody Garnett
+Thu Jul 12  8:07:02 2012,ServiceParameterPersister.java,Jody Garnett
+Thu Jul 12  8:07:02 2012,ServiceFactoryImpl.java,Jody Garnett
+Sun Jul 15 12:14:47 2012,00 Working with Plugins.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,03 GeoSelectionService.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,04 Using UDIGApplication.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,"07 New Menus based on Commands, Handlers and Key Bindings.rst",Jody Garnett
+Sun Jul 15 12:14:47 2012,08 Operations.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,1 Javadocs.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,12 Working with Extension Points.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,13 Testing.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,2 Support Classes.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,3 Components and Layouts.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,3 Plugin Activator.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,4 Guidelines and Rules.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,4 Other Reference Information.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,4 Working with Eclipse RCP.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,5 Coding Conventions.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,5 Reading List.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,5 Working with the GIS Platform.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,5529.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,5530.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,5531.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,6 Dependencies.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,6 Working with GIS Application.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,7 Disk to Screen Tutorials.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,7 Printing.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Adding a Menu to uDig 1.0.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Community Questions.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Contents.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Creating Singleton extensions.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Developer Questions.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Development Questions.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,EMF Annotations.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Eclipse RCP Questions.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Examples.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,FAQ.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,GIS Application Questions.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,GeoTools 2.5 for uDig Developers.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,GettingStarted.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Home.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,How can I avoid startup dialogs when developing.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,How can I display my views by default.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,How can I find what maps and projects are currently available.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,How can I programmatically commit changes.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,How can I set up a custom splash screen.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,How do I add a layer programmatically.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,How do I add default key bindings to my IWorkbenchPart.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,How do I create a map programmatically.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,How do I get an SWT layout to display properly.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,How do I make a new type of layer.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,How is udig rendering different from geotools rendering.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,How should I use a Progress Monitor.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,How the heck do features and datastores fit into the picture.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,How to Getting Started with Plugin Development.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,How to copy an existing Plugin.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,How to get geometries from layer.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,How to tell when something changes.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,How to wait in the display thread.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Layer Summary Operation.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,My plugins export but don't work in uDig..rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Other Tutorials.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,ProgrammersGuide.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Providing Visual Feedback from a View.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Reference.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Requirements.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Upgrade from 1.0 to 1.1.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Upgrade from uDig 1.1 to uDig 1.2.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Using uDig 1.0 Application.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,What should I put in as the target for my operation.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Which branch to choose.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,Why a platform.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,adding_history_to_dialogs_and_wizards.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,adding_new_format.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,api_rules_of_engagement.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,bundle_a_jar_up_as_a_plugin.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,catalog.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,catalog_notifications.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,code_examples.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,coding_conventions.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,commands.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,common_plugin_files.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,composite_commands.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,connect_to_a_service_on_startup.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,contents.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,coverage_tool.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,creating_a_plugin.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,creating_and_using_extension_points.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,creating_new_perspective_example.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,csv_renderer_tutorial.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,csvservice_tutorial.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,custom_application_tutorial.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,debugging_tips.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,dependencies.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,disk_to_screen_tutorials.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,drag_and_drop.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,drag_and_drop_design.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,draw_command.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,eclipse_house_rules.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,edit_commands.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,edit_tool_example.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,edit_tools.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,examples.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,export_sld_plugin_tutorial.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,extending_an_existing_perspective_example.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,extension_point_reference.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,faq.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,feature_editor_tutorial.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,featuresourceop_example.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,fonts_and_imagery.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,getting_started.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,gis_application.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,gis_application_tutorials.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,gis_platform.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,gis_platform_tutorials.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,guide_to_emf.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,guide_to_miglayout.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,guidelines_and_rules.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,how_do_i_turn_off_menus.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,how_to_turn_stuff_off.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,iadaptable.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,iadaptable_and_operations_tutorial.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,icons.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,imageregistry_and_images.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,implementing_a_service.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,index.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,interceptors.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,issues_framework_design.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,javadocs.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,jface_actions.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,jface_field_decorations.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,jface_wizards.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,key_components.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,keyboard_shortcut_example.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,lcl16.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,making_a_branding_plugin.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,making_a_product_and_executable.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,map_decorator.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,map_decorator_tutorial.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,mapinterceptor_and_layerinterceptor.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,menus_using_actions_and_actionsets.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,menus_using_commands_and_handlers.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,menus_using_operations_and_tools.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,naming_conventions.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,navcommand.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.catalog.grid.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.catalog.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.catalog.wms.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.core.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.help.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.libs.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.printing.context.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.printing.page.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.printing.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.printing.template.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.printing.wizard.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.project.context.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.project.layer.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.project.selection.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.project.ui.layerManager.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.project.ui.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.registry.ui.featureType.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.render.decorator.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.render.features.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.render.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.render.stack.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.style.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,net.refractions.udig.wms.ui.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,obj16.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,operation_examples.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,operations.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,operations_design.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,other_tutorials.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,ovr16.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,platform_architecture.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,plugin_activator.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,plugin_classloader_use.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,plugin_debug_and_tracing_support.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,plugin_dependency.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,plugin_help.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,plugin_internationalization.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,plugin_internationalization_with_resourcebundles.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,plugin_setup.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,plugin_structure.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,preferred_zoom_level_application.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,programmer_guide.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,project_map_and_layer.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,rcp_tutorials.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,reading_list.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,reference.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,render_creation.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,renderers.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,sdk_quickstart.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,service_and_georesource_interceptors.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,shapefile_export_tutorial.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,shutdown_tasks.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,simple_commands.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,style.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,style_tutorial.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,swt_and_jface_widgets.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,testing_plugins.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,testing_tutorial.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,tool16.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,tool_plugin_tutorial.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,tool_view_application.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,tools.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,tracking_animation.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,training_materials.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,udig_extension_points_list.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,udig_guidelines.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,user_interface_guidelines.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,user_interface_workflow.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,using_the_udigworkbenchadvisor.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,using_udigapplication.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,using_udigmenubuilder.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,using_workbenchconfigurations.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,utility_classes.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,view16.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,view_extension_point_example.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,welcome_new_eclipse_rcp_developers.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,welcome_to_the_programmer's_guide.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,what_is_an_extension_point.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,why_a_platform.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,wizban.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,workbench_selection_tutorial.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,workbench_services.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,working_with_cheat_sheets.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,working_with_eclipse_rcp.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,working_with_features.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,working_with_gis_application.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,working_with_the_gis_platform.rst,Jody Garnett
+Sun Jul 15 12:14:47 2012,toc.xml,Jody Garnett
+Sun Jul 15 12:14:47 2012,BulkConvert.java,Jody Garnett
+Mon Jul 16 12:44:14 2012,AbstractResolveContentProvider.java,Jody Garnett
+Mon Jul 16 12:44:14 2012,ResolveTitlesDecorator.java,Jody Garnett
+Mon Jul 16 12:44:14 2012,WMSCTileSetAdapter.java,Jody Garnett
+Mon Jul 16 12:44:14 2012,IGeoResourceInfo.java,Jody Garnett
+Mon Jul 16 12:44:14 2012,build.properties,Jody Garnett
+Mon Jul 16 12:44:14 2012,TileSetPropertyPage.java,Jody Garnett
+Tue Jul 17  7:51:27 2012,WMSCTileSetAdapter.java,Jody Garnett
+Tue Jul 17  7:51:27 2012,WMSCTileUtils.java,Jody Garnett
+Tue Jul 17  7:51:27 2012,TileSet.java,Jody Garnett
+Tue Jul 17  7:51:27 2012,TileSetPropertyPage.java,Jody Garnett
+Tue Jul 17  7:51:27 2012,BasicWMSMetricsFactory2.java,Jody Garnett
+Thu Jul 19  6:21:34 2012,DocumentView.java,Jody Garnett
+Thu Jul 19  6:21:34 2012,plugin.xml,Jody Garnett
+Thu Jul 19  6:21:34 2012,plugin.xml.orig,Jody Garnett
+Thu Jul 19  6:51:55 2012,.classpath,Jody Garnett
+Thu Jul 19  6:51:55 2012,MANIFEST.MF.orig,Jody Garnett
+Thu Jul 19  6:51:55 2012,WMSLayer.java,Jody Garnett
+Thu Jul 19  8:39:42 2012,MANIFEST.MF,Jody Garnett
+Thu Jul 19  8:39:42 2012,ShpGeoResourceImpl.java,Jody Garnett
+Thu Jul 19  8:39:42 2012,MANIFEST.MF,Jody Garnett
+Thu Jul 19  8:39:42 2012,plugin.xml,Jody Garnett
+Thu Jul 19  8:39:42 2012,AbstractShpDocumentSource.java,Jody Garnett
+Thu Jul 19  8:39:42 2012,ShpDocPropertyParser.java,Jody Garnett
+Thu Jul 19  8:39:42 2012,ShpDocumentResolveFactory.java,Jody Garnett
+Thu Jul 19  8:39:42 2012,ShpDocumentSource.java,Jody Garnett
+Thu Jul 19  8:39:42 2012,ShpHotlinkSource.java,Jody Garnett
+Thu Jul 19  8:39:42 2012,DocumentView.java,Jody Garnett
+Thu Jul 19  8:39:42 2012,Messages.java,Jody Garnett
+Fri Jul 20  1:17:27 2012,ResolveManager.java,Jody Garnett
+Fri Jul 20  1:53:52 2012,IHotlink.java,Jody Garnett
+Fri Jul 20  6:58:31 2012,IHotlink.java,Jody Garnett
+Fri Jul 20  6:58:31 2012,plugin.xml,Jody Garnett
+Fri Jul 20  6:58:31 2012,BasicHotlink.java,Jody Garnett
+Fri Jul 20  6:58:31 2012,BasicHotlinkResolveFactory.java,Jody Garnett
+Fri Jul 20  6:58:31 2012,IHotlink.java,Jody Garnett
+Fri Jul 20  6:58:31 2012,BasicHotlink.java,Jody Garnett
+Fri Jul 20  6:58:32 2012,TransformPanel.java,Jody Garnett
+Fri Jul 20  6:58:32 2012,australia.prj,Jody Garnett
+Fri Jul 20  6:58:32 2012,australia.txt,Jody Garnett
+Fri Jul 20  6:58:32 2012,readme.txt,Jody Garnett
+Fri Jul 20  7:15:38 2012,BasicHotlink.java,Jody Garnett
+Fri Jul 20 10:00:35 2012,IHotlink.java,Jody Garnett
+Fri Jul 20 10:00:35 2012,AbstractProjectTestCase.java,Jody Garnett
+Fri Jul 20 10:00:35 2012,net.refractions.udig.tool.edit.tests.launch,Jody Garnett
+Fri Jul 20 10:00:35 2012,net.refractions.udig.tool.info.tests.launch,Jody Garnett
+Fri Jul 20 10:00:35 2012,BasicHotlinkTest.java,Jody Garnett
+Fri Jul 20 10:00:35 2012,MANIFEST.MF,Jody Garnett
+Fri Jul 20 10:00:35 2012,BasicHotlink.java,Jody Garnett
+Mon Jul 23  5:03:26 2012,BasicHotlinkTest.java,Jody Garnett
+Mon Jul 23  5:03:26 2012,BasicHotlink.java,Jody Garnett
+Mon Jul 23  5:03:26 2012,BasicHotlinkResolveFactory.java,Jody Garnett
+Mon Jul 23  5:03:26 2012,HotlinkPropertyPage.java,Jody Garnett
+Tue Jul 24  4:53:50 2012,AbstractShpDocTest.java,Jody Garnett
+Tue Jul 24  4:53:50 2012,ShpDocPropertyParserTest.java,Jody Garnett
+Tue Jul 24  6:18:44 2012,IDocument.ucls,Jody Garnett
+Tue Jul 24  6:18:44 2012,IDocument.java,Jody Garnett
+Wed Jul 25  5:02:13 2012,plugin.properties,Jody Garnett
+Wed Jul 25  5:02:13 2012,plugin.xml,Jody Garnett
+Wed Jul 25  5:02:13 2012,IGeoResourcePropertiesCommandHandler.java,Jody Garnett
+Wed Jul 25  5:02:13 2012,IServicePropertiesCommandHandler.java,Jody Garnett
+Wed Jul 25  5:02:13 2012,IGeoResource.java,Jody Garnett
+Wed Jul 25  5:02:13 2012,IService.java,Jody Garnett
+Wed Jul 25  5:02:13 2012,plugin.properties,Jody Garnett
+Wed Jul 25  5:02:13 2012,plugin.xml,Jody Garnett
+Wed Jul 25  5:02:13 2012,BasicHotlink.java,Jody Garnett
+Wed Jul 25  5:02:13 2012,BasicHotlinkResolveFactory.java,Jody Garnett
+Wed Jul 25  5:02:13 2012,DocumentPropertyPage.java,Jody Garnett
+Wed Jul 25  9:57:04 2012,IHotlink.java,Jody Garnett
+Wed Jul 25  9:57:04 2012,DocumentPropertyPage.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,MANIFEST.MF,Jody Garnett
+Mon Jul 30  3:16:11 2012,IDocument.ucls,Jody Garnett
+Mon Jul 30  3:16:11 2012,DocumentSource.ucls,Jody Garnett
+Mon Jul 30  3:16:11 2012,IAbstractDocumentSource.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,IAttachmentSource.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,IDocument.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,IDocumentFolder.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,IDocumentItem.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,IDocumentSource.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,IHotlinkSource.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,ILinkInfo.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,MovedServiceExtention.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,BasicHotlinkTest.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,AbstractShpDocTest.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,ShpAttachmentSourceTest.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,ShpDocPropertyParserTest.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,ShpDocumentSourceTest.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,ShpHotlinkSourceTest.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,MANIFEST.MF,Jody Garnett
+Mon Jul 30  3:16:11 2012,BasicHotlink.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,BasicHotlinkResolveFactory.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,DocumentPropertyPage.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,AbstractDocument.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,AbstractDocumentItem.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,DocumentFactory.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,DocumentFolder.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,FileDocument.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,LinkInfo.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,URLDocument.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,AbstractShpDocumentSource.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,ShpAttachmentSource.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,ShpDocPropertyParser.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,ShpDocumentResolveFactory.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,ShpDocumentSource.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,ShpHotlinkSource.java,Jody Garnett
+Mon Jul 30  3:16:11 2012,DocumentView.java,Jody Garnett
+Mon Jul 30  5:55:24 2012,IAttachment.java,Jody Garnett
+Mon Jul 30  5:55:24 2012,IAttachmentSource.java,Jody Garnett
+Mon Jul 30  5:55:24 2012,IDocument.java,Jody Garnett
+Mon Jul 30  5:55:24 2012,IHotlink.java,Jody Garnett
+Mon Jul 30  5:55:24 2012,IHotlinkSource.java,Jody Garnett
+Mon Jul 30  5:55:24 2012,plugin.xml,Jody Garnett
+Mon Jul 30  5:55:24 2012,BasicHotlink.java,Jody Garnett
+Mon Jul 30  5:55:24 2012,AbstractDocument.java,Jody Garnett
+Mon Jul 30  5:55:24 2012,DocumentFactory.java,Jody Garnett
+Mon Jul 30  5:55:24 2012,FileDocument.java,Jody Garnett
+Mon Jul 30  5:55:24 2012,URLDocument.java,Jody Garnett
+Mon Jul 30  5:55:24 2012,DocumentView.java,Jody Garnett
+Mon Jul 30 23:42:15 2012,DocumentView.java,Jody Garnett
+Mon Jul 30 23:42:35 2012,DocumentView.java,Jody Garnett
+Sun Aug  5  1:28:28 2012,DocumentPropertyPage.java,Jody Garnett
+Mon Aug  6  6:32:10 2012,DocumentPropertyPage.java,Jody Garnett
+Mon Aug  6  6:48:22 2012,DocumentPropertyPage.java,Jody Garnett
+Mon Aug  6  6:48:22 2012,Messages.java,Jody Garnett
+Mon Aug  6  6:48:22 2012,messages.properties,Jody Garnett
+Tue Aug  7  0:41:40 2012,DocumentPropertyPage.java,Jody Garnett
+Tue Aug  7  6:55:31 2012,plugin.xml,Jody Garnett
+Tue Aug  7  6:55:31 2012,CanResolvePropertyTester.java,Jody Garnett
+Tue Aug  7  6:55:31 2012,plugin.xml,Jody Garnett
+Tue Aug  7  6:55:31 2012,DocumentPropertyPage.java,Jody Garnett
+Tue Aug  7  8:22:46 2012,plugin.xml,Jody Garnett
+Tue Aug  7  8:22:46 2012,IServicePropertiesCommandHandler.java,Jody Garnett

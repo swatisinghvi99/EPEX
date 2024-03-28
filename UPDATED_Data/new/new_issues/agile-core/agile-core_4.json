@@ -1,0 +1,32 @@
+[
+    [
+        "dpap",
+        "cskiraly",
+        1
+    ],
+    [
+        "cskiraly",
+        "dpap",
+        2
+    ],
+    [
+        "cskiraly",
+        "cskiraly",
+        1
+    ],
+    [
+        "mohamed-elsabagh",
+        "dpap",
+        1
+    ],
+    [
+        "mohamed-elsabagh",
+        "cskiraly",
+        2
+    ],
+    [
+        "mohamed-elsabagh",
+        "mohamed-elsabagh",
+        2
+    ]
+]

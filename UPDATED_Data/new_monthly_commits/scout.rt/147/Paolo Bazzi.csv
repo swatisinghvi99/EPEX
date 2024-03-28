@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Fri Mar 11  8:27:45 2022,TestComplexEntityPojo.java,Paolo Bazzi
+Fri Mar 11  8:27:45 2022,DataObjectSerializers.java,Paolo Bazzi
+Fri Mar 11  8:27:45 2022,DoBinaryResourceSerializer.java,Paolo Bazzi
+Fri Mar 11  8:27:45 2022,DoDateDeserializer.java,Paolo Bazzi
+Fri Mar 11  8:27:45 2022,DoDateSerializer.java,Paolo Bazzi
+Fri Mar 11  8:27:45 2022,DoLocaleDeserializer.java,Paolo Bazzi
+Fri Mar 11  8:27:45 2022,DoLocaleSerializer.java,Paolo Bazzi
+Fri Mar 11  8:27:45 2022,JacksonDataObjectMapper.java,Paolo Bazzi
+Fri Mar 11  8:27:45 2022,LocaleMapKeyDeserializer.java,Paolo Bazzi
+Fri Mar 11  8:27:45 2022,LocaleMapKeySerializer.java,Paolo Bazzi
+Fri Mar 11  8:27:45 2022,JerseyTestRestClientHelper.java,Paolo Bazzi
+Fri Mar 11 12:05:21 2022,JarManifestHelperTest.java,Paolo Bazzi
+Fri Mar 11 12:05:21 2022,JarManifestHelper.java,Paolo Bazzi
+Fri Mar 11 20:15:11 2022,JarManifestHelperTest.java,Paolo Bazzi
+Fri Mar 11 20:15:11 2022,JarManifestHelper.java,Paolo Bazzi
+Mon Mar 14  7:05:02 2022,JarManifestHelper.java,Paolo Bazzi
+Thu Mar 17 13:36:10 2022,ExceptionHandlerTest.java,Paolo Bazzi
+Thu Mar 17 13:36:10 2022,ExceptionHandler.java,Paolo Bazzi
+Wed Mar 23  9:30:45 2022,GroupBox.js,Paolo Bazzi

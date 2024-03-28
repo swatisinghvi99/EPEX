@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Fri Mar 31 10:54:10 2017,client.py,sashayakovtseva
+Fri Mar 31 10:54:10 2017,definitions.py,sashayakovtseva
+Fri Mar 31 10:54:10 2017,exception.py,sashayakovtseva
+Fri Mar 31 10:54:10 2017,httpclient.py,sashayakovtseva
+Fri Mar 31 10:54:10 2017,iomessage.py,sashayakovtseva
+Fri Mar 31 10:54:10 2017,listener.py,sashayakovtseva
+Fri Mar 31 10:54:10 2017,util.py,sashayakovtseva
+Fri Mar 31 10:54:10 2017,wsclient.py,sashayakovtseva
+Fri Mar 31 10:54:10 2017,byteutils.py,sashayakovtseva
+Fri Mar 31 10:54:10 2017,client.py,sashayakovtseva
+Fri Mar 31 10:54:10 2017,iomessage.py,sashayakovtseva
+Fri Mar 31 10:54:10 2017,setup.py,sashayakovtseva
+Fri Mar 31 15:59:03 2017,README.md,sashayakovtseva
+Fri Mar 31 15:59:03 2017,client.py,sashayakovtseva
+Fri Mar 31 15:59:03 2017,setup.py,sashayakovtseva
+Tue Apr  4 13:07:14 2017,README.md,sashayakovtseva
+Tue Apr  4 13:07:14 2017,wsclient.py,sashayakovtseva
+Wed Apr  5 10:08:11 2017,client.py,sashayakovtseva
+Wed Apr  5 10:08:11 2017,definitions.py,sashayakovtseva
+Wed Apr  5 10:08:11 2017,wsclient.py,sashayakovtseva
+Wed Apr  5 10:11:59 2017,setup.py,sashayakovtseva

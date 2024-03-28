@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Tue Apr 16  7:54:08 2019,HttpResourceCache.java,Ralph Steiner
+Tue Apr 16  7:54:08 2019,DevelopmentScriptfileCache.java,Ralph Steiner
+Thu May  2 15:02:53 2019,MockBeanInstanceProducer.java,Ralph Steiner
+Thu May  2 15:02:53 2019,BeansWithCircularDependenciesTest.java,Ralph Steiner
+Thu May  2 15:02:53 2019,ConcurrentBeanCreationDeadlockDetectionTest.java,Ralph Steiner
+Thu May  2 15:02:53 2019,ApplicationScoped.java,Ralph Steiner
+Thu May  2 15:02:53 2019,BeanMetaData.java,Ralph Steiner
+Thu May  2 15:02:53 2019,BeanImplementor.java,Ralph Steiner
+Thu May  2 15:02:53 2019,BeanInstanceUtil.java,Ralph Steiner
+Thu May  2 15:02:53 2019,NonSingeltonBeanInstanceProducer.java,Ralph Steiner
+Thu May  2 15:02:53 2019,SingeltonBeanInstanceProducer.java,Ralph Steiner

@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Fri Oct 23  8:03:37 2015,ELUImportConverter_1_ITest.java,Janos Binder
+Fri Oct 23  8:03:37 2015,ELUImportConverter_2_ITest.java,Janos Binder
+Fri Oct 23  8:06:04 2015,AmdisELUReader.java,Janos Binder
+Thu Oct 29 14:37:34 2015,AbstractDocument.java,Janos Binder
+Thu Oct 29 15:20:24 2015,AbstractDocument.java,Janos Binder
+Fri Oct 30  8:33:05 2015,EditInformation_2_Test.java,Janos Binder
+Fri Oct 30 13:45:26 2015,AbstractDocument.java,Janos Binder
+Mon Nov  9 17:19:39 2015,AbstractScanMSD.java,Janos Binder
+Wed Nov 11 13:55:41 2015,AbstractScanMSD.java,Janos Binder
+Wed Nov 11 16:41:59 2015,AbstractScanMSD.java,Janos Binder
+Thu Nov 12 13:58:57 2015,CosineMassSpectrumComparator.java,Janos Binder
+Fri Nov 13 15:14:59 2015,AbstractComparisonResult.java,Janos Binder
+Fri Nov 13 15:16:03 2015,AbstractScanMSD.java,Janos Binder
+Tue Nov 17 14:02:40 2015,AbstractIdentificationTarget.java,Janos Binder
+Tue Nov 17 14:02:40 2015,ExtendedComparisonResult.java,Janos Binder
+Tue Nov 17 14:02:40 2015,IExtendedComparisonResult.java,Janos Binder
+Tue Nov 17 14:02:40 2015,TargetsLabelProvider.java,Janos Binder
+Tue Nov 17 14:02:40 2015,TargetsTableComparator.java,Janos Binder
+Tue Nov 17 14:02:40 2015,AbstractTargetsView.java,Janos Binder
+Tue Nov 17 16:41:24 2015,TargetsLabelProvider.java,Janos Binder
+Tue Nov 17 16:41:24 2015,TargetsTableComparator.java,Janos Binder
+Tue Nov 17 16:41:24 2015,AbstractTargetsView.java,Janos Binder
+Thu Nov 19 11:09:00 2015,AbstractTargetsView.java,Janos Binder

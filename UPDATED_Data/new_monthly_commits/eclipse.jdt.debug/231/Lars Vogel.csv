@@ -1,0 +1,26 @@
+date_time,file,committer_name
+Wed Jul 22 10:14:52 2020,BooleanOperatorsTests.java,Lars Vogel
+Wed Jul 22 10:14:52 2020,BreakpointMarkerUpdater.java,Lars Vogel
+Wed Jul 22 10:14:52 2020,ExpressionInformationControlCreator.java,Lars Vogel
+Wed Jul 22 10:14:52 2020,BinaryBasedSourceGenerator.java,Lars Vogel
+Fri Jul 24  6:29:44 2020,BreakpointMarkerUpdater.java,Lars Vogel
+Fri Jul 24 10:07:13 2020,BooleanOperatorsTests.java,Lars Vogel
+Fri Jul 24 15:10:01 2020,JDIDebugModel.java,Lars Vogel
+Fri Jul 24 15:10:01 2020,JavaClassPrepareBreakpoint.java,Lars Vogel
+Fri Jul 24 15:10:01 2020,JavaExceptionBreakpoint.java,Lars Vogel
+Fri Jul 24 15:10:01 2020,JavaLineBreakpoint.java,Lars Vogel
+Fri Jul 24 15:10:01 2020,JavaMethodBreakpoint.java,Lars Vogel
+Fri Jul 24 15:10:01 2020,JavaMethodEntryBreakpoint.java,Lars Vogel
+Fri Jul 24 15:10:01 2020,JavaPatternBreakpoint.java,Lars Vogel
+Fri Jul 24 15:10:01 2020,JavaStratumLineBreakpoint.java,Lars Vogel
+Fri Jul 24 15:10:01 2020,JavaTargetPatternBreakpoint.java,Lars Vogel
+Fri Jul 24 15:10:01 2020,JavaWatchpoint.java,Lars Vogel
+Fri Jul 24 15:10:01 2020,JavaHotCodeReplaceManager.java,Lars Vogel
+Fri Jul 24 15:10:01 2020,JDIDebugTarget.java,Lars Vogel
+Fri Jul 24 15:10:01 2020,JDIStackFrame.java,Lars Vogel
+Fri Jul 24 15:10:01 2020,JDIThread.java,Lars Vogel
+Fri Jul 24 15:10:01 2020,JDIValue.java,Lars Vogel
+Fri Jul 24 15:10:01 2020,Timer.java,Lars Vogel
+Thu Aug  6 21:00:11 2020,SimpleDetailPane.java,Lars Vogel
+Thu Aug  6 21:00:11 2020,JDISourceViewer.java,Lars Vogel
+Tue Aug 11  8:07:09 2020,AbstractDetailPane.java,Lars Vogel

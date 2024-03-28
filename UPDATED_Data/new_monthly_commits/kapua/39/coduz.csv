@@ -1,0 +1,23 @@
+date_time,file,committer_name
+Tue Dec 17 14:36:40 2019,ArgumentValidator.java,coduz
+Tue Dec 17 14:36:40 2019,EndpointInfoServiceImpl.java,coduz
+Tue Dec 17 14:36:42 2019,TagAddDialog.java,coduz
+Tue Dec 17 14:36:42 2019,TagServiceImpl.java,coduz
+Tue Dec 17 14:36:43 2019,GroupAddDialog.java,coduz
+Tue Dec 17 14:36:43 2019,GroupServiceImpl.java,coduz
+Tue Dec 17 14:36:45 2019,RoleAddDialog.java,coduz
+Tue Dec 17 14:36:45 2019,RoleServiceImpl.java,coduz
+Tue Dec 17 14:36:46 2019,JobScheduleAddDialog.java,coduz
+Tue Dec 17 14:36:46 2019,TriggerServiceImpl.java,coduz
+Tue Dec 17 14:36:47 2019,TriggerDefinitionServiceImpl.java,coduz
+Tue Dec 17 14:36:48 2019,JobAddDialog.java,coduz
+Tue Dec 17 14:36:48 2019,JobServiceImpl.java,coduz
+Tue Dec 17 14:36:49 2019,JobStepDefinitionServiceImpl.java,coduz
+Tue Dec 17 14:36:50 2019,JobStepAddDialog.java,coduz
+Tue Dec 17 14:36:50 2019,JobStepServiceImpl.java,coduz
+Wed Jan  8  9:39:06 2020,DeviceValidation.java,coduz
+Wed Jan  8  9:39:06 2020,DeviceValidationRegex.java,coduz
+Wed Jan  8  9:39:06 2020,DeviceConnectionServiceImpl.java,coduz
+Wed Jan  8  9:39:06 2020,DeviceRegistryServiceImpl.java,coduz
+Wed Jan  8  9:39:44 2020,TextFieldValidator.java,coduz
+Wed Jan  8  9:39:44 2020,DeviceAddDialog.java,coduz

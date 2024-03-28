@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Wed Aug 29 10:35:37 2018,Workspaces.java,Igor Ohrimenko
+Mon Sep  3  9:33:09 2018,EditMachineForm.java,Igor Ohrimenko
+Mon Sep  3  9:33:09 2018,WorkspaceDetails.java,Igor Ohrimenko
+Mon Sep  3  9:33:09 2018,WorkspaceDetailsMachines.java,Igor Ohrimenko
+Mon Sep  3  9:33:09 2018,WorkspaceDetailsMachineActionsTest.java,Igor Ohrimenko
+Mon Sep  3  9:33:09 2018,WorkspaceDetailsMachinesRamTest.java,Igor Ohrimenko
+Mon Sep  3  9:33:09 2018,CheSuite.xml,Igor Ohrimenko
+Thu Sep  6 17:59:40 2018,WaitUtils.java,Igor Ohrimenko
+Thu Sep  6 17:59:40 2018,WaitSuccessConditionTest.java,Igor Ohrimenko
+Fri Sep  7  6:35:49 2018,CheckErrorsWarningsTabTest.java,Igor Ohrimenko
+Mon Sep 10  6:50:48 2018,WebExtensionResource.java,Igor Ohrimenko
+Mon Sep 10  6:50:48 2018,WebModule.java,Igor Ohrimenko
+Mon Sep 10  6:50:48 2018,es6.svg,Igor Ohrimenko
+Mon Sep 10  6:50:48 2018,jsx.svg,Igor Ohrimenko
+Mon Sep 10  6:50:48 2018,ts.svg,Igor Ohrimenko
+Mon Sep 10  7:04:37 2018,WorkspaceDetailsMachineActionsTest.java,Igor Ohrimenko
+Tue Sep 11 13:45:47 2018,EditMachineForm.java,Igor Ohrimenko
+Tue Sep 11 13:45:47 2018,Workspaces.java,Igor Ohrimenko
+Tue Sep 11 13:45:47 2018,MachinesAsynchronousStartTest.java,Igor Ohrimenko

@@ -1,0 +1,38 @@
+date_time,file,committer_name
+Tue Sep  1 12:02:16 2020,ReportManagerConstants.java,Tu Ton
+Tue Sep  1 12:02:16 2020,ConfigurationInstance.java,Tu Ton
+Tue Sep  1 12:02:16 2020,CreateXmlConfiguration.java,Tu Ton
+Tue Sep  1 12:02:16 2020,LogLevel.java,Tu Ton
+Tue Sep  1 12:02:16 2020,ObjectFactory.java,Tu Ton
+Tue Sep  1 12:02:16 2020,OutputConfiguration.java,Tu Ton
+Tue Sep  1 12:02:16 2020,ReportConfigurationFile.java,Tu Ton
+Thu Sep  3  8:51:52 2020,CategoryRegistry.java,Tu Ton
+Thu Sep  3  8:51:52 2020,migration.sysmodel.aird.linux.layout,Tu Ton
+Mon Sep 14  7:07:24 2020,GetBrotherComponents.java,Tu Ton
+Mon Sep 14  7:07:24 2020,common.odesign,Tu Ton
+Mon Sep 14  7:07:24 2020,context.odesign,Tu Ton
+Mon Sep 14  7:07:24 2020,logical.odesign,Tu Ton
+Mon Sep 14  7:07:24 2020,physical.odesign,Tu Ton
+Mon Sep 14  7:07:24 2020,CsServices.java,Tu Ton
+Mon Sep 14  7:07:24 2020,QueryIdentifierConstants.java,Tu Ton
+Mon Sep 14  7:07:24 2020,.project,Tu Ton
+Mon Sep 14  7:07:24 2020,ContextualInterface.afm,Tu Ton
+Mon Sep 14  7:07:24 2020,ContextualInterface.aird,Tu Ton
+Mon Sep 14  7:07:24 2020,ContextualInterface.melodymodeller,Tu Ton
+Mon Sep 14  7:07:24 2020,ShowHideCEIActorQuery.java,Tu Ton
+Mon Sep 14  7:07:24 2020,ShowHideCIIActorQuery.java,Tu Ton
+Mon Sep 14  7:07:24 2020,DiagramToolsStep2TestSuite.java,Tu Ton
+Mon Sep 14  7:07:24 2020,ContextualInterfaceDiagramTestSuite.java,Tu Ton
+Mon Sep 14  7:07:24 2020,SemanticBrowserView.java,Tu Ton
+Mon Sep 14  7:07:24 2020,UnsyncronizedSemanticBrowser.java,Tu Ton
+Mon Sep 14  7:07:24 2020,DiagramMiscTestSuite.java,Tu Ton
+Mon Sep 14  7:07:24 2020,CapellaSearchPage.java,Tu Ton
+Mon Sep 14  7:07:24 2020,AbstractCapellaSearchForContainerArea.java,Tu Ton
+Mon Sep 14  7:07:24 2020,CapellaLeftSearchForContainerArea.java,Tu Ton
+Mon Sep 14  7:07:24 2020,ElementDescriptionGroup.java,Tu Ton
+Mon Sep 14  7:07:24 2020,EditCapellaCustomPropertyWizardPage.java,Tu Ton
+Mon Sep 14  7:07:24 2020,ElementDescriptionGroup.java,Tu Ton
+Mon Sep 14  7:07:24 2020,DescriptionPropertySection.java,Tu Ton
+Mon Sep 14  7:07:24 2020,4.06. Properties View.html,Tu Ton
+Mon Sep 14  7:07:24 2020,4.06. Properties View.mediawiki,Tu Ton
+Mon Sep 14  7:07:24 2020,ElementDescriptionGroup.java,Tu Ton

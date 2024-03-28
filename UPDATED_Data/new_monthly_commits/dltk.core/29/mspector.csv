@@ -1,0 +1,14 @@
+date_time,file,committer_name
+Tue Jun 30 11:39:41 2009,RefactoringCoreMessages.java,mspector
+Tue Jun 30 11:39:41 2009,AbstractDeleteChange.java,mspector
+Tue Jun 30 11:39:41 2009,DeleteFileChange.java,mspector
+Tue Jun 30 11:39:41 2009,DeleteFolderChange.java,mspector
+Tue Jun 30 11:39:41 2009,DeleteProjectFragmentChange.java,mspector
+Tue Jun 30 11:39:41 2009,DeleteSourceManipulationChange.java,mspector
+Tue Jun 30 11:39:41 2009,UndoDeleteResourceChange.java,mspector
+Tue Jun 30 11:39:41 2009,refactoring.properties,mspector
+Wed Jul  8  8:22:05 2009,BuiltinProjectFragmentRequest.java,mspector
+Wed Jul  8  8:22:05 2009,IndexRequest.java,mspector
+Wed Jul  8  8:22:05 2009,ProjectRequest.java,mspector
+Wed Jul  8  8:22:05 2009,SourceModulesRequest.java,mspector
+Wed Jul  8  8:24:51 2009,Messages.java,mspector

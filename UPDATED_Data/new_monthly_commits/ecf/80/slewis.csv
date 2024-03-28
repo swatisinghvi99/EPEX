@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Mon Jul  4 18:05:53 2011,AbstractClientContainer.java,slewis
+Mon Jul  4 20:09:44 2011,MANIFEST.MF,slewis
+Mon Jul  4 20:09:44 2011,plugin.xml,slewis
+Mon Jul  4 20:09:44 2011,TrivialID.java,slewis
+Mon Jul  4 20:09:44 2011,TrivialNamespace.java,slewis
+Mon Jul  4 20:09:44 2011,TrivialContainer.java,slewis
+Mon Jul  4 20:15:05 2011,TrivialID.java,slewis
+Mon Jul  4 20:15:05 2011,TrivialNamespace.java,slewis
+Mon Jul  4 20:15:05 2011,TrivialContainerInstantiator.java,slewis
+Mon Jul  4 21:04:29 2011,.classpath,slewis
+Mon Jul  4 21:04:29 2011,.project,slewis
+Mon Jul  4 21:04:29 2011,org.eclipse.jdt.core.prefs,slewis
+Mon Jul  4 21:04:29 2011,org.eclipse.pde.core.prefs,slewis
+Mon Jul  4 21:04:29 2011,MANIFEST.MF,slewis
+Mon Jul  4 21:04:29 2011,build.properties,slewis
+Mon Jul  4 21:04:29 2011,plugin.properties,slewis
+Mon Jul  4 21:04:29 2011,plugin.xml,slewis
+Mon Jul  4 21:04:29 2011,RSExampleID.java,slewis
+Mon Jul  4 21:04:29 2011,RSExampleNamespace.java,slewis
+Mon Jul  4 21:04:29 2011,RSExampleContainer.java,slewis
+Mon Jul  4 21:04:29 2011,RSExampleContainerInstantiator.java,slewis

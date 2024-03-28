@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Mon Aug  7 14:38:43 2023,DEPENDENCIES,ndr_brt
+Mon Aug  7 14:38:43 2023,README.md,ndr_brt
+Mon Aug  7 14:38:43 2023,build.gradle.kts,ndr_brt
+Mon Aug  7 14:38:43 2023,first.properties,ndr_brt
+Mon Aug  7 14:38:43 2023,second.properties,ndr_brt
+Mon Aug  7 14:38:43 2023,third.properties,ndr_brt
+Mon Aug  7 14:38:43 2023,MultiTenantRuntime.java,ndr_brt
+Mon Aug  7 14:38:43 2023,MultiTenantRuntimeTest.java,ndr_brt
+Mon Aug  7 14:38:43 2023,tenants.properties,ndr_brt
+Mon Aug  7 14:38:43 2023,tenants.properties,ndr_brt
+Mon Aug  7 14:38:43 2023,settings.gradle.kts,ndr_brt

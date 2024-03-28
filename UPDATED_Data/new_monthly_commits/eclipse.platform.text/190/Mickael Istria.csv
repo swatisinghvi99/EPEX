@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Tue Feb 21 15:12:12 2017,MANIFEST.MF,Mickael Istria
+Tue Feb 21 15:12:12 2017,plugin.xml,Mickael Istria
+Tue Feb 21 15:12:12 2017,HoverTest.java,Mickael Istria
+Tue Feb 21 15:12:12 2017,MagicHoverProvider.java,Mickael Istria
+Tue Feb 21 15:12:12 2017,MarkerResolutionGenerator.java,Mickael Istria
+Tue Feb 21 15:12:12 2017,MANIFEST.MF,Mickael Istria
+Tue Feb 21 15:12:12 2017,plugin.xml,Mickael Istria
+Tue Feb 21 15:12:12 2017,AnnotationHoverDelegate.java,Mickael Istria
+Tue Feb 21 15:12:12 2017,ExtensionBasedTextViewerConfiguration.java,Mickael Istria
+Tue Feb 21 15:12:12 2017,OrderedExtensionComparator.java,Mickael Istria
+Tue Feb 21 15:12:12 2017,MarkerAnnotationHover.java,Mickael Istria
+Tue Feb 21 15:12:12 2017,MarkerHoverControlCreator.java,Mickael Istria
+Tue Feb 21 15:12:12 2017,MarkerInformationControl.java,Mickael Istria
+Tue Feb 21 15:12:12 2017,MarkerResoltionQuickAssistProcessor.java,Mickael Istria
+Tue Feb 21 15:12:12 2017,MarkerResolutionCompletionProposal.java,Mickael Istria
+Wed Feb 22  9:36:16 2017,ExtensionBasedTextViewerConfiguration.java,Mickael Istria
+Wed Feb 22  9:36:16 2017,MarkerInformationControl.java,Mickael Istria

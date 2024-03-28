@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Sun Sep  4 20:20:41 2022,CMakeLists.txt,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,CalypsoCardUtilAdapter.h,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,CardTransactionManagerAdapter.cpp,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,CardTransactionManagerAdapter.h,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,CmdCardSvDebit.cpp,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,CmdCardSvDebitOrUndebit.cpp,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,CmdCardSvDebitOrUndebit.h,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,CmdCardSvGet.cpp,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,CmdCardSvGet.h,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,CmdCardSvReload.cpp,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,CmdCardSvReload.h,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,CmdCardSvUndebit.h,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,CmdSamSvPrepareDebit.cpp,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,CmdSamSvPrepareDebitOrUndebit.cpp,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,CmdSamSvPrepareDebitOrUndebit.h,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,CmdSamSvPrepareUndebit.h,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,SamCommandProcessor.cpp,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,SamCommandProcessor.h,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,CalypsoCardSelectionAdapterTest.cpp,Alexandre MUNSCH
+Sun Sep  4 20:20:41 2022,CardTransactionManagerAdapterTest.cpp,Alexandre MUNSCH

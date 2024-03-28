@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Fri Jan  8 11:05:47 2016,RetentionIndexCalculator.java,Janos Binder
+Fri Jan  8 15:49:11 2016,AbstractScanMSD.java,Janos Binder
+Fri Jan  8 15:54:39 2016,MANIFEST.MF,Janos Binder
+Fri Jan  8 15:54:39 2016,RetentionIndexCalculator.java,Janos Binder
+Mon Jan 11 10:55:22 2016,IMassSpectrumIdentifier.java,Janos Binder
+Tue Jan 12 15:28:01 2016,IDocument.java,Janos Binder
+Mon Jan 18 17:09:03 2016,GaussianPeakModelMSDFactory.java,Janos Binder
+Tue Jan 19  9:50:03 2016,GaussianModelMSDFactory.java,Janos Binder
+Tue Jan 19 11:03:43 2016,GaussianPeakMSDFactory.java,Janos Binder

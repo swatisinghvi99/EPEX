@@ -1,0 +1,12 @@
+date_time,file,committer_name
+Thu Feb 25 15:21:41 2016,057-ingeststats.adoc,Eric Robertson
+Thu Feb 25 15:21:41 2016,FeatureDataAdapter.java,Eric Robertson
+Thu Feb 25 15:21:41 2016,AbstractSecondaryIndexConfiguration.java,Eric Robertson
+Thu Feb 25 15:21:41 2016,NumericSecondaryIndexConfiguration.java,Eric Robertson
+Thu Feb 25 15:21:41 2016,SimpleFeatureSecondaryIndexConfiguration.java,Eric Robertson
+Thu Feb 25 15:21:41 2016,TemporalSecondaryIndexConfiguration.java,Eric Robertson
+Thu Feb 25 15:21:41 2016,TextSecondaryIndexConfiguration.java,Eric Robertson
+Thu Feb 25 15:21:41 2016,SimpleFeatureUserDataConfigurationSet.java,Eric Robertson
+Thu Feb 25 15:21:41 2016,StatsManagerTest.java,Eric Robertson
+Thu Feb 25 15:21:41 2016,SimpleFeatureUserDataConfigurationSetTest.java,Eric Robertson
+Thu Feb 25 15:21:41 2016,statsFile.json,Eric Robertson

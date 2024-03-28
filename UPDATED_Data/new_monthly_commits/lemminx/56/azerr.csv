@@ -1,0 +1,17 @@
+date_time,file,committer_name
+Tue Jan 24 14:13:50 2023,XMLLinkedEditing.java,azerr
+Tue Jan 24 14:13:50 2023,XMLAssert.java,azerr
+Thu Feb 16 11:30:08 2023,XMLPositionUtility.java,azerr
+Thu Feb 16 11:30:08 2023,XMLSchemaDiagnosticsTest.java,azerr
+Thu Feb 16 11:30:08 2023,minLength.xsd,azerr
+Thu Feb 16 22:59:18 2023,XMLSchemaErrorCode.java,azerr
+Thu Feb 16 22:59:18 2023,XMLFileAssociationsDiagnosticsTest.java,azerr
+Wed Feb 22 19:36:37 2023,CMRelaxNGAttributeDeclaration.java,azerr
+Wed Feb 22 19:36:37 2023,CMRelaxNGDocument.java,azerr
+Wed Feb 22 19:36:37 2023,CMRelaxNGElementDeclaration.java,azerr
+Wed Feb 22 19:36:37 2023,CMAttributeDeclaration.java,azerr
+Wed Feb 22 19:36:37 2023,ContentModelCompletionParticipant.java,azerr
+Wed Feb 22 19:36:37 2023,CMDTDAttributeDeclaration.java,azerr
+Wed Feb 22 19:36:37 2023,CMXSDAttributeDeclaration.java,azerr
+Wed Feb 22 19:36:37 2023,XMLCompletionBasedOnRelaxNGTest.java,azerr
+Wed Feb 22 19:36:37 2023,docbook.rng,azerr

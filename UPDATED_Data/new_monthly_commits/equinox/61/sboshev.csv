@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Thu Nov 27 15:28:30 2008,MANIFEST.MF,sboshev
+Thu Nov 27 15:28:30 2008,Executor.java,sboshev
+Fri Nov 28 16:39:57 2008,DeclarationParser.java,sboshev
+Wed Dec  3 13:26:17 2008,FactoryReg.java,sboshev
+Wed Dec  3 13:26:17 2008,InstanceProcess.java,sboshev
+Wed Dec  3 13:26:17 2008,Resolver.java,sboshev
+Wed Dec  3 13:26:17 2008,SCRCommandProvider.java,sboshev
+Wed Dec  3 13:26:17 2008,SCRManager.java,sboshev
+Wed Dec  3 13:26:17 2008,ServiceReg.java,sboshev
+Wed Dec  3 13:26:17 2008,ComponentInstanceImpl.java,sboshev
+Wed Dec  3 13:26:17 2008,ServiceComponent.java,sboshev
+Wed Dec  3 13:26:17 2008,ServiceComponentProp.java,sboshev
+Wed Dec  3 16:10:16 2008,.options,sboshev
+Wed Dec  3 16:10:16 2008,Activator.java,sboshev
+Wed Dec  3 16:10:16 2008,InstanceProcess.java,sboshev
+Fri Dec  5 13:13:34 2008,InstanceProcess.java,sboshev
+Tue Dec 16 16:11:52 2008,InstanceProcess.java,sboshev
+Tue Dec 16 16:11:52 2008,ComponentReference.java,sboshev
+Tue Dec 16 16:11:52 2008,ServiceComponentProp.java,sboshev
+Thu Dec 18 14:26:40 2008,SCRCommandProvider.java,sboshev
+Fri Dec 19 13:16:34 2008,SCRManager.java,sboshev

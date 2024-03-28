@@ -1,0 +1,10 @@
+date_time,file,committer_name
+Mon Apr 28 15:59:22 2008,ScriptEditor.java,jcompagne
+Mon Apr 28 15:59:22 2008,SourceModuleDocumentProvider.java,jcompagne
+Mon Apr 28 16:05:20 2008,ScriptDebugOptionsManager.java,jcompagne
+Mon Apr 28 16:07:29 2008,ScriptBreakpointManager.java,jcompagne
+Mon Apr 28 16:10:48 2008,DbgpOperation.java,jcompagne
+Mon Apr 28 16:11:52 2008,ScriptDebugModel.java,jcompagne
+Tue Apr 29 13:38:32 2008,BreakpointUtils.java,jcompagne
+Tue Apr 29 13:38:33 2008,AbstractScriptBreakpoint.java,jcompagne
+Tue Apr 29 15:58:04 2008,ScriptOutlinePage.java,jcompagne

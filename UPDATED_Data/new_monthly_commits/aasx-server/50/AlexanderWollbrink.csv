@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Sun Nov 12 17:27:00 2023,build-and-publish-docker-images-release.yml,AlexanderWollbrink
+Sun Nov 12 17:27:00 2023,build-and-publish-docker-images.yml,AlexanderWollbrink
+Sun Nov 12 17:27:00 2023,check-release.yml,AlexanderWollbrink
+Sun Nov 12 17:27:00 2023,xmlization.cs,AlexanderWollbrink
+Sun Nov 12 17:27:00 2023,ExtendEmbeddedDataSpecification.cs,AlexanderWollbrink
+Sun Nov 12 17:27:00 2023,AasxServer.sln,AlexanderWollbrink
+Sun Nov 12 17:27:00 2023,AasxServerAspNetCore.csproj,AlexanderWollbrink
+Sun Nov 12 17:27:00 2023,Program.cs,AlexanderWollbrink
+Sun Nov 12 17:27:00 2023,launchSettings.json,AlexanderWollbrink
+Sun Nov 12 17:27:00 2023,Startup.cs,AlexanderWollbrink
+Sun Nov 12 17:27:00 2023,appsettings.Development.json,AlexanderWollbrink
+Sun Nov 12 17:27:00 2023,appsettings.json,AlexanderWollbrink
+Sun Nov 12 17:27:00 2023,BuildForRelease.ps1,AlexanderWollbrink
+Sun Nov 12 17:27:00 2023,IO.Swagger.Registry.Lib.V3.csproj,AlexanderWollbrink
+Sun Nov 12 17:27:00 2023,PackageRelease.ps1,AlexanderWollbrink

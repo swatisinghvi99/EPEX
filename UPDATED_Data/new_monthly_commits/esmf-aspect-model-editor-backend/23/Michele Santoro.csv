@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Wed Jan 31  8:48:11 2024,jni-config.json,Michele Santoro
+Wed Jan 31  8:48:11 2024,predefined-classes-config.json,Michele Santoro
+Wed Jan 31  8:48:11 2024,proxy-config.json,Michele Santoro
+Wed Jan 31  8:48:11 2024,reflect-config.json,Michele Santoro
+Wed Jan 31  8:48:11 2024,resource-config.json,Michele Santoro
+Wed Jan 31  8:48:11 2024,serialization-config.json,Michele Santoro
+Wed Jan 31  8:48:11 2024,pom.xml,Michele Santoro
+Wed Jan 31  8:48:11 2024,Application.java,Michele Santoro
+Wed Jan 31  8:48:11 2024,NativeImageHelpers.java,Michele Santoro
+Wed Jan 31  8:48:11 2024,Aas4jClassSetup.java,Michele Santoro
+Wed Jan 31  8:48:11 2024,DummyLoggerContextFactory.java,Michele Santoro
+Wed Jan 31  8:48:11 2024,IsLinux.java,Michele Santoro
+Wed Jan 31  8:48:11 2024,IsWindows.java,Michele Santoro
+Wed Jan 31  8:48:11 2024,Target_org_apache_logging_log4j_LogManager.java,Michele Santoro
+Wed Jan 31  8:48:11 2024,Target_org_apache_logging_log4j_util_ServiceLoaderUtil.java,Michele Santoro
+Wed Jan 31  8:48:11 2024,Target_org_eclipse_digitaltwin_aas4j_v3_dataformat_core_util_ReflectionHelper.java,Michele Santoro
+Wed Jan 31  8:48:11 2024,Target_sun_awt_FontConfiguration.java,Michele Santoro
+Wed Jan 31  8:48:11 2024,Target_sun_awt_X11FontManager.java,Michele Santoro
+Wed Jan 31  8:48:11 2024,pom.xml,Michele Santoro
+Wed Jan 31  8:48:11 2024,GenerateService.java,Michele Santoro
+Wed Jan 31  8:48:11 2024,pom.xml,Michele Santoro

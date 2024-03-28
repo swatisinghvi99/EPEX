@@ -1,0 +1,16 @@
+date_time,file,committer_name
+Thu Mar 21 17:27:31 2013,EGL.tex,lrose
+Thu Mar 21 17:27:31 2013,book2page.egl,lrose
+Thu Mar 21 17:27:31 2013,library2page.egl,lrose
+Thu Mar 21 17:27:31 2013,EglModuleElementLabelProvider.java,lrose
+Thu Mar 21 17:27:31 2013,EglDynamicSection.java,lrose
+Thu Mar 21 17:27:31 2013,EglMarkerSection.java,lrose
+Thu Mar 21 17:27:31 2013,EglSection.java,lrose
+Thu Mar 21 17:27:31 2013,EglShortcutSection.java,lrose
+Thu Mar 21 17:27:31 2013,EglStaticSection.java,lrose
+Thu Mar 21 17:27:31 2013,EglLexer.java,lrose
+Thu Mar 21 17:27:31 2013,EglParser.java,lrose
+Thu Mar 21 17:27:31 2013,EglToken.java,lrose
+Thu Mar 21 17:27:31 2013,TestEglLexer.java,lrose
+Thu Mar 21 17:27:31 2013,TestEglParser.java,lrose
+Wed Mar 27 17:11:28 2013,AbstractModule.java,lrose

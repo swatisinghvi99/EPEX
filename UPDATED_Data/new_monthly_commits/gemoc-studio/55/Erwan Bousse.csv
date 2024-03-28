@@ -1,0 +1,102 @@
+date_time,file,committer_name
+Thu Feb  3 13:20:47 2022,org.eclipse.gemoc.studio.tests.system.mwb.launch,Erwan Bousse
+Thu Feb  3 13:20:47 2022,k3fsm.odesign,Erwan Bousse
+Thu Feb  3 13:20:47 2022,MANIFEST.MF,Erwan Bousse
+Thu Feb  3 13:20:47 2022,plugin.properties,Erwan Bousse
+Thu Feb  3 13:20:47 2022,K3fsmItemProviderAdapterFactory.java,Erwan Bousse
+Thu Feb  3 13:20:47 2022,MANIFEST.MF,Erwan Bousse
+Thu Feb  3 13:20:47 2022,plugin.properties,Erwan Bousse
+Thu Feb  3 13:20:47 2022,plugin.xml,Erwan Bousse
+Thu Feb  3 13:20:47 2022,K3fsmActionBarContributor.java,Erwan Bousse
+Thu Feb  3 13:20:47 2022,K3fsmEditor.java,Erwan Bousse
+Thu Feb  3 13:20:47 2022,K3fsmModelWizard.java,Erwan Bousse
+Thu Feb  3 13:20:47 2022,MANIFEST.MF,Erwan Bousse
+Thu Feb  3 13:20:47 2022,build.properties,Erwan Bousse
+Thu Feb  3 13:20:47 2022,build.properties,Erwan Bousse
+Thu Feb  3 13:20:47 2022,plugin.xml,Erwan Bousse
+Thu Feb  3 13:20:47 2022,MANIFEST.MF,Erwan Bousse
+Thu Feb  3 13:20:47 2022,.classpath,Erwan Bousse
+Thu Feb  3 13:20:47 2022,org.eclipse.jdt.core.prefs,Erwan Bousse
+Thu Feb  3 13:20:47 2022,Launch Runtime Eclipse for K3FSM.launch,Erwan Bousse
+Thu Feb  3 13:20:47 2022,FSM.java,Erwan Bousse
+Thu Feb  3 13:20:47 2022,FSMImpl.java,Erwan Bousse
+Thu Feb  3 13:20:47 2022,K3fsmFactoryImpl.java,Erwan Bousse
+Thu Feb  3 13:20:47 2022,K3fsmPackageImpl.java,Erwan Bousse
+Thu Feb  3 13:20:47 2022,StateImpl.java,Erwan Bousse
+Thu Feb  3 13:20:47 2022,TransitionImpl.java,Erwan Bousse
+Thu Feb  3 13:20:47 2022,.classpath,Erwan Bousse
+Thu Feb  3 13:20:47 2022,org.eclipse.jdt.core.prefs,Erwan Bousse
+Thu Feb  3 13:20:47 2022,MANIFEST.MF,Erwan Bousse
+Thu Feb  3 13:20:47 2022,.classpath,Erwan Bousse
+Thu Feb  3 13:20:47 2022,org.eclipse.jdt.core.prefs,Erwan Bousse
+Thu Feb  3 13:20:47 2022,MANIFEST.MF,Erwan Bousse
+Thu Feb  3 13:20:47 2022,.classpath,Erwan Bousse
+Thu Feb  3 13:20:47 2022,org.eclipse.jdt.core.prefs,Erwan Bousse
+Thu Feb  3 13:20:47 2022,MANIFEST.MF,Erwan Bousse
+Thu Feb  3 13:20:47 2022,.classpath,Erwan Bousse
+Thu Feb  3 13:20:47 2022,org.eclipse.jdt.core.prefs,Erwan Bousse
+Thu Feb  3 13:20:47 2022,MANIFEST.MF,Erwan Bousse
+Thu Feb  3 13:20:47 2022,.classpath,Erwan Bousse
+Thu Feb  3 13:20:47 2022,org.eclipse.jdt.core.prefs,Erwan Bousse
+Thu Feb  3 13:20:47 2022,MANIFEST.MF,Erwan Bousse
+Thu Feb  3 13:20:47 2022,.classpath,Erwan Bousse
+Thu Feb  3 13:20:47 2022,org.eclipse.jdt.core.prefs,Erwan Bousse
+Thu Feb  3 13:20:47 2022,MANIFEST.MF,Erwan Bousse
+Thu Feb  3 13:20:47 2022,.classpath,Erwan Bousse
+Thu Feb  3 13:20:47 2022,org.eclipse.jdt.core.prefs,Erwan Bousse
+Thu Feb  3 13:20:47 2022,MANIFEST.MF,Erwan Bousse
+Thu Feb  3 13:20:47 2022,.classpath,Erwan Bousse
+Thu Feb  3 13:20:47 2022,org.eclipse.jdt.core.prefs,Erwan Bousse
+Thu Feb  3 13:20:47 2022,MANIFEST.MF,Erwan Bousse
+Thu Feb  3 13:20:47 2022,.classpath,Erwan Bousse
+Thu Feb  3 13:20:47 2022,org.eclipse.jdt.core.prefs,Erwan Bousse
+Thu Feb  3 13:20:47 2022,MANIFEST.MF,Erwan Bousse
+Thu Feb  3 13:20:47 2022,.classpath,Erwan Bousse
+Thu Feb  3 13:20:47 2022,org.eclipse.jdt.core.prefs,Erwan Bousse
+Thu Feb  3 13:20:47 2022,MANIFEST.MF,Erwan Bousse
+Mon Feb  7 13:57:51 2022,gemoc-studio tycho_full_compilation (linux).launch,Erwan Bousse
+Mon Feb  7 13:57:51 2022,pom.xml,Erwan Bousse
+Mon Feb  7 13:57:51 2022,DebugOfficialExampleK3FSM_Test.xtend,Erwan Bousse
+Mon Feb  7 13:57:51 2022,DeployOfficialExampleK3FSM_Test.xtend,Erwan Bousse
+Mon Feb  7 13:57:51 2022,Generate K3FSM (fsm) Language Infrastructure.launch,Erwan Bousse
+Mon Feb  7 13:57:51 2022,Launch Runtime Eclipse for K3FSM.launch,Erwan Bousse
+Mon Feb  7 13:57:51 2022,EventK3FSM - Bitshifting(0110101).launch,Erwan Bousse
+Mon Feb  7 13:57:51 2022,K3FSM- Bitshifting(0110101).launch,Erwan Bousse
+Mon Feb  7 13:57:51 2022,.project,Erwan Bousse
+Mon Feb  7 13:57:51 2022,representations.aird,Erwan Bousse
+Mon Feb  7 13:57:51 2022,BitShifting.k3fsm,Erwan Bousse
+Mon Feb  7 13:57:51 2022,EventK3FSM - EdgeDetector(01000000).launch,Erwan Bousse
+Mon Feb  7 13:57:51 2022,K3FSM- EdgeDetector(01000000).launch,Erwan Bousse
+Mon Feb  7 13:57:51 2022,.project,Erwan Bousse
+Mon Feb  7 13:57:51 2022,representations.aird,Erwan Bousse
+Mon Feb  7 13:57:51 2022,EdgeDetector.k3fsm,Erwan Bousse
+Mon Feb  7 13:57:51 2022,EventK3FSM - String.toLowercase(HELLO).launch,Erwan Bousse
+Mon Feb  7 13:57:51 2022,K3FSM- String.toLowercase(HELLO).launch,Erwan Bousse
+Mon Feb  7 13:57:51 2022,.project,Erwan Bousse
+Mon Feb  7 13:57:51 2022,representations.aird,Erwan Bousse
+Mon Feb  7 13:57:51 2022,String.toLowercase.k3fsm,Erwan Bousse
+Mon Feb  7 13:57:51 2022,EventK3FSM - String.toUpperCase(hello).launch,Erwan Bousse
+Mon Feb  7 13:57:51 2022,K3FSM- String.toUpperCase(hello).launch,Erwan Bousse
+Mon Feb  7 13:57:51 2022,.project,Erwan Bousse
+Mon Feb  7 13:57:51 2022,representations.aird,Erwan Bousse
+Mon Feb  7 13:57:51 2022,String.toUpperCase.k3fsm,Erwan Bousse
+Mon Feb  7 13:57:51 2022,EventK3FSM - ThreeStates(ab).launch,Erwan Bousse
+Mon Feb  7 13:57:51 2022,K3FSM- ThreeStates(ab).launch,Erwan Bousse
+Mon Feb  7 13:57:51 2022,.project,Erwan Bousse
+Mon Feb  7 13:57:51 2022,representations.aird,Erwan Bousse
+Mon Feb  7 13:57:51 2022,ThreeStates.k3fsmxmi,Erwan Bousse
+Mon Feb  7 13:57:51 2022,EventK3FSM - TrafficLight(ttbtttttt).launch,Erwan Bousse
+Mon Feb  7 13:57:51 2022,K3FSM- TrafficLight(ttbtttttt).launch,Erwan Bousse
+Mon Feb  7 13:57:51 2022,.project,Erwan Bousse
+Mon Feb  7 13:57:51 2022,representations.aird,Erwan Bousse
+Mon Feb  7 13:57:51 2022,TrafficLight.k3fsm,Erwan Bousse
+Mon Feb  7 13:57:51 2022,EventK3FSM - TwoStates(abababa).launch,Erwan Bousse
+Mon Feb  7 13:57:51 2022,K3FSM- TwoStates(abababa).launch,Erwan Bousse
+Mon Feb  7 13:57:51 2022,.project,Erwan Bousse
+Mon Feb  7 13:57:51 2022,representations.aird,Erwan Bousse
+Mon Feb  7 13:57:51 2022,TwoStates.k3fsm,Erwan Bousse
+Mon Feb  7 13:57:51 2022,TwoStatesUpcast.aird,Erwan Bousse
+Mon Feb  7 13:57:51 2022,MANIFEST.MF,Erwan Bousse
+Mon Feb  7 13:57:51 2022,plugin.xml,Erwan Bousse
+Mon Feb  7 13:57:51 2022,pom.xml,Erwan Bousse
+Mon Feb  7 13:57:51 2022,K3FSMExampleWizard.java,Erwan Bousse

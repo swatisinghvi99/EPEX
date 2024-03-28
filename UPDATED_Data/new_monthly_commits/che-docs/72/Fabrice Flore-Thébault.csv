@@ -1,0 +1,27 @@
+date_time,file,committer_name
+Wed Dec  7 13:32:26 2022,snip_che-technology-preview.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,nav.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,che-operator.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,che-theia-workspaces.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,creating-a-telemetry-plugin.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,dashboard.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,gateway.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,plugin-registry.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,server-components.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,the-woopra-telemetry-plugin.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,user-workspaces.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,proc_testing-che-theia-with-custom-branding.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,con_customizing-ide-selection-with-the-che-editor-file.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,proc_using-the-che-prod-editor-file-to-select-an-ide.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,adding-a-vscode-extension.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,troubleshooting-slow-workspaces.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,ref_parameters-for-che-editor-yaml.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,snip_che-authenticating-with-openshift-connector-from-a-local-instance.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,assembly_openshift-connector-overview.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,con_features-of-openshift-connector.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,proc_authenticating-with-openshift-connector-from-che.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,proc_creating-components-with-openshift-connector-in-che.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,proc_installing-openshift-connector-in-che.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,proc_providing-a-devfile.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,ref_about-hosted-che.adoc,Fabrice Flore-Thébault
+Wed Dec  7 13:32:26 2022,introduction-to-eclipse-che.adoc,Fabrice Flore-Thébault

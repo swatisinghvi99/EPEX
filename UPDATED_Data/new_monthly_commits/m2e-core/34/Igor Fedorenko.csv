@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Thu Aug 29 21:54:49 2013,MANIFEST.MF,Igor Fedorenko
+Thu Aug 29 21:54:49 2013,MavenEmbeddedRuntime.java,Igor Fedorenko
+Thu Aug 29 22:09:54 2013,MavenPluginActivator.java,Igor Fedorenko
+Thu Aug 29 22:09:54 2013,MavenEmbeddedRuntime.java,Igor Fedorenko
+Thu Sep 12  1:58:04 2013,Messages.java,Igor Fedorenko
+Thu Sep 12  1:58:04 2013,messages.properties,Igor Fedorenko
+Thu Sep 12  1:58:04 2013,AbstractLifecycleMapping.java,Igor Fedorenko
+Wed Sep 18  5:24:12 2013,MavenImages.java,Igor Fedorenko
+Wed Sep 18  5:24:12 2013,NestedProjectsComposite.java,Igor Fedorenko
+Wed Sep 18  5:24:12 2013,UpdateMavenProjectsDialog.java,Igor Fedorenko
+Wed Sep 18  5:24:12 2013,WorkingSetGroup.java,Igor Fedorenko
+Wed Sep 18  5:24:12 2013,MavenImportWizardPage.java,Igor Fedorenko
+Wed Sep 18  5:24:12 2013,MavenModuleWizardParentPage.java,Igor Fedorenko
+Wed Sep 18  5:24:12 2013,MavenProjectWizardLocationPage.java,Igor Fedorenko
+Wed Sep 18  5:24:12 2013,NestedProjectsComposite.java,Igor Fedorenko
+Wed Sep 18  5:24:13 2013,plugin.properties,Igor Fedorenko
+Wed Sep 18  5:24:13 2013,plugin.xml,Igor Fedorenko
+Wed Sep 18  5:24:13 2013,Messages.java,Igor Fedorenko
+Wed Sep 18  5:24:13 2013,AssignWorkingSetAction.java,Igor Fedorenko
+Wed Sep 18  5:24:13 2013,NestedProjectsComposite.java,Igor Fedorenko
+Wed Sep 18  5:24:13 2013,AssignWorkingSetDialog.java,Igor Fedorenko
+Wed Sep 18  5:24:13 2013,messages.properties,Igor Fedorenko
+Tue Sep 24 17:25:04 2013,MavenImportWizardPage.java,Igor Fedorenko

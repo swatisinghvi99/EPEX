@@ -1,0 +1,24 @@
+date_time,file,committer_name
+Thu Jul  9 19:53:45 2015,pom.xml,Jim Ruehlin
+Thu Jul  9 19:53:45 2015,OslcSimpleRdfJsonArrayProvider.java,Jim Ruehlin
+Thu Jul  9 19:53:45 2015,OslcSimpleRdfJsonCollectionProvider.java,Jim Ruehlin
+Mon Jul 13 20:52:16 2015,HttpConstants.java,Jim Ruehlin
+Mon Jul 13 20:52:16 2015,.project,Jim Ruehlin
+Mon Jul 13 20:52:16 2015,org.eclipse.pde.core.prefs,Jim Ruehlin
+Mon Jul 13 20:52:16 2015,org.eclipse.wst.html.core.prefs,Jim Ruehlin
+Mon Jul 13 20:52:16 2015,MANIFEST.MF,Jim Ruehlin
+Mon Jul 13 20:52:16 2015,build.properties,Jim Ruehlin
+Mon Jul 13 20:52:16 2015,org.eclipse.wst.html.core.prefs,Jim Ruehlin
+Mon Jul 13 20:52:16 2015,ResourceShapeFactory.java,Jim Ruehlin
+Mon Jul 13 20:52:16 2015,OslcSimpleRdfJsonArrayProvider.java,Jim Ruehlin
+Mon Jul 13 20:52:16 2015,OslcSimpleRdfJsonCollectionProvider.java,Jim Ruehlin
+Mon Jul 13 20:52:16 2015,org.eclipse.wst.html.core.prefs,Jim Ruehlin
+Mon Jul 13 20:52:16 2015,org.eclipse.wst.html.core.prefs,Jim Ruehlin
+Mon Jul 13 20:52:16 2015,InvalidDuplicatePropertyDefinition.java,Jim Ruehlin
+Mon Jul 13 20:52:16 2015,TestMessageBodyWriterErrorResource.java,Jim Ruehlin
+Tue Jul 14 20:59:40 2015,HttpConstants.java,Jim Ruehlin
+Tue Jul 14 20:59:40 2015,ResourceShapeFactory.java,Jim Ruehlin
+Tue Jul 14 20:59:40 2015,OslcSimpleRdfJsonArrayProvider.java,Jim Ruehlin
+Tue Jul 14 20:59:40 2015,OslcSimpleRdfJsonCollectionProvider.java,Jim Ruehlin
+Tue Jul 14 20:59:40 2015,InvalidDuplicatePropertyDefinition.java,Jim Ruehlin
+Tue Jul 14 20:59:40 2015,TestMessageBodyWriterErrorResource.java,Jim Ruehlin

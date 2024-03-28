@@ -1,0 +1,18 @@
+date_time,file,committer_name
+Sat Feb 10  8:36:26 2018,DescriptionFieldFilter.java,Andrey Loskutov
+Sat Feb 10  8:36:26 2018,MarkerContentGenerator.java,Andrey Loskutov
+Sat Feb 10  8:36:26 2018,MarkerEntry.java,Andrey Loskutov
+Sat Feb 10  8:36:26 2018,MarkerFieldFilterGroup.java,Andrey Loskutov
+Sat Feb 10  8:36:26 2018,Markers.java,Andrey Loskutov
+Sat Feb 10  8:36:26 2018,ContentGeneratorDescriptor.java,Andrey Loskutov
+Sat Feb 10  8:36:26 2018,MarkerGroup.java,Andrey Loskutov
+Sat Feb 10  8:36:26 2018,MarkerSupportRegistry.java,Andrey Loskutov
+Sun Feb 11  8:49:21 2018,MarkerCategory.java,Andrey Loskutov
+Sun Feb 11  8:49:21 2018,MarkerComparator.java,Andrey Loskutov
+Sun Feb 11  8:49:21 2018,Markers.java,Andrey Loskutov
+Sun Feb 11  8:49:21 2018,MarkerField.java,Andrey Loskutov
+Sun Feb 11  8:49:21 2018,MarkerGroup.java,Andrey Loskutov
+Sun Feb 11  8:53:57 2018,MarkerComparator.java,Andrey Loskutov
+Sun Feb 11  8:53:57 2018,MarkerCreationTimeField.java,Andrey Loskutov
+Sun Feb 11  8:53:57 2018,Markers.java,Andrey Loskutov
+Sun Feb 11 13:29:13 2018,MarkerIDField.java,Andrey Loskutov

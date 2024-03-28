@@ -1,0 +1,247 @@
+[
+    [
+        "Nathan Zimmerman",
+        "gitignore",
+        1
+    ],
+    [
+        "Nathan Zimmerman",
+        "yml",
+        1
+    ],
+    [
+        "Nathan Zimmerman",
+        "sh",
+        9
+    ],
+    [
+        "Nathan Zimmerman",
+        "sbt",
+        1
+    ],
+    [
+        "Nathan Zimmerman",
+        "scala",
+        71
+    ],
+    [
+        "Nathan Zimmerman",
+        "rst",
+        2
+    ],
+    [
+        "Nathan Zimmerman",
+        "java",
+        1
+    ],
+    [
+        "Nathan Zimmerman",
+        "xml",
+        1
+    ],
+    [
+        "Grigory",
+        "rst",
+        2
+    ],
+    [
+        "Grigory",
+        "scala",
+        6
+    ],
+    [
+        "Grigory",
+        "sh",
+        2
+    ],
+    [
+        "atararaksin",
+        "rst",
+        2
+    ],
+    [
+        "atararaksin",
+        "scala",
+        7
+    ],
+    [
+        "Eugene Cheipesh",
+        "sh",
+        21
+    ],
+    [
+        "Eugene Cheipesh",
+        "md",
+        1
+    ],
+    [
+        "Eugene Cheipesh",
+        "sbt",
+        4
+    ],
+    [
+        "Eugene Cheipesh",
+        "rst",
+        9
+    ],
+    [
+        "Eugene Cheipesh",
+        "scala",
+        736
+    ],
+    [
+        "Eugene Cheipesh",
+        "py",
+        1
+    ],
+    [
+        "Eugene Cheipesh",
+        "json",
+        3
+    ],
+    [
+        "Eugene Cheipesh",
+        "conf",
+        6
+    ],
+    [
+        "Eugene Cheipesh",
+        "AttributeStoreProvider",
+        3
+    ],
+    [
+        "Eugene Cheipesh",
+        "CollectionLayerReaderProvider",
+        2
+    ],
+    [
+        "Eugene Cheipesh",
+        "LayerReaderProvider",
+        2
+    ],
+    [
+        "Eugene Cheipesh",
+        "LayerWriterProvider",
+        2
+    ],
+    [
+        "Eugene Cheipesh",
+        "ValueReaderProvider",
+        2
+    ],
+    [
+        "Eugene Cheipesh",
+        "COGCollectionLayerReaderProvider",
+        2
+    ],
+    [
+        "Eugene Cheipesh",
+        "COGLayerReaderProvider",
+        2
+    ],
+    [
+        "Eugene Cheipesh",
+        "COGLayerWriterProvider",
+        2
+    ],
+    [
+        "Eugene Cheipesh",
+        "COGValueReaderProvider",
+        2
+    ],
+    [
+        "Andrey Tararaksin",
+        "scala",
+        1
+    ],
+    [
+        "lazy_ygy",
+        "scala",
+        1
+    ],
+    [
+        "Jacob Bouffard",
+        "scala",
+        220
+    ],
+    [
+        "Jacob Bouffard",
+        "LayerReaderProvider",
+        8
+    ],
+    [
+        "Jacob Bouffard",
+        "LayerWriterProvider",
+        8
+    ],
+    [
+        "Jacob Bouffard",
+        "conf",
+        7
+    ],
+    [
+        "Jacob Bouffard",
+        "AttributeStoreProvider",
+        8
+    ],
+    [
+        "Jacob Bouffard",
+        "CollectionLayerReaderProvider",
+        8
+    ],
+    [
+        "Jacob Bouffard",
+        "ValueReaderProvider",
+        8
+    ],
+    [
+        "Jacob Bouffard",
+        "COGLayerReaderProvider",
+        2
+    ],
+    [
+        "Jacob Bouffard",
+        "COGLayerWriterProvider",
+        2
+    ],
+    [
+        "Jacob Bouffard",
+        "java",
+        2
+    ],
+    [
+        "Jacob Bouffard",
+        "COGCollectionLayerReaderProvider",
+        2
+    ],
+    [
+        "Jacob Bouffard",
+        "COGValueReaderProvider",
+        2
+    ],
+    [
+        "Jacob Bouffard",
+        "rst",
+        2
+    ],
+    [
+        "Jacob Bouffard",
+        "RangeReaderProvider",
+        4
+    ],
+    [
+        "CloudNiner",
+        "scala",
+        34
+    ],
+    [
+        "CloudNiner",
+        "sbt",
+        2
+    ],
+    [
+        "CloudNiner",
+        "rst",
+        1
+    ]
+]

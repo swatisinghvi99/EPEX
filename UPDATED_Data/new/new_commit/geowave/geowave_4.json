@@ -1,0 +1,52 @@
+[
+    [
+        "rwgdrummer",
+        "java",
+        1
+    ],
+    [
+        "Rich Fecher",
+        "yml",
+        1
+    ],
+    [
+        "Rich Fecher",
+        "md",
+        1
+    ],
+    [
+        "Rich Fecher",
+        "xml",
+        15
+    ],
+    [
+        "Rich Fecher",
+        "java",
+        203
+    ],
+    [
+        "Rich Fecher",
+        "sld",
+        2
+    ],
+    [
+        "Rich Fecher",
+        "DataStoreFactorySpi",
+        2
+    ],
+    [
+        "Rich Fecher",
+        "ProcessFactory",
+        2
+    ],
+    [
+        "Rich Fecher",
+        "GridFormatFactorySpi",
+        1
+    ],
+    [
+        "Rich Fecher",
+        "IngestTypePluginProviderSpi",
+        1
+    ]
+]

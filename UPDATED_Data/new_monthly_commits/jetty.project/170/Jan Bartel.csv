@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Mon Apr 24  9:42:44 2023,ManagedSession.java,Jan Bartel
+Mon Apr 24  9:42:44 2023,Request.java,Jan Bartel
+Mon Apr 24 15:35:06 2023,PushBuilderImpl.java,Jan Bartel
+Fri May  5 14:58:22 2023,DefaultUserIdentity.java,Jan Bartel
+Fri May  5 14:58:22 2023,UserIdentityScope.java,Jan Bartel
+Fri May  5 14:58:22 2023,AbstractUserAuthentication.java,Jan Bartel
+Fri May  5 14:59:33 2023,ServletApiResponse.java,Jan Bartel
+Fri May  5 14:59:33 2023,ErrorPageTest.java,Jan Bartel
+Sat May  6  8:42:06 2023,ServletApiResponse.java,Jan Bartel
+Sat May  6  8:42:06 2023,ErrorPageTest.java,Jan Bartel
+Mon May  8 13:25:57 2023,ContextHandler.java,Jan Bartel
+Mon May  8 13:26:25 2023,SessionHandler.java,Jan Bartel
+Tue May  9 15:06:35 2023,DefaultAuthenticatorFactory.java,Jan Bartel
+Wed May 10 15:13:58 2023,ConstraintTest.java,Jan Bartel
+Fri May 12 15:13:57 2023,StandardDescriptorProcessor.java,Jan Bartel
+Fri May 12 15:14:44 2023,CookieCache.java,Jan Bartel
+Fri May 12 15:14:44 2023,ServletApiRequest.java,Jan Bartel
+Fri May 12 15:14:44 2023,RequestTest.java,Jan Bartel
+Fri May 12 15:14:44 2023,Request.java,Jan Bartel

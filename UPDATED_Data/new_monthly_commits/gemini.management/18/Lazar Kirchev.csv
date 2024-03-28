@@ -1,0 +1,21 @@
+date_time,file,committer_name
+Wed Nov 30  7:22:33 2011,Activator.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,Monitor.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,ConfigAdminManager.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,OSGiProperties.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,Util.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,BundleState.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,Framework.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,PackageState.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,ServiceState.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,BundleBatchActionResult.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,BundleBatchInstallResult.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,BundleBatchResult.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,OSGiBundle.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,OSGiBundleEvent.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,OSGiPackage.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,OSGiService.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,OSGiServiceEvent.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,PermissionManager.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,Provisioning.java,Lazar Kirchev
+Wed Nov 30  7:22:33 2011,UserManager.java,Lazar Kirchev

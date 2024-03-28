@@ -1,0 +1,377 @@
+[
+    [
+        "Aleksandr Shmaraiev",
+        "java",
+        26
+    ],
+    [
+        "Aleksandr Shmaraiev",
+        "xml",
+        1
+    ],
+    [
+        "Anna Shumilova",
+        "ts",
+        14
+    ],
+    [
+        "Anna Shumilova",
+        "html",
+        3
+    ],
+    [
+        "Sergii Leshchenko",
+        "java",
+        39
+    ],
+    [
+        "Sergii Leshchenko",
+        "xml",
+        2
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "java",
+        15
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "properties",
+        1
+    ],
+    [
+        "Mykhailo Kuznietsov",
+        "xml",
+        1
+    ],
+    [
+        "Sergey Skorik",
+        "java",
+        14
+    ],
+    [
+        "Sergey Skorik",
+        "xml",
+        2
+    ],
+    [
+        "Sergey Skorik",
+        "json",
+        4
+    ],
+    [
+        "Sergey Skorik",
+        "cc",
+        1
+    ],
+    [
+        "Sergey Skorik",
+        "cpp",
+        2
+    ],
+    [
+        "Sergey Skorik",
+        "h",
+        1
+    ],
+    [
+        "Max Shaposhnik",
+        "java",
+        6
+    ],
+    [
+        "Max Shaposhnik",
+        "xml",
+        2
+    ],
+    [
+        "Oleksii Orel",
+        "ts",
+        6
+    ],
+    [
+        "Oleksii Orel",
+        "html",
+        1
+    ],
+    [
+        "Roman Nikitenko",
+        "java",
+        19
+    ],
+    [
+        "Roman Nikitenko",
+        "xml",
+        2
+    ],
+    [
+        "Roman Nikitenko",
+        "properties",
+        1
+    ],
+    [
+        "Vladyslav Zhukovskyi",
+        "java",
+        13
+    ],
+    [
+        "Vladyslav Zhukovskyi",
+        "xml",
+        1
+    ],
+    [
+        "Vladyslav Zhukovskyi",
+        "properties",
+        1
+    ],
+    [
+        "Sergii Kabashniuk",
+        "java",
+        1
+    ],
+    [
+        "Anton Korneta",
+        "xml",
+        7
+    ],
+    [
+        "Anton Korneta",
+        "java",
+        11
+    ],
+    [
+        "Dmytro Nochevnov",
+        "java",
+        45
+    ],
+    [
+        "Dmytro Nochevnov",
+        "properties",
+        1
+    ],
+    [
+        "Dmytro Nochevnov",
+        "xml",
+        3
+    ],
+    [
+        "Dmytro Nochevnov",
+        "md",
+        1
+    ],
+    [
+        "Dmytro Kulieshov",
+        "java",
+        135
+    ],
+    [
+        "Dmytro Kulieshov",
+        "xml",
+        21
+    ],
+    [
+        "Ilya Buziuk",
+        "java",
+        10
+    ],
+    [
+        "Igor Vinokur",
+        "java",
+        1
+    ],
+    [
+        "Oleksii Kurinnyi",
+        "ts",
+        3
+    ],
+    [
+        "Vitalii Parfonov",
+        "java",
+        7
+    ],
+    [
+        "Oleksandr Andriienko",
+        "unknown",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "md",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "js",
+        2
+    ],
+    [
+        "Oleksandr Andriienko",
+        "conf",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "json",
+        1
+    ],
+    [
+        "Oleksandr Andriienko",
+        "sh",
+        1
+    ],
+    [
+        "Maxim Musienko",
+        "java",
+        39
+    ],
+    [
+        "Maxim Musienko",
+        "xml",
+        2
+    ],
+    [
+        "Maxim Musienko",
+        "ts",
+        2
+    ],
+    [
+        "Maxim Musienko",
+        "json",
+        2
+    ],
+    [
+        "David Festal",
+        "java",
+        33
+    ],
+    [
+        "David Festal",
+        "properties",
+        1
+    ],
+    [
+        "David Festal",
+        "ts",
+        1
+    ],
+    [
+        "David Festal",
+        "md",
+        1
+    ],
+    [
+        "David Festal",
+        "yaml",
+        3
+    ],
+    [
+        "David Festal",
+        "unknown",
+        1
+    ],
+    [
+        "David Festal",
+        "cli",
+        1
+    ],
+    [
+        "David Festal",
+        "sh",
+        1
+    ],
+    [
+        "David Festal",
+        "xml",
+        8
+    ],
+    [
+        "Igor Ohrimenko",
+        "java",
+        6
+    ],
+    [
+        "Eugene Ivantsov",
+        "yaml",
+        1
+    ],
+    [
+        "Eugene Ivantsov",
+        "sh",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "java",
+        10
+    ],
+    [
+        "Eugene Ivantsov",
+        "xml",
+        12
+    ],
+    [
+        "Eugene Ivantsov",
+        "json",
+        2
+    ],
+    [
+        "Eugene Ivantsov",
+        "svg",
+        1
+    ],
+    [
+        "Gennady Azarenkov",
+        "java",
+        66
+    ],
+    [
+        "Gennady Azarenkov",
+        "xml",
+        7
+    ],
+    [
+        "Oleksandr Garagatyi",
+        "java",
+        35
+    ],
+    [
+        "Oleksandr Garagatyi",
+        "properties",
+        1
+    ],
+    [
+        "Oleksandr Garagatyi",
+        "yaml",
+        3
+    ],
+    [
+        "i300543",
+        "properties",
+        1
+    ],
+    [
+        "i300543",
+        "yaml",
+        4
+    ],
+    [
+        "i300543",
+        "java",
+        4
+    ],
+    [
+        "Josh Pinkney",
+        "java",
+        1
+    ],
+    [
+        "RomanNikitenko",
+        "java",
+        2
+    ],
+    [
+        "RomanNikitenko",
+        "properties",
+        1
+    ]
+]

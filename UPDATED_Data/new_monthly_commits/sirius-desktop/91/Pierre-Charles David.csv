@@ -1,0 +1,34 @@
+date_time,file,committer_name
+Tue Mar  9  8:19:38 2021,SessionDetailsReport.java,Pierre-Charles David
+Tue Mar  9  8:21:48 2021,StyleHelper.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,DiagramDialectUIServices.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,AbstractDiagramBorderNodeEditPart.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,AbstractDiagramEdgeEditPart.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,AbstractDiagramElementContainerEditPart.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,CommonEditPartOperation.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,DNode2EditPart.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,DNode3EditPart.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,DNode4EditPart.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,DNodeEditPart.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,DNodeListElementEditPart.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,DNodeNameEditPart.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,DiagramEditPartService.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,SiriusDBorderedNodeFigure.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,AnnotatedSVGShape.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,SiriusDiagramImageGenerator.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,SiriusDiagramSVGGenerator.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,SiriusGraphicsSVG.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,SiriusRenderedMapModeGraphics.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,Release_Notes.html,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,Release_Notes.textile,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,Sirius Developer Manual.html,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,Sirius Developer Manual.textile,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,export_svg_traceability.html,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,export_svg_traceability.textile,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,My.aird,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,My.ecore,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,My.odesign,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,ExportAsImageTest.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,ExportFormat.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,SiriusUIPreferencesKeys.java,Pierre-Charles David
+Wed Mar 31 13:23:30 2021,ExportAction.java,Pierre-Charles David

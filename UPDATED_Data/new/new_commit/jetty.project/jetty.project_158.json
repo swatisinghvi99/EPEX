@@ -1,0 +1,292 @@
+[
+    [
+        "Greg Wilkins",
+        "java",
+        9040
+    ],
+    [
+        "Greg Wilkins",
+        "txt",
+        325
+    ],
+    [
+        "Greg Wilkins",
+        "properties",
+        269
+    ],
+    [
+        "Greg Wilkins",
+        "xml",
+        1290
+    ],
+    [
+        "Greg Wilkins",
+        "svg",
+        7
+    ],
+    [
+        "Greg Wilkins",
+        "HttpServerProvider",
+        4
+    ],
+    [
+        "Greg Wilkins",
+        "HttpFieldPreEncoder",
+        7
+    ],
+    [
+        "Greg Wilkins",
+        "json",
+        96
+    ],
+    [
+        "Greg Wilkins",
+        "mod",
+        272
+    ],
+    [
+        "Greg Wilkins",
+        "puml",
+        15
+    ],
+    [
+        "Greg Wilkins",
+        "password",
+        2
+    ],
+    [
+        "Greg Wilkins",
+        "css",
+        22
+    ],
+    [
+        "Greg Wilkins",
+        "SLF4JServiceProvider",
+        2
+    ],
+    [
+        "Greg Wilkins",
+        "MF",
+        4
+    ],
+    [
+        "Greg Wilkins",
+        "Extension",
+        2
+    ],
+    [
+        "Greg Wilkins",
+        "dtd",
+        10
+    ],
+    [
+        "Greg Wilkins",
+        "Authenticator$Factory",
+        9
+    ],
+    [
+        "Greg Wilkins",
+        "md",
+        10
+    ],
+    [
+        "Greg Wilkins",
+        "ServletContainerInitializer",
+        27
+    ],
+    [
+        "Greg Wilkins",
+        "Configuration",
+        32
+    ],
+    [
+        "Greg Wilkins",
+        "html",
+        85
+    ],
+    [
+        "Greg Wilkins",
+        "groovy",
+        46
+    ],
+    [
+        "Greg Wilkins",
+        "js",
+        12
+    ],
+    [
+        "Greg Wilkins",
+        "sha1",
+        57
+    ],
+    [
+        "Greg Wilkins",
+        "jsp",
+        64
+    ],
+    [
+        "Greg Wilkins",
+        "ContainerProvider",
+        3
+    ],
+    [
+        "Greg Wilkins",
+        "ServerEndpointConfig$Configurator",
+        3
+    ],
+    [
+        "Greg Wilkins",
+        "sha",
+        12
+    ],
+    [
+        "Greg Wilkins",
+        "ExtensionConfig$Parser",
+        3
+    ],
+    [
+        "Greg Wilkins",
+        "yaml",
+        3
+    ],
+    [
+        "Greg Wilkins",
+        "proto",
+        2
+    ],
+    [
+        "Greg Wilkins",
+        "unknown",
+        47
+    ],
+    [
+        "Greg Wilkins",
+        "Log",
+        3
+    ],
+    [
+        "Greg Wilkins",
+        "xslt",
+        2
+    ],
+    [
+        "Greg Wilkins",
+        "sh",
+        12
+    ],
+    [
+        "Greg Wilkins",
+        "providers",
+        3
+    ],
+    [
+        "Greg Wilkins",
+        "script",
+        3
+    ],
+    [
+        "Greg Wilkins",
+        "adoc",
+        60
+    ],
+    [
+        "Greg Wilkins",
+        "tld",
+        10
+    ],
+    [
+        "Greg Wilkins",
+        "tag",
+        5
+    ],
+    [
+        "Greg Wilkins",
+        "ALPNProcessor$Client",
+        4
+    ],
+    [
+        "Greg Wilkins",
+        "ALPNProcessor$Server",
+        4
+    ],
+    [
+        "Greg Wilkins",
+        "QuicheBinding",
+        4
+    ],
+    [
+        "Greg Wilkins",
+        "ini",
+        18
+    ],
+    [
+        "Greg Wilkins",
+        "sql",
+        6
+    ],
+    [
+        "Greg Wilkins",
+        "conf",
+        1
+    ],
+    [
+        "Greg Wilkins",
+        "jmx",
+        1
+    ],
+    [
+        "Jan Bartel",
+        "xml",
+        43
+    ],
+    [
+        "Jan Bartel",
+        "java",
+        220
+    ],
+    [
+        "Jan Bartel",
+        "properties",
+        13
+    ],
+    [
+        "Jan Bartel",
+        "yaml",
+        1
+    ],
+    [
+        "Lachlan Roberts",
+        "java",
+        56
+    ],
+    [
+        "Joakim Erdfelt",
+        "java",
+        1
+    ],
+    [
+        "dependabot[bot]",
+        "xml",
+        2
+    ],
+    [
+        "dependabot[bot]",
+        "java",
+        1
+    ],
+    [
+        "Simone Bordet",
+        "java",
+        2
+    ],
+    [
+        "markslater",
+        "java",
+        2
+    ],
+    [
+        "Lachlan",
+        "java",
+        4
+    ]
+]

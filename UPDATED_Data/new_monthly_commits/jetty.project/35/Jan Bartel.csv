@@ -1,0 +1,22 @@
+date_time,file,committer_name
+Tue Jan 17 20:41:16 2012,Dispatcher.java,Jan Bartel
+Thu Jan 19 21:01:35 2012,FormAuthModule.java,Jan Bartel
+Thu Feb  9  8:21:10 2012,HashSessionManager.java,Jan Bartel
+Fri Feb 10  1:28:44 2012,AbstractClientCrossContextSessionTest.java,Jan Bartel
+Fri Feb 10  1:28:44 2012,AbstractImmortalSessionTest.java,Jan Bartel
+Fri Feb 10  1:28:44 2012,AbstractLastAccessTimeTest.java,Jan Bartel
+Fri Feb 10  1:28:44 2012,AbstractOrphanedSessionTest.java,Jan Bartel
+Fri Feb 10  1:28:44 2012,AbstractReentrantRequestSessionTest.java,Jan Bartel
+Fri Feb 10  3:19:13 2012,pom.xml,Jan Bartel
+Fri Feb 10  3:19:13 2012,pom.xml,Jan Bartel
+Fri Feb 10  3:19:13 2012,ClientCrossContextSessionTest.java,Jan Bartel
+Fri Feb 10  3:19:13 2012,LastAccessTimeTest.java,Jan Bartel
+Fri Feb 10  3:19:13 2012,LightLoadTest.java,Jan Bartel
+Fri Feb 10  3:19:13 2012,NewSessionTest.java,Jan Bartel
+Fri Feb 10  3:19:13 2012,OrphanedSessionTest.java,Jan Bartel
+Fri Feb 10  3:19:13 2012,ReentrantRequestSessionTest.java,Jan Bartel
+Fri Feb 10  3:19:13 2012,RemoveSessionTest.java,Jan Bartel
+Fri Feb 10  3:19:13 2012,ServerCrossContextSessionTest.java,Jan Bartel
+Fri Feb 10  3:19:13 2012,realm.properties,Jan Bartel
+Fri Feb 10  5:01:17 2012,MongoTestServer.java,Jan Bartel
+Fri Feb 10  5:01:17 2012,AbstractClientCrossContextSessionTest.java,Jan Bartel

@@ -1,0 +1,20 @@
+date_time,file,committer_name
+Wed Aug 18 12:11:53 2010,ModuleNavigationListener.java,Steffen Kriese
+Wed Aug 18 12:11:53 2010,ModuleView.java,Steffen Kriese
+Thu Aug 19  7:00:21 2010,TableSubModuleController.java,Steffen Kriese
+Thu Aug 19  7:00:21 2010,TraverseSubModuleController.java,Steffen Kriese
+Thu Aug 19  7:00:21 2010,TableSubModuleView.java,Steffen Kriese
+Thu Aug 19  7:00:21 2010,TraverseSubModuleView.java,Steffen Kriese
+Thu Aug 19  7:00:21 2010,IStatusMeterRidget.java,Steffen Kriese
+Thu Aug 19  7:00:21 2010,StatusMeter.java,Steffen Kriese
+Thu Aug 19  7:00:21 2010,StatusMeterWidget.java,Steffen Kriese
+Thu Aug 19  7:00:21 2010,LnfKeyConstants.java,Steffen Kriese
+Thu Aug 19  7:00:21 2010,RienaDefaultTheme.java,Steffen Kriese
+Thu Aug 19  7:00:21 2010,UIControlsFactory.java,Steffen Kriese
+Thu Aug 19  9:46:01 2010,StatusMeterRidget.java,Steffen Kriese
+Thu Aug 19  9:46:01 2010,SwtControlRidgetMapper.java,Steffen Kriese
+Tue Aug 24  8:33:56 2010,StatusMeterRidget.java,Steffen Kriese
+Tue Aug 24 11:41:57 2010,GCFacadeRCP.java,Steffen Kriese
+Tue Aug 24 11:41:57 2010,StatusMeter.java,Steffen Kriese
+Tue Aug 24 11:41:57 2010,StatusMeterWidget.java,Steffen Kriese
+Tue Aug 24 11:41:57 2010,GCFacade.java,Steffen Kriese

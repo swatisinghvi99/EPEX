@@ -1,0 +1,377 @@
+[
+    [
+        "Genevi\u00e8ve Bastien",
+        "java",
+        51
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "xml",
+        3
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "prefs",
+        1
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "MF",
+        3
+    ],
+    [
+        "Genevi\u00e8ve Bastien",
+        "properties",
+        3
+    ],
+    [
+        "Alexander Kurtakov",
+        "java",
+        813
+    ],
+    [
+        "Alexander Kurtakov",
+        "prefs",
+        29
+    ],
+    [
+        "Alexander Kurtakov",
+        "properties",
+        6
+    ],
+    [
+        "Alexander Kurtakov",
+        "MF",
+        8
+    ],
+    [
+        "Alexander Kurtakov",
+        "xml",
+        5
+    ],
+    [
+        "Alexander Kurtakov",
+        "classpath",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "gitignore",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "project",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "html",
+        1
+    ],
+    [
+        "Alexander Kurtakov",
+        "exsd",
+        1
+    ],
+    [
+        "Alexandre Montplaisir",
+        "java",
+        463
+    ],
+    [
+        "Alexandre Montplaisir",
+        "MF",
+        28
+    ],
+    [
+        "Alexandre Montplaisir",
+        "xml",
+        30
+    ],
+    [
+        "Alexandre Montplaisir",
+        "properties",
+        23
+    ],
+    [
+        "Alexandre Montplaisir",
+        "classpath",
+        5
+    ],
+    [
+        "Alexandre Montplaisir",
+        "gitignore",
+        14
+    ],
+    [
+        "Alexandre Montplaisir",
+        "project",
+        11
+    ],
+    [
+        "Alexandre Montplaisir",
+        "prefs",
+        86
+    ],
+    [
+        "Alexandre Montplaisir",
+        "html",
+        5
+    ],
+    [
+        "Alexandre Montplaisir",
+        "inf",
+        3
+    ],
+    [
+        "Alexandre Montplaisir",
+        "mediawiki",
+        1
+    ],
+    [
+        "Alexandre Montplaisir",
+        "options",
+        2
+    ],
+    [
+        "Alexandre Montplaisir",
+        "product",
+        1
+    ],
+    [
+        "Patrick Tasse",
+        "java",
+        68
+    ],
+    [
+        "Patrick Tasse",
+        "properties",
+        4
+    ],
+    [
+        "Patrick Tasse",
+        "xml",
+        1
+    ],
+    [
+        "Greg Watson",
+        "java",
+        1
+    ],
+    [
+        "Florian Wininger",
+        "java",
+        17
+    ],
+    [
+        "Florian Wininger",
+        "xml",
+        2
+    ],
+    [
+        "Florian Wininger",
+        "xsd",
+        2
+    ],
+    [
+        "Florian Wininger",
+        "MF",
+        1
+    ],
+    [
+        "Florian Wininger",
+        "properties",
+        2
+    ],
+    [
+        "Roland Grunberg",
+        "MF",
+        10
+    ],
+    [
+        "Roland Grunberg",
+        "xml",
+        11
+    ],
+    [
+        "Roland Grunberg",
+        "java",
+        28
+    ],
+    [
+        "Roland Grunberg",
+        "properties",
+        2
+    ],
+    [
+        "Roland Grunberg",
+        "prefs",
+        1
+    ],
+    [
+        "Andrew Ferrazzutti",
+        "java",
+        1309
+    ],
+    [
+        "Andrew Ferrazzutti",
+        "properties",
+        18
+    ],
+    [
+        "Andrew Ferrazzutti",
+        "MF",
+        6
+    ],
+    [
+        "Andrew Ferrazzutti",
+        "xml",
+        116
+    ],
+    [
+        "Marc-Andre Laperle",
+        "java",
+        23
+    ],
+    [
+        "Marc-Andre Laperle",
+        "xml",
+        1
+    ],
+    [
+        "Marc-Andre Laperle",
+        "MF",
+        4
+    ],
+    [
+        "Marc-Andre Laperle",
+        "properties",
+        1
+    ],
+    [
+        "Matthew Khouzam",
+        "java",
+        128
+    ],
+    [
+        "Matthew Khouzam",
+        "xml",
+        2
+    ],
+    [
+        "Matthew Khouzam",
+        "gitignore",
+        1
+    ],
+    [
+        "Matthew Khouzam",
+        "prefs",
+        1
+    ],
+    [
+        "Matthew Khouzam",
+        "MF",
+        4
+    ],
+    [
+        "Matthew Khouzam",
+        "properties",
+        3
+    ],
+    [
+        "Mathieu Rail",
+        "java",
+        14
+    ],
+    [
+        "Mathieu Rail",
+        "xml",
+        1
+    ],
+    [
+        "Fran\u00e7ois Rajotte",
+        "MF",
+        1
+    ],
+    [
+        "Fran\u00e7ois Rajotte",
+        "properties",
+        1
+    ],
+    [
+        "Fran\u00e7ois Rajotte",
+        "xml",
+        1
+    ],
+    [
+        "Fran\u00e7ois Rajotte",
+        "java",
+        3
+    ],
+    [
+        "Guilliano Molaire",
+        "MF",
+        7
+    ],
+    [
+        "Guilliano Molaire",
+        "java",
+        21
+    ],
+    [
+        "Guilliano Molaire",
+        "lttng",
+        2
+    ],
+    [
+        "Guilliano Molaire",
+        "properties",
+        2
+    ],
+    [
+        "Guilliano Molaire",
+        "xsd",
+        1
+    ],
+    [
+        "Bernd Hufmann",
+        "java",
+        10
+    ],
+    [
+        "Bernd Hufmann",
+        "xml",
+        3
+    ],
+    [
+        "Bernd Hufmann",
+        "mediawiki",
+        2
+    ],
+    [
+        "Bernd Hufmann",
+        "properties",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "devhelp2",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "html",
+        2
+    ],
+    [
+        "Jeff Johnston",
+        "css",
+        1
+    ],
+    [
+        "Jeff Johnston",
+        "java",
+        3
+    ]
+]

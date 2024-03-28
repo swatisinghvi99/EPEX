@@ -1,0 +1,15 @@
+date_time,file,committer_name
+Wed Jan 17 20:08:56 2018,README.md,Fred Bricon
+Wed Jan 17 20:08:56 2018,.classpath,Fred Bricon
+Wed Jan 17 20:08:56 2018,MANIFEST.MF,Fred Bricon
+Wed Jan 17 20:08:56 2018,build.properties,Fred Bricon
+Wed Jan 17 20:08:56 2018,pom.xml,Fred Bricon
+Wed Jan 17 20:08:56 2018,ConnectionStreamFactory.java,Fred Bricon
+Wed Jan 17 20:08:56 2018,ConnectionStreamFactoryTest.java,Fred Bricon
+Fri Jan 26  1:00:14 2018,CompletionProposalRequestor.java,Fred Bricon
+Fri Jan 26  1:00:14 2018,.classpath,Fred Bricon
+Fri Jan 26  1:00:14 2018,AbstractTest.java,Fred Bricon
+Fri Jan 26  1:00:14 2018,BaseTest.java,Fred Bricon
+Fri Jan 26  1:00:14 2018,CompletionHandlerTest.java,Fred Bricon
+Fri Jan 26  1:00:14 2018,WorkspaceSymbolHandlerTest.java,Fred Bricon
+Mon Feb  5  5:24:39 2018,MavenClasspathTest.java,Fred Bricon

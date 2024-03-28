@@ -1,0 +1,9 @@
+date_time,file,committer_name
+Mon Jan 24 19:27:28 2005,PluginResources.properties,Sean Evoy
+Mon Jan 24 19:27:28 2005,BuildToolSettingsPage.java,Sean Evoy
+Mon Jan 24 19:27:28 2005,ManageConfigDialog.java,Sean Evoy
+Mon Jan 24 19:27:28 2005,NewConfigurationDialog.java,Sean Evoy
+Tue Jan 25 20:28:15 2005,DefaultGCCDependencyCalculator.java,Sean Evoy
+Tue Jan 25 20:28:15 2005,GnuMakefileGenerator.java,Sean Evoy
+Wed Jan 26 22:31:15 2005,DefaultGCCDependencyCalculator.java,Sean Evoy
+Wed Jan 26 22:31:15 2005,GnuMakefileGenerator.java,Sean Evoy

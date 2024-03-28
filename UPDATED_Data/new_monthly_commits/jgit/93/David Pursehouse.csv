@@ -1,0 +1,11 @@
+date_time,file,committer_name
+Thu Jun  8 20:45:33 2017,CloneCommand.java,David Pursehouse
+Sun Jun 11 10:24:12 2017,CLIText.properties,David Pursehouse
+Sun Jun 11 10:24:12 2017,AbstractFetchCommand.java,David Pursehouse
+Sun Jun 11 10:24:12 2017,Fetch.java,David Pursehouse
+Sun Jun 11 10:24:12 2017,CLIText.java,David Pursehouse
+Sun Jun 11 10:24:12 2017,FetchCommand.java,David Pursehouse
+Sun Jun 11 10:24:12 2017,SubmoduleConfig.java,David Pursehouse
+Thu Jun 15 20:29:26 2017,SubmoduleConfigTest.java,David Pursehouse
+Fri Jun 16  3:52:31 2017,FetchCommand.java,David Pursehouse
+Fri Jun 16  3:52:31 2017,PullCommand.java,David Pursehouse
